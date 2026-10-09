@@ -93,5 +93,12 @@ class MaxTests(unittest.TestCase):
                 self.assertEqual(json.loads(state.read_text()), [pick['link']] if success else [])
 
 
+    def test_find_chats_from_updates(self):
+        replies = [{'updates': [{'update_type': 'bot_added', 'chat_id': -77}, {'update_type': 'message_created',
+                    'message': {'recipient': {'chat_id': -77}}}, {'update_type': 'bot_added', 'chat_id': -88}]},
+                   {'type': 'channel', 'title': 'СтопКадр'}, {'type': 'chat', 'title': 'Другой'}]
+        with patch.object(mx, 'api', side_effect=replies):
+            self.assertEqual(mx.find_chats(), [-77, -88])
+
 if __name__ == '__main__':
     unittest.main()

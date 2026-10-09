@@ -8,10 +8,10 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: 'Проверить подключение или опубликовать новость'
+        description: 'find — узнать ID канала; check — проверить подключение; publish — опубликовать новость'
         type: choice
         default: check
-        options: [check, publish]
+        options: [check, publish, find]
 permissions:
   contents: write
 concurrency:
@@ -33,6 +33,11 @@ jobs:
       - run: python -m pip install -r requirements.txt
       - name: Проверить код MAX
         run: python -m unittest -v test_max.py
+      - name: Узнать ID канала
+        if: github.event_name == 'workflow_dispatch' && inputs.mode == 'find'
+        env:
+          MAX_BOT_TOKEN: ${{ secrets.MAX_BOT_TOKEN }}
+        run: python max_post.py --find-chat
       - name: Проверить бота и канал
         if: github.event_name == 'workflow_dispatch' && inputs.mode == 'check'
         env:

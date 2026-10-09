@@ -82,6 +82,27 @@ def check_channel():
     return cid
 
 
+def find_chats():
+    """Показывает ID каналов и чатов из недавних событий бота (bot_added и др.). ID канала — не секрет."""
+    res = api('GET', '/updates', {'limit': 100, 'timeout': 5})
+    ids = []
+    for u in res.get('updates', []):
+        cid = u.get('chat_id') or ((u.get('message') or {}).get('recipient') or {}).get('chat_id')
+        if cid and cid not in ids:
+            ids.append(cid)
+    if not ids:
+        print('Событий нет. Удалите бота из канала и добавьте снова (подписчиком, затем администратором), '
+              'и сразу запустите find ещё раз.')
+        return []
+    for cid in ids:
+        try:
+            chat = api('GET', f'/chats/{cid}')
+            print(f'ID: {cid}  |  {chat.get("type", "?")}  |  {chat.get("title", "")}')
+        except RuntimeError:
+            print(f'ID: {cid}  |  (нет доступа к информации)')
+    return ids
+
+
 def upload_image(data):
     """POST /uploads → загрузка файла по выданному адресу → {"photos": {...}} для вложения."""
     target = api('POST', '/uploads', {'type': 'image'})
@@ -125,7 +146,11 @@ def publish(cid, text, link, photos):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--check', action='store_true')
+    parser.add_argument('--find-chat', action='store_true')
     args = parser.parse_args()
+    if args.find_chat:
+        find_chats()
+        return
     cid = check_channel()
     if args.check:
         print('Проверка завершена. Ничего не опубликовано.')

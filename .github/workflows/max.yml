@@ -1,0 +1,61 @@
+name: Новости в MAX
+on:
+  schedule:
+    - cron: '20 * * * *'
+  push:
+    branches: [main]
+    paths: ['max_post.py', 'test_max.py', 'russian_trusted_ca.pem', '.github/workflows/max.yml']
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Проверить подключение или опубликовать новость'
+        type: choice
+        default: check
+        options: [check, publish]
+permissions:
+  contents: write
+concurrency:
+  group: vk-post
+  cancel-in-progress: false
+jobs:
+  max:
+    if: github.event_name != 'schedule' || vars.MAX_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r requirements.txt
+      - name: Проверить код MAX
+        run: python -m unittest -v test_max.py
+      - name: Проверить бота и канал
+        if: github.event_name == 'workflow_dispatch' && inputs.mode == 'check'
+        env:
+          MAX_BOT_TOKEN: ${{ secrets.MAX_BOT_TOKEN }}
+          MAX_CHAT_ID: ${{ secrets.MAX_CHAT_ID }}
+        run: python max_post.py --check
+      - name: Опубликовать новость с фото
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.mode == 'publish')
+        env:
+          MAX_BOT_TOKEN: ${{ secrets.MAX_BOT_TOKEN }}
+          MAX_CHAT_ID: ${{ secrets.MAX_CHAT_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python max_post.py
+      - name: Сохранить историю MAX
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.mode == 'publish')
+        run: |
+          git config user.name 'github-actions'
+          git config user.email 'github-actions@users.noreply.github.com'
+          if [ -f seen_max.json ]; then
+            git add seen_max.json
+            if ! git diff --cached --quiet; then
+              git commit -m 'Remember MAX news'
+              git pull --rebase origin main
+              git push origin HEAD:main
+            fi
+          fi

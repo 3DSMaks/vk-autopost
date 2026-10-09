@@ -1,7 +1,7 @@
 name: Новости в MAX
 on:
-  schedule:
-    - cron: '20,50 * * * *'   # каждые 30 минут
+  # Запуск по расписанию — внешним будильником cron-job.org (workflow_dispatch, mode=publish):
+  # встроенный schedule GitHub в этом репозитории не срабатывал.
   push:
     branches: [main]
     paths: ['max_post.py', 'test_max.py', 'russian_trusted_ca.pem', '.github/workflows/max.yml']

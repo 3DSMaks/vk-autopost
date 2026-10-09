@@ -1,3 +1,5 @@
+import contextlib
+import io
 import json
 import os
 from pathlib import Path
@@ -89,6 +91,37 @@ class TelegramTests(unittest.TestCase):
         big, small, other = jpeg((800, 450), 'black'), jpeg((400, 225), 'black'), jpeg((800, 450), 'white')
         with patch.object(tg.news, 'page_images', return_value=[]), patch.object(tg.news, 'image_urls', return_value=['1', '2', '3']), patch.object(tg.news, 'download_jpeg', side_effect=[big, small, other]):
             self.assertEqual(tg.pictures({'link': 'x'}), [big, other])
+
+    def test_no_photo_picks_another(self):
+        a, b = {'link': 'A', 'index': 0}, {'link': 'B', 'index': 1}
+        calls = []
+        def write(pool):
+            calls.append([c['link'] for c in pool])
+            return pool[0], 'Text ' + pool[0]['link']
+        with patch.object(tg.news, 'write_post', side_effect=write),              patch.object(tg, 'pictures', side_effect=lambda p: [] if p['link'] == 'A' else [b'jpg']),              contextlib.redirect_stdout(io.StringIO()):
+            pick, text, photos, skipped = tg.pick_with_photos([a, b])
+        self.assertEqual((pick['link'], photos, skipped), ('B', [b'jpg'], ['A']))
+        self.assertEqual(calls, [['A', 'B'], ['B']])
+
+    def test_skipped_saved_and_not_counted(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            state = Path(tmp) / 'seen.json'
+            tg.save_history(state, ['X'], 'B', ['A'])
+            seen = json.loads(state.read_text())
+        self.assertEqual(seen, ['X', 'skip:A', 'B'])
+        self.assertEqual(tg.history_links(seen), {'X', 'A', 'B'})
+        self.assertEqual(tg.published_count(seen), 2)
+
+    def test_all_without_photos_saves_skips_and_fails(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            state = Path(tmp) / 'seen.json'
+            state.write_text('[]')
+            cands = [{'link': 'A', 'index': 0}]
+            with patch('sys.argv', ['telegram_post.py']), patch.object(tg, 'SEEN_FILE', state),                  patch.object(tg, 'check_channel', return_value='@c'), patch.object(tg, 'fresh_for', return_value=cands),                  patch.object(tg.news, 'write_post', return_value=(cands[0], 'T')), patch.object(tg, 'pictures', return_value=[]),                  patch.object(tg, 'publish') as pub, contextlib.redirect_stdout(io.StringIO()):
+                with self.assertRaisesRegex(RuntimeError, 'фото'):
+                    tg.main()
+            pub.assert_not_called()
+            self.assertEqual(json.loads(state.read_text()), ['skip:A'])
 
 if __name__ == '__main__':
     unittest.main()

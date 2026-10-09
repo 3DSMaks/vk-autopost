@@ -156,8 +156,8 @@ def main():
         return
     seen = json.loads(SEEN_FILE.read_text(encoding='utf-8')) if SEEN_FILE.exists() else []
     candidates, topic = [], None
-    for topic in tg.topic_order(len(seen)):
-        candidates = tg.fresh_for(topic, set(seen))
+    for topic in tg.topic_order(tg.published_count(seen)):
+        candidates = tg.fresh_for(topic, tg.history_links(seen))
         if candidates:
             break
     if not candidates:
@@ -165,12 +165,13 @@ def main():
         return
     print('Тема:', 'видеоигры' if topic == 'games' else 'кино и сериалы', '| свежих новостей:', len(candidates))
     news.PROMPT = tg.TOPICS[topic][1].replace('Telegram-канала', 'канала в MAX')
-    pick, text = news.write_post(candidates)
-    result = publish(cid, text, pick['link'], tg.pictures(pick))
-    updated = list(dict.fromkeys(seen + [pick['link']]))[-1000:]
-    temporary = SEEN_FILE.with_suffix('.tmp')
-    temporary.write_text(json.dumps(updated, ensure_ascii=False, indent=2), encoding='utf-8')
-    temporary.replace(SEEN_FILE)
+    pick, text, photos, skipped = tg.pick_with_photos(candidates)
+    if not photos:
+        tg.save_history(SEEN_FILE, seen, skipped=skipped)
+        raise RuntimeError('Ни к одной из выбранных новостей не нашлось фото — публикация отменена; '
+                           'эти новости больше не будут предлагаться')
+    result = publish(cid, text, pick['link'], photos)
+    tg.save_history(SEEN_FILE, seen, pick['link'], skipped)
     message = (result or {}).get('message') or {}
     print('Опубликовано в MAX:', message.get('url') or (message.get('body') or {}).get('mid') or 'ок')
 

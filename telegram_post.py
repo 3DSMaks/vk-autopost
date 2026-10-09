@@ -146,6 +146,44 @@ def pictures(pick):
     return out
 
 
+SKIP = 'skip:'  # так в истории помечены новости, к которым не нашлось фото (их больше не предлагаем)
+
+
+def history_links(seen):
+    """Все ссылки из истории — и опубликованные, и пропущенные без фото."""
+    return {s[len(SKIP):] if s.startswith(SKIP) else s for s in seen}
+
+
+def published_count(seen):
+    return sum(1 for s in seen if not s.startswith(SKIP))
+
+
+def pick_with_photos(candidates, attempts=3):
+    """Gemini выбирает новость; если к ней нет фото — убираем её и просим выбрать другую.
+    Возвращает (pick, text, photos, skipped_links); если фото не нашлось ни разу — photos пустой."""
+    pool, skipped = list(candidates), []
+    for _ in range(attempts):
+        if not pool:
+            break
+        pick, text = news.write_post(pool)
+        photos = pictures(pick)
+        if photos:
+            return pick, text, photos, skipped
+        print('Нет фото к новости, выбираю другую:', pick['link'])
+        skipped.append(pick['link'])
+        pool = [c for c in pool if c['link'] != pick['link']]
+        for i, c in enumerate(pool):
+            c['index'] = i
+    return None, None, [], skipped
+
+
+def save_history(path, seen, published=None, skipped=()):
+    updated = list(dict.fromkeys(seen + [SKIP + s for s in skipped] + ([published] if published else [])))[-1000:]
+    temporary = path.with_suffix('.tmp')
+    temporary.write_text(json.dumps(updated, ensure_ascii=False, indent=2), encoding='utf-8')
+    temporary.replace(path)
+
+
 def publish(chat_id, text, link, photos):
     if not photos:
         raise RuntimeError('Фото не найдены: публикация отменена')
@@ -169,8 +207,8 @@ def main():
         return
     seen = json.loads(SEEN_FILE.read_text()) if SEEN_FILE.exists() else []
     candidates = []
-    for topic in topic_order(len(seen)):
-        candidates = fresh_for(topic, set(seen))
+    for topic in topic_order(published_count(seen)):
+        candidates = fresh_for(topic, history_links(seen))
         if candidates:
             break
     if not candidates:
@@ -178,12 +216,13 @@ def main():
         return
     print('Тема:', 'видеоигры' if topic == 'games' else 'кино и сериалы', '| свежих новостей:', len(candidates))
     news.PROMPT = TOPICS[topic][1]
-    pick, text = news.write_post(candidates)
-    result = publish(chat_id, text, pick['link'], pictures(pick))
-    updated = list(dict.fromkeys(seen + [pick['link']]))[-1000:]
-    temporary = SEEN_FILE.with_suffix('.tmp')
-    temporary.write_text(json.dumps(updated, ensure_ascii=False, indent=2), encoding='utf-8')
-    temporary.replace(SEEN_FILE)
+    pick, text, photos, skipped = pick_with_photos(candidates)
+    if not photos:
+        save_history(SEEN_FILE, seen, skipped=skipped)
+        raise RuntimeError('Ни к одной из выбранных новостей не нашлось фото — публикация отменена; '
+                           'эти новости больше не будут предлагаться')
+    result = publish(chat_id, text, pick['link'], photos)
+    save_history(SEEN_FILE, seen, pick['link'], skipped)
     messages = result if isinstance(result, list) else [result]
     print('Опубликовано; ID сообщений:', ', '.join(str(m['message_id']) for m in messages))
 

@@ -1,4 +1,4 @@
-"""MAX: RSS → Gemini → JPEG → канал в MAX. Новости и темы — как в Telegram (игры и кино чередуются по часам).
+"""MAX: RSS → Gemini → JPEG → канал в MAX. Новости и темы — как в Telegram (игры и кино чередуются через пост).
 
 Нужны секреты MAX_BOT_TOKEN (токен бота с платформы MAX для партнёров) и MAX_CHAT_ID (числовой ID канала).
 Сервер MAX использует сертификат Минцифры — он лежит рядом в russian_trusted_ca.pem."""
@@ -14,7 +14,6 @@ import urllib.error
 import urllib.parse
 import urllib.request
 import uuid
-from datetime import datetime, timezone
 
 import post as news
 import telegram_post as tg
@@ -157,7 +156,7 @@ def main():
         return
     seen = json.loads(SEEN_FILE.read_text(encoding='utf-8')) if SEEN_FILE.exists() else []
     candidates, topic = [], None
-    for topic in tg.topic_order(datetime.now(timezone.utc).hour):
+    for topic in tg.topic_order(len(seen)):
         candidates = tg.fresh_for(topic, set(seen))
         if candidates:
             break

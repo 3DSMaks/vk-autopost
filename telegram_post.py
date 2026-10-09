@@ -1,6 +1,6 @@
 """Telegram: RSS → Gemini → JPEG → канал. VK-токены не используются.
 
-Темы чередуются по часам: в чётный час (UTC) — видеоигры, в нечётный — кино и сериалы.
+Темы чередуются через пост: игры, кино, игры, кино… (по числу уже опубликованных новостей).
 Если по теме часа свежих новостей нет, берётся другая тема."""
 import argparse
 import hashlib
@@ -36,8 +36,9 @@ MOVIE_PROMPT = news.PROMPT.replace('сообщества ВКонтакте', 'T
 TOPICS = {'games': (GAME_FEEDS, GAME_PROMPT), 'cinema': (news.FEEDS, MOVIE_PROMPT)}
 
 
-def topic_order(hour):
-    return ['games', 'cinema'] if hour % 2 == 0 else ['cinema', 'games']
+def topic_order(published):
+    """published — сколько новостей уже вышло в этом канале: чётное → игры, нечётное → кино."""
+    return ['games', 'cinema'] if published % 2 == 0 else ['cinema', 'games']
 
 
 def fresh_for(topic, seen, per_feed=5):
@@ -168,7 +169,7 @@ def main():
         return
     seen = json.loads(SEEN_FILE.read_text()) if SEEN_FILE.exists() else []
     candidates = []
-    for topic in topic_order(datetime.now(timezone.utc).hour):
+    for topic in topic_order(len(seen)):
         candidates = fresh_for(topic, set(seen))
         if candidates:
             break

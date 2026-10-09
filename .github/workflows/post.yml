@@ -2,7 +2,7 @@ name: Пост в ВК
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0,30 * * * *"   # каждые 30 минут
   push:
     branches: [main]
     paths:

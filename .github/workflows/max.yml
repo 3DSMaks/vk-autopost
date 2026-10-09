@@ -1,7 +1,7 @@
 name: Новости в MAX
 on:
   schedule:
-    - cron: '20 * * * *'
+    - cron: '20,50 * * * *'   # каждые 30 минут
   push:
     branches: [main]
     paths: ['max_post.py', 'test_max.py', 'russian_trusted_ca.pem', '.github/workflows/max.yml']

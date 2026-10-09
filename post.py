@@ -32,7 +32,7 @@ FEEDS = [
 ]
 MAX_AGE_HOURS = 24
 SLIDES = 3
-GEMINI_MODELS = [os.environ.get("GEMINI_MODEL") or "gemini-3.5-flash-lite", "gemini-2.5-flash"]
+GEMINI_MODELS = [os.environ.get("GEMINI_MODEL") or "gemini-3.5-flash-lite", "gemini-3.8-flash"]
 VK_API = "5.199"
 SEEN_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "seen.json")
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130 Safari/537.36"
@@ -132,11 +132,27 @@ def write_post(cands):
         try:
             raw = http(f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent", body,
                        {"Content-Type": "application/json", "x-goog-api-key": os.environ["GEMINI_API_KEY"]}, 90)
-            text = json.loads(raw)["candidates"][0]["content"]["parts"][0]["text"]
-            r = json.loads(re.search(r"\{[\s\S]*\}", text).group(0))
-            pick = next((c for c in cands if c["index"] == int(r.get("index", -1))), cands[0])
-            tags = " ".join(r["hashtags"]) if isinstance(r.get("hashtags"), list) else (r.get("hashtags") or "")
-            return pick, f"{r['headline']}\n\n{r['text']}\n\n{tags}\n\nИсточник: {pick['link']}".strip()
+            res = json.loads(raw)
+            # ответ может состоять из нескольких частей (например, служебной части «размышлений») — берём текст
+            parts = (res.get("candidates") or [{}])[0].get("content", {}).get("parts", [])
+            text = "".join(p.get("text", "") for p in parts if not p.get("thought"))
+            m = re.search(r"\{[\s\S]*\}", text)
+            if not m:
+                raise ValueError("нет JSON в ответе: " + json.dumps(res, ensure_ascii=False)[:400])
+            r = json.loads(m.group(0))
+            if isinstance(r, list):
+                r = r[0]
+            headline = r.get("headline") or r.get("title") or r.get("заголовок") or ""
+            post_body = r.get("text") or r.get("post") or r.get("body") or r.get("content") or r.get("текст") or ""
+            if not post_body:
+                raise ValueError("в ответе нет текста поста: " + text[:400])
+            try:
+                pick = next(c for c in cands if c["index"] == int(r.get("index", -1)))
+            except (StopIteration, ValueError, TypeError):
+                pick = cands[0]
+            tags = r.get("hashtags") or r.get("tags") or ""
+            tags = " ".join(tags) if isinstance(tags, list) else tags
+            return pick, "\n\n".join(x for x in (headline, post_body, tags, "Источник: " + pick["link"]) if x)
         except urllib.error.HTTPError as e:
             last = f"{model}: HTTP {e.code} {e.read()[:300]!r}"
             print("  ! Gemini", last)

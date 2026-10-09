@@ -56,7 +56,7 @@ class TelegramTests(unittest.TestCase):
                 state = Path(tmp) / 'seen.json'
                 state.write_text('[]')
                 pick = {'link':'https://example.com/news'}
-                with patch('sys.argv', ['telegram_post.py']), patch.object(tg, 'SEEN_FILE', state), patch.object(tg, 'check_channel', return_value='@channel'), patch.object(tg.news, 'fresh_news', return_value=[pick]), patch.object(tg.news, 'write_post', return_value=(pick, 'Text')), patch.object(tg, 'pictures', return_value=[b'jpg']), patch.object(tg, 'publish', side_effect=None if success else RuntimeError('failed'), return_value={'message_id':1}):
+                with patch('sys.argv', ['telegram_post.py']), patch.object(tg, 'SEEN_FILE', state), patch.object(tg, 'check_channel', return_value='@channel'), patch.object(tg.news, 'fresh_news', return_value=[pick]), patch.object(tg.news, 'write_post', return_value=(pick, 'Text')), patch.object(tg, 'pictures', return_value=[b'jpg']), patch.object(tg, 'trailer_url', return_value=None), patch.object(tg, 'publish', side_effect=None if success else RuntimeError('failed'), return_value={'message_id':1}):
                     if success:
                         tg.main()
                     else:
@@ -122,6 +122,48 @@ class TelegramTests(unittest.TestCase):
                     tg.main()
             pub.assert_not_called()
             self.assertEqual(json.loads(state.read_text()), ['skip:A'])
+
+    def test_trailer_prefers_embedded_player(self):
+        page = b'<a href="https://youtu.be/AAAAAAAAAAA">x</a><iframe src="https://www.youtube.com/embed/BBBBBBBBBBB?rel=0"></iframe>'
+        with patch.object(tg.news, 'http', return_value=page):
+            self.assertEqual(tg.trailer_url('l'), 'https://www.youtube.com/watch?v=BBBBBBBBBBB')
+        with patch.object(tg.news, 'http', return_value=b'<p>no video</p>'):
+            self.assertIsNone(tg.trailer_url('l'))
+
+    def test_publish_video_message(self):
+        with patch.object(tg, 'api', return_value={'message_id': 5}) as api:
+            tg.publish_video('@c', 'A < B', 'https://e.com', 'https://www.youtube.com/watch?v=BBBBBBBBBBB')
+        method, fields = api.call_args.args
+        self.assertEqual(method, 'sendMessage')
+        self.assertIn('Смотреть трейлер', fields['text'])
+        self.assertIn('A &lt; B', fields['text'])
+        preview = json.loads(fields['link_preview_options'])
+        self.assertTrue(preview['prefer_large_media'] and preview['show_above_text'])
+
+    def run_main(self, seen, trailer):
+        with tempfile.TemporaryDirectory() as tmp:
+            state = Path(tmp) / 'seen.json'
+            state.write_text(json.dumps(seen))
+            pick = {'link': 'https://e.com/n', 'index': 0}
+            with patch('sys.argv', ['telegram_post.py']), patch.object(tg, 'SEEN_FILE', state),                  patch.object(tg, 'check_channel', return_value='@c'), patch.object(tg, 'fresh_for', return_value=[pick]),                  patch.object(tg.news, 'write_post', return_value=(pick, 'T')), patch.object(tg, 'pictures', return_value=[b'jpg']),                  patch.object(tg, 'trailer_url', return_value=trailer),                  patch.object(tg, 'publish', return_value={'message_id': 1}) as photo,                  patch.object(tg, 'publish_video', return_value={'message_id': 2}) as video,                  contextlib.redirect_stdout(io.StringIO()):
+                tg.main()
+            return photo.called, video.called, json.loads(state.read_text())
+
+    def test_main_posts_trailer_and_marks_it(self):
+        photo, video, seen = self.run_main([], 'https://www.youtube.com/watch?v=BBBBBBBBBBB')
+        self.assertEqual((photo, video), (False, True))
+        self.assertIn(f'video:{tg.moscow_today()}:https://e.com/n', seen)
+        self.assertEqual(tg.published_count(seen), 1)
+
+    def test_main_respects_daily_video_limit(self):
+        today = tg.moscow_today()
+        full = [f'video:{today}:{i}' for i in range(tg.VIDEO_PER_DAY)]
+        photo, video, _ = self.run_main(full, 'https://www.youtube.com/watch?v=BBBBBBBBBBB')
+        self.assertEqual((photo, video), (True, False))
+
+    def test_main_without_trailer_posts_photos(self):
+        photo, video, _ = self.run_main([], None)
+        self.assertEqual((photo, video), (True, False))
 
 if __name__ == '__main__':
     unittest.main()

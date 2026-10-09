@@ -8,12 +8,13 @@ import html
 import io
 import json
 import os
+import re
 from pathlib import Path
 import sys
 import urllib.error
 import urllib.parse
 import uuid
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 from PIL import Image
 import post as news
@@ -155,7 +156,40 @@ def history_links(seen):
 
 
 def published_count(seen):
-    return sum(1 for s in seen if not s.startswith(SKIP))
+    return sum(1 for s in seen if not s.startswith((SKIP, VIDEO)))
+
+
+# ---------- Трейлеры (только Telegram) ----------
+VIDEO = 'video:'          # в истории: video:<дата по Москве>:<ссылка> — пост вышел с трейлером
+VIDEO_PER_DAY = 3
+YOUTUBE = re.compile(r'(?:youtube(?:-nocookie)?\.com/(?:embed/|watch\?v=|shorts/)|youtu\.be/)([\w-]{11})')
+EMBED = re.compile(r'''<iframe[^>]+src=["'][^"']*youtube(?:-nocookie)?\.com/embed/([\w-]{11})''', re.I)
+
+
+def moscow_today():
+    return (datetime.now(timezone.utc) + timedelta(hours=3)).date().isoformat()
+
+
+def videos_today(seen):
+    return sum(1 for s in seen if s.startswith(f'{VIDEO}{moscow_today()}:'))
+
+
+def trailer_url(link):
+    """Первый ролик YouTube со страницы новости (встроенный плеер — в приоритете). None, если ролика нет."""
+    try:
+        page = news.http(link, timeout=15).decode('utf-8', 'ignore')
+    except Exception:
+        return None
+    m = EMBED.search(page) or YOUTUBE.search(page)
+    return f'https://www.youtube.com/watch?v={m.group(1)}' if m else None
+
+
+def publish_video(chat_id, text, link, video):
+    """Пост с большим превью трейлера над текстом (плеер YouTube прямо в Telegram)."""
+    body = caption(text, link) + '\n\n▶️ <a href="' + html.escape(video, quote=True) + '">Смотреть трейлер</a>'
+    preview = {'url': video, 'prefer_large_media': True, 'show_above_text': True}
+    return api('sendMessage', {'chat_id': chat_id, 'text': body, 'parse_mode': 'HTML',
+                               'link_preview_options': json.dumps(preview)})
 
 
 def pick_with_photos(candidates, attempts=3):
@@ -177,8 +211,9 @@ def pick_with_photos(candidates, attempts=3):
     return None, None, [], skipped
 
 
-def save_history(path, seen, published=None, skipped=()):
-    updated = list(dict.fromkeys(seen + [SKIP + s for s in skipped] + ([published] if published else [])))[-1000:]
+def save_history(path, seen, published=None, skipped=(), video=False):
+    marks = [f'{VIDEO}{moscow_today()}:{published}'] if published and video else []
+    updated = list(dict.fromkeys(seen + [SKIP + s for s in skipped] + ([published] if published else []) + marks))[-1000:]
     temporary = path.with_suffix('.tmp')
     temporary.write_text(json.dumps(updated, ensure_ascii=False, indent=2), encoding='utf-8')
     temporary.replace(path)
@@ -221,8 +256,13 @@ def main():
         save_history(SEEN_FILE, seen, skipped=skipped)
         raise RuntimeError('Ни к одной из выбранных новостей не нашлось фото — публикация отменена; '
                            'эти новости больше не будут предлагаться')
-    result = publish(chat_id, text, pick['link'], photos)
-    save_history(SEEN_FILE, seen, pick['link'], skipped)
+    video = trailer_url(pick['link']) if videos_today(seen) < VIDEO_PER_DAY else None
+    if video:
+        print('Пост с трейлером:', video)
+        result = publish_video(chat_id, text, pick['link'], video)
+    else:
+        result = publish(chat_id, text, pick['link'], photos)
+    save_history(SEEN_FILE, seen, pick['link'], skipped, video=bool(video))
     messages = result if isinstance(result, list) else [result]
     print('Опубликовано; ID сообщений:', ', '.join(str(m['message_id']) for m in messages))
 

@@ -62,5 +62,33 @@ class TelegramTests(unittest.TestCase):
                             tg.main()
                 self.assertEqual(json.loads(state.read_text()), [pick['link']] if success else [])
 
+    def test_topics_alternate(self):
+        self.assertEqual(tg.topic_order(14), ['games', 'cinema'])
+        self.assertEqual(tg.topic_order(15), ['cinema', 'games'])
+        self.assertIn('видеоигры', tg.TOPICS['games'][1])
+        self.assertNotIn('не игры', tg.TOPICS['games'][1])
+
+    def test_per_feed_cap_and_order(self):
+        def fake(seen):
+            feed = tg.news.FEEDS[0]
+            hour = 10 if 'a' in feed else 11
+            return [{'link': f'{feed}/{i}', 'date': f'2026-10-09T{hour}:{i:02d}:00+00:00'} for i in range(9)]
+        with patch.dict(tg.TOPICS, {'games': (['https://a', 'https://b'], 'P')}), patch.object(tg.news, 'fresh_news', side_effect=fake):
+            items = tg.fresh_for('games', set(), per_feed=3)
+        self.assertEqual(len(items), 6)
+        self.assertTrue(items[0]['link'].startswith('https://b'))
+        self.assertEqual([n['index'] for n in items], list(range(6)))
+
+    def test_same_picture_in_two_sizes_skipped(self):
+        import io as _io
+        from PIL import Image as _Image, ImageDraw
+        def jpeg(size, color):
+            im = _Image.new('RGB', size, 'white')
+            ImageDraw.Draw(im).rectangle([0, 0, size[0] // 2, size[1]], fill=color)
+            buf = _io.BytesIO(); im.save(buf, 'JPEG'); return buf.getvalue()
+        big, small, other = jpeg((800, 450), 'black'), jpeg((400, 225), 'black'), jpeg((800, 450), 'white')
+        with patch.object(tg.news, 'page_images', return_value=[]), patch.object(tg.news, 'image_urls', return_value=['1', '2', '3']), patch.object(tg.news, 'download_jpeg', side_effect=[big, small, other]):
+            self.assertEqual(tg.pictures({'link': 'x'}), [big, other])
+
 if __name__ == '__main__':
     unittest.main()

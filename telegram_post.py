@@ -1,4 +1,7 @@
-"""Telegram: RSS → Gemini → JPEG → канал. VK-токены не используются."""
+"""Telegram: RSS → Gemini → JPEG → канал. VK-токены не используются.
+
+Темы чередуются по часам: в чётный час (UTC) — видеоигры, в нечётный — кино и сериалы.
+Если по теме часа свежих новостей нет, берётся другая тема."""
 import argparse
 import hashlib
 import html
@@ -10,11 +13,49 @@ import sys
 import urllib.error
 import urllib.parse
 import uuid
+from datetime import datetime, timezone
 
 from PIL import Image
 import post as news
 
 SEEN_FILE = Path(__file__).with_name('seen_telegram.json')
+
+GAME_FEEDS = [
+    'https://stopgame.ru/rss/rss_news.xml',
+    'https://www.igromania.ru/rss/news.rss',
+    'https://www.playground.ru/rss/news.xml',
+    'https://www.gamemag.ru/rss/feed',
+    'https://feeds.feedburner.com/ign/games-all',
+    'https://www.pcgamer.com/rss/',
+]
+GAME_PROMPT = (news.PROMPT
+               .replace('сообщества ВКонтакте «СтопКадр» о кино и сериалах', 'Telegram-канала «СтопКадр» о кино, сериалах и видеоиграх')
+               .replace('именно про кино или сериалы (не игры, не музыку, не политику)', 'именно про видеоигры (не кино, не железо, не киберспортивные результаты, не политику)')
+               .replace('громкие премьеры, трейлеры, кастинг, продолжения, сборы и рейтинги', 'анонсы, трейлеры, даты выхода, продолжения и ремейки, оценки и продажи громких игр'))
+MOVIE_PROMPT = news.PROMPT.replace('сообщества ВКонтакте', 'Telegram-канала')
+TOPICS = {'games': (GAME_FEEDS, GAME_PROMPT), 'cinema': (news.FEEDS, MOVIE_PROMPT)}
+
+
+def topic_order(hour):
+    return ['games', 'cinema'] if hour % 2 == 0 else ['cinema', 'games']
+
+
+def fresh_for(topic, seen, per_feed=5):
+    """Свежие новости темы: не больше per_feed с каждой ленты, чтобы плодовитые сайты не забивали выбор."""
+    feeds, _ = TOPICS[topic]
+    saved = news.FEEDS
+    items = []
+    try:
+        for feed in feeds:
+            news.FEEDS = [feed]
+            items += news.fresh_news(seen)[:per_feed]
+    finally:
+        news.FEEDS = saved
+    items.sort(key=lambda n: datetime.fromisoformat(n['date']).timestamp() if n.get('date') else 0, reverse=True)
+    items = items[:25]
+    for i, n in enumerate(items):
+        n['index'] = i
+    return items
 
 
 def multipart(fields, files):
@@ -72,9 +113,18 @@ def caption(text, link):
     return html.escape(text) + '\n\n<a href="' + html.escape(link, quote=True) + '">Источник</a>'
 
 
+def looks_like(data):
+    """Отпечаток картинки 16×16 (средний хэш): одинаковые фото в разных размерах дают почти один отпечаток."""
+    with Image.open(io.BytesIO(data)) as im:
+        small = im.convert('L').resize((16, 16))
+    pixels = list(small.getdata())
+    avg = sum(pixels) / len(pixels)
+    return sum(1 << i for i, v in enumerate(pixels) if v > avg)
+
+
 def pictures(pick):
     urls = news.image_urls(news.page_images(pick['link']) + [pick.get('image')], pick['link'])
-    out, hashes = [], set()
+    out, hashes, prints = [], set(), []
     for url in urls:
         try:
             data = news.download_jpeg(url, pick['link'])
@@ -82,8 +132,11 @@ def pictures(pick):
                 if min(im.size) < 100 or max(im.size) / min(im.size) > 20:
                     continue
             digest = hashlib.sha256(data).digest()
-            if digest not in hashes and len(data) <= 10 * 1024 * 1024:
+            fp = looks_like(data)
+            same = any(bin(fp ^ other).count('1') < 26 for other in prints)  # < 10% различий из 256
+            if digest not in hashes and not same and len(data) <= 10 * 1024 * 1024:
                 hashes.add(digest)
+                prints.append(fp)
                 out.append(data)
             if len(out) == 3:
                 break
@@ -114,11 +167,16 @@ def main():
         print('Проверка завершена. Ничего не опубликовано.')
         return
     seen = json.loads(SEEN_FILE.read_text()) if SEEN_FILE.exists() else []
-    candidates = news.fresh_news(set(seen))
+    candidates = []
+    for topic in topic_order(datetime.now(timezone.utc).hour):
+        candidates = fresh_for(topic, set(seen))
+        if candidates:
+            break
     if not candidates:
         print('Свежих неопубликованных новостей нет')
         return
-    news.PROMPT = news.PROMPT.replace('сообщества ВКонтакте', 'Telegram-канала')
+    print('Тема:', 'видеоигры' if topic == 'games' else 'кино и сериалы', '| свежих новостей:', len(candidates))
+    news.PROMPT = TOPICS[topic][1]
     pick, text = news.write_post(candidates)
     result = publish(chat_id, text, pick['link'], pictures(pick))
     updated = list(dict.fromkeys(seen + [pick['link']]))[-1000:]

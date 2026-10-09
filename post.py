@@ -5,11 +5,16 @@
 Опубликованные новости запоминаются в seen.json, чтобы не повторяться.
 
 Запуск: python post.py            — опубликовать один пост
+        python post.py --check-vk — проверить право загрузки фото без публикации
         python post.py --dry-run  — только показать, что было бы опубликовано (без Gemini и ВК)
-Нужны переменные окружения VK_TOKEN и GEMINI_API_KEY (в GitHub — раздел Secrets).
+Нужны VK_TOKEN и GEMINI_API_KEY; для фото можно задать VK_PHOTO_TOKEN (в GitHub — раздел Secrets).
 """
 import html as htmllib
 import json
+import io
+from html.parser import HTMLParser
+
+from PIL import Image, ImageOps
 import os
 import random
 import re
@@ -63,12 +68,23 @@ def http(url, data=None, headers=None, timeout=20):
         return r.read()
 
 
-def vk(method, **params):
+class VKError(RuntimeError):
+    def __init__(self, method, error):
+        self.code = error.get("error_code")
+        hint = ""
+        if self.code in (5, 7, 15, 27, 28) and method.startswith("photos."):
+            hint = (" Проверьте VK_PHOTO_TOKEN: нужен пользовательский токен "
+                    "администратора сообщества с правом photos; ключ сообщества "
+                    "может не поддерживать этот метод.")
+        super().__init__(f"ВК {method}, код {self.code}: {error.get('error_msg')}.{hint}")
+
+
+def vk(method, *, token=None, **params):
     data = urllib.parse.urlencode({**params, "v": VK_API}).encode()
     res = json.loads(http(f"https://api.vk.com/method/{method}", data,
-                          {"Authorization": "Bearer " + os.environ["VK_TOKEN"]}))
+                          {"Authorization": "Bearer " + (token or os.environ["VK_TOKEN"])}))
     if "error" in res:
-        raise RuntimeError(f"ВК {method}: {res['error'].get('error_msg')}")
+        raise VKError(method, res["error"])
     return res["response"]
 
 
@@ -183,69 +199,127 @@ JUNK = re.compile(r"logo|icon|avatar|sprite|favicon|banner|counter|pixel|placeho
 SMALL = re.compile(r"podcast|thumb_\d{2,3}x|middle|thumb_600|epsa_|small|preview|mini|[?&]w=[1-5]\d\d\b|-\d{2,3}x\d{2,3}\.", re.I)
 
 
+class ImageParser(HTMLParser):
+    """Атрибуты HTML могут идти в любом порядке; расширение URL необязательно."""
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.meta, self.images = [], []
+
+    def handle_starttag(self, tag, attrs):
+        attrs = dict(attrs)
+        if tag == "meta":
+            name = (attrs.get("property") or attrs.get("name") or "").lower()
+            if name in ("og:image", "og:image:url", "og:image:secure_url",
+                        "twitter:image", "twitter:image:src"):
+                self.meta.append(attrs.get("content"))
+        if tag in ("img", "source"):
+            if re.search(r"related|teaser|avatar|logo", attrs.get("class") or "", re.I):
+                return
+            for key in ("data-srcset", "srcset"):
+                candidates = []
+                for item in (attrs.get(key) or "").split(","):
+                    parts = item.strip().split()
+                    if parts:
+                        try:
+                            score = float(parts[1].rstrip("wx")) if len(parts) > 1 else 0
+                        except ValueError:
+                            score = 0
+                        candidates.append((score, parts[0]))
+                self.images.extend(url for _, url in sorted(candidates, reverse=True))
+            for key in ("data-original", "data-lazy-src", "data-src", "src"):
+                self.images.append(attrs.get(key))
+
+
+def image_urls(values, base):
+    result = []
+    for value in values:
+        if not value:
+            continue
+        url = urllib.parse.urljoin(base, htmllib.unescape(value).strip())
+        if urllib.parse.urlsplit(url).scheme not in ("http", "https") or JUNK.search(url):
+            continue
+        if url not in result:
+            result.append(url)
+    return result
+
+
 def page_images(page_url):
-    """Главное фото новости + крупные фото из текста статьи (без превью других новостей и логотипов)."""
     try:
         page = http(page_url, timeout=15).decode("utf-8", "ignore")
     except Exception as e:
-        print(f"  ! страница новости не открылась: {e}")
+        print(f"  ! страница новости не открылась: {type(e).__name__}")
         return []
-    urls, keys = [], set()
-
-    def add(u):
-        if not u:
-            return
-        u = urllib.parse.urljoin(page_url, htmllib.unescape(u))
-        if not u.startswith("http") or JUNK.search(u):
-            return
-        k = re.sub(r"\?.*$", "", u)
-        k = re.sub(r"-\d+x\d+(?=\.\w+$)", "", k)
-        k = re.sub(r"_2x(?=\.\w+$)", "", k)
-        k = re.sub(r"/(big|large|l)/", "/", k)
-        if k not in keys:
-            keys.add(k)
-            urls.append(u)
-
-    for m in re.finditer(r"<meta[^>]+(?:property|name)=[\"'](?:og:image|twitter:image)(?::src)?[\"'][^>]*>", page, re.I):
-        c = re.search(r"content=[\"']([^\"']+)[\"']", m.group(0), re.I)
-        add(c and c.group(1))
-    body = (re.search(r"<article[\s\S]*?</article>", page, re.I) or re.search(r"[\s\S]*", page)).group(0)
-    for m in re.finditer(r"<img[^>]+>", body, re.I):
-        t = m.group(0)
-        if re.search(r"class=[\"'][^\"']*(mini|thumb|related|teaser|card)", t, re.I):
-            continue
-        w = re.search(r"\swidth=[\"']?(\d+)", t, re.I)
-        if w and int(w.group(1)) < 600:
-            continue
-        src = re.search(r"(?:data-src|data-lazy-src|src)=[\"']([^\"']+\.(?:jpe?g|png|webp)[^\"']*)[\"']", t, re.I)
-        if src and not SMALL.search(src.group(1)):
-            add(src.group(1))
-    return urls[:SLIDES]
+    metadata = ImageParser()
+    metadata.feed(page)
+    # Без article используем только метаданные, чтобы не брать чужие превью.
+    article = re.search(r"<article\b[\s\S]*?</article>", page, re.I)
+    content = ImageParser()
+    if article:
+        content.feed(article.group(0))
+    return image_urls(metadata.meta + content.images, page_url)[:12]
 
 
-def as_jpg(url):
-    # wsrv.nl переводит любой формат (webp и т.п.) в JPG шириной 1080, который точно примет ВК
-    return "https://wsrv.nl/?url=" + urllib.parse.quote(url, safe="") + "&output=jpg&w=1080&q=90&we"
+def download_jpeg(url, referer):
+    request = urllib.request.Request(url, headers={
+        "User-Agent": UA, "Referer": referer, "Accept": "image/*"})
+    with urllib.request.urlopen(request, timeout=30) as response:
+        raw = response.read(20 * 1024 * 1024 + 1)
+    if len(raw) > 20 * 1024 * 1024:
+        raise ValueError("Изображение больше 20 МБ")
+    with Image.open(io.BytesIO(raw)) as source:
+        if source.width * source.height > 40_000_000:
+            raise ValueError("Слишком большое разрешение изображения")
+        image = ImageOps.exif_transpose(source).convert("RGBA")
+        image.thumbnail((1600, 1600))
+        background = Image.new("RGB", image.size, "white")
+        background.paste(image, mask=image.getchannel("A"))
+        output = io.BytesIO()
+        background.save(output, "JPEG", quality=90)
+        return output.getvalue()
 
 
-def upload_photos(urls):
-    """Загрузка фото на стену группы. Нужен ключ профиля администратора с правом «Фотографии»;
-    с ключом сообщества ВК не даёт загружать фото — тогда пост выйдет без фото."""
-    try:
-        server = vk("photos.getWallUploadServer", group_id=GROUP_ID)["upload_url"]
-    except Exception as e:
-        print(f"  ! фото пропущены: {e}")
+def photo_token():
+    token = os.environ.get("VK_PHOTO_TOKEN") or os.environ.get("VK_TOKEN")
+    if not token:
+        raise RuntimeError("Не задан VK_TOKEN или VK_PHOTO_TOKEN")
+    return token
+
+
+def photo_server():
+    return vk("photos.getWallUploadServer", token=photo_token(),
+              group_id=GROUP_ID)["upload_url"]
+
+
+def upload_photos(urls, referer="", server=None):
+    if not urls:
         return []
-    out = []
-    for i, u in enumerate(urls):
+    server = server or photo_server()
+    out, uploaded = [], set()
+    for i, url in enumerate(urls):
+        if len(out) >= SLIDES:
+            break
         try:
-            img = http(as_jpg(u), timeout=40)
+            img = download_jpeg(url, referer or url)
+            if img in uploaded:
+                continue
             body, headers = multipart("photo", f"photo{i + 1}.jpg", "image/jpeg", img)
             up = json.loads(http(server, body, headers, 60))
-            ph = vk("photos.saveWallPhoto", group_id=GROUP_ID, server=up["server"], photo=up["photo"], hash=up["hash"])[0]
-            out.append(f"photo{ph['owner_id']}_{ph['id']}")
+            if up.get("error") or not up.get("photo") or up["photo"] == "[]" or not up.get("server") or not up.get("hash"):
+                raise ValueError("Сервер ВК не принял изображение")
+            saved = vk("photos.saveWallPhoto", token=photo_token(), group_id=GROUP_ID,
+                       server=up["server"], photo=up["photo"], hash=up["hash"])
+            if not saved:
+                raise ValueError("ВК не сохранил фото")
+            ph = saved[0]
+            attachment = f"photo{ph['owner_id']}_{ph['id']}"
+            if ph.get("access_key"):
+                attachment += "_" + ph["access_key"]
+            out.append(attachment)
+            uploaded.add(img)
+        except VKError:
+            raise
         except Exception as e:
-            print(f"  ! фото {u} не загрузилось: {e}")
+            print(f"  ! кандидат фото {i + 1} не загрузился: {type(e).__name__}")
     return out
 
 
@@ -257,66 +331,19 @@ def multipart(field, filename, mime, data):
     return body, {"Content-Type": f"multipart/form-data; boundary={boundary}"}
 
 
-def upload_gif_docs(urls):
-    """Запасной способ для ключа сообщества: картинка как GIF-документ (ВК показывает его в посте крупно).
-    Нужны: право «Документы» у ключа и включённый раздел «Файлы» в группе."""
-    try:
-        server = vk("docs.getWallUploadServer")["upload_url"]
-    except Exception as e:
-        print(f"  ! GIF-документ: нет адреса загрузки: {e}")
-        return []
-    out = []
-    for i, u in enumerate(urls):
-        try:
-            gif = http("https://wsrv.nl/?url=" + urllib.parse.quote(u, safe="") + "&output=gif&w=900&we", timeout=40)
-            body, headers = multipart("file", f"stopkadr{i + 1}.gif", "image/gif", gif)
-            up = json.loads(http(server, body, headers, 60))
-            if "file" not in up:
-                print(f"  ! GIF-документ: ВК не принял файл: {up}")
-                continue
-            d = vk("docs.save", file=up["file"], title="СтопКадр")
-            d = d.get("doc") if isinstance(d, dict) else d[0]
-            out.append(f"doc{d['owner_id']}_{d['id']}")
-        except Exception as e:
-            print(f"  ! GIF-документ {u} не загрузился: {e}")
-    return out
-
-
-def find_photo(obj):
-    """Ищет в ответе ВК объект фото (с полями id и owner_id)."""
-    if isinstance(obj, dict):
-        if "id" in obj and "owner_id" in obj and ("sizes" in obj or "orig_photo" in obj):
-            return obj
-        for v in obj.values():
-            ph = find_photo(v)
-            if ph:
-                return ph
-    elif isinstance(obj, list):
-        for v in obj:
-            ph = find_photo(v)
-            if ph:
-                return ph
-    return None
-
-
-def link_snippet(link, title):
-    """Карточка ссылки с картинкой новости (ВК сам берёт фото со страницы). Возвращает параметры для wall.post."""
-    try:
-        res = vk("wall.parseAttachedLink", links=json.dumps([link]))
-        ph = find_photo(res)
-        if not ph:
-            print("  ! карточка ссылки: ВК не нашёл картинку на странице:", json.dumps(res, ensure_ascii=False)[:300])
-            return {}
-        return {"attachments": link, "link_photo_id": f"{ph['owner_id']}_{ph['id']}", "link_title": title[:100]}
-    except Exception as e:
-        print(f"  ! карточка ссылки не получилась: {e}")
-        return {}
-
-
 # ---------- Главное ----------
 def main():
     dry = "--dry-run" in sys.argv
-    seen = json.load(open(SEEN_FILE, encoding="utf-8")) if os.path.exists(SEEN_FILE) else []
+    if "--check-vk" in sys.argv:
+        photo_server()
+        print("ВК разрешил загрузку фото. Пост не публиковался.")
+        return
+    # Проверяем право загрузки до расходования запроса Gemini.
+    server = None if dry else photo_server()
+    seen = []
+    if os.path.exists(SEEN_FILE):
+        with open(SEEN_FILE, encoding="utf-8") as source:
+            seen = json.load(source)
     cands = fresh_news(set(seen))
     print(f"Свежих новостей: {len(cands)}")
     if not cands:
@@ -326,28 +353,17 @@ def main():
         pick, text = cands[0], f"[пробный запуск, текст напишет Gemini]\n\n{cands[0]['title']}\n\nИсточник: {cands[0]['link']}"
     else:
         pick, text = write_post(cands)
-    images = page_images(pick["link"]) or ([pick["image"]] if pick.get("image") else [])
+    images = image_urls(page_images(pick["link"]) + [pick.get("image")], pick["link"])
     print("Новость:", pick["link"], "\nФото:", images, "\n---\n" + text + "\n---")
     if dry:
         return
-    photos = upload_photos(images) if images else []
-    extra = {"attachments": ",".join(photos), "primary_attachments_mode": "carousel" if len(photos) > 1 else "grid"}
-    if not photos and images:  # фото загрузить не удалось — пробуем GIF-документ
-        gifs = upload_gif_docs(images[:1])
-        if gifs:
-            extra = {"attachments": ",".join(gifs)}
-    if not extra.get("attachments"):  # и это не вышло — карточка ссылки с картинкой
-        extra = link_snippet(pick["link"], text.splitlines()[0]) or {}
-    try:
-        res = vk("wall.post", owner_id="-" + GROUP_ID, from_group=1, message=text, **extra)
-    except RuntimeError as e:
-        if not extra.get("link_photo_id"):
-            raise
-        print(f"  ! пост с карточкой не принят ({e}) — публикую без неё")
-        res = vk("wall.post", owner_id="-" + GROUP_ID, from_group=1, message=text)
-    kind = (f"фото: {len(photos)}" if photos else "GIF-документ" if "doc" in extra.get("attachments", "")
-            else "карточка ссылки" if extra.get("link_photo_id") else "без картинки")
-    print(f"Опубликовано: https://vk.ru/wall-{GROUP_ID}_{res['post_id']} ({kind})")
+    photos = upload_photos(images, referer=pick["link"], server=server)
+    if not photos:
+        raise RuntimeError("Не удалось загрузить ни одного фото. Пост НЕ опубликован; "
+                           "новость не добавлена в seen.json. Проверьте источники изображений и журнал выше.")
+    res = vk("wall.post", owner_id="-" + GROUP_ID, from_group=1, message=text,
+             attachments=",".join(photos))
+    print(f"Опубликовано: https://vk.ru/wall-{GROUP_ID}_{res['post_id']} (фото: {len(photos)})")
     seen = (seen + [pick["link"]])[-1000:]
     with open(SEEN_FILE, "w", encoding="utf-8") as f:
         json.dump(seen, f, ensure_ascii=False, indent=0)

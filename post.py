@@ -125,10 +125,24 @@ def write_post(cands):
     body = json.dumps({
         "contents": [{"parts": [{"text": PROMPT + json.dumps(
             [{k: c[k] for k in ("index", "title", "summary", "date")} for c in cands], ensure_ascii=False)}]}],
-        "generationConfig": {"responseMimeType": "application/json"},
+        "generationConfig": {
+            "responseMimeType": "application/json",
+            # строгая схема: Gemini всегда вернёт ровно эти поля
+            "responseSchema": {
+                "type": "OBJECT",
+                "properties": {
+                    "index": {"type": "INTEGER"},
+                    "headline": {"type": "STRING"},
+                    "text": {"type": "STRING"},
+                    "hashtags": {"type": "ARRAY", "items": {"type": "STRING"}},
+                },
+                "required": ["index", "headline", "text", "hashtags"],
+            },
+        },
     }).encode()
     last = None
-    for model in GEMINI_MODELS:
+    # каждую модель пробуем дважды: при перегрузке (503) Google советует просто повторить чуть позже
+    for model in [m for m in GEMINI_MODELS for _ in range(2)]:
         try:
             raw = http(f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent", body,
                        {"Content-Type": "application/json", "x-goog-api-key": os.environ["GEMINI_API_KEY"]}, 90)
@@ -143,7 +157,7 @@ def write_post(cands):
             if isinstance(r, list):
                 r = r[0]
             headline = r.get("headline") or r.get("title") or r.get("заголовок") or ""
-            post_body = r.get("text") or r.get("post") or r.get("body") or r.get("content") or r.get("текст") or ""
+            post_body = r.get("text") or r.get("post") or r.get("body") or r.get("summary") or r.get("content") or r.get("текст") or ""
             if not post_body:
                 raise ValueError("в ответе нет текста поста: " + text[:400])
             try:
@@ -156,6 +170,8 @@ def write_post(cands):
         except urllib.error.HTTPError as e:
             last = f"{model}: HTTP {e.code} {e.read()[:300]!r}"
             print("  ! Gemini", last)
+            if e.code in (429, 500, 503):
+                time.sleep(20)
         except Exception as e:
             last = f"{model}: {e}"
             print("  ! Gemini", last)

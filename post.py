@@ -240,14 +240,45 @@ def upload_photos(urls):
     for i, u in enumerate(urls):
         try:
             img = http(as_jpg(u), timeout=40)
-            boundary = "----stopkadr%d" % random.randint(1, 10**9)
-            body = (f"--{boundary}\r\nContent-Disposition: form-data; name=\"photo\"; filename=\"photo{i + 1}.jpg\"\r\n"
-                    f"Content-Type: image/jpeg\r\n\r\n").encode() + img + f"\r\n--{boundary}--\r\n".encode()
-            up = json.loads(http(server, body, {"Content-Type": f"multipart/form-data; boundary={boundary}"}, 60))
+            body, headers = multipart("photo", f"photo{i + 1}.jpg", "image/jpeg", img)
+            up = json.loads(http(server, body, headers, 60))
             ph = vk("photos.saveWallPhoto", group_id=GROUP_ID, server=up["server"], photo=up["photo"], hash=up["hash"])[0]
             out.append(f"photo{ph['owner_id']}_{ph['id']}")
         except Exception as e:
             print(f"  ! фото {u} не загрузилось: {e}")
+    return out
+
+
+def multipart(field, filename, mime, data):
+    boundary = "----stopkadr%d" % random.randint(1, 10**9)
+    head = (f"--{boundary}\r\nContent-Disposition: form-data; name=\"{field}\"; filename=\"{filename}\"\r\n"
+            f"Content-Type: {mime}\r\n\r\n")
+    body = head.encode() + data + f"\r\n--{boundary}--\r\n".encode()
+    return body, {"Content-Type": f"multipart/form-data; boundary={boundary}"}
+
+
+def upload_gif_docs(urls):
+    """Запасной способ для ключа сообщества: картинка как GIF-документ (ВК показывает его в посте крупно).
+    Нужны: право «Документы» у ключа и включённый раздел «Файлы» в группе."""
+    try:
+        server = vk("docs.getWallUploadServer")["upload_url"]
+    except Exception as e:
+        print(f"  ! GIF-документ: нет адреса загрузки: {e}")
+        return []
+    out = []
+    for i, u in enumerate(urls):
+        try:
+            gif = http("https://wsrv.nl/?url=" + urllib.parse.quote(u, safe="") + "&output=gif&w=900&we", timeout=40)
+            body, headers = multipart("file", f"stopkadr{i + 1}.gif", "image/gif", gif)
+            up = json.loads(http(server, body, headers, 60))
+            if "file" not in up:
+                print(f"  ! GIF-документ: ВК не принял файл: {up}")
+                continue
+            d = vk("docs.save", file=up["file"], title="СтопКадр")
+            d = d.get("doc") if isinstance(d, dict) else d[0]
+            out.append(f"doc{d['owner_id']}_{d['id']}")
+        except Exception as e:
+            print(f"  ! GIF-документ {u} не загрузился: {e}")
     return out
 
 
@@ -301,7 +332,11 @@ def main():
         return
     photos = upload_photos(images) if images else []
     extra = {"attachments": ",".join(photos), "primary_attachments_mode": "carousel" if len(photos) > 1 else "grid"}
-    if not photos:  # фото загрузить не удалось — пробуем карточку ссылки с картинкой
+    if not photos and images:  # фото загрузить не удалось — пробуем GIF-документ
+        gifs = upload_gif_docs(images[:1])
+        if gifs:
+            extra = {"attachments": ",".join(gifs)}
+    if not extra.get("attachments"):  # и это не вышло — карточка ссылки с картинкой
         extra = link_snippet(pick["link"], text.splitlines()[0]) or {}
     try:
         res = vk("wall.post", owner_id="-" + GROUP_ID, from_group=1, message=text, **extra)
@@ -310,7 +345,8 @@ def main():
             raise
         print(f"  ! пост с карточкой не принят ({e}) — публикую без неё")
         res = vk("wall.post", owner_id="-" + GROUP_ID, from_group=1, message=text)
-    kind = f"фото: {len(photos)}" if photos else ("карточка ссылки" if extra.get("link_photo_id") else "без картинки")
+    kind = (f"фото: {len(photos)}" if photos else "GIF-документ" if "doc" in extra.get("attachments", "")
+            else "карточка ссылки" if extra.get("link_photo_id") else "без картинки")
     print(f"Опубликовано: https://vk.ru/wall-{GROUP_ID}_{res['post_id']} ({kind})")
     seen = (seen + [pick["link"]])[-1000:]
     with open(SEEN_FILE, "w", encoding="utf-8") as f:

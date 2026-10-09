@@ -1,0 +1,34 @@
+name: Пост в ВК
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # каждый час
+  workflow_dispatch:       # кнопка «Run workflow» для ручного запуска
+
+permissions:
+  contents: write          # чтобы сохранять seen.json (список опубликованных новостей)
+
+concurrency:
+  group: vk-post
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Опубликовать пост
+        env:
+          VK_TOKEN: ${{ secrets.VK_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python post.py
+      - name: Запомнить опубликованную новость
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add seen.json
+          git diff --cached --quiet || (git commit -m "seen" && git push)

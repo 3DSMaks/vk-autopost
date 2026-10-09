@@ -6,6 +6,12 @@ import unittest
 from unittest.mock import patch
 import urllib.error
 import max_post as mx
+import contextlib, io
+
+
+def quiet():
+    """Глушит печать в тестах, чтобы тестовые данные не путались с настоящими в логе GitHub."""
+    return contextlib.redirect_stdout(io.StringIO())
 
 
 class MaxTests(unittest.TestCase):
@@ -23,7 +29,7 @@ class MaxTests(unittest.TestCase):
         not_ready = RuntimeError('not ready'); not_ready.code = 'attachment.not.ready'
         with patch.object(mx, 'upload_image', return_value={'photos': {'a': {'token': 't'}}}), \
              patch.object(mx, 'api', side_effect=[not_ready, {'message': {'url': 'u'}}]) as api, \
-             patch.object(mx.time, 'sleep') as sleep:
+             patch.object(mx.time, 'sleep') as sleep, quiet():
             self.assertEqual(mx.publish('-1', 'A < B', 'https://e.com', [b'1']), {'message': {'url': 'u'}})
         method, path, params, body = api.call_args.args
         self.assertEqual((method, path, params), ('POST', '/messages', {'chat_id': '-1'}))
@@ -86,9 +92,10 @@ class MaxTests(unittest.TestCase):
                      patch.object(mx, 'publish', side_effect=None if success else RuntimeError('failed'),
                                   return_value={'message': {'url': 'u'}}):
                     if success:
-                        mx.main()
+                        with quiet():
+                            mx.main()
                     else:
-                        with self.assertRaises(RuntimeError):
+                        with self.assertRaises(RuntimeError), quiet():
                             mx.main()
                 self.assertEqual(json.loads(state.read_text()), [pick['link']] if success else [])
 
@@ -97,7 +104,7 @@ class MaxTests(unittest.TestCase):
         replies = [{'updates': [{'update_type': 'bot_added', 'chat_id': -77}, {'update_type': 'message_created',
                     'message': {'recipient': {'chat_id': -77}}}, {'update_type': 'bot_added', 'chat_id': -88}]},
                    {'type': 'channel', 'title': 'СтопКадр'}, {'type': 'chat', 'title': 'Другой'}]
-        with patch.object(mx, 'api', side_effect=replies):
+        with patch.object(mx, 'api', side_effect=replies), quiet():
             self.assertEqual(mx.find_chats(), [-77, -88])
 
 if __name__ == '__main__':

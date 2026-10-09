@@ -251,6 +251,37 @@ def upload_photos(urls):
     return out
 
 
+def find_photo(obj):
+    """Ищет в ответе ВК объект фото (с полями id и owner_id)."""
+    if isinstance(obj, dict):
+        if "id" in obj and "owner_id" in obj and ("sizes" in obj or "orig_photo" in obj):
+            return obj
+        for v in obj.values():
+            ph = find_photo(v)
+            if ph:
+                return ph
+    elif isinstance(obj, list):
+        for v in obj:
+            ph = find_photo(v)
+            if ph:
+                return ph
+    return None
+
+
+def link_snippet(link, title):
+    """Карточка ссылки с картинкой новости (ВК сам берёт фото со страницы). Возвращает параметры для wall.post."""
+    try:
+        res = vk("wall.parseAttachedLink", links=json.dumps([link]))
+        ph = find_photo(res)
+        if not ph:
+            print("  ! карточка ссылки: ВК не нашёл картинку на странице:", json.dumps(res, ensure_ascii=False)[:300])
+            return {}
+        return {"attachments": link, "link_photo_id": f"{ph['owner_id']}_{ph['id']}", "link_title": title[:100]}
+    except Exception as e:
+        print(f"  ! карточка ссылки не получилась: {e}")
+        return {}
+
+
 # ---------- Главное ----------
 def main():
     dry = "--dry-run" in sys.argv
@@ -269,9 +300,18 @@ def main():
     if dry:
         return
     photos = upload_photos(images) if images else []
-    res = vk("wall.post", owner_id="-" + GROUP_ID, from_group=1, message=text, attachments=",".join(photos),
-             primary_attachments_mode="carousel" if len(photos) > 1 else "grid")
-    print(f"Опубликовано: https://vk.ru/wall-{GROUP_ID}_{res['post_id']} (фото: {len(photos)})")
+    extra = {"attachments": ",".join(photos), "primary_attachments_mode": "carousel" if len(photos) > 1 else "grid"}
+    if not photos:  # фото загрузить не удалось — пробуем карточку ссылки с картинкой
+        extra = link_snippet(pick["link"], text.splitlines()[0]) or {}
+    try:
+        res = vk("wall.post", owner_id="-" + GROUP_ID, from_group=1, message=text, **extra)
+    except RuntimeError as e:
+        if not extra.get("link_photo_id"):
+            raise
+        print(f"  ! пост с карточкой не принят ({e}) — публикую без неё")
+        res = vk("wall.post", owner_id="-" + GROUP_ID, from_group=1, message=text)
+    kind = f"фото: {len(photos)}" if photos else ("карточка ссылки" if extra.get("link_photo_id") else "без картинки")
+    print(f"Опубликовано: https://vk.ru/wall-{GROUP_ID}_{res['post_id']} ({kind})")
     seen = (seen + [pick["link"]])[-1000:]
     with open(SEEN_FILE, "w", encoding="utf-8") as f:
         json.dump(seen, f, ensure_ascii=False, indent=0)

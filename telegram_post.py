@@ -44,7 +44,16 @@ GAME_PROMPT = (news.PROMPT
                .replace('сообщества ВКонтакте «СтопКадр» о кино и сериалах', 'Telegram-канала «СтопКадр» о кино, сериалах и видеоиграх')
                .replace('именно про кино или сериалы (не игры, не музыку, не политику)', 'именно про видеоигры (не кино, не железо, не киберспортивные результаты, не политику)')
                .replace('Предпочитай громкие премьеры, трейлеры, кастинг, продолжения, сборы и рейтинги.', AAA_PRIORITY))
-MOVIE_PROMPT = news.PROMPT.replace('сообщества ВКонтакте', 'Telegram-канала')
+FRANCHISE_PRIORITY = (
+    'ГЛАВНЫЙ ПРИОРИТЕТ — крупные франшизы, блокбастеры и громкие сериалы: Marvel, DC, «Звёздные войны», '
+    '«Гарри Поттер», «Властелин колец», «Дюна», «Мир Юрского периода», «Миссия невыполнима», «Форсаж», «Джон Уик», '
+    'Джеймс Бонд, «Аватар», «Чужой», «Хищник», «Терминатор», «Матрица», «Трансформеры», Pixar и Disney, '
+    '«Игра престолов», «Ведьмак», «Очень странные дела», «Одни из нас», «Пацаны», экранизации больших игр и комиксов, '
+    'новые фильмы Нолана, Вильнёва, Тарантино, Кэмерона, Спилберга, Скорсезе. Если среди новостей есть хоть одна про '
+    'такую франшизу — выбери её. Фестивальное, нишевое и малоизвестное кино — только когда таких новостей нет. '
+    'Среди крупных проектов предпочитай трейлеры, премьеры, кастинг, продолжения, сборы и рейтинги.')
+MOVIE_PROMPT = (news.PROMPT.replace('сообщества ВКонтакте', 'Telegram-канала')
+                .replace('Предпочитай громкие премьеры, трейлеры, кастинг, продолжения, сборы и рейтинги.', FRANCHISE_PRIORITY))
 TOPICS = {'games': (GAME_FEEDS, GAME_PROMPT), 'cinema': (news.FEEDS, MOVIE_PROMPT)}
 
 
@@ -317,13 +326,38 @@ def pictures(pick):
 SKIP = 'skip:'  # так в истории помечены новости, к которым не нашлось фото (их больше не предлагаем)
 
 
+TITLE = 'title:'  # в истории: title:<заголовок опубликованной новости> — чтобы не повторять тему из другого источника
+
+
 def history_links(seen):
     """Все ссылки из истории — и опубликованные, и пропущенные без фото."""
-    return {s[len(SKIP):] if s.startswith(SKIP) else s for s in seen}
+    return {s[len(SKIP):] if s.startswith(SKIP) else s for s in seen if not s.startswith((TITLE, VIDEO))}
 
 
 def published_count(seen):
-    return sum(1 for s in seen if not s.startswith((SKIP, VIDEO)))
+    return sum(1 for s in seen if not s.startswith((SKIP, VIDEO, TITLE)))
+
+
+def recent_topics(seen, limit=25):
+    """Заголовки недавно опубликованных новостей; для старых записей без заголовка — «слаг» из адреса."""
+    titles = [s[len(TITLE):] for s in seen if s.startswith(TITLE)]
+    if len(titles) < limit:
+        links = [s for s in seen if s.startswith('http')][-(limit - len(titles)):]
+        titles = [urllib.parse.urlsplit(l).path.strip('/').split('/')[-1].replace('-', ' ').replace('_', ' ')
+                  for l in links] + titles
+    return [t for t in titles if t][-limit:]
+
+
+def selection_prompt(topic, seen):
+    """Инструкция для выбора новости + список недавних тем, чтобы одна новость из разных источников не выходила дважды."""
+    prompt = TOPICS[topic][1]
+    recent = recent_topics(seen)
+    if not recent:
+        return prompt
+    block = ('Эти новости УЖЕ опубликованы в канале. НЕ выбирай новость о том же событии или анонсе, '
+             'даже если она из другого источника, на другом языке или с другим заголовком:\n'
+             + '\n'.join('- ' + t for t in recent) + '\n\n')
+    return prompt.replace('Новости:\n', block + 'Новости:\n')
 
 
 # ---------- Трейлеры (только Telegram) ----------
@@ -378,8 +412,10 @@ def pick_with_photos(candidates, attempts=3):
     return None, None, [], skipped
 
 
-def save_history(path, seen, published=None, skipped=(), video=False):
+def save_history(path, seen, published=None, skipped=(), video=False, title=None):
     marks = [f'{VIDEO}{moscow_today()}:{published}'] if published and video else []
+    if published and title:
+        marks.append(TITLE + ' '.join(title.split())[:150])
     updated = list(dict.fromkeys(seen + [SKIP + s for s in skipped] + ([published] if published else []) + marks))[-1000:]
     temporary = path.with_suffix('.tmp')
     temporary.write_text(json.dumps(updated, ensure_ascii=False, indent=2), encoding='utf-8')
@@ -407,7 +443,7 @@ def main():
     if args.check:
         print('Проверка завершена. Ничего не опубликовано.')
         return
-    seen = json.loads(SEEN_FILE.read_text()) if SEEN_FILE.exists() else []
+    seen = json.loads(SEEN_FILE.read_text(encoding='utf-8')) if SEEN_FILE.exists() else []
     candidates = []
     for topic in topic_order(published_count(seen)):
         candidates = fresh_for(topic, history_links(seen))
@@ -417,7 +453,7 @@ def main():
         print('Свежих неопубликованных новостей нет')
         return
     print('Тема:', 'видеоигры' if topic == 'games' else 'кино и сериалы', '| свежих новостей:', len(candidates))
-    news.PROMPT = TOPICS[topic][1]
+    news.PROMPT = selection_prompt(topic, seen)
     pick, text, photos, skipped = pick_with_photos(candidates)
     if not photos:
         save_history(SEEN_FILE, seen, skipped=skipped)
@@ -430,7 +466,7 @@ def main():
         result = publish_video(chat_id, text, pick['link'], video, formatted)
     else:
         result = publish(chat_id, text, pick['link'], photos, formatted)
-    save_history(SEEN_FILE, seen, pick['link'], skipped, video=bool(video))
+    save_history(SEEN_FILE, seen, pick['link'], skipped, video=bool(video), title=pick.get('title'))
     messages = result if isinstance(result, list) else [result]
     print('Опубликовано; ID сообщений:', ', '.join(str(m['message_id']) for m in messages))
 

@@ -109,7 +109,7 @@ class TelegramTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmp:
             state = Path(tmp) / 'seen.json'
             tg.save_history(state, ['X'], 'B', ['A'])
-            seen = json.loads(state.read_text())
+            seen = json.loads(state.read_text(encoding='utf-8'))
         self.assertEqual(seen, ['X', 'skip:A', 'B'])
         self.assertEqual(tg.history_links(seen), {'X', 'A', 'B'})
         self.assertEqual(tg.published_count(seen), 2)
@@ -200,6 +200,27 @@ class TelegramTests(unittest.TestCase):
     def jpeg(self, color):
         from PIL import Image as _Image
         buf = io.BytesIO(); _Image.new('RGB', (300, 200), color).save(buf, 'JPEG'); return buf.getvalue()
+
+    def test_recent_topics_go_into_prompt(self):
+        seen = ['https://gamemag.ru/news/1/silent-hill-new-waves', 'title:Konami готовит новые волны Silent Hill']
+        prompt = tg.selection_prompt('games', seen)
+        self.assertIn('УЖЕ опубликованы', prompt)
+        self.assertIn('Konami готовит новые волны Silent Hill', prompt)
+        self.assertIn('silent hill new waves', prompt)
+        self.assertLess(prompt.index('УЖЕ опубликованы'), prompt.rindex('Новости:'))
+        self.assertNotIn('УЖЕ опубликованы', tg.selection_prompt('games', []))
+
+    def test_title_saved_and_ignored_by_counters(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            state = Path(tmp) / 'seen.json'
+            tg.save_history(state, [], 'https://e.com/a', title='Заголовок  новости')
+            seen = json.loads(state.read_text(encoding='utf-8'))
+        self.assertEqual(seen, ['https://e.com/a', 'title:Заголовок новости'])
+        self.assertEqual(tg.history_links(seen), {'https://e.com/a'})
+        self.assertEqual(tg.published_count(seen), 1)
+
+    def test_cinema_prioritizes_franchises(self):
+        self.assertIn('крупные франшизы', tg.TOPICS['cinema'][1])
 
 
 def quiet():

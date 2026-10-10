@@ -6,6 +6,7 @@ import argparse
 import html
 import json
 import os
+import re
 from pathlib import Path
 import ssl
 import sys
@@ -121,8 +122,19 @@ def upload_image(data):
     raise RuntimeError('MAX: после загрузки фото не пришёл токен')
 
 
+def without_hashtags(text):
+    """Убирает строки, состоящие только из хэштегов, и хэштеги в конце строк."""
+    lines = []
+    for line in text.split('\n'):
+        words = line.split()
+        if words and all(w.startswith('#') for w in words):
+            continue
+        lines.append(re.sub(r'(\s+#[\w-]+)+\s*$', '', line))
+    return re.sub(r'\n{3,}', '\n\n', '\n'.join(lines)).strip()
+
+
 def message_text(text, link):
-    text = text.rsplit('\n\nИсточник:', 1)[0][:TEXT_LIMIT].rstrip()
+    text = without_hashtags(text.rsplit('\n\nИсточник:', 1)[0])[:TEXT_LIMIT].rstrip()
     return html.escape(text) + '\n\n<a href="' + html.escape(link, quote=True) + '">Источник</a>'
 
 

@@ -107,5 +107,13 @@ class MaxTests(unittest.TestCase):
         with patch.object(mx, 'api', side_effect=replies), quiet():
             self.assertEqual(mx.find_chats(), [-77, -88])
 
+    def test_hashtags_removed(self):
+        text = 'Заголовок\n\nТекст поста #не_трогать_в_середине? нет\n\n#Кино #Сериалы\n\nИсточник: https://e.com'
+        out = mx.message_text(text, 'https://e.com')
+        self.assertNotIn('#Кино', out)
+        self.assertNotIn('#Сериалы', out)
+        self.assertIn('Текст поста', out)
+        self.assertEqual(mx.without_hashtags('Абзац про игру #Игры #PS5'), 'Абзац про игру')
+
 if __name__ == '__main__':
     unittest.main()

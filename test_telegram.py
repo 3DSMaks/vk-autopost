@@ -56,7 +56,7 @@ class TelegramTests(unittest.TestCase):
                 state = Path(tmp) / 'seen.json'
                 state.write_text('[]')
                 pick = {'link':'https://example.com/news'}
-                with patch('sys.argv', ['telegram_post.py']), patch.object(tg, 'SEEN_FILE', state), patch.object(tg, 'check_channel', return_value='@channel'), patch.object(tg.news, 'fresh_news', return_value=[pick]), patch.object(tg.news, 'write_post', return_value=(pick, 'Text')), patch.object(tg, 'pictures', return_value=[b'jpg']), patch.object(tg, 'trailer_url', return_value=None), patch.object(tg, 'publish', side_effect=None if success else RuntimeError('failed'), return_value={'message_id':1}):
+                with patch('sys.argv', ['telegram_post.py']), patch.object(tg, 'SEEN_FILE', state), patch.object(tg, 'check_channel', return_value='@channel'), patch.object(tg.news, 'fresh_news', return_value=[pick]), patch.object(tg.news, 'write_post', return_value=(pick, 'Text')), patch.object(tg, 'pictures', return_value=[b'jpg']), patch.object(tg, 'trailer_url', return_value=None), patch.object(tg, 'tg_format', return_value=None), patch.object(tg, 'publish', side_effect=None if success else RuntimeError('failed'), return_value={'message_id':1}):
                     if success:
                         tg.main()
                     else:
@@ -89,7 +89,7 @@ class TelegramTests(unittest.TestCase):
             ImageDraw.Draw(im).rectangle([0, 0, size[0] // 2, size[1]], fill=color)
             buf = _io.BytesIO(); im.save(buf, 'JPEG'); return buf.getvalue()
         big, small, other = jpeg((800, 450), 'black'), jpeg((400, 225), 'black'), jpeg((800, 450), 'white')
-        with patch.object(tg.news, 'page_images', return_value=[]), patch.object(tg.news, 'image_urls', return_value=['1', '2', '3']), patch.object(tg.news, 'download_jpeg', side_effect=[big, small, other]):
+        with patch.object(tg.news, 'page_images', return_value=[]), patch.object(tg.news, 'image_urls', return_value=['1', '2', '3']), patch.object(tg.news, 'download_jpeg', side_effect=[big, small, other]), patch.object(tg, 'vet_images', side_effect=lambda t, imgs: imgs):
             self.assertEqual(tg.pictures({'link': 'x'}), [big, other])
 
     def test_no_photo_picks_another(self):
@@ -145,7 +145,7 @@ class TelegramTests(unittest.TestCase):
             state = Path(tmp) / 'seen.json'
             state.write_text(json.dumps(seen))
             pick = {'link': 'https://e.com/n', 'index': 0}
-            with patch('sys.argv', ['telegram_post.py']), patch.object(tg, 'SEEN_FILE', state),                  patch.object(tg, 'check_channel', return_value='@c'), patch.object(tg, 'fresh_for', return_value=[pick]),                  patch.object(tg.news, 'write_post', return_value=(pick, 'T')), patch.object(tg, 'pictures', return_value=[b'jpg']),                  patch.object(tg, 'trailer_url', return_value=trailer),                  patch.object(tg, 'publish', return_value={'message_id': 1}) as photo,                  patch.object(tg, 'publish_video', return_value={'message_id': 2}) as video,                  contextlib.redirect_stdout(io.StringIO()):
+            with patch('sys.argv', ['telegram_post.py']), patch.object(tg, 'SEEN_FILE', state),                  patch.object(tg, 'check_channel', return_value='@c'), patch.object(tg, 'fresh_for', return_value=[pick]),                  patch.object(tg.news, 'write_post', return_value=(pick, 'T')), patch.object(tg, 'pictures', return_value=[b'jpg']),                  patch.object(tg, 'trailer_url', return_value=trailer), patch.object(tg, 'tg_format', return_value=None),                  patch.object(tg, 'publish', return_value={'message_id': 1}) as photo,                  patch.object(tg, 'publish_video', return_value={'message_id': 2}) as video,                  contextlib.redirect_stdout(io.StringIO()):
                 tg.main()
             return photo.called, video.called, json.loads(state.read_text())
 
@@ -164,6 +164,45 @@ class TelegramTests(unittest.TestCase):
     def test_main_without_trailer_posts_photos(self):
         photo, video, _ = self.run_main([], None)
         self.assertEqual((photo, video), (True, False))
+
+    def test_sanitize_keeps_only_safe_tags(self):
+        self.assertEqual(tg.sanitize_tg_html('<b>Заг</b>\n<script>x</script> A &amp; B <blockquote>«Ц»</blockquote>'),
+                         '<b>Заг</b>\n&lt;script&gt;x&lt;/script&gt; A &amp; B <blockquote>«Ц»</blockquote>')
+        self.assertIsNone(tg.sanitize_tg_html('<b>не закрыт'))
+        self.assertIsNone(tg.sanitize_tg_html('<b><i>криво</b></i>'))
+
+    def test_tg_format_uses_gemini_html_or_falls_back(self):
+        pick = {'link': 'https://e.com', 'summary': 's'}
+        with patch.object(tg, 'article_text', return_value='текст'), \
+             patch.object(tg, 'gemini_json', return_value={'post': '<b>Заголовок</b>\n\n• пункт\n\n#Игры'}):
+            self.assertEqual(tg.tg_format(pick, 'draft'), '<b>Заголовок</b>\n\n• пункт\n\n#Игры')
+        with patch.object(tg, 'article_text', return_value=''), \
+             patch.object(tg, 'gemini_json', return_value={'post': '<b>' + 'я' * 2000 + '</b>'}), quiet():
+            self.assertIsNone(tg.tg_format(pick, 'draft'))
+        with patch.object(tg, 'article_text', return_value=''), \
+             patch.object(tg, 'gemini_json', side_effect=RuntimeError('down')), quiet():
+            self.assertIsNone(tg.tg_format(pick, 'draft'))
+
+    def test_caption_with_formatted_html(self):
+        self.assertEqual(tg.caption('raw', 'https://e.com', '<b>X</b>'), '<b>X</b>\n\n<a href="https://e.com">Источник</a>')
+
+    def test_vet_images_keeps_relevant_in_gemini_order(self):
+        imgs = [self.jpeg('red'), self.jpeg('green'), self.jpeg('blue')]
+        with patch.object(tg, 'gemini_json', return_value={'keep': [2, 0, 2, 9]}), quiet():
+            self.assertEqual(tg.vet_images('t', imgs), [imgs[2], imgs[0]])
+        with patch.object(tg, 'gemini_json', return_value={'keep': []}), quiet():
+            self.assertEqual(tg.vet_images('t', imgs), [imgs[0]])
+        with patch.object(tg, 'gemini_json', side_effect=RuntimeError('down')), quiet():
+            self.assertEqual(tg.vet_images('t', imgs), imgs)
+
+    def jpeg(self, color):
+        from PIL import Image as _Image
+        buf = io.BytesIO(); _Image.new('RGB', (300, 200), color).save(buf, 'JPEG'); return buf.getvalue()
+
+
+def quiet():
+    return contextlib.redirect_stdout(io.StringIO())
+
 
 if __name__ == '__main__':
     unittest.main()

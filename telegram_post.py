@@ -3,14 +3,17 @@
 Темы чередуются через пост: игры, кино, игры, кино… (по числу уже опубликованных новостей).
 Если по теме часа свежих новостей нет, берётся другая тема."""
 import argparse
+import base64
 import hashlib
 import html
 import io
 import json
 import os
+import random
 import re
 from pathlib import Path
 import sys
+import time
 import urllib.error
 import urllib.parse
 import uuid
@@ -108,11 +111,166 @@ def check_channel():
     return chat_id
 
 
-def caption(text, link):
+# ---------- Gemini: общий вызов с JSON-ответом ----------
+def gemini_json(parts, schema, timeout=90):
+    """Запрос к Gemini (текст и картинки) со строгой схемой ответа. Возвращает dict или бросает RuntimeError."""
+    body = json.dumps({'contents': [{'parts': parts}],
+                       'generationConfig': {'responseMimeType': 'application/json', 'responseSchema': schema}}).encode()
+    last = None
+    for model in [m for m in news.GEMINI_MODELS for _ in range(2)]:
+        try:
+            raw = news.http(f'https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent', body,
+                            {'Content-Type': 'application/json', 'x-goog-api-key': os.environ['GEMINI_API_KEY']}, timeout)
+            res = json.loads(raw)
+            got = (res.get('candidates') or [{}])[0].get('content', {}).get('parts', [])
+            text = ''.join(p.get('text', '') for p in got if not p.get('thought'))
+            return json.loads(re.search(r'\{[\s\S]*\}', text).group(0))
+        except urllib.error.HTTPError as exc:
+            last = f'{model}: HTTP {exc.code}'
+            if exc.code in (429, 500, 503):
+                time.sleep(15)
+        except Exception as exc:
+            last = f'{model}: {type(exc).__name__}'
+    raise RuntimeError('Gemini не ответил: ' + str(last))
+
+
+# ---------- Проверка картинок ----------
+def thumb_b64(data, size=512):
+    with Image.open(io.BytesIO(data)) as im:
+        im = im.convert('RGB')
+        im.thumbnail((size, size))
+        out = io.BytesIO()
+        im.save(out, 'JPEG', quality=80)
+    return base64.b64encode(out.getvalue()).decode()
+
+
+def vet_images(title, images, limit=3):
+    """Gemini смотрит картинки и оставляет только относящиеся к новости, без повторов; лучшая — первой.
+    Если Gemini недоступен — возвращаем первые картинки как есть."""
+    if len(images) <= 1:
+        return images[:limit]
+    parts = [{'text': (
+        f'Заголовок новости: «{title}».\n'
+        f'Ниже {len(images)} изображений, по порядку с номерами 0..{len(images) - 1}. '
+        'Верни в keep номера только тех, что явно относятся к ЭТОЙ новости: кадры, постеры, скриншоты, обложки, '
+        'фото людей из новости. Убери: повторы одного и того же изображения (даже с другим кадрированием, размером '
+        'или надписями), логотипы сайтов, рекламу, баннеры, превью других новостей, аватарки, иконки. '
+        'Упорядочь от лучшей картинки для обложки поста к худшей.')}]
+    for data in images:
+        parts.append({'inline_data': {'mime_type': 'image/jpeg', 'data': thumb_b64(data)}})
+    schema = {'type': 'OBJECT', 'properties': {'keep': {'type': 'ARRAY', 'items': {'type': 'INTEGER'}}}, 'required': ['keep']}
+    try:
+        keep = gemini_json(parts, schema, 60).get('keep') or []
+    except RuntimeError as exc:
+        print('Проверка картинок пропущена:', exc)
+        return images[:limit]
+    chosen = [images[i] for i in dict.fromkeys(keep) if isinstance(i, int) and 0 <= i < len(images)]
+    print(f'Картинки: Gemini оставил {len(chosen)} из {len(images)}')
+    return chosen[:limit] or images[:1]
+
+
+# ---------- Оформление поста для Telegram ----------
+STYLES = [
+    'СПИСОК: один короткий вводный абзац; затем строка-подзаголовок вроде «Что изменилось:», «Главное:» или «Что известно:»; '
+    'затем 3–5 пунктов, каждый с новой строки и начинается с «• ».',
+    'ЦИТАТА: вводный абзац; затем короткая прямая цитата из текста источника в <blockquote>«…»</blockquote> '
+    '(переведи на русский; только если в источнике есть прямая речь — иначе используй формат АБЗАЦЫ); затем один абзац контекста.',
+    'АБЗАЦЫ: 2–3 коротких абзаца; ключевые имена, названия и цифры выдели <b>жирным</b>.',
+    'КАРТОЧКА: одна вводная фраза; затем 3–4 строки вида «<b>Дата выхода:</b> …», «<b>Платформы:</b> …», «<b>Режиссёр:</b> …» '
+    '(только факты из источника); затем короткий вывод одной фразой.',
+]
+ALLOWED_TAGS = ('b', 'i', 'u', 's', 'blockquote', 'code')
+
+
+CONTENT = re.compile(r'''(?:class|itemprop)=["'][^"']*\b(?:content-text|article[-_]?(?:body|text|content)|entry-content|'''
+                     r'''news[-_]?text|post[-_]?(?:content|body)|text-content|material-text|articleBody|b-text)\b''', re.I)
+
+
+def paragraph_groups(page, gap=800):
+    """Абзацы <p>, сгруппированные в блоки: соседние абзацы ближе gap символов разметки — один блок."""
+    groups, cur, last_end = [], [], None
+    for m in re.finditer(r'<p\b[^>]*>([\s\S]*?)</p>', page, re.I):
+        text = news.strip(m.group(1))
+        if last_end is not None and m.start() - last_end > gap:
+            groups.append(cur)
+            cur = []
+        if len(text) > 40:
+            cur.append(text)
+        last_end = m.end()
+    groups.append(cur)
+    return [g for g in groups if g]
+
+
+def article_text(link, limit=3500):
+    """Текст статьи: блок с типичным классом тела статьи (content-text, articleBody…);
+    иначе самый «плотный» блок подряд идущих абзацев — как режим чтения в браузере."""
+    try:
+        page = news.http(link, timeout=15).decode('utf-8', 'ignore')
+    except Exception:
+        return ''
+    page = re.sub(r'<(script|style|noscript)\b[\s\S]*?</\1>', ' ', page, flags=re.I)
+    marked = CONTENT.search(page)
+    if marked:
+        groups = paragraph_groups(page[marked.start():])
+        if groups and sum(len(t) for t in groups[0]) > 150:
+            return '\n'.join(groups[0])[:limit]
+    best = max(paragraph_groups(page), key=lambda g: sum(len(t) for t in g), default=[])
+    return '\n'.join(best)[:limit]
+
+
+def sanitize_tg_html(value):
+    """Оставляет только безопасные теги Telegram (b, i, u, s, blockquote, code); при несбалансированных тегах — None."""
+    text = html.escape(html.unescape(value or '').strip(), quote=False)
+    text = re.sub(r'&lt;(/?)(%s)&gt;' % '|'.join(ALLOWED_TAGS), r'<\1\2>', text)
+    stack = []
+    for closing, name in re.findall(r'<(/?)(\w+)>', text):
+        if not closing:
+            stack.append(name)
+        elif not stack or stack.pop() != name:
+            return None
+    return None if stack else text
+
+
+def visible_len(value):
+    return len(html.unescape(re.sub(r'<[^>]+>', '', value)).encode('utf-16-le')) // 2
+
+
+def tg_format(pick, draft, style=None):
+    """Переписывает пост в оформлении Telegram-канала. Возвращает безопасный HTML или None (тогда — обычный текст)."""
+    style = style or random.choice(STYLES)
+    source = article_text(pick['link']) or pick.get('summary', '')
+    prompt = (
+        'Ты редактор Telegram-канала «СтопКадр» о кино, сериалах и видеоиграх. Оформи пост на русском по новости.\n'
+        f'Формат этого поста — {style}\n'
+        'Общие правила:\n'
+        '1. Первая строка — заголовок в <b>…</b>: цепляющий, до 80 символов.\n'
+        '2. Факты, имена, даты, цифры и цитаты — только из текста источника, ничего не выдумывай. Переводи на естественный русский.\n'
+        '3. Весь пост — не длиннее 850 символов. Между блоками — пустая строка.\n'
+        '4. Можно 1–2 уместных эмодзи, не больше.\n'
+        '5. Последняя строка — 1–2 хэштега на русском или по названию игры/фильма (например #CallOfDuty).\n'
+        '6. Разметка — только теги <b>, <i>, <blockquote>. Без ссылок, без HTML-сущностей вроде &amp;.\n\n'
+        f'Черновик поста:\n{draft}\n\nТекст источника:\n{source}'
+    )
+    schema = {'type': 'OBJECT', 'properties': {'post': {'type': 'STRING'}}, 'required': ['post']}
+    try:
+        post = sanitize_tg_html(gemini_json([{'text': prompt}], schema).get('post', ''))
+    except RuntimeError as exc:
+        print('Оформление пропущено:', exc)
+        return None
+    if not post or visible_len(post) > 960:
+        print('Оформление не подошло (разметка или длина) — публикую обычный текст')
+        return None
+    return post
+
+
+def caption(text, link, formatted=None):
     # Ссылка скрыта под словом «Источник»; лимит считаем консервативно в UTF-16.
+    source = '\n\n<a href="' + html.escape(link, quote=True) + '">Источник</a>'
+    if formatted:
+        return formatted + source
     text = text.rsplit('\n\nИсточник:', 1)[0]
     text = text.encode('utf-16-le')[:980 * 2].decode('utf-16-le', errors='ignore').rstrip()
-    return html.escape(text) + '\n\n<a href="' + html.escape(link, quote=True) + '">Источник</a>'
+    return html.escape(text) + source
 
 
 def looks_like(data):
@@ -135,16 +293,16 @@ def pictures(pick):
                     continue
             digest = hashlib.sha256(data).digest()
             fp = looks_like(data)
-            same = any(bin(fp ^ other).count('1') < 26 for other in prints)  # < 10% различий из 256
+            same = any(bin(fp ^ other).count('1') < 40 for other in prints)  # < 15% различий из 256
             if digest not in hashes and not same and len(data) <= 10 * 1024 * 1024:
                 hashes.add(digest)
                 prints.append(fp)
                 out.append(data)
-            if len(out) == 3:
+            if len(out) == 6:
                 break
         except Exception:
             print('Кандидат изображения недоступен, пробую следующий')
-    return out
+    return vet_images(pick.get('title', ''), out)
 
 
 SKIP = 'skip:'  # так в истории помечены новости, к которым не нашлось фото (их больше не предлагаем)
@@ -184,9 +342,9 @@ def trailer_url(link):
     return f'https://www.youtube.com/watch?v={m.group(1)}' if m else None
 
 
-def publish_video(chat_id, text, link, video):
+def publish_video(chat_id, text, link, video, formatted=None):
     """Пост с большим превью трейлера над текстом (плеер YouTube прямо в Telegram)."""
-    body = caption(text, link) + '\n\n▶️ <a href="' + html.escape(video, quote=True) + '">Смотреть трейлер</a>'
+    body = caption(text, link, formatted) + '\n\n▶️ <a href="' + html.escape(video, quote=True) + '">Смотреть трейлер</a>'
     preview = {'url': video, 'prefer_large_media': True, 'show_above_text': True}
     return api('sendMessage', {'chat_id': chat_id, 'text': body, 'parse_mode': 'HTML',
                                'link_preview_options': json.dumps(preview)})
@@ -219,15 +377,15 @@ def save_history(path, seen, published=None, skipped=(), video=False):
     temporary.replace(path)
 
 
-def publish(chat_id, text, link, photos):
+def publish(chat_id, text, link, photos, formatted=None):
     if not photos:
         raise RuntimeError('Фото не найдены: публикация отменена')
     fields = {'chat_id': chat_id}
     if len(photos) == 1:
-        fields.update(caption=caption(text, link), parse_mode='HTML')
+        fields.update(caption=caption(text, link, formatted), parse_mode='HTML')
         return api('sendPhoto', fields, {'photo': photos[0]})
     media = [{'type': 'photo', 'media': f'attach://photo{i}'} for i in range(len(photos))]
-    media[0].update(caption=caption(text, link), parse_mode='HTML')
+    media[0].update(caption=caption(text, link, formatted), parse_mode='HTML')
     fields['media'] = json.dumps(media, ensure_ascii=False)
     return api('sendMediaGroup', fields, {f'photo{i}': data for i, data in enumerate(photos)})
 
@@ -256,12 +414,13 @@ def main():
         save_history(SEEN_FILE, seen, skipped=skipped)
         raise RuntimeError('Ни к одной из выбранных новостей не нашлось фото — публикация отменена; '
                            'эти новости больше не будут предлагаться')
+    formatted = tg_format(pick, text)
     video = trailer_url(pick['link']) if videos_today(seen) < VIDEO_PER_DAY else None
     if video:
         print('Пост с трейлером:', video)
-        result = publish_video(chat_id, text, pick['link'], video)
+        result = publish_video(chat_id, text, pick['link'], video, formatted)
     else:
-        result = publish(chat_id, text, pick['link'], photos)
+        result = publish(chat_id, text, pick['link'], photos, formatted)
     save_history(SEEN_FILE, seen, pick['link'], skipped, video=bool(video))
     messages = result if isinstance(result, list) else [result]
     print('Опубликовано; ID сообщений:', ', '.join(str(m['message_id']) for m in messages))

@@ -69,6 +69,8 @@ class TelegramTests(unittest.TestCase):
         self.assertEqual(tg.topic_order(15), ['cinema', 'games'])
         self.assertIn('видеоигры', tg.TOPICS['games'][1])
         self.assertNotIn('не игры', tg.TOPICS['games'][1])
+        self.assertIn('AAA', tg.TOPICS['games'][1])
+        self.assertNotIn('Предпочитай громкие премьеры', tg.TOPICS['games'][1])
 
     def test_per_feed_cap_and_order(self):
         def fake(seen):

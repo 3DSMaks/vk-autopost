@@ -32,10 +32,18 @@ GAME_FEEDS = [
     'https://feeds.feedburner.com/ign/games-all',
     'https://www.pcgamer.com/rss/',
 ]
+AAA_PRIORITY = (
+    'ГЛАВНЫЙ ПРИОРИТЕТ — AAA-проекты: крупные игры больших студий и издателей с большим бюджетом '
+    '(например GTA, Call of Duty, Battlefield, The Elder Scrolls, Fallout, Assassin\'s Creed, Far Cry, God of War, '
+    'Spider-Man, The Last of Us, Horizon, Forza, Halo, Gears of War, Resident Evil, Final Fantasy, Metal Gear, '
+    'Cyberpunk, The Witcher, Mass Effect, Elden Ring, EA Sports FC, Diablo, Silent Hill, Zelda, Mario). '
+    'Если среди новостей есть хоть одна про AAA-проект — выбери её. Инди, мобильные и малоизвестные игры выбирай, '
+    'только когда новостей об AAA нет. Среди AAA предпочитай анонсы, трейлеры, даты выхода, продолжения и ремейки, '
+    'оценки и продажи.')
 GAME_PROMPT = (news.PROMPT
                .replace('сообщества ВКонтакте «СтопКадр» о кино и сериалах', 'Telegram-канала «СтопКадр» о кино, сериалах и видеоиграх')
                .replace('именно про кино или сериалы (не игры, не музыку, не политику)', 'именно про видеоигры (не кино, не железо, не киберспортивные результаты, не политику)')
-               .replace('громкие премьеры, трейлеры, кастинг, продолжения, сборы и рейтинги', 'анонсы, трейлеры, даты выхода, продолжения и ремейки, оценки и продажи громких игр'))
+               .replace('Предпочитай громкие премьеры, трейлеры, кастинг, продолжения, сборы и рейтинги.', AAA_PRIORITY))
 MOVIE_PROMPT = news.PROMPT.replace('сообщества ВКонтакте', 'Telegram-канала')
 TOPICS = {'games': (GAME_FEEDS, GAME_PROMPT), 'cinema': (news.FEEDS, MOVIE_PROMPT)}
 
@@ -45,9 +53,10 @@ def topic_order(published):
     return ['games', 'cinema'] if published % 2 == 0 else ['cinema', 'games']
 
 
-def fresh_for(topic, seen, per_feed=5):
+def fresh_for(topic, seen, per_feed=None):
     """Свежие новости темы: не больше per_feed с каждой ленты, чтобы плодовитые сайты не забивали выбор."""
     feeds, _ = TOPICS[topic]
+    per_feed = per_feed or (8 if topic == 'games' else 5)  # игровые сайты публикуют много — шире выбор для AAA
     saved = news.FEEDS
     items = []
     try:
@@ -57,7 +66,7 @@ def fresh_for(topic, seen, per_feed=5):
     finally:
         news.FEEDS = saved
     items.sort(key=lambda n: datetime.fromisoformat(n['date']).timestamp() if n.get('date') else 0, reverse=True)
-    items = items[:25]
+    items = items[:40]
     for i, n in enumerate(items):
         n['index'] = i
     return items

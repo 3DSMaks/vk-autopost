@@ -91,7 +91,7 @@ class TelegramTests(unittest.TestCase):
             ImageDraw.Draw(im).rectangle([0, 0, size[0] // 2, size[1]], fill=color)
             buf = _io.BytesIO(); im.save(buf, 'JPEG'); return buf.getvalue()
         big, small, other = jpeg((800, 450), 'black'), jpeg((400, 225), 'black'), jpeg((800, 450), 'white')
-        with patch.object(tg.news, 'page_images', return_value=[]), patch.object(tg.news, 'image_urls', return_value=['1', '2', '3']), patch.object(tg.news, 'download_jpeg', side_effect=[big, small, other]), patch.object(tg, 'vet_images', side_effect=lambda t, imgs: imgs):
+        with patch.object(tg.news, 'page_images', return_value=[]), patch.object(tg, 'nearby_images', return_value=[]), patch.object(tg.news, 'image_urls', return_value=['1', '2', '3']), patch.object(tg.news, 'download_jpeg', side_effect=[big, small, other]), patch.object(tg, 'vet_images', side_effect=lambda t, imgs: imgs):
             self.assertEqual(tg.pictures({'link': 'x'}), [big, other])
 
     def test_no_photo_picks_another(self):
@@ -221,6 +221,13 @@ class TelegramTests(unittest.TestCase):
 
     def test_cinema_prioritizes_franchises(self):
         self.assertIn('крупные франшизы', tg.TOPICS['cinema'][1])
+
+    def test_nearby_images_after_h1(self):
+        page = (b'<img src="/logo.png"><h1>T</h1><img src="/files/main_1024.jpg">'
+                b'<img data-src="/files/poster.jpg" src="data:image/gif;base64,AAA">')
+        with patch.object(tg.news, 'http', return_value=page):
+            self.assertEqual(tg.nearby_images('https://e.com/n'),
+                             ['https://e.com/files/main_1024.jpg', 'https://e.com/files/poster.jpg'])
 
 
 def quiet():

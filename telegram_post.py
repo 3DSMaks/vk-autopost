@@ -300,8 +300,26 @@ def looks_like(data):
     return sum(1 << i for i, v in enumerate(pixels) if v > avg)
 
 
+def nearby_images(link, span=9000, limit=6):
+    """Запасной поиск: картинки сразу под заголовком статьи (<h1>) — для сайтов без <article> (например film.ru).
+    Лишнее (превью соседних новостей и т.п.) потом отсеивает проверка Gemini."""
+    try:
+        page = news.http(link, timeout=15).decode('utf-8', 'ignore')
+    except Exception:
+        return []
+    start = page.find('<h1')
+    if start < 0:
+        return []
+    found = []
+    for tag in re.findall(r'<img\b[^>]+>', page[start:start + span], re.I):
+        src = re.search(r'''(?:data-src|data-lazy-src|src)=["']([^"']+)["']''', tag)
+        if src and not src.group(1).startswith('data:'):
+            found.append(src.group(1))
+    return news.image_urls(found, link)[:limit]
+
+
 def pictures(pick):
-    urls = news.image_urls(news.page_images(pick['link']) + [pick.get('image')], pick['link'])
+    urls = news.image_urls(news.page_images(pick['link']) + [pick.get('image')] + nearby_images(pick['link']), pick['link'])
     out, hashes, prints = [], set(), []
     for url in urls:
         try:

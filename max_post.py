@@ -142,7 +142,8 @@ def without_closing_question(text):
     paragraphs = [p for p in text.strip().split('\n\n') if p.strip()]
     while paragraphs:
         sentences = re.split(r'(?<=[.!?…])\s+', paragraphs[-1].strip())
-        while sentences and re.search(r'\?\s*\W*$', sentences[-1]):
+        # с конца убираем «хвосты» из одних эмодзи/знаков и предложения-вопросы
+        while sentences and (not re.search(r'\w', sentences[-1]) or re.search(r'\?\W*$', sentences[-1])):
             sentences.pop()
         if sentences:
             paragraphs[-1] = ' '.join(sentences)

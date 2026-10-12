@@ -125,8 +125,9 @@ class MaxTests(unittest.TestCase):
                          'Почему игру перенесли? Студия объяснила задержку.')
 
     def test_prompt_has_no_question_rule(self):
-        self.assertIn('В конце — вопрос для обсуждения.', mx.news.PROMPT)  # общий шаблон не трогаем
-        self.assertNotIn('вопрос для обсуждения', mx.tg.TOPICS['games'][1].replace('В конце — вопрос для обсуждения.', mx.NO_QUESTION))
+        games = mx.tg.TOPICS['games'][1]
+        self.assertIn('В конце — вопрос для обсуждения.', games)  # именно эту фразу заменяет max_post
+        self.assertIn('комментарии в канале закрыты', games.replace('В конце — вопрос для обсуждения.', mx.NO_QUESTION))
 
 if __name__ == '__main__':
     unittest.main()

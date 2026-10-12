@@ -133,8 +133,26 @@ def without_hashtags(text):
     return re.sub(r'\n{3,}', '\n\n', '\n'.join(lines)).strip()
 
 
+NO_QUESTION = ('Не задавай вопросов читателям и не призывай к обсуждению — комментарии в канале закрыты. '
+               'Закончи пост фактом или коротким выводом.')
+
+
+def without_closing_question(text):
+    """Убирает вопросы к читателям в конце поста (комментарии в MAX закрыты)."""
+    paragraphs = [p for p in text.strip().split('\n\n') if p.strip()]
+    while paragraphs:
+        sentences = re.split(r'(?<=[.!?…])\s+', paragraphs[-1].strip())
+        while sentences and re.search(r'\?\s*\W*$', sentences[-1]):
+            sentences.pop()
+        if sentences:
+            paragraphs[-1] = ' '.join(sentences)
+            break
+        paragraphs.pop()
+    return '\n\n'.join(paragraphs)
+
+
 def message_text(text, link):
-    text = without_hashtags(text.rsplit('\n\nИсточник:', 1)[0])[:TEXT_LIMIT].rstrip()
+    text = without_closing_question(without_hashtags(text.rsplit('\n\nИсточник:', 1)[0]))[:TEXT_LIMIT].rstrip()
     return html.escape(text) + '\n\n<a href="' + html.escape(link, quote=True) + '">Источник</a>'
 
 
@@ -176,7 +194,8 @@ def main():
         print('Свежих неопубликованных новостей нет')
         return
     print('Тема:', 'видеоигры' if topic == 'games' else 'кино и сериалы', '| свежих новостей:', len(candidates))
-    news.PROMPT = tg.selection_prompt(topic, seen).replace('Telegram-канала', 'канала в MAX')
+    news.PROMPT = (tg.selection_prompt(topic, seen).replace('Telegram-канала', 'канала в MAX')
+                   .replace('В конце — вопрос для обсуждения.', NO_QUESTION))
     pick, text, photos, skipped = tg.pick_with_photos(candidates)
     if not photos:
         tg.save_history(SEEN_FILE, seen, skipped=skipped)

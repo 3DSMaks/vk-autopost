@@ -115,5 +115,18 @@ class MaxTests(unittest.TestCase):
         self.assertIn('Текст поста', out)
         self.assertEqual(mx.without_hashtags('Абзац про игру #Игры #PS5'), 'Абзац про игру')
 
+    def test_closing_question_removed(self):
+        text = 'Заголовок\n\nКонами анонсировала игру. Выход в 2027 году.\n\nЖдёте продолжения? 🎮\n\n#Игры'
+        out = mx.message_text(text, 'https://e.com')
+        self.assertNotIn('Ждёте', out)
+        self.assertIn('Выход в 2027 году.', out)
+        self.assertEqual(mx.without_closing_question('Факт один. А вы как думаете?'), 'Факт один.')
+        self.assertEqual(mx.without_closing_question('Почему игру перенесли? Студия объяснила задержку.'),
+                         'Почему игру перенесли? Студия объяснила задержку.')
+
+    def test_prompt_has_no_question_rule(self):
+        self.assertIn('В конце — вопрос для обсуждения.', mx.news.PROMPT)  # общий шаблон не трогаем
+        self.assertNotIn('вопрос для обсуждения', mx.tg.TOPICS['games'][1].replace('В конце — вопрос для обсуждения.', mx.NO_QUESTION))
+
 if __name__ == '__main__':
     unittest.main()

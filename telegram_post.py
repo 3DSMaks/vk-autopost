@@ -366,6 +366,46 @@ def recent_topics(seen, limit=25):
     return [t for t in titles if t][-limit:]
 
 
+def key_words(title):
+    """Значимые слова заголовка (для запасной проверки повторов без Gemini)."""
+    stop = {'новый', 'новая', 'новое', 'новые', 'фильм', 'сериал', 'игра', 'трейлер', 'первый', 'будет', 'получит',
+            'стал', 'стала', 'после', 'about', 'with', 'from', 'will', 'says', 'first', 'trailer', 'movie', 'series'}
+    words = re.findall(r'[A-Za-zА-Яа-яЁё0-9]{4,}', title.lower())
+    return {w[:6] for w in words if w not in stop}
+
+
+def drop_duplicates(candidates, recent):
+    """Отдельный шаг анализа: убирает свежие новости о тех же событиях, что уже вышли в канале
+    (даже из другого источника и на другом языке). Возвращает (оставшиеся, ссылки_повторов)."""
+    if not candidates or not recent:
+        return candidates, []
+    prompt = (
+        'Ты проверяешь новостной канал на повторы. Ниже список УЖЕ опубликованных новостей и список кандидатов.\n'
+        'Верни в duplicates номера кандидатов, которые рассказывают о ТОМ ЖЕ событии, заявлении, анонсе, трейлере, '
+        'релизе или обзоре, что и любая уже опубликованная новость — даже если источник другой, язык другой '
+        '(английский/русский), а заголовок сформулирован иначе. Пример повтора: «Jeremy Renner says Avengers will lose '
+        'without Hawkeye» и «Мстители без Соколиного глаза». Новость про ту же игру или фильм, но о ДРУГОМ событии '
+        '(например, новый трейлер после новости о дате выхода) — не повтор.\n\n'
+        'Уже опубликовано:\n' + '\n'.join(f'- {t}' for t in recent) + '\n\nКандидаты:\n' +
+        '\n'.join(f'{c["index"]}. {c["title"]} — {str(c.get("summary", ""))[:160]}' for c in candidates))
+    schema = {'type': 'OBJECT', 'properties': {'duplicates': {'type': 'ARRAY', 'items': {'type': 'INTEGER'}}},
+              'required': ['duplicates']}
+    try:
+        dup_index = set(gemini_json([{'text': prompt}], schema).get('duplicates') or [])
+    except RuntimeError as exc:
+        print('Анализ повторов через Gemini недоступен, проверяю по ключевым словам:', exc)
+        recent_keys = [key_words(t) for t in recent]
+        dup_index = {c['index'] for c in candidates
+                     if any(len(key_words(c['title']) & keys) >= 3 for keys in recent_keys)}
+    dups = [c for c in candidates if c['index'] in dup_index]
+    rest = [c for c in candidates if c['index'] not in dup_index]
+    for c in dups:
+        print('Повтор уже опубликованной новости, пропускаю:', c['title'][:100])
+    for i, c in enumerate(rest):
+        c['index'] = i
+    return rest, [c['link'] for c in dups]
+
+
 def selection_prompt(topic, seen):
     """Инструкция для выбора новости + список недавних тем, чтобы одна новость из разных источников не выходила дважды."""
     prompt = TOPICS[topic][1]
@@ -471,8 +511,14 @@ def main():
         print('Свежих неопубликованных новостей нет')
         return
     print('Тема:', 'видеоигры' if topic == 'games' else 'кино и сериалы', '| свежих новостей:', len(candidates))
+    candidates, repeats = drop_duplicates(candidates, recent_topics(seen))
+    if not candidates:
+        save_history(SEEN_FILE, seen, skipped=repeats)
+        print('Все свежие новости — повторы уже опубликованных')
+        return
     news.PROMPT = selection_prompt(topic, seen)
     pick, text, photos, skipped = pick_with_photos(candidates)
+    skipped = repeats + skipped
     if not photos:
         save_history(SEEN_FILE, seen, skipped=skipped)
         raise RuntimeError('Ни к одной из выбранных новостей не нашлось фото — публикация отменена; '

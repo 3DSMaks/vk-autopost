@@ -56,7 +56,7 @@ class TelegramTests(unittest.TestCase):
                 state = Path(tmp) / 'seen.json'
                 state.write_text('[]')
                 pick = {'link':'https://example.com/news'}
-                with patch('sys.argv', ['telegram_post.py']), patch.object(tg, 'SEEN_FILE', state), patch.object(tg, 'check_channel', return_value='@channel'), patch.object(tg.news, 'fresh_news', return_value=[pick]), patch.object(tg.news, 'write_post', return_value=(pick, 'Text')), patch.object(tg, 'pictures', return_value=[b'jpg']), patch.object(tg, 'trailer_url', return_value=None), patch.object(tg, 'tg_format', return_value=None), patch.object(tg, 'publish', side_effect=None if success else RuntimeError('failed'), return_value={'message_id':1}):
+                with patch('sys.argv', ['telegram_post.py']), patch.object(tg, 'SEEN_FILE', state), patch.object(tg, 'check_channel', return_value='@channel'), patch.object(tg, 'drop_duplicates', side_effect=lambda c, r: (c, [])), patch.object(tg.news, 'fresh_news', return_value=[pick]), patch.object(tg.news, 'write_post', return_value=(pick, 'Text')), patch.object(tg, 'pictures', return_value=[b'jpg']), patch.object(tg, 'trailer_url', return_value=None), patch.object(tg, 'tg_format', return_value=None), patch.object(tg, 'publish', side_effect=None if success else RuntimeError('failed'), return_value={'message_id':1}):
                     if success:
                         tg.main()
                     else:
@@ -119,7 +119,7 @@ class TelegramTests(unittest.TestCase):
             state = Path(tmp) / 'seen.json'
             state.write_text('[]')
             cands = [{'link': 'A', 'index': 0}]
-            with patch('sys.argv', ['telegram_post.py']), patch.object(tg, 'SEEN_FILE', state),                  patch.object(tg, 'check_channel', return_value='@c'), patch.object(tg, 'fresh_for', return_value=cands),                  patch.object(tg.news, 'write_post', return_value=(cands[0], 'T')), patch.object(tg, 'pictures', return_value=[]),                  patch.object(tg, 'publish') as pub, contextlib.redirect_stdout(io.StringIO()):
+            with patch('sys.argv', ['telegram_post.py']), patch.object(tg, 'SEEN_FILE', state),                  patch.object(tg, 'check_channel', return_value='@c'), patch.object(tg, 'drop_duplicates', side_effect=lambda c, r: (c, [])), patch.object(tg, 'fresh_for', return_value=cands),                  patch.object(tg.news, 'write_post', return_value=(cands[0], 'T')), patch.object(tg, 'pictures', return_value=[]),                  patch.object(tg, 'publish') as pub, contextlib.redirect_stdout(io.StringIO()):
                 with self.assertRaisesRegex(RuntimeError, 'фото'):
                     tg.main()
             pub.assert_not_called()
@@ -147,7 +147,7 @@ class TelegramTests(unittest.TestCase):
             state = Path(tmp) / 'seen.json'
             state.write_text(json.dumps(seen))
             pick = {'link': 'https://e.com/n', 'index': 0}
-            with patch('sys.argv', ['telegram_post.py']), patch.object(tg, 'SEEN_FILE', state),                  patch.object(tg, 'check_channel', return_value='@c'), patch.object(tg, 'fresh_for', return_value=[pick]),                  patch.object(tg.news, 'write_post', return_value=(pick, 'T')), patch.object(tg, 'pictures', return_value=[b'jpg']),                  patch.object(tg, 'trailer_url', return_value=trailer), patch.object(tg, 'tg_format', return_value=None),                  patch.object(tg, 'publish', return_value={'message_id': 1}) as photo,                  patch.object(tg, 'publish_video', return_value={'message_id': 2}) as video,                  contextlib.redirect_stdout(io.StringIO()):
+            with patch('sys.argv', ['telegram_post.py']), patch.object(tg, 'SEEN_FILE', state),                  patch.object(tg, 'check_channel', return_value='@c'), patch.object(tg, 'drop_duplicates', side_effect=lambda c, r: (c, [])), patch.object(tg, 'fresh_for', return_value=[pick]),                  patch.object(tg.news, 'write_post', return_value=(pick, 'T')), patch.object(tg, 'pictures', return_value=[b'jpg']),                  patch.object(tg, 'trailer_url', return_value=trailer), patch.object(tg, 'tg_format', return_value=None),                  patch.object(tg, 'publish', return_value={'message_id': 1}) as photo,                  patch.object(tg, 'publish_video', return_value={'message_id': 2}) as video,                  contextlib.redirect_stdout(io.StringIO()):
                 tg.main()
             return photo.called, video.called, json.loads(state.read_text())
 
@@ -228,6 +228,34 @@ class TelegramTests(unittest.TestCase):
         with patch.object(tg.news, 'http', return_value=page):
             self.assertEqual(tg.nearby_images('https://e.com/n'),
                              ['https://e.com/files/main_1024.jpg', 'https://e.com/files/poster.jpg'])
+
+    def test_drop_duplicates_removes_same_event(self):
+        cands = [{'index': 0, 'link': 'A', 'title': 'Мстители без Соколиного глаза'},
+                 {'index': 1, 'link': 'B', 'title': 'Новый трейлер Battlefield'}]
+        with patch.object(tg, 'gemini_json', return_value={'duplicates': [0]}), quiet():
+            rest, dups = tg.drop_duplicates(cands, ['Jeremy Renner says Avengers will lose without Hawkeye'])
+        self.assertEqual(([c['link'] for c in rest], dups), (['B'], ['A']))
+        self.assertEqual(rest[0]['index'], 0)
+
+    def test_drop_duplicates_keyword_fallback(self):
+        cands = [{'index': 0, 'link': 'A', 'title': 'Konami планирует вторую и третью волны Silent Hill'},
+                 {'index': 1, 'link': 'B', 'title': 'Анонсирован ремейк Max Payne'}]
+        with patch.object(tg, 'gemini_json', side_effect=RuntimeError('down')), quiet():
+            rest, dups = tg.drop_duplicates(cands, ['Konami готовит вторую и третью волны Silent Hill'])
+        self.assertEqual(dups, ['A'])
+
+    def test_main_skips_repeats_and_remembers_them(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            state = Path(tmp) / 'seen.json'
+            state.write_text(json.dumps(['title:Старая новость']), encoding='utf-8')
+            dup = {'link': 'https://e.com/dup', 'index': 0, 'title': 'повтор'}
+            with patch('sys.argv', ['telegram_post.py']), patch.object(tg, 'SEEN_FILE', state), \
+                 patch.object(tg, 'check_channel', return_value='@c'), patch.object(tg, 'fresh_for', return_value=[dup]), \
+                 patch.object(tg, 'drop_duplicates', return_value=([], ['https://e.com/dup'])), \
+                 patch.object(tg, 'publish') as pub, quiet():
+                tg.main()
+            pub.assert_not_called()
+            self.assertIn('skip:https://e.com/dup', json.loads(state.read_text(encoding='utf-8')))
 
 
 def quiet():

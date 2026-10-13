@@ -85,7 +85,7 @@ class MaxTests(unittest.TestCase):
                 state.write_text('[]')
                 pick = {'link': 'https://example.com/news'}
                 with patch('sys.argv', ['max_post.py']), patch.object(mx, 'SEEN_FILE', state), \
-                     patch.object(mx, 'check_channel', return_value='-1'), \
+                     patch.object(mx, 'check_channel', return_value='-1'), patch.object(mx.tg, 'drop_duplicates', side_effect=lambda c, r: (c, [])), \
                      patch.object(mx.tg, 'fresh_for', return_value=[pick]), \
                      patch.object(mx.news, 'write_post', return_value=(pick, 'Text')), \
                      patch.object(mx.tg, 'pictures', return_value=[b'jpg']), \

@@ -195,9 +195,15 @@ def main():
         print('Свежих неопубликованных новостей нет')
         return
     print('Тема:', 'видеоигры' if topic == 'games' else 'кино и сериалы', '| свежих новостей:', len(candidates))
+    candidates, repeats = tg.drop_duplicates(candidates, tg.recent_topics(seen))
+    if not candidates:
+        tg.save_history(SEEN_FILE, seen, skipped=repeats)
+        print('Все свежие новости — повторы уже опубликованных')
+        return
     news.PROMPT = (tg.selection_prompt(topic, seen).replace('Telegram-канала', 'канала в MAX')
                    .replace('В конце — вопрос для обсуждения.', NO_QUESTION))
     pick, text, photos, skipped = tg.pick_with_photos(candidates)
+    skipped = repeats + skipped
     if not photos:
         tg.save_history(SEEN_FILE, seen, skipped=skipped)
         raise RuntimeError('Ни к одной из выбранных новостей не нашлось фото — публикация отменена; '

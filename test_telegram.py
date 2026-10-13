@@ -91,7 +91,7 @@ class TelegramTests(unittest.TestCase):
             ImageDraw.Draw(im).rectangle([0, 0, size[0] // 2, size[1]], fill=color)
             buf = _io.BytesIO(); im.save(buf, 'JPEG'); return buf.getvalue()
         big, small, other = jpeg((800, 450), 'black'), jpeg((400, 225), 'black'), jpeg((800, 450), 'white')
-        with patch.object(tg.news, 'page_images', return_value=[]), patch.object(tg, 'nearby_images', return_value=[]), patch.object(tg.news, 'image_urls', return_value=['1', '2', '3']), patch.object(tg.news, 'download_jpeg', side_effect=[big, small, other]), patch.object(tg, 'vet_images', side_effect=lambda t, imgs: imgs):
+        with patch.object(tg.news, 'page_images', return_value=[]), patch.object(tg, 'nearby_images', return_value=[]), patch.object(tg.news, 'image_urls', return_value=['1', '2', '3']), patch.object(tg.news, 'download_jpeg', side_effect=[big, small, other]), patch.object(tg, 'bigger_versions', return_value=[]), patch.object(tg, 'vet_images', side_effect=lambda t, imgs: imgs):
             self.assertEqual(tg.pictures({'link': 'x'}), [big, other])
 
     def test_no_photo_picks_another(self):
@@ -256,6 +256,29 @@ class TelegramTests(unittest.TestCase):
                 tg.main()
             pub.assert_not_called()
             self.assertIn('skip:https://e.com/dup', json.loads(state.read_text(encoding='utf-8')))
+
+    def test_bigger_versions(self):
+        self.assertEqual(tg.bigger_versions('https://deadline.com/wp-content/uploads/a.jpg?w=1024'),
+                         ['https://deadline.com/wp-content/uploads/a.jpg'])
+        self.assertEqual(tg.bigger_versions('https://variety.com/x.jpg?w=1000&h=563&crop=1&resize=681%2C454'),
+                         ['https://variety.com/x.jpg'])
+        self.assertIn('https://i.playground.ru/e/ID.webp?1920xauto', tg.bigger_versions('https://i.playground.ru/p/ID.webp?420xauto'))
+        self.assertIn('https://www.kinonews.ru/insimgs/big/1.webp', tg.bigger_versions('https://www.kinonews.ru/insimgs/middle/1.webp'))
+        self.assertIn('https://kg-portal.ru/img/1/main_2x.jpg', tg.bigger_versions('https://kg-portal.ru/img/1/main.jpg'))
+        self.assertEqual(tg.bigger_versions('https://e.com/a.jpg?id=5'), [])
+        self.assertIn('https://cdn.mos.cms.futurecdn.net/ID-1920-80.jpg', tg.bigger_versions('https://cdn.mos.cms.futurecdn.net/ID-1200-80.jpg'))
+
+    def test_keeps_largest_of_same_picture(self):
+        from PIL import Image as _Image, ImageDraw
+        def jpeg(size):
+            im = _Image.new('RGB', size, 'white'); ImageDraw.Draw(im).rectangle([0, 0, size[0] // 2, size[1]], fill='black')
+            buf = io.BytesIO(); im.save(buf, 'JPEG'); return buf.getvalue()
+        small, large = jpeg((420, 237)), jpeg((1920, 1080))
+        with patch.object(tg.news, 'page_images', return_value=[]), patch.object(tg, 'nearby_images', return_value=[]), \
+             patch.object(tg.news, 'image_urls', return_value=['s', 'l']), patch.object(tg, 'bigger_versions', return_value=[]), \
+             patch.object(tg.news, 'download_jpeg', side_effect=[small, large]), \
+             patch.object(tg, 'vet_images', side_effect=lambda t, imgs: imgs):
+            self.assertEqual(tg.pictures({'link': 'x'}), [large])
 
 
 def quiet():

@@ -270,11 +270,11 @@ def download_jpeg(url, referer):
         if source.width * source.height > 40_000_000:
             raise ValueError("Слишком большое разрешение изображения")
         image = ImageOps.exif_transpose(source).convert("RGBA")
-        image.thumbnail((1600, 1600))
+        image.thumbnail((2560, 2560))  # максимум, который показывает Telegram
         background = Image.new("RGB", image.size, "white")
         background.paste(image, mask=image.getchannel("A"))
         output = io.BytesIO()
-        background.save(output, "JPEG", quality=90)
+        background.save(output, "JPEG", quality=93, optimize=True)
         return output.getvalue()
 
 

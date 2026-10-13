@@ -318,26 +318,71 @@ def nearby_images(link, span=9000, limit=6):
     return news.image_urls(found, link)[:limit]
 
 
-def pictures(pick):
-    urls = news.image_urls(news.page_images(pick['link']) + [pick.get('image')] + nearby_images(pick['link']), pick['link'])
-    out, hashes, prints = [], set(), []
-    for url in urls:
+SIZE_PARAMS = {'w', 'h', 'width', 'height', 'crop', 'resize', 'fit', 'quality', 'q', 'strip', 'zoom', 'ssl'}
+
+
+def bigger_versions(url):
+    """Адреса той же картинки в большем размере (сайты часто отдают уменьшенные копии). Сначала — лучший вариант."""
+    parts = urllib.parse.urlsplit(url)
+    out = []
+    if parts.netloc.endswith('playground.ru'):
+        # i.playground.ru/p/<id>.webp?420xauto -> ?1920xauto (размер задаётся в query)
+        out.append(urllib.parse.urlunsplit(parts._replace(path=parts.path.replace('/p/', '/e/', 1), query='1920xauto')))
+    if parts.query:
+        query = [(k, v) for k, v in urllib.parse.parse_qsl(parts.query, keep_blank_values=True)
+                 if k.lower() not in SIZE_PARAMS and not re.fullmatch(r'\d+x(\d+|auto)', k)]
+        if len(query) != len(urllib.parse.parse_qsl(parts.query, keep_blank_values=True)) or re.fullmatch(r'\d+x(\d+|auto)', parts.query):
+            out.append(urllib.parse.urlunsplit(parts._replace(query=urllib.parse.urlencode(query))))
+    path = parts.path
+    if parts.netloc.endswith('futurecdn.net'):
+        # cdn.mos.cms.futurecdn.net/<id>-1200-80.jpg -> -1920-80 (PC Gamer и др. сайты Future)
+        out.append(urllib.parse.urlunsplit(parts._replace(path=re.sub(r'-\d{3,4}-(\d+)(\.\w+)', r'-1920-\1\2', path))))
+    for small, big in (('/middle/', '/big/'), ('/main.jpg', '/main_2x.jpg')):
+        if small in path:
+            out.append(urllib.parse.urlunsplit(parts._replace(path=path.replace(small, big))))
+    return [u for u in dict.fromkeys(out) if u != url]
+
+
+def image_size(data):
+    with Image.open(io.BytesIO(data)) as im:
+        return im.size
+
+
+def fetch_best(url, referer):
+    """Скачивает самую большую доступную версию картинки (пробует адреса без уменьшения)."""
+    for candidate in bigger_versions(url) + [url]:
         try:
-            data = news.download_jpeg(url, pick['link'])
-            with Image.open(io.BytesIO(data)) as im:
-                if min(im.size) < 100 or max(im.size) / min(im.size) > 20:
-                    continue
-            digest = hashlib.sha256(data).digest()
-            fp = looks_like(data)
-            same = any(bin(fp ^ other).count('1') < 40 for other in prints)  # < 15% различий из 256
-            if digest not in hashes and not same and len(data) <= 10 * 1024 * 1024:
-                hashes.add(digest)
-                prints.append(fp)
-                out.append(data)
-            if len(out) == 6:
-                break
+            data = news.download_jpeg(candidate, referer)
+            if min(image_size(data)) >= 100:
+                return data
         except Exception:
+            continue
+    return None
+
+
+def pictures(pick):
+    """До 3 фото к новости в лучшем доступном качестве: из одинаковых картинок разного размера берём самую крупную,
+    мелкие (меньше 400 px по короткой стороне) отбрасываем, если есть крупнее; затем отбор Gemini."""
+    urls = news.image_urls(news.page_images(pick['link']) + [pick.get('image')] + nearby_images(pick['link']), pick['link'])
+    groups = []  # [отпечаток, данные, площадь]
+    for url in urls[:10]:
+        data = fetch_best(url, pick['link'])
+        if not data:
             print('Кандидат изображения недоступен, пробую следующий')
+            continue
+        w, h = image_size(data)
+        if max(w, h) / min(w, h) > 20 or len(data) > 10 * 1024 * 1024:
+            continue
+        fp = looks_like(data)
+        same = next((g for g in groups if bin(fp ^ g[0]).count('1') < 40), None)  # < 15% различий из 256
+        if same is None:
+            groups.append([fp, data, w * h])
+        elif w * h > same[2]:
+            same[1], same[2] = data, w * h  # та же картинка, но крупнее — заменяем
+        if len(groups) == 6:
+            break
+    big = [g for g in groups if min(image_size(g[1])) >= 400]
+    out = [g[1] for g in (big or groups)]
     return vet_images(pick.get('title', ''), out)
 
 

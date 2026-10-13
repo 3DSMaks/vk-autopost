@@ -23,12 +23,12 @@ class PhotoTests(unittest.TestCase):
     def test_conversion(self):
         for fmt in ('PNG', 'WEBP', 'JPEG'):
             raw = io.BytesIO()
-            Image.new('RGB', (1800, 900), 'red').save(raw, fmt)
+            Image.new('RGB', (3000, 1500), 'red').save(raw, fmt)
             with patch('urllib.request.urlopen', return_value=io.BytesIO(raw.getvalue())):
                 data = post.download_jpeg('https://example.com/image', 'https://example.com/news')
             with Image.open(io.BytesIO(data)) as im:
                 self.assertEqual(im.format, 'JPEG')
-                self.assertEqual(im.size, (1600, 800))
+                self.assertEqual(im.size, (2560, 1280))
 
     def test_html_is_not_photo(self):
         with patch('urllib.request.urlopen', return_value=io.BytesIO(b'<html>Denied</html>')):

@@ -88,5 +88,11 @@
   "skip:https://www.ign.com/articles/epic-reportedly-pushing-devs-to-use-ai-delays-secret-star-wars-and-marvel-crossover-shooter",
   "skip:https://gamemag.ru/news/201629/wing-commander-3-reamster-ea",
   "https://gamemag.ru/reviews/wolverine-ps5-2026-review",
-  "title:Мутанты следуют ГОСТу: Обзор Marvel's Wolverine"
+  "title:Мутанты следуют ГОСТу: Обзор Marvel's Wolverine",
+  "skip:https://www.film.ru/news/slovo-o-polku-igoreve-ekraniziruyut",
+  "skip:https://www.kinonews.ru/news_143632/",
+  "skip:https://www.kinonews.ru/news_143631/",
+  "skip:https://www.film.ru/news/mstiteli-bez-sokolinogo-glaza",
+  "https://variety.com/2026/film/festivals/marion-cotillard-marrakech-film-festival-jury-president-1236909854/",
+  "title:Marion Cotillard to Serve as Marrakech Film Festival Jury President"
 ]

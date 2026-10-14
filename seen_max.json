@@ -145,5 +145,9 @@
   "skip:https://www.kinonews.ru/news_143635/",
   "skip:https://www.kinonews.ru/news_143634/",
   "https://www.film.ru/news/recenzii-na-hrustalnoe-ozero",
-  "title:Рецензии на Хрустальное озеро"
+  "title:Рецензии на Хрустальное озеро",
+  "skip:https://gamemag.ru/news/201651/bloomberg-article-the-making-of-grand-theft-auto-vi",
+  "skip:https://www.ign.com/articles/gta-6-developer-rockstar-insists-its-next-game-wont-take-another-8-years-to-make",
+  "https://www.ign.com/articles/cod-modern-warfare-4-pre-load-release-times",
+  "title:Call of Duty: Modern Warfare 4 Preload and Global Release Times Confirmed for Campaign, DMZ, and the Full Game"
 ]

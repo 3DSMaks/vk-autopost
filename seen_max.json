@@ -140,5 +140,10 @@
   "skip:https://www.pcgamer.com/games/life-sim/haunted-chocolatier-is-still-a-town-game-but-itll-be-more-of-an-action-rpg-its-for-the-people-in-stardew-valley-that-go-into-the-mines/",
   "skip:https://stopgame.ru/newsdata/73162/ubisoft_gotovitsya_zakryt_studiyu_avtorov_trials_i_umenshit_shtat_singapurskogo_ofisa",
   "https://www.playground.ru/gta_6/news/studiya_rockstar_vyrosla_pochti_vdvoe_radi_gta_6_nad_igroj_rabotaet_bolee_4700_chelovek-1881576#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Студия Rockstar выросла почти вдвое ради GTA 6 - над игрой работает более 4700 человек"
+  "title:Студия Rockstar выросла почти вдвое ради GTA 6 - над игрой работает более 4700 человек",
+  "skip:https://www.film.ru/news/selmu-bler-arestovali",
+  "skip:https://www.kinonews.ru/news_143635/",
+  "skip:https://www.kinonews.ru/news_143634/",
+  "https://www.film.ru/news/recenzii-na-hrustalnoe-ozero",
+  "title:Рецензии на Хрустальное озеро"
 ]

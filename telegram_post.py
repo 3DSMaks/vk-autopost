@@ -244,7 +244,12 @@ def article_text(link, limit=3500):
 
 def sanitize_tg_html(value):
     """Оставляет только безопасные теги Telegram (b, i, u, s, blockquote, code); при несбалансированных тегах — None."""
-    text = html.escape(html.unescape(value or '').strip(), quote=False)
+    raw = html.unescape(value or '')
+    # Gemini иногда ставит HTML-переносы — превращаем их в обычные (Telegram и MAX не понимают <br> и <p>)
+    raw = re.sub(r'<br\s*/?>', '\n', raw, flags=re.I)
+    raw = re.sub(r'</?p\b[^>]*>', '\n', raw, flags=re.I)
+    raw = re.sub(r'\n{3,}', '\n\n', raw)
+    text = html.escape(raw.strip(), quote=False)
     text = re.sub(r'&lt;(/?)(%s)&gt;' % '|'.join(ALLOWED_TAGS), r'<\1\2>', text)
     stack = []
     for closing, name in re.findall(r'<(/?)(\w+)>', text):

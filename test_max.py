@@ -138,5 +138,10 @@ class MaxTests(unittest.TestCase):
         self.assertNotIn('#Warzone', out)
         self.assertTrue(out.endswith('<a href="https://e.com">Источник</a>'))
 
+    def test_list_lines_become_paragraphs_in_max(self):
+        out = mx.message_text('raw', 'https://e.com', '<b>Заг</b>\n\nВступление.\n\n<blockquote>— раз\n— два</blockquote>\n\nФинал.')
+        self.assertIn('Вступление.\n\n— раз\n\n— два\n\nФинал.', out)
+        self.assertNotIn('\n\n\n', out)
+
 if __name__ == '__main__':
     unittest.main()

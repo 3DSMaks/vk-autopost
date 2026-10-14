@@ -291,6 +291,10 @@ class TelegramTests(unittest.TestCase):
         self.assertIn('Voice Profile', seen['prompt'])
         self.assertIn('Без вопросов к читателю', seen['prompt'])
 
+    def test_sanitize_turns_br_and_p_into_newlines(self):
+        self.assertEqual(tg.sanitize_tg_html('<b>Заг</b><br><br>Что известно:<br/>1. <b>GTA 6</b><p>Текст</p>'),
+                         '<b>Заг</b>\n\nЧто известно:\n1. <b>GTA 6</b>\nТекст')
+
 
 def quiet():
     return contextlib.redirect_stdout(io.StringIO())

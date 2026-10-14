@@ -132,5 +132,8 @@
   "skip:https://www.playground.ru/gta_6/news/gta_6_na_pk_ne_stoit_zhdat_ranshe_serediny_2027_goda_analitiki_i_insajdery_oprovergli_sluhi_o_skorom_relize-1881533#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.pcgamer.com/games/grand-theft-auto/report-claims-grand-theft-auto-6-will-launch-on-pc-sooner-than-anyone-expected/",
   "https://www.playground.ru/gears_of_war_e_day/news/gears_of_war_e_day_vozglavila_top_platnyh_igr_microsoft_store_v_ssha_nesmotrya_na_game_pass-1881537#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Gears of War E-Day возглавила топ платных игр Microsoft Store в США несмотря на Game Pass"
+  "title:Gears of War E-Day возглавила топ платных игр Microsoft Store в США несмотря на Game Pass",
+  "skip:https://www.film.ru/news/hulu-oficialno-rabotaet-nad-sekretnymi-materialami",
+  "https://www.kinonews.ru/news_143639/",
+  "title:Hulu заказал производство новых \"Секретных материалов\""
 ]

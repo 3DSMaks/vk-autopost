@@ -114,5 +114,9 @@
   "skip:https://www.pcgamer.com/games/grand-theft-auto/report-claims-grand-theft-auto-6-will-launch-on-pc-sooner-than-anyone-expected/",
   "skip:https://gamemag.ru/news/201647/gamesbeat-grand-theft-auto-vis-pc-release-is-slated-for-q1-2027",
   "https://stopgame.ru/newsdata/73157/glen_skofild_obvinil_rukovodstvo_krafton_v_problemah_the_callisto_protocol",
-  "title:Глен Скофилд обвинил руководство Krafton в проблемах The Callisto Protocol"
+  "title:Глен Скофилд обвинил руководство Krafton в проблемах The Callisto Protocol",
+  "skip:https://www.film.ru/news/hulu-oficialno-rabotaet-nad-sekretnymi-materialami",
+  "skip:https://kg-portal.ru/comments/135373-narnija-plemjannik-charodeja-trejler/",
+  "https://www.kinonews.ru/news_143640/",
+  "title:Дэниел Крэйг открывает миры в трейлере \"Хроники Нарнии: Племянник чародея\""
 ]

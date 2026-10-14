@@ -126,5 +126,9 @@
   "skip:https://www.kinonews.ru/news_143639/",
   "skip:https://deadline.com/2026/10/james-mcavoy-bullied-set-hbo-band-of-brothers-1237156356/",
   "https://kg-portal.ru/comments/135382-prikvel-golodnye-igry-rassvet-zhatvy-smenil-datu-vyhoda-vrossijskij-prokat/",
-  "title:Приквел \"Голодные игры: Рассвет жатвы\" сменил дату выхода в российский прокат"
+  "title:Приквел \"Голодные игры: Рассвет жатвы\" сменил дату выхода в российский прокат",
+  "skip:https://www.playground.ru/misc/news/my_playstation_byvshij_glava_sony_rasskazal_kak_shyol_protiv_nachalstva_radi_ps3-1881549#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://gamemag.ru/news/201638/former-playstation-boss-apparently-had-a-bold-strategy-for-handling-sony-executives-he-simply-ignore",
+  "https://www.playground.ru/gta_5/news/grand_theft_auto_5_uberut_iz_ps_plus_extra_za_dva_dnya_do_vyhoda_gta_6-1881546#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Grand Theft Auto 5 уберут из PS Plus Extra за два дня до выхода GTA 6"
 ]

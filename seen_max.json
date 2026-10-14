@@ -108,5 +108,11 @@
   "https://stopgame.ru/newsdata/73149/smi_pk_versiya_grand_theft_auto_vi_vyydet_uzhe_v_pervom_kvartale_2027_go",
   "title:СМИ: ПК-версия Grand Theft Auto VI выйдет уже в первом квартале 2027-го",
   "https://deadline.com/2026/10/ryan-coogler-the-x-files-reboot-series-hulu-1237155668/",
-  "title:Ryan Coogler’s ‘The X-Files’ Reboot Picked Up To Series At Hulu"
+  "title:Ryan Coogler’s ‘The X-Files’ Reboot Picked Up To Series At Hulu",
+  "skip:https://gamemag.ru/news/201649/xbox-labs-asha-ai",
+  "skip:https://www.ign.com/articles/xbox-announces-xbox-labs-aimed-in-part-at-getting-improved-old-gen-games-playable-in-web-browsers",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/report-claims-grand-theft-auto-6-will-launch-on-pc-sooner-than-anyone-expected/",
+  "skip:https://gamemag.ru/news/201647/gamesbeat-grand-theft-auto-vis-pc-release-is-slated-for-q1-2027",
+  "https://stopgame.ru/newsdata/73157/glen_skofild_obvinil_rukovodstvo_krafton_v_problemah_the_callisto_protocol",
+  "title:Глен Скофилд обвинил руководство Krafton в проблемах The Callisto Protocol"
 ]

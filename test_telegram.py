@@ -280,6 +280,17 @@ class TelegramTests(unittest.TestCase):
              patch.object(tg, 'vet_images', side_effect=lambda t, imgs: imgs):
             self.assertEqual(tg.pictures({'link': 'x'}), [large])
 
+    def test_voice_files_go_into_format_prompt(self):
+        seen = {}
+        def fake(parts, schema, timeout=90):
+            seen['prompt'] = parts[0]['text']
+            return {'post': '<b>Заголовок</b>\n\nТекст'}
+        with patch.object(tg, 'article_text', return_value='источник'), patch.object(tg, 'gemini_json', side_effect=fake):
+            tg.tg_format({'link': 'l'}, 'draft')
+        self.assertTrue(tg.VOICE and tg.ABOUT_ME)
+        self.assertIn('Voice Profile', seen['prompt'])
+        self.assertIn('Без вопросов к читателю', seen['prompt'])
+
 
 def quiet():
     return contextlib.redirect_stdout(io.StringIO())

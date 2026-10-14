@@ -152,16 +152,21 @@ def without_closing_question(text):
     return '\n\n'.join(paragraphs)
 
 
-def message_text(text, link):
+def message_text(text, link, formatted=None):
+    source = '\n\n<a href="' + html.escape(link, quote=True) + '">Источник</a>'
+    if formatted:
+        # оформленный пост: врезки MAX не поддерживает — оставляем текст; хэштеги и вопрос в конце убираем
+        body = re.sub(r'</?blockquote>', '', formatted)
+        return without_closing_question(without_hashtags(body))[:TEXT_LIMIT].rstrip() + source
     text = without_closing_question(without_hashtags(text.rsplit('\n\nИсточник:', 1)[0]))[:TEXT_LIMIT].rstrip()
     return html.escape(text) + '\n\n<a href="' + html.escape(link, quote=True) + '">Источник</a>'
 
 
-def publish(cid, text, link, photos):
+def publish(cid, text, link, photos, formatted=None):
     if not photos:
         raise RuntimeError('Фото не найдены: публикация отменена')
     attachments = [{'type': 'image', 'payload': upload_image(p)} for p in photos]
-    body = {'text': message_text(text, link), 'format': 'html', 'attachments': attachments}
+    body = {'text': message_text(text, link, formatted), 'format': 'html', 'attachments': attachments}
     # Сразу после загрузки MAX может ответить attachment.not.ready — ждём и пробуем снова.
     for wait in (2, 4, 8, 16, 30, None):
         try:
@@ -208,7 +213,8 @@ def main():
         tg.save_history(SEEN_FILE, seen, skipped=skipped)
         raise RuntimeError('Ни к одной из выбранных новостей не нашлось фото — публикация отменена; '
                            'эти новости больше не будут предлагаться')
-    result = publish(cid, text, pick['link'], photos)
+    formatted = tg.tg_format(pick, text, channel='MAX, комментарии закрыты — никаких вопросов к читателю')
+    result = publish(cid, text, pick['link'], photos, formatted)
     tg.save_history(SEEN_FILE, seen, pick['link'], skipped, title=pick.get('title'))
     message = (result or {}).get('message') or {}
     print('Опубликовано в MAX:', message.get('url') or (message.get('body') or {}).get('mid') or 'ок')

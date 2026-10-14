@@ -88,7 +88,7 @@ class MaxTests(unittest.TestCase):
                      patch.object(mx, 'check_channel', return_value='-1'), patch.object(mx.tg, 'drop_duplicates', side_effect=lambda c, r: (c, [])), \
                      patch.object(mx.tg, 'fresh_for', return_value=[pick]), \
                      patch.object(mx.news, 'write_post', return_value=(pick, 'Text')), \
-                     patch.object(mx.tg, 'pictures', return_value=[b'jpg']), \
+                     patch.object(mx.tg, 'pictures', return_value=[b'jpg']), patch.object(mx.tg, 'tg_format', return_value=None), \
                      patch.object(mx, 'publish', side_effect=None if success else RuntimeError('failed'),
                                   return_value={'message': {'url': 'u'}}):
                     if success:
@@ -128,6 +128,15 @@ class MaxTests(unittest.TestCase):
         games = mx.tg.TOPICS['games'][1]
         self.assertIn('В конце — вопрос для обсуждения.', games)  # именно эту фразу заменяет max_post
         self.assertIn('комментарии в канале закрыты', games.replace('В конце — вопрос для обсуждения.', mx.NO_QUESTION))
+
+    def test_formatted_text_used_without_blockquote_hashtag_question(self):
+        out = mx.message_text('raw', 'https://e.com',
+                              '<b>Заг</b>\n\n<blockquote>— пункт</blockquote>\n\nВыйдет в пятницу. Ждёте?\n\n#Warzone')
+        self.assertIn('<b>Заг</b>', out)
+        self.assertNotIn('blockquote', out)
+        self.assertNotIn('Ждёте', out)
+        self.assertNotIn('#Warzone', out)
+        self.assertTrue(out.endswith('<a href="https://e.com">Источник</a>'))
 
 if __name__ == '__main__':
     unittest.main()

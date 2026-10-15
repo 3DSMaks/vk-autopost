@@ -172,5 +172,9 @@
   "skip:https://gamemag.ru/news/201656/trials-rip",
   "skip:https://www.ign.com/articles/ubisoft-cuts-70-staff-from-skull-and-bones-dev-shuts-down-trials-studio-redlynx",
   "https://stopgame.ru/newsdata/73164/obzornyy_trailer_i_preview_remeyka_the_legend_of_zelda_ocarina_of_time",
-  "title:Обзорный трейлер и превью ремейка The Legend of Zelda: Ocarina of Time"
+  "title:Обзорный трейлер и превью ремейка The Legend of Zelda: Ocarina of Time",
+  "skip:https://deadline.com/2026/10/oscars-ampas-bill-kramer-toho-hiro-matsuoka-1237156496/",
+  "skip:https://deadline.com/2026/10/crystal-lake-pays-tribute-snake-killed-friday-the-13th-1237157674/",
+  "https://www.kinonews.ru/news_143648/",
+  "title:Пол Верховен поможет Джеймсу Вану перезапустить \"Робокопа\""
 ]

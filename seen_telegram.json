@@ -206,5 +206,16 @@
   "video:2026-10-15:https://gamemag.ru/news/201660/rockstar-says-its-next-game-after-grand-theft-auto-6-wont-take-another-eight-years-to-make",
   "title:Red Dead Redemption 3? Grand Theft Auto 7? Разработка следующей игры Rockstar Games после Grand Theft Auto VI не растянется на 8-10 лет",
   "https://www.film.ru/news/sozdatel-eyforii-porabotaet-s-amazon",
-  "title:Создатель «Эйфории» поработает с Amazon"
+  "title:Создатель «Эйфории» поработает с Amazon",
+  "skip:https://www.pcgamer.com/gaming-industry/big-walk-devs-explain-why-it-isnt-on-xbox-and-likely-never-will-be-not-until-microsoft-and-or-xbox-have-been-removed-as-bds-boycott-targets/",
+  "skip:https://www.playground.ru/misc/news/steam_frame_mozhet_poluchit_oled_ekrany_s_razresheniem_pochti_4k_na_glaz-1881877#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.pcgamer.com/hardware/vr-hardware/valve-is-toying-with-a-steam-frame-oled-and-some-reddit-users-are-already-wondering-whether-to-wait-an-excruciatingly-long-time-for-it-even-though-it-may-never-happen/",
+  "skip:https://www.playground.ru/arc_raiders/news/igroki_arc_raiders_nashli_sposoby_izdevatsya_nad_drugimi_dazhe_v_pve_rezhime-1881864#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/arc-raiders-pve-griefers",
+  "skip:https://stopgame.ru/newsdata/73178/league_of_legends_classic_zakroetsya_v_yanvare_spustya_5_mesyacev_posle_zapuska",
+  "skip:https://www.ign.com/articles/wardogs-blue-team-winrate-color-psychologist",
+  "skip:https://www.ign.com/articles/big-walk-developer-explains-why-the-game-isnt-on-xbox",
+  "skip:https://www.pcgamer.com/games/moba/3-months-after-launch-riot-announces-league-of-legends-classic-will-be-killed-in-january-most-have-gone-back-to-other-parts-of-league/",
+  "https://stopgame.ru/newsdata/73179/obnovlennaya_grafika_nuar_rezhim_i_udalennye_sceny_trailer_the_wolf_among_us_remastered",
+  "title:Обновлённая графика, нуар-режим и удалённые сцены — трейлер The Wolf Among Us Remastered"
 ]

@@ -312,5 +312,9 @@
   "skip:https://gamemag.ru/news/201686/zero-parades-for-dead-spies-switch-2",
   "skip:https://stopgame.ru/newsdata/73196/zero_parades_poselitsya_na_switch_2_v_odin_den_s_relizom_versii_dlya_ps5",
   "https://stopgame.ru/newsdata/73200/trilogiya_uncharted_obzavelas_fanatskim_portom_dlya_pk",
-  "title:Трилогия Uncharted обзавелась фанатским портом для ПК"
+  "title:Трилогия Uncharted обзавелась фанатским портом для ПК",
+  "skip:https://kg-portal.ru/comments/135413-pol-fig-nachal-snimat-triller-tajna-gornichnoj-sikvel-samogo-kassovogo-filma-sidni-suini/",
+  "skip:https://www.film.ru/news/start-semok-gornichnoy-2",
+  "https://www.film.ru/news/reliz-hrustalnogo-ozera-v-amediateke",
+  "title:Релиз Хрустального озера в Амедиатеке"
 ]

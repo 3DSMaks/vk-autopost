@@ -300,5 +300,8 @@
   "skip:https://www.igromania.ru/news/169242/prodazhi-mrachnoj-silver-pines-v-duhe-tvin-piks-i-silent-hill-prevyisili-100-000-kopij/",
   "skip:https://stopgame.ru/newsdata/73201/startovye_prodazhi_horror_metroidvanii_silver_pines_perevalili_za_100_000_kopiy",
   "https://stopgame.ru/newsdata/73198/utechka_smotrite_geympley_otmenennoy_assassins_creed_destiny",
-  "title:Утечка — смотрите геймплей отменённой Assassin's Creed: Destiny"
+  "title:Утечка — смотрите геймплей отменённой Assassin's Creed: Destiny",
+  "skip:https://www.film.ru/news/start-semok-gornichnoy-2",
+  "https://www.kinonews.ru/news_143682/",
+  "title:Грете Гервиг первой удалось заполучить главный хит Led Zeppelin"
 ]

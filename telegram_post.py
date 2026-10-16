@@ -135,7 +135,7 @@ def gemini_json(parts, schema, timeout=90):
     body = json.dumps({'contents': [{'parts': parts}],
                        'generationConfig': {'responseMimeType': 'application/json', 'responseSchema': schema}}).encode()
     last = None
-    for model in [m for m in news.GEMINI_MODELS for _ in range(2)]:
+    for attempt, model in enumerate(m for m in news.GEMINI_MODELS for _ in range(3)):
         try:
             raw = news.http(f'https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent', body,
                             {'Content-Type': 'application/json', 'x-goog-api-key': os.environ['GEMINI_API_KEY']}, timeout)
@@ -146,7 +146,7 @@ def gemini_json(parts, schema, timeout=90):
         except urllib.error.HTTPError as exc:
             last = f'{model}: HTTP {exc.code}'
             if exc.code in (429, 500, 503):
-                time.sleep(15)
+                time.sleep(20 * (attempt % 3 + 1))
         except Exception as exc:
             last = f'{model}: {type(exc).__name__}'
     raise RuntimeError('Gemini не ответил: ' + str(last))

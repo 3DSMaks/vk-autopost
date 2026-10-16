@@ -66,7 +66,7 @@ class MaxTests(unittest.TestCase):
 
     @patch.dict(os.environ, {'MAX_BOT_TOKEN': 'secret-token'})
     def test_no_token_in_error(self):
-        with patch.object(mx, 'request', side_effect=urllib.error.URLError('secret-token')):
+        with patch.object(mx, 'request', side_effect=urllib.error.URLError('secret-token')), patch.object(mx.time, 'sleep'), quiet():
             with self.assertRaises(RuntimeError) as err:
                 mx.api('GET', '/me')
         self.assertNotIn('secret-token', str(err.exception))
@@ -142,6 +142,16 @@ class MaxTests(unittest.TestCase):
         out = mx.message_text('raw', 'https://e.com', '<b>Заг</b>\n\nВступление.\n\n<blockquote>— раз\n— два</blockquote>\n\nФинал.')
         self.assertIn('Вступление.\n\n— раз\n\n— два\n\nФинал.', out)
         self.assertNotIn('\n\n\n', out)
+
+    @patch.dict(os.environ, {'MAX_BOT_TOKEN': 'secret-token'})
+    def test_get_retried_on_network_error_post_not(self):
+        with patch.object(mx, 'request', side_effect=[urllib.error.URLError('x'), b'{"ok": 1}']), \
+             patch.object(mx.time, 'sleep'), quiet():
+            self.assertEqual(mx.api('GET', '/me'), {'ok': 1})
+        with patch.object(mx, 'request', side_effect=urllib.error.URLError('x')) as req, patch.object(mx.time, 'sleep'):
+            with self.assertRaises(RuntimeError):
+                mx.api('POST', '/messages', body={})
+        self.assertEqual(req.call_count, 1)
 
 if __name__ == '__main__':
     unittest.main()

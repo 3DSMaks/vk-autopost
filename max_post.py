@@ -37,7 +37,22 @@ def request(url, data=None, headers=None, method=None, timeout=60):
         return r.read()
 
 
-def api(method, path, params=None, body=None):
+def api(method, path, params=None, body=None, attempts=None):
+    """Запрос к MAX. Чтение (GET) при сбое сети или 5xx повторяем до 3 раз; запись — один раз,
+    чтобы не опубликовать пост дважды."""
+    attempts = attempts or (3 if method == 'GET' else 1)
+    for attempt in range(attempts):
+        try:
+            return api_once(method, path, params, body)
+        except RuntimeError as exc:
+            retryable = getattr(exc, 'retryable', False)
+            if not retryable or attempt == attempts - 1:
+                raise
+            print(f'MAX {method} {path}: сбой, повторяю через {5 * (attempt + 1)} с')
+            time.sleep(5 * (attempt + 1))
+
+
+def api_once(method, path, params=None, body=None):
     token = os.environ.get('MAX_BOT_TOKEN', '').strip()
     if not token:
         raise RuntimeError('Добавьте секрет MAX_BOT_TOKEN')
@@ -57,9 +72,12 @@ def api(method, path, params=None, body=None):
             info = {}
         err = RuntimeError(f'MAX {method} {path}: HTTP {exc.code} {info.get("code", "")} {info.get("message", "")}'.strip())
         err.code = info.get('code')
+        err.retryable = exc.code >= 500
         raise err from None
     except Exception:
-        raise RuntimeError(f'MAX {method} {path}: ошибка сети или ответа. Перед повторной отправкой проверьте канал.') from None
+        err = RuntimeError(f'MAX {method} {path}: ошибка сети или ответа. Перед повторной отправкой проверьте канал.')
+        err.retryable = True
+        raise err from None
 
 
 def chat_id():

@@ -158,7 +158,7 @@ def write_post(cands):
     }).encode()
     last = None
     # каждую модель пробуем дважды: при перегрузке (503) Google советует просто повторить чуть позже
-    for model in [m for m in GEMINI_MODELS for _ in range(2)]:
+    for attempt, model in enumerate(m for m in GEMINI_MODELS for _ in range(3)):
         try:
             raw = http(f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent", body,
                        {"Content-Type": "application/json", "x-goog-api-key": os.environ["GEMINI_API_KEY"]}, 90)
@@ -187,7 +187,7 @@ def write_post(cands):
             last = f"{model}: HTTP {e.code} {e.read()[:300]!r}"
             print("  ! Gemini", last)
             if e.code in (429, 500, 503):
-                time.sleep(20)
+                time.sleep(20 * (attempt % 3 + 1))
         except Exception as e:
             last = f"{model}: {e}"
             print("  ! Gemini", last)

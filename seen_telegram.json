@@ -306,5 +306,11 @@
   "https://www.playground.ru/fallout_4/news/obnovlenie_1_46_dlya_fallout_4_ustranyaet_vylety_na_playstation_i_ispravlyaet_oshibki_v_creation_kit-1882233#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Обновление 1.46 для Fallout 4 устраняет вылеты на PlayStation и исправляет ошибки в Creation Kit",
   "https://www.film.ru/articles/problema-vyravnivaniya-obzor-pervyh-epizodov-seriala-kvest-vizhna",
-  "title:Проблема выравнивания: обзор первых эпизодов сериала «Квест Вижна»"
+  "title:Проблема выравнивания: обзор первых эпизодов сериала «Квест Вижна»",
+  "skip:https://www.igromania.ru/news/169245/obnovlenie-the-blood-of-dawnwalker-s-novyim-urovnem-slozhnosti-vyijdet-na-sleduyuschej-nedele/",
+  "skip:https://www.playground.ru/blood_of_dawnwalker/news/the_blood_of_dawnwalker_poluchit_obnovlenie_1_1_cherez_nedelyu_razrabotchiki_opublikovali_spisok_izmenenij-1882240#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://gamemag.ru/news/201686/zero-parades-for-dead-spies-switch-2",
+  "skip:https://stopgame.ru/newsdata/73196/zero_parades_poselitsya_na_switch_2_v_odin_den_s_relizom_versii_dlya_ps5",
+  "https://stopgame.ru/newsdata/73200/trilogiya_uncharted_obzavelas_fanatskim_portom_dlya_pk",
+  "title:Трилогия Uncharted обзавелась фанатским портом для ПК"
 ]

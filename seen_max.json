@@ -389,5 +389,9 @@
   "skip:https://kg-portal.ru/comments/135416-strit-fajter-stanet-samoj-uspeshnoj-novinkoj-amerikanskogo-prokata/",
   "skip:https://www.kinonews.ru/news_143696/",
   "https://www.kinonews.ru/news_143695/",
-  "title:\"Хоббит\" Мартин Фриман женился в 55 лет"
+  "title:\"Хоббит\" Мартин Фриман женился в 55 лет",
+  "skip:https://www.playground.ru/overwatch/news/byvshij_direktor_overwatch_posle_uhoda_iz_blizzard_polnostyu_razorval_svyazi_s_igroj_radi_dushevnogo_ravnovesiya-1882433#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://gamemag.ru/news/201703/former-overwatch-director-jeff-kaplan-says-he-hasnt-played-or-searched-for-it-since-leaving-blizzard",
+  "https://www.igromania.ru/news/169248/v-gta-6-mogli-ispravit-problemu-iz-gta-4-analiz-reliznogo-trejlera-ot-digital-foundry/",
+  "title:В GTA 6 могли исправить проблему из GTA 4 — анализ релизного трейлера от Digital Foundry"
 ]

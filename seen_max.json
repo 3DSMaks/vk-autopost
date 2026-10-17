@@ -338,5 +338,13 @@
   "https://www.playground.ru/phantom_blade_zero/news/stali_izvestny_razmer_fajlov_i_data_nachala_predzagruzki_phantom_blade_zero-1882268#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Стали известны размер файлов и дата начала предзагрузки Phantom Blade Zero",
   "https://www.film.ru/news/banderas-i-keydzh-v-nastoyashchem-detektive",
-  "title:Бандерас и Кейдж в Настоящем детективе"
+  "title:Бандерас и Кейдж в Настоящем детективе",
+  "skip:https://www.igromania.ru/news/169256/luchshij-v-serii-syuzhet-call-of-duty-modern-warfare-4-sobiraet-otzyivyi-igrokov-s-rannim-dostupom/",
+  "skip:https://www.igromania.ru/news/169253/sozdavshaya-boevik-samson-studiya-soavtora-igr-just-cause-i-mad-max-obankrotilas-breakit/",
+  "skip:https://www.playground.ru/samson/news/studiya_razrabotchik_samson_obankrotilas_posle_neskolkih_mesyatsev_nevyplaty_zarplat-1882380#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/castlevania_belmont_s_curse/news/razrabotchiki_castlevania_belmonts_curse_rady_otkrovennomu_fan_artu_s_personazhami_igry-1882361#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.pcgamer.com/movies-tv/the-cyberpunk-2077-movie-wont-be-a-film-adaptation-of-the-game-cd-projekt-chief-says/",
+  "skip:https://www.ign.com/articles/there-should-be-a-game-award-for-hot-dads-castlevania-belmonts-curse-devs-are-fully-aware-and-loving-the-horny-fanart-for-their-game",
+  "https://gamemag.ru/news/201698/monster-hunter-wilds-game-switch-2-demo-october-2026",
+  "title:Capcom активно готовится к запуску Monster Hunter Wilds на Switch 2 — скоро выйдет демоверсия, а в Японии появится консольный бандл"
 ]

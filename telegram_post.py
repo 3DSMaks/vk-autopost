@@ -686,8 +686,14 @@ def main():
     parser.add_argument('--check', action='store_true')
     parser.add_argument('--link', help='опубликовать пост по конкретной статье')
     parser.add_argument('--topic', default='games', choices=['games', 'cinema'])
+    parser.add_argument('--delete', help='удалить сообщения канала по ID (через запятую)')
     args = parser.parse_args()
     chat_id = check_channel()
+    if args.delete:
+        for message_id in [m.strip() for m in args.delete.split(',') if m.strip()]:
+            api('deleteMessage', {'chat_id': chat_id, 'message_id': message_id})
+            print('Удалено сообщение', message_id)
+        return
     if args.link and not args.check:
         result = publish_link(chat_id, args.link.strip(), args.topic)
         messages = result if isinstance(result, list) else [result]

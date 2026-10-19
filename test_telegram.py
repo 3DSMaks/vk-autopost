@@ -381,6 +381,13 @@ class TelegramTests(unittest.TestCase):
             self.assertIn('https://e.com/violet', seen)
             self.assertIn('title:Violet в Deadlock', seen)
 
+    def test_delete_mode(self):
+        with patch('sys.argv', ['telegram_post.py', '--delete', '196, 197']), patch.object(tg, 'check_channel', return_value='@c'), \
+             patch.object(tg, 'api', return_value=True) as api, quiet():
+            tg.main()
+        self.assertEqual([c.args for c in api.call_args_list],
+                         [('deleteMessage', {'chat_id': '@c', 'message_id': '196'}), ('deleteMessage', {'chat_id': '@c', 'message_id': '197'})])
+
 
 def quiet():
     return contextlib.redirect_stdout(io.StringIO())

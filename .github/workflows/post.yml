@@ -1,8 +1,8 @@
 name: Пост в ВК
 
 on:
-  schedule:
-    - cron: "0,30 * * * *"   # каждые 30 минут
+  # Запуск по расписанию — внешним будильником cron-job.org (workflow_dispatch, mode=publish):
+  # встроенный schedule GitHub в этом репозитории не срабатывал.
   push:
     branches: [main]
     paths:

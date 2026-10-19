@@ -540,5 +540,8 @@
   "skip:https://stopgame.ru/newsdata/73219/startovye_sbory_novogo_filma_po_street_fighter_prevysili_50_mln_dollarov",
   "skip:https://www.pcgamer.com/gaming-industry/liquid-swords-developer-of-open-city-crime-sim-samson-has-gone-bankrupt-following-staff-claims-that-they-havent-been-paid-in-two-months/",
   "https://www.playground.ru/resident_evil_requiem/news/sledy_boya_ne_ischezayut_a_odezhda_sohnet_dazhe_v_kat_stsenah_capcom_rasskazala_o_prorabotke_detalej_v_resident_evil_requiem-1882964#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Следы боя не исчезают, а одежда сохнет даже в кат-сценах: Capcom рассказала о проработке деталей в Resident Evil Requiem"
+  "title:Следы боя не исчезают, а одежда сохнет даже в кат-сценах: Capcom рассказала о проработке деталей в Resident Evil Requiem",
+  "skip:https://www.kinonews.ru/news_143727/",
+  "https://www.film.ru/news/cifrovoy-reliz-obiteli-zla",
+  "title:Цифровой релиз Обители зла"
 ]

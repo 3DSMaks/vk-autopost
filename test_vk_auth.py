@@ -36,7 +36,7 @@ class VKAuthTests(unittest.TestCase):
         self.assertIn('refresh_token=R1', body)
         self.assertIn('client_id=54813069', body)
         self.assertEqual(vk_auth.load(self.key)['refresh_token'], 'R2')
-        self.assertNotIn(b'R2', self.file.read_bytes())  # на диске только шифр
+        self.assertNotIn(b'refresh_token', self.file.read_bytes())  # на диске только шифр
 
     def test_error_does_not_leak_token(self):
         vk_auth.save(self.key, {'refresh_token': 'SECRET-R', 'device_id': 'D'})

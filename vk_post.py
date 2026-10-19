@@ -50,6 +50,15 @@ def upload(images):
 
 def inspect(count=4):
     """Диагностика: последние посты группы, их фото и доступность ссылок на фото (ничего не публикует)."""
+    # пробная загрузка маленькой картинки (без сохранения и без поста): принимает ли ВК фото сейчас
+    from PIL import Image
+    import io
+    buf = io.BytesIO()
+    Image.new('RGB', (800, 450), (40, 80, 160)).save(buf, 'JPEG', quality=90)
+    body, headers = news.multipart('photo', 'test.jpg', 'image/jpeg', buf.getvalue())
+    up = json.loads(news.http(news.photo_server(), body, headers, 60))
+    print('Пробная загрузка 800x450:', 'принята' if up.get('photo') not in (None, '', '[]') else
+          'ОТКЛОНЕНА ' + json.dumps({k: v for k, v in up.items() if k != 'hash'}, ensure_ascii=False)[:200])
     posts = news.vk('wall.get', token=news.photo_token(), owner_id='-' + news.GROUP_ID, count=count)['items']
     for p in posts:
         print(f"Пост {p['id']}: {p.get('text', '')[:60]!r}")

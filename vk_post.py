@@ -64,7 +64,7 @@ def main():
         raise RuntimeError('Ни к одной из выбранных новостей не нашлось фото — пост не опубликован')
     formatted = tg.tg_format(pick, text, channel='ВКонтакте')
     body = plain(formatted) if formatted else text.rsplit('\n\nИсточник:', 1)[0]
-    message = f"{body}\n\nИсточник: {pick['link']}"
+    message = f"{body}\n\nИсточник: {pick['link']}" if tg.SHOW_SOURCE else body
     attachments = upload(photos, server)
     if not attachments:
         raise RuntimeError('ВК не принял ни одного фото — пост не опубликован; новость не запомнена')

@@ -23,6 +23,7 @@ from PIL import Image
 import post as news
 
 SEEN_FILE = Path(__file__).with_name('seen_telegram.json')
+SHOW_SOURCE = False  # ссылка «Источник» в конце постов (Telegram, MAX, ВК); True — вернуть
 
 GAME_FEEDS = [
     'https://stopgame.ru/rss/rss_news.xml',
@@ -297,8 +298,8 @@ def tg_format(pick, draft, style=None, channel='Telegram'):
 
 
 def caption(text, link, formatted=None):
-    # Ссылка скрыта под словом «Источник»; лимит считаем консервативно в UTF-16.
-    source = '\n\n<a href="' + html.escape(link, quote=True) + '">Источник</a>'
+    # Ссылка скрыта под словом «Источник» (если включена); лимит считаем консервативно в UTF-16.
+    source = ('\n\n<a href="' + html.escape(link, quote=True) + '">Источник</a>') if SHOW_SOURCE else ''
     if formatted:
         return formatted + source
     text = text.rsplit('\n\nИсточник:', 1)[0]
@@ -592,7 +593,7 @@ def rich_html(text, link, data, photo_count, formatted=None):
             + (f'<p><i>{tags}</i></p>' if tags else '')
             + f'<table bordered>{rows}</table>'
             + ''.join(para(b) for b in rest)
-            + f'<p><a href="{html.escape(link, quote=True)}">Источник</a></p>')
+            + (f'<p><a href="{html.escape(link, quote=True)}">Источник</a></p>' if SHOW_SOURCE else ''))
 
 
 def publish_rich(chat_id, page, photos):

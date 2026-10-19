@@ -186,7 +186,9 @@ class TelegramTests(unittest.TestCase):
             self.assertIsNone(tg.tg_format(pick, 'draft'))
 
     def test_caption_with_formatted_html(self):
-        self.assertEqual(tg.caption('raw', 'https://e.com', '<b>X</b>'), '<b>X</b>\n\n<a href="https://e.com">Источник</a>')
+        self.assertEqual(tg.caption('raw', 'https://e.com', '<b>X</b>'), '<b>X</b>')
+        with patch.object(tg, 'SHOW_SOURCE', True):
+            self.assertEqual(tg.caption('raw', 'https://e.com', '<b>X</b>'), '<b>X</b>\n\n<a href="https://e.com">Источник</a>')
 
     def test_vet_images_keeps_relevant_in_gemini_order(self):
         imgs = [self.jpeg('red'), self.jpeg('green'), self.jpeg('blue')]

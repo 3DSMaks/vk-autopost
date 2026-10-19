@@ -47,7 +47,7 @@ class VKPostTests(unittest.TestCase):
         self.assertEqual(params['attachments'].count('photo-237783609_'), 2)
         self.assertNotIn('<', params['message'])
         self.assertIn('Заголовок', params['message'])
-        self.assertTrue(params['message'].endswith('Источник: https://e.com/n'))
+        self.assertNotIn('Источник', params['message'])
         self.assertIn('https://e.com/n', seen)
         self.assertIn('title:Новость', seen)
 

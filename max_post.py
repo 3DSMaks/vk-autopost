@@ -171,7 +171,7 @@ def without_closing_question(text):
 
 
 def message_text(text, link, formatted=None):
-    source = '\n\n<a href="' + html.escape(link, quote=True) + '">Источник</a>'
+    source = ('\n\n<a href="' + html.escape(link, quote=True) + '">Источник</a>') if tg.SHOW_SOURCE else ''
     if formatted:
         # оформленный пост: врезки MAX не поддерживает — оставляем текст; хэштеги и вопрос в конце убираем
         body = re.sub(r'</?blockquote>', '\n', formatted)
@@ -179,7 +179,7 @@ def message_text(text, link, formatted=None):
         body = re.sub(r'\n{2,}', '\n\n', re.sub(r'(?<!\n)\n(?!\n)', '\n\n', body.strip()))
         return without_closing_question(without_hashtags(body))[:TEXT_LIMIT].rstrip() + source
     text = without_closing_question(without_hashtags(text.rsplit('\n\nИсточник:', 1)[0]))[:TEXT_LIMIT].rstrip()
-    return html.escape(text) + '\n\n<a href="' + html.escape(link, quote=True) + '">Источник</a>'
+    return html.escape(text) + source
 
 
 def publish(cid, text, link, photos, formatted=None):

@@ -24,14 +24,19 @@ def plain(formatted):
     return re.sub(r'\n{3,}', '\n\n', text).strip()
 
 
-def upload(images, server):
-    """Загружает готовые JPEG на стену группы; возвращает вложения photo<owner>_<id>."""
+def upload(images):
+    """Загружает готовые JPEG на стену группы; возвращает вложения photo<owner>_<id>.
+    Адрес загрузки берём свежий: выбор новости и проверка фото Gemini могут занять несколько минут."""
     out = []
+    server = news.photo_server()
     for i, data in enumerate(images):
         try:
             body, headers = news.multipart('photo', f'photo{i + 1}.jpg', 'image/jpeg', data)
             up = json.loads(news.http(server, body, headers, 60))
             if up.get('error') or not up.get('photo') or up['photo'] == '[]':
+                w, h = tg.image_size(data)
+                print(f'  ! ВК отклонил фото {i + 1} ({w}x{h}, {len(data) // 1024} КБ): '
+                      f'{json.dumps({k: v for k, v in up.items() if k != "hash"}, ensure_ascii=False)[:200]}')
                 raise ValueError('Сервер ВК не принял изображение')
             ph = news.vk('photos.saveWallPhoto', token=news.photo_token(), group_id=news.GROUP_ID,
                          server=up['server'], photo=up['photo'], hash=up['hash'])[0]
@@ -69,7 +74,7 @@ def main():
     if '--inspect' in sys.argv:
         inspect()
         return
-    server = news.photo_server()  # сначала проверяем право загрузки фото, чтобы не тратить запросы к Gemini
+    news.photo_server()  # сначала проверяем право загрузки фото, чтобы не тратить запросы к Gemini
     seen = json.loads(SEEN_FILE.read_text(encoding='utf-8')) if SEEN_FILE.exists() else []
     candidates = tg.fresh_for(TOPIC, tg.history_links(seen))
     print('Свежих новостей:', len(candidates))
@@ -82,17 +87,27 @@ def main():
         print('Все свежие новости — повторы уже опубликованных')
         return
     news.PROMPT = tg.selection_prompt(TOPIC, seen).replace('Telegram-канала', 'сообщества ВКонтакте')
-    pick, text, photos, skipped = tg.pick_with_photos(candidates)
-    skipped = repeats + skipped
-    if not photos:
+    skipped = list(repeats)
+    for _ in range(2):  # если ВК не принял фото новости — пропускаем её и берём другую
+        pick, text, photos, missing = tg.pick_with_photos(candidates)
+        skipped += missing
+        if not photos:
+            tg.save_history(SEEN_FILE, seen, skipped=skipped)
+            raise RuntimeError('Ни к одной из выбранных новостей не нашлось фото — пост не опубликован')
+        attachments = upload(photos)
+        if attachments:
+            break
+        print('ВК не принял фото этой новости, беру другую:', pick['link'])
+        skipped.append(pick['link'])
+        candidates = [c for c in candidates if c['link'] not in skipped]
+        for i, c in enumerate(candidates):
+            c['index'] = i
+    else:
         tg.save_history(SEEN_FILE, seen, skipped=skipped)
-        raise RuntimeError('Ни к одной из выбранных новостей не нашлось фото — пост не опубликован')
+        raise RuntimeError('ВК не принял фото ни одной из выбранных новостей — пост не опубликован; они пропущены')
     formatted = tg.tg_format(pick, text, channel='ВКонтакте')
     body = plain(formatted) if formatted else text.rsplit('\n\nИсточник:', 1)[0]
     message = f"{body}\n\nИсточник: {pick['link']}" if tg.SHOW_SOURCE else body
-    attachments = upload(photos, server)
-    if not attachments:
-        raise RuntimeError('ВК не принял ни одного фото — пост не опубликован; новость не запомнена')
     res = news.vk('wall.post', owner_id='-' + news.GROUP_ID, from_group=1, message=message,
                   attachments=','.join(attachments),
                   primary_attachments_mode='carousel' if len(attachments) > 1 else 'grid')

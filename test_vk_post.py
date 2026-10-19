@@ -51,11 +51,12 @@ class VKPostTests(unittest.TestCase):
         self.assertIn('https://e.com/n', seen)
         self.assertIn('title:Новость', seen)
 
-    def test_no_post_when_vk_rejects_photos(self):
-        calls, seen, err = self.run_main([b'a'], {'error': 'bad'})
+    def test_rejected_photos_skip_news_instead_of_retrying_forever(self):
+        with patch.object(vp.tg, 'image_size', return_value=(800, 600)):
+            calls, seen, err = self.run_main([b'a'], {'error': 'bad'})
         self.assertIsNotNone(err)
         self.assertNotIn('wall.post', [c[0] for c in calls])
-        self.assertEqual(seen, [])
+        self.assertEqual(seen, ['skip:https://e.com/n'])
 
     def test_plain(self):
         self.assertEqual(vp.plain('<b>A &amp; B</b>\n\n<blockquote>— раз</blockquote>'), 'A & B\n\n— раз')

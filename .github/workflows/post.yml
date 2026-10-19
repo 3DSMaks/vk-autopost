@@ -9,6 +9,9 @@ on:
       - post.py
       - test_post.py
       - vk_auth.py
+      - vk_post.py
+      - test_vk_post.py
+      - telegram_post.py
       - test_vk_auth.py
       - requirements.txt
       - .github/workflows/post.yml
@@ -44,7 +47,7 @@ jobs:
       - name: Установить зависимости
         run: python -m pip install -r requirements.txt
       - name: Проверить код
-        run: python -m unittest -v test_post.py test_vk_auth.py
+        run: python -m unittest -v test_post.py test_vk_auth.py test_vk_post.py
       - name: Обновить ключ профиля ВК (VK ID живёт 1 час)
         if: github.event_name != 'push'
         env:
@@ -75,7 +78,7 @@ jobs:
           VK_TOKEN: ${{ secrets.VK_TOKEN }}
           VK_PHOTO_TOKEN: ${{ env.VK_PHOTO_TOKEN || secrets.VK_PHOTO_TOKEN }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python post.py
+        run: python vk_post.py
       - name: Запомнить опубликованную новость
         if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.mode == 'publish')
         run: |

@@ -1,0 +1,83 @@
+"""ВКонтакте: тот же механизм, что у Telegram и MAX, но тема группы — кино и сериалы.
+
+Свежие новости → отсев повторов (Gemini) → выбор и текст (Gemini, голос канала) → фото лучшего качества
+(проверка Gemini) → загрузка на стену ключом профиля (VK_PHOTO_TOKEN из vk_auth.py) → пост от имени группы,
+несколько фото — каруселью. История — seen.json.
+"""
+import html
+import json
+from pathlib import Path
+import re
+import sys
+
+import post as news
+import telegram_post as tg
+
+SEEN_FILE = Path(__file__).with_name('seen.json')
+TOPIC = 'cinema'
+
+
+def plain(formatted):
+    """ВК не понимает HTML: убираем теги, врезки становятся обычными строками."""
+    text = re.sub(r'</?blockquote>', '\n', formatted)
+    text = html.unescape(re.sub(r'<[^>]+>', '', text))
+    return re.sub(r'\n{3,}', '\n\n', text).strip()
+
+
+def upload(images, server):
+    """Загружает готовые JPEG на стену группы; возвращает вложения photo<owner>_<id>."""
+    out = []
+    for i, data in enumerate(images):
+        try:
+            body, headers = news.multipart('photo', f'photo{i + 1}.jpg', 'image/jpeg', data)
+            up = json.loads(news.http(server, body, headers, 60))
+            if up.get('error') or not up.get('photo') or up['photo'] == '[]':
+                raise ValueError('Сервер ВК не принял изображение')
+            ph = news.vk('photos.saveWallPhoto', token=news.photo_token(), group_id=news.GROUP_ID,
+                         server=up['server'], photo=up['photo'], hash=up['hash'])[0]
+            out.append(f"photo{ph['owner_id']}_{ph['id']}" + (f"_{ph['access_key']}" if ph.get('access_key') else ''))
+        except news.VKError:
+            raise
+        except Exception as exc:
+            print(f'  ! фото {i + 1} не загрузилось: {type(exc).__name__}')
+    return out
+
+
+def main():
+    server = news.photo_server()  # сначала проверяем право загрузки фото, чтобы не тратить запросы к Gemini
+    seen = json.loads(SEEN_FILE.read_text(encoding='utf-8')) if SEEN_FILE.exists() else []
+    candidates = tg.fresh_for(TOPIC, tg.history_links(seen))
+    print('Свежих новостей:', len(candidates))
+    if not candidates:
+        print('Публиковать нечего — ждём следующего запуска.')
+        return
+    candidates, repeats = tg.drop_duplicates(candidates, tg.recent_topics(seen))
+    if not candidates:
+        tg.save_history(SEEN_FILE, seen, skipped=repeats)
+        print('Все свежие новости — повторы уже опубликованных')
+        return
+    news.PROMPT = tg.selection_prompt(TOPIC, seen).replace('Telegram-канала', 'сообщества ВКонтакте')
+    pick, text, photos, skipped = tg.pick_with_photos(candidates)
+    skipped = repeats + skipped
+    if not photos:
+        tg.save_history(SEEN_FILE, seen, skipped=skipped)
+        raise RuntimeError('Ни к одной из выбранных новостей не нашлось фото — пост не опубликован')
+    formatted = tg.tg_format(pick, text, channel='ВКонтакте')
+    body = plain(formatted) if formatted else text.rsplit('\n\nИсточник:', 1)[0]
+    message = f"{body}\n\nИсточник: {pick['link']}"
+    attachments = upload(photos, server)
+    if not attachments:
+        raise RuntimeError('ВК не принял ни одного фото — пост не опубликован; новость не запомнена')
+    res = news.vk('wall.post', owner_id='-' + news.GROUP_ID, from_group=1, message=message,
+                  attachments=','.join(attachments),
+                  primary_attachments_mode='carousel' if len(attachments) > 1 else 'grid')
+    tg.save_history(SEEN_FILE, seen, pick['link'], skipped, title=pick.get('title'))
+    print(f"Опубликовано: https://vk.ru/wall-{news.GROUP_ID}_{res['post_id']} (фото: {len(attachments)})")
+
+
+if __name__ == '__main__':
+    try:
+        main()
+    except RuntimeError as exc:
+        print(str(exc), file=sys.stderr)
+        sys.exit(1)

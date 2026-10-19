@@ -21,6 +21,7 @@ from datetime import datetime, timedelta, timezone
 
 from PIL import Image
 import post as news
+import card
 
 SEEN_FILE = Path(__file__).with_name('seen_telegram.json')
 
@@ -409,11 +410,11 @@ TITLE = 'title:'  # в истории: title:<заголовок опублик�
 
 def history_links(seen):
     """Все ссылки из истории — и опубликованные, и пропущенные без фото."""
-    return {s[len(SKIP):] if s.startswith(SKIP) else s for s in seen if not s.startswith((TITLE, VIDEO))}
+    return {s[len(SKIP):] if s.startswith(SKIP) else s for s in seen if not s.startswith((TITLE, VIDEO, 'card:'))}
 
 
 def published_count(seen):
-    return sum(1 for s in seen if not s.startswith((SKIP, VIDEO, TITLE)))
+    return sum(1 for s in seen if not s.startswith((SKIP, VIDEO, TITLE, 'card:')))
 
 
 def recent_topics(seen, limit=25):
@@ -511,6 +512,62 @@ def publish_video(chat_id, text, link, video, formatted=None):
                                'link_preview_options': json.dumps(preview)})
 
 
+# ---------- Инфографика-карточка (скилл graphic-designer, путь A) ----------
+CARD = 'card:'           # в истории: card:<дата по Москве>:<ссылка> — пост вышел с карточкой
+CARDS_PER_DAY = 4
+CARD_STYLE = ('КАРТОЧКА: детали новости уже разложены на картинке-инфографике, поэтому текст — 1–2 коротких '
+              'предложения: суть новости и почему это интересно. Не перечисляй пункты из карточки.')
+
+
+def cards_today(seen):
+    return sum(1 for s in seen if s.startswith(f'{CARD}{moscow_today()}:'))
+
+
+def card_data(pick):
+    """Gemini решает, подходит ли новость для карточки, и заполняет её фактами из статьи. None — карточка не нужна."""
+    source = article_text(pick['link'])
+    if len(source) < 300:
+        return None
+    prompt = (
+        'Ты дизайнер Telegram-канала «СтопКадр». Реши, нужна ли к новости картинка-инфографика с таблицей пунктов.\n'
+        'use_card = true ТОЛЬКО если в тексте источника есть 3–5 конкретных однотипных пунктов: способности героя, '
+        'изменения патча, новые функции, режимы, состав актёров, характеристики, несколько фактов о релизе '
+        '(дата, платформы, цена и т.п.). Для простой новости из одного факта — use_card = false.\n'
+        'Если use_card = true:\n'
+        '- title: до 40 символов, имя героя/игры/фильма и суть («Violet: первый взгляд на способности»)\n'
+        '- tags: 2–3 короткие плашки до 16 символов (жанр, игра, тип новости)\n'
+        '- rows: 3–5 пунктов; icon — один подходящий эмодзи; text — до 170 символов, ключевые слова в <b>…</b>\n'
+        'Всё на русском, только факты из источника, ничего не выдумывай.\n\n'
+        f'Заголовок новости: {pick.get("title", "")}\n\nТекст источника:\n{source}')
+    schema = {'type': 'OBJECT', 'properties': {
+        'use_card': {'type': 'BOOLEAN'}, 'title': {'type': 'STRING'},
+        'tags': {'type': 'ARRAY', 'items': {'type': 'STRING'}},
+        'rows': {'type': 'ARRAY', 'items': {'type': 'OBJECT', 'properties': {
+            'icon': {'type': 'STRING'}, 'text': {'type': 'STRING'}}, 'required': ['icon', 'text']}}},
+        'required': ['use_card']}
+    try:
+        data = gemini_json([{'text': prompt}], schema)
+    except RuntimeError as exc:
+        print('Карточка пропущена:', exc)
+        return None
+    rows = [r for r in data.get('rows') or [] if str(r.get('text', '')).strip()]
+    if not data.get('use_card') or len(rows) < 3 or not str(data.get('title', '')).strip():
+        return None
+    return {'title': data['title'][:60], 'tags': [t[:20] for t in data.get('tags') or []][:3],
+            'rows': [{'icon': str(r.get('icon', ''))[:4], 'text': str(r['text'])[:220]} for r in rows[:5]]}
+
+
+def make_card(pick, photos):
+    """Карточка (JPEG) или None. Кадр для шапки — первое фото новости."""
+    data = card_data(pick)
+    if not data:
+        return None
+    image = card.render_card(data, photos[0] if photos else None)
+    if image:
+        print('Карточка нарисована:', data['title'])
+    return image
+
+
 def pick_with_photos(candidates, attempts=3):
     """Gemini выбирает новость; если к ней нет фото — убираем её и просим выбрать другую.
     Возвращает (pick, text, photos, skipped_links); если фото не нашлось ни разу — photos пустой."""
@@ -530,8 +587,10 @@ def pick_with_photos(candidates, attempts=3):
     return None, None, [], skipped
 
 
-def save_history(path, seen, published=None, skipped=(), video=False, title=None):
+def save_history(path, seen, published=None, skipped=(), video=False, title=None, with_card=False):
     marks = [f'{VIDEO}{moscow_today()}:{published}'] if published and video else []
+    if published and with_card:
+        marks.append(f'card:{moscow_today()}:{published}')
     if published and title:
         marks.append(TITLE + ' '.join(title.split())[:150])
     updated = list(dict.fromkeys(seen + [SKIP + s for s in skipped] + ([published] if published else []) + marks))[-1000:]
@@ -559,6 +618,9 @@ def main():
     args = parser.parse_args()
     chat_id = check_channel()
     if args.check:
+        sample = {'title': 'Проверка карточки', 'tags': ['Тест'], 'rows': [{'icon': '🎮', 'text': '<b>Пункт</b> карточки'}] * 3}
+        image = card.render_card(sample)
+        print('Карточки:', f'рендер работает ({len(image) // 1024} КБ)' if image else 'браузер недоступен — посты пойдут без карточек')
         print('Проверка завершена. Ничего не опубликовано.')
         return
     seen = json.loads(SEEN_FILE.read_text(encoding='utf-8')) if SEEN_FILE.exists() else []
@@ -583,14 +645,17 @@ def main():
         save_history(SEEN_FILE, seen, skipped=skipped)
         raise RuntimeError('Ни к одной из выбранных новостей не нашлось фото — публикация отменена; '
                            'эти новости больше не будут предлагаться')
-    formatted = tg_format(pick, text)
     video = trailer_url(pick['link']) if videos_today(seen) < VIDEO_PER_DAY else None
+    infographic = None if video or cards_today(seen) >= CARDS_PER_DAY else make_card(pick, photos)
+    if infographic:
+        photos = [photos[0], infographic] + photos[1:2]  # как в примере: кадр новости, затем карточка
+    formatted = tg_format(pick, text, style=CARD_STYLE if infographic else None)
     if video:
         print('Пост с трейлером:', video)
         result = publish_video(chat_id, text, pick['link'], video, formatted)
     else:
         result = publish(chat_id, text, pick['link'], photos, formatted)
-    save_history(SEEN_FILE, seen, pick['link'], skipped, video=bool(video), title=pick.get('title'))
+    save_history(SEEN_FILE, seen, pick['link'], skipped, video=bool(video), title=pick.get('title'), with_card=bool(infographic))
     messages = result if isinstance(result, list) else [result]
     print('Опубликовано; ID сообщений:', ', '.join(str(m['message_id']) for m in messages))
 

@@ -56,7 +56,7 @@ class TelegramTests(unittest.TestCase):
                 state = Path(tmp) / 'seen.json'
                 state.write_text('[]')
                 pick = {'link':'https://example.com/news'}
-                with patch('sys.argv', ['telegram_post.py']), patch.object(tg, 'SEEN_FILE', state), patch.object(tg, 'check_channel', return_value='@channel'), patch.object(tg, 'drop_duplicates', side_effect=lambda c, r: (c, [])), patch.object(tg.news, 'fresh_news', return_value=[pick]), patch.object(tg.news, 'write_post', return_value=(pick, 'Text')), patch.object(tg, 'pictures', return_value=[b'jpg']), patch.object(tg, 'trailer_url', return_value=None), patch.object(tg, 'tg_format', return_value=None), patch.object(tg, 'publish', side_effect=None if success else RuntimeError('failed'), return_value={'message_id':1}):
+                with patch('sys.argv', ['telegram_post.py']), patch.object(tg, 'SEEN_FILE', state), patch.object(tg, 'check_channel', return_value='@channel'), patch.object(tg, 'drop_duplicates', side_effect=lambda c, r: (c, [])), patch.object(tg.news, 'fresh_news', return_value=[pick]), patch.object(tg.news, 'write_post', return_value=(pick, 'Text')), patch.object(tg, 'pictures', return_value=[b'jpg']), patch.object(tg, 'trailer_url', return_value=None), patch.object(tg, 'tg_format', return_value=None), patch.object(tg, 'make_card', return_value=None), patch.object(tg, 'publish', side_effect=None if success else RuntimeError('failed'), return_value={'message_id':1}):
                     if success:
                         tg.main()
                     else:
@@ -147,7 +147,7 @@ class TelegramTests(unittest.TestCase):
             state = Path(tmp) / 'seen.json'
             state.write_text(json.dumps(seen))
             pick = {'link': 'https://e.com/n', 'index': 0}
-            with patch('sys.argv', ['telegram_post.py']), patch.object(tg, 'SEEN_FILE', state),                  patch.object(tg, 'check_channel', return_value='@c'), patch.object(tg, 'drop_duplicates', side_effect=lambda c, r: (c, [])), patch.object(tg, 'fresh_for', return_value=[pick]),                  patch.object(tg.news, 'write_post', return_value=(pick, 'T')), patch.object(tg, 'pictures', return_value=[b'jpg']),                  patch.object(tg, 'trailer_url', return_value=trailer), patch.object(tg, 'tg_format', return_value=None),                  patch.object(tg, 'publish', return_value={'message_id': 1}) as photo,                  patch.object(tg, 'publish_video', return_value={'message_id': 2}) as video,                  contextlib.redirect_stdout(io.StringIO()):
+            with patch('sys.argv', ['telegram_post.py']), patch.object(tg, 'SEEN_FILE', state),                  patch.object(tg, 'check_channel', return_value='@c'), patch.object(tg, 'drop_duplicates', side_effect=lambda c, r: (c, [])), patch.object(tg, 'fresh_for', return_value=[pick]),                  patch.object(tg.news, 'write_post', return_value=(pick, 'T')), patch.object(tg, 'pictures', return_value=[b'jpg']),                  patch.object(tg, 'trailer_url', return_value=trailer), patch.object(tg, 'tg_format', return_value=None), patch.object(tg, 'make_card', return_value=None),                  patch.object(tg, 'publish', return_value={'message_id': 1}) as photo,                  patch.object(tg, 'publish_video', return_value={'message_id': 2}) as video,                  contextlib.redirect_stdout(io.StringIO()):
                 tg.main()
             return photo.called, video.called, json.loads(state.read_text())
 
@@ -294,6 +294,41 @@ class TelegramTests(unittest.TestCase):
     def test_sanitize_turns_br_and_p_into_newlines(self):
         self.assertEqual(tg.sanitize_tg_html('<b>Заг</b><br><br>Что известно:<br/>1. <b>GTA 6</b><p>Текст</p>'),
                          '<b>Заг</b>\n\nЧто известно:\n1. <b>GTA 6</b>\nТекст')
+
+    def test_card_data_needs_list_like_news(self):
+        rows = [{'icon': '🎯', 'text': 'пункт'}] * 4
+        with patch.object(tg, 'article_text', return_value='x' * 400), \
+             patch.object(tg, 'gemini_json', return_value={'use_card': True, 'title': 'Violet', 'tags': ['Deadlock'], 'rows': rows}):
+            self.assertEqual(len(tg.card_data({'link': 'l'})['rows']), 4)
+        with patch.object(tg, 'article_text', return_value='x' * 400), \
+             patch.object(tg, 'gemini_json', return_value={'use_card': False}):
+            self.assertIsNone(tg.card_data({'link': 'l'}))
+        with patch.object(tg, 'article_text', return_value='коротко'):
+            self.assertIsNone(tg.card_data({'link': 'l'}))
+
+    def test_main_puts_card_second_and_marks_it(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            state = Path(tmp) / 'seen.json'
+            state.write_text('[]', encoding='utf-8')
+            pick = {'link': 'https://e.com/n', 'index': 0, 'title': 'T'}
+            with patch('sys.argv', ['telegram_post.py']), patch.object(tg, 'SEEN_FILE', state), \
+                 patch.object(tg, 'check_channel', return_value='@c'), patch.object(tg, 'drop_duplicates', side_effect=lambda c, r: (c, [])), \
+                 patch.object(tg, 'fresh_for', return_value=[pick]), patch.object(tg.news, 'write_post', return_value=(pick, 'T')), \
+                 patch.object(tg, 'pictures', return_value=[b'p1', b'p2']), patch.object(tg, 'trailer_url', return_value=None), \
+                 patch.object(tg, 'make_card', return_value=b'CARD'), patch.object(tg, 'tg_format', return_value=None) as fmt, \
+                 patch.object(tg, 'publish', return_value={'message_id': 1}) as pub, quiet():
+                tg.main()
+            self.assertEqual(pub.call_args.args[3], [b'p1', b'CARD', b'p2'])
+            self.assertEqual(fmt.call_args.kwargs['style'], tg.CARD_STYLE)
+            seen = json.loads(state.read_text(encoding='utf-8'))
+            self.assertIn(f'card:{tg.moscow_today()}:https://e.com/n', seen)
+            self.assertEqual(tg.published_count(seen), 1)
+
+    def test_card_html_escapes_text(self):
+        import card as _card
+        page = _card.card_html({'title': '<script>x</script>', 'tags': ['A'], 'rows': [{'icon': '🎯', 'text': '<b>ок</b> <img src=x>'}]})
+        self.assertNotIn('<script>x', page)
+        self.assertIn('<b>ок</b> &lt;img', page)
 
 
 def quiet():

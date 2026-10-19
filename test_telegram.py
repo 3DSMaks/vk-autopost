@@ -356,6 +356,31 @@ class TelegramTests(unittest.TestCase):
     def test_rich_cell_escapes_text(self):
         self.assertEqual(tg.rich_cell('<b>ок</b> <img src=x>'), '<b>ок</b> &lt;img src=x&gt;')
 
+    def test_article_text_reads_list_items(self):
+        page = '<h1>T</h1><div class="article-body"><p>Вступление про героя и обновление игры, достаточно длинное.</p>' \
+               '<ul><li>Первая способность: оживляет 3 пули и позволяет управлять ими в полёте.</li>' \
+               '<li>Вторая способность: кисть оставляет след, союзники скользят дальше.</li></ul></div>'
+        with patch.object(tg.news, 'http', return_value=page.encode()):
+            text = tg.article_text('l')
+        self.assertIn('Первая способность', text)
+        self.assertIn('Вторая способность', text)
+
+    def test_publish_link_forces_table(self):
+        table = {'title': 'Violet', 'tags': [], 'rows': [{'icon': '🎯', 'text': 'x'}] * 3}
+        with tempfile.TemporaryDirectory() as tmp:
+            state = Path(tmp) / 'seen.json'
+            with patch.object(tg, 'SEEN_FILE', state), patch.object(tg, 'page_title', return_value='Violet в Deadlock'), \
+                 patch.object(tg, 'article_text', return_value='текст'), \
+                 patch.object(tg.news, 'write_post', side_effect=lambda c: (c[0], 'T')), \
+                 patch.object(tg, 'pictures', return_value=[b'p']), patch.object(tg, 'card_data', return_value=table) as cd, \
+                 patch.object(tg, 'tg_format', return_value=None), patch.object(tg, 'publish_rich', return_value={'message_id': 9}) as rich, quiet():
+                tg.publish_link('@c', 'https://e.com/violet')
+            self.assertTrue(cd.call_args.kwargs['force'])
+            rich.assert_called_once()
+            seen = json.loads(state.read_text(encoding='utf-8'))
+            self.assertIn('https://e.com/violet', seen)
+            self.assertIn('title:Violet в Deadlock', seen)
+
 
 def quiet():
     return contextlib.redirect_stdout(io.StringIO())

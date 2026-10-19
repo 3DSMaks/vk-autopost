@@ -213,8 +213,8 @@ CONTENT = re.compile(r'''(?:class|itemprop)=["'][^"']*\b(?:content-text|article[
 def paragraph_groups(page, gap=800):
     """Абзацы <p>, сгруппированные в блоки: соседние абзацы ближе gap символов разметки — один блок."""
     groups, cur, last_end = [], [], None
-    for m in re.finditer(r'<p\b[^>]*>([\s\S]*?)</p>', page, re.I):
-        text = news.strip(m.group(1))
+    for m in re.finditer(r'<(p|li)\b[^>]*>([\s\S]*?)</\1>', page, re.I):
+        text = news.strip(m.group(2))
         if last_end is not None and m.start() - last_end > gap:
             groups.append(cur)
             cur = []
@@ -522,7 +522,7 @@ def cards_today(seen):
     return sum(1 for s in seen if s.startswith(f'{CARD}{moscow_today()}:'))
 
 
-def card_data(pick):
+def card_data(pick, force=False):
     """Gemini решает, подходит ли новость для карточки, и заполняет её фактами из статьи. None — карточка не нужна."""
     source = article_text(pick['link'])
     if len(source) < 300:
@@ -550,7 +550,7 @@ def card_data(pick):
         print('Карточка пропущена:', exc)
         return None
     rows = [r for r in data.get('rows') or [] if str(r.get('text', '')).strip()]
-    if not data.get('use_card') or len(rows) < 3 or not str(data.get('title', '')).strip():
+    if (not data.get('use_card') and not force) or len(rows) < 3 or not str(data.get('title', '')).strip():
         return None
     return {'title': data['title'][:60], 'tags': [t[:20] for t in data.get('tags') or []][:3],
             'rows': [{'icon': str(r.get('icon', ''))[:4], 'text': str(r['text'])[:220]} for r in rows[:5]]}
@@ -592,6 +592,44 @@ def publish_rich(chat_id, page, photos):
     media = [{'id': f'p{i}', 'media': {'type': 'photo', 'media': f'attach://p{i}'}} for i in range(len(photos))]
     fields = {'chat_id': chat_id, 'rich_message': json.dumps({'html': page, 'media': media}, ensure_ascii=False)}
     return api('sendRichMessage', fields, {f'p{i}': data for i, data in enumerate(photos)})
+
+
+def page_title(link):
+    """Заголовок статьи: og:title, иначе <h1>, иначе <title>."""
+    try:
+        page = news.http(link, timeout=15).decode('utf-8', 'ignore')
+    except Exception:
+        return ''
+    for pattern in (r'''<meta[^>]+property=["']og:title["'][^>]+content=["']([^"']+)''',
+                    r'<h1\b[^>]*>([\s\S]*?)</h1>', r'<title>([\s\S]*?)</title>'):
+        m = re.search(pattern, page, re.I)
+        if m and news.strip(m.group(1)):
+            return news.strip(m.group(1))
+    return ''
+
+
+def publish_link(chat_id, link, topic='games'):
+    """Пост по конкретной статье (ручной запуск с полем link): с таблицей, если в статье есть 3+ однотипных пункта."""
+    seen = json.loads(SEEN_FILE.read_text(encoding='utf-8')) if SEEN_FILE.exists() else []
+    pick = {'index': 0, 'link': link, 'title': page_title(link), 'summary': article_text(link)[:400], 'date': '', 'image': ''}
+    if not pick['title']:
+        raise RuntimeError('Не удалось открыть статью по ссылке')
+    print('Статья:', pick['title'])
+    news.PROMPT = TOPICS[topic][1]
+    _, text = news.write_post([pick])
+    photos = pictures(pick)
+    if not photos:
+        raise RuntimeError('В статье не нашлось фото — публикация отменена')
+    table = card_data(pick, force=True)
+    formatted = tg_format(pick, text, style=CARD_STYLE if table else None)
+    if table:
+        print('Пост с таблицей:', table['title'])
+        result = publish_rich(chat_id, rich_html(text, link, table, len(photos), formatted), photos)
+    else:
+        print('Пунктов для таблицы в статье нет — обычный пост')
+        result = publish(chat_id, text, link, photos, formatted)
+    save_history(SEEN_FILE, seen, link, video=False, title=pick['title'], with_card=bool(table))
+    return result
 
 
 def pick_with_photos(candidates, attempts=3):
@@ -641,8 +679,15 @@ def publish(chat_id, text, link, photos, formatted=None):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--check', action='store_true')
+    parser.add_argument('--link', help='опубликовать пост по конкретной статье')
+    parser.add_argument('--topic', default='games', choices=['games', 'cinema'])
     args = parser.parse_args()
     chat_id = check_channel()
+    if args.link and not args.check:
+        result = publish_link(chat_id, args.link.strip(), args.topic)
+        messages = result if isinstance(result, list) else [result]
+        print('Опубликовано; ID сообщений:', ', '.join(str(m['message_id']) for m in messages))
+        return
     if args.check:
         print('Проверка завершена. Ничего не опубликовано.')
         return

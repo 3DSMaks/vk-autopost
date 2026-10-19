@@ -12,6 +12,15 @@ on:
         type: choice
         default: check
         options: [check, publish]
+      link:
+        description: 'Ссылка на статью (необязательно): пост будет именно по ней'
+        required: false
+        default: ''
+      topic:
+        description: 'Тема статьи по ссылке'
+        type: choice
+        default: games
+        options: [games, cinema]
 permissions:
   contents: write
 concurrency:
@@ -45,7 +54,10 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python telegram_post.py
+          LINK: ${{ inputs.link }}
+          TOPIC: ${{ inputs.topic }}
+        run: |
+          if [ -n "$LINK" ]; then python telegram_post.py --link "$LINK" --topic "${TOPIC:-games}"; else python telegram_post.py; fi
       - name: Сохранить историю Telegram
         if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.mode == 'publish')
         run: |

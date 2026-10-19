@@ -24,6 +24,7 @@ on:
         options:
           - check
           - publish
+          - inspect
 
 permissions:
   contents: write
@@ -66,6 +67,12 @@ jobs:
               git push origin HEAD:main
             fi
           fi
+      - name: Диагностика последних постов (ничего не публикуется)
+        if: github.event_name == 'workflow_dispatch' && inputs.mode == 'inspect'
+        env:
+          VK_TOKEN: ${{ secrets.VK_TOKEN }}
+          VK_PHOTO_TOKEN: ${{ env.VK_PHOTO_TOKEN || secrets.VK_PHOTO_TOKEN }}
+        run: python vk_post.py --inspect
       - name: Проверить доступ к фото ВК
         if: github.event_name == 'push' || inputs.mode == 'check'
         env:

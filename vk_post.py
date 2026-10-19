@@ -43,7 +43,32 @@ def upload(images, server):
     return out
 
 
+def inspect(count=4):
+    """Диагностика: последние посты группы, их фото и доступность ссылок на фото (ничего не публикует)."""
+    posts = news.vk('wall.get', token=news.photo_token(), owner_id='-' + news.GROUP_ID, count=count)['items']
+    for p in posts:
+        print(f"Пост {p['id']}: {p.get('text', '')[:60]!r}")
+        for a in p.get('attachments', []):
+            if a.get('type') != 'photo':
+                print('   вложение', a.get('type'))
+                continue
+            ph = a['photo']
+            sizes = ph.get('sizes') or []
+            best = max(sizes, key=lambda z: z.get('width', 0) * z.get('height', 0)) if sizes else {}
+            status = '—'
+            if best.get('url'):
+                try:
+                    data = news.http(best['url'], timeout=20)
+                    status = f'{len(data) // 1024} КБ'
+                except Exception as exc:
+                    status = f'ошибка {type(exc).__name__}'
+            print(f"   фото {ph['owner_id']}_{ph['id']}: размеров {len(sizes)}, лучший {best.get('width')}x{best.get('height')}, загрузка: {status}")
+
+
 def main():
+    if '--inspect' in sys.argv:
+        inspect()
+        return
     server = news.photo_server()  # сначала проверяем право загрузки фото, чтобы не тратить запросы к Gemini
     seen = json.loads(SEEN_FILE.read_text(encoding='utf-8')) if SEEN_FILE.exists() else []
     candidates = tg.fresh_for(TOPIC, tg.history_links(seen))

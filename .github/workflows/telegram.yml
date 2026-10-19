@@ -11,7 +11,7 @@ on:
         description: 'Проверить подключение или опубликовать новость'
         type: choice
         default: check
-        options: [check, publish, delete]
+        options: [check, publish, preview, delete]
       link:
         description: 'Ссылка на статью (необязательно): пост будет именно по ней'
         required: false
@@ -52,6 +52,15 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python telegram_post.py --check
+      - name: Предпросмотр поста по ссылке (ничего не публикуется)
+        if: github.event_name == 'workflow_dispatch' && inputs.mode == 'preview'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          LINK: ${{ inputs.link }}
+          TOPIC: ${{ inputs.topic }}
+        run: python telegram_post.py --link "$LINK" --topic "${TOPIC:-games}" --dry
       - name: Удалить сообщения
         if: github.event_name == 'workflow_dispatch' && inputs.mode == 'delete'
         env:

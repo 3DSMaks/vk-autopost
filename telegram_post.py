@@ -526,6 +526,7 @@ def card_data(pick, force=False):
     """Gemini решает, подходит ли новость для карточки, и заполняет её фактами из статьи. None — карточка не нужна."""
     source = article_text(pick['link'], limit=9000)  # пункты (способности и т.п.) часто идут после длинного вступления
     if len(source) < 300:
+        print(f'Таблица не собрана: текст статьи слишком короткий ({len(source)} знаков)')
         return None
     decide = (
         'Пост ОБЯЗАТЕЛЬНО будет с таблицей: use_card = true. Найди в тексте 3–5 самых важных однотипных пунктов '
@@ -548,16 +549,18 @@ def card_data(pick, force=False):
         'tags': {'type': 'ARRAY', 'items': {'type': 'STRING'}},
         'rows': {'type': 'ARRAY', 'items': {'type': 'OBJECT', 'properties': {
             'icon': {'type': 'STRING'}, 'text': {'type': 'STRING'}}, 'required': ['icon', 'text']}}},
-        'required': ['use_card']}
+        'required': ['use_card', 'title', 'tags', 'rows'] if force else ['use_card']}
     try:
         data = gemini_json([{'text': prompt}], schema)
     except RuntimeError as exc:
         print('Карточка пропущена:', exc)
         return None
     rows = [r for r in data.get('rows') or [] if str(r.get('text', '')).strip()]
-    if (not data.get('use_card') and not force) or len(rows) < 3 or not str(data.get('title', '')).strip():
+    title = str(data.get('title') or '').strip() or (pick.get('title') or '')[:60]
+    if (not data.get('use_card') and not force) or len(rows) < 3 or not title:
+        print(f'Таблица не собрана: use_card={data.get("use_card")}, пунктов={len(rows)}, заголовок={bool(title)}')
         return None
-    return {'title': data['title'][:60], 'tags': [t[:20] for t in data.get('tags') or []][:3],
+    return {'title': title[:60], 'tags': [t[:20] for t in data.get('tags') or []][:3],
             'rows': [{'icon': str(r.get('icon', ''))[:4], 'text': str(r['text'])[:220]} for r in rows[:5]]}
 
 
@@ -613,7 +616,7 @@ def page_title(link):
     return ''
 
 
-def publish_link(chat_id, link, topic='games'):
+def publish_link(chat_id, link, topic='games', dry=False):
     """Пост по конкретной статье (ручной запуск с полем link): с таблицей, если в статье есть 3+ однотипных пункта."""
     seen = json.loads(SEEN_FILE.read_text(encoding='utf-8')) if SEEN_FILE.exists() else []
     pick = {'index': 0, 'link': link, 'title': page_title(link), 'summary': article_text(link)[:400], 'date': '', 'image': ''}
@@ -627,6 +630,13 @@ def publish_link(chat_id, link, topic='games'):
         raise RuntimeError('В статье не нашлось фото — публикация отменена')
     table = card_data(pick, force=True)
     formatted = tg_format(pick, text, style=CARD_STYLE if table else None)
+    if dry:
+        print('ПРЕДПРОСМОТР — ничего не опубликовано. Фото:', len(photos))
+        print('Таблица:', json.dumps(table, ensure_ascii=False) if table else 'нет')
+        print('Текст поста:\n' + (formatted or text))
+        if table:
+            print('Rich HTML:\n' + rich_html(text, link, table, len(photos), formatted))
+        return []
     if table:
         print('Пост с таблицей:', table['title'])
         result = publish_rich(chat_id, rich_html(text, link, table, len(photos), formatted), photos)
@@ -687,6 +697,7 @@ def main():
     parser.add_argument('--link', help='опубликовать пост по конкретной статье')
     parser.add_argument('--topic', default='games', choices=['games', 'cinema'])
     parser.add_argument('--delete', help='удалить сообщения канала по ID (через запятую)')
+    parser.add_argument('--dry', action='store_true', help='только показать пост по ссылке, не публиковать')
     args = parser.parse_args()
     chat_id = check_channel()
     if args.delete:
@@ -695,7 +706,7 @@ def main():
             print('Удалено сообщение', message_id)
         return
     if args.link and not args.check:
-        result = publish_link(chat_id, args.link.strip(), args.topic)
+        result = publish_link(chat_id, args.link.strip(), args.topic, dry=args.dry)
         messages = result if isinstance(result, list) else [result]
         print('Опубликовано; ID сообщений:', ', '.join(str(m['message_id']) for m in messages))
         return

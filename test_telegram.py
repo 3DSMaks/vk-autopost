@@ -388,6 +388,25 @@ class TelegramTests(unittest.TestCase):
         self.assertEqual([c.args for c in api.call_args_list],
                          [('deleteMessage', {'chat_id': '@c', 'message_id': '196'}), ('deleteMessage', {'chat_id': '@c', 'message_id': '197'})])
 
+    def test_publish_link_dry_run_publishes_nothing(self):
+        table = {'title': 'Violet', 'tags': [], 'rows': [{'icon': '🎯', 'text': 'x'}] * 3}
+        with tempfile.TemporaryDirectory() as tmp:
+            state = Path(tmp) / 'seen.json'
+            with patch.object(tg, 'SEEN_FILE', state), patch.object(tg, 'page_title', return_value='Violet'), \
+                 patch.object(tg, 'article_text', return_value='текст'), patch.object(tg.news, 'write_post', side_effect=lambda c: (c[0], 'T')), \
+                 patch.object(tg, 'pictures', return_value=[b'p']), patch.object(tg, 'card_data', return_value=table), \
+                 patch.object(tg, 'tg_format', return_value=None), patch.object(tg, 'api') as api, quiet():
+                self.assertEqual(tg.publish_link('@c', 'https://e.com/v', dry=True), [])
+            api.assert_not_called()
+            self.assertFalse(state.exists())
+
+    def test_card_data_falls_back_to_article_title(self):
+        rows = [{'icon': '🎯', 'text': 'пункт'}] * 3
+        with patch.object(tg, 'article_text', return_value='x' * 400), \
+             patch.object(tg, 'gemini_json', return_value={'use_card': False, 'title': '', 'tags': [], 'rows': rows}):
+            data = tg.card_data({'link': 'l', 'title': 'Виолетта в Deadlock'}, force=True)
+        self.assertEqual(data['title'], 'Виолетта в Deadlock')
+
 
 def quiet():
     return contextlib.redirect_stdout(io.StringIO())

@@ -4,7 +4,7 @@ on:
   # встроенный schedule GitHub в этом репозитории не срабатывал.
   push:
     branches: [main]
-    paths: ['telegram_post.py', 'card.py', 'test_telegram.py', '.github/workflows/telegram.yml']
+    paths: ['telegram_post.py', 'test_telegram.py', '.github/workflows/telegram.yml']
   workflow_dispatch:
     inputs:
       mode:
@@ -31,9 +31,6 @@ jobs:
         with:
           python-version: '3.12'
       - run: python -m pip install -r requirements.txt
-      - name: Шрифты для карточек (эмодзи и кириллица)
-        if: github.event_name == 'workflow_dispatch'
-        run: sudo apt-get install -y -qq fonts-noto-color-emoji fonts-noto-core >/dev/null || true
       - name: Проверить код Telegram
         run: python -m unittest -v test_telegram.py
       - name: Проверить бота и канал

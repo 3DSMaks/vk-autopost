@@ -56,7 +56,7 @@ class TelegramTests(unittest.TestCase):
                 state = Path(tmp) / 'seen.json'
                 state.write_text('[]')
                 pick = {'link':'https://example.com/news'}
-                with patch('sys.argv', ['telegram_post.py']), patch.object(tg, 'SEEN_FILE', state), patch.object(tg, 'check_channel', return_value='@channel'), patch.object(tg, 'drop_duplicates', side_effect=lambda c, r: (c, [])), patch.object(tg.news, 'fresh_news', return_value=[pick]), patch.object(tg.news, 'write_post', return_value=(pick, 'Text')), patch.object(tg, 'pictures', return_value=[b'jpg']), patch.object(tg, 'trailer_url', return_value=None), patch.object(tg, 'tg_format', return_value=None), patch.object(tg, 'make_card', return_value=None), patch.object(tg, 'publish', side_effect=None if success else RuntimeError('failed'), return_value={'message_id':1}):
+                with patch('sys.argv', ['telegram_post.py']), patch.object(tg, 'SEEN_FILE', state), patch.object(tg, 'check_channel', return_value='@channel'), patch.object(tg, 'drop_duplicates', side_effect=lambda c, r: (c, [])), patch.object(tg.news, 'fresh_news', return_value=[pick]), patch.object(tg.news, 'write_post', return_value=(pick, 'Text')), patch.object(tg, 'pictures', return_value=[b'jpg']), patch.object(tg, 'trailer_url', return_value=None), patch.object(tg, 'tg_format', return_value=None), patch.object(tg, 'card_data', return_value=None), patch.object(tg, 'publish', side_effect=None if success else RuntimeError('failed'), return_value={'message_id':1}):
                     if success:
                         tg.main()
                     else:
@@ -147,7 +147,7 @@ class TelegramTests(unittest.TestCase):
             state = Path(tmp) / 'seen.json'
             state.write_text(json.dumps(seen))
             pick = {'link': 'https://e.com/n', 'index': 0}
-            with patch('sys.argv', ['telegram_post.py']), patch.object(tg, 'SEEN_FILE', state),                  patch.object(tg, 'check_channel', return_value='@c'), patch.object(tg, 'drop_duplicates', side_effect=lambda c, r: (c, [])), patch.object(tg, 'fresh_for', return_value=[pick]),                  patch.object(tg.news, 'write_post', return_value=(pick, 'T')), patch.object(tg, 'pictures', return_value=[b'jpg']),                  patch.object(tg, 'trailer_url', return_value=trailer), patch.object(tg, 'tg_format', return_value=None), patch.object(tg, 'make_card', return_value=None),                  patch.object(tg, 'publish', return_value={'message_id': 1}) as photo,                  patch.object(tg, 'publish_video', return_value={'message_id': 2}) as video,                  contextlib.redirect_stdout(io.StringIO()):
+            with patch('sys.argv', ['telegram_post.py']), patch.object(tg, 'SEEN_FILE', state),                  patch.object(tg, 'check_channel', return_value='@c'), patch.object(tg, 'drop_duplicates', side_effect=lambda c, r: (c, [])), patch.object(tg, 'fresh_for', return_value=[pick]),                  patch.object(tg.news, 'write_post', return_value=(pick, 'T')), patch.object(tg, 'pictures', return_value=[b'jpg']),                  patch.object(tg, 'trailer_url', return_value=trailer), patch.object(tg, 'tg_format', return_value=None), patch.object(tg, 'card_data', return_value=None),                  patch.object(tg, 'publish', return_value={'message_id': 1}) as photo,                  patch.object(tg, 'publish_video', return_value={'message_id': 2}) as video,                  contextlib.redirect_stdout(io.StringIO()):
                 tg.main()
             return photo.called, video.called, json.loads(state.read_text())
 
@@ -306,7 +306,8 @@ class TelegramTests(unittest.TestCase):
         with patch.object(tg, 'article_text', return_value='коротко'):
             self.assertIsNone(tg.card_data({'link': 'l'}))
 
-    def test_main_puts_card_second_and_marks_it(self):
+    def test_main_table_post_via_rich_message(self):
+        table = {'title': 'Violet', 'tags': ['Deadlock'], 'rows': [{'icon': '🎯', 'text': 'пункт <b>1</b>'}] * 3}
         with tempfile.TemporaryDirectory() as tmp:
             state = Path(tmp) / 'seen.json'
             state.write_text('[]', encoding='utf-8')
@@ -315,20 +316,45 @@ class TelegramTests(unittest.TestCase):
                  patch.object(tg, 'check_channel', return_value='@c'), patch.object(tg, 'drop_duplicates', side_effect=lambda c, r: (c, [])), \
                  patch.object(tg, 'fresh_for', return_value=[pick]), patch.object(tg.news, 'write_post', return_value=(pick, 'T')), \
                  patch.object(tg, 'pictures', return_value=[b'p1', b'p2']), patch.object(tg, 'trailer_url', return_value=None), \
-                 patch.object(tg, 'make_card', return_value=b'CARD'), patch.object(tg, 'tg_format', return_value=None) as fmt, \
-                 patch.object(tg, 'publish', return_value={'message_id': 1}) as pub, quiet():
+                 patch.object(tg, 'card_data', return_value=table), \
+                 patch.object(tg, 'tg_format', return_value='<b>Заголовок</b>\n\nСуть.') as fmt, \
+                 patch.object(tg, 'api', return_value={'message_id': 5}) as api, quiet():
                 tg.main()
-            self.assertEqual(pub.call_args.args[3], [b'p1', b'CARD', b'p2'])
+            method, fields, files = api.call_args.args
+            self.assertEqual(method, 'sendRichMessage')
+            rich = json.loads(fields['rich_message'])
+            self.assertIn('<tg-slideshow><img src="tg://photo?id=p0"/><img src="tg://photo?id=p1"/></tg-slideshow>', rich['html'])
+            self.assertIn('<table bordered><tr><td align="center" valign="middle">🎯</td><td>пункт <b>1</b></td></tr>', rich['html'])
+            self.assertLess(rich['html'].index('Заголовок'), rich['html'].index('<table'))
+            self.assertLess(rich['html'].index('<table'), rich['html'].index('Суть.'))
+            self.assertEqual(rich['media'][1], {'id': 'p1', 'media': {'type': 'photo', 'media': 'attach://p1'}})
+            self.assertEqual(files, {'p0': b'p1', 'p1': b'p2'})
             self.assertEqual(fmt.call_args.kwargs['style'], tg.CARD_STYLE)
-            seen = json.loads(state.read_text(encoding='utf-8'))
-            self.assertIn(f'card:{tg.moscow_today()}:https://e.com/n', seen)
-            self.assertEqual(tg.published_count(seen), 1)
+            self.assertIn(f'card:{tg.moscow_today()}:https://e.com/n', json.loads(state.read_text(encoding='utf-8')))
 
-    def test_card_html_escapes_text(self):
-        import card as _card
-        page = _card.card_html({'title': '<script>x</script>', 'tags': ['A'], 'rows': [{'icon': '🎯', 'text': '<b>ок</b> <img src=x>'}]})
-        self.assertNotIn('<script>x', page)
-        self.assertIn('<b>ок</b> &lt;img', page)
+    def test_rich_rejected_falls_back_to_album(self):
+        table = {'title': 'V', 'tags': [], 'rows': [{'icon': '1', 'text': 'x'}] * 3}
+        calls = []
+        def fake_api(method, fields=None, files=None):
+            calls.append(method)
+            if method == 'sendRichMessage':
+                raise RuntimeError('Telegram sendRichMessage: HTTP 400. Проверьте токен')
+            return [{'message_id': 1}]
+        with tempfile.TemporaryDirectory() as tmp:
+            state = Path(tmp) / 'seen.json'
+            state.write_text('[]', encoding='utf-8')
+            pick = {'link': 'https://e.com/n', 'index': 0, 'title': 'T'}
+            with patch('sys.argv', ['telegram_post.py']), patch.object(tg, 'SEEN_FILE', state), \
+                 patch.object(tg, 'check_channel', return_value='@c'), patch.object(tg, 'drop_duplicates', side_effect=lambda c, r: (c, [])), \
+                 patch.object(tg, 'fresh_for', return_value=[pick]), patch.object(tg.news, 'write_post', return_value=(pick, 'T')), \
+                 patch.object(tg, 'pictures', return_value=[b'p1', b'p2']), patch.object(tg, 'trailer_url', return_value=None), \
+                 patch.object(tg, 'card_data', return_value=table), patch.object(tg, 'tg_format', return_value=None), \
+                 patch.object(tg, 'api', side_effect=fake_api), quiet():
+                tg.main()
+        self.assertEqual(calls, ['sendRichMessage', 'sendMediaGroup'])
+
+    def test_rich_cell_escapes_text(self):
+        self.assertEqual(tg.rich_cell('<b>ок</b> <img src=x>'), '<b>ок</b> &lt;img src=x&gt;')
 
 
 def quiet():

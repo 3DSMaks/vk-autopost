@@ -21,7 +21,6 @@ from datetime import datetime, timedelta, timezone
 
 from PIL import Image
 import post as news
-import card
 
 SEEN_FILE = Path(__file__).with_name('seen_telegram.json')
 
@@ -512,11 +511,11 @@ def publish_video(chat_id, text, link, video, formatted=None):
                                'link_preview_options': json.dumps(preview)})
 
 
-# ---------- Инфографика-карточка (скилл graphic-designer, путь A) ----------
+# ---------- Пост с таблицей (Rich Message: настоящая таблица в тексте Telegram) ----------
 CARD = 'card:'           # в истории: card:<дата по Москве>:<ссылка> — пост вышел с карточкой
 CARDS_PER_DAY = 4
-CARD_STYLE = ('КАРТОЧКА: детали новости уже разложены на картинке-инфографике, поэтому текст — 1–2 коротких '
-              'предложения: суть новости и почему это интересно. Не перечисляй пункты из карточки.')
+CARD_STYLE = ('ТАБЛИЦА: детали новости будут в таблице под заголовком, поэтому после заголовка — 1–2 коротких '
+              'предложения: суть новости и почему это интересно. Не перечисляй пункты из таблицы.')
 
 
 def cards_today(seen):
@@ -529,7 +528,7 @@ def card_data(pick):
     if len(source) < 300:
         return None
     prompt = (
-        'Ты дизайнер Telegram-канала «СтопКадр». Реши, нужна ли к новости картинка-инфографика с таблицей пунктов.\n'
+        'Ты редактор Telegram-канала «СтопКадр». Реши, нужна ли в посте таблица пунктов.\n'
         'use_card = true ТОЛЬКО если в тексте источника есть 3–5 конкретных однотипных пунктов: способности героя, '
         'изменения патча, новые функции, режимы, состав актёров, характеристики, несколько фактов о релизе '
         '(дата, платформы, цена и т.п.). Для простой новости из одного факта — use_card = false.\n'
@@ -557,15 +556,42 @@ def card_data(pick):
             'rows': [{'icon': str(r.get('icon', ''))[:4], 'text': str(r['text'])[:220]} for r in rows[:5]]}
 
 
-def make_card(pick, photos):
-    """Карточка (JPEG) или None. Кадр для шапки — первое фото новости."""
-    data = card_data(pick)
-    if not data:
-        return None
-    image = card.render_card(data, photos[0] if photos else None)
-    if image:
-        print('Карточка нарисована:', data['title'])
-    return image
+def rich_cell(text):
+    """Текст ячейки таблицы: экранируем, оставляем только <b> и <i>."""
+    out = html.escape(html.unescape(text or ''), quote=False)
+    return re.sub(r'&lt;(/?)(b|i)&gt;', r'<\1\2>', out)
+
+
+def rich_html(text, link, data, photo_count, formatted=None):
+    """Rich Message (Bot API 10.1+): фото сверху (несколько — слайдшоу), заголовок, таблица «эмодзи | описание»,
+    остальной текст и ссылка на источник — как в постах больших игровых каналов."""
+    imgs = ''.join(f'<img src="tg://photo?id=p{i}"/>' for i in range(photo_count))
+    media = (f'<tg-slideshow>{imgs}</tg-slideshow>' if photo_count > 1 else imgs)
+    if formatted:
+        blocks = [b for b in formatted.split('\n\n') if b.strip()]
+    else:
+        body = text.rsplit('\n\nИсточник:', 1)[0]
+        blocks = [html.escape(b, quote=False) for b in body.split('\n\n') if b.strip()]
+    def para(block):
+        if block.startswith('<blockquote>'):
+            return block.replace('\n', '<br>')
+        return '<p>' + block.replace('\n', '<br>') + '</p>'
+    head, rest = (blocks[:1], blocks[1:]) if blocks else ([], [])
+    tags = ' · '.join(rich_cell(t) for t in data.get('tags', []))
+    rows = ''.join(f'<tr><td align="center" valign="middle">{rich_cell(r.get("icon", ""))}</td>'
+                   f'<td>{rich_cell(r.get("text", ""))}</td></tr>' for r in data['rows'])
+    return (media + ''.join(para(b) for b in head)
+            + (f'<p><i>{tags}</i></p>' if tags else '')
+            + f'<table bordered>{rows}</table>'
+            + ''.join(para(b) for b in rest)
+            + f'<p><a href="{html.escape(link, quote=True)}">Источник</a></p>')
+
+
+def publish_rich(chat_id, page, photos):
+    """sendRichMessage: фото загружаются вместе с сообщением и подставляются по tg://photo?id=pN."""
+    media = [{'id': f'p{i}', 'media': {'type': 'photo', 'media': f'attach://p{i}'}} for i in range(len(photos))]
+    fields = {'chat_id': chat_id, 'rich_message': json.dumps({'html': page, 'media': media}, ensure_ascii=False)}
+    return api('sendRichMessage', fields, {f'p{i}': data for i, data in enumerate(photos)})
 
 
 def pick_with_photos(candidates, attempts=3):
@@ -618,9 +644,6 @@ def main():
     args = parser.parse_args()
     chat_id = check_channel()
     if args.check:
-        sample = {'title': 'Проверка карточки', 'tags': ['Тест'], 'rows': [{'icon': '🎮', 'text': '<b>Пункт</b> карточки'}] * 3}
-        image = card.render_card(sample)
-        print('Карточки:', f'рендер работает ({len(image) // 1024} КБ)' if image else 'браузер недоступен — посты пойдут без карточек')
         print('Проверка завершена. Ничего не опубликовано.')
         return
     seen = json.loads(SEEN_FILE.read_text(encoding='utf-8')) if SEEN_FILE.exists() else []
@@ -646,16 +669,24 @@ def main():
         raise RuntimeError('Ни к одной из выбранных новостей не нашлось фото — публикация отменена; '
                            'эти новости больше не будут предлагаться')
     video = trailer_url(pick['link']) if videos_today(seen) < VIDEO_PER_DAY else None
-    infographic = None if video or cards_today(seen) >= CARDS_PER_DAY else make_card(pick, photos)
-    if infographic:
-        photos = [photos[0], infographic] + photos[1:2]  # как в примере: кадр новости, затем карточка
-    formatted = tg_format(pick, text, style=CARD_STYLE if infographic else None)
+    table = None if video or cards_today(seen) >= CARDS_PER_DAY else card_data(pick)
+    formatted = tg_format(pick, text, style=CARD_STYLE if table else None)
     if video:
         print('Пост с трейлером:', video)
         result = publish_video(chat_id, text, pick['link'], video, formatted)
+    elif table:
+        print('Пост с таблицей:', table['title'])
+        try:
+            result = publish_rich(chat_id, rich_html(text, pick['link'], table, len(photos), formatted), photos)
+        except RuntimeError as exc:
+            if '400' not in str(exc):  # сеть/неизвестно — не повторяем, чтобы не было дубля
+                raise
+            print('Rich Message не принят, публикую обычный пост:', exc)
+            table = None
+            result = publish(chat_id, text, pick['link'], photos, tg_format(pick, text))
     else:
         result = publish(chat_id, text, pick['link'], photos, formatted)
-    save_history(SEEN_FILE, seen, pick['link'], skipped, video=bool(video), title=pick.get('title'), with_card=bool(infographic))
+    save_history(SEEN_FILE, seen, pick['link'], skipped, video=bool(video), title=pick.get('title'), with_card=bool(table))
     messages = result if isinstance(result, list) else [result]
     print('Опубликовано; ID сообщений:', ', '.join(str(m['message_id']) for m in messages))
 

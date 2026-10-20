@@ -605,5 +605,10 @@
   "https://www.playground.ru/cyberpunk_2077/news/cd_projekt_red_prigotovila_syurpriz_fanatam_dlya_cyberpunk_2077_anonsirovali_obnovlenie_2_5_po_motivam_edgerunners_2-1883262#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:CD Projekt RED приготовила сюрприз фанатам - для Cyberpunk 2077 анонсировали обновление 2.5 по мотивам Edgerunners 2",
   "https://www.film.ru/news/finalnyy-treyler-rozhdeniya-imperii",
-  "title:Финальный трейлер Рождения империи"
+  "title:Финальный трейлер Рождения империи",
+  "skip:https://www.igromania.ru/news/169367/razrabotchiki-cyberpunk-2077-anonsirovali-obnovlenie-artom-cyberpunk-edgerunners-2/",
+  "skip:https://www.ign.com/articles/cyberpunk-2077-gets-surprise-official-new-update-announcement-from-cd-projekt",
+  "skip:https://www.pcgamer.com/gaming-industry/moonlighter-studio-wont-host-a-public-playtest-of-its-next-game-due-to-rampant-ai-led-cloning-we-know-were-not-the-only-developers-feeling-this-way/",
+  "https://www.playground.ru/elden_ring/news/elden_ring_poluchila_obnovlenie_1_17_2_fromsoftware_ispravila_eksplojt_so_strelami-1883268#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Elden Ring получила обновление 1.17.2 - FromSoftware исправила эксплойт со стрелами"
 ]

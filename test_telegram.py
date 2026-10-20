@@ -409,6 +409,15 @@ class TelegramTests(unittest.TestCase):
             data = tg.card_data({'link': 'l', 'title': 'Виолетта в Deadlock'}, force=True)
         self.assertEqual(data['title'], 'Виолетта в Deadlock')
 
+    @patch.dict(os.environ, {'TELEGRAM_BOT_TOKEN': 'secret-token'})
+    def test_429_waits_and_retries(self):
+        busy = urllib.error.HTTPError('u', 429, 'Too Many', {}, io.BytesIO(b'{"ok":false,"parameters":{"retry_after":7}}'))
+        self.addCleanup(busy.close)
+        with patch.object(tg.news, 'http', side_effect=[busy, b'{"ok":true,"result":{"message_id":3}}']), \
+             patch.object(tg.time, 'sleep') as sleep, quiet():
+            self.assertEqual(tg.api('sendMessage', {'chat_id': '@c'}), {'message_id': 3})
+        sleep.assert_called_once_with(8)
+
 
 def quiet():
     return contextlib.redirect_stdout(io.StringIO())

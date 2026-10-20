@@ -63,8 +63,7 @@ jobs:
             git add vk_token.enc
             if ! git diff --cached --quiet; then
               git commit -m "Rotate VK token"
-              git pull --rebase origin main
-              git push origin HEAD:main
+              for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && break; sleep 5; done
             fi
           fi
       - name: Диагностика последних постов (ничего не публикуется)
@@ -94,6 +93,5 @@ jobs:
           git add seen.json
           if ! git diff --cached --quiet; then
             git commit -m "seen"
-            git pull --rebase origin main
-            git push origin HEAD:main
+            for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && break; sleep 5; done
           fi

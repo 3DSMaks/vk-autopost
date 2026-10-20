@@ -15,7 +15,7 @@ on:
 permissions:
   contents: write
 concurrency:
-  group: vk-post
+  group: max-post
   cancel-in-progress: false
 jobs:
   max:
@@ -60,7 +60,6 @@ jobs:
             git add seen_max.json
             if ! git diff --cached --quiet; then
               git commit -m 'Remember MAX news'
-              git pull --rebase origin main
-              git push origin HEAD:main
+              for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && break; sleep 5; done
             fi
           fi

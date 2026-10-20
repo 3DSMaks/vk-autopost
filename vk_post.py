@@ -50,15 +50,32 @@ def upload(images):
 
 def inspect(count=4):
     """Диагностика: последние посты группы, их фото и доступность ссылок на фото (ничего не публикует)."""
-    # пробная загрузка маленькой картинки (без сохранения и без поста): принимает ли ВК фото сейчас
+    # эксперимент: какие варианты одного настоящего фото принимает сервер загрузки ВК (без сохранения и без поста)
     from PIL import Image
     import io
-    buf = io.BytesIO()
-    Image.new('RGB', (800, 450), (40, 80, 160)).save(buf, 'JPEG', quality=90)
-    body, headers = news.multipart('photo', 'test.jpg', 'image/jpeg', buf.getvalue())
-    up = json.loads(news.http(news.photo_server(), body, headers, 60))
-    print('Пробная загрузка 800x450:', 'принята' if up.get('photo') not in (None, '', '[]') else
-          'ОТКЛОНЕНА ' + json.dumps({k: v for k, v in up.items() if k != 'hash'}, ensure_ascii=False)[:200])
+
+    def try_upload(label, data):
+        body, headers = news.multipart('photo', 'test.jpg', 'image/jpeg', data)
+        up = json.loads(news.http(news.photo_server(), body, headers, 60))
+        ok = up.get('photo') not in (None, '', '[]')
+        w, h = tg.image_size(data)
+        print(f'Пробная загрузка [{label}] {w}x{h} {len(data) // 1024} КБ:', 'принята' if ok else 'ОТКЛОНЕНА')
+
+    def jpeg(im, size=None, quality=90, optimize=False):
+        im = im.convert('RGB')
+        if size:
+            im.thumbnail((size, size))
+        buf = io.BytesIO()
+        im.save(buf, 'JPEG', quality=quality, optimize=optimize)
+        return buf.getvalue()
+
+    try_upload('однотонная', jpeg(Image.new('RGB', (800, 450), (40, 80, 160))))
+    real = news.download_jpeg('https://variety.com/wp-content/uploads/2026/10/jeremy-jessica.jpg', 'https://variety.com')
+    try_upload('как сейчас в боте', real)
+    with Image.open(io.BytesIO(real)) as im:
+        try_upload('1280 q90', jpeg(im, 1280))
+        try_upload('1280 q85 optimize', jpeg(im, 1280, 85, True))
+        try_upload('800 q90', jpeg(im, 800))
     posts = news.vk('wall.get', token=news.photo_token(), owner_id='-' + news.GROUP_ID, count=count)['items']
     for p in posts:
         print(f"Пост {p['id']}: {p.get('text', '')[:60]!r}")

@@ -93,7 +93,7 @@ def multipart(fields, files):
     return b''.join(chunks), {'Content-Type': f'multipart/form-data; boundary={boundary}'}
 
 
-def api(method, fields=None, files=None):
+def api(method, fields=None, files=None, _attempt=0):
     token = os.environ.get('TELEGRAM_BOT_TOKEN', '').strip()
     if not token:
         raise RuntimeError('Добавьте секрет TELEGRAM_BOT_TOKEN')
@@ -107,6 +107,16 @@ def api(method, fields=None, files=None):
         raw = news.http(f'https://api.telegram.org/bot{token}/{method}', body, headers, 60)
         response = json.loads(raw)
     except urllib.error.HTTPError as exc:
+        if exc.code == 429 and _attempt < 2:
+            # Слишком много запросов: Telegram сообщает, сколько ждать; запрос при этом не выполнен — повтор безопасен
+            try:
+                wait = int(json.loads(exc.read() or b'{}').get('parameters', {}).get('retry_after', 30))
+            except Exception:
+                wait = 30
+            if wait <= 300:
+                print(f'Telegram просит подождать {wait} с (лимит запросов), повторяю')
+                time.sleep(wait + 1)
+                return api(method, fields, files, _attempt + 1)
         raise RuntimeError(f'Telegram {method}: HTTP {exc.code}. Проверьте токен, канал и права бота.') from None
     except Exception:
         raise RuntimeError(f'Telegram {method}: ошибка сети или ответа. Перед повторной отправкой проверьте канал.') from None

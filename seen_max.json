@@ -620,5 +620,8 @@
   "https://www.playground.ru/gta_6/news/po_dannym_analitikov_gta_6_operezhaet_drugie_krupnye_igry_po_kolichestvu_predzakazov_za_poslednie_6_let-1883293#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:По данным аналитиков, GTA 6 опережает другие крупные игры по количеству предзаказов за последние 6 лет",
   "https://www.film.ru/news/serdce-zverya-v-seti",
-  "title:Сердце зверя в Сети"
+  "title:Сердце зверя в Сети",
+  "skip:https://stopgame.ru/newsdata/73234/helldivers_ii_pereveli_na_novyy_antichit",
+  "https://www.playground.ru/gears_of_war_e_day/news/gears_of_war_e_day_odna_iz_samyh_populyarnyh_igr_na_moment_zapuska_v_severnoj_amerike-1883295#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Gears of War: E-Day - одна из самых популярных игр на момент запуска в Северной Америке"
 ]

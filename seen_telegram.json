@@ -579,5 +579,10 @@
   "skip:https://www.playground.ru/misc/news/bungie_ostalas_za_bortom_sozdanie_star_wars_battlefront_iii_yakoby_doverli_dice_i_respawn_entertainment-1883244#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://gamemag.ru/news/201751/battlefront-3-dice-respawn",
   "https://www.playground.ru/call_of_duty_modern_warfare_4/news/kampaniya_modern_warfare_4_pokazala_luchshij_start_v_serii_so_vremen_black_ops_nabrav_92_polozhitelnyh_otzyvov_v_steam-1883221#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Кампания Modern Warfare 4 показала лучший старт в серии со времен Black Ops, набрав 92% положительных отзывов в Steam"
+  "title:Кампания Modern Warfare 4 показала лучший старт в серии со времен Black Ops, набрав 92% положительных отзывов в Steam",
+  "skip:https://www.film.ru/news/tom-holland-v-penthause",
+  "skip:https://www.film.ru/news/uvolnenie-dena-lima-iz-netflix",
+  "skip:https://www.kinonews.ru/news_143741/",
+  "https://kg-portal.ru/comments/135446-postery-filma-dzhumandzhi-otkrytyj-mir/",
+  "title:Полное равенство голов на постере приключенческого экшена \"Джуманджи: Открытый мир\""
 ]

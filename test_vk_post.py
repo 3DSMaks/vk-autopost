@@ -51,8 +51,15 @@ class VKPostTests(unittest.TestCase):
         self.assertIn('https://e.com/n', seen)
         self.assertIn('title:Новость', seen)
 
+    def test_flaky_upload_server_retried(self):
+        replies = [json.dumps({'server': 1, 'photo': ''}).encode(), json.dumps({'server': 2, 'photo': '[1]', 'hash': 'h'}).encode()]
+        with patch.object(vp.news, 'photo_server', return_value='https://up'), patch.object(vp.news, 'http', side_effect=replies), \
+             patch.object(vp.news, 'vk', return_value=[{'owner_id': -1, 'id': 5}]), patch.object(vp.news, 'photo_token', return_value='T'), \
+             patch.object(vp.tg, 'image_size', return_value=(800, 600)), patch.object(vp.time, 'sleep'), quiet():
+            self.assertEqual(vp.upload([b'jpg']), ['photo-1_5'])
+
     def test_rejected_photos_skip_news_instead_of_retrying_forever(self):
-        with patch.object(vp.tg, 'image_size', return_value=(800, 600)):
+        with patch.object(vp.tg, 'image_size', return_value=(800, 600)), patch.object(vp.time, 'sleep'):
             calls, seen, err = self.run_main([b'a'], {'error': 'bad'})
         self.assertIsNotNone(err)
         self.assertNotIn('wall.post', [c[0] for c in calls])

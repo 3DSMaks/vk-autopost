@@ -9,6 +9,7 @@ import json
 from pathlib import Path
 import re
 import sys
+import time
 
 import post as news
 import telegram_post as tg
@@ -24,27 +25,35 @@ def plain(formatted):
     return re.sub(r'\n{3,}', '\n\n', text).strip()
 
 
-def upload(images):
-    """Загружает готовые JPEG на стену группы; возвращает вложения photo<owner>_<id>.
-    Адрес загрузки берём свежий: выбор новости и проверка фото Gemini могут занять несколько минут."""
-    out = []
-    server = news.photo_server()
-    for i, data in enumerate(images):
-        try:
-            body, headers = news.multipart('photo', f'photo{i + 1}.jpg', 'image/jpeg', data)
-            up = json.loads(news.http(server, body, headers, 60))
-            if up.get('error') or not up.get('photo') or up['photo'] == '[]':
-                w, h = tg.image_size(data)
-                print(f'  ! ВК отклонил фото {i + 1} ({w}x{h}, {len(data) // 1024} КБ): '
-                      f'{json.dumps({k: v for k, v in up.items() if k != "hash"}, ensure_ascii=False)[:200]}')
-                raise ValueError('Сервер ВК не принял изображение')
+UPLOAD_ATTEMPTS = 4
+
+
+def upload_one(data, n):
+    """Одно фото на стену группы. Серверы загрузки ВК отвечают нестабильно (иногда отдают пустое «photo»
+    даже на обычный JPEG) — поэтому при отказе берём свежий адрес загрузки и пробуем снова."""
+    body, headers = news.multipart('photo', f'photo{n}.jpg', 'image/jpeg', data)
+    for attempt in range(1, UPLOAD_ATTEMPTS + 1):
+        up = json.loads(news.http(news.photo_server(), body, headers, 60))
+        if not up.get('error') and up.get('photo') not in (None, '', '[]'):
             ph = news.vk('photos.saveWallPhoto', token=news.photo_token(), group_id=news.GROUP_ID,
                          server=up['server'], photo=up['photo'], hash=up['hash'])[0]
-            out.append(f"photo{ph['owner_id']}_{ph['id']}" + (f"_{ph['access_key']}" if ph.get('access_key') else ''))
+            return f"photo{ph['owner_id']}_{ph['id']}" + (f"_{ph['access_key']}" if ph.get('access_key') else '')
+        w, h = tg.image_size(data)
+        print(f'  ! ВК отклонил фото {n} ({w}x{h}, {len(data) // 1024} КБ), попытка {attempt}/{UPLOAD_ATTEMPTS}')
+        time.sleep(3 * attempt)
+    raise ValueError('Сервер ВК не принял изображение')
+
+
+def upload(images):
+    """Загружает готовые JPEG на стену группы; возвращает вложения photo<owner>_<id>."""
+    out = []
+    for i, data in enumerate(images, 1):
+        try:
+            out.append(upload_one(data, i))
         except news.VKError:
             raise
         except Exception as exc:
-            print(f'  ! фото {i + 1} не загрузилось: {type(exc).__name__}')
+            print(f'  ! фото {i} не загрузилось: {type(exc).__name__}')
     return out
 
 

@@ -607,5 +607,9 @@
   "skip:https://www.playground.ru/cyberpunk_2077/news/obnovlenie_2_5_dlya_cyberpunk_2077_dobavit_kak_minimum_strelbu_s_dvuh_ruk_i_kastomizatsiyu_implantov-1883284#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://stopgame.ru/newsdata/73233/22_oktyabrya_cyberpunk_2077_poluchit_apdeyt_25_v_chest_vyhoda_vtorogo_sezona_edgerunners",
   "https://www.playground.ru/gta_6/news/po_dannym_analitikov_gta_6_operezhaet_drugie_krupnye_igry_po_kolichestvu_predzakazov_za_poslednie_6_let-1883293#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:По данным аналитиков, GTA 6 опережает другие крупные игры по количеству предзаказов за последние 6 лет"
+  "title:По данным аналитиков, GTA 6 опережает другие крупные игры по количеству предзаказов за последние 6 лет",
+  "skip:https://deadline.com/2026/10/italy-film-tv-fund-launches-mia-market-1237168455/",
+  "skip:https://deadline.com/2026/10/warriors-broadway-casey-likes-amber-gray-jasmine-cephas-jones-1237168241/",
+  "https://www.film.ru/news/finalnyy-treyler-rozhdeniya-imperii",
+  "title:Финальный трейлер Рождения империи"
 ]

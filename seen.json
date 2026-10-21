@@ -184,5 +184,9 @@
   "https://kg-portal.ru/comments/135468-sbory-kak-ivan-vskazku-popal-preodoleli-otmetku-v400-mln-rublej/",
   "title:Сборы \"Как Иван в сказку попал\" преодолели отметку в 400 млн рублей",
   "https://www.film.ru/news/novaya-ekranizaciya-sobachego-serdca",
-  "title:Новая экранизация Собачьего сердца"
+  "title:Новая экранизация Собачьего сердца",
+  "skip:https://www.film.ru/news/kianu-rivz-v-remeyke-gangster-kop-i-dyavol",
+  "skip:https://www.film.ru/news/treyler-nad-bezdnoy-idrisa-elby",
+  "https://www.film.ru/news/treyler-oktyabrya-dzheremi-solne",
+  "title:Трейлер Октября Джереми Солнье"
 ]

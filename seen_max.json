@@ -686,5 +686,9 @@
   "skip:https://www.film.ru/news/treyler-nad-bezdnoy-idrisa-elby",
   "skip:https://kg-portal.ru/comments/135462-nad-glubinoj-trejler/",
   "https://www.film.ru/news/14-y-sezon-amerikanskoy-istorii-uzhasov",
-  "title:14-й сезон Американской истории ужасов"
+  "title:14-й сезон Американской истории ужасов",
+  "skip:https://www.igromania.ru/news/169407/palworld-poluchit-krupnoe-obnovlenie-side-by-side-etoj-zimoj/",
+  "skip:https://stopgame.ru/newsdata/73245/etoy_zimoy_palworld_poluchit_krupnoe_obnovlenie_side_by_side",
+  "https://stopgame.ru/newsdata/73243/morehodstvo_romany_i_novye_istorii_v_reviewnom_trailere_dlc_dlya_crimson_desert",
+  "title:Мореходство, романы и новые истории в обзорном трейлере DLC для Crimson Desert"
 ]

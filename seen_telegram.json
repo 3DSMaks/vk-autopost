@@ -670,5 +670,8 @@
   "skip:https://www.film.ru/news/treyler-nad-bezdnoy-idrisa-elby",
   "skip:https://kg-portal.ru/comments/135462-nad-glubinoj-trejler/",
   "https://www.film.ru/news/yubileynyy-prokat-prestizha",
-  "title:Юбилейный прокат Престижа"
+  "title:Юбилейный прокат Престижа",
+  "skip:https://www.playground.ru/cyberpunk_2077/news/cd_projekt_red_raskryla_god_dejstviya_vtorogo_sezona_edgerunners_2_i_proyasnila_svyaz_s_cyberpunk_2077-1883507#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "https://www.pcgamer.com/gaming-industry/ea-sports-fc-27-gets-a-pegi-16-rating-in-europe-because-of-loot-boxes/",
+  "title:EA Sports FC 27 gets a PEGI 16 rating in Europe because of loot boxes"
 ]

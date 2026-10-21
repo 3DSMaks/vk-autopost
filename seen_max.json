@@ -748,5 +748,8 @@
   "skip:https://www.pcgamer.com/games/grand-theft-auto/us-government-leaks-the-best-gta-6-promo-yet-pisswasser-is-real/",
   "skip:https://www.playground.ru/cyberpunk_2077/news/cd_projekt_red_predstavila_polnyj_spisok_izmenenij_obnovleniya_2_5_dlya_cyberpunk_2077-1883612#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.igromania.ru/news/169432/novyie-naushniki-playstation-pulse-vyijdut-odnovremenno-s-gta-6/",
-  "title:Новые наушники PlayStation Pulse выйдут одновременно с GTA 6"
+  "title:Новые наушники PlayStation Pulse выйдут одновременно с GTA 6",
+  "skip:https://www.kinonews.ru/news_143775/",
+  "https://www.film.ru/news/osnovnoy-treyler-kolec-vlasti-3",
+  "title:Основной трейлер Колец власти-3"
 ]

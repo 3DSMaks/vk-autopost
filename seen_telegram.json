@@ -862,5 +862,9 @@
   "skip:https://www.igromania.ru/news/169470/trejler-mass-effect-5-utyok-v-set-posle-otmenyi-igryi-i-zakryitiya-bioware/",
   "skip:https://stopgame.ru/newsdata/73263/otmenennaya_mass_effect_ravnyalas_na_baldur_s_gate_iii_i_vedmaka_v_plane_svobody_vybora",
   "https://www.playground.ru/warhammer_40000_space_marine_2/news/chislo_igrokov_v_warhammer_40_000_space_marine_2_dostiglo_15_millionov-1883931#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Число игроков в Warhammer 40,000: Space Marine 2 достигло 15 миллионов"
+  "title:Число игроков в Warhammer 40,000: Space Marine 2 достигло 15 миллионов",
+  "skip:https://www.film.ru/news/kerri-poluchit-2-y-sezon",
+  "skip:https://www.film.ru/news/dva-finalnyh-kandidata-na-rol-dzheymsa-bonda",
+  "https://www.film.ru/news/maykla-ne-dopustili-k-zolotomu-globusu",
+  "title:«Майкла» не допустили к «Золотому глобусу»"
 ]

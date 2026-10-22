@@ -742,5 +742,9 @@
   "skip:https://www.playground.ru/phantom_blade_zero/news/phantom_blade_zero_poluchila_zahvatyvayuschij_reliznyj_trejler_fizicheskie_izdaniya_dlya_ps5_vyjdut_v_2027_godu-1883719#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.playground.ru/misc/news/devid_fincher_vyrezal_60_stranits_iz_stsenariya_kventina_tarantino_dlya_filma_o_kliffe_bute-1883713#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.playground.ru/call_of_duty_modern_warfare_4/news/razrabotchiki_modern_warfare_4_prazdnuyut_uspeh_v_steam_i_zapuskayut_rezhim_dmz_na_novoj_karte-1883732#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Разработчики Modern Warfare 4 празднуют успех в Steam и запускают режим DMZ на новой карте"
+  "title:Разработчики Modern Warfare 4 празднуют успех в Steam и запускают режим DMZ на новой карте",
+  "skip:https://www.kinonews.ru/news_143777/",
+  "skip:https://www.film.ru/news/osnovnoy-treyler-kolec-vlasti-3",
+  "https://variety.com/2026/film/news/chris-pratt-star-lord-mcu-1236919455/",
+  "title:Chris Pratt Confirms Star-Lord Will Return to the MCU, Says ‘Hard Action’ Has Been Taken to Make It Happen"
 ]

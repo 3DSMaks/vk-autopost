@@ -794,5 +794,12 @@
   "skip:https://www.kinonews.ru/news_143779/",
   "skip:https://www.kinonews.ru/article_143757/",
   "https://www.film.ru/news/razrabatyvayut-serial-o-yadovitom-plyushche",
-  "title:Разрабатывают сериал о Ядовитом Плюще"
+  "title:Разрабатывают сериал о Ядовитом Плюще",
+  "skip:https://www.igromania.ru/news/169458/vsya-trilogiya-prodalas-huzhe-horizon-zero-dawn-novaya-mass-effect-eschyo-do-otmenyi-vyizyivala-somneniya/",
+  "skip:https://www.playground.ru/life_is_strange/news/sozdatel_life_is_strange_posetil_syomki_seriala_amazon_i_ostalsya_v_vostorge-1883810#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/pod_kapotom_iw_engine_digital_foundry_raskryla_graficheskie_sekrety_call_of_duty_modern_warfare_4-1883807#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/we-were-working-on-a-great-game-former-mass-effect-5-writers-speak-out-after-ea-shuts-down-bioware",
+  "skip:https://www.pcgamer.com/gaming-industry/rip-bioware-ea-has-shut-down-the-legendary-rpg-developer/",
+  "https://www.ign.com/articles/dragon-ball-xenoverse-3-narrows-release-window-following-player-feedback",
+  "title:Dragon Ball Xenoverse 3 Narrows Release Window Following Player Feedback"
 ]

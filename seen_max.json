@@ -917,5 +917,9 @@
   "https://gamemag.ru/news/201789/secret-activision-rpg-project-update-october-2026",
   "title:Activision готовит конкурента Cyberpunk 2077 и Grand Theft Auto VI — игроков ждет масштабная ролевая игра в открытом мире",
   "https://www.film.ru/news/kto-napishet-novyy-shpionskiy-serial-dlya-marvel",
-  "title:Кто напишет новый шпионский сериал для Marvel"
+  "title:Кто напишет новый шпионский сериал для Marvel",
+  "skip:https://www.playground.ru/misc/news/obitel_zla_zaka_kreggera_mozhet_dobratsya_do_tsifrovyh_ploschadok_uzhe_3_noyabrya-1884029#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://gamemag.ru/news/201809/zach-creggers-resident-evil-digital-release-date",
+  "https://www.playground.ru/fallout_76/news/auditoriya_fallout_76_dostigla_25_millionov_igrokov-1884023#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Аудитория Fallout 76 достигла 25 миллионов игроков"
 ]

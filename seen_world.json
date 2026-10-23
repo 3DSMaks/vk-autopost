@@ -148,5 +148,20 @@
   "skip:https://tass.ru/politika/28248237",
   "skip:https://ria.ru/20261023/putin-2126653169.html",
   "https://www.kommersant.ru/doc/9059391",
-  "title:Владимир Путин поручил выделить 1,2 млрд рублей на субсидии для социальной газификации"
+  "title:Владимир Путин поручил выделить 1,2 млрд рублей на субсидии для социальной газификации",
+  "skip:https://ria.ru/20261023/novak-2126662005.html",
+  "skip:https://ria.ru/20261023/novak-2126661853.html",
+  "skip:https://tass.ru/ekonomika/28248383",
+  "skip:https://tass.ru/ekonomika/28248381",
+  "skip:https://tass.ru/ekonomika/28248377",
+  "skip:https://tass.ru/ekonomika/28248379",
+  "skip:https://tass.ru/ekonomika/28248375",
+  "https://www.rbc.ru/politics/23/10/2026/6adbb34fe6f53f880224b012",
+  "title:Александр Новак сообщил об отправке первых танкеров с российским дизелем в США",
+  "skip:https://www.interfax.ru/russia/1124655",
+  "skip:https://tass.ru/obschestvo/28248357",
+  "skip:https://ria.ru/20261023/orel-2126659772.html",
+  "skip:https://ria.ru/20261023/orel-2126658448.html",
+  "https://www.rbc.ru/rbcfreenews/6adbb0ba0472e3336ace665a",
+  "title:Число пострадавших при ракетном ударе по заводу в Орле возросло до восьми"
 ]

@@ -180,5 +180,12 @@
   "skip:https://tass.ru/proisshestviya/28248455",
   "skip:https://ria.ru/20261023/ataka-2126666555.html",
   "https://www.rbc.ru/rbcfreenews/6adbbfd60d56109cf3d31bf0",
-  "title:Удар беспилотника по автобусу в Брянской области привел к гибели человека"
+  "title:Удар беспилотника по автобусу в Брянской области привел к гибели человека",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28248503",
+  "skip:https://www.interfax.ru/moscow/1124660",
+  "https://www.interfax.ru/world/1124666",
+  "title:Пляжи в ОАЭ закрыли из-за разлива нефти, а танкеры подорвались на минах в Ормузском проливе",
+  "skip:https://tass.ru/ekonomika/28248509",
+  "https://www.kommersant.ru/doc/9059412",
+  "title:Чистая прибыль «Фосагро» за девять месяцев снизилась в три раза"
 ]

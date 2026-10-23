@@ -61,5 +61,13 @@
   "title:В московских аэропортах сняли временные ограничения на фоне атак беспилотников",
   "skip:https://www.kommersant.ru/doc/9059286",
   "https://tass.ru/ekonomika/28247917",
-  "title:Мировые цены на нефть марки Brent превысили $116 за баррель"
+  "title:Мировые цены на нефть марки Brent превысили $116 за баррель",
+  "skip:https://www.theguardian.com/world/2026/oct/23/france-police-demonstrations-civil-unrest",
+  "skip:https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnMkk5SkdKWFdLNVdIWUFvZllldzdieGlVVXItZVg2YzE3QWN1dHljZG40UHFRZ3ZQTGV0bUhvaERRUzJBRUNBellmTWNqanZueTkwM29NMU1TRkloaVJWWFlDZ1V3X2s?oc=5",
+  "skip:https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkg2U21rX0FPY3pMbWlwRW5TYmJ1OEVLUUFpWGE0NG1ud3JCTkEzSzVaaGJDOGs3UFdOcDFnX0NBMTI3YWtQLXRrWjFkV3YxdWlGNnI2LVNoLWpkQ0Z6QjBoNUVXYkNRcG9KWm0tcmJKbExKaWtXYTNuSGdMZ0l4MzQxQlZmcGhiVWxpOG1lX0t1c2wzUUpYd0QzbXl3RkxZbDl5cWI4Ry16dmZYbHhqZHVUaEIyUQ?oc=5",
+  "https://www.kommersant.ru/doc/9059288",
+  "title:Во Франции вводят масштабные меры безопасности и мобилизуют 70 тысяч полицейских из-за протестов",
+  "skip:https://www.rbc.ru/rbcfreenews/6adb80ab09a30fd51b0e843f",
+  "https://www.interfax.ru/russia/1124626",
+  "title:В Иваново при тушении пожара на производстве погиб пожарный и пострадали четыре человека"
 ]

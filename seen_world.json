@@ -26,5 +26,13 @@
   "skip:https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
   "skip:https://www.rbc.ru/rbcfreenews/6adb6547626bfaa1d9eead3c",
   "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-  "title:Белый дом заявил о достижении перемирия в Алешках при содействии Мелании Трамп"
+  "title:Белый дом заявил о достижении перемирия в Алешках при содействии Мелании Трамп",
+  "skip:https://tass.ru/proisshestviya/28247757",
+  "skip:https://ria.ru/20261023/najrobi-2126609842.html",
+  "https://www.kommersant.ru/doc/9059275",
+  "title:В столице Кении Найроби обрушилось многоэтажное здание, продолжается спасательная операция",
+  "skip:https://news.google.com/rss/articles/CBMikgFBVV95cUxNVjk1RXRCNHBkeXhWRXgwMTdlX3RERmtfNFBpMVlYY3BjTlVaUnpfMmdXdEFZdDdzQjVTMVlIYzhVQnpHZmQxTWdYeFNqOERVc0ZPQVhKcmFKRXVINThvdVJyS2tud2p1ZThUdDF6UTNSempUcFczUnFoWV8tbGZBZ2UxOGM2RXZlUXBiYktTS1h0UQ?oc=5",
+  "skip:https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
+  "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+  "title:Нетаньяху объявил о подготовке масштабной военной операции на Западном берегу реки Иордан после гибели солдат"
 ]

@@ -979,5 +979,11 @@
   "https://stopgame.ru/newsdata/73274/prodazhi_remeyka_romancing_saga_2_prevysili_otmetku_v_million_kopiy",
   "title:Продажи ремейка Romancing SaGa 2 превысили отметку в миллион копий",
   "https://variety.com/2026/film/news/box-office-clayface-previews-1236919973/",
-  "title:Box Office: ‘Clayface’ Makes $3.5 Million in Previews"
+  "title:Box Office: ‘Clayface’ Makes $3.5 Million in Previews",
+  "skip:https://www.playground.ru/marvels_blade/news/udivlyus_esli_studiyu_zakroyut_dzhejson_shrajer_schitaet_chto_arkane_lyon_najdyot_pokupatelej-1884242#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://stopgame.ru/newsdata/73277/smi_arkane_dolzhna_nayti_pokupatelya_do_13_noyabrya_inache_studiyu_zakroyut",
+  "skip:https://gamemag.ru/news/201816/arkane-has-until-november-to-find-a-buyer-or-face-closure-its-claimed",
+  "skip:https://www.ign.com/articles/xbox-wants-to-close-arkane-lyon",
+  "https://stopgame.ru/newsdata/73276/razrabotchik_valve_upomyanul_hlx_predpolagaemoe_kodovoe_nazvanie_half_life_3",
+  "title:Разработчик Valve упомянул HLX — предполагаемое кодовое название Half-Life 3"
 ]

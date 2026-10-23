@@ -14,5 +14,17 @@
   "skip:https://www.france24.com/en/france-gunman-kills-one-and-wounds-four-in-town-outside-paris",
   "skip:https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
   "https://ria.ru/20261023/frantsiya-2126615016.html",
-  "title:Глава МВД Франции назвал стрельбу в пригороде Парижа террористическим актом"
+  "title:Глава МВД Франции назвал стрельбу в пригороде Парижа террористическим актом",
+  "skip:https://ria.ru/20261023/iordaniya-2126615438.html",
+  "skip:https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+  "skip:https://www.kommersant.ru/doc/9059178",
+  "skip:https://www.france24.com/en/middle-east/20261023-several-killed-dozens-wounded-in-jordan-church-shooting",
+  "https://tass.ru/proisshestviya/28247797",
+  "title:Шесть человек погибли при стрельбе в церкви в Иордании",
+  "skip:https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkVOVkZPUnl6Z2d6SWt4cWJDOUNrSW5Fdmt6WXVUTXJMRXFCMXVVSWRZUWNHUXc3Nk1MZHlLNGVhVzNRMWdsSzByUmtHWFh4YzNRVjVlT2dCbjh5Um13c0kxT2pENE1zS3hmbi15T1FEcHl1SWgwNFVIZTdYaW1LdktVZjVVeUIxOTEzUlZZZnQzVmpSdGd6d0lyTXNjWGUtZERkVXM5N0VZeFhTamI3VGRSeXFqUlJNbU81c2VlcGlrQ01MU1VR?oc=5",
+  "skip:https://tass.ru/politika/28247659",
+  "skip:https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
+  "skip:https://www.rbc.ru/rbcfreenews/6adb6547626bfaa1d9eead3c",
+  "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+  "title:Белый дом заявил о достижении перемирия в Алешках при содействии Мелании Трамп"
 ]

@@ -34,5 +34,15 @@
   "skip:https://news.google.com/rss/articles/CBMikgFBVV95cUxNVjk1RXRCNHBkeXhWRXgwMTdlX3RERmtfNFBpMVlYY3BjTlVaUnpfMmdXdEFZdDdzQjVTMVlIYzhVQnpHZmQxTWdYeFNqOERVc0ZPQVhKcmFKRXVINThvdVJyS2tud2p1ZThUdDF6UTNSempUcFczUnFoWV8tbGZBZ2UxOGM2RXZlUXBiYktTS1h0UQ?oc=5",
   "skip:https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
   "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-  "title:Нетаньяху объявил о подготовке масштабной военной операции на Западном берегу реки Иордан после гибели солдат"
+  "title:Нетаньяху объявил о подготовке масштабной военной операции на Западном берегу реки Иордан после гибели солдат",
+  "skip:https://www.rbc.ru/politics/23/10/2026/6adb7c569763119ca5baa190",
+  "skip:https://www.kommersant.ru/doc/9059281",
+  "skip:https://www.interfax.ru/russia/1124618",
+  "skip:https://www.interfax.ru/russia/1124617",
+  "https://www.kommersant.ru/doc/9059283",
+  "title:Песков заявил, что эвакуация из Алешек в рамках гуманитарной операции займет несколько дней",
+  "skip:https://ria.ru/20261023/yandeks-2126611342.html",
+  "skip:https://www.interfax.ru/russia/1124610",
+  "https://www.rbc.ru/rbcfreenews/6adb74635ea18da5a7ad8fad",
+  "title:Yandex Cloud восстановил доступ более чем к 90% данных клиентов после атак на дата-центры"
 ]

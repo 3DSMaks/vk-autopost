@@ -54,5 +54,12 @@
   "skip:https://tass.ru/proisshestviya/28247871",
   "skip:https://tass.ru/proisshestviya/28247867",
   "https://ria.ru/20261023/ivanovo-2126624838.html",
-  "title:Крупный пожар на производстве в Иванове привел к гибели пожарного"
+  "title:Крупный пожар на производстве в Иванове привел к гибели пожарного",
+  "skip:https://tass.ru/ekonomika/28247897",
+  "skip:https://www.interfax.ru/russia/1124616",
+  "https://ria.ru/20261023/ogranichenija-2126626416.html",
+  "title:В московских аэропортах сняли временные ограничения на фоне атак беспилотников",
+  "skip:https://www.kommersant.ru/doc/9059286",
+  "https://tass.ru/ekonomika/28247917",
+  "title:Мировые цены на нефть марки Brent превысили $116 за баррель"
 ]

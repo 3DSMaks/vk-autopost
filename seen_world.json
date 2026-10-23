@@ -202,5 +202,12 @@
   "title:Семь человек погибли при стрельбе в церкви в Иордании",
   "skip:https://tass.ru/obschestvo/28248593",
   "skip:https://www.interfax.ru/russia/1124663",
-  "https://www.kommersant.ru/doc/9059693"
+  "https://www.kommersant.ru/doc/9059693",
+  "skip:https://www.rbc.ru/politics/24/10/2026/6adbdd660d56109cf3d31c02",
+  "skip:https://tass.ru/proisshestviya/28248611",
+  "https://ria.ru/20261024/sevastopol-2126673343.html",
+  "title:Севастополь остался без света в результате атаки ВСУ на энергообъекты",
+  "skip:https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
+  "https://tass.ru/mezhdunarodnaya-panorama/28248581",
+  "title:Суд в Аргентине прекратил расследование против президента Хавьера Милея по делу о криптомонетах"
 ]

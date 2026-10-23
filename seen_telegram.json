@@ -880,5 +880,9 @@
   "skip:https://www.kinonews.ru/news_143790/",
   "skip:https://www.kinonews.ru/news_143789/",
   "https://www.film.ru/news/dzhenna-ortega-ob-uhode-s-televideniya",
-  "title:Дженна Ортега об уходе с телевидения"
+  "title:Дженна Ортега об уходе с телевидения",
+  "skip:https://www.igromania.ru/news/169479/finalnyie-kinoprobyi-na-rol-dzhejmsa-bonda-smi-nazvali-tryoh-aktyorov/",
+  "skip:https://gamemag.ru/news/201809/zach-creggers-resident-evil-digital-release-date",
+  "https://www.playground.ru/fallout_76/news/auditoriya_fallout_76_dostigla_25_millionov_igrokov-1884023#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Аудитория Fallout 76 достигла 25 миллионов игроков"
 ]

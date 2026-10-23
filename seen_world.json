@@ -99,5 +99,20 @@
   "skip:https://www.rbc.ru/politics/23/10/2026/6adb82bed18a46c6115a3381",
   "skip:https://www.interfax.ru/russia/1124611",
   "https://www.kommersant.ru/doc/9059270",
-  "title:Минюст России опубликовал реестр лиц под временными ограничениями, включив туда Ходорковского и других релокантов"
+  "title:Минюст России опубликовал реестр лиц под временными ограничениями, включив туда Ходорковского и других релокантов",
+  "skip:https://news.google.com/rss/articles/CBMivAFBVV95cUxOdmhoNXZfaEZSVXU4cVh3dW9tMm54alE4THRoUWNBSzc4QTFvNHl6eE9mOElIeXE1S0pkQlV4Yld6U0t5RjZnbEpjSzVyMkMzQ01MM1hSclViSHVmRDZGTndKTm9GZHZaRUFIZnAxVnM2V0hDMGhUOHVKemxQcFdxc0hmLTJDTTFQWTFTRFhRalM1Y1I3Y0dRTEF6UldFdHg3OVVxd0hkdUFyNTdUN0dDZVRwbTFqbVVyT2FtSw?oc=5",
+  "https://www.rbc.ru/rbcfreenews/6adb8b426e9761aa604e1008",
+  "title:У берегов Румынии затонуло торговое судно, пропали моряки",
+  "skip:https://ria.ru/20261023/lantratova-2126639291.html",
+  "skip:https://tass.ru/obschestvo/28248051",
+  "skip:https://tass.ru/obschestvo/28248039",
+  "skip:https://tass.ru/obschestvo/28248033",
+  "skip:https://ria.ru/20261023/lantratova-2126637733.html",
+  "skip:https://ria.ru/20261023/tramp-2126636926.html",
+  "skip:https://www.rbc.ru/rbcfreenews/6adb89dc23dd62c28889892d",
+  "skip:https://ria.ru/20261023/aleshki-2126630911.html",
+  "skip:https://ria.ru/20261023/genshtab-2126630746.html",
+  "skip:https://ria.ru/20261023/dmitriev-2126626985.html",
+  "https://ria.ru/20261023/lantratova-2126640671.html",
+  "title:В районе Алешек вводится режим тишины для проведения гуманитарной операции"
 ]

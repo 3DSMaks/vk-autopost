@@ -7,6 +7,7 @@
 История — seen_world.json (ссылки всех сообщений опубликованного события + title:<заголовок>).
 """
 import html
+import io
 import json
 import os
 from pathlib import Path
@@ -14,6 +15,8 @@ import re
 import sys
 import urllib.parse
 from datetime import datetime, timezone
+
+from PIL import Image, ImageOps
 
 import post as news
 import telegram_post as tg
@@ -137,8 +140,9 @@ def confirmed_events(items, recent):
     return events
 
 
-WRITE_SCHEMA = {'type': 'OBJECT', 'properties': {'title': {'type': 'STRING'}, 'body': {'type': 'STRING'}},
-                'required': ['title', 'body']}
+WRITE_SCHEMA = {'type': 'OBJECT', 'properties': {'title': {'type': 'STRING'}, 'body': {'type': 'STRING'},
+                                                'photo_query': {'type': 'STRING'}},
+                'required': ['title', 'body', 'photo_query']}
 
 
 def write(event):
@@ -156,8 +160,12 @@ def write(event):
               'title — заголовок до 90 знаков: что произошло, без кликбейта и кавычек-ёлочек вокруг всего заголовка.\n'
               'body — 2–4 коротких абзаца (всего 300–900 знаков), между абзацами пустая строка: первый абзац — '
               'главное (кто, что, где, когда), дальше — подробности и контекст из сообщений. Без HTML и markdown.\n\n'
+              'photo_query — 2–4 слова по-английски для поиска подходящего фото в Wikimedia Commons, если у новости '
+              'своего фото не будет: главное место, здание, человек или объект события (например «Sheremetyevo '
+              'airport», «Amman Jordan», «Emmanuel Macron»).\n\n'
               f'Событие: {event["title"]}\n\n' + '\n\n'.join(reports))
     data = tg.gemini_json([{'text': prompt}], WRITE_SCHEMA)
+    event['photo_query'] = (data.get('photo_query') or '').strip()
     title = re.sub(r'[*_#<>]', '', data['title']).strip()
     body = re.sub(r'[*_#<>]', '', data['body']).strip()
     body = re.sub(r'\n{3,}', '\n\n', body)
@@ -165,16 +173,88 @@ def write(event):
     return f"{mark} {title}\n\n{body}\n\nИсточники: {', '.join(event['sources'])}"
 
 
+COMMONS = 'https://commons.wikimedia.org/w/api.php'
+COMMONS_UA = {'User-Agent': 'GazetaRF-news-bot/1.0 (https://github.com/3DSMaks/vk-autopost)'}
+
+
+def to_jpeg(raw):
+    with Image.open(io.BytesIO(raw)) as source:
+        image = ImageOps.exif_transpose(source).convert('RGB')
+        image.thumbnail((2560, 2560))
+        out = io.BytesIO()
+        image.save(out, 'JPEG', quality=93, optimize=True)
+        return out.getvalue()
+
+
+def commons_candidates(query, limit=6):
+    """Свободные фото Wikimedia Commons по запросу: [(jpeg, автор)]. Только крупные снимки (от 800 px)."""
+    params = {'action': 'query', 'format': 'json', 'generator': 'search', 'gsrnamespace': 6, 'gsrlimit': 15,
+              'gsrsearch': f'{query} filetype:bitmap', 'prop': 'imageinfo', 'iiprop': 'url|size|mime|extmetadata',
+              'iiurlwidth': 1600}
+    res = json.loads(news.http(COMMONS + '?' + urllib.parse.urlencode(params), headers=COMMONS_UA, timeout=20))
+    pages = sorted((res.get('query') or {}).get('pages', {}).values(), key=lambda p: p.get('index', 99))
+    out = []
+    for page in pages:
+        info = (page.get('imageinfo') or [{}])[0]
+        if info.get('mime') not in ('image/jpeg', 'image/png') or min(info.get('width', 0), info.get('height', 0)) < 800:
+            continue
+        meta = info.get('extmetadata') or {}
+        author = news.strip((meta.get('Artist') or {}).get('value', ''))[:60] or 'Wikimedia Commons'
+        try:
+            out.append((to_jpeg(news.http(info.get('thumburl') or info['url'], headers=COMMONS_UA, timeout=30)), author))
+        except Exception:
+            continue
+        if len(out) == limit:
+            break
+    return out
+
+
+def commons_photo(event):
+    """Запасное фото: Gemini выбирает из снимков Commons тот, что действительно подходит к новости (или ни одного)."""
+    query = event.get('photo_query')
+    if not query:
+        return None
+    try:
+        found = commons_candidates(query)
+    except Exception as exc:
+        print('  ! Wikimedia Commons недоступен:', type(exc).__name__)
+        return None
+    if not found:
+        print(f'  Commons: по запросу «{query}» ничего нет')
+        return None
+    parts = [{'text': (f'Новость: «{event["title"]}». Ниже {len(found)} фото (номера 0..{len(found) - 1}). '
+                       'Выбери одно, которое честно иллюстрирует новость: то самое место, здание, человек или объект. '
+                       'Не подходят: другое место или человек, схемы, карты, гербы, документы, старые чёрно-белые '
+                       'снимки, случайные пейзажи. Если подходящего нет — best = -1.')}]
+    parts += [{'inline_data': {'mime_type': 'image/jpeg', 'data': tg.thumb_b64(data)}} for data, _ in found]
+    schema = {'type': 'OBJECT', 'properties': {'best': {'type': 'INTEGER'}}, 'required': ['best']}
+    try:
+        best = tg.gemini_json(parts, schema, 60).get('best', -1)
+    except RuntimeError as exc:
+        print('  ! проверка фото Commons не удалась:', exc)
+        return None
+    if not isinstance(best, int) or not 0 <= best < len(found):
+        print(f'  Commons: по запросу «{query}» подходящего фото нет')
+        return None
+    print(f'  Фото из Wikimedia Commons по запросу «{query}»')
+    return found[best]
+
+
 def photos_for(event):
-    for item in [i for i in event['items'] if can_open(i)][:2]:
+    """Фото со страниц агентств (все сообщения о событии); если их нет — свободное фото из Wikimedia Commons.
+    Возвращает (фото, подпись автора или '')."""
+    for item in [i for i in event['items'] if can_open(i)][:4]:
         try:
             found = tg.pictures(item)
         except Exception as exc:
             print('  ! фото не получены:', type(exc).__name__)
             continue
         if found:
-            return found[:2]
-    return []
+            return found[:2], ''
+    picked = commons_photo(event)
+    if picked:
+        return [picked[0]], f'Фото: {picked[1]} / Wikimedia Commons'
+    return [], ''
 
 
 def post_token():
@@ -196,7 +276,9 @@ def group_id():
 
 def publish(event):
     message = write(event)
-    photos = photos_for(event)
+    photos, credit = photos_for(event)
+    if credit:
+        message += '\n' + credit
     attachments = vk_post.upload(photos) if photos else []
     params = dict(owner_id='-' + news.GROUP_ID, from_group=1, message=message)
     if attachments:
@@ -241,6 +323,8 @@ def main():
     for event in events[:MAX_PER_RUN]:
         if dry:
             print(write(event))
+            photos, credit = photos_for(event)
+            print(f'[фото: {len(photos)}{", " + credit if credit else ", со страницы агентства" if photos else ""}]\n')
             continue
         publish(event)
         links = [i['link'] for i in event['items']]

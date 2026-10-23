@@ -59,11 +59,24 @@ class WorldTests(unittest.TestCase):
     def test_text_names_sources_and_has_no_markup(self):
         event = {'title': 'Итоги', 'importance': 8, 'sources': ['ТАСС', 'Reuters'],
                  'items': [item('ТАСС', 'Итоги'), item('Reuters', 'Results', link='https://news.google.com/rss/articles/x')]}
-        with patch.object(wp.tg, 'gemini_json', return_value={'title': '**Итоги выборов**', 'body': 'Факт.\n\n\n\nЕщё факт.'}), \
+        with patch.object(wp.tg, 'gemini_json', return_value={'title': '**Итоги выборов**', 'body': 'Факт.\n\n\n\nЕщё факт.', 'photo_query': 'election'}), \
              patch.object(wp.tg, 'article_text', return_value='текст') as text:
             msg = wp.write(event)
         self.assertEqual(msg, '⚡ Итоги выборов\n\nФакт.\n\nЕщё факт.\n\nИсточники: ТАСС, Reuters')
         self.assertEqual(text.call_count, 1)  # ссылку Google News не открываем
+
+    def test_commons_used_when_agencies_have_no_photo(self):
+        event = {'title': 'Итоги', 'photo_query': 'Kremlin', 'items': [item('ТАСС', 'Итоги')]}
+        with patch.object(wp.tg, 'pictures', return_value=[]), \
+             patch.object(wp, 'commons_candidates', return_value=[(b'a', 'Ivan'), (b'b', 'Petr')]), \
+             patch.object(wp.tg, 'thumb_b64', return_value='x'), patch.object(wp.tg, 'gemini_json', return_value={'best': 1}), quiet():
+            self.assertEqual(wp.photos_for(event), ([b'b'], 'Фото: Petr / Wikimedia Commons'))
+
+    def test_commons_photo_rejected_when_nothing_fits(self):
+        event = {'title': 'Итоги', 'photo_query': 'Kremlin', 'items': []}
+        with patch.object(wp, 'commons_candidates', return_value=[(b'a', 'Ivan')]), \
+             patch.object(wp.tg, 'thumb_b64', return_value='x'), patch.object(wp.tg, 'gemini_json', return_value={'best': -1}), quiet():
+            self.assertEqual(wp.photos_for(event), ([], ''))
 
     def test_group_id_from_link(self):
         for raw in ('https://vk.ru/club123', 'public123', '123', 'vk.com/club123'):
@@ -82,7 +95,7 @@ class WorldTests(unittest.TestCase):
             state.write_text('[]', encoding='utf-8')
             with patch.object(wp, 'SEEN_FILE', state), patch.dict(os.environ, {'WORLD_GROUP_ID': '42'}), \
                  patch.object(wp, 'fresh_items', return_value=items), patch.object(wp, 'confirmed_events', return_value=[event]), \
-                 patch.object(wp, 'write', return_value='🌍 Событие'), patch.object(wp, 'photos_for', return_value=[]), \
+                 patch.object(wp, 'write', return_value='🌍 Событие'), patch.object(wp, 'photos_for', return_value=([], '')), \
                  patch.object(wp, 'post_token', return_value='T'), \
                  patch.object(wp.news, 'vk', side_effect=lambda m, **p: calls.append((m, p)) or {'post_id': 1}), quiet():
                 wp.main()

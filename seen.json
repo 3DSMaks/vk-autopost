@@ -534,5 +534,8 @@
   "skip:https://www.film.ru/news/podtverzhdenie-hyuller-v-mstitelyah",
   "skip:https://www.film.ru/news/obyavlen-novyy-chuzhoy",
   "https://deadline.com/2026/10/crazy-rich-asians-constance-wu-teases-funny-hbo-series-1237172108/",
-  "title:‘Crazy Rich Asians’ Star Constance Wu Teases “Really Funny” HBO Series Filming In NYC"
+  "title:‘Crazy Rich Asians’ Star Constance Wu Teases “Really Funny” HBO Series Filming In NYC",
+  "skip:https://variety.com/2026/film/news/sacha-baron-cohen-donald-trump-brilliance-nincompoop-ali-g-1236930008/",
+  "https://www.film.ru/news/novyy-treyler-rokki-eto-ya",
+  "title:Новый трейлер Рокки это я"
 ]

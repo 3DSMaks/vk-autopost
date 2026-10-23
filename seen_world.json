@@ -44,5 +44,15 @@
   "skip:https://ria.ru/20261023/yandeks-2126611342.html",
   "skip:https://www.interfax.ru/russia/1124610",
   "https://www.rbc.ru/rbcfreenews/6adb74635ea18da5a7ad8fad",
-  "title:Yandex Cloud восстановил доступ более чем к 90% данных клиентов после атак на дата-центры"
+  "title:Yandex Cloud восстановил доступ более чем к 90% данных клиентов после атак на дата-центры",
+  "skip:https://tass.ru/proisshestviya/28247881",
+  "skip:https://ria.ru/20261023/vsu-2126623341.html",
+  "skip:https://ria.ru/20261023/vsu-2126623001.html",
+  "https://www.rbc.ru/politics/23/10/2026/6adb7f08d18a46c6115a3376",
+  "title:ВСУ нанесли ракетный удар по предприятию в Орле",
+  "skip:https://ria.ru/20261023/ivanovo-2126624101.html",
+  "skip:https://tass.ru/proisshestviya/28247871",
+  "skip:https://tass.ru/proisshestviya/28247867",
+  "https://ria.ru/20261023/ivanovo-2126624838.html",
+  "title:Крупный пожар на производстве в Иванове привел к гибели пожарного"
 ]

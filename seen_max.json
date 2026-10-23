@@ -970,5 +970,8 @@
   "skip:https://gamemag.ru/news/201814/dispatch-one-year-anniversary",
   "skip:https://stopgame.ru/newsdata/73272/godovschina_dispatch_obnovlenie_deluxe_izdaniya_i_anons_mobilnyh_versiy",
   "https://gamemag.ru/news/201815/borderlands-4-update-notes",
-  "title:Borderlands 4 лишилась защиты Denuvo"
+  "title:Borderlands 4 лишилась защиты Denuvo",
+  "skip:https://variety.com/lists/next-james-bond-henry-cavill-james-norton-rege-jean-page/",
+  "https://www.film.ru/news/nekrolog-toma-skerritta",
+  "title:Некролог Тома Скерритта"
 ]

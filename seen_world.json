@@ -172,5 +172,13 @@
   "skip:https://tass.ru/ekonomika/28248439",
   "skip:https://www.interfax.ru/russia/1124649",
   "https://ria.ru/20261023/sochi-2126665982.html",
-  "title:В аэропорту Сочи и Геленджика введены временные ограничения"
+  "title:В аэропорту Сочи и Геленджика введены временные ограничения",
+  "skip:https://ria.ru/20261023/roschina-2126664742.html",
+  "skip:https://tass.ru/sport/28248415",
+  "https://www.kommersant.ru/doc/9059410",
+  "title:Российская гимнастка Людмила Рощина завоевала серебро на чемпионате мира",
+  "skip:https://tass.ru/proisshestviya/28248455",
+  "skip:https://ria.ru/20261023/ataka-2126666555.html",
+  "https://www.rbc.ru/rbcfreenews/6adbbfd60d56109cf3d31bf0",
+  "title:Удар беспилотника по автобусу в Брянской области привел к гибели человека"
 ]

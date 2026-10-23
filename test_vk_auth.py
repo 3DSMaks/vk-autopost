@@ -64,21 +64,6 @@ class VKAuthTests(unittest.TestCase):
         self.assertIn('::add-mask::A2', out.getvalue())
         self.assertEqual(env_file.read_text(encoding='utf-8'), 'VK_PHOTO_TOKEN=A2\n')
 
-    def test_fresh_access_token_reused_without_refresh(self):
-        vk_auth.save(self.key, {'refresh_token': 'R1', 'device_id': 'D', 'access_token': 'A1',
-                                'expires_at': vk_auth.time.time() + 3000})
-        with patch.object(vk_auth.news, 'http') as http:
-            self.assertEqual(vk_auth.current(self.key)[0], 'A1')
-        http.assert_not_called()
-
-    def test_expiring_access_token_refreshed(self):
-        vk_auth.save(self.key, {'refresh_token': 'R1', 'device_id': 'D', 'access_token': 'A1',
-                                'expires_at': vk_auth.time.time() + 60})
-        reply = json.dumps({'access_token': 'A2', 'refresh_token': 'R2', 'expires_in': 3600}).encode()
-        with patch.object(vk_auth.news, 'http', return_value=reply):
-            self.assertEqual(vk_auth.current(self.key)[0], 'A2')
-        self.assertEqual(vk_auth.load(self.key)['access_token'], 'A2')
-
     def test_main_without_setup_is_noop(self):
         with patch.dict(os.environ, {'VK_TOKEN_KEY': ''}), contextlib.redirect_stdout(io.StringIO()):
             vk_auth.main()

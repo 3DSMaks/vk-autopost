@@ -1,6 +1,7 @@
 """Ключ профиля ВК (VK ID, приложение 54813069) для загрузки фото на стену группы.
 
-Access token VK ID живёт 1 час; когда он скоро истечёт, обмениваем refresh_token на новую пару.
+Access token VK ID живёт 1 час и привязан к IP-адресу сервера, поэтому в каждом запуске обмениваем refresh_token
+на новую пару. Оба бота ВК (кино и мир) стоят в одной очереди concurrency vk-profile, чтобы не обменивать пару одновременно.
 После обмена старая пара недействительна — новый refresh_token сразу сохраняется в vk_token.enc
 (зашифрован ключом из секрета VK_TOKEN_KEY: репозиторий публичный, в нём лежит только шифр).
 Свежий access token передаётся следующим шагам workflow как VK_PHOTO_TOKEN (замаскирован в логах).
@@ -64,24 +65,12 @@ def refresh(key):
     return res['access_token'], data.get('scope', '')
 
 
-REUSE_SECONDS = 900  # действующий ключ берём повторно, если он проживёт ещё 15+ минут
-
-
-def current(key):
-    """Действующий access token. Обновляем пару, только когда ключ скоро истечёт: ключом пользуются два бота
-    (кино и мировые новости), и редкие обновления почти исключают их одновременный обмен одной пары."""
-    data = load(key)
-    if data.get('access_token') and data.get('expires_at', 0) - time.time() > REUSE_SECONDS:
-        return data['access_token'], data.get('scope', '')
-    return refresh(key)
-
-
 def main():
     key = os.environ.get('VK_TOKEN_KEY', '').strip()
     if not key or not TOKEN_FILE.exists():
         print('Ключ профиля ВК не подключён — фото загружаться не будут (см. vk_connect.py)')
         return
-    access, scope = current(key)
+    access, scope = refresh(key)
     print('::add-mask::' + access)  # GitHub скрывает значение во всех логах
     env_file = os.environ.get('GITHUB_ENV')
     if env_file:

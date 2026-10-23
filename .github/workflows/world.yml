@@ -14,7 +14,7 @@ on:
 permissions:
   contents: write
 concurrency:
-  group: world-post
+  group: vk-profile
   cancel-in-progress: false
 jobs:
   world:

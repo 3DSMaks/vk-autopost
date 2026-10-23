@@ -279,7 +279,13 @@ def publish(event):
     photos, credit = photos_for(event)
     if credit:
         message += '\n' + credit
-    attachments = vk_post.upload(photos) if photos else []
+    try:
+        attachments = vk_post.upload(photos) if photos else []
+    except news.VKError as exc:  # новость важнее картинки: публикуем без фото
+        print('  ! фото не загружено:', exc)
+        attachments = []
+    if credit and not attachments:
+        message = message.rsplit('\n', 1)[0]
     params = dict(owner_id='-' + news.GROUP_ID, from_group=1, message=message)
     if attachments:
         params.update(attachments=','.join(attachments),

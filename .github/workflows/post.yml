@@ -30,7 +30,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: vk-post
+  group: vk-profile
   cancel-in-progress: false
 
 jobs:
@@ -53,7 +53,9 @@ jobs:
         if: github.event_name != 'push'
         env:
           VK_TOKEN_KEY: ${{ secrets.VK_TOKEN_KEY }}
-        run: python vk_auth.py
+        run: |
+          git pull -q --rebase origin main
+          python vk_auth.py
       - name: Сохранить обновлённый ключ (зашифрован)
         if: github.event_name != 'push'
         run: |

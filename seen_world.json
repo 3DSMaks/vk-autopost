@@ -484,5 +484,15 @@
   "skip:https://www.kommersant.ru/doc/9059897",
   "skip:https://www.interfax.ru/russia/1124785",
   "https://www.rbc.ru/politics/24/10/2026/6adcda8dd0b772f581137e36",
-  "title:Россия и Украина договорились о введении режима тишины в районе Алешек для гуманитарной миссии"
+  "title:Россия и Украина договорились о введении режима тишины в районе Алешек для гуманитарной миссии",
+  "skip:https://www.interfax.ru/russia/1124794",
+  "skip:https://tass.ru/armiya-i-opk/28250121",
+  "skip:https://ria.ru/20261024/bespilotniki-2126780986.html",
+  "https://www.kommersant.ru/doc/9059909",
+  "title:Минобороны отчиталось об уничтожении 125 украинских беспилотников за день",
+  "skip:https://www.interfax.ru/world/1124787",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28250067",
+  "skip:https://ria.ru/20261024/khusity-2126772717.html",
+  "https://tass.ru/mezhdunarodnaya-panorama/28250099",
+  "title:Йеменские хуситы заявили об ударах по объектам в Саудовской Аравии"
 ]

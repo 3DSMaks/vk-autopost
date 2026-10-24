@@ -990,5 +990,10 @@
   "skip:https://variety.com/2026/film/news/sandra-huller-avengers-doomsday-cameo-role-1236930032/",
   "skip:https://www.kinonews.ru/news_143797/",
   "https://www.film.ru/news/obyavlen-novyy-chuzhoy",
-  "title:Объявлен новый Чужой"
+  "title:Объявлен новый Чужой",
+  "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/pervye_otsenki_modern_warfare_4_kritiki_hvalyat_mrachnuyu_kampaniyu_i_obnovlennyj_rezhim_dmz-1884330#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/misc/news/elajdzha_vud_i_orlando_blum_sygrayut_v_tretem_sezone_dzhentlmenov_gaya_richi-1884319#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://gamemag.ru/news/201822/mw-4-scores-big",
+  "https://www.ign.com/articles/mass-effect-5-details-revealed-following-cancellation-including-hitman-style-freedom-in-missions",
+  "title:Mass Effect 5 Details Revealed Following Cancellation, Including 'Hitman-Style Freedom' in Missions"
 ]

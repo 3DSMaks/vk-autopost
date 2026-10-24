@@ -1,13 +1,4 @@
 [
-  "https://gamemag.ru/news/201596/machimarium-2-trailer",
-  "https://www.kinonews.ru/news_143574/",
-  "https://www.playground.ru/valor_mortis/news/soulslike_pro_soldata_napoleonovskoj_armii_valor_mortis_poluchil_reliznyj_trejler-1880435#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "https://kg-portal.ru/comments/135303-novyj-triller-bena-affleka-zhivotnye-otlichno-podhodit-dlja-netflix-slaboe-kino-kotoroe-mozhno-smotret-zanimajas-drugimi-delami/",
-  "https://www.playground.ru/silent_hill/news/prodyuser_silent_hill_zayavil_chto_uzhe_rassmatrivayutsya_vtoraya_i_tretya_volny_igr_serii-1880448#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.film.ru/news/zhivotnye-bena-affleka-vyshli-na-netflix",
-  "https://www.kinonews.ru/news_143563/",
-  "https://gamemag.ru/news/201597/tp3-new-tr-2027",
-  "https://variety.com/2026/film/news/anne-hathaway-defends-digger-tom-cruise-flop-1236906515/",
   "https://stopgame.ru/newsdata/73115/v_phantom_blade_zero_poverzhennye_vragi_ne_budut_vozrozhdatsya",
   "https://variety.com/2026/film/news/sadie-sink-lorene-scafaria-the-guest-emma-cline-book-1236906739/",
   "https://www.playground.ru/crazy_taxi_new/news/v_crazy_taxi_world_tour_poyavitsya_karta_vdohnovlyonnaya_braziliej-1880495#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -997,5 +988,15 @@
   "https://www.ign.com/articles/mass-effect-5-details-revealed-following-cancellation-including-hitman-style-freedom-in-missions",
   "title:Mass Effect 5 Details Revealed Following Cancellation, Including 'Hitman-Style Freedom' in Missions",
   "https://deadline.com/2026/10/avengers-doomsday-world-series-sneak-peek-1237172207/",
-  "title:‘Avengers: Doomsday’ World Series Sneak Peek Sees Mister Fantastic Throw Out First Pitch"
+  "title:‘Avengers: Doomsday’ World Series Sneak Peek Sees Mister Fantastic Throw Out First Pitch",
+  "skip:https://www.playground.ru/cyberpunk_2077/news/cyberpunk_2077_perenesli_v_brauzer_fanatskaya_versiya_rabotaet_lokalno_cherez_webgpu_bez_oblachnogo_striminga-1884342#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169501/v-cyberpunk-2077-dobavili-neskolko-predmetov-po-vedmaku-3-v-obnovlenii-k-vyihodu-anime/",
+  "skip:https://www.igromania.ru/news/169499/sozdatel-vospitannyih-volkami-rabotaet-nad-novyim-filmom-chuzhoj-ne-svyazannyim-s-romulom-thr/",
+  "skip:https://www.igromania.ru/news/169497/shutka-o-kepah-i-plohaya-aktyorskaya-igra-bejsbolistov-mstiteli-doktor-dum-poluchili-novyij-tizer/",
+  "skip:https://www.igromania.ru/news/169496/insajderyi-rasskazali-ob-otmenyonnoj-mass-effect-reliz-v-2028-godu-detali-syuzheta-romanyi-i-ne-tolko/",
+  "skip:https://www.playground.ru/mass_effect_5/news/petitsiya_za_spasenie_otmenyonnoj_mass_effect_5_nabrala_bolee_95_tysyach_podpisej_na_fone_prizyvov_bojkotirovat_ea-1884320#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.pcgamer.com/games/mass-effect/mass-effect-5-was-set-in-a-galactic-cold-war-new-leak-claims-and-all-3-endings-were-wrapped-into-1/",
+  "skip:https://www.ign.com/articles/mass-effect-fans-call-for-ea-boycott-as-petition-to-save-biowares-canceled-game-garners-more-than-75000-signatures",
+  "https://www.playground.ru/legend_of_zelda_tears_of_the_kingdom/news/the_legend_of_zelda_tears_of_the_kingdom_poluchit_staticheskuyu_rekompilyatsiyu_dlya_windows_s_zayavlennoj_podderzhkoj_60_fps-1884347#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:The Legend of Zelda: Tears of the Kingdom получит статическую рекомпиляцию для Windows с заявленной поддержкой 60 FPS"
 ]

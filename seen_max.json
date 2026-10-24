@@ -1,8 +1,4 @@
 [
-  "https://stopgame.ru/newsdata/73115/v_phantom_blade_zero_poverzhennye_vragi_ne_budut_vozrozhdatsya",
-  "https://variety.com/2026/film/news/sadie-sink-lorene-scafaria-the-guest-emma-cline-book-1236906739/",
-  "https://www.playground.ru/crazy_taxi_new/news/v_crazy_taxi_world_tour_poyavitsya_karta_vdohnovlyonnaya_braziliej-1880495#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "https://deadline.com/2026/10/bloodaxe-release-date-teaser-michael-hirst-prime-video-1237150819/",
   "https://www.ign.com/articles/konami-planning-second-and-third-waves-of-new-silent-hill-games",
   "https://kg-portal.ru/comments/135319-skarlett-johansson-presleduet-oderzhimogo-manjaka-vtrejlere-uzhastika-izgonjajuschij-djavola-mucheniki/",
   "https://www.playground.ru/fatal_fury_city_of_the_wolves/news/rejna_iz_tekken_8_stanet_finalnym_dlc_personazhem_tretego_sezona_fatal_fury_city_of_the_wolves-1880570#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +994,9 @@
   "skip:https://www.pcgamer.com/games/mass-effect/mass-effect-5-was-set-in-a-galactic-cold-war-new-leak-claims-and-all-3-endings-were-wrapped-into-1/",
   "skip:https://www.ign.com/articles/mass-effect-fans-call-for-ea-boycott-as-petition-to-save-biowares-canceled-game-garners-more-than-75000-signatures",
   "https://www.playground.ru/legend_of_zelda_tears_of_the_kingdom/news/the_legend_of_zelda_tears_of_the_kingdom_poluchit_staticheskuyu_rekompilyatsiyu_dlya_windows_s_zayavlennoj_podderzhkoj_60_fps-1884347#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:The Legend of Zelda: Tears of the Kingdom получит статическую рекомпиляцию для Windows с заявленной поддержкой 60 FPS"
+  "title:The Legend of Zelda: Tears of the Kingdom получит статическую рекомпиляцию для Windows с заявленной поддержкой 60 FPS",
+  "skip:https://www.kinonews.ru/news_143807/",
+  "skip:https://kg-portal.ru/comments/135519-ridli-skott-privlek-scenarista-vospitannyh-volkami-dlja-prodolzhenija-prometeja-i-chuzhogo-zavet/",
+  "https://kg-portal.ru/comments/135520-mstiteli-doktor-dum-tizer/",
+  "title:В \"Мстителях: Доктор Дум\" Тор не в восторге, что Стив Роджерс лапает его Молот (видео)"
 ]

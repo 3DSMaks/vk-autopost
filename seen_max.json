@@ -1,11 +1,4 @@
 [
-  "https://www.ign.com/articles/konami-planning-second-and-third-waves-of-new-silent-hill-games",
-  "https://kg-portal.ru/comments/135319-skarlett-johansson-presleduet-oderzhimogo-manjaka-vtrejlere-uzhastika-izgonjajuschij-djavola-mucheniki/",
-  "https://www.playground.ru/fatal_fury_city_of_the_wolves/news/rejna_iz_tekken_8_stanet_finalnym_dlc_personazhem_tretego_sezona_fatal_fury_city_of_the_wolves-1880570#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.film.ru/news/treyler-izgonyayushchego-dyavola-mucheniki",
-  "https://kg-portal.ru/comments/135317-svyshe-400-mln-rublej-zarabotal-perevypusk-fentezi-sumerki-samogo-kassovogo-filma-sentjabrja-v-rossijskom-prokate/",
-  "https://stopgame.ru/newsdata/73121/sonic_racing_crossworlds_poluchit_dlc_kollaboracii_s_godzilloy_evangelionom_i_final_fantasy_vii",
-  "skip:https://www.film.ru/news/rekordnyy-hronometrazh-golodnyh-igr",
   "https://www.kinonews.ru/news_143577/",
   "title:Хью Джекман рассказал о контролирующем его микрочипе",
   "https://www.ign.com/articles/final-fantasy-7-revelation-i-played-a-new-slice-from-the-early-game-with-a-boss-fight-ign-preview",
@@ -998,5 +991,12 @@
   "skip:https://www.kinonews.ru/news_143807/",
   "skip:https://kg-portal.ru/comments/135519-ridli-skott-privlek-scenarista-vospitannyh-volkami-dlja-prodolzhenija-prometeja-i-chuzhogo-zavet/",
   "https://kg-portal.ru/comments/135520-mstiteli-doktor-dum-tizer/",
-  "title:В \"Мстителях: Доктор Дум\" Тор не в восторге, что Стив Роджерс лапает его Молот (видео)"
+  "title:В \"Мстителях: Доктор Дум\" Тор не в восторге, что Стив Роджерс лапает его Молот (видео)",
+  "skip:https://www.playground.ru/misc/news/byvshaya_glava_minecraft_ushla_iz_microsoft_posle_21_goda_raboty_v_xbox_ona_proderzhalas_tri_mesyatsa-1884353#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169504/igroki-dead-by-daylight-bolshe-ne-smogut-kupit-horoshego-parnya-chaki-posle-24-noyabrya-skoro-skidki/",
+  "skip:https://www.igromania.ru/news/169502/eto-ne-myi-creative-assembly-obyasnila-kogo-stoit-vinit-za-total-war-shogun-2-complete-edition/",
+  "skip:https://www.igromania.ru/news/169500/pervyij-glavnyij-operatsionnyij-direktor-xbox-uhodit-iz-microsoft-ona-zanimala-dolzhnost-s-iyulya/",
+  "skip:https://www.ign.com/articles/dead-by-daylight-to-remove-chucky-content-just-months-after-losing-michael-myers",
+  "https://www.igromania.ru/news/169494/bethesda-i-obsidian-pozdravili-igrokov-s-dnyom-fallout-v-sleduyuschem-godu-prazdnovanie-projdyot-v-vashingtone/",
+  "title:Bethesda и Obsidian поздравили игроков с Днём Fallout — в следующем году празднование пройдёт в Вашингтоне"
 ]

@@ -326,5 +326,14 @@
   "skip:https://www.interfax.ru/russia/1124700",
   "skip:https://tass.ru/proisshestviya/28249221",
   "https://www.rbc.ru/rbcfreenews/6adc5f8454a95426949223f5",
-  "title:Промышленные объекты в Тольятти повреждены в результате массированной атаки БПЛА"
+  "title:Промышленные объекты в Тольятти повреждены в результате массированной атаки БПЛА",
+  "skip:https://tass.ru/proisshestviya/28249329",
+  "skip:https://www.kommersant.ru/doc/9059766",
+  "https://www.rbc.ru/rbcfreenews/6adc702ede96d91f6538ff70",
+  "title:В Москве произошел пожар в реконструируемом здании усадьбы «Узкое»",
+  "skip:https://tass.ru/obschestvo/28249339",
+  "skip:https://ria.ru/20261024/krym-2126711034.html",
+  "skip:https://www.rbc.ru/rbcfreenews/6adc662c3edd2419439b9784",
+  "https://ria.ru/20261024/krym-2126711827.html",
+  "title:В Крыму и Севастополе введены ограничения на подачу воды и электроэнергии после аварии на сетях"
 ]

@@ -342,5 +342,13 @@
   "skip:https://www.kommersant.ru/doc/9059777",
   "skip:https://news.google.com/rss/articles/CBMirgFBVV95cUxPcS1GckJLQm1zOTc2YzM1SHFSeDlHQWtEN096eFoySXdaNDlZREh2dWtyQ19QZ1lxcVRLZzR5TTVreHQtdk5aM2RQWTFjSHhMYWpaUVpKazNiLVVRQUZmSlFuM1RyZUxsTlAzTE5NTWpaV2ZCcTNUUExFZVpSUUZFZGMyb25jTUhXZjBXUHNxZGN3MTJfQzlsTTM0ZFQ2SDZlWUt3aEZidkFTcm1mMmc?oc=5",
   "https://www.rbc.ru/rbcfreenews/6adc70cd275194a1faea6736",
-  "title:При ударе беспилотника по предприятию в Орле погибли три человека, пятеро ранены"
+  "title:При ударе беспилотника по предприятию в Орле погибли три человека, пятеро ранены",
+  "skip:https://ria.ru/20261024/starlink-2126714606.html",
+  "skip:https://ria.ru/20261024/starlink-2126714107.html",
+  "https://www.france24.com/en/europe/20261024-ukraine-says-starlink-and-starshield-connection-stable-again",
+  "title:Связь с системами Starlink и Starshield на Украине полностью восстановлена и работает стабильно",
+  "skip:https://www.interfax.ru/world/1124725",
+  "skip:https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+  "https://tass.ru/proisshestviya/28249427",
+  "title:Пожар уничтожил исторический чайный домик «Орлиное гнездо» в баварских Альпах"
 ]

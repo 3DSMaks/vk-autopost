@@ -470,5 +470,19 @@
   "skip:https://ria.ru/20261024/ataka-2126774685.html",
   "skip:https://tass.ru/proisshestviya/28250071",
   "https://www.kommersant.ru/doc/9059903",
-  "title:Один человек погиб при атаке беспилотников на Брянскую область"
+  "title:Один человек погиб при атаке беспилотников на Брянскую область",
+  "skip:https://www.france24.com/en/paris-70-000-police-officers-deployed-nationwide",
+  "skip:https://www.france24.com/en/france-protests-continue-while-police-fire-tear-gas-at-demonstrators",
+  "skip:https://www.rbc.ru/rbcfreenews/6adcde0bb4ea335ad8b78630",
+  "skip:https://news.google.com/rss/articles/CBMijwFBVV95cUxQUV9xQTg4SlhqSXJkZEM3YXRLVGhsdFpYM0xRZU1yWHdMUGNxZ1BfU2NVb3BrUnVSZ29oYU5PUHpOTHRnaVd3U2RyZHozNUJLZHh5WU9leDRDc3BpT0tQY1FxX1lFNThkYzViNl9CeUtGaU1qcVdXQmRMR1lLblhFZnFRNzJuZHBLWWdROWhVTQ?oc=5",
+  "skip:https://ria.ru/20261024/rim-2126770771.html",
+  "skip:https://ria.ru/20261024/rim-2126769671.html",
+  "skip:https://ria.ru/20261024/parizh-2126768587.html",
+  "https://www.france24.com/en/italy-hit-by-new-cost-of-living-protests",
+  "title:Во Франции и других европейских странах проходят массовые протесты против роста стоимости жизни",
+  "skip:https://www.rbc.ru/politics/24/10/2026/6adcd663678a187a77afd757",
+  "skip:https://www.kommersant.ru/doc/9059897",
+  "skip:https://www.interfax.ru/russia/1124785",
+  "https://www.rbc.ru/politics/24/10/2026/6adcda8dd0b772f581137e36",
+  "title:Россия и Украина договорились о введении режима тишины в районе Алешек для гуманитарной миссии"
 ]

@@ -985,5 +985,10 @@
   "skip:https://gamemag.ru/news/201816/arkane-has-until-november-to-find-a-buyer-or-face-closure-its-claimed",
   "skip:https://www.ign.com/articles/xbox-wants-to-close-arkane-lyon",
   "https://stopgame.ru/newsdata/73276/razrabotchik_valve_upomyanul_hlx_predpolagaemoe_kodovoe_nazvanie_half_life_3",
-  "title:Разработчик Valve упомянул HLX — предполагаемое кодовое название Half-Life 3"
+  "title:Разработчик Valve упомянул HLX — предполагаемое кодовое название Half-Life 3",
+  "skip:https://www.film.ru/news/podtverzhdenie-hyuller-v-mstitelyah",
+  "skip:https://variety.com/2026/film/news/sandra-huller-avengers-doomsday-cameo-role-1236930032/",
+  "skip:https://www.kinonews.ru/news_143797/",
+  "https://www.film.ru/news/obyavlen-novyy-chuzhoy",
+  "title:Объявлен новый Чужой"
 ]

@@ -387,5 +387,14 @@
   "skip:https://tass.ru/proisshestviya/28249669",
   "skip:https://ria.ru/20261024/chp-2126731314.html",
   "https://www.interfax.ru/russia/1124758",
-  "title:В ЕАО пассажирский поезд столкнулся с микроавтобусом, погибли шесть человек"
+  "title:В ЕАО пассажирский поезд столкнулся с микроавтобусом, погибли шесть человек",
+  "skip:https://www.kommersant.ru/doc/9059854",
+  "skip:https://ria.ru/20261024/avariya-2126734567.html",
+  "https://tass.ru/obschestvo/28249705",
+  "title:Часть потребителей на юге РФ и в новых регионах осталась без света из-за внешнего воздействия на энергообъекты",
+  "skip:https://ria.ru/20261024/ogranicheniya-2126740642.html",
+  "skip:https://tass.ru/ekonomika/28249739",
+  "skip:https://www.interfax.ru/russia/1124757",
+  "https://www.interfax.ru/russia/1124764",
+  "title:В аэропорту Сочи вводились временные ограничения на прием и выпуск самолетов"
 ]

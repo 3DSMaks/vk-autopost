@@ -376,5 +376,12 @@
   "skip:https://news.google.com/rss/articles/CBMisAFBVV95cUxNNDNHbG5RQVByeEk5RGdBbVA2Q3M2eHR2SzBnUW02NEFMUTl5QUVTOTJKUVVWbW9YbFVJakVkY1I4TlNtcUlyR1pjTWNIUm44Z0kxOGdHeW9YcVVfaDFCMExVWk9UQ1I1OGpNME9qZl96NHNGTUNlQjRlejVrWU1GcVZZSFBFZFlOWEZCS3Qyc1JrV1NqVDFhazRYbXpvTW52Nmt4bUZHUHRUX251R013TA?oc=5",
   "skip:https://www.rbc.ru/sport/24/10/2026/6ad4731b9a79473a3937566e",
   "https://www.aljazeera.com/sports/2026/10/24/bayern-say-coach-kompany-stable-in-hospital-but-will-be-out-for-weeks?traffic_source=rss",
-  "title:Главный тренер «Баварии» Венсан Компани потерял сознание на тренировке и был госпитализирован"
+  "title:Главный тренер «Баварии» Венсан Компани потерял сознание на тренировке и был госпитализирован",
+  "skip:https://news.google.com/rss/articles/CBMinwFBVV95cUxQWkVBNVRVTElObVNSenpqSU1kcVpWeU05Nnp3eVdFQWFNMnFDOFRwTFM4VVNjNEh1QllqbUpyLW5MZk13enlOOXRrU2oxdWlJUVcxN3FPVXNNUjRIWURKVmw1X3A4MWc4bUlQV0pidWRibDIyLWlhaWlGRlFqcTIzQkxzTXBRWTFWZUY2Z3pxRmRqQktjVUMyNmNFamFKTGs?oc=5",
+  "skip:https://ria.ru/20261024/binev-2126729816.html",
+  "https://www.kommersant.ru/doc/9059833",
+  "title:В Софии застрелен вице-президент Олимпийского комитета Болгарии Слави Бинев",
+  "skip:https://ria.ru/20261024/putin-2126732259.html",
+  "https://tass.ru/politika/28249665",
+  "title:Владимир Путин внес в Госдуму на ратификацию договор с Никарагуа о передаче осужденных"
 ]

@@ -430,5 +430,8 @@
   "skip:https://tass.ru/sport/28249851",
   "skip:https://www.rbc.ru/sport/24/10/2026/6acddbd5ef402648397549d4",
   "https://www.aljazeera.com/sports/2026/10/24/aston-villa-inflict-man-citys-first-premier-league-defeat-of-the-season?traffic_source=rss",
-  "title:Манчестер Сити проиграл Астон Вилле со счетом 1:2 и потерпел первое поражение в АПЛ"
+  "title:Манчестер Сити проиграл Астон Вилле со счетом 1:2 и потерпел первое поражение в АПЛ",
+  "skip:https://tass.ru/proisshestviya/28249897",
+  "https://ria.ru/20261024/turtsija-2126761510.html",
+  "title:В ДТП в Турции погибли шесть человек, включая четверых детей"
 ]

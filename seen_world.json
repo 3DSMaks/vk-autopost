@@ -303,5 +303,12 @@
   "skip:https://www.kommersant.ru/doc/9059718",
   "skip:https://www.interfax.ru/russia/1124687",
   "https://tass.ru/proisshestviya/28249047",
-  "title:На Кубани обломки беспилотника повредили подстанцию, оставив три поселка без света"
+  "title:На Кубани обломки беспилотника повредили подстанцию, оставив три поселка без света",
+  "skip:https://tass.ru/proisshestviya/28249137",
+  "https://www.rbc.ru/rbcfreenews/6adc587e339fa68b5c3c1223",
+  "title:В Чувашии школы и техникумы перевели на дистант из-за угрозы атаки беспилотников",
+  "skip:https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0I1TVQybGpFam8xeDVVN1NTdVFha1Q3Und2cjhZbHJnMG1CekZFTWEyMXI2VFNTVHF0MlF5ekIxM3plalZMVU9jVjZHanE2WnozM2xQN2x6WDA2NHh1NUVXRXIwZ2JVczFsQjZ5aXY2VU9tRk1kRWg2bDZpSlJKVzVFaVlhOFc0N0pnOUp0cWVwREY0b1JlZ2xSbw?oc=5",
+  "skip:https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTlLSVZQYy0tZFRieEJTYXU0WnM4NElhS29hMlJ4R3g1Mzl3Wmo4TzFRRlE1QXhsQ09SQWV0Uzg5LUdSdWpfdjI4LU1YSXRqY3pOSTEzbTA0cjdHM2MzVUpqbUdOSm13ZGZZdHN3VWlfbm1laGVQSmEtRklGaHhDejhUT2F4MUktamhqTS13ZHpNaERZekprMkp0TWdyX0t4bXhsOGJ1bUwzZw?oc=5",
+  "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says?traffic_source=rss",
+  "title:Ким Чен Ын прибыл с визитом в Китай"
 ]

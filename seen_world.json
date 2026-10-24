@@ -396,5 +396,14 @@
   "skip:https://tass.ru/ekonomika/28249739",
   "skip:https://www.interfax.ru/russia/1124757",
   "https://www.interfax.ru/russia/1124764",
-  "title:В аэропорту Сочи вводились временные ограничения на прием и выпуск самолетов"
+  "title:В аэропорту Сочи вводились временные ограничения на прием и выпуск самолетов",
+  "skip:https://ria.ru/20261024/omskaya-2126740534.html",
+  "skip:https://tass.ru/proisshestviya/28249743",
+  "https://www.kommersant.ru/doc/9059861",
+  "title:Силы ПВО отражают атаку беспилотников на Омскую область",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28249755",
+  "skip:https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSk1kdkRlZlJWcUhpbzJzSW1OS2RSRG4zVXd1Y0Vsci1UQjR3ZGZiX2xyU2w4TG1YRUZ6VVhfajRiVmt1MTZxdm5rOXF4MUlEbEN0VjJxb2EyR2VCOGUtRzY3MkprdHZlMVBPckJoOVJFcEtkUVZ0cjNlYzNnSVRXM2t3YnZFM0FkLWRUdWRabDlONk1qeVNQa0JNMndwU1lRcG9GUUZtWG0?oc=5",
+  "skip:https://ria.ru/20261024/tramp-2126744018.html",
+  "https://www.rbc.ru/rbcfreenews/6adcacaf3c765fe671670daa",
+  "title:Трамп прокомментировал планы относительно зала для брифингов в Белом доме"
 ]

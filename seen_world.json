@@ -350,5 +350,15 @@
   "skip:https://www.interfax.ru/world/1124725",
   "skip:https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
   "https://tass.ru/proisshestviya/28249427",
-  "title:Пожар уничтожил исторический чайный домик «Орлиное гнездо» в баварских Альпах"
+  "title:Пожар уничтожил исторический чайный домик «Орлиное гнездо» в баварских Альпах",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28249471",
+  "skip:https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert?traffic_source=rss",
+  "skip:https://www.interfax.ru/world/1124729",
+  "skip:https://ria.ru/20261024/lion-2126717651.html",
+  "skip:https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDZFRzVKWWJMOFp4eGNjbVdnZ1pCd3hVNTdMSWdiaU9uSGxZTi1zZW1DR3JvbjBfZTJIMnF3LVBMMXpWQjI0V1BfTWtFYUZkVWtXc0VmZEZyVWRHU3c3aHFwRm9fN0ZFMTRIaC16ZmhOeTFrRXBsdmpwWXVtRVVCd09ONkp3bFB5QWVRWjlBSmJqbHphYnBiLS0yaVZfRWpxdVAxSGRqYUI4YTBEX2pZeA?oc=5",
+  "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
+  "title:Во Франции проходят массовые протесты и демонстрации, введены повышенные меры безопасности",
+  "skip:https://www.interfax.ru/russia/1124726",
+  "https://ria.ru/20261024/bespilotnik-2126716523.html",
+  "title:Средства ПВО за сутки уничтожили более 40 беспилотников над Брянской областью"
 ]

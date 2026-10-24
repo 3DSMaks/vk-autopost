@@ -460,5 +460,15 @@
   "skip:https://www.rbc.ru/politics/24/10/2026/6adcce9a3c765fe671670ddc",
   "skip:https://www.interfax.ru/russia/1124784",
   "https://tass.ru/proisshestviya/28250059",
-  "title:Атака беспилотников на Омск и отмена режима беспилотной опасности"
+  "title:Атака беспилотников на Омск и отмена режима беспилотной опасности",
+  "skip:https://ria.ru/20261024/frantsija-2126777291.html",
+  "skip:https://www.kommersant.ru/doc/9059901",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28250065",
+  "https://tass.ru/mezhdunarodnaya-panorama/28250089",
+  "title:Во Франции более 400 тысяч человек вышли на протесты против роста цен",
+  "skip:https://www.interfax.ru/russia/1124792",
+  "skip:https://ria.ru/20261024/ataka-2126774685.html",
+  "skip:https://tass.ru/proisshestviya/28250071",
+  "https://www.kommersant.ru/doc/9059903",
+  "title:Один человек погиб при атаке беспилотников на Брянскую область"
 ]

@@ -566,5 +566,8 @@
   "skip:https://www.kinonews.ru/news_143807/",
   "skip:https://kg-portal.ru/comments/135519-ridli-skott-privlek-scenarista-vospitannyh-volkami-dlja-prodolzhenija-prometeja-i-chuzhogo-zavet/",
   "https://www.kinonews.ru/news_143808/",
-  "title:Букмекеры назвали фаворитов на роль Джеймса Бонда"
+  "title:Букмекеры назвали фаворитов на роль Джеймса Бонда",
+  "skip:https://kg-portal.ru/comments/135520-mstiteli-doktor-dum-tizer/",
+  "https://www.film.ru/articles/recenziya-na-anime-kiberpank-begushchie-po-krayu-2-stavki-nizhe-shtampov-bolshe",
+  "title:Рецензия на аниме «Киберпанк: Бегущие по краю 2»: ставки ниже, штампов больше"
 ]

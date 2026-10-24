@@ -230,5 +230,13 @@
   "skip:https://tass.ru/ekonomika/28248603",
   "skip:https://news.google.com/rss/articles/CBMimgFBVV95cUxOZm9wdjFkZUFrVGtlRjlKaDR5LXZrQXo2TjhrSy1QdndlSmRjS2pBZnZ4eW1COVBuNlZYdHNKUUVKSFZaWG9zNHdnQ2txT1lmVWprTG5nc04yUW11S3NzTWJheVQ1NXl4WmNaNm80ZHd5LW9uRkctUGYtckFlV0ZuTlNCalJubEd4cDRCOHN1UmhGQkhGbVppblBn?oc=5",
   "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRWdrcmlzeVVGU0lLY2lmdVZHQ094Uk80eXhLb25UQkVoYjhXX3lXSERuOW1pVzNpRGEzQWMtMUVfVEp5bERnM2hqM0hFZFNrb1B5Y1QxRG9tMDUtTFNQSFFoMFZodXFPbmtDUUhpYXVIOXhNRTdkNU9RcDkzRW8xTkM0REpYZ0k3TlhDOGx6WEhYSUJIWG5WSE1Ia1FLWHVTVHN5UFhjVmhtb1J4TkpDTU90LVp4eWR0MnBxaA?oc=5",
-  "title:США отменили пошлины на ряд канадских товаров для помощи сенатору Сьюзан Коллинз"
+  "title:США отменили пошлины на ряд канадских товаров для помощи сенатору Сьюзан Коллинз",
+  "skip:https://ria.ru/20261024/kuzbass-2126679078.html",
+  "skip:https://tass.ru/proisshestviya/28248657",
+  "skip:https://ria.ru/20261024/zemletryasenie-2126675787.html",
+  "https://tass.ru/proisshestviya/28248705",
+  "title:В Кузбассе произошло землетрясение магнитудой 4,8",
+  "skip:https://ria.ru/20261024/frantsiya-2126672888.html",
+  "https://tass.ru/ekonomika/28248633",
+  "title:Агентство Moody's сохранило долгосрочный рейтинг Франции без понижения, но дало негативный прогноз"
 ]

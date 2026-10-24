@@ -1,5 +1,4 @@
 [
-  "https://stopgame.ru/newsdata/73106/sostoyalsya_reliz_dragons_dogma_ii_dark_arisen",
   "https://gamemag.ru/news/201596/machimarium-2-trailer",
   "https://gamemag.ru/news/201594/forza-horizon-6-for-ps5-release-date",
   "https://www.kinonews.ru/news_143574/",
@@ -995,5 +994,9 @@
   "title:Call of Duty: Modern Warfare 4 получила Русскую нейросетевую озвучку",
   "skip:https://deadline.com/2026/10/marilyn-manson-sex-abuse-claims-billy-corgan-1237172174/",
   "https://www.film.ru/news/cifrovoy-reliz-ulichnogo-boyca",
-  "title:Цифровой релиз Уличного бойца"
+  "title:Цифровой релиз Уличного бойца",
+  "skip:https://www.pcgamer.com/gaming-industry/time-could-be-running-out-for-arkane/",
+  "skip:https://www.ign.com/articles/save-mass-effect-petition-hits-50000-signatures-just-days-after-bioware-closure",
+  "https://www.playground.ru/cyberpunk_2077/news/za_sutki_na_mod_io_bylo_skachano_2_8_mln_modov_dlya_cyberpunk_2077_rekord_dlya_servisa-1884427#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:За сутки на mod.io было скачано 2,8 млн модов для Cyberpunk 2077 - рекорд для сервиса"
 ]

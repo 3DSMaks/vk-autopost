@@ -1,7 +1,4 @@
 [
-  "https://www.film.ru/news/kritiki-o-kveste-vizhna",
-  "title:Критики о Квесте Вижна",
-  "https://www.playground.ru/gta_6/news/v_fizicheskoe_izdanie_gta_6_mogut_polozhit_kollektsionnuyu_kartu_shtata_leonida_na_eto_ukazyvaet_utechka_iz_gamestop-1881262#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:В физическое издание GTA 6 могут положить коллекционную карту штата Леонида - на это указывает утечка из GameStop",
   "https://variety.com/2026/film/news/jeremy-renner-avengers-doomsday-will-lose-without-hawkeye-1236909728/",
   "title:Jeremy Renner Says ‘Avengers: Doomsday’ Superheroes ‘Will Probably Lose’ Without Hawkeye: ‘They Didn’t Call Me, So It’s Their Fault’",
@@ -998,5 +995,8 @@
   "https://www.film.ru/news/novyy-treyler-rokki-eto-ya",
   "title:Новый трейлер Рокки это я",
   "https://www.film.ru/news/cifrovoy-reliz-ulichnogo-boyca",
-  "title:Цифровой релиз Уличного бойца"
+  "title:Цифровой релиз Уличного бойца",
+  "skip:https://variety.com/2026/film/news/amc-kips-bay-closing-date-ceo-adam-aron-1236930275/",
+  "https://variety.com/2026/film/columns/amanda-seyfried-you-can-see-everything-oscar-1236916757/",
+  "title:The Surprise Guest in ‘You Can See Everything’ Could Win an Oscar. Should They?"
 ]

@@ -537,5 +537,10 @@
   "skip:https://ria.ru/20261024/lipetsk-2126799053.html",
   "skip:https://tass.ru/proisshestviya/28250277",
   "https://www.interfax.ru/russia/1124809",
-  "title:В Липецке обломки сбитого беспилотника упали на парковку, повредив автомобили"
+  "title:В Липецке обломки сбитого беспилотника упали на парковку, повредив автомобили",
+  "skip:https://ria.ru/20261024/sport-2126799833.html",
+  "skip:https://tass.ru/sport/28250295",
+  "skip:https://www.rbc.ru/sport/24/10/2026/6adcd49ffff624a507690aba",
+  "https://www.sport-interfax.ru/1124811",
+  "title:Российский боец Петр Ян победил Мераба Двалишвили и защитил титул чемпиона UFC"
 ]

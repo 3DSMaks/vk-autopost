@@ -444,5 +444,21 @@
   "skip:https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss",
   "skip:https://ria.ru/20261024/zelenskij-2126757357.html",
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVklsWE9QVlFHcHRES2xGTXNTVEtudENYZTR6aFRMZmVuaENzXzBCb0twTjdadFhWY3V3Nkw4aWZTLVJmYjF4OTVmR0haOERYVGlFSFB0a1lsQUUyVDM2UF9lZ3QyeTJ3QzVGN0J0eEF5UEsyanhKaUNHZmpaZnA1eVFsWkVKdHhkdVJjTWZrSGtHOHN0aC1JN0JkbTByTE1vaG5vc2dPWUswNkZxYTN3aFV2WkJZbVlwNlJtZU1R?oc=5",
-  "title:На Украине заявили о полном восстановлении работы систем Starlink"
+  "title:На Украине заявили о полном восстановлении работы систем Starlink",
+  "skip:https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28250035",
+  "skip:https://www.france24.com/en/france/20261024-live-hundreds-of-protests-expected-in-france-amid-high-tensions-and-heavy-police-presence",
+  "skip:https://www.rbc.ru/rbcfreenews/6adccb5f3137bb8105aac56a",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28249995",
+  "https://ria.ru/20261024/parizh-2126773143.html",
+  "title:Массовые протесты и столкновения с полицией во Франции",
+  "skip:https://www.interfax.ru/russia/1124786",
+  "skip:https://tass.ru/obschestvo/28250043",
+  "skip:https://ria.ru/20261024/omsk-2126772011.html",
+  "skip:https://www.rbc.ru/politics/24/10/2026/6adcce2bd62b94fdb2f09293",
+  "skip:https://ria.ru/20261024/vsu-2126766891.html",
+  "skip:https://www.rbc.ru/politics/24/10/2026/6adcce9a3c765fe671670ddc",
+  "skip:https://www.interfax.ru/russia/1124784",
+  "https://tass.ru/proisshestviya/28250059",
+  "title:Атака беспилотников на Омск и отмена режима беспилотной опасности"
 ]

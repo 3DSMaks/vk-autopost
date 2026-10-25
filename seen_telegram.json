@@ -1,8 +1,4 @@
 [
-  "https://www.playground.ru/metro_4/news/nadyozhnyj_insajder_raskryl_stoimost_izdanij_metro_2039_predzakazy_startuyut_ne_pozdnee_14_oktyabrya-1880673#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Надёжный инсайдер раскрыл стоимость изданий Metro 2039 - предзаказы стартуют не позднее 14 октября",
-  "skip:https://www.film.ru/news/otlozhennyy-trikvel-28-let-spustya",
-  "skip:https://www.film.ru/news/sedi-sink-v-novom-filme-a24",
   "https://variety.com/2026/film/festivals/scarlett-johansson-ray-gunn-world-premiere-london-1236907447/",
   "title:Scarlett Johansson, Sam Rockwell and Brad Bird Sing ‘Happy Birthday’ to Composer Michael Giacchino as ‘Ray Gunn’ World Premieres in London",
   "https://www.ign.com/articles/star-citizen-single-player-spinoff-squadron-42-reemerges-with-flashy-new-trailer-steam-wishlists-and-cast-confirmation",
@@ -998,5 +994,9 @@
   "title:«Гарри Поттер» стал самым дорогим сериалом",
   "skip:https://www.pcgamer.com/games/mass-effect/mass-effect-5-would-have-let-players-generate-alternate-timelines-based-on-their-choices-in-previous-games-according-to-the-series-technical-director/",
   "https://www.playground.ru/halo_combat_evolved/news/halo_studios_planirovala_igru_po_halo_first_strike_no_uvolneniya_mogli_sorvat_proekt-1884608#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Halo Studios планировала игру по Halo: First Strike, но увольнения могли сорвать проект"
+  "title:Halo Studios планировала игру по Halo: First Strike, но увольнения могли сорвать проект",
+  "skip:https://gamemag.ru/news/201825/microsoft-vnezapno-pokinula-operacionnyy-direktor-xbox",
+  "skip:https://www.pcgamer.com/gaming-industry/top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months-in-role/",
+  "https://www.igromania.ru/news/169517/ekranizatsiya-elden-ring-mozhet-obojtis-studii-a24-pochti-v-200-mln-dollarov/",
+  "title:Экранизация Elden Ring может обойтись студии А24 почти в 200 млн долларов"
 ]

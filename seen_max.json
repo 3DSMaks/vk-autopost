@@ -1,10 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143631/",
-  "skip:https://www.film.ru/news/mstiteli-bez-sokolinogo-glaza",
-  "https://variety.com/2026/film/festivals/marion-cotillard-marrakech-film-festival-jury-president-1236909854/",
-  "title:Marion Cotillard to Serve as Marrakech Film Festival Jury President",
-  "skip:https://gamemag.ru/news/201644/castl-belmont-scores-2026",
-  "skip:https://stopgame.ru/newsdata/73144/asha_sharma_schitaet_chto_xbox_ne_vyzhivet_esli_budet_opiratsya_tolko_na_suschestvuyuschie_serii",
   "skip:https://gamemag.ru/news/201641/valor-mortis-scores",
   "skip:https://stopgame.ru/newsdata/73143/uspeshnoe_vozvraschenie_serii_kritiki_o_castlevania_belmonts_curse",
   "skip:https://www.ign.com/articles/castlevania-belmonts-curse-review",
@@ -998,5 +992,11 @@
   "https://www.kinonews.ru/news_143811/",
   "title:Элайджа Вуд и Орландо Блум сыграют в сериале \"Джентльмены\"",
   "https://www.kinonews.ru/news_143815/",
-  "title:Бюджет экранизации \"Elden Ring\" от A24 достиг 200 миллионов долларов"
+  "title:Бюджет экранизации \"Elden Ring\" от A24 достиг 200 миллионов долларов",
+  "skip:https://www.pcgamer.com/games/mass-effect/mass-effect-5-would-have-let-players-generate-alternate-timelines-based-on-their-choices-in-previous-games-according-to-the-series-technical-director/",
+  "skip:https://www.igromania.ru/news/169518/v-otmenyonnoj-mass-effect-universe-gejmeryi-mogli-byi-sozdavat-sobstvennyie-tajmlajnyi/",
+  "skip:https://www.igromania.ru/news/169517/ekranizatsiya-elden-ring-mozhet-obojtis-studii-a24-pochti-v-200-mln-dollarov/",
+  "skip:https://www.igromania.ru/news/169516/uroven-slozhnosti-onimusha-way-of-the-sword-blizok-k-iznachalnoj-zadumke-zayavili-v-capcom/",
+  "https://www.playground.ru/dragon_age_the_veilguard/news/prodyuser_bioware_schitaet_chto_ea_pomeshala_raskryt_potentsial_dragon_age_the_veilguard-1884605#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Продюсер BioWare считает что EA помешала раскрыть потенциал Dragon Age: The Veilguard"
 ]

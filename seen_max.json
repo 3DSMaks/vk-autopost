@@ -1,9 +1,4 @@
 [
-  "title:Приквел \"Голодные игры: Рассвет жатвы\" сменил дату выхода в российский прокат",
-  "skip:https://www.playground.ru/misc/news/my_playstation_byvshij_glava_sony_rasskazal_kak_shyol_protiv_nachalstva_radi_ps3-1881549#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://gamemag.ru/news/201638/former-playstation-boss-apparently-had-a-bold-strategy-for-handling-sony-executives-he-simply-ignore",
-  "https://www.playground.ru/gta_5/news/grand_theft_auto_5_uberut_iz_ps_plus_extra_za_dva_dnya_do_vyhoda_gta_6-1881546#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Grand Theft Auto 5 уберут из PS Plus Extra за два дня до выхода GTA 6",
   "https://www.film.ru/news/parker-pouzi-v-novom-horrore",
   "title:Паркер Поузи в новом хорроре",
   "https://www.playground.ru/resident_evil_requiem/news/otkrytyj_mir_i_konflikty_geroev_insajder_raskryl_detali_rannej_re_requiem_s_leonom_dzhill_shevoj_i_adoj-1881544#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +993,10 @@
   "https://www.igromania.ru/news/169509/rukovodstvo-xbox-otkazalos-prodavat-prava-na-ekranizatsii-svoih-igr-netflix-za-500-mln-dollarov-zayavil-insajder/",
   "title:Руководство Xbox отказалось продавать права на экранизации своих игр Netflix за 500 млн долларов, заявил инсайдер",
   "https://www.playground.ru/gta_6/news/aktrisa_kotoruyu_schitayut_prototipom_lyusii_iz_gta_6_provela_pervyj_pryamoj_efir_i_proignorirovala_vse_voprosy_ob_igre-1884670#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Актриса, которую считают прототипом Люсии из GTA 6, провела первый прямой эфир и проигнорировала все вопросы об игре"
+  "title:Актриса, которую считают прототипом Люсии из GTA 6, провела первый прямой эфир и проигнорировала все вопросы об игре",
+  "skip:https://stopgame.ru/newsdata/73282/smi_a24_vydelila_pochti_s200_mln_na_adaptaciyu_elden_ring",
+  "skip:https://gamemag.ru/news/201829/former-bioware-producer-on-future-op-studios-ip-october-2026",
+  "skip:https://www.ign.com/articles/rumored-lucia-actress-goes-viral-after-dodging-swarm-of-gta-6-comments-during-livestream",
+  "https://www.playground.ru/until_dawn/news/eksklyuziv_ps4_neofitsialno_dobralsya_do_pk_sostoyalsya_reliz_nativnoj_rekompilyatsii_until_dawn_2015_goda-1884711#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Эксклюзив PS4 неофициально добрался до ПК - состоялся релиз нативной рекомпиляции Until Dawn 2015 года"
 ]

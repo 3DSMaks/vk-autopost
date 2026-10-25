@@ -777,5 +777,13 @@
   "skip:https://news.google.com/rss/articles/CBMijAFBVV95cUxQLTlLbUdmSWo2bnZYazNzWWM0SFRzLXlxWmlaS00yZlY3STlHTWdSV0Vwb0NEVEVaWnM1TWYyaV9ueGI5d1ZINUczWU5QaVJPTWxBeURHN1UwWEdJdU9QcEluZmlzLXVmVDNsWm9VUzMySDlsU2RneWpTMGF5Y0xuaVlUX2x1N25iTzQ1dw?oc=5",
   "skip:https://tass.ru/sport/28251665",
   "https://ria.ru/20261025/dakar-2126908520.html",
-  "title:Организаторы перенесли ралли «Дакар» 2027 года из Саудовской Аравии"
+  "title:Организаторы перенесли ралли «Дакар» 2027 года из Саудовской Аравии",
+  "skip:https://www.interfax.ru/world/1124886",
+  "https://www.kommersant.ru/doc/9060212",
+  "title:В Тибете произошло землетрясение магнитудой 5,9",
+  "skip:https://www.kommersant.ru/doc/9060216",
+  "skip:https://ria.ru/20261025/marinov-2126911267.html",
+  "skip:https://tass.ru/sport/28251721",
+  "https://www.rbc.ru/sport/25/10/2026/6ade24d8c700cc1593f3b038",
+  "title:Российский гимнаст Даниел Маринов завоевал бронзу чемпионата мира на параллельных брусьях"
 ]

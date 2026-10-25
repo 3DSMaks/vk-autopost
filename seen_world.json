@@ -835,5 +835,15 @@
   "title:Число пострадавших при атаке ВСУ на промышленную зону в Ельце увеличилось до шести человек",
   "skip:https://tass.ru/proisshestviya/28251915",
   "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
-  "title:Шторм «Боэло» привел к гибели человека и масштабным отключениям света в Великобритании"
+  "title:Шторм «Боэло» привел к гибели человека и масштабным отключениям света в Великобритании",
+  "skip:https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+  "https://tass.ru/proisshestviya/28251987",
+  "title:Нападение террористов на деревню на юге Нигерии привело к гибели людей",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28251983",
+  "skip:https://ria.ru/20261025/serbija-2126938184.html",
+  "skip:https://ria.ru/20261025/serbija-2126935739.html",
+  "skip:https://ria.ru/20261025/serbija-2126935544.html",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28251943",
+  "https://www.kommersant.ru/doc/9060268",
+  "title:В Сербии завершилось голосование на парламентских выборах при высокой явке"
 ]

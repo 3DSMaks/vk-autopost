@@ -737,5 +737,14 @@
   "skip:https://tass.ru/proisshestviya/28251477",
   "skip:https://ria.ru/20261025/orel-2126881533.html",
   "https://www.interfax.ru/russia/1124876",
-  "title:Число жертв и пострадавших при ракетном ударе по заводу в Орле возросло"
+  "title:Число жертв и пострадавших при ракетном ударе по заводу в Орле возросло",
+  "skip:https://www.kommersant.ru/doc/9060145",
+  "skip:https://www.interfax.ru/russia/1124877",
+  "https://ria.ru/20261025/chp-2126896910.html",
+  "title:В Херсонской области депутат погиб при подрыве на мине",
+  "skip:https://tass.ru/obschestvo/28251567",
+  "skip:https://ria.ru/20261025/moskva-2126885923.html",
+  "skip:https://www.kommersant.ru/doc/9060100",
+  "https://www.rbc.ru/rbcfreenews/6ade02dfede3e202eabc0c83",
+  "title:В Москве начали прокладку соединительной ветки между Бирюлевской и Замоскворецкой линиями метро"
 ]

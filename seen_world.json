@@ -820,5 +820,11 @@
   "skip:https://www.interfax.ru/russia/1124904",
   "skip:https://ria.ru/20261025/pvo-2126927380.html",
   "https://www.kommersant.ru/doc/9060257",
-  "title:Минобороны РФ сообщило об уничтожении 38 украинских беспилотников за день"
+  "title:Минобороны РФ сообщило об уничтожении 38 украинских беспилотников за день",
+  "skip:https://ria.ru/20261025/serbiya-2126926906.html",
+  "https://www.rbc.ru/rbcfreenews/6ade3ff6ff42e239f1dabe1f",
+  "title:В Сербии задержали подозреваемого в нападении на Ангелину Вучич",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28251885",
+  "https://ria.ru/20261025/yotova-2126934548.html",
+  "title:Илияна Йотова лидирует на выборах президента Болгарии по данным экзитполов"
 ]

@@ -1,12 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/201641/valor-mortis-scores",
-  "skip:https://stopgame.ru/newsdata/73143/uspeshnoe_vozvraschenie_serii_kritiki_o_castlevania_belmonts_curse",
-  "skip:https://www.ign.com/articles/castlevania-belmonts-curse-review",
-  "skip:https://stopgame.ru/newsdata/73138/soulslayk_s_novymi_ideyami_no_ne_vse_iz_nih_rabochie_chto_pishut_v_reviewah_valor_mortis",
-  "https://gamemag.ru/news/201640/pragmata-doveva-essere-piu-horror-secondo-i-piani-iniziali-di-capcom",
-  "title:Capcom подумывала сделать Pragmata хоррором",
-  "https://deadline.com/2026/10/anthony-mackie-jamie-dornan-12-12-12-trailer-1237155291/",
-  "title:Anthony Mackie Is Seeking Revenge In ’12 12 12′ Trailer",
   "https://stopgame.ru/newsdata/73149/smi_pk_versiya_grand_theft_auto_vi_vyydet_uzhe_v_pervom_kvartale_2027_go",
   "title:СМИ: ПК-версия Grand Theft Auto VI выйдет уже в первом квартале 2027-го",
   "https://deadline.com/2026/10/ryan-coogler-the-x-files-reboot-series-hulu-1237155668/",
@@ -998,5 +990,13 @@
   "skip:https://www.igromania.ru/news/169517/ekranizatsiya-elden-ring-mozhet-obojtis-studii-a24-pochti-v-200-mln-dollarov/",
   "skip:https://www.igromania.ru/news/169516/uroven-slozhnosti-onimusha-way-of-the-sword-blizok-k-iznachalnoj-zadumke-zayavili-v-capcom/",
   "https://www.playground.ru/dragon_age_the_veilguard/news/prodyuser_bioware_schitaet_chto_ea_pomeshala_raskryt_potentsial_dragon_age_the_veilguard-1884605#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Продюсер BioWare считает что EA помешала раскрыть потенциал Dragon Age: The Veilguard"
+  "title:Продюсер BioWare считает что EA помешала раскрыть потенциал Dragon Age: The Veilguard",
+  "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/igroki_call_of_duty_modern_warfare_4_stolknulis_s_blekloj_grafikoj_posle_obnovleniya_drajverov-1884615#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169515/glava-new-blood-nazval-immersivnyij-simulyator-plohim-marketingovyim-terminom/",
+  "skip:https://gamemag.ru/news/201825/microsoft-vnezapno-pokinula-operacionnyy-direktor-xbox",
+  "skip:https://www.pcgamer.com/gaming-industry/top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months-in-role/",
+  "skip:https://www.pcgamer.com/games/rpg/biowares-incredible-legacy-will-continue-as-long-as-there-are-rpgs/",
+  "skip:https://www.pcgamer.com/games/sim/new-blood-ceo-confirms-it-the-worst-way-to-sell-immersive-sims-like-gloomwood-and-fallen-aces-is-to-call-them-immersive-sims/",
+  "https://www.playground.ru/halo_combat_evolved/news/halo_studios_planirovala_igru_po_halo_first_strike_no_uvolneniya_mogli_sorvat_proekt-1884608#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Halo Studios планировала игру по Halo: First Strike, но увольнения могли сорвать проект"
 ]

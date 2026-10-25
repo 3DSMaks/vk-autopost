@@ -798,5 +798,13 @@
   "skip:https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjJPNVlseUpvOWt6LUd1UlBrYnBhY3dDUks3Z2VEZHZFcExyQzBfWHZSdUxrLWVSY09DWHc4bEoybF9jVjBxaDFuR2ZuVW9LcDVhYkNHSGZIaUh5cTFGTlB2ajhva1dWM1ZSTUl4WDdFQjhXdjdOZFJ2LTYtMFRHR2w5ZHVIakxEVVRidDQ2bHRZQ2ZkaXBoRXdEQlUtdHozMTZpNA?oc=5",
   "skip:https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1icGU3aXpYRjREQVM1NDFjZ29XYTlhWWYtcGZYTGpEMkdQbmNodlBJOGQ5djQ2WEtzbDBtZ1FvME5vX21xUHNVcXRoM1pmbHJURk0zWVpCbWVKYUpCbDRWUnJ5dk9YclE?oc=5",
   "https://tass.ru/mezhdunarodnaya-panorama/28251785",
-  "title:В Сербии проходят парламентские выборы при высокой явке избирателей"
+  "title:В Сербии проходят парламентские выборы при высокой явке избирателей",
+  "skip:https://news.google.com/rss/articles/CBMitAFBVV95cUxQYzc4d3hfVTk4Q0w5QlFPbV9hSTlxdTBKMkxkX0x0bU9DZ3FOdUFyNnZDN2pPXzNRQjloaVRPd1BZZnVJY0ZhQVVoczlCUTBzbUx2cFh0NWZPX1JULV9QODF4YjRjSGVlb3NvZVkyQWo5dGtTam40NDR0VWFubEFtNW5BQ080Wk10T05hVjRya1NDWVhzbnY3Z2xQdWVCN1k4QTZaS1FkeTZIUVVYakNsUHVScFE?oc=5",
+  "skip:https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3JPM2RsSG1DcVg1NFh3Y3ljUXp3MmJSTU9QTWEycDVTN1lRelFGSEk5MWlxdjlBazcwRERzME9ieWFxRE5lbGZQZXA3WU5aMXdqTDctQ08yUkw3b243YnE1Vnp4bUxVLTZLQTJ0U21UemtpWURfSGNsa05mazRFVXIyLXQta0R4dGdqdDRXd3laMXFBLUNrSGNlVUNDUm5kM1Ytb3ZCQjhQVlJJdWpXWm9hWWYxalVQ?oc=5",
+  "title:Лидер венесуэльской оппозиции Мария Корина Мачадо вернулась в страну",
+  "skip:https://tass.ru/proisshestviya/28251809",
+  "skip:https://ria.ru/20261025/ataka-2126917699.html",
+  "https://www.rbc.ru/politics/25/10/2026/6ade3082bae07110b5b3843d",
+  "title:При атаке ВСУ на грузовой поезд в Брянской области погиб машинист"
 ]

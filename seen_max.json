@@ -1,6 +1,4 @@
 [
-  "skip:https://www.film.ru/news/slovo-o-polku-igoreve-ekraniziruyut",
-  "skip:https://www.kinonews.ru/news_143632/",
   "skip:https://www.kinonews.ru/news_143631/",
   "skip:https://www.film.ru/news/mstiteli-bez-sokolinogo-glaza",
   "https://variety.com/2026/film/festivals/marion-cotillard-marrakech-film-festival-jury-president-1236909854/",
@@ -998,5 +996,7 @@
   "skip:https://variety.com/2026/film/columns/i-play-rocky-anthony-ippolito-sylvester-stallone-dog-1236930482/",
   "skip:https://variety.com/2026/film/news/nathan-fielder-you-can-see-everything-lance-oppenheim-1236916862/",
   "https://www.kinonews.ru/news_143811/",
-  "title:Элайджа Вуд и Орландо Блум сыграют в сериале \"Джентльмены\""
+  "title:Элайджа Вуд и Орландо Блум сыграют в сериале \"Джентльмены\"",
+  "https://www.kinonews.ru/news_143815/",
+  "title:Бюджет экранизации \"Elden Ring\" от A24 достиг 200 миллионов долларов"
 ]

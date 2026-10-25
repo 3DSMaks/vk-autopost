@@ -692,5 +692,12 @@
   "skip:https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ1ZGSTdibFh1VThLYkYzRUxHSWxnNm93cmJWODhBWnNjdi0yaDJVVmxNTEhGSE9SLXA1ZlRMYjB5TWN3dFVSYmpESmNYazF5UU8yQ0t3bl9QdWJLZGJuMWM5MDZtZDJXOE81XzdiempKMV9veFBDTmFXbmVmb0NuTGd3UDlfU2FneDFrek9HcTdNMUxEYjZQNA?oc=5",
   "skip:https://ria.ru/20261025/strelba-2126820303.html",
   "https://www.kommersant.ru/doc/9059945",
-  "title:При стрельбе возле университета во Флориде пострадали не менее 12 человек"
+  "title:При стрельбе возле университета во Флориде пострадали не менее 12 человек",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28251293",
+  "skip:https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+  "https://ria.ru/20261025/brazilija-2126867789.html",
+  "title:В Бразилии начался второй тур президентских выборов",
+  "skip:https://tass.ru/proisshestviya/28251339",
+  "https://ria.ru/20261025/elets-2126868219.html",
+  "title:ВСУ нанесли удар по промышленной зоне в Липецкой области"
 ]

@@ -1,9 +1,4 @@
 [
-  "title:GTA 6 leaker threatens to upload a build with 'full story mode'",
-  "https://variety.com/2026/film/box-office/odyssey-passes-avatar-korea-top-international-film-ever-1236908100/",
-  "title:Christopher Nolan’s ‘The Odyssey’ Overtakes ‘Avatar: The Way of Water’ as Korea’s Biggest International Film of All Time (EXCLUSIVE)",
-  "https://www.pcgamer.com/games/sim/it-looks-like-wing-commander-3-is-getting-a-remaster-after-ea-producer-discovers-the-original-fmv-source-tapes-in-the-companys-archives/",
-  "title:It looks like Wing Commander 3 is getting a remaster, after EA producer discovers the original FMV source tapes in the company's archives",
   "https://deadline.com/2026/10/sacha-baron-cohen-quentin-tarantino-popinjay-cavalier-london-1237073438/",
   "title:Sacha Baron Cohen Confirmed To Star In Quentin Tarantino’s ‘The Popinjay Cavalier’ West End Stage Play With Dates & On Sale Window Announced",
   "https://www.playground.ru/forza_horizon_6/news/forza_horizon_6_vyjdet_na_ps5_na_fizicheskih_nositelyah_no_potrebuet_dozagruzki_dannyh-1881020#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +993,10 @@
   "skip:https://www.kinonews.ru/news_143816/",
   "skip:https://www.kinonews.ru/news_143815/",
   "https://www.film.ru/news/stallone-napisal-scenariy-rokki-7",
-  "title:Сталлоне написал сценарий «Рокки 7»"
+  "title:Сталлоне написал сценарий «Рокки 7»",
+  "skip:https://www.playground.ru/witcher/news/dag_kokl_zapisal_vse_repliki_geralta_dlya_pervogo_vedmaka_vsego_za_8_dnej_u_menya_propadal_golos-1884626#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169519/aktyor-ozvuchki-geralta-v-vedmake-rasskazal-o-tyazhyoloj-rabote-nad-personazhem/",
+  "skip:https://www.igromania.ru/news/169512/sozdateli-tomb-raider-legacy-of-atlantis-rasskazali-o-prodolzhitelnosti-igryi/",
+  "https://www.playground.ru/call_of_duty_modern_warfare_4/news/call_of_duty_modern_warfare_4_privlekla_bolee_227_tysyach_igrokov_v_steam_v_debyutnyj_uikend-1884664#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Call of Duty: Modern Warfare 4 привлекла более 227 тысяч игроков в Steam в дебютный уикенд"
 ]

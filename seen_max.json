@@ -1,8 +1,4 @@
 [
-  "https://www.playground.ru/gears_of_war_e_day/news/gears_of_war_e_day_vozglavila_top_platnyh_igr_microsoft_store_v_ssha_nesmotrya_na_game_pass-1881537#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Gears of War E-Day возглавила топ платных игр Microsoft Store в США несмотря на Game Pass",
-  "skip:https://www.kinonews.ru/news_143642/",
-  "skip:https://www.kinonews.ru/news_143639/",
   "skip:https://deadline.com/2026/10/james-mcavoy-bullied-set-hbo-band-of-brothers-1237156356/",
   "https://kg-portal.ru/comments/135382-prikvel-golodnye-igry-rassvet-zhatvy-smenil-datu-vyhoda-vrossijskij-prokat/",
   "title:Приквел \"Голодные игры: Рассвет жатвы\" сменил дату выхода в российский прокат",
@@ -998,5 +994,9 @@
   "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/call_of_duty_modern_warfare_4_privlekla_bolee_227_tysyach_igrokov_v_steam_v_debyutnyj_uikend-1884664#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/dlya_call_of_duty_modern_warfare_4_vyshlo_blagotvoritelnoe_dlc_v_chest_geroya_kajla_karpentera-1884656#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.playground.ru/god_of_war_3/news/god_of_war_iii_remastered_spartanport_2_7_0_povysil_proizvoditelnost_na_slabyh_protsessorah_vplot_do_5_raz-1884646#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:God of War III Remastered - SpartanPort 2.7.0 повысил производительность на слабых процессорах вплоть до 5 раз"
+  "title:God of War III Remastered - SpartanPort 2.7.0 повысил производительность на слабых процессорах вплоть до 5 раз",
+  "skip:https://www.playground.ru/witcher/news/dag_kokl_zapisal_vse_repliki_geralta_dlya_pervogo_vedmaka_vsego_za_8_dnej_u_menya_propadal_golos-1884626#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169519/aktyor-ozvuchki-geralta-v-vedmake-rasskazal-o-tyazhyoloj-rabote-nad-personazhem/",
+  "https://www.igromania.ru/news/169509/rukovodstvo-xbox-otkazalos-prodavat-prava-na-ekranizatsii-svoih-igr-netflix-za-500-mln-dollarov-zayavil-insajder/",
+  "title:Руководство Xbox отказалось продавать права на экранизации своих игр Netflix за 500 млн долларов, заявил инсайдер"
 ]

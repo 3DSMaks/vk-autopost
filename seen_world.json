@@ -648,5 +648,17 @@
   "skip:https://www.rbc.ru/rbcfreenews/6add1f1a1b6f05fc3c744ff0",
   "skip:https://tass.ru/obschestvo/28250469",
   "https://ria.ru/20261025/uchitel-2126810478.html",
-  "title:Минпросвещения России подготовило законопроект о новых мерах поддержки и защиты учителей"
+  "title:Минпросвещения России подготовило законопроект о новых мерах поддержки и защиты учителей",
+  "skip:https://www.interfax.ru/russia/1124825",
+  "skip:https://ria.ru/20261025/ogranicheniya-2126816020.html",
+  "skip:https://www.interfax.ru/russia/1124824",
+  "skip:https://tass.ru/ekonomika/28250589",
+  "skip:https://www.interfax.ru/russia/1124823",
+  "skip:https://tass.ru/ekonomika/28250561",
+  "https://tass.ru/ekonomika/28250597",
+  "title:В российских аэропортах ввели и сняли временные ограничения на полеты",
+  "skip:https://ria.ru/20261025/vzryvy-2126812083.html",
+  "skip:https://tass.ru/proisshestviya/28250527",
+  "https://ria.ru/20261025/vzryvy-2126813486.html",
+  "title:В Виннице и области прогремели взрывы"
 ]

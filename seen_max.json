@@ -1,8 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/201647/gamesbeat-grand-theft-auto-vis-pc-release-is-slated-for-q1-2027",
-  "https://stopgame.ru/newsdata/73157/glen_skofild_obvinil_rukovodstvo_krafton_v_problemah_the_callisto_protocol",
-  "title:Глен Скофилд обвинил руководство Krafton в проблемах The Callisto Protocol",
-  "skip:https://www.film.ru/news/hulu-oficialno-rabotaet-nad-sekretnymi-materialami",
   "skip:https://kg-portal.ru/comments/135373-narnija-plemjannik-charodeja-trejler/",
   "https://www.kinonews.ru/news_143640/",
   "title:Дэниел Крэйг открывает миры в трейлере \"Хроники Нарнии: Племянник чародея\"",
@@ -998,5 +994,9 @@
   "title:После \"Войны и мира\" Сарика Андреасяна выйдет новый фильм по роману \"Анна Каренина\" Льва Толстого",
   "skip:https://www.film.ru/articles/recenziya-na-film-oglyanis-dramu-o-devichey-druzhbe-ot-rezhissera-magazinnyh-vorishek",
   "https://variety.com/2026/film/news/clayface-batman-gotham-aaron-paul-cameo-1236921644/",
-  "title:‘Clayface’ Director James Watkins Explains That [SPOILER] Cameo, Introducing Gotham City to the DC Universe and All the Shape-Shifting Kills"
+  "title:‘Clayface’ Director James Watkins Explains That [SPOILER] Cameo, Introducing Gotham City to the DC Universe and All the Shape-Shifting Kills",
+  "skip:https://gamemag.ru/news/201827/prohojdenie-tomb-raider-legacy-of-atlantis-zaymet-1416-chasov",
+  "skip:https://www.igromania.ru/news/169512/sozdateli-tomb-raider-legacy-of-atlantis-rasskazali-o-prodolzhitelnosti-igryi/",
+  "https://www.playground.ru/phantom_blade_zero/news/v_set_utekla_pervaya_retsenziya_na_phantom_blade_zero_pohvalili_boyovku_no_raskritikovali_pustye_lokatsii-1884679#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:В сеть утекла первая рецензия на Phantom Blade Zero - похвалили боёвку, но раскритиковали пустые локации"
 ]

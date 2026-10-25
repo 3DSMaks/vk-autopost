@@ -702,5 +702,10 @@
   "title:ВСУ нанесли удар по промышленной зоне в Липецкой области",
   "skip:https://tass.ru/proisshestviya/28251269",
   "https://www.france24.com/en/france/20261025-at-least-1-300-people-arrested-in-mass-weekend-protests-across-france",
-  "title:Во Франции во время массовых протестов задержали более 1,3 тыс. человек"
+  "title:Во Франции во время массовых протестов задержали более 1,3 тыс. человек",
+  "skip:https://www.kommersant.ru/doc/9060079",
+  "skip:https://www.rbc.ru/rbcfreenews/6adde7b97ed5c3f0602233d9",
+  "skip:https://www.interfax.ru/russia/1124869",
+  "https://tass.ru/proisshestviya/28251407",
+  "title:ВСУ нанесли удар по промышленной зоне в Ельце Липецкой области"
 ]

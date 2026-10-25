@@ -623,5 +623,11 @@
   "skip:https://news.google.com/rss/articles/CBMiogFBVV95cUxNR3FXR3pTRGF5SDNQWmtrWDE5WVRFclJucWNWQm1jNW9ST0hYS01UcXRwVGtsLTRVeGdlUzVZNjJmN1JlZVVwaU5pM0dVSXE0T0FiaWREb1ZTdnBRYXlqOGRsN3lRYnVXN01Cd2dwMEJacFV4aW1helZDejBMU0VXZFBOVXRVTG0xeUtWN2M3YWZzSWVYLWJOZFI0SFIxbTFTVmc?oc=5",
   "skip:https://ria.ru/20261025/formula-2126807154.html",
   "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMFVDNEFlQlNPVTlHTG9Mc3N2YVljQjJDVEpZUEc1UVp5T2poUzlvRG1zbjRKMnp2V1R1OU93dTBJYWFQS2N0dXlpclZjbWpGSTZtd2NEdFlVYzVKbXpYSFhjYzZDcVNURG5nTi1leURRR1pfcE9oVmlWVWxUQkRMRTRuMENSZ3BJV2JGOGEzSVp2aTVSemNieDRULUVGRGRFaWtv?oc=5",
-  "title:Кими Антонелли выиграл квалификацию Гран-при США Формулы-1 в Остине"
+  "title:Кими Антонелли выиграл квалификацию Гран-при США Формулы-1 в Остине",
+  "skip:https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGx3Y2FFQnJqWm4xQzIyem5aQXhBRWU1UkwyblYyU1BTQmR5TllmeUF6aGpDYjNQZmJNZlRWZXRzTDg5dlZYUGNXalE1ajdLUzc4blptZWJVaWdqYUFWcjViR1gxazBrSXp6bHFScVBRV3hQNEpLbi1fRm1CTGlPNUMtMDJTS0gyN3lzU2lrTDZhQjFoaWZtMXQxUThHV19oNmxzTFFGNnRlMlEyb3JQeDF6dm16bE5odlEzcGZ6THBEUDVEelktZmhHV2ZSM28?oc=5",
+  "https://tass.ru/ekonomika/28250519",
+  "title:Трамп сообщил об инвестициях Audi в строительство автозавода в США",
+  "skip:https://www.kommersant.ru/doc/9059932",
+  "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
+  "title:Барак Обама выступил с критикой Дональда Трампа на митинге в Огайо"
 ]

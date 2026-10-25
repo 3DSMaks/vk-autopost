@@ -806,5 +806,12 @@
   "skip:https://tass.ru/proisshestviya/28251809",
   "skip:https://ria.ru/20261025/ataka-2126917699.html",
   "https://www.rbc.ru/politics/25/10/2026/6ade3082bae07110b5b3843d",
-  "title:При атаке ВСУ на грузовой поезд в Брянской области погиб машинист"
+  "title:При атаке ВСУ на грузовой поезд в Брянской области погиб машинист",
+  "skip:https://tass.ru/proisshestviya/28251859",
+  "skip:https://www.interfax.ru/russia/1124901",
+  "https://www.kommersant.ru/doc/9060237",
+  "title:В Брянской области машинист грузового поезда погиб в результате атаки дрона ВСУ",
+  "skip:https://ria.ru/20261025/senator-2126916750.html",
+  "https://www.kommersant.ru/doc/9060242",
+  "title:В Сербии проходят досрочные парламентские выборы при высокой явке"
 ]

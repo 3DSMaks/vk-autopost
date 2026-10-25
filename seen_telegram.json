@@ -1,7 +1,4 @@
 [
-  "skip:https://www.film.ru/news/rekordnyy-hronometrazh-golodnyh-igr",
-  "https://kg-portal.ru/comments/135317-svyshe-400-mln-rublej-zarabotal-perevypusk-fentezi-sumerki-samogo-kassovogo-filma-sentjabrja-v-rossijskom-prokate/",
-  "https://www.ign.com/articles/final-fantasy-7-revelation-i-played-a-new-slice-from-the-early-game-with-a-boss-fight-ign-preview",
   "title:Final Fantasy 7 Revelation: I Played a New Slice from the Early Game With a Boss Fight | IGN Preview",
   "https://www.kinonews.ru/news_143581/",
   "title:В новом \"Мире Юрского периода\" динозавров освободят",
@@ -998,5 +995,8 @@
   "skip:https://stopgame.ru/newsdata/73281/capcom_dovolna_slozhnostyu_onimusha_way_of_the_sword_i_uchla_kritiku_povtoryayuschihsya_bossov",
   "skip:https://www.pcgamer.com/games/sim/new-blood-ceo-confirms-it-the-worst-way-to-sell-immersive-sims-like-gloomwood-and-fallen-aces-is-to-call-them-immersive-sims/",
   "https://www.playground.ru/dragon_age_the_veilguard/news/prodyuser_bioware_schitaet_chto_ea_pomeshala_raskryt_potentsial_dragon_age_the_veilguard-1884605#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Продюсер BioWare считает что EA помешала раскрыть потенциал Dragon Age: The Veilguard"
+  "title:Продюсер BioWare считает что EA помешала раскрыть потенциал Dragon Age: The Veilguard",
+  "skip:https://kg-portal.ru/comments/135526-mstiteli-doktor-dum-tizer/",
+  "https://www.film.ru/news/garri-potter-stal-samym-dorogim-serialom",
+  "title:«Гарри Поттер» стал самым дорогим сериалом"
 ]

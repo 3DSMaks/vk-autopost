@@ -845,5 +845,11 @@
   "skip:https://ria.ru/20261025/serbija-2126935544.html",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28251943",
   "https://www.kommersant.ru/doc/9060268",
-  "title:В Сербии завершилось голосование на парламентских выборах при высокой явке"
+  "title:В Сербии завершилось голосование на парламентских выборах при высокой явке",
+  "skip:https://www.rbc.ru/rbcfreenews/6ade42014e4501f7b9f61ea9",
+  "https://www.kommersant.ru/doc/9060269",
+  "title:Экзит-полы показали лидерство Илияны Йотовой в первом туре выборов президента Болгарии",
+  "skip:https://www.rbc.ru/politics/25/10/2026/6ade55e2ef247d59985d1ef6",
+  "https://tass.ru/mezhdunarodnaya-panorama/28252019",
+  "title:Пентагон готовит американские военные базы к 90 дням автономной работы на случай глобального конфликта"
 ]

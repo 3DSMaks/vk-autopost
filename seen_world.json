@@ -707,5 +707,15 @@
   "skip:https://www.rbc.ru/rbcfreenews/6adde7b97ed5c3f0602233d9",
   "skip:https://www.interfax.ru/russia/1124869",
   "https://tass.ru/proisshestviya/28251407",
-  "title:ВСУ нанесли удар по промышленной зоне в Ельце Липецкой области"
+  "title:ВСУ нанесли удар по промышленной зоне в Ельце Липецкой области",
+  "skip:https://ria.ru/20261025/medvedev-2126876402.html",
+  "skip:https://www.rbc.ru/sport/25/10/2026/6addd64eb1e3d1a840cd3b0f",
+  "skip:https://tass.ru/sport/28251423",
+  "https://www.sport-interfax.ru/1124874",
+  "title:Даниил Медведев победил Николоза Басилашвили и выиграл турнир в Алма-Ате",
+  "skip:https://tass.ru/sport/28251373",
+  "skip:https://www.kommersant.ru/doc/9060074",
+  "skip:https://www.rbc.ru/sport/25/10/2026/6adde5e1d12b2b1156cdb567",
+  "https://www.sport-interfax.ru/1124872",
+  "title:Москва примет чемпионат мира по тяжелой атлетике в 2030 году"
 ]

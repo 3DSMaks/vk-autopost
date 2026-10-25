@@ -1,10 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73140/shrayer_epic_games_otlozhila_reliz_shutera_po_franshizam_disney_chtoby_sosredotochitsya_na_ii_razrabotke",
-  "skip:https://www.ign.com/articles/forza-horizon-6-ps5-where-to-buy",
-  "skip:https://www.ign.com/articles/epic-reportedly-pushing-devs-to-use-ai-delays-secret-star-wars-and-marvel-crossover-shooter",
-  "skip:https://gamemag.ru/news/201629/wing-commander-3-reamster-ea",
-  "https://gamemag.ru/reviews/wolverine-ps5-2026-review",
-  "title:Мутанты следуют ГОСТу: Обзор Marvel's Wolverine",
   "skip:https://www.film.ru/news/slovo-o-polku-igoreve-ekraniziruyut",
   "skip:https://www.kinonews.ru/news_143632/",
   "skip:https://www.kinonews.ru/news_143631/",
@@ -998,5 +992,11 @@
   "skip:https://kg-portal.ru/comments/135526-mstiteli-doktor-dum-tizer/",
   "skip:https://kg-portal.ru/comments/135525-dzhejms-gann-na-sedmom-nebe-klejfejs-poluchil-ot-zritelej-takuju-zhe-ocenku-kak-obsessija-i-orudija/",
   "https://www.film.ru/news/garri-potter-stal-samym-dorogim-serialom",
-  "title:«Гарри Поттер» стал самым дорогим сериалом"
+  "title:«Гарри Поттер» стал самым дорогим сериалом",
+  "skip:https://www.kinonews.ru/news_143816/",
+  "skip:https://variety.com/2026/film/news/sag-aftra-duncan-crabtree-ireland-contract-extension-1236930503/",
+  "skip:https://variety.com/2026/film/columns/i-play-rocky-anthony-ippolito-sylvester-stallone-dog-1236930482/",
+  "skip:https://variety.com/2026/film/news/nathan-fielder-you-can-see-everything-lance-oppenheim-1236916862/",
+  "https://www.kinonews.ru/news_143811/",
+  "title:Элайджа Вуд и Орландо Блум сыграют в сериале \"Джентльмены\""
 ]

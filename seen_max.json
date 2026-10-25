@@ -1,7 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/201649/xbox-labs-asha-ai",
-  "skip:https://www.ign.com/articles/xbox-announces-xbox-labs-aimed-in-part-at-getting-improved-old-gen-games-playable-in-web-browsers",
-  "skip:https://www.pcgamer.com/games/grand-theft-auto/report-claims-grand-theft-auto-6-will-launch-on-pc-sooner-than-anyone-expected/",
   "skip:https://gamemag.ru/news/201647/gamesbeat-grand-theft-auto-vis-pc-release-is-slated-for-q1-2027",
   "https://stopgame.ru/newsdata/73157/glen_skofild_obvinil_rukovodstvo_krafton_v_problemah_the_callisto_protocol",
   "title:Глен Скофилд обвинил руководство Krafton в проблемах The Callisto Protocol",
@@ -998,5 +995,8 @@
   "https://www.film.ru/news/todd-heyns-gotovit-novoe-kino",
   "title:Тодд Хэйнс готовит новое кино",
   "https://kg-portal.ru/comments/135529-posle-vojny-imira-sarika-andreasjana-vyjdet-novyj-film-poromanu-anna-karenina-lva-tolstogo/",
-  "title:После \"Войны и мира\" Сарика Андреасяна выйдет новый фильм по роману \"Анна Каренина\" Льва Толстого"
+  "title:После \"Войны и мира\" Сарика Андреасяна выйдет новый фильм по роману \"Анна Каренина\" Льва Толстого",
+  "skip:https://www.film.ru/articles/recenziya-na-film-oglyanis-dramu-o-devichey-druzhbe-ot-rezhissera-magazinnyh-vorishek",
+  "https://variety.com/2026/film/news/clayface-batman-gotham-aaron-paul-cameo-1236921644/",
+  "title:‘Clayface’ Director James Watkins Explains That [SPOILER] Cameo, Introducing Gotham City to the DC Universe and All the Shape-Shifting Kills"
 ]

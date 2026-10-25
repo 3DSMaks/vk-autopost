@@ -1,8 +1,4 @@
 [
-  "skip:https://www.film.ru/news/keydzh-podtverdil-semki-v-nastoyashchem-detektive",
-  "https://www.kinonews.ru/news_143599/",
-  "title:Николас Кейдж опроверг свое участие в \"Сокровище нации 3\"",
-  "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-to-upload-a-build-with-full-story-mode/",
   "title:GTA 6 leaker threatens to upload a build with 'full story mode'",
   "https://variety.com/2026/film/box-office/odyssey-passes-avatar-korea-top-international-film-ever-1236908100/",
   "title:Christopher Nolan’s ‘The Odyssey’ Overtakes ‘Avatar: The Way of Water’ as Korea’s Biggest International Film of All Time (EXCLUSIVE)",
@@ -998,5 +994,9 @@
   "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/igroki_call_of_duty_modern_warfare_4_stolknulis_s_blekloj_grafikoj_posle_obnovleniya_drajverov-1884615#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.pcgamer.com/games/strategy/civilization-7s-game-changing-update-was-personally-challenging-for-its-creative-director-as-being-able-to-play-as-a-single-civ-wasnt-part-of-the-original-vision/",
   "video:2026-10-25:https://www.pcgamer.com/games/strategy/civilization-7s-game-changing-update-was-personally-challenging-for-its-creative-director-as-being-able-to-play-as-a-single-civ-wasnt-part-of-the-original-vision/",
-  "title:Civilization 7's game changing update was 'personally challenging' for its creative director, as being able to play as a single faction 'wasn't part o"
+  "title:Civilization 7's game changing update was 'personally challenging' for its creative director, as being able to play as a single faction 'wasn't part o",
+  "skip:https://www.kinonews.ru/news_143816/",
+  "skip:https://www.kinonews.ru/news_143815/",
+  "https://www.film.ru/news/stallone-napisal-scenariy-rokki-7",
+  "title:Сталлоне написал сценарий «Рокки 7»"
 ]

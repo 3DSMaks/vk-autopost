@@ -1,10 +1,4 @@
 [
-  "https://gamemag.ru/news/201620/resident-evil-veronica-dlc-leak",
-  "video:2026-10-12:https://gamemag.ru/news/201620/resident-evil-veronica-dlc-leak",
-  "title:Resident Evil Veronica получит сюжетное дополнение в духе Separate Ways для Resident Evil 4 — инсайдер",
-  "https://www.film.ru/news/multserial-pro-artemisa-faula",
-  "title:Мультсериал про Артемиса Фаула",
-  "https://www.playground.ru/witcher_3_wild_hunt/news/igroki_the_witcher_3_na_ps5_i_xbox_series_x_s_prosyat_vernut_versiyu_next_gen_4_04-1881073#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Игроки The Witcher 3 на PS5 и Xbox Series X|S просят вернуть версию Next-Gen 4.04",
   "https://kg-portal.ru/comments/135333-triller-prajmtajm-s-maniakalnym-robertom-pattinsonom-pojavitsja-na-cifre-v-nachale-nojabrja/",
   "title:Триллер \"Праймтайм\" с маниакальным Робертом Паттинсоном появится на цифре в начале ноября",
@@ -998,5 +992,11 @@
   "skip:https://variety.com/2026/film/columns/i-play-rocky-anthony-ippolito-sylvester-stallone-dog-1236930482/",
   "skip:https://www.film.ru/articles/recenziya-na-film-oglyanis-dramu-o-devichey-druzhbe-ot-rezhissera-magazinnyh-vorishek",
   "https://www.kinonews.ru/news_143811/",
-  "title:Элайджа Вуд и Орландо Блум сыграют в сериале \"Джентльмены\""
+  "title:Элайджа Вуд и Орландо Блум сыграют в сериале \"Джентльмены\"",
+  "skip:https://variety.com/2026/film/box-office/you-can-see-everything-box-office-huge-second-weekend-clayface-leads-1236930604/",
+  "skip:https://deadline.com/2026/10/sag-aftra-votes-extend-duncan-crabtree-ireland-contract-1237172683/",
+  "skip:https://variety.com/2026/film/news/sag-aftra-duncan-crabtree-ireland-contract-extension-1236930503/",
+  "skip:https://variety.com/2026/film/news/nathan-fielder-you-can-see-everything-lance-oppenheim-1236916862/",
+  "https://www.film.ru/news/tarantino-pokazal-otryvok-iz-kliffa-buta",
+  "title:Тарантино показал отрывок из «Клиффа Бута»"
 ]

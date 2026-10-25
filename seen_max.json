@@ -1,8 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135373-narnija-plemjannik-charodeja-trejler/",
-  "https://www.kinonews.ru/news_143640/",
-  "title:Дэниел Крэйг открывает миры в трейлере \"Хроники Нарнии: Племянник чародея\"",
-  "skip:https://www.playground.ru/gta_6/news/gta_6_na_pk_ne_stoit_zhdat_ranshe_serediny_2027_goda_analitiki_i_insajdery_oprovergli_sluhi_o_skorom_relize-1881533#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.playground.ru/gears_of_war_e_day/news/gears_of_war_e_day_vozglavila_top_platnyh_igr_microsoft_store_v_ssha_nesmotrya_na_game_pass-1881537#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Gears of War E-Day возглавила топ платных игр Microsoft Store в США несмотря на Game Pass",
   "skip:https://www.kinonews.ru/news_143642/",
@@ -998,5 +994,9 @@
   "skip:https://gamemag.ru/news/201827/prohojdenie-tomb-raider-legacy-of-atlantis-zaymet-1416-chasov",
   "skip:https://www.igromania.ru/news/169512/sozdateli-tomb-raider-legacy-of-atlantis-rasskazali-o-prodolzhitelnosti-igryi/",
   "https://www.playground.ru/phantom_blade_zero/news/v_set_utekla_pervaya_retsenziya_na_phantom_blade_zero_pohvalili_boyovku_no_raskritikovali_pustye_lokatsii-1884679#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:В сеть утекла первая рецензия на Phantom Blade Zero - похвалили боёвку, но раскритиковали пустые локации"
+  "title:В сеть утекла первая рецензия на Phantom Blade Zero - похвалили боёвку, но раскритиковали пустые локации",
+  "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/call_of_duty_modern_warfare_4_privlekla_bolee_227_tysyach_igrokov_v_steam_v_debyutnyj_uikend-1884664#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/dlya_call_of_duty_modern_warfare_4_vyshlo_blagotvoritelnoe_dlc_v_chest_geroya_kajla_karpentera-1884656#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "https://www.playground.ru/god_of_war_3/news/god_of_war_iii_remastered_spartanport_2_7_0_povysil_proizvoditelnost_na_slabyh_protsessorah_vplot_do_5_raz-1884646#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:God of War III Remastered - SpartanPort 2.7.0 повысил производительность на слабых процессорах вплоть до 5 раз"
 ]

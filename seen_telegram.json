@@ -1,8 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143634/",
-  "https://www.film.ru/news/parker-pouzi-v-novom-horrore",
-  "title:Паркер Поузи в новом хорроре",
-  "skip:https://www.ign.com/articles/battlefield-6-skins-generative-ai-accusations",
   "skip:https://stopgame.ru/newsdata/73162/ubisoft_gotovitsya_zakryt_studiyu_avtorov_trials_i_umenshit_shtat_singapurskogo_ofisa",
   "skip:https://www.ign.com/articles/ubisoft-cuts-70-staff-from-skull-and-bones-dev-shuts-down-trials-studio-redlynx",
   "https://www.ign.com/articles/cod-modern-warfare-4-pre-load-release-times",
@@ -998,5 +994,9 @@
   "skip:https://gamemag.ru/news/201831/former-bioware-dev-on-new-mass-effect-october-2026",
   "skip:https://stopgame.ru/newsdata/73283/svedeniya_o_mass_effect_5_galakticheskaya_holodnaya_voyna_geroy_specagent_i_nelineynost_a_lya_hitman",
   "https://www.playground.ru/gta_6/news/po_dannym_insajdera_rockstar_nachala_rassylat_press_kody_gta_6_obzory_poyavyatsya_18_noyabrya-1884983#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:По данным инсайдера, Rockstar начала рассылать пресс-коды GTA 6 - обзоры появятся 18 ноября"
+  "title:По данным инсайдера, Rockstar начала рассылать пресс-коды GTA 6 - обзоры появятся 18 ноября",
+  "skip:https://www.igromania.ru/news/169539/obzoryi-gta-6-mogut-poyavitsya-18-noyabrya-rockstar-games-yakobyi-nachala-rassyilat-igru-presse/",
+  "skip:https://gamemag.ru/news/201845/microsoft-vydelila-eshche-odin-mesyac-na-poisk-pokupatelya-arkane-lyon-studiyu-mogut-spasti-do",
+  "https://www.igromania.ru/news/169535/los-santos-v-moskve-ispolnitel-roli-majkla-iz-gta-v-ned-lyuk-stanet-glavnyim-gostem-nochi-videoigr/",
+  "title:Лос-Сантос в Москве! Исполнитель роли Майкла из GTA V Нед Люк станет главным гостем «Ночи видеоигр»"
 ]

@@ -1,6 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/gta-6-reportedly-set-for-pc-q1-2027",
-  "skip:https://stopgame.ru/newsdata/73146/god_of_war_laufey_poluchit_kollekcionnoe_izdanie_no_bez_samoy_igry_v_komplekte",
   "skip:https://stopgame.ru/newsdata/73145/avtory_rimworld_anonsirovali_pereezd_igry_na_novyy_dvizhok",
   "https://www.ign.com/articles/dan-houser-reveals-how-911-changed-gta-forever",
   "title:Dan Houser Reveals How 9/11 Changed GTA Forever",
@@ -998,5 +996,7 @@
   "title:God of War: Chains of Olympus получила нативный ПК-порт с CRT-фильтром и улучшенными текстурами",
   "skip:https://www.igromania.ru/news/169529/sonic-x-shadow-generations-razoshlas-tirazhom-v-tri-milliona-kopij/",
   "https://www.playground.ru/crimson_desert/news/morskie_chudovischa_abordazhi_i_mnozhestvo_novyh_sekretov_poyavilis_podrobnosti_masshtabnogo_dlc_dlya_crimson_desert-1884861#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Морские чудовища, абордажи и множество новых секретов: появились подробности масштабного DLC для Crimson Desert"
+  "title:Морские чудовища, абордажи и множество новых секретов: появились подробности масштабного DLC для Crimson Desert",
+  "https://www.kinonews.ru/news_143831/",
+  "title:Начались съемки третьего фильма о героях Простоквашино"
 ]

@@ -1,13 +1,4 @@
 [
-  "skip:https://www.rbc.ru/politics/23/10/2026/6adb82bed18a46c6115a3381",
-  "skip:https://www.interfax.ru/russia/1124611",
-  "https://www.kommersant.ru/doc/9059270",
-  "title:Минюст России опубликовал реестр лиц под временными ограничениями, включив туда Ходорковского и других релокантов",
-  "skip:https://news.google.com/rss/articles/CBMivAFBVV95cUxOdmhoNXZfaEZSVXU4cVh3dW9tMm54alE4THRoUWNBSzc4QTFvNHl6eE9mOElIeXE1S0pkQlV4Yld6U0t5RjZnbEpjSzVyMkMzQ01MM1hSclViSHVmRDZGTndKTm9GZHZaRUFIZnAxVnM2V0hDMGhUOHVKemxQcFdxc0hmLTJDTTFQWTFTRFhRalM1Y1I3Y0dRTEF6UldFdHg3OVVxd0hkdUFyNTdUN0dDZVRwbTFqbVVyT2FtSw?oc=5",
-  "https://www.rbc.ru/rbcfreenews/6adb8b426e9761aa604e1008",
-  "title:У берегов Румынии затонуло торговое судно, пропали моряки",
-  "skip:https://ria.ru/20261023/lantratova-2126639291.html",
-  "skip:https://tass.ru/obschestvo/28248051",
   "skip:https://tass.ru/obschestvo/28248039",
   "skip:https://tass.ru/obschestvo/28248033",
   "skip:https://ria.ru/20261023/lantratova-2126637733.html",
@@ -998,5 +989,14 @@
   "skip:https://www.interfax.ru/russia/1124973",
   "skip:https://ria.ru/20261026/prezident-2127004023.html",
   "https://www.kommersant.ru/doc/9060524",
-  "title:Президент Ирана Масуд Пезешкиан направляется с визитом в Россию"
+  "title:Президент Ирана Масуд Пезешкиан направляется с визитом в Россию",
+  "skip:https://tass.ru/proisshestviya/28253429",
+  "skip:https://www.interfax.ru/russia/1124975",
+  "skip:https://ria.ru/20261026/gorenie-2127008342.html",
+  "https://ria.ru/20261026/vagony-2127024164.html",
+  "title:Число сошедших с рельсов вагонов под Екатеринбургом выросло до 39, пожар потушен",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28253419",
+  "skip:https://www.aljazeera.com/gallery/2026/10/26/photos-serbia-celebrates-as-ruling-party-loses-grip-on-power?traffic_source=rss",
+  "https://tass.ru/mezhdunarodnaya-panorama/28253201",
+  "title:В Сербии празднуют победу оппозиции на парламентских выборах, Пекин готов к сотрудничеству"
 ]

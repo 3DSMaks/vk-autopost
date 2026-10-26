@@ -20,6 +20,7 @@ import post as news
 import telegram_post as tg
 
 SEEN_FILE = Path(__file__).with_name('seen_dzen.json')
+MIN_TEXT = 2200  # меньше — это уже не разбор
 MAX_TEXT = 4000  # обычное сообщение Telegram — до 4096 знаков; держим запас для запасного формата
 WRITER_MODELS = ['gemini-3.8-flash', 'gemini-3.5-flash-lite']  # для длинного текста — модель посильнее
 
@@ -213,7 +214,11 @@ def main():
     else:
         tg.save_history(SEEN_FILE, seen, skipped=tried)
         raise RuntimeError('Ни к одной теме не нашлось фото — статья не опубликована')
-    article = fit(write(pick, related, angle))
+    article = write(pick, related, angle)
+    if len(as_text(article)) < MIN_TEXT:  # Gemini иногда сокращает — просим ещё раз, берём более длинный вариант
+        print(f'Статья короткая ({len(as_text(article))} знаков), пишу заново')
+        article = max(article, write(pick, related, angle), key=lambda a: len(as_text(a)))
+    article = fit(article)
     text = as_text(article)
     print(f'Статья: {len(text)} знаков, фото: {len(photos)}\n\n{text}\n')
     if preview:

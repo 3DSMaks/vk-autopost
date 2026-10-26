@@ -1,13 +1,14 @@
-"""Дзен: статьи-разборы «СтопКадра» 2 раза в день.
+"""Дзен: статьи-разборы «СтопКадра» 2 раза в день — заготовки для ручной публикации.
 
-Своего API для авторов у Дзена нет, поэтому статьи идут через официальный кросспостинг: бот публикует статью в
-отдельный публичный Telegram-канал (переменная DZEN_CHAT_ID, например @stopkadr_reviews), а Синхроробот Дзена
-(@zen_sync_bot) переносит её в Дзен-канал. Пост «текст + фото» Дзен публикует как статью: заголовок — первое
-предложение (до 140 знаков), обложка — первая картинка, форматирование Telegram не переносится.
+У Дзена нет API для авторов, а официальный перенос из Telegram (Синхроробот) теряет либо фото, либо длинный текст
+(проверено 2026-10-26). Поэтому бот готовит статью целиком и присылает её автору в личные сообщения
+(переменная DZEN_DRAFT_CHAT_ID): альбом фото по порядку (первое — обложка) и текст с пометками «📷 Фото N» там,
+где вставить фото. Автор переносит это в Студию Дзена.
 
 Свежие новости кино и игр → Gemini выбирает историю, о которой есть что сказать (AAA и большие франшизы — в
 приоритете) → тексты 1–3 источников → статья 2500–3800 знаков в голосе канала (voice.md, раздел Long-form) →
-фото лучшего качества → одно сообщение «фото + текст» (Rich Message). История — seen_dzen.json.
+2–5 фото (страницы источников, другие статьи об этой истории, скриншоты Steam) → Gemini расставляет фото по
+разделам. История — seen_dzen.json.
 """
 import html
 import json
@@ -22,7 +23,8 @@ import telegram_post as tg
 
 SEEN_FILE = Path(__file__).with_name('seen_dzen.json')
 MIN_TEXT = 2200  # меньше — это уже не разбор
-MAX_TEXT = 4000  # обычное сообщение Telegram — до 4096 знаков; держим запас для запасного формата
+MAX_TEXT = 4500
+MESSAGE = 4000  # сообщение Telegram — до 4096 знаков; длинный текст делим на части
 WRITER_MODELS = ['gemini-3.8-flash', 'gemini-3.5-flash-lite']  # для длинного текста — модель посильнее
 
 PICK_SCHEMA = {'type': 'OBJECT', 'properties': {
@@ -88,7 +90,7 @@ def write(pick, related, angle):
               f'Тема: {pick["title"]}\nУгол разбора: {angle}\n\n'
               'Поля ответа:\n'
               '- title — заголовок до 100 знаков: утверждение с позицией автора, без вопроса и без кавычек вокруг '
-              'всего заголовка; заканчивается точкой.\n'
+              'всего заголовка.\n'
               '- lead — 2–3 предложения: что случилось и почему об этом стоит говорить.\n'
               '- sections — 3–5 блоков: heading — короткий подзаголовок-утверждение (до 60 знаков, без точки в конце), '
               'text — 1–3 абзаца, между абзацами пустая строка.\n'
@@ -115,8 +117,7 @@ def clean_article(data):
     title = plain(data.get('title'))
     if re.fullmatch(r'«[^«»]*»|"[^"]*"', title):  # кавычки вокруг всего заголовка убираем, внутри — оставляем
         title = title[1:-1].strip()
-    if title and title[-1] not in '.!?…':
-        title += '.'  # Дзен берёт заголовком первое предложение — точка отделяет его от лида
+    title = title.rstrip('.')  # в Студии Дзена заголовок — отдельное поле, точка не нужна
     sections = [{'heading': plain(s.get('heading')).rstrip('.'), 'text': plain(s.get('text'))}
                 for s in data.get('sections') or [] if plain(s.get('text'))]
     article = {'title': title, 'lead': plain(data.get('lead')), 'sections': sections, 'verdict': plain(data.get('verdict'))}
@@ -140,107 +141,7 @@ def fit(article):
     return article
 
 
-def as_rich(article, photo_count):
-    esc = lambda v: html.escape(v, quote=False)
-    paras = lambda text: ''.join(f'<p>{esc(p)}</p>' for p in text.split('\n\n') if p.strip())
-    imgs = ''.join(f'<img src="tg://photo?id=p{i}"/>' for i in range(photo_count))
-    page = (f'<tg-slideshow>{imgs}</tg-slideshow>' if photo_count > 1 else imgs)
-    page += f'<p><b>{esc(article["title"])}</b></p>' + paras(article['lead'])
-    for s in article['sections']:
-        page += f'<p><b>{esc(s["heading"])}</b></p>' + paras(s['text'])
-    if article['verdict']:
-        page += f'<p><b>Вердикт:</b> {esc(article["verdict"])}</p>'
-    return page
-
-
-def as_html_message(article):
-    esc = lambda v: html.escape(v, quote=False)
-    parts = [f'<b>{esc(article["title"])}</b>', esc(article['lead'])]
-    for s in article['sections']:
-        parts += [f'<b>{esc(s["heading"])}</b>', esc(s['text'])]
-    if article['verdict']:
-        parts.append(f'<b>Вердикт:</b> {esc(article["verdict"])}')
-    return '\n\n'.join(parts)
-
-
-CAPTION = 1000  # подпись к фото в Telegram — до 1024 знаков
-
-
-def blocks(article):
-    """Смысловые куски статьи по порядку: заголовок с лидом, разделы, вердикт."""
-    out = [f"<b>{html.escape(article['title'], quote=False)}</b>\n\n{html.escape(article['lead'], quote=False)}"]
-    for sec in article['sections']:
-        out.append(f"<b>{html.escape(sec['heading'], quote=False)}</b>\n\n{html.escape(sec['text'], quote=False)}")
-    if article['verdict']:
-        out.append(f"<b>Вердикт:</b> {html.escape(article['verdict'], quote=False)}")
-    return out
-
-
-def album_captions(article, count):
-    """Делит статью на count подписей (≤CAPTION каждая), не разрывая разделы: у каждого фото — свой кусок текста,
-    поэтому в Дзене фото встанут между разделами. Если текст не влезает — убираем средние разделы."""
-    article = dict(article, sections=list(article['sections']))
-    while True:
-        parts = blocks(article)
-        groups = [[] for _ in range(count)]
-        # раскладываем куски по фото пропорционально, сохраняя порядок
-        for i, part in enumerate(parts):
-            groups[min(count - 1, i * count // len(parts))].append(part)
-        captions = ['\n\n'.join(g) for g in groups]
-        if all(len(html.unescape(re.sub(r'<[^>]+>', '', c))) <= CAPTION for c in captions):
-            return captions
-        if len(article['sections']) <= 1:  # крайний случай: без разметки, обрезано по длине
-            return [html.escape(html.unescape(re.sub(r'<[^>]+>', '', c))[:CAPTION], quote=False) for c in captions]
-        article['sections'].pop(len(article['sections']) // 2)
-
-
-def publish_album(chat_id, article, photos):
-    captions = album_captions(article, len(photos))
-    media = [{'type': 'photo', 'media': f'attach://p{i}', 'caption': c, 'parse_mode': 'HTML'}
-             for i, c in enumerate(captions)]
-    return tg.api('sendMediaGroup', {'chat_id': chat_id, 'media': json.dumps(media, ensure_ascii=False)},
-                  {f'p{i}': data for i, data in enumerate(photos)})
-
-
-def cover_url(items):
-    """Адрес крупной картинки со страницы новости (до 400 px по короткой стороне не берём) — быстро, без Gemini."""
-    for item in items:
-        urls = news.image_urls(news.page_images(item['link']) + [item.get('image')], item['link'])
-        for url in urls[:4]:
-            for candidate in tg.bigger_versions(url) + [url]:
-                try:
-                    if min(tg.image_size(news.download_jpeg(candidate, item['link']))) >= 400:
-                        return candidate
-                except Exception:
-                    continue
-    return None
-
-
-def publish_preview(chat_id, article, cover):
-    """Вся статья одним сообщением (до 4096 знаков) с крупным превью фото над текстом."""
-    return tg.api('sendMessage', {'chat_id': chat_id, 'text': as_html_message(article), 'parse_mode': 'HTML',
-                                  'link_preview_options': json.dumps({'url': cover, 'prefer_large_media': True,
-                                                                      'show_above_text': True})})
-
-
-def publish(chat_id, article, photos):
-    """Альбом «фото + свой кусок текста у каждого фото» — Дзен делает из поста с текстом и картинками статью.
-    DZEN_FORMAT=rich — одно Rich Message (Синхроробот Дзена теряет из него фото), text — только текст."""
-    fmt = os.environ.get('DZEN_FORMAT') or 'album'
-    if fmt == 'album' and len(photos) >= 2:
-        return publish_album(chat_id, article, photos)
-    if fmt == 'rich' and photos:
-        try:
-            return tg.publish_rich(chat_id, as_rich(article, len(photos)), photos)
-        except RuntimeError as exc:
-            if '400' not in str(exc):  # сеть/неизвестно — не повторяем, чтобы не было дубля
-                raise
-            print('Rich Message не принят, публикую обычным сообщением:', exc)
-    return tg.api('sendMessage', {'chat_id': chat_id, 'text': as_html_message(article), 'parse_mode': 'HTML',
-                                  'link_preview_options': json.dumps({'is_disabled': True})})
-
-
-MIN_PHOTOS = 1   # просьба пользователя: публиковать быстро, хотя бы с одним фото
+MIN_PHOTOS = 1   # хотя бы одно фото — обложка
 WANT_PHOTOS = 3  # но стараемся найти минимум три: ищем ещё в других статьях об этой истории и в Steam
 MAX_PHOTOS = 5
 
@@ -316,7 +217,7 @@ def gather_photos(items):
 
 def order_photos(article, photos):
     """Gemini расставляет фото по кускам статьи: обложка — к заголовку, остальные — к подходящим разделам."""
-    captions = [re.sub(r'<[^>]+>', '', c)[:300] for c in album_captions(article, len(photos))]
+    captions = [' '.join(part)[:300] for part in photo_groups(article, len(photos))]
     parts = [{'text': ('Ниже фрагменты статьи по порядку и фото (номера 0..%d). Подбери к каждому фрагменту своё фото, '
                        'которое лучше всего его иллюстрирует; каждое фото — ровно один раз. Первому фрагменту '
                        '(заголовок) — самое эффектное фото-обложку. Верни order: номера фото по порядку фрагментов.\n\n'
@@ -333,23 +234,99 @@ def order_photos(article, photos):
     return [photos[i] for i in order]
 
 
+def blocks(article):
+    """Смысловые куски статьи по порядку: заголовок с лидом, разделы, вердикт (обычный текст)."""
+    out = [f"{article['title']}\n\n{article['lead']}"]
+    out += [f"{sec['heading']}\n\n{sec['text']}" for sec in article['sections']]
+    if article['verdict']:
+        out.append('Вердикт: ' + article['verdict'])
+    return out
+
+
+def photo_groups(article, count):
+    """Делит куски статьи на count групп по порядку: группа N иллюстрируется фото N (группа 0 — обложка)."""
+    parts = blocks(article)
+    groups = [[] for _ in range(count)]
+    for i, part in enumerate(parts):
+        groups[min(count - 1, i * count // len(parts))].append(part)
+    return [g for g in groups if g] or [parts]
+
+
+def draft_text(article, count):
+    """Текст для Студии Дзена (HTML Telegram): заголовок отдельно, пометки «📷 Фото N» там, куда вставить фото."""
+    esc = lambda v: html.escape(v, quote=False)
+    out = [f'<b>Заголовок:</b> {esc(article["title"])}', '📷 <b>Фото 1 — обложка</b>', esc(article['lead'])]
+    groups = photo_groups(article, count)
+    starts = {}
+    pos = 0
+    for n, group in enumerate(groups):
+        starts[pos] = n
+        pos += len(group)
+    parts = [('section', sec) for sec in article['sections']] + ([('verdict', article['verdict'])] if article['verdict'] else [])
+    for i, (kind, value) in enumerate(parts, 1):  # куски после заголовка с лидом: i = номер куска в blocks()
+        if starts.get(i):
+            out.append(f'📷 <b>Фото {starts[i] + 1}</b>')
+        if kind == 'section':
+            out += [f'<b>{esc(value["heading"])}</b>', esc(value['text'])]
+        else:
+            out.append(f'<b>Вердикт:</b> {esc(value)}')
+    return '\n\n'.join(out)
+
+
+def split_message(text, limit=MESSAGE):
+    """Делит длинный текст на сообщения по абзацам."""
+    chunks, cur = [], ''
+    for para in text.split('\n\n'):
+        if cur and len(cur) + 2 + len(para) > limit:
+            chunks.append(cur)
+            cur = para
+        else:
+            cur = f'{cur}\n\n{para}' if cur else para
+    return chunks + ([cur] if cur else [])
+
+
+def send_draft(chat_id, article, photos, pick):
+    """Альбом фото по порядку + текст статьи с пометками, куда вставить фото."""
+    tg.api('sendMessage', {'chat_id': chat_id, 'parse_mode': 'HTML', 'text': (
+        '📝 <b>Статья для Дзена готова</b>\n'
+        'Сохраните фото из альбома ниже и вставьте их в статью там, где стоит пометка «📷 Фото N». '
+        'Фото 1 — обложка. Заголовок вставьте в поле заголовка.')})
+    if len(photos) == 1:
+        tg.api('sendPhoto', {'chat_id': chat_id, 'caption': 'Фото 1 — обложка'}, {'photo': photos[0]})
+    else:
+        media = [{'type': 'photo', 'media': f'attach://p{i}', 'caption': 'Фото 1 — обложка' if i == 0 else f'Фото {i + 1}'}
+                 for i in range(len(photos))]
+        tg.api('sendMediaGroup', {'chat_id': chat_id, 'media': json.dumps(media, ensure_ascii=False)},
+               {f'p{i}': data for i, data in enumerate(photos)})
+    for chunk in split_message(draft_text(article, len(photos))):
+        tg.api('sendMessage', {'chat_id': chat_id, 'text': chunk, 'parse_mode': 'HTML',
+                               'link_preview_options': json.dumps({'is_disabled': True})})
+    tg.api('sendMessage', {'chat_id': chat_id, 'text': 'Источник: ' + pick['link'],
+                           'link_preview_options': json.dumps({'is_disabled': True})})
+
+
 def chat():
-    chat_id = os.environ.get('DZEN_CHAT_ID', '').strip()
+    chat_id = os.environ.get('DZEN_DRAFT_CHAT_ID', '').strip()
     if not chat_id:
-        raise RuntimeError('Задайте переменную DZEN_CHAT_ID: @имя Telegram-канала для статей Дзена')
+        raise RuntimeError('Задайте переменную DZEN_DRAFT_CHAT_ID (личный чат автора с ботом, см. --find)')
     return chat_id
 
 
-def check():
-    """Бот может публиковать в канал статей. Синхроробот Дзена так не проверить: Telegram не показывает ботам
-    других ботов среди администраторов — его подключение видно только в Студии Дзена."""
-    os.environ['TELEGRAM_CHAT_ID'] = chat()
-    tg.check_channel()
+def find():
+    """Личные чаты, где автору написали боту /start — чтобы узнать DZEN_DRAFT_CHAT_ID."""
+    chats = {}
+    for upd in tg.api('getUpdates', {'allowed_updates': json.dumps(['message'])}):
+        c = (upd.get('message') or {}).get('chat') or {}
+        if c.get('type') == 'private':
+            chats[c['id']] = ' '.join(filter(None, [c.get('first_name'), c.get('last_name')])) + \
+                (f" (@{c['username']})" if c.get('username') else '')
+    print('Личные чаты с ботом:', '; '.join(f'{name}: {cid}' for cid, name in chats.items()) or
+          'нет — напишите боту /start и запустите ещё раз')
 
 
 def main():
-    if '--check' in sys.argv:
-        check()
+    if '--find' in sys.argv:
+        find()
         return
     preview = '--preview' in sys.argv
     chat_id = None if preview else chat()
@@ -361,39 +338,30 @@ def main():
         return
     recent = [s[len(tg.TITLE):] for s in seen if s.startswith(tg.TITLE)][-30:]
     tried = []
-    fmt = os.environ.get('DZEN_FORMAT') or 'preview'
-    for _ in range(4):  # статье нужно минимум MIN_PHOTOS разных фото, иначе берём другую тему
+    for _ in range(4):  # без единого фото статья не годится — берём другую тему
         pick, related, angle = choose(items, recent, tried)
         print('Тема:', pick['title'], '|', angle)
-        if fmt == 'preview':
-            cover = cover_url([pick] + related)
-            photos = [cover] if cover else []
-            print('Обложка:', cover or 'не найдена')
-        else:
-            photos = gather_photos([pick] + related)
+        photos = gather_photos([pick] + related)
         if len(photos) >= MIN_PHOTOS:
             break
-        print(f'Фото только {len(photos)}, нужно {MIN_PHOTOS} — беру другую тему')
+        print('Фото не нашлось — беру другую тему')
         tried.append(pick['link'])
     else:
         tg.save_history(SEEN_FILE, seen, skipped=tried)
-        raise RuntimeError(f'Ни к одной теме не нашлось {MIN_PHOTOS} фото — статья не опубликована')
+        raise RuntimeError('Ни к одной теме не нашлось фото — статья не подготовлена')
     article = write(pick, related, angle)
     if len(as_text(article)) < MIN_TEXT * 0.8:  # Gemini иногда сокращает — просим ещё раз, берём более длинный вариант
         print(f'Статья короткая ({len(as_text(article))} знаков), пишу заново')
         article = max(article, write(pick, related, angle), key=lambda a: len(as_text(a)))
     article = fit(article)
-    text = as_text(article)
-    print(f'Статья: {len(text)} знаков, фото: {len(photos)}\n\n{text}\n')
+    photos = order_photos(article, photos) if len(photos) > 1 else photos
+    print(f'Статья: {len(as_text(article))} знаков, фото: {len(photos)}\n\n{draft_text(article, len(photos))}\n')
     if preview:
         return
-    if fmt == 'preview':
-        publish_preview(chat_id, article, photos[0])
-    else:
-        publish(chat_id, article, order_photos(article, photos))
+    send_draft(chat_id, article, photos, pick)
     links = [pick['link']] + [r['link'] for r in related]
     tg.save_history(SEEN_FILE, seen, links[0], tried + links[1:], title=pick['title'])
-    print('Опубликовано в канал', chat_id)
+    print('Заготовка отправлена автору')
 
 
 if __name__ == '__main__':

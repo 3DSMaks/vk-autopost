@@ -1,11 +1,4 @@
 [
-  "https://tass.ru/proisshestviya/28248347",
-  "title:Последствия ракетного удара ВСУ по Орлу: число пострадавших и ликвидация возгорания",
-  "skip:https://ria.ru/20261023/putin-2126653734.html",
-  "skip:https://tass.ru/politika/28248239",
-  "skip:https://tass.ru/politika/28248237",
-  "skip:https://ria.ru/20261023/putin-2126653169.html",
-  "https://www.kommersant.ru/doc/9059391",
   "title:Владимир Путин поручил выделить 1,2 млрд рублей на субсидии для социальной газификации",
   "skip:https://ria.ru/20261023/novak-2126662005.html",
   "skip:https://ria.ru/20261023/novak-2126661853.html",
@@ -998,5 +991,12 @@
   "title:Минобороны РФ обвинило ВСУ в обстрелах Алешек и препятствии эвакуации",
   "skip:https://www.rbc.ru/sport/26/10/2026/6adf31ab05cd72f6eacd92a8",
   "https://www.kommersant.ru/doc/9060803",
-  "title:Тренерский штаб сборной России назвал состав на ноябрьские матчи"
+  "title:Тренерский штаб сборной России назвал состав на ноябрьские матчи",
+  "skip:https://www.interfax.ru/russia/1125020",
+  "skip:https://ria.ru/20261026/mo-2127058900.html",
+  "https://www.kommersant.ru/doc/9060838",
+  "title:Российские стратегические ракетоносцы Ту-95МС выполнили полет над нейтральными водами Берингова и Чукотского морей",
+  "skip:https://www.rbc.ru/politics/26/10/2026/6adf02fe203e892aec5fe0f0",
+  "https://tass.ru/mezhdunarodnaya-panorama/28254187",
+  "title:В Германии выразили возмущение отказом некоторых стран ЕС гарантировать кредиты Украине"
 ]

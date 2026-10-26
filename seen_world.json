@@ -1,15 +1,4 @@
 [
-  "https://www.interfax.ru/russia/1124680",
-  "title:В Иваново ликвидировали крупный пожар на производстве и сообщили о гибели пожарного",
-  "skip:https://ria.ru/20261024/aeroporty-2126689338.html",
-  "skip:https://www.interfax.ru/russia/1124681",
-  "skip:https://tass.ru/ekonomika/28248953",
-  "skip:https://ria.ru/20261024/aeroporty-2126688089.html",
-  "skip:https://tass.ru/ekonomika/28248913",
-  "skip:https://ria.ru/20261024/aeroporty-2126687018.html",
-  "skip:https://www.interfax.ru/russia/1124678",
-  "skip:https://tass.ru/ekonomika/28248861",
-  "skip:https://ria.ru/20261024/aeroport-2126684997.html",
   "skip:https://ria.ru/20261024/aeroporty-2126684467.html",
   "skip:https://ria.ru/20261024/bugulma-2126683477.html",
   "https://tass.ru/ekonomika/28248957",
@@ -998,5 +987,16 @@
   "skip:https://news.google.com/rss/articles/CBMinwFBVV95cUxOR1FSbTQwWjJBMWptcnVMZkdTY0xXT3dvNlZSN3JLcE1tN2duaWJwaUFDSHhWLXRuX3FHTlVWX1N6SUJORHBUMkNPbno5bHBoZ2o1SWxObUFYZ1N4cWZXLTJhcC03NkkxeUFyaEN0dDRackNrWjhnTFdrVER5ZDJvSXVyS1ZGRzZ5NEktTTctaDQ3M1d2M3RFelVfMFJ0Tnc?oc=5",
   "skip:https://www.kommersant.ru/doc/9061167",
   "https://tass.ru/kultura/28255643",
-  "title:Умер актер Уолтер Кениг, сыгравший Павла Чехова в «Звездном пути»"
+  "title:Умер актер Уолтер Кениг, сыгравший Павла Чехова в «Звездном пути»",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28255689",
+  "skip:https://www.interfax.ru/world/1125113",
+  "skip:https://www.kommersant.ru/doc/9061180",
+  "skip:https://ria.ru/20261026/moskva-2127158558.html",
+  "https://www.rbc.ru/rbcfreenews/6adfa0f392195721db3efe32",
+  "title:Президент Ирана Масуд Пезешкиан прибыл в Москву для участия в саммите ФСЭГ",
+  "skip:https://ria.ru/20261026/internet-2127155007.html",
+  "skip:https://www.interfax.ru/russia/1125107",
+  "skip:https://www.rbc.ru/technology_and_media/26/10/2026/6adf91f64f2cfe423c1603a9",
+  "https://www.kommersant.ru/doc/9061171",
+  "title:Минцифры предупредило о возможных ограничениях мобильного интернета в Москве 27-29 октября из-за саммитов"
 ]

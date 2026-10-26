@@ -1,7 +1,4 @@
 [
-  "https://ria.ru/20261023/lantratova-2126640671.html",
-  "title:В районе Алешек вводится режим тишины для проведения гуманитарной операции",
-  "skip:https://www.kommersant.ru/doc/9059344",
   "https://tass.ru/sport/28248079",
   "title:Главного тренера Баварии Венсана Компани госпитализировали после потери сознания",
   "skip:https://www.aljazeera.com/news/2026/10/23/one-person-killed-in-suspected-islamophobic-shooting-near-paris?traffic_source=rss",
@@ -998,5 +995,8 @@
   "skip:https://www.interfax.ru/russia/1124987",
   "skip:https://ria.ru/20261026/obschee-2127028858.html",
   "https://www.rbc.ru/politics/26/10/2026/6adf18b19a7947ac9cc4126f",
-  "title:Минобороны РФ заявило о взятии под контроль населенного пункта Общее в Запорожской области"
+  "title:Минобороны РФ заявило о взятии под контроль населенного пункта Общее в Запорожской области",
+  "skip:https://www.aljazeera.com/news/2026/10/26/algerias-military-deployment-to-niger-whats-behind-the-move?traffic_source=rss",
+  "https://www.france24.com/en/africa/20261026-algeria-to-send-troops-to-niger-in-first-foreign-deployment-in-over-50-years",
+  "title:Парламент Алжира одобрил отправку войск в Нигер"
 ]

@@ -1,11 +1,4 @@
 [
-  "title:В Крыму и Севастополе введены ограничения на подачу воды и электроэнергии после аварии на сетях",
-  "skip:https://news.google.com/rss/articles/CBMipAFBVV95cUxNUlpONS1GMUdwVVBkSi0wQXNuTFU3YVcwVEpOWnVXaEVwSTdjZDJEbGNzT3R3NjlSMUhWUmtQakRmc3EyNV9Mc05hZ0twOW51MXhHUVg0dWEwbGx6ZWktOFBFMmpvNHE4Rko1eDQ2LV9YcU0yUVkwcW5YVmpHUVhEaV95RHdjQmZrTVVTcDRzUkVpbVZfanRhQzRvSndyVDJvZWFTQw?oc=5",
-  "https://www.kommersant.ru/doc/9059789",
-  "title:Число погибших при стрельбе в церкви в Иордании возросло до восьми",
-  "skip:https://www.kommersant.ru/doc/9059777",
-  "skip:https://news.google.com/rss/articles/CBMirgFBVV95cUxPcS1GckJLQm1zOTc2YzM1SHFSeDlHQWtEN096eFoySXdaNDlZREh2dWtyQ19QZ1lxcVRLZzR5TTVreHQtdk5aM2RQWTFjSHhMYWpaUVpKazNiLVVRQUZmSlFuM1RyZUxsTlAzTE5NTWpaV2ZCcTNUUExFZVpSUUZFZGMyb25jTUhXZjBXUHNxZGN3MTJfQzlsTTM0ZFQ2SDZlWUt3aEZidkFTcm1mMmc?oc=5",
-  "https://www.rbc.ru/rbcfreenews/6adc70cd275194a1faea6736",
   "title:При ударе беспилотника по предприятию в Орле погибли три человека, пятеро ранены",
   "skip:https://ria.ru/20261024/starlink-2126714606.html",
   "skip:https://ria.ru/20261024/starlink-2126714107.html",
@@ -998,5 +991,12 @@
   "skip:https://ria.ru/20261026/siriya-2127170062.html",
   "skip:https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcHczRE5EVXZodk5OdjV1Q21qSVFOWjlpTlF5clVZUVNVaXdQY3pSQVlSTmh5UWFxOFAxY0U0YTlzNDl3aTN3TkVMb25kX3p3SUtxVnZVYzRpbXlsX2pXd0lIZ2Z2eDlydVpkMWVXYXQwaXVOV250TnFneVNzMnZrRVhhUzZpaGZ6eE41OVdLQ2l6d3BETHJFcjlrOW45YWg0VVBUdWNwS3hIdGZ0Skk3NnRZSkFndUxDSF9xNC1vM0ZaTVBwQ3VUQlZ4YlRndFBSR2c?oc=5",
   "https://tass.ru/mezhdunarodnaya-panorama/28255891",
-  "title:ВВС Иордании нанесли удары по югу Сирии в ответ на нападение на церковь"
+  "title:ВВС Иордании нанесли удары по югу Сирии в ответ на нападение на церковь",
+  "skip:https://ria.ru/20261027/ogranicheniya-2127172935.html",
+  "skip:https://tass.ru/ekonomika/28255899",
+  "https://www.interfax.ru/russia/1125120",
+  "title:В аэропорту Сочи введены временные ограничения на полеты",
+  "skip:https://ria.ru/20261026/kabmin-2127166123.html",
+  "https://tass.ru/mezhdunarodnaya-panorama/28255795",
+  "title:На Украине ужесточили правила бронирования от мобилизации для ОПК и энергетики"
 ]

@@ -1,9 +1,4 @@
 [
-  "skip:https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
-  "skip:https://www.interfax.ru/russia/1124628",
-  "skip:https://www.rbc.ru/politics/23/10/2026/6adb85339a79470a56cf3854",
-  "skip:https://tass.ru/armiya-i-opk/28247971",
-  "skip:https://tass.ru/armiya-i-opk/28247965",
   "skip:https://www.rbc.ru/rbcfreenews/6adb7da5089e8d5c20c60e63",
   "skip:https://www.rbc.ru/quote/23/10/2026/6ad70af59a79477dbbedb21d",
   "skip:https://www.interfax.ru/world/1124555",
@@ -998,5 +993,10 @@
   "skip:https://ria.ru/20261026/fsb-2126984689.html",
   "skip:https://ria.ru/20261026/fsb-2126984443.html",
   "https://ria.ru/20261026/fsb-2126998481.html",
-  "title:ФСБ пресекла подготовку терактов на объектах ПРО и энергетики в Московском регионе"
+  "title:ФСБ пресекла подготовку терактов на объектах ПРО и энергетики в Московском регионе",
+  "skip:https://tass.ru/ekonomika/28253119",
+  "skip:https://www.interfax.ru/russia/1124967",
+  "skip:https://tass.ru/obschestvo/28253133",
+  "https://www.interfax.ru/russia/1124971",
+  "title:В Воронежской области восстановили движение поездов после ночной атаки беспилотников"
 ]

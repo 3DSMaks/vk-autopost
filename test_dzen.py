@@ -51,8 +51,31 @@ class DzenTests(unittest.TestCase):
         self.assertTrue(page.startswith('<tg-slideshow><img src="tg://photo?id=p0"/><img src="tg://photo?id=p1"/></tg-slideshow>'))
         self.assertIn('<p>A &lt; B &amp; C</p>', page)
 
+    def test_album_splits_article_between_photos_in_order(self):
+        art = dz.clean_article(dict(RAW, sections=[{'heading': f'Блок {i}', 'text': 'х' * 600} for i in range(4)]))
+        caps = dz.album_captions(art, 3)
+        self.assertEqual(len(caps), 3)
+        self.assertTrue(caps[0].startswith('<b>«Новый Бэтмен»'))
+        self.assertTrue(all(len(c) <= dz.CAPTION for c in caps))
+        joined = '\n'.join(caps)
+        self.assertLess(joined.index('Блок 0'), joined.index('Блок 3'))
+        self.assertIn('Вердикт', caps[-1])
+
+    def test_album_published_with_caption_per_photo(self):
+        art = dz.clean_article(RAW)
+        with patch.object(dz.tg, 'api', return_value={}) as api:
+            dz.publish('@c', art, [b'a', b'b', b'c'])
+        method, fields, files = api.call_args.args
+        self.assertEqual(method, 'sendMediaGroup')
+        media = json.loads(fields['media'])
+        self.assertEqual(len(media), 3)
+        self.assertTrue(all(m['caption'] for m in media))
+        self.assertEqual(set(files), {'p0', 'p1', 'p2'})
+
     def test_rich_rejected_falls_back_to_text_message(self):
         art = dz.clean_article(RAW)
+        os.environ['DZEN_FORMAT'] = 'rich'
+        self.addCleanup(os.environ.pop, 'DZEN_FORMAT')
         calls = []
         with patch.object(dz.tg, 'publish_rich', side_effect=RuntimeError('Telegram sendRichMessage: HTTP 400.')), \
              patch.object(dz.tg, 'api', side_effect=lambda m, f=None, files=None: calls.append((m, f)) or {}), quiet():
@@ -62,6 +85,8 @@ class DzenTests(unittest.TestCase):
 
     def test_network_error_not_retried_to_avoid_duplicate(self):
         art = dz.clean_article(RAW)
+        os.environ['DZEN_FORMAT'] = 'rich'
+        self.addCleanup(os.environ.pop, 'DZEN_FORMAT')
         with patch.object(dz.tg, 'publish_rich', side_effect=RuntimeError('Telegram sendRichMessage: ошибка сети')), \
              patch.object(dz.tg, 'api') as api:
             with self.assertRaises(RuntimeError):
@@ -76,7 +101,7 @@ class DzenTests(unittest.TestCase):
             with patch.object(dz, 'SEEN_FILE', state), patch.dict(os.environ, {'DZEN_CHAT_ID': '@c'}), \
                  patch.object(dz, 'candidates', return_value=items), \
                  patch.object(dz, 'choose', return_value=(items[0], [items[1]], 'угол')), \
-                 patch.object(dz.tg, 'pictures', return_value=[b'jpg']), \
+                 patch.object(dz, 'gather_photos', return_value=[b'a', b'b', b'c']), \
                  patch.object(dz, 'write', return_value=dz.clean_article(RAW)), \
                  patch.object(dz, 'publish') as pub, quiet():
                 dz.main()

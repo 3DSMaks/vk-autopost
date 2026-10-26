@@ -1,7 +1,4 @@
 [
-  "skip:https://www.playground.ru/misc/news/klient_steam_teper_zapuskaetsya_za_5_23_sekundy_v_polzovatelskom_teste_bystree_zayavlennyh_epic_5_47_sekundy-1881851#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.playground.ru/command_and_conquer_red_alert/news/avtor_kultovoj_muzyki_command_conquer_frenk_klepaki_prizval_aaa_razrabotchikov_vernut_rts_tvorcheskuyu_smelost-1881846#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.pcgamer.com/games/moba/3-months-after-launch-riot-announces-league-of-legends-classic-will-be-killed-in-january-most-have-gone-back-to-other-parts-of-league/",
   "skip:https://www.pcgamer.com/games/rts/legendary-composer-frank-klepacki-says-the-rts-genre-isnt-dead-but-he-would-like-to-see-devs-get-a-little-more-creative-with-it/",
   "skip:https://stopgame.ru/newsdata/73171/epic_games_navaybkodila_novuyu_versiyu_svoego_lonchera_iz_za_togo_chto_programmirovat_slozhno",
   "skip:https://gamemag.ru/news/201659/a-rewritten-epic-games-launcher-has-been-released-into-early-preview-up-vibe-coded",
@@ -998,5 +995,8 @@
   "title:S.T.A.L.K.E.R. 2 получила обновление 2.1 с увеличенной дальностью отображения NPC и быстрым перемещением",
   "skip:https://www.pcgamer.com/gaming-industry/steam-week-in-review-ai-disclosures-enter-the-discourse-again-as-epic-ceo-calls-them-just-as-partisan-as-mandatory-political-essays/",
   "https://www.playground.ru/misc/news/sluh_rocksteady_otmenila_igru_pro_ligu_spravedlivosti_radi_razrabotki_novoj_chasti_batman-1884935#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Слух: Rocksteady отменила игру про Лигу Справедливости ради разработки новой части Batman"
+  "title:Слух: Rocksteady отменила игру про Лигу Справедливости ради разработки новой части Batman",
+  "skip:https://www.playground.ru/stalker_2/news/s_t_a_l_k_e_r_2_poluchil_obnovlenie_2_1_s_uvelichennoj_dalnostyu_otobrazheniya_npc_i_bystrym_peremescheniem-1884937#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "https://www.playground.ru/silent_hill_townfall/news/konami_derzhala_v_sekrete_razrabotku_neskolkih_igr_serii_silent_hill_ot_kazhdoj_iz_studij-1884957#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Konami держала в секрете разработку нескольких игр серии Silent Hill от каждой из студий"
 ]

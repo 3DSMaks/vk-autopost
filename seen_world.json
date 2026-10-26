@@ -1,15 +1,4 @@
 [
-  "skip:https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert?traffic_source=rss",
-  "skip:https://www.interfax.ru/world/1124729",
-  "skip:https://ria.ru/20261024/lion-2126717651.html",
-  "skip:https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDZFRzVKWWJMOFp4eGNjbVdnZ1pCd3hVNTdMSWdiaU9uSGxZTi1zZW1DR3JvbjBfZTJIMnF3LVBMMXpWQjI0V1BfTWtFYUZkVWtXc0VmZEZyVWRHU3c3aHFwRm9fN0ZFMTRIaC16ZmhOeTFrRXBsdmpwWXVtRVVCd09ONkp3bFB5QWVRWjlBSmJqbHphYnBiLS0yaVZfRWpxdVAxSGRqYUI4YTBEX2pZeA?oc=5",
-  "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
-  "title:Во Франции проходят массовые протесты и демонстрации, введены повышенные меры безопасности",
-  "skip:https://www.interfax.ru/russia/1124726",
-  "https://ria.ru/20261024/bespilotnik-2126716523.html",
-  "title:Средства ПВО за сутки уничтожили более 40 беспилотников над Брянской областью",
-  "skip:https://www.rbc.ru/politics/24/10/2026/6adc821a327b4539ab2e0d59",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28249461",
   "skip:https://www.kommersant.ru/doc/9059800",
   "https://www.rbc.ru/politics/24/10/2026/6adc810054a954269492241c",
   "title:Президент Ирана Масуд Пезешкиан посетит Москву для участия в саммите Форума стран — экспортеров газа",
@@ -998,5 +987,16 @@
   "title:France Football объявила лауреатов наград по итогам года, включая лучшего тренера и врача",
   "skip:https://www.rbc.ru/politics/26/10/2026/6adfbd1eca79599324c73d50",
   "https://www.kommersant.ru/doc/9061222",
-  "title:Сторонники оппозиционного движения ворвались в редакцию сербского телеканала Informer TV"
+  "title:Сторонники оппозиционного движения ворвались в редакцию сербского телеканала Informer TV",
+  "skip:https://ria.ru/20261027/zolotoy-myach-2026-2127126188.html",
+  "skip:https://ria.ru/20261027/myach-2127178041.html",
+  "skip:https://www.rbc.ru/sport/27/10/2026/6adf76522c1390fd9c2deb88",
+  "skip:https://tass.ru/sport/28255977",
+  "skip:https://ria.ru/20261027/napadayuschiy-2127176855.html",
+  "https://www.kommersant.ru/doc/9061229",
+  "title:Гарри Кейн впервые в карьере выиграл «Золотой мяч»",
+  "skip:https://www.kommersant.ru/doc/9061228",
+  "skip:https://tass.ru/sport/28255971",
+  "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdi16Ny01RmxvOUZLWVB4UDFDak5LWFhweml3ZGFxaV9HYzkyS1hZMldjUUdZSng3YklkeVdCb1dYYXhpMG5KX3VmTWo5ZWtuQkJKMVNkMHZDMnQ1ZzZFeTdESHBSVmkxUWl3bWhVZTN4ZlNIbGJjTmNkbllqZGRVNUFoZmM0LTBvVTJJRllpTHJHeWtjWVdZNg?oc=5",
+  "title:Алексия Путельяс в третий раз выиграла «Золотой мяч»"
 ]

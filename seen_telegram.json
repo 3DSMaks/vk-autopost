@@ -1,10 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/castlevania-belmonts-curse-review",
-  "skip:https://www.pcgamer.com/gaming-industry/game-development/our-humble-goal-is-to-survive-the-ai-revolution-says-epic-games-ceo-as-its-star-wars-and-marvel-crossover-pivots-to-ai-first-development/",
-  "skip:https://gamemag.ru/news/201637/la-ceo-di-xbox-vuole-costruire-nuove-ip-durature-non-solo-sfruttare-quelle-gia-consolidate",
-  "skip:https://stopgame.ru/newsdata/73140/shrayer_epic_games_otlozhila_reliz_shutera_po_franshizam_disney_chtoby_sosredotochitsya_na_ii_razrabotke",
-  "skip:https://www.ign.com/articles/epic-reportedly-pushing-devs-to-use-ai-delays-secret-star-wars-and-marvel-crossover-shooter",
-  "https://gamemag.ru/news/201640/pragmata-doveva-essere-piu-horror-secondo-i-piani-iniziali-di-capcom",
   "video:2026-10-13:https://gamemag.ru/news/201640/pragmata-doveva-essere-piu-horror-secondo-i-piani-iniziali-di-capcom",
   "title:Capcom подумывала сделать Pragmata хоррором",
   "https://variety.com/2026/film/news/robert-pattinson-batman-2-pause-matt-reeves-exit-1236910030/",
@@ -998,5 +992,11 @@
   "https://www.kinonews.ru/news_143830/",
   "title:Кристен Белл рассказала об озвучивании мультфильма \"Холодное сердце 3\"",
   "https://www.kinonews.ru/news_143828/",
-  "title:Аманда Сайфред отвергла \"Стражей Галактики\" и не жалеет об этом"
+  "title:Аманда Сайфред отвергла \"Стражей Галактики\" и не жалеет об этом",
+  "skip:https://stopgame.ru/newsdata/73289/indi_horror_look_outside_vyydet_na_konsolyah_playstation_i_switch_v_konce_mesyaca",
+  "skip:https://www.ign.com/articles/mass-effect-leaks-reveal-canceled-bioware-games-story-would-have-accounted-for-all-choices-from-previous-games",
+  "skip:https://www.pcgamer.com/games/fps/overwatch-devs-took-one-look-at-jetpack-cat-and-bastions-combo-and-went-oh-thats-a-little-scary/",
+  "skip:https://gamemag.ru/news/201828/look-outside-console-release-date-october-2026",
+  "https://www.igromania.ru/news/169528/onlajn-cyberpunk-2077-vyiros-posle-vyihoda-obnovleniya-i-novogo-sezona-seriala/",
+  "title:Онлайн Cyberpunk 2077 вырос после выхода обновления и нового сезона сериала"
 ]

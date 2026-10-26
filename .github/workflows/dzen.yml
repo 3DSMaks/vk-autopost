@@ -1,0 +1,65 @@
+name: Статьи для Дзена
+on:
+  # 2 раза в день запускает внешний будильник cron-job.org (workflow_dispatch, mode=publish).
+  # Статья уходит в Telegram-канал DZEN_CHAT_ID, оттуда Синхроробот Дзена (@zen_sync_bot) переносит её в Дзен.
+  push:
+    branches: [main]
+    paths: ['dzen_post.py', 'test_dzen.py', '.github/workflows/dzen.yml']
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'check — проверить канал; preview — показать статью без публикации; publish — опубликовать'
+        type: choice
+        default: preview
+        options: [check, preview, publish]
+permissions:
+  contents: write
+concurrency:
+  group: dzen-post
+  cancel-in-progress: false
+jobs:
+  dzen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r requirements.txt
+      - name: Проверить код
+        run: python -m unittest test_dzen.py
+      - name: Проверить бота и канал
+        if: github.event_name == 'workflow_dispatch' && inputs.mode == 'check'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          DZEN_CHAT_ID: ${{ vars.DZEN_CHAT_ID }}
+        run: python dzen_post.py --check
+      - name: Показать статью без публикации
+        if: github.event_name == 'workflow_dispatch' && inputs.mode == 'preview'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python dzen_post.py --preview
+      - name: Опубликовать статью
+        if: github.event_name == 'workflow_dispatch' && inputs.mode == 'publish'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          DZEN_CHAT_ID: ${{ vars.DZEN_CHAT_ID }}
+          DZEN_FORMAT: ${{ vars.DZEN_FORMAT }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python dzen_post.py
+      - name: Сохранить историю
+        if: always() && github.event_name == 'workflow_dispatch' && inputs.mode == 'publish'
+        run: |
+          git config user.name 'github-actions'
+          git config user.email 'github-actions@users.noreply.github.com'
+          if [ -f seen_dzen.json ]; then
+            git add seen_dzen.json
+            if ! git diff --cached --quiet; then
+              git commit -m 'Remember Dzen articles'
+              for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && break; sleep 5; done
+            fi
+          fi

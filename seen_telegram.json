@@ -1,8 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143631/",
-  "https://www.film.ru/news/tobi-maguayr-provel-svadbu",
-  "title:Тоби Магуайр провел свадьбу",
-  "skip:https://gamemag.ru/news/201644/castl-belmont-scores-2026",
   "skip:https://stopgame.ru/newsdata/73144/asha_sharma_schitaet_chto_xbox_ne_vyzhivet_esli_budet_opiratsya_tolko_na_suschestvuyuschie_serii",
   "skip:https://stopgame.ru/newsdata/73143/uspeshnoe_vozvraschenie_serii_kritiki_o_castlevania_belmonts_curse",
   "skip:https://www.ign.com/articles/castlevania-belmonts-curse-review",
@@ -998,5 +994,9 @@
   "https://www.film.ru/news/rycar-semi-korolevstv-v-roli-zverya",
   "title:Рыцарь Семи Королевств в роли Зверя",
   "https://www.playground.ru/stellar_blade/news/novyj_trejler_stellar_blade_dlya_switch_2_posvyatili_masshtabnomu_krossoveru_s_nier_automata-1884841#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Новый трейлер Stellar Blade для Switch 2 посвятили масштабному кроссоверу с NieR Automata"
+  "title:Новый трейлер Stellar Blade для Switch 2 посвятили масштабному кроссоверу с NieR Automata",
+  "skip:https://www.kinonews.ru/news_143827/",
+  "skip:https://www.kinonews.ru/news_143826/",
+  "https://www.kinonews.ru/news_143830/",
+  "title:Кристен Белл рассказала об озвучивании мультфильма \"Холодное сердце 3\""
 ]

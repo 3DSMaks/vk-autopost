@@ -1,14 +1,4 @@
 [
-  "title:При ударе беспилотника по предприятию в Орле погибли три человека, пятеро ранены",
-  "skip:https://ria.ru/20261024/starlink-2126714606.html",
-  "skip:https://ria.ru/20261024/starlink-2126714107.html",
-  "https://www.france24.com/en/europe/20261024-ukraine-says-starlink-and-starshield-connection-stable-again",
-  "title:Связь с системами Starlink и Starshield на Украине полностью восстановлена и работает стабильно",
-  "skip:https://www.interfax.ru/world/1124725",
-  "skip:https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-  "https://tass.ru/proisshestviya/28249427",
-  "title:Пожар уничтожил исторический чайный домик «Орлиное гнездо» в баварских Альпах",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28249471",
   "skip:https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert?traffic_source=rss",
   "skip:https://www.interfax.ru/world/1124729",
   "skip:https://ria.ru/20261024/lion-2126717651.html",
@@ -998,5 +988,15 @@
   "title:В аэропорту Сочи введены временные ограничения на полеты",
   "skip:https://ria.ru/20261026/kabmin-2127166123.html",
   "https://tass.ru/mezhdunarodnaya-panorama/28255795",
-  "title:На Украине ужесточили правила бронирования от мобилизации для ОПК и энергетики"
+  "title:На Украине ужесточили правила бронирования от мобилизации для ОПК и энергетики",
+  "skip:https://ria.ru/20261027/pszh-2127175593.html",
+  "skip:https://ria.ru/20261027/priz-2127173054.html",
+  "skip:https://www.kommersant.ru/doc/9061219",
+  "skip:https://ria.ru/20261027/trener-2127172151.html",
+  "skip:https://ria.ru/20261027/nagrada-2127171217.html",
+  "https://www.kommersant.ru/doc/9061224",
+  "title:France Football объявила лауреатов наград по итогам года, включая лучшего тренера и врача",
+  "skip:https://www.rbc.ru/politics/26/10/2026/6adfbd1eca79599324c73d50",
+  "https://www.kommersant.ru/doc/9061222",
+  "title:Сторонники оппозиционного движения ворвались в редакцию сербского телеканала Informer TV"
 ]

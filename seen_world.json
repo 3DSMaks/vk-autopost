@@ -1,10 +1,4 @@
 [
-  "https://www.rbc.ru/rbcfreenews/6adb74635ea18da5a7ad8fad",
-  "title:Yandex Cloud восстановил доступ более чем к 90% данных клиентов после атак на дата-центры",
-  "skip:https://tass.ru/proisshestviya/28247881",
-  "skip:https://ria.ru/20261023/vsu-2126623341.html",
-  "skip:https://ria.ru/20261023/vsu-2126623001.html",
-  "https://www.rbc.ru/politics/23/10/2026/6adb7f08d18a46c6115a3376",
   "title:ВСУ нанесли ракетный удар по предприятию в Орле",
   "skip:https://ria.ru/20261023/ivanovo-2126624101.html",
   "skip:https://tass.ru/proisshestviya/28247871",
@@ -998,5 +992,11 @@
   "title:Минобороны РФ сообщило об ударах по энергообъектам, причалам Черноморска и складу БПЛА в Харькове",
   "skip:https://www.rbc.ru/rbcfreenews/6aded2260795599cc8ca311a",
   "https://www.kommersant.ru/doc/9060378",
-  "title:Круизный лайнер столкнулся с контейнеровозами в порту немецкого Бремерхафена"
+  "title:Круизный лайнер столкнулся с контейнеровозами в порту немецкого Бремерхафена",
+  "skip:https://news.google.com/rss/articles/CBMixwFBVV95cUxPaHhmclVEd2h0UmZvT3JkRTNya2hGdk5OOWgyc3NUZzloWXplMWpncXZNVWNDdFhSdE81RWs2WG5SakFVMFVwVFQ4ZGdMeHNGQ1JpX0dpdndVSkdXYzVNWTNEb01mRkhNbnEtV3VsbnlDMjc1dkMxM0lvdzFSTDktVlIxUEdaeU1mV2JRTXlKOE10UWEwX0I5cnJnQlU2T3B6YXJqYk9OdDV5MlZHVWhnVm5ueUpKRk9pZnVENXJWV1hYZTJDTUtz?oc=5",
+  "https://tass.ru/politika/28252769",
+  "title:Умер экс-премьер Японии Ясуо Фукуда",
+  "skip:https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+  "https://tass.ru/mezhdunarodnaya-panorama/28252817",
+  "title:Оппозиционерка Мария Корина Мачадо вернулась в Венесуэлу"
 ]

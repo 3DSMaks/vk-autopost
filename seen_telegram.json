@@ -1,7 +1,4 @@
 [
-  "skip:https://deadline.com/2026/10/michael-jackson-super-bowl-halftime-show-documentary-1237155802/",
-  "https://www.film.ru/news/treyler-novyh-spasateley-malibu",
-  "title:Трейлер новых Спасателей Малибу",
   "skip:https://www.playground.ru/misc/news/microsoft_zainteresovalas_staticheskoj_rekompilyatsiej_igr_xbox_labs_izuchit_porty_bez_traditsionnoj_emulyatsii-1881512#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://stopgame.ru/newsdata/73158/xbox_otkryla_novyy_otdel_dlya_izucheniya_aktualnyh_tehnologiy",
   "skip:https://gamemag.ru/news/201649/xbox-labs-asha-ai",
@@ -998,5 +995,8 @@
   "skip:https://www.igromania.ru/news/169530/veroyatnuyu-ispolnitelnitsu-glavnoj-roli-v-gta-6-zavalili-voprosami-ob-igre-na-pryamoj-translyatsii/",
   "skip:https://www.ign.com/articles/rumored-lucia-actress-goes-viral-after-dodging-swarm-of-gta-6-comments-during-livestream",
   "https://www.ign.com/articles/dragon-ball-xenoverse-2-gets-surprise-10th-anniversary-update-this-week",
-  "title:Dragon Ball Xenoverse 2 Gets Surprise 10th Anniversary Update This Week"
+  "title:Dragon Ball Xenoverse 2 Gets Surprise 10th Anniversary Update This Week",
+  "skip:https://www.playground.ru/phantom_blade_zero/news/asus_nachala_prodazhi_kollektsii_gejmerskogo_zheleza_i_periferii_rog_x_phantom_blade_zero_s_edinoj_mrachnoj_estetikoj-1884902#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "https://www.playground.ru/final_fantasy_7_part_3/news/final_fantasy_vii_revelation_predlozhit_bolee_masshtabnoe_priklyuchenie_chem_rebirth-1884910#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Final Fantasy VII Revelation предложит более масштабное приключение чем Rebirth"
 ]

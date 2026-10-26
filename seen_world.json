@@ -1,13 +1,4 @@
 [
-  "skip:https://www.rbc.ru/rbcfreenews/6adbfcd19765ed241acb0246",
-  "https://www.interfax.ru/russia/1124677",
-  "title:В Кузбассе произошло землетрясение магнитудой 4,9",
-  "skip:https://ria.ru/20261024/kim-2126680867.html",
-  "https://tass.ru/mezhdunarodnaya-panorama/28248883",
-  "title:Ким Чен Ын поставил задачу создать в КНДР сильнейшие в мире вооруженные силы",
-  "skip:https://www.kommersant.ru/doc/9059703",
-  "skip:https://tass.ru/proisshestviya/28248853",
-  "https://www.rbc.ru/rbcfreenews/6adc24e8275194a1faea671c",
   "title:Тайфун «Чампи» на Тайване: более 500 пострадавших и один погибший",
   "skip:https://ria.ru/20261024/korvet-2126684230.html",
   "https://www.interfax.ru/russia/1124676",
@@ -998,5 +989,14 @@
   "title:Минобороны РФ сообщило о перехвате 37 беспилотников за день",
   "skip:https://ria.ru/20261026/microsoft-2127143238.html",
   "https://www.interfax.ru/business/1125090",
-  "title:Microsoft планирует сократить 60 тысяч сотрудников через программу добровольных увольнений"
+  "title:Microsoft планирует сократить 60 тысяч сотрудников через программу добровольных увольнений",
+  "skip:https://tass.ru/ekonomika/28255521",
+  "skip:https://www.kommersant.ru/doc/9061136",
+  "skip:https://www.rbc.ru/business/26/10/2026/6adf8cdce80fc0116d9c144d",
+  "skip:https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY3V6RnhJNUdQRC1uU19vNFk4YUR3MVlHbmpOdnUxMGo4R2RoWVhvXzAzTGczekw4akxaVjB3VzF4bHRhRFZFTFJ5eGY0ZGFOZ2NtcTBQa0RqZlgzVHlQb0pUcVJjN3RBM3lZTFhjaTNCM3JXLWxzR1F3NTZDLU0teHZyb2FpX2xzajM1UlpVVFRDTmhTRFhpeVR1WWxaT1dva0E0TEVoTjllb3hMSDVFVkRYTnpaQXRhZ0w3ZU9vR1hhQQ?oc=5",
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTldBUWstVmdxYTcxUVFWbWVEazFJU01MLUZJQzdKNkhDeWxnM01KVmVGQzZ0MnhCZFZUeURFR3c3NHJiU19CUGJFSXlWcUlhRkphS0hENkRRT2d4aUVaVTFCTDBXYmpHd3A3MEJMeC1ucl93MlEyTldwNzRENjZLVUI1MmwyRkxKMHpWTE5rNFZHRGd6NlE?oc=5",
+  "title:Microsoft предложила 60 тысячам сотрудникам программу добровольного увольнения",
+  "skip:https://tass.ru/sport/28255551",
+  "https://www.rbc.ru/sport/26/10/2026/6adf906b46a697c649b6d763",
+  "title:Умер олимпийский чемпион по тяжелой атлетике Давид Ригерт"
 ]

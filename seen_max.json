@@ -1,9 +1,4 @@
 [
-  "skip:https://www.playground.ru/warhammer_40000_boltgun_2/news/mik_gordon_rasskazal_kak_sozdaval_muzyku_dlya_finalnogo_bossa_warhammer_40_000_boltgun_2-1881752#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.pcgamer.com/games/action/i-want-to-love-the-new-castlevania-but-it-just-feels-a-little-off/",
-  "skip:https://gamemag.ru/news/201664/cyberpunk-edgerunners-2-final-trailer",
-  "https://gamemag.ru/news/201666/microsoft-is-considering-making-fallout-the-elder-scrolls-and-even-minecraft-xbox-console-exclusives",
-  "title:СМИ: Новый опрос Microsoft допускает полноценную консольную эксклюзивность Fallout, The Elder Scrolls, DOOM, Diablo и даже Minecraft для Xbox",
   "skip:https://www.kinonews.ru/news_143655/",
   "skip:https://variety.com/2026/film/news/sylvester-stallone-regrets-doing-stunts-im-an-idiot-1236912683/",
   "https://kg-portal.ru/comments/135391-postery-filma-pchelovod-2/",
@@ -998,5 +993,10 @@
   "title:Основной трейлер Улья",
   "skip:https://www.igromania.ru/news/169530/veroyatnuyu-ispolnitelnitsu-glavnoj-roli-v-gta-6-zavalili-voprosami-ob-igre-na-pryamoj-translyatsii/",
   "https://www.playground.ru/final_fantasy_7_part_3/news/final_fantasy_vii_revelation_predlozhit_bolee_masshtabnoe_priklyuchenie_chem_rebirth-1884910#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Final Fantasy VII Revelation предложит более масштабное приключение чем Rebirth"
+  "title:Final Fantasy VII Revelation предложит более масштабное приключение чем Rebirth",
+  "skip:https://www.ign.com/articles/xbox-looks-for-development-partner-to-finish-marvels-blade",
+  "skip:https://www.igromania.ru/news/169526/microsoft-dala-arkane-studios-dopolnitelnyij-mesyats-na-poisk-pokupatelya/",
+  "skip:https://gamemag.ru/news/201828/look-outside-console-release-date-october-2026",
+  "https://www.igromania.ru/news/169531/v-helldivers-2-nachalos-prazdnovanie-dnya-svobodyi-gejmeryi-poluchat-tematicheskuyu-vintovku/",
+  "title:В Helldivers 2 началось празднование Дня Свободы — геймеры получат тематическую винтовку"
 ]

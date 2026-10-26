@@ -955,5 +955,19 @@
   "skip:https://www.interfax.ru/world/1124922",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28252151",
   "https://www.kommersant.ru/doc/9060297",
-  "title:США предложили кандидатуру Виктора Орбана на пост генерального секретаря ООН"
+  "title:США предложили кандидатуру Виктора Орбана на пост генерального секретаря ООН",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28252313",
+  "skip:https://tass.ru/info/28252283",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28252295",
+  "skip:https://ria.ru/20261026/braziliya-2126959062.html",
+  "skip:https://www.france24.com/en/americas/20261026-what-challenges-await-brazil-s-lula-in-his-fourth-term-as-president",
+  "skip:https://tass.ru/politika/28252289",
+  "skip:https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
+  "skip:https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
+  "https://ria.ru/20261026/braziliya-2126959961.html",
+  "title:Лула да Силва одержал победу на президентских выборах в Бразилии",
+  "skip:https://www.rbc.ru/rbcfreenews/6ade9ad819ccd917a21475c1",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28252175",
+  "https://www.kommersant.ru/doc/9060299",
+  "title:В Белграде празднуют победу оппозиционного «Студенческого списка» на парламентских выборах"
 ]

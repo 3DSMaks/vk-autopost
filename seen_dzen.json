@@ -1,5 +1,9 @@
 [
   "skip:https://stopgame.ru/newsdata/73286/odin_iz_luchshih_relizov_v_tekuschem_pokolenii_chto_pishut_smi_o_phantom_blade_zero",
   "https://gamemag.ru/news/201841/geympley-vytyagivaet-vse-poyavilis-pervye-ocenki-phantom-blade-zero",
-  "title:Геймплей вытягивает всё: Появились первые оценки Phantom Blade Zero"
+  "title:Геймплей вытягивает всё: Появились первые оценки Phantom Blade Zero",
+  "skip:https://gamemag.ru/news/201839/igroki-prosyat-spasti-mass-effect",
+  "skip:https://www.igromania.ru/news/169539/obzoryi-gta-6-mogut-poyavitsya-18-noyabrya-rockstar-games-yakobyi-nachala-rassyilat-igru-presse/",
+  "skip:https://www.ign.com/articles/phantom-blade-zero-review",
+  "skip:https://kg-portal.ru/comments/135537-postery-filma-djuna-chast-3/"
 ]

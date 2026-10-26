@@ -42,7 +42,7 @@ jobs:
         if: github.event_name == 'workflow_dispatch' && inputs.mode == 'preview'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python dzen_post.py --preview
+        run: python -u dzen_post.py --preview
       - name: Опубликовать статью
         if: github.event_name == 'workflow_dispatch' && inputs.mode == 'publish'
         env:
@@ -50,7 +50,7 @@ jobs:
           DZEN_CHAT_ID: ${{ vars.DZEN_CHAT_ID }}
           DZEN_FORMAT: ${{ vars.DZEN_FORMAT }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python dzen_post.py
+        run: python -u dzen_post.py
       - name: Сохранить историю
         if: always() && github.event_name == 'workflow_dispatch' && inputs.mode == 'publish'
         run: |

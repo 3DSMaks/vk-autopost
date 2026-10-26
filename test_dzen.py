@@ -113,12 +113,22 @@ class DzenTests(unittest.TestCase):
              patch.object(dz.tg, 'gemini_json', return_value={'order': [2, 2, 0]}):
             self.assertEqual(dz.order_photos(art, [b'a', b'b', b'c']), [b'c', b'a', b'b'])
 
+    def test_preview_message_has_large_photo_above_text(self):
+        art = dz.clean_article(RAW)
+        with patch.object(dz.tg, 'api', return_value={}) as api:
+            dz.publish_preview('@c', art, 'https://img/1.jpg')
+        method, fields = api.call_args.args
+        self.assertEqual(method, 'sendMessage')
+        self.assertEqual(json.loads(fields['link_preview_options']),
+                         {'url': 'https://img/1.jpg', 'prefer_large_media': True, 'show_above_text': True})
+        self.assertTrue(fields['text'].startswith('<b>«Новый Бэтмен»'))
+
     def test_main_publishes_and_remembers(self):
         items = [{'index': 0, 'link': 'https://a/1', 'title': 'Тема', 'summary': ''},
                  {'index': 1, 'link': 'https://a/2', 'title': 'Тема 2', 'summary': ''}]
         with tempfile.TemporaryDirectory() as tmp:
             state = Path(tmp) / 'seen_dzen.json'
-            with patch.object(dz, 'SEEN_FILE', state), patch.dict(os.environ, {'DZEN_CHAT_ID': '@c'}), \
+            with patch.object(dz, 'SEEN_FILE', state), patch.dict(os.environ, {'DZEN_CHAT_ID': '@c', 'DZEN_FORMAT': 'album'}), \
                  patch.object(dz, 'candidates', return_value=items), \
                  patch.object(dz, 'choose', return_value=(items[0], [items[1]], 'угол')), \
                  patch.object(dz, 'gather_photos', return_value=[b'a', b'b', b'c']), \

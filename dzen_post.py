@@ -202,6 +202,27 @@ def publish_album(chat_id, article, photos):
                   {f'p{i}': data for i, data in enumerate(photos)})
 
 
+def cover_url(items):
+    """Адрес крупной картинки со страницы новости (до 400 px по короткой стороне не берём) — быстро, без Gemini."""
+    for item in items:
+        urls = news.image_urls(news.page_images(item['link']) + [item.get('image')], item['link'])
+        for url in urls[:4]:
+            for candidate in tg.bigger_versions(url) + [url]:
+                try:
+                    if min(tg.image_size(news.download_jpeg(candidate, item['link']))) >= 400:
+                        return candidate
+                except Exception:
+                    continue
+    return None
+
+
+def publish_preview(chat_id, article, cover):
+    """Вся статья одним сообщением (до 4096 знаков) с крупным превью фото над текстом."""
+    return tg.api('sendMessage', {'chat_id': chat_id, 'text': as_html_message(article), 'parse_mode': 'HTML',
+                                  'link_preview_options': json.dumps({'url': cover, 'prefer_large_media': True,
+                                                                      'show_above_text': True})})
+
+
 def publish(chat_id, article, photos):
     """Альбом «фото + свой кусок текста у каждого фото» — Дзен делает из поста с текстом и картинками статью.
     DZEN_FORMAT=rich — одно Rich Message (Синхроробот Дзена теряет из него фото), text — только текст."""
@@ -219,7 +240,7 @@ def publish(chat_id, article, photos):
                                   'link_preview_options': json.dumps({'is_disabled': True})})
 
 
-MIN_PHOTOS = 2   # просьба пользователя: если нашлось два фото — публикуем с двумя
+MIN_PHOTOS = 1   # просьба пользователя: публиковать быстро, хотя бы с одним фото
 WANT_PHOTOS = 3  # но стараемся найти минимум три: ищем ещё в других статьях об этой истории и в Steam
 MAX_PHOTOS = 5
 
@@ -340,10 +361,16 @@ def main():
         return
     recent = [s[len(tg.TITLE):] for s in seen if s.startswith(tg.TITLE)][-30:]
     tried = []
+    fmt = os.environ.get('DZEN_FORMAT') or 'preview'
     for _ in range(4):  # статье нужно минимум MIN_PHOTOS разных фото, иначе берём другую тему
         pick, related, angle = choose(items, recent, tried)
         print('Тема:', pick['title'], '|', angle)
-        photos = gather_photos([pick] + related)
+        if fmt == 'preview':
+            cover = cover_url([pick] + related)
+            photos = [cover] if cover else []
+            print('Обложка:', cover or 'не найдена')
+        else:
+            photos = gather_photos([pick] + related)
         if len(photos) >= MIN_PHOTOS:
             break
         print(f'Фото только {len(photos)}, нужно {MIN_PHOTOS} — беру другую тему')
@@ -352,7 +379,7 @@ def main():
         tg.save_history(SEEN_FILE, seen, skipped=tried)
         raise RuntimeError(f'Ни к одной теме не нашлось {MIN_PHOTOS} фото — статья не опубликована')
     article = write(pick, related, angle)
-    if len(as_text(article)) < MIN_TEXT:  # Gemini иногда сокращает — просим ещё раз, берём более длинный вариант
+    if len(as_text(article)) < MIN_TEXT * 0.8:  # Gemini иногда сокращает — просим ещё раз, берём более длинный вариант
         print(f'Статья короткая ({len(as_text(article))} знаков), пишу заново')
         article = max(article, write(pick, related, angle), key=lambda a: len(as_text(a)))
     article = fit(article)
@@ -360,7 +387,10 @@ def main():
     print(f'Статья: {len(text)} знаков, фото: {len(photos)}\n\n{text}\n')
     if preview:
         return
-    publish(chat_id, article, order_photos(article, photos))
+    if fmt == 'preview':
+        publish_preview(chat_id, article, photos[0])
+    else:
+        publish(chat_id, article, order_photos(article, photos))
     links = [pick['link']] + [r['link'] for r in related]
     tg.save_history(SEEN_FILE, seen, links[0], tried + links[1:], title=pick['title'])
     print('Опубликовано в канал', chat_id)

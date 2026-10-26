@@ -1,10 +1,4 @@
 [
-  "title:Воспоминания Аффлека о Лиге справедливости",
-  "skip:https://www.pcgamer.com/games/life-sim/haunted-chocolatier-is-still-a-town-game-but-itll-be-more-of-an-action-rpg-its-for-the-people-in-stardew-valley-that-go-into-the-mines/",
-  "skip:https://stopgame.ru/newsdata/73162/ubisoft_gotovitsya_zakryt_studiyu_avtorov_trials_i_umenshit_shtat_singapurskogo_ofisa",
-  "https://www.playground.ru/gta_6/news/studiya_rockstar_vyrosla_pochti_vdvoe_radi_gta_6_nad_igroj_rabotaet_bolee_4700_chelovek-1881576#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Студия Rockstar выросла почти вдвое ради GTA 6 - над игрой работает более 4700 человек",
-  "skip:https://www.film.ru/news/selmu-bler-arestovali",
   "skip:https://www.kinonews.ru/news_143635/",
   "skip:https://www.kinonews.ru/news_143634/",
   "https://www.film.ru/news/recenzii-na-hrustalnoe-ozero",
@@ -998,5 +992,11 @@
   "skip:https://www.ign.com/articles/phantom-blade-zero-review",
   "skip:https://gamemag.ru/news/201834/exodus-new-protagonist-face-october-2026",
   "https://www.playground.ru/gears_of_war_e_day/news/utverzhdaetsya_chto_gears_of_war_e_day_stanet_pervoj_chastyu_trilogii_byudzhet_v_500_mln_dollarov_rasschitan_na_3_igry-1884789#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Утверждается, что Gears of War: E-Day станет первой частью трилогии - бюджет в $500 млн долларов рассчитан на 3 игры"
+  "title:Утверждается, что Gears of War: E-Day станет первой частью трилогии - бюджет в $500 млн долларов рассчитан на 3 игры",
+  "skip:https://www.ign.com/articles/mass-effects-commander-shepard-actors-destiny-community-help-savemasseffect-petition-cross-200000-signatures",
+  "skip:https://www.playground.ru/mass_effect_5/news/petitsiya_za_spasenie_mass_effect_nabrala_200_tysyach_podpisej_vsego_cherez_neskolko_dnej_posle_zakrytiya_bioware-1884790#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/misc/news/ulichnyj_boets_poteryal_72_sborov_vo_vtoroj_uikend-1884771#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.pcgamer.com/games/mass-effect/save-mass-effect-petition-hits-over-180-000-signatures-within-days-of-biowares-closure/",
+  "https://gamemag.ru/news/201833/new-game-plus-black-flag-resynced-october-2026",
+  "title:Assassin's Creed: Black Flag Resynced уже на следующей неделе получит режим «Новая игра +»"
 ]

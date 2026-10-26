@@ -1,12 +1,4 @@
 [
-  "skip:https://www.rbc.ru/rbcfreenews/6adb7da5089e8d5c20c60e63",
-  "skip:https://www.rbc.ru/quote/23/10/2026/6ad70af59a79477dbbedb21d",
-  "skip:https://www.interfax.ru/world/1124555",
-  "https://www.kommersant.ru/doc/9059316",
-  "title:Россия и Украина объявили режим тишины на Херсонском направлении для гуманитарной операции в Алешках",
-  "skip:https://ria.ru/20261023/kompani-2126629972.html",
-  "https://www.rbc.ru/sport/23/10/2026/6adb83fb0472e3336ace6636",
-  "title:Главного тренера «Баварии» Венсана Компани госпитализировали после потери сознания",
   "skip:https://www.rbc.ru/politics/23/10/2026/6adb82bed18a46c6115a3381",
   "skip:https://www.interfax.ru/russia/1124611",
   "https://www.kommersant.ru/doc/9059270",
@@ -998,5 +990,13 @@
   "skip:https://www.interfax.ru/russia/1124967",
   "skip:https://tass.ru/obschestvo/28253133",
   "https://www.interfax.ru/russia/1124971",
-  "title:В Воронежской области восстановили движение поездов после ночной атаки беспилотников"
+  "title:В Воронежской области восстановили движение поездов после ночной атаки беспилотников",
+  "skip:https://www.interfax.ru/business/1124976",
+  "skip:https://www.rbc.ru/politics/26/10/2026/6adef7fb4e4501f7b9f61f02",
+  "https://www.kommersant.ru/doc/9060527",
+  "title:Moody's сохранило кредитный рейтинг Франции на уровне Aa3",
+  "skip:https://www.interfax.ru/russia/1124973",
+  "skip:https://ria.ru/20261026/prezident-2127004023.html",
+  "https://www.kommersant.ru/doc/9060524",
+  "title:Президент Ирана Масуд Пезешкиан направляется с визитом в Россию"
 ]

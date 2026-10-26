@@ -1,10 +1,4 @@
 [
-  "title:Тайфун «Чампи» на Тайване: более 500 пострадавших и один погибший",
-  "skip:https://ria.ru/20261024/korvet-2126684230.html",
-  "https://www.interfax.ru/russia/1124676",
-  "title:На Амурском судостроительном заводе спущен на воду корвет «Грозный»",
-  "skip:https://www.rbc.ru/rbcfreenews/6adc27f7e6f53f880224b018",
-  "skip:https://tass.ru/proisshestviya/28248889",
   "https://www.interfax.ru/russia/1124680",
   "title:В Иваново ликвидировали крупный пожар на производстве и сообщили о гибели пожарного",
   "skip:https://ria.ru/20261024/aeroporty-2126689338.html",
@@ -998,5 +992,11 @@
   "title:Microsoft предложила 60 тысячам сотрудникам программу добровольного увольнения",
   "skip:https://tass.ru/sport/28255551",
   "https://www.rbc.ru/sport/26/10/2026/6adf906b46a697c649b6d763",
-  "title:Умер олимпийский чемпион по тяжелой атлетике Давид Ригерт"
+  "title:Умер олимпийский чемпион по тяжелой атлетике Давид Ригерт",
+  "skip:https://tass.ru/sport/28255599",
+  "https://ria.ru/20261026/rigert-2127157886.html",
+  "skip:https://news.google.com/rss/articles/CBMinwFBVV95cUxOR1FSbTQwWjJBMWptcnVMZkdTY0xXT3dvNlZSN3JLcE1tN2duaWJwaUFDSHhWLXRuX3FHTlVWX1N6SUJORHBUMkNPbno5bHBoZ2o1SWxObUFYZ1N4cWZXLTJhcC03NkkxeUFyaEN0dDRackNrWjhnTFdrVER5ZDJvSXVyS1ZGRzZ5NEktTTctaDQ3M1d2M3RFelVfMFJ0Tnc?oc=5",
+  "skip:https://www.kommersant.ru/doc/9061167",
+  "https://tass.ru/kultura/28255643",
+  "title:Умер актер Уолтер Кениг, сыгравший Павла Чехова в «Звездном пути»"
 ]

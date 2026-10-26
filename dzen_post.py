@@ -180,7 +180,9 @@ def chat():
 def sync_bot_in(chat_id):
     """Есть ли Синхроробот Дзена среди администраторов канала."""
     admins = tg.api('getChatAdministrators', {'chat_id': chat_id})
-    return any((a.get('user') or {}).get('username', '').lower() == 'zen_sync_bot' for a in admins)
+    bots = [a['user'] for a in admins if (a.get('user') or {}).get('is_bot')]
+    print('  боты-администраторы:', ', '.join(f"@{b.get('username')} ({b.get('first_name')})" for b in bots) or 'нет')
+    return any(b.get('username', '').lower() == 'zen_sync_bot' or 'дзен' in b.get('first_name', '').lower() for b in bots)
 
 
 def check():

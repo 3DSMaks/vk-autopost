@@ -1,12 +1,4 @@
 [
-  "skip:https://tass.ru/obschestvo/28248039",
-  "skip:https://tass.ru/obschestvo/28248033",
-  "skip:https://ria.ru/20261023/lantratova-2126637733.html",
-  "skip:https://ria.ru/20261023/tramp-2126636926.html",
-  "skip:https://www.rbc.ru/rbcfreenews/6adb89dc23dd62c28889892d",
-  "skip:https://ria.ru/20261023/aleshki-2126630911.html",
-  "skip:https://ria.ru/20261023/genshtab-2126630746.html",
-  "skip:https://ria.ru/20261023/dmitriev-2126626985.html",
   "https://ria.ru/20261023/lantratova-2126640671.html",
   "title:В районе Алешек вводится режим тишины для проведения гуманитарной операции",
   "skip:https://www.kommersant.ru/doc/9059344",
@@ -998,5 +990,13 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28253419",
   "skip:https://www.aljazeera.com/gallery/2026/10/26/photos-serbia-celebrates-as-ruling-party-loses-grip-on-power?traffic_source=rss",
   "https://tass.ru/mezhdunarodnaya-panorama/28253201",
-  "title:В Сербии празднуют победу оппозиции на парламентских выборах, Пекин готов к сотрудничеству"
+  "title:В Сербии празднуют победу оппозиции на парламентских выборах, Пекин готов к сотрудничеству",
+  "skip:https://www.rbc.ru/rbcfreenews/6adf02b4119ddf6c1d53decb",
+  "https://www.kommersant.ru/doc/9060613",
+  "title:В Каталонии более 80 человек пострадали при падении автобуса со склона",
+  "skip:https://www.kommersant.ru/doc/9060601",
+  "skip:https://www.interfax.ru/russia/1124987",
+  "skip:https://ria.ru/20261026/obschee-2127028858.html",
+  "https://www.rbc.ru/politics/26/10/2026/6adf18b19a7947ac9cc4126f",
+  "title:Минобороны РФ заявило о взятии под контроль населенного пункта Общее в Запорожской области"
 ]

@@ -1,11 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143655/",
-  "skip:https://variety.com/2026/film/news/sylvester-stallone-regrets-doing-stunts-im-an-idiot-1236912683/",
-  "https://kg-portal.ru/comments/135391-postery-filma-pchelovod-2/",
-  "title:Порхай как Джейсон Стэйтем, жаль как пчела! Постер боевика \"Пчеловод 2\"",
-  "skip:https://gamemag.ru/news/201667/007-first-light-arrives-on-switch-2-on-march-18-2027",
-  "skip:https://stopgame.ru/newsdata/73174/versiya_007_first_light_dlya_switch_2_vyydet_18_marta",
-  "skip:https://gamemag.ru/news/201650/narnia-the-magicians-nephew-trailer",
   "https://www.ign.com/articles/gta-6-was-originally-meant-to-release-much-sooner-than-we-realized",
   "title:GTA 6 Was Originally Meant to Release Much Sooner Than We Realized",
   "skip:https://www.kinonews.ru/news_143654/",
@@ -998,5 +991,12 @@
   "skip:https://www.igromania.ru/news/169526/microsoft-dala-arkane-studios-dopolnitelnyij-mesyats-na-poisk-pokupatelya/",
   "skip:https://gamemag.ru/news/201828/look-outside-console-release-date-october-2026",
   "https://www.igromania.ru/news/169531/v-helldivers-2-nachalos-prazdnovanie-dnya-svobodyi-gejmeryi-poluchat-tematicheskuyu-vintovku/",
-  "title:В Helldivers 2 началось празднование Дня Свободы — геймеры получат тематическую винтовку"
+  "title:В Helldivers 2 началось празднование Дня Свободы — геймеры получат тематическую винтовку",
+  "skip:https://www.playground.ru/misc/news/amanda_sajfred_obyasnila_otkaz_ot_roli_gamory_v_strazhah_galaktiki_film_kazalsya_ej_riskom_dlya_karery-1884932#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/cyberpunk_2077/news/tretij_sezon_kiberpanka_beguschih_po_krayu_ne_garantirovan_avtory_zhdut_idealnuyu_istoriyu-1884929#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169532/sozdateli-cyberpunk-edgerunners-ne-isklyuchayut-vozmozhnost-vyipuska-tretego-sezona/",
+  "skip:https://www.igromania.ru/news/169527/razrabotchiki-overwatch-perezhivali-vo-vremya-testov-fiki-i-hoteli-chtobyi-gejmeryi-pochuvstvovali-to-zhe-bezumie/",
+  "skip:https://www.pcgamer.com/games/fps/overwatch-devs-took-one-look-at-jetpack-cat-and-bastions-combo-and-went-oh-thats-a-little-scary/",
+  "https://gamemag.ru/news/201839/igroki-prosyat-spasti-mass-effect",
+  "title:Более 200 тысяч игроков призвали Electronic Arts спасти Mass Effect или передать серию другой студии"
 ]

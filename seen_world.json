@@ -1,11 +1,4 @@
 [
-  "title:Тайфун «Чампи» обрушился на Тайвань, есть погибшие и пострадавшие",
-  "skip:https://tass.ru/sport/28248665",
-  "https://www.rbc.ru/rbcfreenews/6adbf50a23dd62c288898933",
-  "title:Во Франции в результате стрельбы в пригороде Парижа погиб боец ММА Пенго Боссио Ванги",
-  "skip:https://tass.ru/proisshestviya/28248693",
-  "https://ria.ru/20261024/ssha-2126682506.html",
-  "title:ФБР арестовало подрядчика ЦРУ за публикацию секретной информации",
   "skip:https://tass.ru/ekonomika/28248723",
   "skip:https://tass.ru/ekonomika/28248717",
   "skip:https://tass.ru/ekonomika/28248703",
@@ -998,5 +991,12 @@
   "skip:https://www.interfax.ru/russia/1125061",
   "skip:https://www.kommersant.ru/doc/9061026",
   "https://tass.ru/proisshestviya/28255221",
-  "title:Последствия новых атак беспилотников на российские регионы"
+  "title:Последствия новых атак беспилотников на российские регионы",
+  "skip:https://news.google.com/rss/articles/CBMixwFBVV95cUxOaFIxVXVVYl90WFZodTB6bHpqOWN3aktZSHNDYTlaM3I5S1FoeU14U1NRVE1mVTJtSDV3ZHk1cHRiWDh6elBNamVIeE5tN2VvRDEyWXBPT1dyNW5KSXFyaE5PVEFOS1NyQW1CNkVVblN6SW1PeVg3aHQxY3B6WmhHU3cxM0gtdTNRLTY1NWo0R284RzQtSmVtTnRxVnR6MTVkNWVsU3djY1d2SURPNmo0N05CUFJZekpIUklNTmRxazZHVTNrbEFN?oc=5",
+  "skip:https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia?traffic_source=rss",
+  "https://www.rbc.ru/rbcfreenews/6adf5d39c85c6111647bd2bb",
+  "title:Парламент Египта одобрил военную помощь Саудовской Аравии",
+  "skip:https://www.kommersant.ru/doc/9061032",
+  "https://www.rbc.ru/politics/26/10/2026/6adf7bf146a697c649b6d72e",
+  "title:Победители парламентских выборов в Сербии исключили поставки оружия Украине и введение антироссийских санкций"
 ]

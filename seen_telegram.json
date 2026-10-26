@@ -1,6 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73162/ubisoft_gotovitsya_zakryt_studiyu_avtorov_trials_i_umenshit_shtat_singapurskogo_ofisa",
-  "skip:https://www.ign.com/articles/ubisoft-cuts-70-staff-from-skull-and-bones-dev-shuts-down-trials-studio-redlynx",
   "https://www.ign.com/articles/cod-modern-warfare-4-pre-load-release-times",
   "title:Call of Duty: Modern Warfare 4 Preload and Global Release Times Confirmed for Campaign, DMZ, and the Full Game",
   "https://www.kinonews.ru/news_143635/",
@@ -998,5 +996,7 @@
   "skip:https://www.igromania.ru/news/169539/obzoryi-gta-6-mogut-poyavitsya-18-noyabrya-rockstar-games-yakobyi-nachala-rassyilat-igru-presse/",
   "skip:https://gamemag.ru/news/201845/microsoft-vydelila-eshche-odin-mesyac-na-poisk-pokupatelya-arkane-lyon-studiyu-mogut-spasti-do",
   "https://www.igromania.ru/news/169535/los-santos-v-moskve-ispolnitel-roli-majkla-iz-gta-v-ned-lyuk-stanet-glavnyim-gostem-nochi-videoigr/",
-  "title:Лос-Сантос в Москве! Исполнитель роли Майкла из GTA V Нед Люк станет главным гостем «Ночи видеоигр»"
+  "title:Лос-Сантос в Москве! Исполнитель роли Майкла из GTA V Нед Люк станет главным гостем «Ночи видеоигр»",
+  "https://www.playground.ru/phantom_blade_zero/news/phantom_blade_zero_poluchila_tochnoe_vremya_vyhoda_predzagruzka_nachnyotsya_uzhe_zavtra_utrom_po_moskve-1885005#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Phantom Blade Zero получила точное время выхода - предзагрузка начнётся уже завтра утром по Москве"
 ]

@@ -1,15 +1,4 @@
 [
-  "https://ria.ru/20261023/sochi-2126665982.html",
-  "title:В аэропорту Сочи и Геленджика введены временные ограничения",
-  "skip:https://ria.ru/20261023/roschina-2126664742.html",
-  "skip:https://tass.ru/sport/28248415",
-  "https://www.kommersant.ru/doc/9059410",
-  "title:Российская гимнастка Людмила Рощина завоевала серебро на чемпионате мира",
-  "skip:https://tass.ru/proisshestviya/28248455",
-  "skip:https://ria.ru/20261023/ataka-2126666555.html",
-  "https://www.rbc.ru/rbcfreenews/6adbbfd60d56109cf3d31bf0",
-  "title:Удар беспилотника по автобусу в Брянской области привел к гибели человека",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28248503",
   "skip:https://www.interfax.ru/moscow/1124660",
   "https://www.interfax.ru/world/1124666",
   "title:Пляжи в ОАЭ закрыли из-за разлива нефти, а танкеры подорвались на минах в Ормузском проливе",
@@ -998,5 +987,16 @@
   "skip:https://www.interfax.ru/russia/1125033",
   "skip:https://ria.ru/20261026/lavrov-2127087111.html",
   "https://tass.ru/politika/28254503",
-  "title:Сергей Лавров провел в Москве встречу с главой МИД Словакии Юраем Бланаром"
+  "title:Сергей Лавров провел в Москве встречу с главой МИД Словакии Юраем Бланаром",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28254593",
+  "https://ria.ru/20261026/egipet-2127095936.html",
+  "title:Парламент Египта одобрил военную поддержку Саудовской Аравии",
+  "skip:https://tass.ru/ekonomika/28254637",
+  "skip:https://ria.ru/20261026/rossija-2127093930.html",
+  "skip:https://ria.ru/20261026/rossija-2127095708.html",
+  "skip:https://ria.ru/20261026/falkov-2127090699.html",
+  "skip:https://www.interfax.ru/russia/1125032",
+  "skip:https://ria.ru/20261026/rf-2127085964.html",
+  "https://ria.ru/20261026/rossija-2127095391.html",
+  "title:Россия и Словакия договорились о возобновлении сотрудничества и подписали протокол"
 ]

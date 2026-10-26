@@ -1,11 +1,4 @@
 [
-  "skip:https://tass.ru/ekonomika/28248723",
-  "skip:https://tass.ru/ekonomika/28248717",
-  "skip:https://tass.ru/ekonomika/28248703",
-  "https://ria.ru/20261024/aeroporty-2126680718.html",
-  "title:В ряде российских аэропортов ввели временные ограничения",
-  "skip:https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM0x3U0pTZEhoZWZsQjJTQTVoTl9VdTdkeHdtMnNmMVVzU003NVc0YjhJX3g4MTU5dkRoWHVCSm00MUI2bWRhczZyNE1QVE4wSGFfanVwckZkVV9kRFFQeUpkQ1Z2TkhURWUwZ2ZZb1FsQndnZnhPMlNPZlZJVDZZZTRXQnVnODQ2UHFBd2NLOXVJOXFMdU1MamVHRkhBOVdGdXRydjVqWVRUczV3MmxVdUI2VmQ1eG0y?oc=5",
-  "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china",
   "skip:https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
   "https://tass.ru/mezhdunarodnaya-panorama/28248829",
   "title:Над Эр-Риядом силами ПВО перехвачена баллистическая ракета хуситов",
@@ -998,5 +991,12 @@
   "title:Парламент Египта одобрил военную помощь Саудовской Аравии",
   "skip:https://www.kommersant.ru/doc/9061032",
   "https://www.rbc.ru/politics/26/10/2026/6adf7bf146a697c649b6d72e",
-  "title:Победители парламентских выборов в Сербии исключили поставки оружия Украине и введение антироссийских санкций"
+  "title:Победители парламентских выборов в Сербии исключили поставки оружия Украине и введение антироссийских санкций",
+  "skip:https://www.interfax.ru/world/1125089",
+  "skip:https://www.rbc.ru/politics/26/10/2026/6adf75388ee58c812461d196",
+  "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
+  "title:Алжир впервые с 1973 года направит войска за рубеж для защиты энергообъектов в Нигере",
+  "skip:https://www.rbc.ru/politics/26/10/2026/6adf8203caec548e6fd1551e",
+  "https://www.interfax.ru/business/1125093",
+  "title:Яковлевский горно-обогатительный комбинат в Белгородской области частично обесточен после атаки беспилотников"
 ]

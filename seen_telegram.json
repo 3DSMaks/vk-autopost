@@ -1,8 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73145/avtory_rimworld_anonsirovali_pereezd_igry_na_novyy_dvizhok",
-  "https://www.ign.com/articles/dan-houser-reveals-how-911-changed-gta-forever",
-  "title:Dan Houser Reveals How 9/11 Changed GTA Forever",
-  "skip:https://variety.com/2026/tv/news/michael-jackson-super-bowl-documentary-hulu-espn-1236910198/",
   "skip:https://deadline.com/2026/10/michael-jackson-super-bowl-halftime-show-documentary-1237155802/",
   "https://www.film.ru/news/treyler-novyh-spasateley-malibu",
   "title:Трейлер новых Спасателей Малибу",
@@ -998,5 +994,9 @@
   "https://www.playground.ru/crimson_desert/news/morskie_chudovischa_abordazhi_i_mnozhestvo_novyh_sekretov_poyavilis_podrobnosti_masshtabnogo_dlc_dlya_crimson_desert-1884861#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Морские чудовища, абордажи и множество новых секретов: появились подробности масштабного DLC для Crimson Desert",
   "https://www.kinonews.ru/news_143831/",
-  "title:Начались съемки третьего фильма о героях Простоквашино"
+  "title:Начались съемки третьего фильма о героях Простоквашино",
+  "skip:https://www.igromania.ru/news/169530/veroyatnuyu-ispolnitelnitsu-glavnoj-roli-v-gta-6-zavalili-voprosami-ob-igre-na-pryamoj-translyatsii/",
+  "skip:https://www.ign.com/articles/rumored-lucia-actress-goes-viral-after-dodging-swarm-of-gta-6-comments-during-livestream",
+  "https://www.ign.com/articles/dragon-ball-xenoverse-2-gets-surprise-10th-anniversary-update-this-week",
+  "title:Dragon Ball Xenoverse 2 Gets Surprise 10th Anniversary Update This Week"
 ]

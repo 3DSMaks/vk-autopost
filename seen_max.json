@@ -1,10 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/201659/a-rewritten-epic-games-launcher-has-been-released-into-early-preview-up-vibe-coded",
-  "https://gamemag.ru/news/201660/rockstar-says-its-next-game-after-grand-theft-auto-6-wont-take-another-eight-years-to-make",
-  "title:Red Dead Redemption 3? Grand Theft Auto 7? Разработка следующей игры Rockstar Games после Grand Theft Auto VI не растянется на 8-10 лет",
-  "skip:https://www.kinonews.ru/article_143658/",
-  "skip:https://www.film.ru/news/kit-vo-tme-glubin-reakciya-kritikov",
-  "https://variety.com/2026/film/news/spider-man-brand-new-day-vfx-boss-jerome-chen-hulk-1236912828/",
   "title:‘Spider-Man: Brand New Day’ VFX Boss Jerome Chen on Hulk’s Redesign, Finishing 445 Shots in a Week",
   "skip:https://www.playground.ru/castlevania_belmont_s_curse/news/pk_versiya_castlevania_belmonts_curse_debyutirovala_so_smeshannymi_otzyvami_v_steam-1881887#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.pcgamer.com/hardware/vr-hardware/valve-is-toying-with-a-steam-frame-oled-and-some-reddit-users-are-already-wondering-whether-to-wait-an-excruciatingly-long-time-for-it-even-though-it-may-never-happen/",
@@ -998,5 +992,11 @@
   "https://www.playground.ru/silent_hill_townfall/news/konami_derzhala_v_sekrete_razrabotku_neskolkih_igr_serii_silent_hill_ot_kazhdoj_iz_studij-1884957#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Konami держала в секрете разработку нескольких игр серии Silent Hill от каждой из студий",
   "https://deadline.com/2026/10/robert-pattinson-says-the-batman-part-ii-is-filming-again-1237173078/",
-  "title:Robert Pattinson Says ‘The Batman Part II’ Is Back Up And Running After Production Pause: “I’m Starting In A Couple Of Days”"
+  "title:Robert Pattinson Says ‘The Batman Part II’ Is Back Up And Running After Production Pause: “I’m Starting In A Couple Of Days”",
+  "skip:https://www.playground.ru/misc/news/sboj_v_steam_servis_rabotaet_no_chast_polzovatelej_ne_mozhet_vojti_v_svoi_akkaunty-1884963#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.pcgamer.com/games/steam-is-broken-its-still-up-but-some-users-cant-log-in/",
+  "skip:https://www.playground.ru/payday_3/news/payday_3_poluchila_krupnoe_oktyabrskoe_obnovlenie_i_nabor_guns_blazin_crimebond_v_stile_dikogo_zapada-1884960#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169533/grabitelskij-shuter-payday-3-poluchil-dlc-s-kostyumami-i-oruzhiem-v-stile-dikogo-zapada/",
+  "https://gamemag.ru/news/201842/clair-obscur-expedition-33-ozolotila-svoih-sozdateley-366-millionov-vyruchki-pri-byudjete-menee-10",
+  "title:Alinea Analytics: Clair Obscur: Expedition 33 озолотила своих создателей"
 ]

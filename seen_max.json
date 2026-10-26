@@ -1,7 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135400-pchelovod-2-tizer/",
-  "https://variety.com/2026/film/global/zendaya-to-star-in-alex-garland-sci-fi-film-a24-1236912811/",
-  "title:Zendaya to Star in Alex Garland Sci-Fi Film at A24",
   "skip:https://www.playground.ru/misc/news/pervye_obzory_nvidia_rtx_spark_platforma_oboshla_m5_max_v_lokalnom_ii_no_okazalas_spornoj_dlya_igr-1881915#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-launch-trailer/",
   "skip:https://www.pcgamer.com/hardware/gaming-laptops/nvidias-rtx-spark-makes-for-an-impressive-arm-based-gaming-laptop-but-not-one-id-recommend-you-buy-just-for-pc-gaming/",
@@ -998,5 +995,8 @@
   "title:Cronos: The New Dawn получила новое обновление - добавлен фоторежим и возможность пропускать внутриигровые ролики",
   "skip:https://variety.com/2026/film/news/keanu-reeves-maelstrom-netflix-alan-ritchson-drops-out-1236931242/",
   "https://kg-portal.ru/comments/135539-dorogu-molodym-kianu-rivz-zamenit-alana-richsona-v-boevike-netflix/",
-  "title:Дорогу молодым! Киану Ривз заменит Алана Ричсона в боевике Netflix"
+  "title:Дорогу молодым! Киану Ривз заменит Алана Ричсона в боевике Netflix",
+  "skip:https://variety.com/2026/film/news/walter-koenig-dead-chekov-star-trek-1236931312/",
+  "https://www.film.ru/news/pervyy-treyler-furii",
+  "title:Первый трейлер Фурии"
 ]

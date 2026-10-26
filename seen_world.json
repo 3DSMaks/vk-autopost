@@ -1,11 +1,4 @@
 [
-  "skip:https://ria.ru/20261024/bespilotniki-2126709327.html",
-  "https://www.kommersant.ru/doc/9059771",
-  "title:Над Ульяновской областью ПВО сбила 16 беспилотников",
-  "skip:https://www.kommersant.ru/doc/9059756",
-  "skip:https://www.interfax.ru/russia/1124700",
-  "skip:https://tass.ru/proisshestviya/28249221",
-  "https://www.rbc.ru/rbcfreenews/6adc5f8454a95426949223f5",
   "title:Промышленные объекты в Тольятти повреждены в результате массированной атаки БПЛА",
   "skip:https://tass.ru/proisshestviya/28249329",
   "skip:https://www.kommersant.ru/doc/9059766",
@@ -998,5 +991,12 @@
   "skip:https://www.rbc.ru/politics/26/10/2026/6adfadfa3a2b75d3479b27a7",
   "skip:https://www.interfax.ru/world/1125114",
   "https://tass.ru/mezhdunarodnaya-panorama/28255833",
-  "title:Дональд Трамп раскритиковал результаты президентских выборов в Бразилии"
+  "title:Дональд Трамп раскритиковал результаты президентских выборов в Бразилии",
+  "skip:https://www.kommersant.ru/doc/9061188",
+  "skip:https://ria.ru/20261026/ataka-2127162691.html",
+  "https://www.interfax.ru/russia/1125118",
+  "title:ВСУ атаковали дроном автобусное предприятие в Брянской области, есть пострадавший",
+  "skip:https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBfZHpFVUZWQUc5bHNGTFMxVF9QSkh2RUlzRVRMMEFSR3diQjdYWjIzMUllOHRFWGJ6SmVNZzNCaWFPUFk?oc=5",
+  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fRjBIdk1YQWxxdTBES2E0NGxVTHlvTXhYRE9tNV8yci1JaFV1aVRPSzJyNUhYNU9qRG00eEZiTFNqbE9EQXJDZ0liQllWWG85aEJnajVKMFg4Uy1xU1V3TEFuaE9vYkU?oc=5",
+  "title:Meta планирует провести рекордную продажу акций на сумму $95 млрд для финансирования ИИ"
 ]

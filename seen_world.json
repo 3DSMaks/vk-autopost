@@ -983,5 +983,13 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28252301",
   "skip:https://news.google.com/rss/articles/CBMitwFBVV95cUxNNG5KM0VBMzF5NW95Y3Z3U2FjOG5GNnhmUmlpSXhzOWJPSUk4MmtsSjhQQXNDZGVGdzNieUUzQ3pDUDVqcUx3aVc5RWlvRWFZTTUzbTBlWXBNMzdnVURJYm9RUkItbXFjbG5xd21kZGlZNEw5M3BYUzllMlpSWjlKSU04MFlxSXdRYUtTRGNTTUN5Q3dUUzI0bnVqSGI0X3UxOW1hdUo1aUNONlZ3WG5rQllWWG12WW8?oc=5",
   "https://www.interfax.ru/world/1124933",
-  "title:Лула да Силва переизбран президентом Бразилии, Болсонару оспаривает результаты"
+  "title:Лула да Силва переизбран президентом Бразилии, Болсонару оспаривает результаты",
+  "skip:https://ria.ru/20261026/vagony-2126962282.html",
+  "skip:https://tass.ru/proisshestviya/28252357",
+  "skip:https://www.interfax.ru/russia/1124927",
+  "https://www.interfax.ru/russia/1124935",
+  "title:В Свердловской области сошли с рельсов вагоны и загорелись цистерны",
+  "skip:https://ria.ru/20261026/koalitsiya-2126962106.html",
+  "https://tass.ru/mezhdunarodnaya-panorama/28252377",
+  "title:Арабская коалиция уничтожила две ракетные установки хуситов в Йемене"
 ]

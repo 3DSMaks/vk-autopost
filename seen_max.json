@@ -1,7 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143635/",
-  "skip:https://www.kinonews.ru/news_143634/",
-  "https://www.film.ru/news/recenzii-na-hrustalnoe-ozero",
   "title:Рецензии на Хрустальное озеро",
   "skip:https://gamemag.ru/news/201651/bloomberg-article-the-making-of-grand-theft-auto-vi",
   "skip:https://www.ign.com/articles/gta-6-developer-rockstar-insists-its-next-game-wont-take-another-8-years-to-make",
@@ -998,5 +995,8 @@
   "skip:https://www.playground.ru/misc/news/ulichnyj_boets_poteryal_72_sborov_vo_vtoroj_uikend-1884771#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.pcgamer.com/games/mass-effect/save-mass-effect-petition-hits-over-180-000-signatures-within-days-of-biowares-closure/",
   "https://gamemag.ru/news/201833/new-game-plus-black-flag-resynced-october-2026",
-  "title:Assassin's Creed: Black Flag Resynced уже на следующей неделе получит режим «Новая игра +»"
+  "title:Assassin's Creed: Black Flag Resynced уже на следующей неделе получит режим «Новая игра +»",
+  "skip:https://www.igromania.ru/news/169521/zhurnalistyi-nazvali-phantom-blade-zero-pretendentom-na-zvanie-igra-goda-usya-ekshen-poluchil-otlichnyie-otsenki/",
+  "https://stopgame.ru/newsdata/73284/tizer_tomb_raider_legacy_of_atlantis_k_30_letiyu_serii",
+  "title:Тизер Tomb Raider: Legacy of Atlantis к 30-летию серии"
 ]

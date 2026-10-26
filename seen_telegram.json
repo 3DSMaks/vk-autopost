@@ -1,6 +1,4 @@
 [
-  "skip:https://www.film.ru/news/slovo-o-polku-igoreve-ekraniziruyut",
-  "skip:https://www.kinonews.ru/news_143632/",
   "skip:https://www.kinonews.ru/news_143631/",
   "https://www.film.ru/news/tobi-maguayr-provel-svadbu",
   "title:Тоби Магуайр провел свадьбу",
@@ -998,5 +996,7 @@
   "video:2026-10-26:https://gamemag.ru/news/201833/new-game-plus-black-flag-resynced-october-2026",
   "title:Assassin's Creed: Black Flag Resynced уже на следующей неделе получит режим «Новая игра +»",
   "https://www.film.ru/news/rycar-semi-korolevstv-v-roli-zverya",
-  "title:Рыцарь Семи Королевств в роли Зверя"
+  "title:Рыцарь Семи Королевств в роли Зверя",
+  "https://www.playground.ru/stellar_blade/news/novyj_trejler_stellar_blade_dlya_switch_2_posvyatili_masshtabnomu_krossoveru_s_nier_automata-1884841#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Новый трейлер Stellar Blade для Switch 2 посвятили масштабному кроссоверу с NieR Automata"
 ]

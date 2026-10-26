@@ -1,9 +1,4 @@
 [
-  "https://www.film.ru/news/parker-pouzi-v-novom-horrore",
-  "title:Паркер Поузи в новом хорроре",
-  "https://www.playground.ru/resident_evil_requiem/news/otkrytyj_mir_i_konflikty_geroev_insajder_raskryl_detali_rannej_re_requiem_s_leonom_dzhill_shevoj_i_adoj-1881544#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Открытый мир и конфликты героев: инсайдер раскрыл детали ранней RE Requiem с Леоном, Джилл, Шевой и Адой",
-  "https://www.film.ru/news/vospominaniya-affleka-o-lige-spravedlivosti",
   "title:Воспоминания Аффлека о Лиге справедливости",
   "skip:https://www.pcgamer.com/games/life-sim/haunted-chocolatier-is-still-a-town-game-but-itll-be-more-of-an-action-rpg-its-for-the-people-in-stardew-valley-that-go-into-the-mines/",
   "skip:https://stopgame.ru/newsdata/73162/ubisoft_gotovitsya_zakryt_studiyu_avtorov_trials_i_umenshit_shtat_singapurskogo_ofisa",
@@ -998,5 +993,10 @@
   "skip:https://gamemag.ru/news/201829/former-bioware-producer-on-future-op-studios-ip-october-2026",
   "skip:https://www.ign.com/articles/rumored-lucia-actress-goes-viral-after-dodging-swarm-of-gta-6-comments-during-livestream",
   "https://www.playground.ru/until_dawn/news/eksklyuziv_ps4_neofitsialno_dobralsya_do_pk_sostoyalsya_reliz_nativnoj_rekompilyatsii_until_dawn_2015_goda-1884711#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Эксклюзив PS4 неофициально добрался до ПК - состоялся релиз нативной рекомпиляции Until Dawn 2015 года"
+  "title:Эксклюзив PS4 неофициально добрался до ПК - состоялся релиз нативной рекомпиляции Until Dawn 2015 года",
+  "skip:https://www.playground.ru/phantom_blade_zero/news/phantom_blade_zero_poluchila_vysokie_otsenki_ot_kritikov_91_ball_na_opencritic_i_88_na_metacritic-1884795#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/phantom-blade-zero-review",
+  "skip:https://gamemag.ru/news/201834/exodus-new-protagonist-face-october-2026",
+  "https://www.playground.ru/gears_of_war_e_day/news/utverzhdaetsya_chto_gears_of_war_e_day_stanet_pervoj_chastyu_trilogii_byudzhet_v_500_mln_dollarov_rasschitan_na_3_igry-1884789#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Утверждается, что Gears of War: E-Day станет первой частью трилогии - бюджет в $500 млн долларов рассчитан на 3 игры"
 ]

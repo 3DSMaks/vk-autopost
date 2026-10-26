@@ -1,7 +1,4 @@
 [
-  "title:Рецензии на Хрустальное озеро",
-  "skip:https://gamemag.ru/news/201651/bloomberg-article-the-making-of-grand-theft-auto-vi",
-  "skip:https://www.ign.com/articles/gta-6-developer-rockstar-insists-its-next-game-wont-take-another-8-years-to-make",
   "https://www.ign.com/articles/cod-modern-warfare-4-pre-load-release-times",
   "title:Call of Duty: Modern Warfare 4 Preload and Global Release Times Confirmed for Campaign, DMZ, and the Full Game",
   "skip:https://deadline.com/2026/10/busan-vision-award-zogsool-mongolia-selvi-full-moon-1237156643/",
@@ -998,5 +995,8 @@
   "title:Assassin's Creed: Black Flag Resynced уже на следующей неделе получит режим «Новая игра +»",
   "skip:https://www.igromania.ru/news/169521/zhurnalistyi-nazvali-phantom-blade-zero-pretendentom-na-zvanie-igra-goda-usya-ekshen-poluchil-otlichnyie-otsenki/",
   "https://stopgame.ru/newsdata/73284/tizer_tomb_raider_legacy_of_atlantis_k_30_letiyu_serii",
-  "title:Тизер Tomb Raider: Legacy of Atlantis к 30-летию серии"
+  "title:Тизер Tomb Raider: Legacy of Atlantis к 30-летию серии",
+  "skip:https://stopgame.ru/newsdata/73286/odin_iz_luchshih_relizov_v_tekuschem_pokolenii_chto_pishut_smi_o_phantom_blade_zero",
+  "https://stopgame.ru/newsdata/73285/sonic_x_shadow_generations_razoshlas_tirazhom_v_3_mln_kopiy",
+  "title:Sonic X Shadow Generations разошлась тиражом в 3 млн копий"
 ]

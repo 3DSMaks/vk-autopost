@@ -1,11 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMiygFBVV95cUxNd2lOTkU3cVRlN2NTOWxzMWZYZnZUSjBZeWV6VHprNk44Q0pWLXdaMjF6QU1iS1JjV2RLdkFkM2NyVUtTOXpDdHg3SThHN2tFZFozTGZIdlVaVzBqUFV2STZCMXcwbjMycDNTNWppUDdSTVZBaWxqTTR4dk5kWkFrTDM2TzVkYi1oNTNwTjluU2NmTmY5cHkxbEhhWGR4VUt5QTJub2hkalo1WExtNVc2MEoybC1YWkQxbnNoZ3l6QzB6c1lOdGJhZTdB?oc=5",
-  "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXJlUlhXa2k4Z0t0c0FMNGlNNWZyM2Y2QkdXeFhqeEFMcmduN2JZZVUwelo1aU41bHZtTUMyamxGUVB5YTVQLVQ1S2p3ZnRtVzU5ZXNsaGd1NXctODdmeEZJbTFpN0l2MlE0MFlVSHZDbWtKaVBJeTd1bkNEeF9sTVRTZVZ2VmFxT0E1X2lrOVpybnlLUHJrUTRUWjl6a1VpNGpDRm5OZ0xqRTA5?oc=5",
-  "title:Семь человек погибли при стрельбе в церкви в Иордании",
-  "skip:https://tass.ru/obschestvo/28248593",
-  "skip:https://www.interfax.ru/russia/1124663",
-  "https://www.kommersant.ru/doc/9059693",
-  "skip:https://www.rbc.ru/politics/24/10/2026/6adbdd660d56109cf3d31c02",
   "skip:https://tass.ru/proisshestviya/28248611",
   "https://ria.ru/20261024/sevastopol-2126673343.html",
   "title:Севастополь остался без света в результате атаки ВСУ на энергообъекты",
@@ -998,5 +991,12 @@
   "title:Оппозиционное студенческое движение победило на парламентских выборах в Сербии",
   "skip:https://www.rbc.ru/quote/26/10/2026/6adf4d149a79479feb760f57",
   "https://www.interfax.ru/business/1125049",
-  "title:ЦБ РФ выпустил методические рекомендации для банков по контролю происхождения крупных сумм наличных"
+  "title:ЦБ РФ выпустил методические рекомендации для банков по контролю происхождения крупных сумм наличных",
+  "skip:https://ria.ru/20261026/iran-2127115594.html",
+  "skip:https://ria.ru/20261026/katar-2127113456.html",
+  "https://tass.ru/ekonomika/28254903",
+  "title:Эмир Катара прибыл в Москву на саммит ФСЭГ",
+  "skip:https://ria.ru/20261026/samolet-2127117834.html",
+  "https://tass.ru/mezhdunarodnaya-panorama/28254883",
+  "title:Военный самолет ВВС Великобритании подал аварийный сигнал в небе и возвращается на базу"
 ]

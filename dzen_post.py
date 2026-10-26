@@ -15,6 +15,7 @@ import os
 from pathlib import Path
 import re
 import sys
+import urllib.parse
 
 import post as news
 import telegram_post as tg
@@ -28,7 +29,9 @@ PICK_SCHEMA = {'type': 'OBJECT', 'properties': {
     'index': {'type': 'INTEGER'},
     'related': {'type': 'ARRAY', 'items': {'type': 'INTEGER'}},
     'angle': {'type': 'STRING'},
-}, 'required': ['index', 'related', 'angle']}
+    'query': {'type': 'STRING'},
+    'game': {'type': 'STRING'},
+}, 'required': ['index', 'related', 'angle', 'query', 'game']}
 
 ARTICLE_SCHEMA = {'type': 'OBJECT', 'properties': {
     'title': {'type': 'STRING'},
@@ -59,7 +62,9 @@ def choose(items, recent, exclude=()):
               'Call of Duty, Assassin\'s Creed, «Гарри Поттер» и т.п.). Не бери мелкие скидки, патчи, слухи без '
               'источника и политику. Не бери темы, уже разобранные в канале (список ниже).\n'
               'index — номер выбранной новости; related — номера других новостей о ТОЙ ЖЕ истории (могут '
-              'дополнить статью фактами), можно пустой список; angle — одной фразой, под каким углом писать разбор.\n\n'
+              'дополнить статью фактами), можно пустой список; angle — одной фразой, под каким углом писать разбор; '
+              'query — 3–6 слов по-английски для поиска других статей об этой истории (название фильма/игры + суть); '
+              'game — точное официальное название видеоигры, если история про игру, иначе пустая строка.\n\n'
               f'Уже разобрано:\n{done}\n\nНовости:\n' + '\n'.join(lines))
     data = tg.gemini_json([{'text': prompt}], PICK_SCHEMA)
     by_index = {c['index']: c for c in pool}
@@ -67,6 +72,7 @@ def choose(items, recent, exclude=()):
     if not pick:
         raise RuntimeError('Gemini не выбрал тему статьи')
     related = [by_index[i] for i in data.get('related') or [] if i in by_index and i != pick['index']][:2]
+    pick = dict(pick, query=(data.get('query') or '').strip(), game=(data.get('game') or '').strip())
     return pick, related, data.get('angle', '')
 
 
@@ -213,26 +219,97 @@ def publish(chat_id, article, photos):
                                   'link_preview_options': json.dumps({'is_disabled': True})})
 
 
-MIN_PHOTOS = 3
+MIN_PHOTOS = 2   # просьба пользователя: если нашлось два фото — публикуем с двумя
+WANT_PHOTOS = 3  # но стараемся найти минимум три: ищем ещё в других статьях об этой истории и в Steam
 MAX_PHOTOS = 5
 
 
-def gather_photos(items):
-    """Фото со страниц всех источников истории; одинаковые картинки (даже другого размера) — один раз."""
-    found = []
-    for item in items:
+def add_unique(found, images):
+    for data in images:
+        fp = tg.looks_like(data)
+        if all(bin(fp ^ tg.looks_like(old)).count('1') >= 40 for old in found):  # та же картинка другого размера — нет
+            found.append(data)
+
+
+def bing_links(query, limit=5):
+    """Другие статьи об этой же истории (Bing News RSS отдаёт прямые ссылки в параметре url)."""
+    if not query:
+        return []
+    url = 'https://www.bing.com/news/search?' + urllib.parse.urlencode({'q': query, 'format': 'rss', 'setlang': 'en'})
+    try:
+        xml = news.http(url, timeout=20).decode('utf-8', 'ignore')
+    except Exception as exc:
+        print('  ! Bing News недоступен:', type(exc).__name__)
+        return []
+    out = []
+    for block in re.findall(r'<item>[\s\S]*?</item>', xml):
+        link = html.unescape(news.tag(block, 'link'))
+        link = (urllib.parse.parse_qs(urllib.parse.urlsplit(link).query).get('url') or [link])[0]
+        if link.startswith('http') and 'bing.com' not in link:
+            out.append({'link': link, 'title': news.tag(block, 'title'), 'image': ''})
+    return out[:limit]
+
+
+def steam_shots(game, limit=4):
+    """Официальные скриншоты игры из магазина Steam (Full HD)."""
+    if not game:
+        return []
+    try:
+        res = json.loads(news.http('https://store.steampowered.com/api/storesearch/?' + urllib.parse.urlencode(
+            {'term': game, 'cc': 'us', 'l': 'english'}), timeout=20))
+        app = next((i for i in res.get('items', []) if i['name'].lower() == game.lower()), (res.get('items') or [None])[0])
+        if not app:
+            return []
+        info = json.loads(news.http(f"https://store.steampowered.com/api/appdetails?appids={app['id']}", timeout=20))
+        shots = (info.get(str(app['id']), {}).get('data') or {}).get('screenshots') or []
+    except Exception as exc:
+        print('  ! Steam недоступен:', type(exc).__name__)
+        return []
+    out = []
+    for shot in shots[:limit]:
         try:
-            got = tg.pictures(item)
+            out.append(news.download_jpeg(shot['path_full'], 'https://store.steampowered.com/'))
+        except Exception:
+            continue
+    print(f"  Steam «{app['name']}»: скриншотов {len(out)}")
+    return out
+
+
+def gather_photos(items):
+    """Фото к статье: страницы источников → другие статьи об этой истории (Bing News) → скриншоты Steam.
+    Одинаковые картинки (даже другого размера) — один раз."""
+    found = []
+    pick = items[0]
+    for item in items + bing_links(pick.get('query')):
+        if len(found) >= WANT_PHOTOS:
+            break
+        try:
+            add_unique(found, tg.pictures(item))
         except Exception as exc:
             print('  ! фото не получены:', type(exc).__name__)
-            continue
-        for data in got:
-            fp = tg.looks_like(data)
-            if all(bin(fp ^ tg.looks_like(old)).count('1') >= 40 for old in found):
-                found.append(data)
-        if len(found) >= MAX_PHOTOS:
-            break
+    if len(found) < WANT_PHOTOS:
+        add_unique(found, steam_shots(pick.get('game')))
+    print(f'Фото к статье: {len(found)}')
     return found[:MAX_PHOTOS]
+
+
+def order_photos(article, photos):
+    """Gemini расставляет фото по кускам статьи: обложка — к заголовку, остальные — к подходящим разделам."""
+    captions = [re.sub(r'<[^>]+>', '', c)[:300] for c in album_captions(article, len(photos))]
+    parts = [{'text': ('Ниже фрагменты статьи по порядку и фото (номера 0..%d). Подбери к каждому фрагменту своё фото, '
+                       'которое лучше всего его иллюстрирует; каждое фото — ровно один раз. Первому фрагменту '
+                       '(заголовок) — самое эффектное фото-обложку. Верни order: номера фото по порядку фрагментов.\n\n'
+                       % (len(photos) - 1)) + '\n\n'.join(f'Фрагмент {i}: {c}' for i, c in enumerate(captions))}]
+    parts += [{'inline_data': {'mime_type': 'image/jpeg', 'data': tg.thumb_b64(d)}} for d in photos]
+    schema = {'type': 'OBJECT', 'properties': {'order': {'type': 'ARRAY', 'items': {'type': 'INTEGER'}}}, 'required': ['order']}
+    try:
+        order = tg.gemini_json(parts, schema, 60).get('order') or []
+    except RuntimeError as exc:
+        print('  ! расстановка фото пропущена:', exc)
+        return photos
+    order = [i for i in dict.fromkeys(order) if isinstance(i, int) and 0 <= i < len(photos)]
+    order += [i for i in range(len(photos)) if i not in order]
+    return [photos[i] for i in order]
 
 
 def chat():
@@ -283,7 +360,7 @@ def main():
     print(f'Статья: {len(text)} знаков, фото: {len(photos)}\n\n{text}\n')
     if preview:
         return
-    publish(chat_id, article, photos)
+    publish(chat_id, article, order_photos(article, photos))
     links = [pick['link']] + [r['link'] for r in related]
     tg.save_history(SEEN_FILE, seen, links[0], tried + links[1:], title=pick['title'])
     print('Опубликовано в канал', chat_id)

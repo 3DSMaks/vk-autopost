@@ -93,6 +93,26 @@ class DzenTests(unittest.TestCase):
                 dz.publish('@c', art, [b'jpg'])
         api.assert_not_called()
 
+    def test_more_photos_from_bing_and_steam_when_sources_have_few(self):
+        pick = {'link': 'https://a/1', 'title': 'T', 'query': 'q', 'game': 'G'}
+        seen_items = []
+        def pictures(item):
+            seen_items.append(item['link'])
+            return [b'x'] if item['link'] == 'https://a/1' else []
+        with patch.object(dz.tg, 'pictures', side_effect=pictures), \
+             patch.object(dz, 'bing_links', return_value=[{'link': 'https://b/2', 'title': 't', 'image': ''}]), \
+             patch.object(dz, 'steam_shots', return_value=[b'y', b'z']), \
+             patch.object(dz.tg, 'looks_like', side_effect=lambda d: {b'x': 0, b'y': 2**200 - 1, b'z': 2**100 - 1}[d]), quiet():
+            photos = dz.gather_photos([pick])
+        self.assertEqual(photos, [b'x', b'y', b'z'])
+        self.assertEqual(seen_items, ['https://a/1', 'https://b/2'])
+
+    def test_order_photos_keeps_every_photo_once(self):
+        art = dz.clean_article(RAW)
+        with patch.object(dz.tg, 'thumb_b64', return_value='x'), \
+             patch.object(dz.tg, 'gemini_json', return_value={'order': [2, 2, 0]}):
+            self.assertEqual(dz.order_photos(art, [b'a', b'b', b'c']), [b'c', b'a', b'b'])
+
     def test_main_publishes_and_remembers(self):
         items = [{'index': 0, 'link': 'https://a/1', 'title': 'Тема', 'summary': ''},
                  {'index': 1, 'link': 'https://a/2', 'title': 'Тема 2', 'summary': ''}]
@@ -103,6 +123,7 @@ class DzenTests(unittest.TestCase):
                  patch.object(dz, 'choose', return_value=(items[0], [items[1]], 'угол')), \
                  patch.object(dz, 'gather_photos', return_value=[b'a', b'b', b'c']), \
                  patch.object(dz, 'write', return_value=dz.clean_article(RAW)), \
+                 patch.object(dz, 'order_photos', side_effect=lambda a, p: p), \
                  patch.object(dz, 'publish') as pub, quiet():
                 dz.main()
             seen = json.loads(state.read_text(encoding='utf-8'))

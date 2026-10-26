@@ -1,9 +1,4 @@
 [
-  "skip:https://tass.ru/ekonomika/28247755",
-  "skip:https://www.interfax.ru/moscow/1124615",
-  "skip:https://ria.ru/20261023/moskva-2126614519.html",
-  "skip:https://ria.ru/20261023/aeroporty-2126614385.html",
-  "skip:https://www.interfax.ru/russia/1124607",
   "skip:https://ria.ru/20261023/moskva-2126607234.html",
   "skip:https://www.interfax.ru/moscow/1124602",
   "https://tass.ru/ekonomika/28247761",
@@ -991,5 +986,17 @@
   "title:В Свердловской области сошли с рельсов вагоны и загорелись цистерны",
   "skip:https://ria.ru/20261026/koalitsiya-2126962106.html",
   "https://tass.ru/mezhdunarodnaya-panorama/28252377",
-  "title:Арабская коалиция уничтожила две ракетные установки хуситов в Йемене"
+  "title:Арабская коалиция уничтожила две ракетные установки хуситов в Йемене",
+  "skip:https://ria.ru/20261026/vybory-2126964825.html",
+  "skip:https://www.rbc.ru/rbcfreenews/6ade7c47ed835d182faf3a36",
+  "skip:https://www.kommersant.ru/doc/9060304",
+  "skip:https://www.rbc.ru/politics/26/10/2026/6adeb24f4b44a612e73286e7",
+  "https://www.rbc.ru/politics/26/10/2026/6adeab55ec77d3fd33028121",
+  "title:Оппозиционный «Студенческий список» побеждает на досрочных парламентских выборах в Сербии",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28252459",
+  "skip:https://www.aljazeera.com/video/newsfeed/2026/10/26/lula-thanks-brazils-youth-for-historic-election-win?traffic_source=rss",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28252435",
+  "skip:https://www.kommersant.ru/doc/9060302",
+  "https://tass.ru/mezhdunarodnaya-panorama/28252471",
+  "title:Луис Инасиу Лула да Силва победил на президентских выборах в Бразилии"
 ]

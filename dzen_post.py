@@ -177,26 +177,11 @@ def chat():
     return chat_id
 
 
-def sync_bot_in(chat_id):
-    """Есть ли Синхроробот Дзена среди администраторов канала."""
-    admins = tg.api('getChatAdministrators', {'chat_id': chat_id})
-    bots = [a['user'] for a in admins if (a.get('user') or {}).get('is_bot')]
-    print('  боты-администраторы:', ', '.join(f"@{b.get('username')} ({b.get('first_name')})" for b in bots) or 'нет')
-    return any(b.get('username', '').lower() == 'zen_sync_bot' or 'дзен' in b.get('first_name', '').lower() for b in bots)
-
-
 def check():
-    main_chat = os.environ.get('TELEGRAM_CHAT_ID', '').strip()
-    if main_chat:
-        title = tg.api('getChat', {'chat_id': main_chat}).get('title', '')
-        print(f'Основной канал «{title}»: Синхроробот Дзена', 'ЕСТЬ среди админов — в Дзен пойдут все новости'
-              if sync_bot_in(main_chat) else 'не подключён (так и нужно)')
-    if not os.environ.get('DZEN_CHAT_ID', '').strip():
-        print('DZEN_CHAT_ID не задан — канал для статей ещё не подключён к боту')
-        return
+    """Бот может публиковать в канал статей. Синхроробот Дзена так не проверить: Telegram не показывает ботам
+    других ботов среди администраторов — его подключение видно только в Студии Дзена."""
     os.environ['TELEGRAM_CHAT_ID'] = chat()
     tg.check_channel()
-    print('Синхроробот Дзена в канале статей:', 'подключён' if sync_bot_in(chat()) else 'НЕ подключён')
 
 
 def main():

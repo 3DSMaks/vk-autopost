@@ -1,14 +1,4 @@
 [
-  "skip:https://ria.ru/20261024/aeroporty-2126684467.html",
-  "skip:https://ria.ru/20261024/bugulma-2126683477.html",
-  "https://tass.ru/ekonomika/28248957",
-  "title:В ряде российских аэропортов ввели временные ограничения на прием и выпуск самолетов",
-  "skip:https://www.interfax.ru/russia/1124690",
-  "skip:https://www.rbc.ru/rbcfreenews/6adc45750472e3336ace6667",
-  "skip:https://tass.ru/armiya-i-opk/28249049",
-  "skip:https://ria.ru/20261024/pvo-2126694715.html",
-  "https://www.kommersant.ru/doc/9059720",
-  "title:Минобороны РФ заявило об уничтожении 616 украинских беспилотников за ночь над регионами России",
   "skip:https://www.kommersant.ru/doc/9059718",
   "skip:https://www.interfax.ru/russia/1124687",
   "https://tass.ru/proisshestviya/28249047",
@@ -998,5 +988,15 @@
   "skip:https://www.interfax.ru/russia/1125107",
   "skip:https://www.rbc.ru/technology_and_media/26/10/2026/6adf91f64f2cfe423c1603a9",
   "https://www.kommersant.ru/doc/9061171",
-  "title:Минцифры предупредило о возможных ограничениях мобильного интернета в Москве 27-29 октября из-за саммитов"
+  "title:Минцифры предупредило о возможных ограничениях мобильного интернета в Москве 27-29 октября из-за саммитов",
+  "skip:https://tass.ru/ekonomika/28255627",
+  "https://www.interfax.ru/world/1125116",
+  "title:Совет ЕС выделил 4,7 миллиарда евро на военную помощь Украине",
+  "skip:https://www.interfax.ru/russia/1125115",
+  "skip:https://ria.ru/20261026/vuzy-2127161654.html",
+  "skip:https://ria.ru/20261026/minobrnauki-2127161241.html",
+  "skip:https://ria.ru/20261026/vuzy-2127161084.html",
+  "skip:https://tass.ru/obschestvo/28255679",
+  "https://www.kommersant.ru/doc/9061185",
+  "title:Минобрнауки утвердило распределение бюджетных мест в вузах на 2027/28 учебный год"
 ]

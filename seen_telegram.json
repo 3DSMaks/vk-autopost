@@ -1,9 +1,4 @@
 [
-  "skip:https://www.playground.ru/misc/news/microsoft_zainteresovalas_staticheskoj_rekompilyatsiej_igr_xbox_labs_izuchit_porty_bez_traditsionnoj_emulyatsii-1881512#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://stopgame.ru/newsdata/73158/xbox_otkryla_novyy_otdel_dlya_izucheniya_aktualnyh_tehnologiy",
-  "skip:https://gamemag.ru/news/201649/xbox-labs-asha-ai",
-  "skip:https://gamemag.ru/news/201646/god-of-war-laufey-a-collectors-box-without-game",
-  "skip:https://www.ign.com/articles/xbox-announces-xbox-labs-aimed-in-part-at-getting-improved-old-gen-games-playable-in-web-browsers",
   "https://gamemag.ru/news/201647/gamesbeat-grand-theft-auto-vis-pc-release-is-slated-for-q1-2027",
   "video:2026-10-14:https://gamemag.ru/news/201647/gamesbeat-grand-theft-auto-vis-pc-release-is-slated-for-q1-2027",
   "title:СМИ: Grand Theft Auto VI очень быстро потеряет статус эксклюзива консолей и выйдет на ПК — уже в начале 2027 года",
@@ -998,5 +993,10 @@
   "title:Dragon Ball Xenoverse 2 Gets Surprise 10th Anniversary Update This Week",
   "skip:https://www.playground.ru/phantom_blade_zero/news/asus_nachala_prodazhi_kollektsii_gejmerskogo_zheleza_i_periferii_rog_x_phantom_blade_zero_s_edinoj_mrachnoj_estetikoj-1884902#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.playground.ru/final_fantasy_7_part_3/news/final_fantasy_vii_revelation_predlozhit_bolee_masshtabnoe_priklyuchenie_chem_rebirth-1884910#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Final Fantasy VII Revelation предложит более масштабное приключение чем Rebirth"
+  "title:Final Fantasy VII Revelation предложит более масштабное приключение чем Rebirth",
+  "skip:https://www.ign.com/articles/epic-games-boss-tim-sweeney-doubles-down-on-valve-criticism-says-steams-ai-content-disclosure-is-a-political-act",
+  "skip:https://www.igromania.ru/news/169526/microsoft-dala-arkane-studios-dopolnitelnyij-mesyats-na-poisk-pokupatelya/",
+  "skip:https://www.pcgamer.com/gaming-industry/steam-week-in-review-ai-disclosures-enter-the-discourse-again-as-epic-ceo-calls-them-just-as-partisan-as-mandatory-political-essays/",
+  "https://www.ign.com/articles/xbox-looks-for-development-partner-to-finish-marvels-blade",
+  "title:Xbox Seeks Partner to Support Arkane Lyon as It Finishes Marvel's Blade, Extends Search for Buyer"
 ]

@@ -1,10 +1,4 @@
 [
-  "https://www.kinonews.ru/news_143639/",
-  "title:Hulu заказал производство новых \"Секретных материалов\"",
-  "https://www.playground.ru/resident_evil_requiem/news/otkrytyj_mir_i_konflikty_geroev_insajder_raskryl_detali_rannej_re_requiem_s_leonom_dzhill_shevoj_i_adoj-1881544#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Открытый мир и конфликты героев: инсайдер раскрыл детали ранней RE Requiem с Леоном, Джилл, Шевой и Адой",
-  "https://kg-portal.ru/comments/135382-prikvel-golodnye-igry-rassvet-zhatvy-smenil-datu-vyhoda-vrossijskij-prokat/",
-  "title:Приквел \"Голодные игры: Рассвет жатвы\" сменил дату выхода в российский прокат",
   "skip:https://www.playground.ru/misc/news/my_playstation_byvshij_glava_sony_rasskazal_kak_shyol_protiv_nachalstva_radi_ps3-1881549#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://gamemag.ru/news/201638/former-playstation-boss-apparently-had-a-bold-strategy-for-handling-sony-executives-he-simply-ignore",
   "https://www.playground.ru/battlefield_6/news/za_chto_my_zaplatili_igroki_raskritikovali_skiny_ot_ii_v_battlefield_6-1881550#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +992,11 @@
   "title:Juno Temple, Joey King and James McAvoy to Star in Sci-Fi Comedy Film ‘Almost You’ From ‘Ted Lasso’ Director Matt Lipsey (EXCLUSIVE)",
   "skip:https://gamemag.ru/news/201841/geympley-vytyagivaet-vse-poyavilis-pervye-ocenki-phantom-blade-zero",
   "https://www.playground.ru/stalker_2/news/s_t_a_l_k_e_r_2_poluchil_obnovlenie_2_1_s_uvelichennoj_dalnostyu_otobrazheniya_npc_i_bystrym_peremescheniem-1884937#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:S.T.A.L.K.E.R. 2 получил обновление 2.1 с увеличенной дальностью отображения NPC и быстрым перемещением"
+  "title:S.T.A.L.K.E.R. 2 получил обновление 2.1 с увеличенной дальностью отображения NPC и быстрым перемещением",
+  "skip:https://www.pcgamer.com/hardware/phantom-blade-zero-devs-say-the-game-needs-300-gb-of-free-space-for-the-pre-load-process-alongside-updated-system-requirements/",
+  "skip:https://www.igromania.ru/news/169532/sozdateli-cyberpunk-edgerunners-ne-isklyuchayut-vozmozhnost-vyipuska-tretego-sezona/",
+  "skip:https://stopgame.ru/newsdata/73290/tretiy_sezon_cyberpunk_edgerunners_mozhet_vyyti_esli_naydetsya_dostoynaya_istoriya",
+  "https://gamemag.ru/news/201839/igroki-prosyat-spasti-mass-effect",
+  "video:2026-10-26:https://gamemag.ru/news/201839/igroki-prosyat-spasti-mass-effect",
+  "title:Более 200 тысяч игроков призвали Electronic Arts спасти Mass Effect или передать серию другой студии"
 ]

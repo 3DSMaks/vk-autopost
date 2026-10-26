@@ -1,12 +1,4 @@
 [
-  "skip:https://www.interfax.ru/moscow/1124660",
-  "https://www.interfax.ru/world/1124666",
-  "title:Пляжи в ОАЭ закрыли из-за разлива нефти, а танкеры подорвались на минах в Ормузском проливе",
-  "skip:https://tass.ru/ekonomika/28248509",
-  "https://www.kommersant.ru/doc/9059412",
-  "title:Чистая прибыль «Фосагро» за девять месяцев снизилась в три раза",
-  "skip:https://news.google.com/rss/articles/CBMipgFBVV95cUxPNlBURXk2bjFrc3ZkS2YxamJJM1RjZ1lOblh6ZTJPWTdrbHpPWjJIdzZMdjdBR0pOZFZ1eHhOcnUxRllDOGMweV9NN1JpU28yMmpEeFMwaFBweFk5bGR1QnRBd2NfdXI4Tk1uOWdjNFRhR2dZOG9BNGVWN1ZhQjBIdkloVEsxaUxkWlJJMTFjbnRCZ3I5dkgtN0U4bXBfbnZQVzliVThn?oc=5",
-  "skip:https://www.kommersant.ru/doc/9059400",
   "https://www.kommersant.ru/doc/9059691",
   "skip:https://www.interfax.ru/world/1124665",
   "skip:https://news.google.com/rss/articles/CBMitAFBVV95cUxOZjhrQTB6UmEzUzQ0N1RPV1BiZXhoaGdyWmhCTVpTTWgydnE3aEd0WHJHXzlpR09JXzh0SVpGSHkzc0JJR2g4M21MbVM1dUljQzd4UWNrSnlDWkw2SlgzOHlITmpJNHpuTTAtMmdPMXdXR0JGQlF4LUtHMTUxSWdWeVRoZVhMRlJtY0NmNHp4enJ2NzVwdE5xUm1zdVRfZ0pYdE0wRGFpU0k0eGpMZTlpNEl2bmQ?oc=5",
@@ -998,5 +990,13 @@
   "skip:https://www.interfax.ru/russia/1125032",
   "skip:https://ria.ru/20261026/rf-2127085964.html",
   "https://ria.ru/20261026/rossija-2127095391.html",
-  "title:Россия и Словакия договорились о возобновлении сотрудничества и подписали протокол"
+  "title:Россия и Словакия договорились о возобновлении сотрудничества и подписали протокол",
+  "skip:https://www.rbc.ru/quote/26/10/2026/6adf53619a7947714cbf2624",
+  "skip:https://news.google.com/rss/articles/CBMikAFBVV95cUxPNlh5REtLQ3ZiYnhaV0ZnZXRhMVkwV282YXN2ODFlQjA4NWx4UHdUWlNwV1lXZnFHcDZ2S2NkMGF3VnVkczNGb1NVQnJNSk5XdEIyTHZRTUlGYlFVSXpadjNTT0VsVjhMUUxqRExWOEdENGM3bl9HUmJ5eEwzT0Jhc2xRNzdfX1RpV3VVcjNxYjM?oc=5",
+  "skip:https://www.kommersant.ru/doc/9060956",
+  "skip:https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVlfUU5UYnVIOHVRRHJCaWJNQ0NtM0V5aXdZUE5QSEhGVTAxWmdXcU1KeGVEaEtYTXlEal9YNjMwblR6bGZQcm5HODd6N2xnNUppZzdXMDVTSWwtZEc3a3p3Q0M4VzRtaHo3QTd1VDJpaGNPQmw0WjFNaEMyQ2JyOVpGcmZEbktIdk45OHp4blZxdzc5UllRT2V1cnllVTVVTjVYZm1IZ0VjWDlwTnc?oc=5",
+  "skip:https://tass.ru/ekonomika/28254653",
+  "skip:https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVVZWVV6TXQtR3ZqaWZKZERKZ3J3VVpIZlNtUjVfRjdTS0tuVTlRQ0F0UzRhcW9Hd2hxR1BtNzF4UVBVYXBpTkc0Rmozb3pRekc2RVNnOVBYd19KUGZ5VE1UN29haXQ2M0w0Qk1QTm5INk5KRlhxLUR6Q3REWHR3OG9EYkpFMGJUUm5HMGFiX3pBLXhZMHV5Qkgwdlc0RTczMnhOc3Q4NFpORFE5SlRfRkVDOWdmZw?oc=5",
+  "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+  "title:Искусственный интеллект-гигант Anthropic подал заявку на первичное размещение акций (IPO)"
 ]

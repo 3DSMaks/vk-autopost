@@ -1,11 +1,4 @@
 [
-  "title:Массовые протесты и столкновения с полицией во Франции",
-  "skip:https://www.interfax.ru/russia/1124786",
-  "skip:https://tass.ru/obschestvo/28250043",
-  "skip:https://ria.ru/20261024/omsk-2126772011.html",
-  "skip:https://www.rbc.ru/politics/24/10/2026/6adcce2bd62b94fdb2f09293",
-  "skip:https://ria.ru/20261024/vsu-2126766891.html",
-  "skip:https://www.rbc.ru/politics/24/10/2026/6adcce9a3c765fe671670ddc",
   "skip:https://www.interfax.ru/russia/1124784",
   "https://tass.ru/proisshestviya/28250059",
   "title:Атака беспилотников на Омск и отмена режима беспилотной опасности",
@@ -998,5 +991,12 @@
   "skip:https://ria.ru/20261027/bryansk-2127229859.html",
   "skip:https://tass.ru/proisshestviya/28257063",
   "https://www.interfax.ru/russia/1125201",
-  "title:Число погибших при атаке беспилотника в Брянске возросло до двух"
+  "title:Число погибших при атаке беспилотника в Брянске возросло до двух",
+  "skip:https://www.aljazeera.com/video/newsfeed/2026/10/27/israelis-begin-voting-as-netanyahu-fights-for-political-survival?traffic_source=rss",
+  "skip:https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
+  "skip:https://www.france24.com/en/middle-east/20261027-live-polls-open-in-first-israeli-election-since-october-7-attack",
+  "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9NOEllM0V6d2pNSU82SmxCRmNYRWxZaWJ0bC1XNFRZMUNlRFZIRC1rT2ZHUG12Mmw5dUg5ZHRxS3dHN1U?oc=5",
+  "skip:https://www.interfax.ru/russia/1125198",
+  "https://ria.ru/20261027/podrostki-2127236605.html",
+  "title:В Новосибирской области подростков приговорили к реальным срокам по делу о диверсии"
 ]

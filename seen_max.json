@@ -1,8 +1,4 @@
 [
-  "skip:https://variety.com/2026/film/news/netflix-bela-bajaria-why-did-she-leave-1236913635/",
-  "https://kg-portal.ru/comments/135408-promoart-filma-djuna-chast-3/",
-  "title:Властный Тимоти Шаламе и обиженная Зендея на новых кадрах \"Дюны: Часть 3\"",
-  "skip:https://www.playground.ru/call_of_duty_2026/news/activision_pozhalovalas_na_obestsenivanie_dostizhenij_call_of_duty_so_storony_igrovyh_smi-1882107#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169238/novaya-igra-sozdatelej-vedmaka-i-cyberpunk-2077-obretaet-sebya-cdpr-dorabotala-kontseptsiyu-mira/",
   "skip:https://www.ign.com/articles/remedy-boss-reacts-after-control-resonant-sells-1-million-copies-becoming-studios-fastest-selling-game",
   "skip:https://gamemag.ru/news/201675/call-of-duty-confirm-activision-new-sub-franchise",
@@ -998,5 +994,9 @@
   "skip:https://variety.com/2026/film/global/david-bowie-immersive-concert-experience-stage-berlin-1236931930/",
   "skip:https://kg-portal.ru/comments/135549-sarik-andreasjan-uzhe-snimaet-kanikuly-v-prostokvashino-tretju-chast-svoego-kassovogo-hita/",
   "https://www.film.ru/news/data-vyhoda-novyh-spasateley-malibu",
-  "title:Дата выхода новых Спасателей Малибу"
+  "title:Дата выхода новых Спасателей Малибу",
+  "skip:https://www.ign.com/articles/pokemon-unite-offline-2027-in-game-sales-suspended",
+  "skip:https://www.igromania.ru/news/169554/populyarnaya-moba-s-pokemonami-pokemon-unite-zakroetsya-v-marte-2027-goda-na-vseh-ustrojstvah/",
+  "https://stopgame.ru/newsdata/73301/detali_o_novoy_igre_i_rezhime_koshmar_v_asssassins_creed_black_flag_resynced",
+  "title:Детали о «Новой игре +» и режиме «Кошмар» в Asssassin's Creed Black Flag Resynced"
 ]

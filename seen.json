@@ -838,5 +838,8 @@
   "skip:https://kg-portal.ru/comments/135543-rezhisser-godzilly-minus-odin-debjutiruet-v-gollivude-s-mnogoobeschajuschimi-molodymi-akterami-i-polom-dzhamatti/",
   "skip:https://www.kinonews.ru/news_143838/",
   "https://www.kinonews.ru/news_143840/",
-  "title:Сериал \"Тверская\" стал лидером недели на российском телевидении"
+  "title:Сериал \"Тверская\" стал лидером недели на российском телевидении",
+  "skip:https://www.kinonews.ru/news_143839/",
+  "https://kg-portal.ru/comments/135544-v-blizhajshie-dni-betmen-vozvraschaetsja-na-dezhurstvo-stiven-soderberg-vozobnovil-semki-sikvela/",
+  "title:В ближайшие дни Бэтмен возвращается на дежурство: Стивен Содерберг возобновил съёмки сиквела"
 ]

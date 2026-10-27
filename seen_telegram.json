@@ -1,9 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/games/moba/3-months-after-launch-riot-announces-league-of-legends-classic-will-be-killed-in-january-most-have-gone-back-to-other-parts-of-league/",
-  "https://stopgame.ru/newsdata/73179/obnovlennaya_grafika_nuar_rezhim_i_udalennye_sceny_trailer_the_wolf_among_us_remastered",
-  "title:Обновлённая графика, нуар-режим и удалённые сцены — трейлер The Wolf Among Us Remastered",
-  "skip:https://variety.com/2026/film/global/zendaya-to-star-in-alex-garland-sci-fi-film-a24-1236912811/",
-  "skip:https://deadline.com/2026/10/zendaya-joins-alex-garland-sci-fi-film-a24-1237157801/",
   "skip:https://kg-portal.ru/comments/135400-pchelovod-2-tizer/",
   "https://variety.com/2026/film/news/spider-man-brand-new-day-vfx-boss-jerome-chen-hulk-1236912828/",
   "title:‘Spider-Man: Brand New Day’ VFX Boss Jerome Chen on Hulk’s Redesign, Finishing 445 Shots in a Week",
@@ -998,5 +993,10 @@
   "title:Слух: The Coalition планирует сюжетное DLC для Gears of War: E-Day и проект во вселенной Маятниковых войн",
   "skip:https://www.film.ru/news/kto-sygraet-roditeley-garri-pottera",
   "https://www.kinonews.ru/news_143838/",
-  "title:Билл Найи сыграет в триллере Альфонсо Куарона"
+  "title:Билл Найи сыграет в триллере Альфонсо Куарона",
+  "skip:https://www.playground.ru/assassins_creed_4_black_flag/news/assassins_creed_black_flag_resynced_poluchila_finalnoe_krupnoe_obnovlenie_s_novoj_igroj_i_koshmarnoj_slozhnostyu-1885245#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.pcgamer.com/games/call-of-duty/call-of-duty-passes-usd40-billion-in-lifetime-revenue-making-it-one-of-the-most-lucrative-videogame-franchise-ever/",
+  "skip:https://stopgame.ru/newsdata/73301/detali_o_novoy_igre_i_rezhime_koshmar_v_asssassins_creed_black_flag_resynced",
+  "https://www.igromania.ru/news/169564/obnovlenie-dlya-cyberpunk-2077-k-vyihodu-cyberpunk-edgerunners-2-dobralos-do-nintendo-switch-2/",
+  "title:Обновление для Cyberpunk 2077 к выходу Cyberpunk: Edgerunners 2 добралось до Nintendo Switch 2"
 ]

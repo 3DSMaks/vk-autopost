@@ -1,8 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73169/xbox_anonsirovala_portativnyy_geympad_nano_controller",
-  "skip:https://gamemag.ru/news/201650/narnia-the-magicians-nephew-trailer",
-  "https://www.playground.ru/gta_6/news/rockstar_vossozdast_klimat_floridy_v_gta_6_cherez_prodvinutuyu_sistemu_potootdeleniya_personazhej-1881816#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Rockstar воссоздаст климат Флориды в GTA 6 через продвинутую систему потоотделения персонажей",
   "https://www.kinonews.ru/news_143652/",
   "title:Тестовые показы \"Хроник Нарнии\" Греты Гервиг назвали \"катастрофой\"",
   "skip:https://www.pcgamer.com/games/rts/legendary-composer-frank-klepacki-says-the-rts-genre-isnt-dead-but-he-would-like-to-see-devs-get-a-little-more-creative-with-it/",
@@ -998,5 +994,9 @@
   "https://www.playground.ru/resident_evil_code_veronica_x/news/remejk_resident_evil_code_veronica_neskolko_raz_perezapuskali_vo_vremya_razrabotki-1885160#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Ремейк Resident Evil Code: Veronica несколько раз перезапускали во время разработки",
   "https://www.playground.ru/misc/news/tsifrovye_prodazhi_capcom_prevysili_92_na_fone_silnyh_rezultatov_resident_evil_i_monster_hunter-1885176#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Цифровые продажи Capcom превысили 92% на фоне сильных результатов Resident Evil и Monster Hunter"
+  "title:Цифровые продажи Capcom превысили 92% на фоне сильных результатов Resident Evil и Monster Hunter",
+  "skip:https://deadline.com/2026/10/brett-morgen-david-bowie-immersive-concert-berlin-1237205735/",
+  "skip:https://kg-portal.ru/comments/135549-sarik-andreasjan-uzhe-snimaet-kanikuly-v-prostokvashino-tretju-chast-svoego-kassovogo-hita/",
+  "https://kg-portal.ru/comments/135537-postery-filma-djuna-chast-3/",
+  "title:Сложные лица эпического конца: персонажные плакаты эпика \"Дюна: Часть 3\""
 ]

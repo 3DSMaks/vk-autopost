@@ -1,10 +1,4 @@
 [
-  "https://www.kinonews.ru/news_143682/",
-  "title:Грете Гервиг первой удалось заполучить главный хит Led Zeppelin",
-  "skip:https://www.igromania.ru/news/169244/malenkij-tim-bez-uma-ot-gejba-glavu-epic-games-vyismeyali-za-popyitki-prinizit-valve/",
-  "skip:https://www.ign.com/articles/heres-our-first-look-at-dark-link-in-the-legend-of-zelda-ocarina-of-time-remake",
-  "https://www.ign.com/articles/cyberpunk-2077-movie-not-retelling",
-  "title:The Live-Action Cyberpunk 2077 Movie Won't Retrace the Game's Steps, CD Projekt Confirms",
   "https://www.film.ru/articles/problema-vyravnivaniya-obzor-pervyh-epizodov-seriala-kvest-vizhna",
   "title:Проблема выравнивания: обзор первых эпизодов сериала «Квест Вижна»",
   "skip:https://www.igromania.ru/news/169246/stranger-than-heaven-avtorov-yakuza-poluchila-syuzhetnyij-trejler-s-nachalom-priklyuchenij/",
@@ -998,5 +992,11 @@
   "skip:https://www.playground.ru/half_life_alyx/news/kompaniya_valve_obnovila_half_life_alyx_i_dobavila_fovealnyj_rendering_na_pk-1885272#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.pcgamer.com/hardware/vr-hardware/half-life-alyx-patch-adds-foveated-rendering-support-a-mere-6-years-after-the-games-release/",
   "https://www.playground.ru/elder_scrolls_5_skyrim/news/modifikatsiya_delirium_dobavila_v_the_elder_scrolls_5_skyrim_protsedurnuyu_fiziku_padenij_i_popadanij_v_stile_gta_4-1885263#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Модификация Delirium добавила в The Elder Scrolls 5 Skyrim процедурную физику падений и попаданий в стиле GTA 4"
+  "title:Модификация Delirium добавила в The Elder Scrolls 5 Skyrim процедурную физику падений и попаданий в стиле GTA 4",
+  "skip:https://www.igromania.ru/news/169568/gta-6-stala-glavnoj-temoj-novogo-zhurnala-edge-novyie-skrinshotyi-i-detali-raskroyut-29-oktyabrya/",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/edge-magazine-went-to-rockstar-to-see-gta-6-and-will-tell-you-all-about-in-lavish-detail-this-thursday-october-29/",
+  "skip:https://stopgame.ru/newsdata/73305/obschaya_vyruchka_serii_call_of_duty_pereshagnula_za_s40_mlrd_posle_vyhoda_modern_warfare_4",
+  "skip:https://stopgame.ru/newsdata/73304/modern_warfare_4_cyberpunk_2077_i_phantom_blade_zero_tolkayutsya_u_vershiny_charta_prodazh_steam",
+  "https://www.playground.ru/fable_2026/news/zatonuvshie_korabli_i_atmosfernye_skrinshoty_avtory_fable_raskryli_detali_mrachnogo_regiona_prizrachnye_topi-1885288#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Затонувшие корабли и атмосферные скриншоты: авторы Fable раскрыли детали мрачного региона Призрачные топи"
 ]

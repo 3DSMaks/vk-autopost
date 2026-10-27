@@ -1,14 +1,4 @@
 [
-  "title:При массированной атаке беспилотников на Белгород погиб человек и пострадали десять",
-  "skip:https://tass.ru/ekonomika/28250445",
-  "https://www.interfax.ru/russia/1124816",
-  "title:Аэропорты Казани, Самары, Ульяновска и Чебоксар ввели временные ограничения на полеты",
-  "skip:https://www.interfax.ru/russia/1124819",
-  "skip:https://www.kommersant.ru/doc/9059929",
-  "https://www.rbc.ru/rbcfreenews/6add435cd62b94fdb2f092ef",
-  "title:При массированной атаке БПЛА на Белгород погиб человек и пострадали десять",
-  "skip:https://news.google.com/rss/articles/CBMimAFBVV95cUxPdnRyUDhLbG9kZ1I5a0dkSzJyUjVLSnVYSkI0dV9aNHkxWWUyZk9sSlh2R01ha2dIeEdmR2p3LV8zdjgyWjBoRXRwQXRhOVloWHhQVXk0QnJCOFFscFFzNWw4VHppNTZJVzlBamExTE1DRzNrc3VVNmhtUTcwTWhDeGljVW1lbUpHbUxpbF9YZXZmQXhucFVxSA?oc=5",
-  "skip:https://tass.ru/sport/28250417",
   "skip:https://news.google.com/rss/articles/CBMiogFBVV95cUxNR3FXR3pTRGF5SDNQWmtrWDE5WVRFclJucWNWQm1jNW9ST0hYS01UcXRwVGtsLTRVeGdlUzVZNjJmN1JlZVVwaU5pM0dVSXE0T0FiaWREb1ZTdnBRYXlqOGRsN3lRYnVXN01Cd2dwMEJacFV4aW1helZDejBMU0VXZFBOVXRVTG0xeUtWN2M3YWZzSWVYLWJOZFI0SFIxbTFTVmc?oc=5",
   "skip:https://ria.ru/20261025/formula-2126807154.html",
   "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMFVDNEFlQlNPVTlHTG9Mc3N2YVljQjJDVEpZUEc1UVp5T2poUzlvRG1zbjRKMnp2V1R1OU93dTBJYWFQS2N0dXlpclZjbWpGSTZtd2NEdFlVYzVKbXpYSFhjYzZDcVNURG5nTi1leURRR1pfcE9oVmlWVWxUQkRMRTRuMENSZ3BJV2JGOGEzSVp2aTVSemNieDRULUVGRGRFaWtv?oc=5",
@@ -998,5 +988,15 @@
   "skip:https://ria.ru/20261027/pvo-2127307565.html",
   "skip:https://tass.ru/proisshestviya/28258591",
   "https://www.rbc.ru/rbcfreenews/6ae0aa2ab925c9fdcfe6fbb7",
-  "title:Силы ПВО сбили шесть беспилотников, летевших на Москву"
+  "title:Силы ПВО сбили шесть беспилотников, летевших на Москву",
+  "skip:https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin?traffic_source=rss",
+  "skip:https://ria.ru/20261027/premer-2127313680.html",
+  "skip:https://ria.ru/20261027/razgovor-2127313501.html",
+  "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+  "title:Лидеры Финляндии и Норвегии провели телефонный разговор с Владимиром Путиным",
+  "skip:https://www.rbc.ru/politics/27/10/2026/6ae0b187b925c9fdcfe6fbd6",
+  "skip:https://ria.ru/20261027/orl-2127317043.html",
+  "skip:https://tass.ru/proisshestviya/28258735",
+  "https://www.interfax.ru/russia/1125281",
+  "title:Число погибших при ракетном ударе по заводу в Орле возросло до пяти"
 ]

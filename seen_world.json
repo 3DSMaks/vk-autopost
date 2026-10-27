@@ -1,10 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1124777",
-  "https://www.kommersant.ru/doc/9059892",
-  "title:Логистический центр Ozon и промышленная зона в Омске подверглись атаке БПЛА",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28249965",
-  "skip:https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss",
-  "skip:https://ria.ru/20261024/zelenskij-2126757357.html",
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVklsWE9QVlFHcHRES2xGTXNTVEtudENYZTR6aFRMZmVuaENzXzBCb0twTjdadFhWY3V3Nkw4aWZTLVJmYjF4OTVmR0haOERYVGlFSFB0a1lsQUUyVDM2UF9lZ3QyeTJ3QzVGN0J0eEF5UEsyanhKaUNHZmpaZnA1eVFsWkVKdHhkdVJjTWZrSGtHOHN0aC1JN0JkbTByTE1vaG5vc2dPWUswNkZxYTN3aFV2WkJZbVlwNlJtZU1R?oc=5",
   "title:На Украине заявили о полном восстановлении работы систем Starlink",
   "skip:https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
@@ -998,5 +992,11 @@
   "title:В Израиле начались парламентские выборы",
   "skip:https://tass.ru/ekonomika/28256779",
   "https://www.interfax.ru/russia/1125187",
-  "title:ФАС проводит антикартельные проверки переработчиков семян подсолнечника"
+  "title:ФАС проводит антикартельные проверки переработчиков семян подсолнечника",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28256927",
+  "https://www.rbc.ru/politics/27/10/2026/6ae04ec1232252d14b481da4",
+  "title:СМИ сообщили о возможном обсуждении ассоциации Канады с ЕС на саммите в Монреале из-за кредита Украине",
+  "skip:https://tass.ru/ekonomika/28256951",
+  "https://www.interfax.ru/business/1125196",
+  "title:Россия за восемь месяцев увеличила объем несырьевого неэнергетического экспорта на 7,3%"
 ]

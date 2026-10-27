@@ -1,8 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/games/strategy/the-shogun-2-remaster-is-so-bad-sega-is-removing-it-from-sale-and-bringing-back-the-original/",
-  "skip:https://www.playground.ru/bad_cheese/news/v_epic_games_store_startovala_razdacha_horrora_bad_cheese_i_golovolomki_agent_a-1881943#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.ign.com/articles/over-30-new-gta-6-screenshots-from-the-launch-trailer",
-  "skip:https://www.ign.com/articles/total-war-shogun-2-remaster-pulled-from-sale",
   "skip:https://www.igromania.ru/news/169224/horror-bad-cheese-i-shpionskuyu-golovolomku-agent-a-stali-besplatno-otdavat-v-egs/",
   "skip:https://www.igromania.ru/news/169223/razgromlennuyu-fanatami-total-war-shogun-2-complete-edition-vremenno-snimut-s-prodazhi/",
   "skip:https://stopgame.ru/newsdata/73182/tolko_lyubov_nikogda_ne_kolebletsya_trailer_k_zapusku_gta_vi",
@@ -998,5 +994,9 @@
   "skip:https://stopgame.ru/newsdata/73302/tirazh_onimusha_way_of_the_sword_pochti_doshel_do_2_mln_kopiy_otchet_capcom",
   "skip:https://www.igromania.ru/news/169557/capcom-vernulas-s-obnovlyonnyimi-prodazhami-igr-novaya-onimusha-pragmata-resident-evil-i-drugie/",
   "https://www.playground.ru/gta_6/news/grand_theft_auto_6_stanet_glavnoj_temoj_svezhego_vypuska_zhurnala_edge_fanaty_uzhe_nashli_novye_skrinshoty_igry-1885295#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Grand Theft Auto 6 станет главной темой свежего выпуска журнала Edge - фанаты уже нашли новые скриншоты игры"
+  "title:Grand Theft Auto 6 станет главной темой свежего выпуска журнала Edge - фанаты уже нашли новые скриншоты игры",
+  "skip:https://gamemag.ru/news/201869/glava-epic-games-tim-suini-valve-godami-tormozit-razvitie-industrii",
+  "https://gamemag.ru/news/201861/v-final-fantasy-vii-revelation-igroki-snova-smogut-posetit-gorod-midgar-no-s-bolshim-syurprizom",
+  "video:2026-10-27:https://gamemag.ru/news/201861/v-final-fantasy-vii-revelation-igroki-snova-smogut-posetit-gorod-midgar-no-s-bolshim-syurprizom",
+  "title:Мидгар станет ещё больше: В Final Fantasy VII Revelation игрокам позволят исследовать новые районы знаменитого города"
 ]

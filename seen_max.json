@@ -1,8 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73195/guns_of_eschaton_vyydet_8_dekabrya_smotrite_novyy_trailer",
-  "skip:https://www.igromania.ru/news/169230/otmenennaya-assassins-creed-s-podzagolovkom-destiny-v-seti-poyavilsya-pervyij-gejmplej/",
-  "skip:https://www.playground.ru/misc/news/assasin_s_boevym_zontom_slili_gejmplej_otmenyonnoj_assassins_creed_destiny-1882071#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.pcgamer.com/gaming-industry/us-lawmaker-calls-videogame-purchases-rentals-disguised-as-sales-when-you-pay-for-a-game-you-should-own-it/",
   "skip:https://www.pcgamer.com/software/platforms/steam-achievements-are-getting-a-huge-overhaul-with-separate-sets-for-dlc-and-season-passes-and-an-easy-way-to-compare-with-friends/",
   "skip:https://www.playground.ru/misc/news/zaplatil_znachit_tvoyo_v_ssha_predlozhili_zaschitit_pokupatelej_igr-1882067#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.playground.ru/misc/news/runescape_reignited_otmenili_spustya_12_dnej_posle_anonsa_razrabotchiki_prislushalis_k_igrokam-1882065#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +994,9 @@
   "skip:https://kg-portal.ru/comments/135544-v-blizhajshie-dni-betmen-vozvraschaetsja-na-dezhurstvo-stiven-soderberg-vozobnovil-semki-sikvela/",
   "skip:https://www.kinonews.ru/news_143836/",
   "https://kg-portal.ru/comments/135543-rezhisser-godzilly-minus-odin-debjutiruet-v-gollivude-s-mnogoobeschajuschimi-molodymi-akterami-i-polom-dzhamatti/",
-  "title:Режиссёр \"Годзиллы: Минус один\" дебютирует в Голливуде с многообещающими молодыми актёрами и Полом Джаматти"
+  "title:Режиссёр \"Годзиллы: Минус один\" дебютирует в Голливуде с многообещающими молодыми актёрами и Полом Джаматти",
+  "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/activision_vyskazalas_o_sorevnovatelnom_balanse_i_krossplee_v_call_of_duty_na_nintendo_switch_2-1885133#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/misc/news/dc_studios_dejstvitelno_hochet_zapoluchit_zvezdu_richera_no_poka_ne_opredelilas_s_rolyu-1885124#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "https://www.igromania.ru/news/169548/seriya-call-of-duty-zarabotala-40-mlrd-dollarov-rasskazala-glava-xbox-asha-sharma/",
+  "title:Серия Call of Duty заработала 40 млрд долларов — рассказала глава Xbox Аша Шарма"
 ]

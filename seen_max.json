@@ -1,7 +1,4 @@
 [
-  "https://www.film.ru/articles/problema-vyravnivaniya-obzor-pervyh-epizodov-seriala-kvest-vizhna",
-  "title:Проблема выравнивания: обзор первых эпизодов сериала «Квест Вижна»",
-  "skip:https://www.igromania.ru/news/169246/stranger-than-heaven-avtorov-yakuza-poluchila-syuzhetnyij-trejler-s-nachalom-priklyuchenij/",
   "skip:https://www.playground.ru/project_century/news/novyj_trejler_stranger_than_heaven_priotkryvaet_zavesu_tajny_nad_syuzhetom_svyazannym_s_gorodom_kokura-1882244#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://gamemag.ru/news/201686/zero-parades-for-dead-spies-switch-2",
   "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-hands-on-preview",
@@ -998,5 +995,8 @@
   "skip:https://stopgame.ru/newsdata/73305/obschaya_vyruchka_serii_call_of_duty_pereshagnula_za_s40_mlrd_posle_vyhoda_modern_warfare_4",
   "skip:https://stopgame.ru/newsdata/73304/modern_warfare_4_cyberpunk_2077_i_phantom_blade_zero_tolkayutsya_u_vershiny_charta_prodazh_steam",
   "https://www.playground.ru/fable_2026/news/zatonuvshie_korabli_i_atmosfernye_skrinshoty_avtory_fable_raskryli_detali_mrachnogo_regiona_prizrachnye_topi-1885288#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Затонувшие корабли и атмосферные скриншоты: авторы Fable раскрыли детали мрачного региона Призрачные топи"
+  "title:Затонувшие корабли и атмосферные скриншоты: авторы Fable раскрыли детали мрачного региона Призрачные топи",
+  "skip:https://www.film.ru/news/kto-sygraet-roditeley-garri-pottera",
+  "https://deadline.com/2026/10/elden-ring-biggest-movie-on-sale-market-amazon-joins-a24-1237201368/",
+  "title:A24’s Fantasy Epic ‘Elden Ring’ Heads To AFM As The Biggest Movie Ever On Sale At A Market; Amazon Joins Pic Starring Kit Connor"
 ]

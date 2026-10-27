@@ -1,10 +1,4 @@
 [
-  "skip:https://www.playground.ru/misc/news/pervye_obzory_nvidia_rtx_spark_platforma_oboshla_m5_max_v_lokalnom_ii_no_okazalas_spornoj_dlya_igr-1881915#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-launch-trailer/",
-  "skip:https://www.pcgamer.com/hardware/gaming-laptops/nvidias-rtx-spark-makes-for-an-impressive-arm-based-gaming-laptop-but-not-one-id-recommend-you-buy-just-for-pc-gaming/",
-  "skip:https://stopgame.ru/newsdata/73182/tolko_lyubov_nikogda_ne_kolebletsya_trailer_k_zapusku_gta_vi",
-  "skip:https://gamemag.ru/news/201673/gta-6-launch-trailer",
-  "skip:https://www.playground.ru/gta_6/news/ostalsya_vsego_lish_mesyats_smotrim_reliznyj_trejler_gta_6_samaya_ozhidaemaya_igra_vyjdet_v_noyabre-1881900#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.ign.com/articles/gta-6-launch-trailer-teases-jasons-troubled-past-a-steamy-shower-scene-with-lucia-and-much-more",
   "skip:https://www.igromania.ru/news/169221/gta-6-poluchila-reliznyij-trejler-igra-tochno-vyijdet-19-noyabrya/",
   "skip:https://gamemag.ru/news/201670/gta-6-is-officially-eligible-for-the-game-awards-2026",
@@ -998,5 +992,11 @@
   "title:Дорогу молодым! Киану Ривз заменит Алана Ричсона в боевике Netflix",
   "skip:https://variety.com/2026/film/news/walter-koenig-dead-chekov-star-trek-1236931312/",
   "https://www.film.ru/news/pervyy-treyler-furii",
-  "title:Первый трейлер Фурии"
+  "title:Первый трейлер Фурии",
+  "skip:https://www.film.ru/news/amanda-sayfred-i-strazhi-galaktiki",
+  "skip:https://www.film.ru/news/kianu-rivz-vmesto-alana-richsona",
+  "skip:https://www.kinonews.ru/news_143835/",
+  "skip:https://www.kinonews.ru/news_143834/",
+  "https://www.film.ru/news/zvezdy-filma-ot-rezhissera-godzilly-minus-odin",
+  "title:Звезды фильма от режиссера Годзиллы: Минус один"
 ]

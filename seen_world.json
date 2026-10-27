@@ -1,11 +1,4 @@
 [
-  "skip:https://ria.ru/20261025/orel-2126881533.html",
-  "https://www.interfax.ru/russia/1124876",
-  "title:Число жертв и пострадавших при ракетном ударе по заводу в Орле возросло",
-  "skip:https://www.kommersant.ru/doc/9060145",
-  "skip:https://www.interfax.ru/russia/1124877",
-  "https://ria.ru/20261025/chp-2126896910.html",
-  "title:В Херсонской области депутат погиб при подрыве на мине",
   "skip:https://tass.ru/obschestvo/28251567",
   "skip:https://ria.ru/20261025/moskva-2126885923.html",
   "skip:https://www.kommersant.ru/doc/9060100",
@@ -998,5 +991,12 @@
   "title:США рассматривают возможность отмены санкций против РФПИ",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28259455",
   "https://www.kommersant.ru/doc/9062294",
-  "title:Проигравший выборы экс-кандидат в президенты Бразилии Флавиу Болсонару сбежал из страны"
+  "title:Проигравший выборы экс-кандидат в президенты Бразилии Флавиу Болсонару сбежал из страны",
+  "skip:https://www.rbc.ru/quote/27/10/2026/6ae0d85f9a79473c97620ba4",
+  "skip:https://www.aljazeera.com/news/2026/10/27/protesters-storm-serbian-pro-vucic-tv-station-after-his-loss-at-polls?traffic_source=rss",
+  "https://www.france24.com/en/europe/20261027-how-student-assemblies-brought-down-the-serbian-government",
+  "title:Партия президента Сербии Александра Вучича проиграла на выборах под давлением протестов",
+  "skip:https://www.kommersant.ru/doc/9062300",
+  "https://www.interfax.ru/world/1125337",
+  "title:США рассматривают возможность отмены санкций против Российского фонда прямых инвестиций"
 ]

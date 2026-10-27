@@ -1,8 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73201/startovye_prodazhi_horror_metroidvanii_silver_pines_perevalili_za_100_000_kopiy",
-  "https://stopgame.ru/newsdata/73198/utechka_smotrite_geympley_otmenennoy_assassins_creed_destiny",
-  "title:Утечка — смотрите геймплей отменённой Assassin's Creed: Destiny",
-  "skip:https://www.film.ru/news/start-semok-gornichnoy-2",
   "https://www.kinonews.ru/news_143682/",
   "title:Грете Гервиг первой удалось заполучить главный хит Led Zeppelin",
   "skip:https://www.igromania.ru/news/169244/malenkij-tim-bez-uma-ot-gejba-glavu-epic-games-vyismeyali-za-popyitki-prinizit-valve/",
@@ -998,5 +994,9 @@
   "skip:https://www.playground.ru/assassins_creed_4_black_flag/news/assassins_creed_black_flag_resynced_poluchila_finalnoe_krupnoe_obnovlenie_s_novoj_igroj_i_koshmarnoj_slozhnostyu-1885245#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://gamemag.ru/news/201867/smi-sony-uvolnyaet-sotrudnikov-sucker-punch-productions",
   "https://www.playground.ru/tom_clancys_the_division_3/news/the_division_preodolela_otmetku_v_50_millionov_igrokov_za_vsyo_vremya_prodolzhaetsya_razrabotka_tretej_chasti-1885255#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:The Division преодолела отметку в 50 миллионов игроков за всё время - продолжается разработка третьей части"
+  "title:The Division преодолела отметку в 50 миллионов игроков за всё время - продолжается разработка третьей части",
+  "skip:https://www.playground.ru/half_life_alyx/news/kompaniya_valve_obnovila_half_life_alyx_i_dobavila_fovealnyj_rendering_na_pk-1885272#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.pcgamer.com/hardware/vr-hardware/half-life-alyx-patch-adds-foveated-rendering-support-a-mere-6-years-after-the-games-release/",
+  "https://www.playground.ru/elder_scrolls_5_skyrim/news/modifikatsiya_delirium_dobavila_v_the_elder_scrolls_5_skyrim_protsedurnuyu_fiziku_padenij_i_popadanij_v_stile_gta_4-1885263#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Модификация Delirium добавила в The Elder Scrolls 5 Skyrim процедурную физику падений и попаданий в стиле GTA 4"
 ]

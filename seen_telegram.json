@@ -1,9 +1,4 @@
 [
-  "skip:https://deadline.com/2026/10/crystal-lake-pays-tribute-snake-killed-friday-the-13th-1237157674/",
-  "skip:https://www.film.ru/articles/recenziya-na-serial-hrustalnoe-ozero-vintazhnyy-prikvel-pyatnicy-13-e-ot-a24",
-  "https://www.kinonews.ru/news_143648/",
-  "title:Пол Верховен поможет Джеймсу Вану перезапустить \"Робокопа\"",
-  "skip:https://stopgame.ru/newsdata/73175/esche_bolshe_vzryvov_i_kiberpsihoza_v_novom_trailere_cyberpunk_edgerunners_2",
   "skip:https://www.playground.ru/misc/news/smes_dzhokera_i_substantsii_pervye_zriteli_glinolikogo_vpechatleny_zhestokostyu_filma-1881769#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.playground.ru/warhammer_40000_boltgun_2/news/mik_gordon_rasskazal_kak_sozdaval_muzyku_dlya_finalnogo_bossa_warhammer_40_000_boltgun_2-1881752#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.ign.com/articles/mick-gordon-on-how-he-helped-to-make-warhammer-40000-boltgun-2s-climactic-boss-fight-big-and-bombastic",
@@ -998,5 +993,10 @@
   "skip:https://www.ign.com/articles/hunger-games-director-hopes-you-arent-too-distracted-with-gta-6-to-see-sunrise-on-the-reaping",
   "skip:https://gamemag.ru/news/201851/silent-hill-remake-targeting-2027",
   "https://www.igromania.ru/news/169548/seriya-call-of-duty-zarabotala-40-mlrd-dollarov-rasskazala-glava-xbox-asha-sharma/",
-  "title:Серия Call of Duty заработала 40 млрд долларов — рассказала глава Xbox Аша Шарма"
+  "title:Серия Call of Duty заработала 40 млрд долларов — рассказала глава Xbox Аша Шарма",
+  "skip:https://www.playground.ru/misc/news/dc_studios_dejstvitelno_hochet_zapoluchit_zvezdu_richera_no_poka_ne_opredelilas_s_rolyu-1885124#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://gamemag.ru/news/201848/rockstar-games-nachala-rassylat-press-kopii-grand-theft-auto-vi",
+  "https://gamemag.ru/news/201853/ubisoft-gotova-rasskazat-o-budushchem-assassins-creed",
+  "video:2026-10-27:https://gamemag.ru/news/201853/ubisoft-gotova-rasskazat-o-budushchem-assassins-creed",
+  "title:Ubisoft готовится поделиться новостями о будущем Assassin's Creed"
 ]

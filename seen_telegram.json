@@ -1,7 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73164/obzornyy_trailer_i_preview_remeyka_the_legend_of_zelda_ocarina_of_time",
-  "skip:https://gamemag.ru/news/201654/ocarina-of-time-remake-october-2026",
-  "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-is-more-different-than-you-think-ign-preview",
   "skip:https://www.ign.com/articles/29-new-changes-in-the-zelda-ocarina-of-time-remake-redesigned-puzzles-updated-miniboss-fights-and-deeper-dialogue",
   "https://www.ign.com/articles/rockstar-pushes-back-on-rumor-gta-6-cost-more-than-15-billion-to-make-but-its-still-probably-the-most-expensive-video-game-of-all-time",
   "title:Rockstar Pushes Back on Rumor GTA 6 Cost More Than $1.5 Billion to Make, but It's Still Probably the Most Expensive Video Game of All Time",
@@ -998,5 +995,8 @@
   "skip:https://gamemag.ru/news/201855/ostin-uintori-podelilsya-konceptom-saundtreka-dlya-otmenennoy-mass-effect-5-on-mechtal-porabotat",
   "skip:https://www.ign.com/articles/assassins-creed-black-flag-resynced-final-major-content-update-coming-this-week",
   "https://www.igromania.ru/news/169544/silent-hill-remake-planiruyut-vyipustit-v-2027-godu-raskryityi-imena-dvuh-aktris-mp1st/",
-  "title:Silent Hill Remake﻿ планируют выпустить в 2027 году, раскрыты имена двух актрис — Mp1st"
+  "title:Silent Hill Remake﻿ планируют выпустить в 2027 году, раскрыты имена двух актрис — Mp1st",
+  "skip:https://kg-portal.ru/comments/135539-dorogu-molodym-kianu-rivz-zamenit-alana-richsona-v-boevike-netflix/",
+  "https://www.film.ru/news/zvezdy-filma-ot-rezhissera-godzilly-minus-odin",
+  "title:Звезды фильма от режиссера Годзиллы: Минус один"
 ]

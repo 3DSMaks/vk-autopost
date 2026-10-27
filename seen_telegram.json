@@ -1,7 +1,4 @@
 [
-  "video:2026-10-15:https://gamemag.ru/news/201666/microsoft-is-considering-making-fallout-the-elder-scrolls-and-even-minecraft-xbox-console-exclusives",
-  "title:СМИ: Новый опрос Microsoft допускает полноценную консольную эксклюзивность Fallout, The Elder Scrolls, DOOM, Diablo и даже Minecraft для Xbox",
-  "skip:https://www.kinonews.ru/news_143655/",
   "skip:https://variety.com/2026/film/news/sylvester-stallone-regrets-doing-stunts-im-an-idiot-1236912683/",
   "https://kg-portal.ru/comments/135391-postery-filma-pchelovod-2/",
   "title:Порхай как Джейсон Стэйтем, жаль как пчела! Постер боевика \"Пчеловод 2\"",
@@ -998,5 +995,8 @@
   "video:2026-10-27:https://gamemag.ru/news/201852/final-fantasy-resonance-pokazala-v-steam-krupneyshiy-start-sredi-vseh-odinochnyh-final-fantasy",
   "title:Final Fantasy Resonance показала крупнейший старт среди одиночных игр серии в Steam — 96 % отзывов положительные",
   "https://kg-portal.ru/comments/135544-v-blizhajshie-dni-betmen-vozvraschaetsja-na-dezhurstvo-stiven-soderberg-vozobnovil-semki-sikvela/",
-  "title:В ближайшие дни Бэтмен возвращается на дежурство: Стивен Содерберг возобновил съёмки сиквела"
+  "title:В ближайшие дни Бэтмен возвращается на дежурство: Стивен Содерберг возобновил съёмки сиквела",
+  "skip:https://kg-portal.ru/comments/135543-rezhisser-godzilly-minus-odin-debjutiruet-v-gollivude-s-mnogoobeschajuschimi-molodymi-akterami-i-polom-dzhamatti/",
+  "https://kg-portal.ru/comments/135542-vyshel-russkij-trejler-klejfejsa/",
+  "title:Вышел русский трейлер \"Клэйфейса\""
 ]

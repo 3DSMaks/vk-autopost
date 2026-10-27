@@ -1,11 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135400-pchelovod-2-tizer/",
-  "https://variety.com/2026/film/news/spider-man-brand-new-day-vfx-boss-jerome-chen-hulk-1236912828/",
-  "title:‘Spider-Man: Brand New Day’ VFX Boss Jerome Chen on Hulk’s Redesign, Finishing 445 Shots in a Week",
-  "skip:https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-launch-trailer/",
-  "skip:https://gamemag.ru/news/201673/gta-6-launch-trailer",
-  "skip:https://www.playground.ru/gta_6/news/ostalsya_vsego_lish_mesyats_smotrim_reliznyj_trejler_gta_6_samaya_ozhidaemaya_igra_vyjdet_v_noyabre-1881900#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.ign.com/articles/gta-6-launch-trailer-teases-jasons-troubled-past-a-steamy-shower-scene-with-lucia-and-much-more",
   "skip:https://www.igromania.ru/news/169221/gta-6-poluchila-reliznyij-trejler-igra-tochno-vyijdet-19-noyabrya/",
   "https://gamemag.ru/news/201670/gta-6-is-officially-eligible-for-the-game-awards-2026",
   "video:2026-10-15:https://gamemag.ru/news/201670/gta-6-is-officially-eligible-for-the-game-awards-2026",
@@ -998,5 +991,12 @@
   "skip:https://www.pcgamer.com/games/call-of-duty/call-of-duty-passes-usd40-billion-in-lifetime-revenue-making-it-one-of-the-most-lucrative-videogame-franchise-ever/",
   "skip:https://stopgame.ru/newsdata/73301/detali_o_novoy_igre_i_rezhime_koshmar_v_asssassins_creed_black_flag_resynced",
   "https://www.igromania.ru/news/169564/obnovlenie-dlya-cyberpunk-2077-k-vyihodu-cyberpunk-edgerunners-2-dobralos-do-nintendo-switch-2/",
-  "title:Обновление для Cyberpunk 2077 к выходу Cyberpunk: Edgerunners 2 добралось до Nintendo Switch 2"
+  "title:Обновление для Cyberpunk 2077 к выходу Cyberpunk: Edgerunners 2 добралось до Nintendo Switch 2",
+  "skip:https://www.playground.ru/half_life_alyx/news/kompaniya_valve_obnovila_half_life_alyx_i_dobavila_fovealnyj_rendering_na_pk-1885272#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/mass_effect_5/news/petitsiya_za_spasenie_mass_effect_nabrala_bolee_250_tysyach_podpisej-1885261#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.pcgamer.com/hardware/vr-hardware/half-life-alyx-patch-adds-foveated-rendering-support-a-mere-6-years-after-the-games-release/",
+  "skip:https://www.ign.com/articles/mass-effect-has-been-taken-away-just-when-we-needed-it-most",
+  "skip:https://gamemag.ru/news/201867/smi-sony-uvolnyaet-sotrudnikov-sucker-punch-productions",
+  "https://www.igromania.ru/news/169566/call-of-duty-modern-warfare-4-phantom-blade-zero-i-cyberpunk-2077-voshli-v-top-svezhego-charta-steam/",
+  "title:Call of Duty: Modern Warfare 4, Phantom Blade Zero и Cyberpunk 2077 вошли в топ свежего чарта Steam"
 ]

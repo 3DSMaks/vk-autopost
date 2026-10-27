@@ -1,6 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1124769",
-  "https://ria.ru/20261024/sily-2126754583.html",
   "title:Омская область подверглась атаке беспилотников, в регионе вводились временные ограничения",
   "skip:https://www.interfax.ru/russia/1124773",
   "skip:https://tass.ru/ekonomika/28249825",
@@ -998,5 +996,7 @@
   "title:Минобороны РФ объявило о введении режима тишины на херсонском направлении для гуманитарной операции в Алешках",
   "skip:https://news.google.com/rss/articles/CBMitgFBVV95cUxNS1E5VGNUTXoyTi1QbzBfRzRvaHRpQmZEeUE2YU9XclBCUTVVNFBWVngzNExHalRvQ2N0c0VlaVRnSTdrQTFNaXdyaHBWOHJjRXh3RlhQak02cUdJNTgydEx2Tms2Y04xSWI3bFNJU0RwbTZ0bHY3ekU1VlVGTnhWUEtjdkZqUlFLU0w1VU9IVTl2Z2c1b01KSUFRcnBCWllIbEZJXzk3aHNfQ0tiVkNuRWpyRmc3Zw?oc=5",
   "https://www.kommersant.ru/doc/9061231",
-  "title:Сирия закрыла единственный пограничный пункт пропуска Насиб на границе с Иорданией"
+  "title:Сирия закрыла единственный пограничный пункт пропуска Насиб на границе с Иорданией",
+  "skip:https://www.aljazeera.com/video/newsfeed/2026/10/27/harry-kane-wins-ballon-dor-ending-englands-25-year-wait?traffic_source=rss",
+  "https://www.sport-interfax.ru/1125130"
 ]

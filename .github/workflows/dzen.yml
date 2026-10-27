@@ -1,18 +1,17 @@
 name: Статьи для Дзена
 on:
   # 2 раза в день запускает внешний будильник cron-job.org (workflow_dispatch, mode=publish).
-  # Готовая статья (альбом фото + текст с пометками, куда вставить фото) приходит автору в личные сообщения
-  # от бота; автор публикует её в Студии Дзена.
+  # Пост уходит в Telegram-канал DZEN_CHAT_ID, оттуда Синхроробот Дзена (@zen_sync_bot) переносит его в Дзен.
   push:
     branches: [main]
     paths: ['dzen_post.py', 'test_dzen.py', '.github/workflows/dzen.yml']
   workflow_dispatch:
     inputs:
       mode:
-        description: 'find — узнать ID личного чата; preview — показать статью без отправки; publish — прислать статью автору'
+        description: 'check — проверить канал; preview — показать статью без публикации; publish — опубликовать'
         type: choice
         default: preview
-        options: [find, preview, publish]
+        options: [check, preview, publish]
 permissions:
   contents: write
 concurrency:
@@ -33,21 +32,22 @@ jobs:
       - run: python -m pip install -r requirements.txt
       - name: Проверить код
         run: python -m unittest test_dzen.py
-      - name: Узнать ID личного чата с ботом
-        if: github.event_name == 'workflow_dispatch' && inputs.mode == 'find'
+      - name: Проверить бота и канал
+        if: github.event_name == 'workflow_dispatch' && inputs.mode == 'check'
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-        run: python dzen_post.py --find
-      - name: Показать статью без отправки
+          DZEN_CHAT_ID: ${{ vars.DZEN_CHAT_ID }}
+        run: python dzen_post.py --check
+      - name: Показать статью без публикации
         if: github.event_name == 'workflow_dispatch' && inputs.mode == 'preview'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python -u dzen_post.py --preview
-      - name: Прислать статью автору
+      - name: Опубликовать статью
         if: github.event_name == 'workflow_dispatch' && inputs.mode == 'publish'
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          DZEN_DRAFT_CHAT_ID: ${{ vars.DZEN_DRAFT_CHAT_ID }}
+          DZEN_CHAT_ID: ${{ vars.DZEN_CHAT_ID }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python -u dzen_post.py
       - name: Сохранить историю

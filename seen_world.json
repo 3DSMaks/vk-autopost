@@ -1,12 +1,4 @@
 [
-  "title:Омская область подверглась атаке беспилотников, в регионе вводились временные ограничения",
-  "skip:https://www.interfax.ru/russia/1124773",
-  "skip:https://tass.ru/ekonomika/28249825",
-  "skip:https://ria.ru/20261024/gelendzhik-2126745699.html",
-  "skip:https://ria.ru/20261024/ogranicheniya-2126744959.html",
-  "skip:https://www.interfax.ru/russia/1124771",
-  "skip:https://tass.ru/obschestvo/28249785",
-  "skip:https://www.interfax.ru/russia/1124770",
   "skip:https://tass.ru/obschestvo/28249767",
   "https://ria.ru/20261024/sochi-2126746422.html",
   "title:Росавиация сняла временные ограничения на работу нескольких российских аэропортов",
@@ -998,5 +990,13 @@
   "https://www.kommersant.ru/doc/9061231",
   "title:Сирия закрыла единственный пограничный пункт пропуска Насиб на границе с Иорданией",
   "skip:https://www.aljazeera.com/video/newsfeed/2026/10/27/harry-kane-wins-ballon-dor-ending-englands-25-year-wait?traffic_source=rss",
-  "https://www.sport-interfax.ru/1125130"
+  "https://www.sport-interfax.ru/1125130",
+  "skip:https://www.interfax.ru/russia/1125145",
+  "skip:https://ria.ru/20261027/ataka-2127190897.html",
+  "skip:https://tass.ru/proisshestviya/28256353",
+  "https://www.kommersant.ru/doc/9061262",
+  "title:При атаке беспилотника на автобус в Запорожской области погиб пассажир",
+  "skip:https://www.interfax.ru/world/1125135",
+  "https://www.kommersant.ru/doc/9061250",
+  "title:Дональд Трамп возложил на Иран ответственность за начало конфликта с США"
 ]

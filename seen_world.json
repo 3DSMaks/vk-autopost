@@ -1,10 +1,4 @@
 [
-  "skip:https://tass.ru/sport/28250295",
-  "skip:https://www.rbc.ru/sport/24/10/2026/6adcd49ffff624a507690aba",
-  "https://www.sport-interfax.ru/1124811",
-  "title:Российский боец Петр Ян победил Мераба Двалишвили и защитил титул чемпиона UFC",
-  "skip:https://tass.ru/ekonomika/28250363",
-  "skip:https://ria.ru/20261025/ogranicheniya-2126801389.html",
   "skip:https://tass.ru/obschestvo/28250317",
   "skip:https://ria.ru/20261024/ogranicheniya-2126798463.html",
   "skip:https://www.interfax.ru/russia/1124808",
@@ -998,5 +992,11 @@
   "skip:https://www.aljazeera.com/video/newsfeed/2026/10/27/families-of-victims-killed-in-jordanian-strike-deny-links-to-church-attack?traffic_source=rss",
   "skip:https://www.aljazeera.com/news/2026/10/27/why-jordan-has-struck-syria-what-we-know?traffic_source=rss",
   "https://www.france24.com/en/video/20261027-algeria-deploys-army-units-to-niger-to-protect-economic-interests",
-  "title:Сирия осудила авиаудары Иордании по своей территории в ответ на нападение на церковь"
+  "title:Сирия осудила авиаудары Иордании по своей территории в ответ на нападение на церковь",
+  "skip:https://www.france24.com/en/tv-shows/focus/20261027-israeli-election-fragile-co-existence-between-residents-in-jewish-arab-town-of-lod",
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY3BscHNVT0NYVTNvcHRHX0JmTmJOaU9LelZLSXJPZ190Y0k2bUlIdUR6VFhpVVJwa1lqWnFUWkFmcGV6MVhlcGhvTlU2al9CQXd5THFzRk9BSDlpQkRQdDJQOGlqNGtyLS1NZUoyTjdUb3pFdzNqanFYb1RILVEyeWhSb0ljVEl3UjQ1LWl1OWM2TVVGbW1JYm85REdZd0tIdTZn?oc=5",
+  "title:В Израиле проходят парламентские выборы",
+  "skip:https://www.rbc.ru/politics/27/10/2026/6ae085d08b1a9416e43eea7a",
+  "https://www.kommersant.ru/doc/9061820",
+  "title:Южная Корея отозвала сотрудников посольства из Киева из-за утечки данных"
 ]

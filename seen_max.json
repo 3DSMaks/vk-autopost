@@ -1,7 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/games/action/control-resonant-sells-1-million-copies-in-3-weeks-to-become-remedys-fastest-selling-game-ever/",
-  "https://gamemag.ru/news/201657/debra-wilson-says-she-prefers-games-that-dont-use-her-face",
-  "title:Дебра Уилсон не понимает, почему Каллисто в PS5-эксклюзиве Marvel’s Wolverine сделали похожей на неё",
   "skip:https://kg-portal.ru/comments/135409-gotem-spasen-betmena-chast-2-dosnimet-oskaronosnyj-rezhisser-stiven-soderberg/",
   "skip:https://www.kinonews.ru/news_143677/",
   "skip:https://www.film.ru/news/pochemu-vilnev-soglasilsya-snimat-novogo-bonda",
@@ -998,5 +995,8 @@
   "skip:https://www.ign.com/articles/silent-hill-remake-coming-2027-cast-details-leaked",
   "skip:https://stopgame.ru/newsdata/73299/insayd_remeyk_pervoy_silent_hill_namereny_vypustit_v_2027_godu",
   "https://www.playground.ru/gears_of_war_2/news/gears_of_war_2_3_i_judgment_poluchili_nativnye_pk_porty_cherez_staticheskuyu_rekompilyatsiyu_v_cogbox-1885187#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Gears of War 2, 3 и Judgment получили нативные ПК-порты через статическую рекомпиляцию в COGBox"
+  "title:Gears of War 2, 3 и Judgment получили нативные ПК-порты через статическую рекомпиляцию в COGBox",
+  "skip:https://www.kinonews.ru/news_143837/",
+  "https://deadline.com/2026/10/harry-potter-series-lily-james-potter-charlie-weasley-1237205917/",
+  "title:‘Harry Potter’ Series Finds Its Lily & James Potter In Jasper Talbot & Hannah Chinn; Harry Gilby To Play Charlie Weasley"
 ]

@@ -1,7 +1,4 @@
 [
-  "skip:https://www.playground.ru/misc/news/smes_dzhokera_i_substantsii_pervye_zriteli_glinolikogo_vpechatleny_zhestokostyu_filma-1881769#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.playground.ru/warhammer_40000_boltgun_2/news/mik_gordon_rasskazal_kak_sozdaval_muzyku_dlya_finalnogo_bossa_warhammer_40_000_boltgun_2-1881752#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.ign.com/articles/mick-gordon-on-how-he-helped-to-make-warhammer-40000-boltgun-2s-climactic-boss-fight-big-and-bombastic",
   "skip:https://gamemag.ru/news/201664/cyberpunk-edgerunners-2-final-trailer",
   "https://gamemag.ru/news/201666/microsoft-is-considering-making-fallout-the-elder-scrolls-and-even-minecraft-xbox-console-exclusives",
   "video:2026-10-15:https://gamemag.ru/news/201666/microsoft-is-considering-making-fallout-the-elder-scrolls-and-even-minecraft-xbox-console-exclusives",
@@ -998,5 +995,8 @@
   "skip:https://gamemag.ru/news/201848/rockstar-games-nachala-rassylat-press-kopii-grand-theft-auto-vi",
   "https://gamemag.ru/news/201853/ubisoft-gotova-rasskazat-o-budushchem-assassins-creed",
   "video:2026-10-27:https://gamemag.ru/news/201853/ubisoft-gotova-rasskazat-o-budushchem-assassins-creed",
-  "title:Ubisoft готовится поделиться новостями о будущем Assassin's Creed"
+  "title:Ubisoft готовится поделиться новостями о будущем Assassin's Creed",
+  "https://gamemag.ru/news/201852/final-fantasy-resonance-pokazala-v-steam-krupneyshiy-start-sredi-vseh-odinochnyh-final-fantasy",
+  "video:2026-10-27:https://gamemag.ru/news/201852/final-fantasy-resonance-pokazala-v-steam-krupneyshiy-start-sredi-vseh-odinochnyh-final-fantasy",
+  "title:Final Fantasy Resonance показала крупнейший старт среди одиночных игр серии в Steam — 96 % отзывов положительные"
 ]

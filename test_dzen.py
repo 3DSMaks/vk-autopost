@@ -31,6 +31,7 @@ class DzenTests(unittest.TestCase):
         self.assertEqual(dz.clean_article(dict(RAW, title='«Бэтмен вернулся»'))['title'], 'Бэтмен вернулся.')
         self.assertEqual(art['sections'][0]['heading'], 'Что показали')
         self.assertEqual(art['sections'][1]['emoji'], '▪️')
+        self.assertEqual(dz.clean_article(dict(RAW, verdict='🎯 Вердикт: ждём.'))['verdict'], 'ждём.')
 
     def test_incomplete_article_rejected(self):
         with self.assertRaises(RuntimeError):

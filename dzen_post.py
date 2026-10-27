@@ -122,7 +122,8 @@ def clean_article(data):
     sections = [{'emoji': plain(s.get('emoji'))[:4] or '▪️', 'heading': plain(s.get('heading')).rstrip('.'),
                  'text': plain(s.get('text'))}
                 for s in data.get('sections') or [] if plain(s.get('text'))]
-    article = {'title': title, 'lead': plain(data.get('lead')), 'sections': sections, 'verdict': plain(data.get('verdict'))}
+    article = {'title': title, 'lead': plain(data.get('lead')), 'sections': sections,
+               'verdict': re.sub(r'^\W*вердикт\W*', '', plain(data.get('verdict')), flags=re.I)}  # метку добавляем сами
     if not title or not article['lead'] or not sections:
         raise RuntimeError('Gemini вернул неполную статью')
     return article

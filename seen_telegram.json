@@ -1,7 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73178/league_of_legends_classic_zakroetsya_v_yanvare_spustya_5_mesyacev_posle_zapuska",
-  "skip:https://www.ign.com/articles/wardogs-blue-team-winrate-color-psychologist",
-  "skip:https://www.ign.com/articles/big-walk-developer-explains-why-the-game-isnt-on-xbox",
   "skip:https://www.pcgamer.com/games/moba/3-months-after-launch-riot-announces-league-of-legends-classic-will-be-killed-in-january-most-have-gone-back-to-other-parts-of-league/",
   "https://stopgame.ru/newsdata/73179/obnovlennaya_grafika_nuar_rezhim_i_udalennye_sceny_trailer_the_wolf_among_us_remastered",
   "title:Обновлённая графика, нуар-режим и удалённые сцены — трейлер The Wolf Among Us Remastered",
@@ -998,5 +995,8 @@
   "skip:https://stopgame.ru/newsdata/73296/zapusk_ranney_versii_emberville_perenesli_na_yanvar",
   "skip:https://www.pcgamer.com/games/rpg/one-day-before-launch-arpg-emberville-gets-delayed-until-2027/",
   "https://www.playground.ru/gears_of_war_e_day/news/sluh_the_coalition_planiruet_syuzhetnoe_dlc_dlya_gears_of_war_e_day_i_proekt_vo_vselennoj_mayatnikovyh_vojn-1885207#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Слух: The Coalition планирует сюжетное DLC для Gears of War: E-Day и проект во вселенной Маятниковых войн"
+  "title:Слух: The Coalition планирует сюжетное DLC для Gears of War: E-Day и проект во вселенной Маятниковых войн",
+  "skip:https://www.film.ru/news/kto-sygraet-roditeley-garri-pottera",
+  "https://www.kinonews.ru/news_143838/",
+  "title:Билл Найи сыграет в триллере Альфонсо Куарона"
 ]

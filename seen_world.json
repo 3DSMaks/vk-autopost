@@ -1,10 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1124904",
-  "skip:https://ria.ru/20261025/pvo-2126927380.html",
-  "https://www.kommersant.ru/doc/9060257",
-  "title:Минобороны РФ сообщило об уничтожении 38 украинских беспилотников за день",
-  "skip:https://ria.ru/20261025/serbiya-2126926906.html",
-  "https://www.rbc.ru/rbcfreenews/6ade3ff6ff42e239f1dabe1f",
   "title:В Сербии задержали подозреваемого в нападении на Ангелину Вучич",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28251885",
   "https://ria.ru/20261025/yotova-2126934548.html",
@@ -998,5 +992,11 @@
   "skip:https://www.rbc.ru/rbcfreenews/6ae0c0063a6b753ff0e3387a",
   "skip:https://www.france24.com/en/tv-shows/the-debate/20261027-bibi-s-moment-of-truth-israel-votes-in-first-general-election-since-october-7",
   "https://www.rbc.ru/politics/28/10/2026/6ae0c5eafece93d1816232ed",
-  "title:Итоговая явка на парламентских выборах в Израиле составила 77,7%"
+  "title:Итоговая явка на парламентских выборах в Израиле составила 77,7%",
+  "skip:https://ria.ru/20261027/tramp-2127406308.html",
+  "https://www.rbc.ru/politics/27/10/2026/6ae10b4054d995500bc5ee6d",
+  "title:Трамп предложил сделать Венесуэлу 51-м штатом США",
+  "skip:https://www.aljazeera.com/news/2026/10/27/egypt-orders-closure-of-leading-independent-news-site-mada-masr?traffic_source=rss",
+  "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
+  "title:Суд в Египте приговорил главреда Mada Masr к штрафу и предписал закрыть издание"
 ]

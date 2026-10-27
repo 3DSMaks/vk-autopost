@@ -1,13 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28249755",
-  "skip:https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSk1kdkRlZlJWcUhpbzJzSW1OS2RSRG4zVXd1Y0Vsci1UQjR3ZGZiX2xyU2w4TG1YRUZ6VVhfajRiVmt1MTZxdm5rOXF4MUlEbEN0VjJxb2EyR2VCOGUtRzY3MkprdHZlMVBPckJoOVJFcEtkUVZ0cjNlYzNnSVRXM2t3YnZFM0FkLWRUdWRabDlONk1qeVNQa0JNMndwU1lRcG9GUUZtWG0?oc=5",
-  "skip:https://ria.ru/20261024/tramp-2126744018.html",
-  "https://www.rbc.ru/rbcfreenews/6adcacaf3c765fe671670daa",
-  "title:Трамп прокомментировал планы относительно зала для брифингов в Белом доме",
-  "skip:https://www.rbc.ru/rbcfreenews/6adcac4390e461fd12191601",
-  "skip:https://tass.ru/proisshestviya/28249881",
-  "skip:https://tass.ru/sport/28249871",
-  "skip:https://ria.ru/20261024/ogranichenija-2126751700.html",
   "skip:https://www.interfax.ru/russia/1124769",
   "https://ria.ru/20261024/sily-2126754583.html",
   "title:Омская область подверглась атаке беспилотников, в регионе вводились временные ограничения",
@@ -998,5 +989,14 @@
   "skip:https://ria.ru/20261027/reysy-2127178689.html",
   "skip:https://tass.ru/ekonomika/28255985",
   "https://ria.ru/20261027/ogranicheniya-2127183097.html",
-  "title:В московском аэропорту Внуково сняты временные ограничения на полеты"
+  "title:В московском аэропорту Внуково сняты временные ограничения на полеты",
+  "skip:https://tass.ru/armiya-i-opk/28256077",
+  "skip:https://www.rbc.ru/politics/27/10/2026/6adbc2bbac27eb8ee9c28dbc",
+  "skip:https://www.interfax.ru/russia/1125128",
+  "skip:https://www.interfax.ru/russia/1125127",
+  "https://ria.ru/20261027/aleshki-2127183909.html",
+  "title:Минобороны РФ объявило о введении режима тишины на херсонском направлении для гуманитарной операции в Алешках",
+  "skip:https://news.google.com/rss/articles/CBMitgFBVV95cUxNS1E5VGNUTXoyTi1QbzBfRzRvaHRpQmZEeUE2YU9XclBCUTVVNFBWVngzNExHalRvQ2N0c0VlaVRnSTdrQTFNaXdyaHBWOHJjRXh3RlhQak02cUdJNTgydEx2Tms2Y04xSWI3bFNJU0RwbTZ0bHY3ekU1VlVGTnhWUEtjdkZqUlFLU0w1VU9IVTl2Z2c1b01KSUFRcnBCWllIbEZJXzk3aHNfQ0tiVkNuRWpyRmc3Zw?oc=5",
+  "https://www.kommersant.ru/doc/9061231",
+  "title:Сирия закрыла единственный пограничный пункт пропуска Насиб на границе с Иорданией"
 ]

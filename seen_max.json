@@ -1,9 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169237/dyuna-3-pochti-gotova-ustavshij-ot-arrakisa-deni-vilnyov-hochet-uletet-na-planetu-dzhejms-bond/",
-  "https://www.igromania.ru/news/169240/semejnyij-otdyih-v-rakkun-siti-i-s-las-plagas-remejki-tryoh-igr-resident-evil-dobralis-do-switch-2/",
-  "title:Семейный отдых в Раккун-Сити и с Лас-Плагас — ремейки трёх игр Resident Evil добрались до Switch 2",
-  "skip:https://kg-portal.ru/comments/135411-ekranizacija-strit-fajtera-ponravilas-kritikam-menshe-chem-mortal-kombat-2/",
-  "skip:https://www.film.ru/news/negativnye-otzyvy-ulichnogo-boyca",
   "skip:https://deadline.com/2026/10/box-office-street-fighter-you-can-see-everything-1237159320/",
   "skip:https://www.kinonews.ru/news_143667/",
   "https://variety.com/2026/film/global/the-mandalorian-and-grogu-vfx-hal-hickel-phil-tippett-1236913822/",
@@ -998,5 +993,10 @@
   "skip:https://www.igromania.ru/news/169563/sozdateli-kingdom-come-deliverance-podverglis-kiberatake/",
   "skip:https://www.ign.com/articles/kingdom-come-deliverance-developer-serious-cybersecurity-incident",
   "https://gamemag.ru/news/201852/final-fantasy-resonance-pokazala-v-steam-krupneyshiy-start-sredi-vseh-odinochnyh-final-fantasy",
-  "title:Final Fantasy Resonance показала крупнейший старт среди одиночных игр серии в Steam — 96 % отзывов положительные"
+  "title:Final Fantasy Resonance показала крупнейший старт среди одиночных игр серии в Steam — 96 % отзывов положительные",
+  "skip:https://www.pcgamer.com/games/call-of-duty/call-of-duty-passes-usd40-billion-in-lifetime-revenue-making-it-one-of-the-most-lucrative-videogame-franchise-ever/",
+  "skip:https://www.igromania.ru/news/169562/ekshen-rpg-emberville-perenesli-za-den-do-reliza-v-rannem-dostupe/",
+  "skip:https://www.ign.com/articles/emberville-delays-early-access-launch-at-the-last-minute",
+  "https://www.igromania.ru/news/169566/call-of-duty-modern-warfare-4-phantom-blade-zero-i-cyberpunk-2077-voshli-v-top-svezhego-charta-steam/",
+  "title:Call of Duty: Modern Warfare 4, Phantom Blade Zero и Cyberpunk 2077 вошли в топ свежего чарта Steam"
 ]

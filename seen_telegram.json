@@ -1,7 +1,4 @@
 [
-  "title:Alinea Analytics: Продажи Marvel’s Wolverine достигли 2,5 миллиона копий, Forza Horizon 6 — 8,8 миллиона копий",
-  "skip:https://www.film.ru/news/pchelovod-2-vyydet-v-rossii",
-  "skip:https://www.film.ru/news/zendeya-sygraet-v-filme-aleksa-garlenda",
   "https://deadline.com/2026/10/stillwater-tv-series-lauren-cohan-mark-obrien-mia-tomlinson-1237157743/",
   "title:Lauren Cohan, Mark O’Brien & Mia Tomlinson Join Prime Video’s ‘Stillwater’ As Series Regulars",
   "skip:https://www.igromania.ru/news/169231/valve-rabotaet-nad-uluchsheniem-sistemyi-dostizhenij-v-steam-chtobyi-gejmeram-byilo-prosche-zhit/",
@@ -998,5 +995,8 @@
   "skip:https://kg-portal.ru/comments/135554-djuna-chast-3-finalnyj-trejler/",
   "skip:https://www.kinonews.ru/news_143836/",
   "https://kg-portal.ru/comments/135551-put-pacanavoina-trejler/",
-  "title:Крис Пратт сделает из хлюпика настоящего мужика в трейлере фильма \"Путь Пацана-Воина\""
+  "title:Крис Пратт сделает из хлюпика настоящего мужика в трейлере фильма \"Путь Пацана-Воина\"",
+  "skip:https://www.film.ru/news/finalnyy-treyler-dyuny-3",
+  "https://deadline.com/2026/10/disney-divine-rivals-movie-rebecca-ross-1237206178/",
+  "title:‘Divine Rivals’: Feature Take Of Rebecca Ross Fantasy Romance Bestseller Heads To Disney"
 ]

@@ -1,9 +1,4 @@
 [
-  "skip:https://deadline.com/2026/10/box-office-street-fighter-you-can-see-everything-1237159320/",
-  "skip:https://www.kinonews.ru/news_143667/",
-  "https://variety.com/2026/film/global/the-mandalorian-and-grogu-vfx-hal-hickel-phil-tippett-1236913822/",
-  "title:‘The Mandalorian and Grogu’ VFX Veteran Hal Hickel on Rotta’s Redesign, Phil Tippett and Jon Favreau’s ‘Less James Bond, More Jackass’ Approach",
-  "skip:https://www.igromania.ru/news/169242/prodazhi-mrachnoj-silver-pines-v-duhe-tvin-piks-i-silent-hill-prevyisili-100-000-kopij/",
   "skip:https://stopgame.ru/newsdata/73201/startovye_prodazhi_horror_metroidvanii_silver_pines_perevalili_za_100_000_kopiy",
   "https://stopgame.ru/newsdata/73198/utechka_smotrite_geympley_otmenennoy_assassins_creed_destiny",
   "title:Утечка — смотрите геймплей отменённой Assassin's Creed: Destiny",
@@ -998,5 +993,10 @@
   "skip:https://www.igromania.ru/news/169562/ekshen-rpg-emberville-perenesli-za-den-do-reliza-v-rannem-dostupe/",
   "skip:https://www.ign.com/articles/emberville-delays-early-access-launch-at-the-last-minute",
   "https://www.igromania.ru/news/169566/call-of-duty-modern-warfare-4-phantom-blade-zero-i-cyberpunk-2077-voshli-v-top-svezhego-charta-steam/",
-  "title:Call of Duty: Modern Warfare 4, Phantom Blade Zero и Cyberpunk 2077 вошли в топ свежего чарта Steam"
+  "title:Call of Duty: Modern Warfare 4, Phantom Blade Zero и Cyberpunk 2077 вошли в топ свежего чарта Steam",
+  "skip:https://www.pcgamer.com/gaming-industry/you-just-cant-win-despite-ghost-of-yotei-selling-millions-of-copies-24-people-are-reportedly-being-let-go-from-sucker-punch/",
+  "skip:https://www.playground.ru/assassins_creed_4_black_flag/news/assassins_creed_black_flag_resynced_poluchila_finalnoe_krupnoe_obnovlenie_s_novoj_igroj_i_koshmarnoj_slozhnostyu-1885245#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://gamemag.ru/news/201867/smi-sony-uvolnyaet-sotrudnikov-sucker-punch-productions",
+  "https://www.playground.ru/tom_clancys_the_division_3/news/the_division_preodolela_otmetku_v_50_millionov_igrokov_za_vsyo_vremya_prodolzhaetsya_razrabotka_tretej_chasti-1885255#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:The Division преодолела отметку в 50 миллионов игроков за всё время - продолжается разработка третьей части"
 ]

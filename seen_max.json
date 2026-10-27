@@ -1,6 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135409-gotem-spasen-betmena-chast-2-dosnimet-oskaronosnyj-rezhisser-stiven-soderberg/",
-  "skip:https://www.kinonews.ru/news_143677/",
   "skip:https://www.film.ru/news/pochemu-vilnev-soglasilsya-snimat-novogo-bonda",
   "skip:https://www.kinonews.ru/news_143675/",
   "skip:https://kg-portal.ru/comments/135407-promoart-filma-mumija-kniga-mertvyh/",
@@ -998,5 +996,7 @@
   "title:Gears of War 2, 3 и Judgment получили нативные ПК-порты через статическую рекомпиляцию в COGBox",
   "skip:https://www.kinonews.ru/news_143837/",
   "https://deadline.com/2026/10/harry-potter-series-lily-james-potter-charlie-weasley-1237205917/",
-  "title:‘Harry Potter’ Series Finds Its Lily & James Potter In Jasper Talbot & Hannah Chinn; Harry Gilby To Play Charlie Weasley"
+  "title:‘Harry Potter’ Series Finds Its Lily & James Potter In Jasper Talbot & Hannah Chinn; Harry Gilby To Play Charlie Weasley",
+  "https://www.film.ru/news/nekrolog-uoltera-keniga",
+  "title:Некролог Уолтера Кенига"
 ]

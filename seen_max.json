@@ -1,15 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/gta-6-launch-trailer-teases-jasons-troubled-past-a-steamy-shower-scene-with-lucia-and-much-more",
-  "skip:https://www.igromania.ru/news/169221/gta-6-poluchila-reliznyij-trejler-igra-tochno-vyijdet-19-noyabrya/",
-  "skip:https://gamemag.ru/news/201670/gta-6-is-officially-eligible-for-the-game-awards-2026",
-  "skip:https://www.ign.com/articles/playstation-plus-losing-gta-5-ahead-of-gta-6",
-  "skip:https://www.ign.com/articles/gta-6-will-make-the-game-awards-cutoff-date-for-eligibility-by-the-skin-of-its-teeth-confirming-it-has-a-chance-at-2026-game-of-the-year",
-  "https://www.playground.ru/witcher_3_wild_hunt/news/remaster_the_witcher_3_poluchil_obnovlenie_5_01b_dlya_konsolej_xbox_na_series_s_dobavlena_podderzhka_fsr-1881914#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Ремастер The Witcher 3 получил обновление 5.01b для консолей Xbox - на Series S добавлена поддержка FSR",
-  "skip:https://deadline.com/2026/10/al-pacino-sag-aftra-life-achievement-award-1237157660/",
-  "skip:https://kg-portal.ru/comments/135404-vot-eto-fantastika-zendeja-sygraet-v-novom-filme-rezhissera-aleksa-garlenda/",
-  "skip:https://www.film.ru/news/hilari-suenk-stanet-mamoy-v-tretiy-raz",
-  "skip:https://www.film.ru/news/narniyu-grety-gervig-nazyvayut-provalom",
   "skip:https://www.kinonews.ru/news_143657/",
   "skip:https://www.kinonews.ru/news_143652/",
   "https://deadline.com/2026/10/frisco-king-trailer-release-date-taylor-sheridan-paramount-1237157647/",
@@ -998,5 +987,16 @@
   "skip:https://www.kinonews.ru/news_143835/",
   "skip:https://www.kinonews.ru/news_143834/",
   "https://www.film.ru/news/zvezdy-filma-ot-rezhissera-godzilly-minus-odin",
-  "title:Звезды фильма от режиссера Годзиллы: Минус один"
+  "title:Звезды фильма от режиссера Годзиллы: Минус один",
+  "skip:https://www.playground.ru/misc/news/predstavleny_novye_postery_filma_dyuna_chast_3_s_obeschaniem_epicheskogo_finala_sagi-1885105#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169544/silent-hill-remake-planiruyut-vyipustit-v-2027-godu-raskryityi-imena-dvuh-aktris-mp1st/",
+  "skip:https://www.igromania.ru/news/169543/jo-ho-ho-i-poslednij-kontent-dlya-assassins-creed-black-flag-resynced-gryadut-i-novosti-o-franshize/",
+  "skip:https://www.ign.com/articles/composer-austin-wintory-shares-22-minutes-of-music-created-for-biowares-canceled-mass-effect-5",
+  "skip:https://www.pcgamer.com/games/mass-effect/veteran-game-composer-in-talks-to-score-mass-effect-5-shares-20-minutes-of-music-he-wrote-for-the-project-to-even-dream-in-your-sandbox-was-a-privilege/",
+  "skip:https://gamemag.ru/news/201851/silent-hill-remake-targeting-2027",
+  "skip:https://gamemag.ru/news/201855/ostin-uintori-podelilsya-konceptom-saundtreka-dlya-otmenennoy-mass-effect-5-on-mechtal-porabotat",
+  "skip:https://gamemag.ru/news/201853/ubisoft-gotova-rasskazat-o-budushchem-assassins-creed",
+  "skip:https://www.ign.com/articles/assassins-creed-black-flag-resynced-final-major-content-update-coming-this-week",
+  "https://www.playground.ru/sid_meiers_civilization_7/news/firaxis_priznala_chto_s_civilization_vii_poshla_nemnogo_ne_tuda_smelye_izmeneniya_otpugnuli_veteranov_serii-1885111#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Firaxis признала, что с Civilization VII пошла немного не туда: смелые изменения отпугнули ветеранов серии"
 ]

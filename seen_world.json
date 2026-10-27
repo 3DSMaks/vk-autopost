@@ -1,14 +1,4 @@
 [
-  "https://www.aljazeera.com/sports/2026/10/24/bayern-say-coach-kompany-stable-in-hospital-but-will-be-out-for-weeks?traffic_source=rss",
-  "title:Главный тренер «Баварии» Венсан Компани потерял сознание на тренировке и был госпитализирован",
-  "skip:https://news.google.com/rss/articles/CBMinwFBVV95cUxQWkVBNVRVTElObVNSenpqSU1kcVpWeU05Nnp3eVdFQWFNMnFDOFRwTFM4VVNjNEh1QllqbUpyLW5MZk13enlOOXRrU2oxdWlJUVcxN3FPVXNNUjRIWURKVmw1X3A4MWc4bUlQV0pidWRibDIyLWlhaWlGRlFqcTIzQkxzTXBRWTFWZUY2Z3pxRmRqQktjVUMyNmNFamFKTGs?oc=5",
-  "skip:https://ria.ru/20261024/binev-2126729816.html",
-  "https://www.kommersant.ru/doc/9059833",
-  "title:В Софии застрелен вице-президент Олимпийского комитета Болгарии Слави Бинев",
-  "skip:https://ria.ru/20261024/putin-2126732259.html",
-  "https://tass.ru/politika/28249665",
-  "title:Владимир Путин внес в Госдуму на ратификацию договор с Никарагуа о передаче осужденных",
-  "skip:https://tass.ru/proisshestviya/28249669",
   "skip:https://ria.ru/20261024/chp-2126731314.html",
   "https://www.interfax.ru/russia/1124758",
   "title:В ЕАО пассажирский поезд столкнулся с микроавтобусом, погибли шесть человек",
@@ -998,5 +988,15 @@
   "skip:https://www.rbc.ru/politics/27/10/2026/6adfd1adca79599324c73d78",
   "skip:https://ria.ru/20261027/pasport-2127173186.html",
   "https://ria.ru/20261027/vybory-2127179792.html",
-  "title:Партия Жаира Болсонару признала поражение на выборах президента Бразилии, экс-президента обязали сдать паспорт"
+  "title:Партия Жаира Болсонару признала поражение на выборах президента Бразилии, экс-президента обязали сдать паспорт",
+  "skip:https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28255991",
+  "skip:https://ria.ru/20261027/granitsa-2127177010.html",
+  "skip:https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28255935",
+  "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
+  "title:ВВС Иордании нанесли авиаудары по территории Сирии в ответ на нападение на церковь",
+  "skip:https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-says-police-demand-passports-after-brazil-election-defeat?traffic_source=rss",
+  "https://www.france24.com/en/americas/20261026-flavio-bolsonaro-opposition-brazil-court-travel-ban",
+  "title:Суд в Бразилии запретил Флавиу Болсонару покидать страну после поражения на выборах"
 ]

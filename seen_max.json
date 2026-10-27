@@ -1,7 +1,4 @@
 [
-  "skip:https://www.playground.ru/project_century/news/novyj_trejler_stranger_than_heaven_priotkryvaet_zavesu_tajny_nad_syuzhetom_svyazannym_s_gorodom_kokura-1882244#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://gamemag.ru/news/201686/zero-parades-for-dead-spies-switch-2",
-  "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-hands-on-preview",
   "skip:https://gamemag.ru/news/201689/the-mummy-book-of-the-dead-title",
   "skip:https://stopgame.ru/newsdata/73196/zero_parades_poselitsya_na_switch_2_v_odin_den_s_relizom_versii_dlya_ps5",
   "skip:https://www.igromania.ru/news/169232/novaya-mumiya-s-brendanom-frejzerom-i-rejchel-vajs-vozvraschaet-knigu-myortvyih-v-polnoe-nazvanie-filma/",
@@ -998,5 +995,8 @@
   "title:Затонувшие корабли и атмосферные скриншоты: авторы Fable раскрыли детали мрачного региона Призрачные топи",
   "skip:https://www.film.ru/news/kto-sygraet-roditeley-garri-pottera",
   "https://deadline.com/2026/10/elden-ring-biggest-movie-on-sale-market-amazon-joins-a24-1237201368/",
-  "title:A24’s Fantasy Epic ‘Elden Ring’ Heads To AFM As The Biggest Movie Ever On Sale At A Market; Amazon Joins Pic Starring Kit Connor"
+  "title:A24’s Fantasy Epic ‘Elden Ring’ Heads To AFM As The Biggest Movie Ever On Sale At A Market; Amazon Joins Pic Starring Kit Connor",
+  "skip:https://deadline.com/2026/10/russell-brand-indecent-assault-charge-reduced-trial-continues-1237206104/",
+  "https://www.film.ru/news/sobachi-zvezdy-i-veriti-v-seti",
+  "title:Собачьи звезды и Верити в Сети"
 ]

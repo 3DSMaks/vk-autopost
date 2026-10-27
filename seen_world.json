@@ -1,15 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMisgFBVV95cUxPYUdEaVdfMFowR19ySTVVTVhyUkxlV2d0VDB5VFlxLS10TzJzRTV4ajZDV1F6UjVTUW5RYVVCTEhSVy0wdGdfRGdYWVpqMWxiTkd2NVhtV0lZRkpYTWhSMUY3aE5KTUcxN1VxNEJ2djlPbjFxY1ZhYVZpYmxRVUlya2tvUGdWLUhsMGlDakYwX3YzTnJNUlBrMlNZbng5WVhvRnZnMm05Sm45N3VuVUNqLU9n?oc=5",
-  "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTGFBTnRJVnlGRkgzaE0zeXB3RDRnLUFPR0FTTUdmUFEwUl9FX3ZZNkg1UFcwV0hKSzVFa1J3R2djOGhKSlFyM1FiRzR5ek9IUWFhZmhlRHdwQ0w0Z1JGRjVmZmVVSW54MkwzN1VKNWV3a1hHZ1ZKdTZ3cnhyQldPME9rMElsN2ZteGxwYjVUTXZLcXRFT19URWNmaUNUNW01UDgxa0lrWF9IUmVTejF2enlWN0pEMjkzT09aakhsdGlOcW41c01ueXFPZW5TUEZQWU41M0lRd2UzeXFMUHdNUTJfb1hXY2NGeFE?oc=5",
-  "title:Барак Обама раскритиковал Дональда Трампа во время предвыборного митинга",
-  "skip:https://ria.ru/20261025/raketa-2126818667.html",
-  "https://tass.ru/mezhdunarodnaya-panorama/28250665",
-  "title:Аравийская коалиция перехватила баллистическую ракету хуситов над Эр-Риядом",
-  "skip:https://news.google.com/rss/articles/CBMilAFBVV95cUxNVWtZTlJpR0w5THFmMVVrNzNLeVpBOGF4UmJwOFdkWE9oTVNmWHBmbWFlQzY0ZUg4TThoaE5Vb3ZFX1NKQ1lsWEYyU1Z4V3ZKZXh5QWROS0ZsRnB3SGc4dnlQZFhScGE2OVdSRVkwNkZaM0xZdmZwWUFVeHVJZ0xFRU9uS3VHZThiakdtUEFCVDdsQWUz?oc=5",
-  "skip:https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ1ZGSTdibFh1VThLYkYzRUxHSWxnNm93cmJWODhBWnNjdi0yaDJVVmxNTEhGSE9SLXA1ZlRMYjB5TWN3dFVSYmpESmNYazF5UU8yQ0t3bl9QdWJLZGJuMWM5MDZtZDJXOE81XzdiempKMV9veFBDTmFXbmVmb0NuTGd3UDlfU2FneDFrek9HcTdNMUxEYjZQNA?oc=5",
-  "skip:https://ria.ru/20261025/strelba-2126820303.html",
-  "https://www.kommersant.ru/doc/9059945",
-  "title:При стрельбе возле университета во Флориде пострадали не менее 12 человек",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28251293",
   "skip:https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
   "https://ria.ru/20261025/brazilija-2126867789.html",
@@ -998,5 +987,16 @@
   "skip:https://ria.ru/20261027/rossiya-2127363594.html",
   "skip:https://tass.ru/politika/28259357",
   "https://www.rbc.ru/politics/27/10/2026/6ae0cece6060172ca811d3e2",
-  "title:Россия ввела санкции против руководства военных предприятий Великобритании"
+  "title:Россия ввела санкции против руководства военных предприятий Великобритании",
+  "skip:https://ria.ru/20261027/putin-2127368685.html",
+  "skip:https://tass.ru/ekonomika/28259419",
+  "skip:https://www.interfax.ru/russia/1125320",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28259429",
+  "skip:https://www.rbc.ru/rbcfreenews/6ae0d17e6a5f8b6dba29175a",
+  "https://www.kommersant.ru/doc/9062252",
+  "title:Владимир Путин провел переговоры с президентом Ирана Масудом Пезешкианом в Кремле",
+  "skip:https://www.kommersant.ru/doc/9062098",
+  "skip:https://www.interfax.ru/russia/1125309",
+  "https://www.rbc.ru/politics/27/10/2026/6ae0d3479a7947dba25b7a2b",
+  "title:Мелания Трамп объявила о расширении режима тишины за пределы Алешек в Херсонской области"
 ]

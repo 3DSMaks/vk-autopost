@@ -1,12 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9060216",
-  "skip:https://ria.ru/20261025/marinov-2126911267.html",
-  "skip:https://tass.ru/sport/28251721",
-  "https://www.rbc.ru/sport/25/10/2026/6ade24d8c700cc1593f3b038",
-  "title:Российский гимнаст Даниел Маринов завоевал бронзу чемпионата мира на параллельных брусьях",
-  "skip:https://www.kommersant.ru/doc/9060223",
-  "skip:https://ria.ru/20261025/tramp-2126915054.html",
-  "skip:https://ria.ru/20261025/tramp-2126914949.html",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28251763",
   "skip:https://ria.ru/20261025/ssha-2126910727.html",
   "https://tass.ru/mezhdunarodnaya-panorama/28251789",
@@ -998,5 +990,13 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28259761",
   "skip:https://news.google.com/rss/articles/CBMingFBVV95cUxOYVBiQjE0QTJza2Y3LV9qZi1mSWh6QzY4ZXRqYmVzNGZDb2UxU0VaODliT1N6WTFlY1pjcTJhdnB2dHFRWGhUMnlPSHBnemIyVnBiaEpwaWF5NkxNLWZPZElRTjM4U0xwRkpoZnhSekEtdllFT18wdThnQS1vU2EySTA1UlIzTV94bG5aSl9yZW1xQXBlYmJWVDFYSmNuZw?oc=5",
   "https://news.google.com/rss/articles/CBMingFBVV95cUxPaUpaNGJkUU9FeDRxVTFGcVljX3VfUHhKM1p2bm82UjZ3bW5aUUprejByam9oWGpoeWllcC0wRUlNZi1yRlV2YVcwY2tYODVJWXZ0ZVZvMm85eEN4VC00NmJKTTk5enF1TTRZZmZRelpUMzhmY0NiUzNQRVVFdmc3amptbjZFWHJuUHdRSDZkZVlNakZWQks2WWRIVXhWdw?oc=5",
-  "title:Экс-кандидат в президенты Бразилии Флавиу Болсонару уехал в США после выборов"
+  "title:Экс-кандидат в президенты Бразилии Флавиу Болсонару уехал в США после выборов",
+  "skip:https://tass.ru/ekonomika/28259851",
+  "skip:https://www.interfax.ru/russia/1125342",
+  "https://www.interfax.ru/russia/1125348",
+  "title:Аэропорты Пензы, Саратова и Саранска приостановили работу",
+  "skip:https://www.kommersant.ru/doc/9062316",
+  "skip:https://www.rbc.ru/business/27/10/2026/6ae0f9855751e43247107226",
+  "https://www.interfax.ru/world/1125344",
+  "title:США и Россия обсуждают возвращение американских компаний в нефтяной сектор"
 ]

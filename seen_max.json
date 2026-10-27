@@ -1,6 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/software/platforms/steam-achievements-are-getting-a-huge-overhaul-with-separate-sets-for-dlc-and-season-passes-and-an-easy-way-to-compare-with-friends/",
-  "skip:https://www.playground.ru/misc/news/zaplatil_znachit_tvoyo_v_ssha_predlozhili_zaschitit_pokupatelej_igr-1882067#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.playground.ru/misc/news/runescape_reignited_otmenili_spustya_12_dnej_posle_anonsa_razrabotchiki_prislushalis_k_igrokam-1882065#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.playground.ru/misc/news/betmen_2_snimet_drugoj_rezhissyor_stiven_soderberg_zavershit_rabotu_nad_filmom_vmesto_metta_rivza-1882064#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.pcgamer.com/games/mmo/less-than-2-weeks-after-announcing-runescape-reignited-jagex-is-scrapping-the-whole-thing/",
@@ -998,5 +996,7 @@
   "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/activision_vyskazalas_o_sorevnovatelnom_balanse_i_krossplee_v_call_of_duty_na_nintendo_switch_2-1885133#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.playground.ru/misc/news/dc_studios_dejstvitelno_hochet_zapoluchit_zvezdu_richera_no_poka_ne_opredelilas_s_rolyu-1885124#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.igromania.ru/news/169548/seriya-call-of-duty-zarabotala-40-mlrd-dollarov-rasskazala-glava-xbox-asha-sharma/",
-  "title:Серия Call of Duty заработала 40 млрд долларов — рассказала глава Xbox Аша Шарма"
+  "title:Серия Call of Duty заработала 40 млрд долларов — рассказала глава Xbox Аша Шарма",
+  "https://kg-portal.ru/comments/135542-vyshel-russkij-trejler-klejfejsa/",
+  "title:Вышел русский трейлер \"Клэйфейса\""
 ]

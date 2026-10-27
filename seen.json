@@ -809,5 +809,8 @@
   "skip:https://www.film.ru/news/kianu-rivz-vmesto-alana-richsona",
   "skip:https://www.film.ru/news/nekrolog-uoltera-keniga",
   "https://www.film.ru/news/amanda-sayfred-i-strazhi-galaktiki",
-  "title:Аманда Сайфред и Стражи Галактики"
+  "title:Аманда Сайфред и Стражи Галактики",
+  "skip:https://deadline.com/2026/10/casting-starz-rodeo-drama-fox-baywatch-amazon-rose-hill-1237193453/",
+  "https://kg-portal.ru/comments/135542-vyshel-russkij-trejler-klejfejsa/",
+  "title:Вышел русский трейлер \"Клэйфейса\""
 ]

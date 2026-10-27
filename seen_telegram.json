@@ -1,8 +1,4 @@
 [
-  "skip:https://variety.com/2026/film/news/sylvester-stallone-regrets-doing-stunts-im-an-idiot-1236912683/",
-  "https://kg-portal.ru/comments/135391-postery-filma-pchelovod-2/",
-  "title:Порхай как Джейсон Стэйтем, жаль как пчела! Постер боевика \"Пчеловод 2\"",
-  "skip:https://gamemag.ru/news/201667/007-first-light-arrives-on-switch-2-on-march-18-2027",
   "skip:https://stopgame.ru/newsdata/73174/versiya_007_first_light_dlya_switch_2_vyydet_18_marta",
   "skip:https://gamemag.ru/news/201661/introducing-xbox-nano-controller",
   "skip:https://stopgame.ru/newsdata/73169/xbox_anonsirovala_portativnyy_geympad_nano_controller",
@@ -998,5 +994,9 @@
   "title:В ближайшие дни Бэтмен возвращается на дежурство: Стивен Содерберг возобновил съёмки сиквела",
   "skip:https://kg-portal.ru/comments/135543-rezhisser-godzilly-minus-odin-debjutiruet-v-gollivude-s-mnogoobeschajuschimi-molodymi-akterami-i-polom-dzhamatti/",
   "https://kg-portal.ru/comments/135542-vyshel-russkij-trejler-klejfejsa/",
-  "title:Вышел русский трейлер \"Клэйфейса\""
+  "title:Вышел русский трейлер \"Клэйфейса\"",
+  "skip:https://www.ign.com/articles/pokemon-unite-offline-2027-in-game-sales-suspended",
+  "skip:https://www.igromania.ru/news/169554/populyarnaya-moba-s-pokemonami-pokemon-unite-zakroetsya-v-marte-2027-goda-na-vseh-ustrojstvah/",
+  "https://www.playground.ru/resident_evil_code_veronica_x/news/remejk_resident_evil_code_veronica_neskolko_raz_perezapuskali_vo_vremya_razrabotki-1885160#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Ремейк Resident Evil Code: Veronica несколько раз перезапускали во время разработки"
 ]

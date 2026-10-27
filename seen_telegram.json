@@ -1,9 +1,4 @@
 [
-  "skip:https://www.film.ru/news/hilari-suenk-stanet-mamoy-v-tretiy-raz",
-  "skip:https://www.film.ru/news/narniyu-grety-gervig-nazyvayut-provalom",
-  "skip:https://www.kinonews.ru/news_143657/",
-  "https://kg-portal.ru/comments/135404-vot-eto-fantastika-zendeja-sygraet-v-novom-filme-rezhissera-aleksa-garlenda/",
-  "title:Вот это фантастика! Зендея сыграет в новом фильме режиссёра Алекса Гарленда",
   "skip:https://www.pcgamer.com/games/strategy/the-shogun-2-remaster-is-so-bad-sega-is-removing-it-from-sale-and-bringing-back-the-original/",
   "skip:https://www.playground.ru/bad_cheese/news/v_epic_games_store_startovala_razdacha_horrora_bad_cheese_i_golovolomki_agent_a-1881943#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.ign.com/articles/over-30-new-gta-6-screenshots-from-the-launch-trailer",
@@ -998,5 +993,10 @@
   "skip:https://stopgame.ru/newsdata/73305/obschaya_vyruchka_serii_call_of_duty_pereshagnula_za_s40_mlrd_posle_vyhoda_modern_warfare_4",
   "skip:https://stopgame.ru/newsdata/73304/modern_warfare_4_cyberpunk_2077_i_phantom_blade_zero_tolkayutsya_u_vershiny_charta_prodazh_steam",
   "https://www.playground.ru/fable_2026/news/zatonuvshie_korabli_i_atmosfernye_skrinshoty_avtory_fable_raskryli_detali_mrachnogo_regiona_prizrachnye_topi-1885288#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Затонувшие корабли и атмосферные скриншоты: авторы Fable раскрыли детали мрачного региона Призрачные топи"
+  "title:Затонувшие корабли и атмосферные скриншоты: авторы Fable раскрыли детали мрачного региона Призрачные топи",
+  "skip:https://gamemag.ru/news/201870/capcom-sales-2026-october-2026",
+  "skip:https://stopgame.ru/newsdata/73302/tirazh_onimusha_way_of_the_sword_pochti_doshel_do_2_mln_kopiy_otchet_capcom",
+  "skip:https://www.igromania.ru/news/169557/capcom-vernulas-s-obnovlyonnyimi-prodazhami-igr-novaya-onimusha-pragmata-resident-evil-i-drugie/",
+  "https://www.playground.ru/gta_6/news/grand_theft_auto_6_stanet_glavnoj_temoj_svezhego_vypuska_zhurnala_edge_fanaty_uzhe_nashli_novye_skrinshoty_igry-1885295#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Grand Theft Auto 6 станет главной темой свежего выпуска журнала Edge - фанаты уже нашли новые скриншоты игры"
 ]

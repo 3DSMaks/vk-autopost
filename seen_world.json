@@ -1,12 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMiogFBVV95cUxNR3FXR3pTRGF5SDNQWmtrWDE5WVRFclJucWNWQm1jNW9ST0hYS01UcXRwVGtsLTRVeGdlUzVZNjJmN1JlZVVwaU5pM0dVSXE0T0FiaWREb1ZTdnBRYXlqOGRsN3lRYnVXN01Cd2dwMEJacFV4aW1helZDejBMU0VXZFBOVXRVTG0xeUtWN2M3YWZzSWVYLWJOZFI0SFIxbTFTVmc?oc=5",
-  "skip:https://ria.ru/20261025/formula-2126807154.html",
-  "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMFVDNEFlQlNPVTlHTG9Mc3N2YVljQjJDVEpZUEc1UVp5T2poUzlvRG1zbjRKMnp2V1R1OU93dTBJYWFQS2N0dXlpclZjbWpGSTZtd2NEdFlVYzVKbXpYSFhjYzZDcVNURG5nTi1leURRR1pfcE9oVmlWVWxUQkRMRTRuMENSZ3BJV2JGOGEzSVp2aTVSemNieDRULUVGRGRFaWtv?oc=5",
-  "title:Кими Антонелли выиграл квалификацию Гран-при США Формулы-1 в Остине",
-  "skip:https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGx3Y2FFQnJqWm4xQzIyem5aQXhBRWU1UkwyblYyU1BTQmR5TllmeUF6aGpDYjNQZmJNZlRWZXRzTDg5dlZYUGNXalE1ajdLUzc4blptZWJVaWdqYUFWcjViR1gxazBrSXp6bHFScVBRV3hQNEpLbi1fRm1CTGlPNUMtMDJTS0gyN3lzU2lrTDZhQjFoaWZtMXQxUThHV19oNmxzTFFGNnRlMlEyb3JQeDF6dm16bE5odlEzcGZ6THBEUDVEelktZmhHV2ZSM28?oc=5",
-  "https://tass.ru/ekonomika/28250519",
-  "title:Трамп сообщил об инвестициях Audi в строительство автозавода в США",
-  "skip:https://www.kommersant.ru/doc/9059932",
   "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
   "title:Барак Обама выступил с критикой Дональда Трампа на митинге в Огайо",
   "skip:https://tass.ru/proisshestviya/28250503",
@@ -998,5 +990,13 @@
   "skip:https://ria.ru/20261027/orl-2127317043.html",
   "skip:https://tass.ru/proisshestviya/28258735",
   "https://www.interfax.ru/russia/1125281",
-  "title:Число погибших при ракетном ударе по заводу в Орле возросло до пяти"
+  "title:Число погибших при ракетном ударе по заводу в Орле возросло до пяти",
+  "skip:https://www.kommersant.ru/doc/9061998",
+  "https://tass.ru/kultura/28258953",
+  "title:HBO утвердила актеров на роли родителей Гарри Поттера в сериале",
+  "skip:https://www.france24.com/en/turnout-high-as-israeli-voters-deliver-verdict-on-netanyahu",
+  "skip:https://www.france24.com/en/israel-netanyahu-supporters-gather-as-pm-votes",
+  "skip:https://news.google.com/rss/articles/CBMitAFBVV95cUxQdkNIdDBFN3czS0Vrc29VYkItdTdmX29IM2NIbU1aRVFsUW80Y1JsTTlEUXRqODZ6N1dEakJ3SXhja3JneWNodFFpNHV3UkV1RVNHcVhTU3ZXVU5hQ25ySXc1ZFhxcTJjRG1kdlgzdE9ldHQwQ3VqTUZ6anhuUmJ4R2JNTGlYeG1wbV9Ca3MxV18zTkNHdHRFTmRSdGZmNlJ2WUZfVVFpX2JmRlI0dGNfaXNHSUU?oc=5",
+  "https://www.france24.com/en/video/20261027-israel-s-unique-political-system-what-happens-after-polls-close",
+  "title:В Израиле проходят досрочные парламентские выборы с высокой явкой"
 ]

@@ -1,14 +1,4 @@
 [
-  "title:В Сербии задержали подозреваемого в нападении на Ангелину Вучич",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28251885",
-  "https://ria.ru/20261025/yotova-2126934548.html",
-  "title:Илияна Йотова лидирует на выборах президента Болгарии по данным экзитполов",
-  "skip:https://ria.ru/20261025/vsu-2126934961.html",
-  "skip:https://ria.ru/20261025/vsu-2126934714.html",
-  "skip:https://ria.ru/20261025/mchs-2126934256.html",
-  "skip:https://tass.ru/proisshestviya/28251933",
-  "https://www.interfax.ru/russia/1124907",
-  "title:Число пострадавших при атаке ВСУ на промышленную зону в Ельце увеличилось до шести человек",
   "skip:https://tass.ru/proisshestviya/28251915",
   "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
   "title:Шторм «Боэло» привел к гибели человека и масштабным отключениям света в Великобритании",
@@ -998,5 +988,15 @@
   "title:Трамп предложил сделать Венесуэлу 51-м штатом США",
   "skip:https://www.aljazeera.com/news/2026/10/27/egypt-orders-closure-of-leading-independent-news-site-mada-masr?traffic_source=rss",
   "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
-  "title:Суд в Египте приговорил главреда Mada Masr к штрафу и предписал закрыть издание"
+  "title:Суд в Египте приговорил главреда Mada Masr к штрафу и предписал закрыть издание",
+  "skip:https://www.interfax.ru/world/1125356",
+  "skip:https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28259975",
+  "https://www.rbc.ru/politics/28/10/2026/6ae124206fa80a586f39aabb",
+  "title:Экс-кандидат в президенты Бразилии Флавиу Болсонару прибыл в США, Вашингтон одобрил ему визу",
+  "skip:https://www.aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election?traffic_source=rss",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28260009",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28259957",
+  "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
+  "title:Арабские партии получили рекордное число мест на парламентских выборах в Израиле"
 ]

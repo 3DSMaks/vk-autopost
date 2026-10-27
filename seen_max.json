@@ -1,8 +1,4 @@
 [
-  "skip:https://www.playground.ru/misc/news/runescape_reignited_otmenili_spustya_12_dnej_posle_anonsa_razrabotchiki_prislushalis_k_igrokam-1882065#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.playground.ru/misc/news/betmen_2_snimet_drugoj_rezhissyor_stiven_soderberg_zavershit_rabotu_nad_filmom_vmesto_metta_rivza-1882064#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.pcgamer.com/games/mmo/less-than-2-weeks-after-announcing-runescape-reignited-jagex-is-scrapping-the-whole-thing/",
-  "skip:https://www.pcgamer.com/movies-tv/street-fighter-review-roundup-sorry-folks-but-it-sounds-like-a-mess/",
   "skip:https://www.ign.com/articles/runescape-reignited-cancelled-less-than-two-weeks-after-being-announced",
   "https://gamemag.ru/news/201683/cyberpunk-2s-director-is-a-big-reason-to-be-hyped-for-the-secretive-2077-sequel",
   "title:Работа над продолжением Cyberpunk 2077 набирает обороты",
@@ -998,5 +994,9 @@
   "https://www.igromania.ru/news/169548/seriya-call-of-duty-zarabotala-40-mlrd-dollarov-rasskazala-glava-xbox-asha-sharma/",
   "title:Серия Call of Duty заработала 40 млрд долларов — рассказала глава Xbox Аша Шарма",
   "https://kg-portal.ru/comments/135542-vyshel-russkij-trejler-klejfejsa/",
-  "title:Вышел русский трейлер \"Клэйфейса\""
+  "title:Вышел русский трейлер \"Клэйфейса\"",
+  "skip:https://stopgame.ru/newsdata/73296/zapusk_ranney_versii_emberville_perenesli_na_yanvar",
+  "skip:https://www.pcgamer.com/games/rpg/one-day-before-launch-arpg-emberville-gets-delayed-until-2027/",
+  "https://www.ign.com/articles/gta-6-causes-17-spike-in-time-off-requests-on-games-release-date",
+  "title:GTA 6 Causes 17% Spike in Time Off Requests on Game's Release Date"
 ]

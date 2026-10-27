@@ -1,11 +1,4 @@
 [
-  "title:Манчестер Сити проиграл Астон Вилле со счетом 1:2 и потерпел первое поражение в АПЛ",
-  "skip:https://tass.ru/proisshestviya/28249897",
-  "https://ria.ru/20261024/turtsija-2126761510.html",
-  "title:В ДТП в Турции погибли шесть человек, включая четверых детей",
-  "skip:https://ria.ru/20261024/chp-2126765889.html",
-  "skip:https://tass.ru/proisshestviya/28249991",
-  "skip:https://tass.ru/proisshestviya/28249989",
   "skip:https://www.interfax.ru/russia/1124777",
   "https://www.kommersant.ru/doc/9059892",
   "title:Логистический центр Ozon и промышленная зона в Омске подверглись атаке БПЛА",
@@ -998,5 +991,12 @@
   "skip:https://www.interfax.ru/russia/1125166",
   "skip:https://www.rbc.ru/rbcfreenews/6ae03a32a094ec13d1aac5a9",
   "https://www.interfax.ru/russia/1125173",
-  "title:ВС РФ нанесли ночной удар по объектам ВПК и мосту в Киеве"
+  "title:ВС РФ нанесли ночной удар по объектам ВПК и мосту в Киеве",
+  "skip:https://www.interfax.ru/world/1125185",
+  "skip:https://www.france24.com/en/polls-open-in-israeli-election-seen-as-referendum-on-netanyahu",
+  "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+  "title:В Израиле начались парламентские выборы",
+  "skip:https://tass.ru/ekonomika/28256779",
+  "https://www.interfax.ru/russia/1125187",
+  "title:ФАС проводит антикартельные проверки переработчиков семян подсолнечника"
 ]

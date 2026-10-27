@@ -1,11 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1124757",
-  "https://www.interfax.ru/russia/1124764",
-  "title:В аэропорту Сочи вводились временные ограничения на прием и выпуск самолетов",
-  "skip:https://ria.ru/20261024/omskaya-2126740534.html",
-  "skip:https://tass.ru/proisshestviya/28249743",
-  "https://www.kommersant.ru/doc/9059861",
-  "title:Силы ПВО отражают атаку беспилотников на Омскую область",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28249755",
   "skip:https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSk1kdkRlZlJWcUhpbzJzSW1OS2RSRG4zVXd1Y0Vsci1UQjR3ZGZiX2xyU2w4TG1YRUZ6VVhfajRiVmt1MTZxdm5rOXF4MUlEbEN0VjJxb2EyR2VCOGUtRzY3MkprdHZlMVBPckJoOVJFcEtkUVZ0cjNlYzNnSVRXM2t3YnZFM0FkLWRUdWRabDlONk1qeVNQa0JNMndwU1lRcG9GUUZtWG0?oc=5",
   "skip:https://ria.ru/20261024/tramp-2126744018.html",
@@ -998,5 +991,12 @@
   "skip:https://news.google.com/rss/articles/CBMinAFBVV95cUxOVFhiQXJoSHJjeFJsN3VtWEpEbTEzcktHWnRFU0ZpSW02MXJQcVpWaUEyMW81U19Ea2lBQnA2Nk10QlI5cTlMUGhuZG9ZSDlQVWh3OEV4STB2WXYwc2FCelZRak5PV1hCYmNHWGFCLWhMSUt4WFRKVFlaeldwdExWaXlHR210NllvNFR3ekxNakxOWVVuR08xU0lSSUo?oc=5",
   "skip:https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbjhLRWY2TklCLUNVM1FrTnE3emllZURtQlRkb1VRQmtESF9PNk4tbmlyU1ppYjZaZVo2d3Y4MjhjTFcwOFFnZi14TUljaEhKUmk3alpJcXNlSUN1RFVLQnl6ajdja2tvcUk4cXczVzdDSXRkbms4bHlTLXNfQzRIN29zdklUUjZwODhWd002SW5Ub0s3NTdKQ2JhVTBrbXhfWTBZc29RenpXVlBlUFhpQTJPaVFmQ0k1b0pZ?oc=5",
   "https://www.interfax.ru/world/1125125",
-  "title:Минюст США выдвинул новые обвинения против экс-директора ФБР Джеймса Коми"
+  "title:Минюст США выдвинул новые обвинения против экс-директора ФБР Джеймса Коми",
+  "skip:https://www.interfax.ru/moscow/1125126",
+  "skip:https://tass.ru/ekonomika/28256053",
+  "skip:https://www.interfax.ru/moscow/1125122",
+  "skip:https://ria.ru/20261027/reysy-2127178689.html",
+  "skip:https://tass.ru/ekonomika/28255985",
+  "https://ria.ru/20261027/ogranicheniya-2127183097.html",
+  "title:В московском аэропорту Внуково сняты временные ограничения на полеты"
 ]

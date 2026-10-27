@@ -1,14 +1,4 @@
 [
-  "skip:https://tass.ru/obschestvo/28249767",
-  "https://ria.ru/20261024/sochi-2126746422.html",
-  "title:Росавиация сняла временные ограничения на работу нескольких российских аэропортов",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28249907",
-  "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
-  "title:Число погибших при стрельбе в церкви в Иордании увеличилось до девяти",
-  "skip:https://ria.ru/20261024/futbol-2126748750.html",
-  "skip:https://tass.ru/sport/28249851",
-  "skip:https://www.rbc.ru/sport/24/10/2026/6acddbd5ef402648397549d4",
-  "https://www.aljazeera.com/sports/2026/10/24/aston-villa-inflict-man-citys-first-premier-league-defeat-of-the-season?traffic_source=rss",
   "title:Манчестер Сити проиграл Астон Вилле со счетом 1:2 и потерпел первое поражение в АПЛ",
   "skip:https://tass.ru/proisshestviya/28249897",
   "https://ria.ru/20261024/turtsija-2126761510.html",
@@ -998,5 +988,15 @@
   "title:При атаке беспилотника на автобус в Запорожской области погиб пассажир",
   "skip:https://www.interfax.ru/world/1125135",
   "https://www.kommersant.ru/doc/9061250",
-  "title:Дональд Трамп возложил на Иран ответственность за начало конфликта с США"
+  "title:Дональд Трамп возложил на Иран ответственность за начало конфликта с США",
+  "skip:https://www.rbc.ru/rbcfreenews/6ae03dbb3182810645600373",
+  "skip:https://www.interfax.ru/russia/1125160",
+  "https://www.kommersant.ru/doc/9061332",
+  "title:Силы ПВО за ночь уничтожили 222 украинских беспилотника над регионами РФ",
+  "skip:https://www.kommersant.ru/doc/9061346",
+  "skip:https://www.rbc.ru/rbcfreenews/6ae0421f3d5c5cd26b1e28a6",
+  "skip:https://www.interfax.ru/russia/1125166",
+  "skip:https://www.rbc.ru/rbcfreenews/6ae03a32a094ec13d1aac5a9",
+  "https://www.interfax.ru/russia/1125173",
+  "title:ВС РФ нанесли ночной удар по объектам ВПК и мосту в Киеве"
 ]

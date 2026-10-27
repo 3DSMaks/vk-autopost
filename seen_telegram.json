@@ -1,14 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73163/bolshie_ambicii_reakciya_na_perenosy_i_ne_tolko_interview_s_rockstar_o_razrabotke_gta_vi",
-  "skip:https://www.pcgamer.com/games/action/gta-6-was-delayed-partially-because-the-amount-of-npcs-was-horrifying-and-required-a-dedicated-studio-full-of-writers-to-handle/",
-  "skip:https://gamemag.ru/news/201651/bloomberg-article-the-making-of-grand-theft-auto-vi",
-  "skip:https://www.ign.com/articles/gta-6-developer-rockstar-insists-its-next-game-wont-take-another-8-years-to-make",
-  "https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/nintendo_pokazala_trejler_remejka_the_legend_of_zelda_ocarina_of_time_klassika_poluchit_orkestrovuyu_muzyku_i_ozvuchku-1881612#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Nintendo показала трейлер ремейка The Legend of Zelda: Ocarina of Time - классика получит оркестровую музыку и озвучку",
-  "https://www.kinonews.ru/news_143646/",
-  "title:В первых отзывах \"Глиноликого\" сравнили с \"Мухой\"",
-  "skip:https://www.playground.ru/call_of_duty_2026/news/pervyj_sezon_call_of_duty_modern_warfare_4_startuet_6_noyabrya_detali_poka_ne_raskryty-1881670#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.pcgamer.com/gaming-industry/assassins-creed-black-flag-resynced-was-a-big-hit-and-now-its-time-for-big-layoffs-at-the-studio-that-made-it/",
   "skip:https://stopgame.ru/newsdata/73164/obzornyy_trailer_i_preview_remeyka_the_legend_of_zelda_ocarina_of_time",
   "skip:https://gamemag.ru/news/201654/ocarina-of-time-remake-october-2026",
   "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-is-more-different-than-you-think-ign-preview",
@@ -998,5 +988,15 @@
   "skip:https://www.film.ru/news/amanda-sayfred-i-strazhi-galaktiki",
   "skip:https://www.kinonews.ru/news_143834/",
   "https://www.film.ru/news/kianu-rivz-vmesto-alana-richsona",
-  "title:Киану Ривз вместо Алана Ричсона"
+  "title:Киану Ривз вместо Алана Ричсона",
+  "skip:https://www.playground.ru/dead_by_daylight/news/behaviour_interactive_obyasnila_uhod_chaki_iz_dead_by_daylight_i_dopustila_ego_vozvraschenie-1885119#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169550/predzagruzka-phantom-blade-zero-startovala-igrokov-prosyat-ostavit-ne-menee-300-gb-svobodnogo-mesta/",
+  "skip:https://www.ign.com/articles/dead-by-daylight-devs-explain-chuckys-exit-from-stores-and-says-horror-icons-removed-due-to-licenses-have-open-invitation-to-rejoin",
+  "skip:https://stopgame.ru/newsdata/73295/dlya_predzagruzki_phantom_blade_zero_na_pk_ponadobitsya_300_gb_svobodnogo_mesta",
+  "skip:https://www.ign.com/articles/composer-austin-wintory-shares-22-minutes-of-music-created-for-biowares-canceled-mass-effect-5",
+  "skip:https://www.pcgamer.com/games/mass-effect/veteran-game-composer-in-talks-to-score-mass-effect-5-shares-20-minutes-of-music-he-wrote-for-the-project-to-even-dream-in-your-sandbox-was-a-privilege/",
+  "skip:https://gamemag.ru/news/201855/ostin-uintori-podelilsya-konceptom-saundtreka-dlya-otmenennoy-mass-effect-5-on-mechtal-porabotat",
+  "skip:https://www.ign.com/articles/assassins-creed-black-flag-resynced-final-major-content-update-coming-this-week",
+  "https://www.igromania.ru/news/169544/silent-hill-remake-planiruyut-vyipustit-v-2027-godu-raskryityi-imena-dvuh-aktris-mp1st/",
+  "title:Silent Hill Remake﻿ планируют выпустить в 2027 году, раскрыты имена двух актрис — Mp1st"
 ]

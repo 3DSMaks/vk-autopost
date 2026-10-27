@@ -1,6 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73174/versiya_007_first_light_dlya_switch_2_vyydet_18_marta",
-  "skip:https://gamemag.ru/news/201661/introducing-xbox-nano-controller",
   "skip:https://stopgame.ru/newsdata/73169/xbox_anonsirovala_portativnyy_geympad_nano_controller",
   "skip:https://gamemag.ru/news/201650/narnia-the-magicians-nephew-trailer",
   "https://www.playground.ru/gta_6/news/rockstar_vossozdast_klimat_floridy_v_gta_6_cherez_prodvinutuyu_sistemu_potootdeleniya_personazhej-1881816#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +996,7 @@
   "skip:https://www.ign.com/articles/pokemon-unite-offline-2027-in-game-sales-suspended",
   "skip:https://www.igromania.ru/news/169554/populyarnaya-moba-s-pokemonami-pokemon-unite-zakroetsya-v-marte-2027-goda-na-vseh-ustrojstvah/",
   "https://www.playground.ru/resident_evil_code_veronica_x/news/remejk_resident_evil_code_veronica_neskolko_raz_perezapuskali_vo_vremya_razrabotki-1885160#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Ремейк Resident Evil Code: Veronica несколько раз перезапускали во время разработки"
+  "title:Ремейк Resident Evil Code: Veronica несколько раз перезапускали во время разработки",
+  "https://www.playground.ru/misc/news/tsifrovye_prodazhi_capcom_prevysili_92_na_fone_silnyh_rezultatov_resident_evil_i_monster_hunter-1885176#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Цифровые продажи Capcom превысили 92% на фоне сильных результатов Resident Evil и Monster Hunter"
 ]

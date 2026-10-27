@@ -1,11 +1,4 @@
 [
-  "skip:https://tass.ru/obschestvo/28251567",
-  "skip:https://ria.ru/20261025/moskva-2126885923.html",
-  "skip:https://www.kommersant.ru/doc/9060100",
-  "https://www.rbc.ru/rbcfreenews/6ade02dfede3e202eabc0c83",
-  "title:В Москве начали прокладку соединительной ветки между Бирюлевской и Замоскворецкой линиями метро",
-  "skip:https://tass.ru/proisshestviya/28251637",
-  "skip:https://tass.ru/proisshestviya/28251621",
   "skip:https://www.rbc.ru/rbcfreenews/6ade065e886698fec9a29aef",
   "skip:https://www.kommersant.ru/doc/9060128",
   "https://tass.ru/obschestvo/28251643",
@@ -998,5 +991,12 @@
   "title:Партия президента Сербии Александра Вучича проиграла на выборах под давлением протестов",
   "skip:https://www.kommersant.ru/doc/9062300",
   "https://www.interfax.ru/world/1125337",
-  "title:США рассматривают возможность отмены санкций против Российского фонда прямых инвестиций"
+  "title:США рассматривают возможность отмены санкций против Российского фонда прямых инвестиций",
+  "skip:https://tass.ru/politika/28256543",
+  "skip:https://www.kommersant.ru/doc/9062306",
+  "https://ria.ru/20261027/vstrecha-2127398807.html",
+  "title:Владимир Путин провел переговоры с президентом Мозамбика в Кремле",
+  "skip:https://www.interfax.ru/world/1125339",
+  "https://ria.ru/20261027/rfpi-2127396393.html",
+  "title:США рассматривают возможность отмены санкций против РФПИ и использования дизельной сделки как стимула"
 ]

@@ -1,15 +1,4 @@
 [
-  "https://ria.ru/20261024/politsija-2126794080.html",
-  "title:В Албании полиция применила слезоточивый газ против участников антиправительственной акции в Тиране",
-  "skip:https://www.interfax.ru/russia/1124807",
-  "skip:https://tass.ru/proisshestviya/28250239",
-  "https://www.rbc.ru/rbcfreenews/6add10869a6736607dca58c6",
-  "title:При атаках беспилотников и обстрелах в Белгородской и Брянской областях погибли мирные жители",
-  "skip:https://ria.ru/20261024/lipetsk-2126799053.html",
-  "skip:https://tass.ru/proisshestviya/28250277",
-  "https://www.interfax.ru/russia/1124809",
-  "title:В Липецке обломки сбитого беспилотника упали на парковку, повредив автомобили",
-  "skip:https://ria.ru/20261024/sport-2126799833.html",
   "skip:https://tass.ru/sport/28250295",
   "skip:https://www.rbc.ru/sport/24/10/2026/6adcd49ffff624a507690aba",
   "https://www.sport-interfax.ru/1124811",
@@ -998,5 +987,16 @@
   "skip:https://news.google.com/rss/articles/CBMivwFBVV95cUxNdUEtRWJxSk5SSk1MQUh1TXhtZlNxa0VwOHFZaWNaMEVHZlpneEJza25scXpwaE5tSFo0MkxDVWwtSzZXWVp1X05EaUpHTFFJQ1JWMXVmdjhTc29ldVF6d081emZhYlduWS1fYXVzMmdLOEdhN3RXemYzR0J6amN1MXRyRHNyZ205dWxqaXcwZXJRaG1IQlR2RkJTUGJIZjJWUEpLVkZEWVBfTWd6c21zdlFBLUJaeVZKekpkZWhMWQ?oc=5",
   "skip:https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
   "https://www.rbc.ru/sport/27/10/2026/6ae079569a7947821de0a147",
-  "title:Китайские бренды и телевидение разорвали контракты с Килианом Мбаппе из-за шутки про мем"
+  "title:Китайские бренды и телевидение разорвали контракты с Килианом Мбаппе из-за шутки про мем",
+  "skip:https://www.rbc.ru/rbcfreenews/6ae08318cab7aee9eca7075a",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28257917",
+  "skip:https://ria.ru/20261027/putin-2127263490.html",
+  "https://www.rbc.ru/rbcfreenews/6ae080b3bf0ad6cfa0ea4fc0",
+  "title:Зеленский провел переговоры со Стуббом и Стёре после их телефонного разговора с Путиным",
+  "skip:https://www.france24.com/en/middle-east/20261027-syria-slams-deadly-jordan-strikes-as-unacceptable-breach-of-airspace",
+  "skip:https://www.france24.com/en/jordan-launches-airstrikes-in-syria-after-church-attack",
+  "skip:https://www.aljazeera.com/video/newsfeed/2026/10/27/families-of-victims-killed-in-jordanian-strike-deny-links-to-church-attack?traffic_source=rss",
+  "skip:https://www.aljazeera.com/news/2026/10/27/why-jordan-has-struck-syria-what-we-know?traffic_source=rss",
+  "https://www.france24.com/en/video/20261027-algeria-deploys-army-units-to-niger-to-protect-economic-interests",
+  "title:Сирия осудила авиаудары Иордании по своей территории в ответ на нападение на церковь"
 ]

@@ -1,8 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169224/horror-bad-cheese-i-shpionskuyu-golovolomku-agent-a-stali-besplatno-otdavat-v-egs/",
-  "skip:https://www.igromania.ru/news/169223/razgromlennuyu-fanatami-total-war-shogun-2-complete-edition-vremenno-snimut-s-prodazhi/",
-  "skip:https://stopgame.ru/newsdata/73182/tolko_lyubov_nikogda_ne_kolebletsya_trailer_k_zapusku_gta_vi",
-  "https://gamemag.ru/news/201674/wolverine-sales-update-alinea",
   "title:Alinea Analytics: Продажи Marvel’s Wolverine достигли 2,5 миллиона копий, Forza Horizon 6 — 8,8 миллиона копий",
   "skip:https://www.film.ru/news/pchelovod-2-vyydet-v-rossii",
   "skip:https://www.film.ru/news/zendeya-sygraet-v-filme-aleksa-garlenda",
@@ -998,5 +994,9 @@
   "skip:https://gamemag.ru/news/201869/glava-epic-games-tim-suini-valve-godami-tormozit-razvitie-industrii",
   "https://gamemag.ru/news/201861/v-final-fantasy-vii-revelation-igroki-snova-smogut-posetit-gorod-midgar-no-s-bolshim-syurprizom",
   "video:2026-10-27:https://gamemag.ru/news/201861/v-final-fantasy-vii-revelation-igroki-snova-smogut-posetit-gorod-midgar-no-s-bolshim-syurprizom",
-  "title:Мидгар станет ещё больше: В Final Fantasy VII Revelation игрокам позволят исследовать новые районы знаменитого города"
+  "title:Мидгар станет ещё больше: В Final Fantasy VII Revelation игрокам позволят исследовать новые районы знаменитого города",
+  "skip:https://kg-portal.ru/comments/135554-djuna-chast-3-finalnyj-trejler/",
+  "skip:https://www.kinonews.ru/news_143836/",
+  "https://kg-portal.ru/comments/135551-put-pacanavoina-trejler/",
+  "title:Крис Пратт сделает из хлюпика настоящего мужика в трейлере фильма \"Путь Пацана-Воина\""
 ]

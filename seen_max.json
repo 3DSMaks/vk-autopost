@@ -1,11 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143657/",
-  "skip:https://www.kinonews.ru/news_143652/",
-  "https://deadline.com/2026/10/frisco-king-trailer-release-date-taylor-sheridan-paramount-1237157647/",
-  "title:‘Frisco King’: Samuel L. Jackson Plays “Outside The Law” In Teaser For Taylor Sheridan’s ‘Tulsa King’ Spinoff As Paramount+ Sets Winter Release",
-  "skip:https://www.pcgamer.com/games/strategy/the-shogun-2-remaster-is-so-bad-sega-is-removing-it-from-sale-and-bringing-back-the-original/",
-  "skip:https://www.ign.com/articles/total-war-shogun-2-remaster-pulled-from-sale",
-  "skip:https://www.igromania.ru/news/169223/razgromlennuyu-fanatami-total-war-shogun-2-complete-edition-vremenno-snimut-s-prodazhi/",
   "https://www.ign.com/articles/gta-6s-level-of-detail-is-so-extreme-rockstar-built-an-entire-scripted-system-just-for-sweat",
   "title:GTA 6's Level of Detail Is So Extreme, Rockstar Built an Entire Scripted System Just for Sweat",
   "skip:https://www.film.ru/news/pchelovod-2-vyydet-v-rossii",
@@ -998,5 +991,12 @@
   "skip:https://gamemag.ru/news/201853/ubisoft-gotova-rasskazat-o-budushchem-assassins-creed",
   "skip:https://www.ign.com/articles/assassins-creed-black-flag-resynced-final-major-content-update-coming-this-week",
   "https://www.playground.ru/sid_meiers_civilization_7/news/firaxis_priznala_chto_s_civilization_vii_poshla_nemnogo_ne_tuda_smelye_izmeneniya_otpugnuli_veteranov_serii-1885111#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Firaxis признала, что с Civilization VII пошла немного не туда: смелые изменения отпугнули ветеранов серии"
+  "title:Firaxis признала, что с Civilization VII пошла немного не туда: смелые изменения отпугнули ветеранов серии",
+  "skip:https://www.igromania.ru/news/169550/predzagruzka-phantom-blade-zero-startovala-igrokov-prosyat-ostavit-ne-menee-300-gb-svobodnogo-mesta/",
+  "skip:https://www.ign.com/articles/dead-by-daylight-devs-explain-chuckys-exit-from-stores-and-says-horror-icons-removed-due-to-licenses-have-open-invitation-to-rejoin",
+  "skip:https://stopgame.ru/newsdata/73295/dlya_predzagruzki_phantom_blade_zero_na_pk_ponadobitsya_300_gb_svobodnogo_mesta",
+  "skip:https://gamemag.ru/news/201844/krasota-ujasnogo-mira-horror-cronos-the-new-dawn-poluchil-fotorejim",
+  "skip:https://gamemag.ru/news/201849/komanda-warhammer-40000-boltgun-i-starship-troopers-ultimate-bug-war-lishilas-chetverti-sotrudnikov",
+  "https://gamemag.ru/news/201848/rockstar-games-nachala-rassylat-press-kopii-grand-theft-auto-vi",
+  "title:Rockstar Games начала рассылать пресс-копии Grand Theft Auto VI"
 ]

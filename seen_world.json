@@ -1,11 +1,4 @@
 [
-  "title:Пентагон готовит военные базы США к 90 дням автономной работы на случай конфликта",
-  "skip:https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss",
-  "skip:https://www.france24.com/en/video/20261025-marine-le-pen-launches-presidential-campaign-in-orl%C3%A9ans",
-  "https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss",
-  "title:Марин Ле Пен официально запустила свою президентскую кампанию во Франции",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28252155",
-  "https://www.rbc.ru/politics/26/10/2026/6ade80440795599cc8ca3107",
   "title:Сторонники «Студенческого списка» празднуют победу на парламентских выборах в Сербии",
   "skip:https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGctT2oxWjdadkIwMXJCRjZMRUdYWmFDQ0dvUGNxaTcxLUNCSDE3WmJzUUlXZEljc3VpWklocFJUeno0WkVTSUdBblB1MzNrYTNTYXVrTHdUMGU4a3FRd3cxZkNvcUU0N1FhbVIyS19FT0treHg3a1FwTTlMSm0tWDlwTFB6bjBiMDJGVWV6U083WWt0RHotazB0M0pVemVaY2J1SWhiT0xlU0xpYWctU1Fn?oc=5",
   "skip:https://ria.ru/20261026/barselona-2126951444.html",
@@ -998,5 +991,12 @@
   "title:Футбольный клуб четвертого дивизиона «Флитвуд Таун» выбил «Арсенал» из Кубка лиги",
   "skip:https://news.google.com/rss/articles/CBMikgFBVV95cUxOM1hja3hGcG1XTFEyajJxMVdPaUZZdkVnd1hMOUlEUDU1Z091NHlvR3FmelozWjhFc2Z6YjVsZWJBR1FoS3F2OU1QU0g0T3ZkWmVqSkFkYXhhMEludXdlaTJNdnU1bE5zNVFVYTZLeURJWUtNY0hSTWJ3ZUt4cWJ1dlVjMi1nWGtNc3Q1RlNJSGFjdw?oc=5",
   "https://tass.ru/proisshestviya/28260719",
-  "title:В Сербии застрелили мужчину при нападении на охранника у посольства Израиля"
+  "title:В Сербии застрелили мужчину при нападении на охранника у посольства Израиля",
+  "skip:https://www.rbc.ru/rbcfreenews/6ae193cde7885c4b8c0f4055",
+  "https://www.kommersant.ru/doc/9062520",
+  "title:МВД назвало отсутствие военного билета основанием для отказа в выдаче загранпаспорта",
+  "skip:https://www.rbc.ru/politics/28/10/2026/6ae19cbd346a9dbdf885f10c",
+  "skip:https://ria.ru/20261028/ek-2127444882.html",
+  "https://www.interfax.ru/russia/1125408",
+  "title:Евросоюз готовит делегацию для участия в трехсторонних переговорах по Украине в Абу-Даби"
 ]

@@ -1,8 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9060271",
-  "skip:https://tass.ru/obschestvo/28252045",
-  "skip:https://ria.ru/20261025/ogranicheniya-2126944444.html",
-  "skip:https://tass.ru/obschestvo/28252023",
   "https://ria.ru/20261025/ogranichenija-2126946887.html",
   "title:В трех московских аэропортах вводились и были отменены временные ограничения на полеты",
   "skip:https://www.france24.com/en/europe/20261025-serbia-s-vucic-concedes-defeat-in-historic-snap-election-with-record-turnout",
@@ -998,5 +994,9 @@
   "title:Трамп заявил, что конфликт с Ираном завершится по его желанию",
   "skip:https://ria.ru/20261028/ssha-2127415096.html",
   "https://news.google.com/rss/articles/CBMivAFBVV95cUxQclRmNndRN0ZxR18wcDdQUy01TjRUZnN3V2NOMGRPcmF1WnZCVDM0TzgzWHdHSVpISFgzWnFYbDlpazlmZVpIVEltalZ0cHVSak1YQ1ZkVmtTbXFvcFhUVFFoSE5NTWR1UTFWdnp0bGtxVXJYM0c0VmgxbS1KS1EtUW9qb2xCVEhHVWdNWVdvTWpVZnp6QW13TWVGOEhPeXF1MVlPTWhpTmV2Q0N3MjUxaVdEeU5MZFRLLWRCOA?oc=5",
-  "title:Военные расходы США на конфликт с Ираном превысили $47 млрд"
+  "title:Военные расходы США на конфликт с Ираном превысили $47 млрд",
+  "skip:https://ria.ru/20261028/finlyandiya-2127421565.html",
+  "skip:https://www.rbc.ru/rbcfreenews/6ae149b6120adf4c76e75478",
+  "https://tass.ru/politika/28260229",
+  "title:В Кремле и Финляндии прокомментировали телефонный разговор Путина со Стуббом и Стёре"
 ]

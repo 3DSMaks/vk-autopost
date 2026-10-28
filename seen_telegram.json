@@ -1,7 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-release-date-launch-times-early-access/",
-  "skip:https://www.ign.com/articles/heres-our-first-look-at-dark-link-in-the-legend-of-zelda-ocarina-of-time-remake",
-  "skip:https://www.pcgamer.com/software/platforms/little-tim-is-so-obsessed-with-gabe-former-valve-writer-baffled-by-epic-ceo-tim-sweeneys-attempts-to-compete-with-steam-via-vibe-coding/",
   "skip:https://stopgame.ru/newsdata/73199/bandai_namco_vypustila_remaster_tales_of_eternia",
   "https://www.playground.ru/fallout_4/news/obnovlenie_1_46_dlya_fallout_4_ustranyaet_vylety_na_playstation_i_ispravlyaet_oshibki_v_creation_kit-1882233#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Обновление 1.46 для Fallout 4 устраняет вылеты на PlayStation и исправляет ошибки в Creation Kit",
@@ -998,5 +995,8 @@
   "skip:https://www.pcgamer.com/software/platforms/messages-in-certain-large-public-discord-servers-will-be-searchable-on-the-web-after-december/",
   "skip:https://www.ign.com/articles/discord-messages-in-discoverable-servers-will-soon-be-searchable-on-google",
   "https://www.playground.ru/ratchet_and_clank_future_a_crack_in_time/news/eksklyuziv_ps3_ratchet_clank_future_a_crack_in_time_poluchil_neofitsialnuyu_pk_versiyu_igru_uzhe_mozhno_projti_tselikom-1885508#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Эксклюзив PS3 Ratchet & Clank Future: A Crack in Time получил неофициальную ПК-версию - игру уже можно пройти целиком"
+  "title:Эксклюзив PS3 Ratchet & Clank Future: A Crack in Time получил неофициальную ПК-версию - игру уже можно пройти целиком",
+  "skip:https://www.kinonews.ru/news_143850/",
+  "https://www.film.ru/news/nikolay-koster-valdu-v-horror-seriale",
+  "title:Николай Костер-Вальду в хоррор-сериале"
 ]

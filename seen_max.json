@@ -1,8 +1,4 @@
 [
-  "title:J.K. Rowling’s Agent Neil Blair Condemns Trans Rights Protest At ‘Harry Potter And The Cursed Child’",
-  "skip:https://www.igromania.ru/news/169264/remaster-vampire-the-masquerade-bloodlines-yakobyi-dejstvitelno-nahoditsya-v-razrabotke/",
-  "skip:https://stopgame.ru/newsdata/73209/sluh_v_razrabotke_nahoditsya_remeyk_vtm_bloodlines",
-  "https://www.playground.ru/diablo_4/news/blizzard_tajno_dobavila_korovu_v_diablo_4_igroki_nedelyami_iskali_nesuschestvuyuschij_predmet-1882422#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Blizzard тайно добавила корову в Diablo 4 - игроки неделями искали несуществующий предмет",
   "skip:https://variety.com/2026/film/global/coen-brothers-profane-thank-you-lumiere-award-1236914700/",
   "skip:https://kg-portal.ru/comments/135416-strit-fajter-stanet-samoj-uspeshnoj-novinkoj-amerikanskogo-prokata/",
@@ -998,5 +994,9 @@
   "skip:https://www.pcgamer.com/games/rpg/crimson-desert-charting-the-unknown-dlc-release-date-launch-times/",
   "skip:https://stopgame.ru/newsdata/73310/datamayner_razmer_zagruzhaemyh_faylov_gta_vi_na_ps5_sostavit_210_gb",
   "https://www.playground.ru/call_of_duty_modern_warfare_4/news/activision_vypustila_hvalebnyj_trejler_call_of_duty_modern_warfare_4-1885557#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Activision выпустила хвалебный трейлер Call of Duty: Modern Warfare 4"
+  "title:Activision выпустила хвалебный трейлер Call of Duty: Modern Warfare 4",
+  "skip:https://www.film.ru/news/novyy-treyler-dzhumandzhi-otkrytyy-mir",
+  "skip:https://kg-portal.ru/comments/135564-duejn-dzhonson-vedet-sebja-kak-zhenschina-akaren-gillan-igraet-rol-eesyna-vtrejlere-ekshena-dzhumandzhi-otkrytyj-mir/",
+  "https://www.film.ru/news/lourens-vernetsya-k-golodnym-igram",
+  "title:Лоуренс вернется к Голодным играм"
 ]

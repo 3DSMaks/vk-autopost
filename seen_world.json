@@ -1,11 +1,4 @@
 [
-  "skip:https://ria.ru/20261026/bpla-2126977232.html",
-  "skip:https://www.rbc.ru/politics/26/10/2026/6adeed6da094ec13d1aac524",
-  "skip:https://ria.ru/20261026/voronezh-2126976575.html",
-  "skip:https://www.kommersant.ru/doc/9060402",
-  "skip:https://ria.ru/20261026/bpla-2126975343.html",
-  "https://tass.ru/proisshestviya/28252873",
-  "title:Два человека погибли и 17 пострадали при ночной атаке беспилотников на Воронежскую область",
   "skip:https://www.rbc.ru/politics/26/10/2026/6adeed9e9ef01666aea8ac3a",
   "https://www.interfax.ru/world/1124964",
   "title:Германия планирует приобрести у Украины партию крылатых ракет «Барс» для испытаний",
@@ -998,5 +991,12 @@
   "title:Число погибших при крушении поездов в Испании возросло до 64",
   "skip:https://news.google.com/rss/articles/CBMitAFBVV95cUxPSFFKVlhvVHNVYnBybVFJNEZPNEZ4Y2hRTjJac0NVMkxLb2tBbTVYOGVkblBNOWRHck4xSnV2WGpGV3lzTm5fckZNaldFSVltUERCQ3lIUFo3aDc5MVZkVzdRSklkcXFQbGR5OGlOTjBjaWNISnlFaVlyb3MzbFY5VGJiS2FBbENTdTVCYzlaX0JoTjRoYksyczJwQWdHX1NtcGliQ1pZejZoMEh4bjJsZ2JHdm8?oc=5",
   "https://www.rbc.ru/rbcfreenews/6ae20577b272553879d89ea4",
-  "title:Эфиопия получила от России истребители Су-35 и зенитные комплексы С-400"
+  "title:Эфиопия получила от России истребители Су-35 и зенитные комплексы С-400",
+  "skip:https://www.interfax.ru/business/1125576",
+  "https://www.kommersant.ru/doc/9063128",
+  "title:ЦБ России ужесточает условия и устанавливает лимиты на выдачу автокредитов на срок свыше 7 лет",
+  "skip:https://www.interfax.ru/russia/1125574",
+  "skip:https://www.rbc.ru/politics/28/10/2026/6ae2176f0aec7c2ab63c8e88",
+  "https://www.kommersant.ru/doc/9063127",
+  "title:Кремль прокомментировал слова Трампа о возможной скорой встрече лидеров России, США и Украины"
 ]

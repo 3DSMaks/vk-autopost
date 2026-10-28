@@ -1,10 +1,4 @@
 [
-  "skip:https://tass.ru/proisshestviya/28251915",
-  "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
-  "title:Шторм «Боэло» привел к гибели человека и масштабным отключениям света в Великобритании",
-  "skip:https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-  "https://tass.ru/proisshestviya/28251987",
-  "title:Нападение террористов на деревню на юге Нигерии привело к гибели людей",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28251983",
   "skip:https://ria.ru/20261025/serbija-2126938184.html",
   "skip:https://ria.ru/20261025/serbija-2126935739.html",
@@ -998,5 +992,11 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28260009",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28259957",
   "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
-  "title:Арабские партии получили рекордное число мест на парламентских выборах в Израиле"
+  "title:Арабские партии получили рекордное число мест на парламентских выборах в Израиле",
+  "skip:https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbm95bTdpVk5ZdnFONElTaDJ2SW9VM1RoUkppRXBCRlhuMVhtY3Q3RG9YNG5xdnQzOHVkTXJvcTFFN2hsbV9zYWFzYUxtQTNJaXBMX3RuRGxQay02cWlrbmdVUDlPWklmdFdHU0VFZTVWWnlmeDhVQzh6eTA5RElMZG80TGNIa2o3NXI4dXNFUUNJMWY4S3dRdFRudzJXLWx2OVk2T1JIS0k?oc=5",
+  "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+  "title:Братья Александер приговорены к 30 годам тюремного заключения по делу о торговле людьми",
+  "skip:https://news.google.com/rss/articles/CBMimwFBVV95cUxNNnBPa2VzUUoxM3RCb0cyd0Fmem05T0lHMVJrejNkdGdGLU1xRmZGQ0g4UDA5N2g2NVRSU0QyTkVWUTFaYXYxUVhDVUZuZElEaDA3dkNZTW9nM3VjXzlyR2R0LXA5a0doNmh5SF9WVVd0UDlYb3hRRHVnalJuZjdGSkNxYWVmUnVLZlJVMXFzX0tReVV0MnVDQ2Jodw?oc=5",
+  "https://tass.ru/obschestvo/28260007",
+  "title:В Швеции задержали бывшего депутата Верховной рады Украины"
 ]

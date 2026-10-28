@@ -1,10 +1,4 @@
 [
-  "skip:https://www.rbc.ru/politics/26/10/2026/6adeed9e9ef01666aea8ac3a",
-  "https://www.interfax.ru/world/1124964",
-  "title:Германия планирует приобрести у Украины партию крылатых ракет «Барс» для испытаний",
-  "skip:https://www.rbc.ru/rbcfreenews/6adefb2e15b96effbc221617",
-  "skip:https://www.interfax.ru/russia/1124965",
-  "skip:https://ria.ru/20261026/pvo-2126987678.html",
   "https://www.kommersant.ru/doc/9060452",
   "title:Минобороны сообщило о перехвате 290 украинских беспилотников за ночь",
   "skip:https://ria.ru/20261026/fsb-2126995850.html",
@@ -998,5 +992,11 @@
   "skip:https://www.interfax.ru/russia/1125574",
   "skip:https://www.rbc.ru/politics/28/10/2026/6ae2176f0aec7c2ab63c8e88",
   "https://www.kommersant.ru/doc/9063127",
-  "title:Кремль прокомментировал слова Трампа о возможной скорой встрече лидеров России, США и Украины"
+  "title:Кремль прокомментировал слова Трампа о возможной скорой встрече лидеров России, США и Украины",
+  "skip:https://www.france24.com/en/spain-pm-sanchez-gives-speech-on-train-collision",
+  "https://www.rbc.ru/rbcfreenews/6ae21d2314c09959e6e06bc4",
+  "title:В Испании объявлен трехдневный траур после железнодорожной катастрофы",
+  "skip:https://www.interfax.ru/world/1125577",
+  "https://ria.ru/20261028/es-2127645870.html",
+  "title:Ряд стран ЕС выступили против присвоения Канаде статуса ассоциированного члена"
 ]

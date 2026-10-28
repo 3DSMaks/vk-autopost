@@ -1,13 +1,4 @@
 [
-  "skip:https://www.playground.ru/misc/news/betmen_2_snimet_drugoj_rezhissyor_stiven_soderberg_zavershit_rabotu_nad_filmom_vmesto_metta_rivza-1882064#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.playground.ru/control_2/news/otlichnyj_start_v_remedy_otreagirovali_na_uspeh_control_resonant_posle_utechki_igry_v_set-1882062#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.ign.com/articles/remedy-boss-reacts-after-control-resonant-sells-1-million-copies-becoming-studios-fastest-selling-game",
-  "skip:https://www.pcgamer.com/games/mmo/less-than-2-weeks-after-announcing-runescape-reignited-jagex-is-scrapping-the-whole-thing/",
-  "skip:https://www.pcgamer.com/movies-tv/street-fighter-review-roundup-sorry-folks-but-it-sounds-like-a-mess/",
-  "skip:https://www.ign.com/articles/runescape-reignited-cancelled-less-than-two-weeks-after-being-announced",
-  "https://gamemag.ru/news/201683/cyberpunk-2s-director-is-a-big-reason-to-be-hyped-for-the-secretive-2077-sequel",
-  "video:2026-10-16:https://gamemag.ru/news/201683/cyberpunk-2s-director-is-a-big-reason-to-be-hyped-for-the-secretive-2077-sequel",
-  "title:Работа над продолжением Cyberpunk 2077 набирает обороты",
   "skip:https://deadline.com/2026/10/kylie-minogue-jonathan-groff-catherine-tate-bad-fairies-1237158983/",
   "skip:https://deadline.com/2026/10/netflix-shakeup-analysis-peter-rice-bela-bajaria-whats-next-1237158959/",
   "skip:https://variety.com/2026/film/news/netflix-bela-bajaria-why-did-she-leave-1236913635/",
@@ -998,5 +989,14 @@
   "skip:https://www.pcgamer.com/games/action/phantom-blade-zero-vs-onimusha-way-of-the-sword/",
   "skip:https://gamemag.ru/news/201872/prigotovte-svoy-klinok-startovala-predzagruzka-phantom-blade-zero",
   "https://www.ign.com/articles/resident-evil-executive-producer-says-the-series-story-could-end-in-the-next-10-years",
-  "title:Resident Evil Executive Producer Says the Series' Story Could End 'In the Next 10 Years'"
+  "title:Resident Evil Executive Producer Says the Series' Story Could End 'In the Next 10 Years'",
+  "skip:https://www.igromania.ru/news/169577/osnovnaya-istoriya-igr-resident-evil-mozhet-zavershitsya-v-techenie-sleduyuschih-10-let/",
+  "skip:https://www.igromania.ru/news/169574/ne-bojtes-kontsa-prizyivaet-poslednij-trejler-novoj-dyunyi-s-zendeej-pattinsonom-i-chervyami/",
+  "skip:https://www.igromania.ru/news/169572/garri-potteru-iz-novogo-seriala-nashli-mamu-i-papu-a-ronu-uizli-eschyo-odnogo-brata/",
+  "skip:https://gamemag.ru/news/201873/dune-part-three-final-trailer",
+  "skip:https://www.ign.com/articles/capcom-celebrates-record-sales-in-first-half-of-2027-fiscal-year-with-overwhelming-majority-being-digital-purchases",
+  "skip:https://stopgame.ru/newsdata/73307/don_t_nod_grozyat_massovye_uvolneniya_i_bankrotstvo",
+  "https://gamemag.ru/news/201874/cyberpunk-2-multiplayer-coming",
+  "video:2026-10-28:https://gamemag.ru/news/201874/cyberpunk-2-multiplayer-coming",
+  "title:CD Projekt RED может добавить кооперативный мультиплеер в Cyberpunk 2"
 ]

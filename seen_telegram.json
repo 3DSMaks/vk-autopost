@@ -1,6 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73199/bandai_namco_vypustila_remaster_tales_of_eternia",
-  "https://www.playground.ru/fallout_4/news/obnovlenie_1_46_dlya_fallout_4_ustranyaet_vylety_na_playstation_i_ispravlyaet_oshibki_v_creation_kit-1882233#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Обновление 1.46 для Fallout 4 устраняет вылеты на PlayStation и исправляет ошибки в Creation Kit",
   "https://www.film.ru/articles/problema-vyravnivaniya-obzor-pervyh-epizodov-seriala-kvest-vizhna",
   "title:Проблема выравнивания: обзор первых эпизодов сериала «Квест Вижна»",
@@ -998,5 +996,7 @@
   "title:Эксклюзив PS3 Ratchet & Clank Future: A Crack in Time получил неофициальную ПК-версию - игру уже можно пройти целиком",
   "skip:https://www.kinonews.ru/news_143850/",
   "https://www.film.ru/news/nikolay-koster-valdu-v-horror-seriale",
-  "title:Николай Костер-Вальду в хоррор-сериале"
+  "title:Николай Костер-Вальду в хоррор-сериале",
+  "https://www.playground.ru/call_of_duty_modern_warfare_4/news/startovyj_onlajn_call_of_duty_modern_warfare_4_na_xbox_okazalsya_na_32_nizhe_pokazatelej_black_ops_7-1885504#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Стартовый онлайн Call of Duty: Modern Warfare 4 на Xbox оказался на 32% ниже показателей Black Ops 7"
 ]

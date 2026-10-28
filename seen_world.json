@@ -1,10 +1,4 @@
 [
-  "title:Александр Вучич признал поражение своей партии на досрочных парламентских выборах в Сербии",
-  "skip:https://www.kommersant.ru/doc/9060270",
-  "https://www.interfax.ru/world/1124910",
-  "title:Йеменские хуситы заявили об ударах по аэропорту Эр-Рияда и военным базам в Саудовской Аравии",
-  "skip:https://www.kommersant.ru/doc/9060276",
-  "https://ria.ru/20261026/ssha-2126950367.html",
   "title:Пентагон готовит военные базы США к 90 дням автономной работы на случай конфликта",
   "skip:https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss",
   "skip:https://www.france24.com/en/video/20261025-marine-le-pen-launches-presidential-campaign-in-orl%C3%A9ans",
@@ -998,5 +992,11 @@
   "title:Аэропорты Внуково, Домодедово и Жуковский вводят временные ограничения на использование воздушного пространства",
   "skip:https://www.rbc.ru/rbcfreenews/6ae146c17e6744845c1dcd6e",
   "https://www.kommersant.ru/doc/9062354",
-  "title:Ким Чен Ын призвал командование Корейской народной армии повысить боеготовность"
+  "title:Ким Чен Ын призвал командование Корейской народной армии повысить боеготовность",
+  "skip:https://www.rbc.ru/sport/28/10/2026/6ae180a29a7947de2bfa546c",
+  "https://www.aljazeera.com/sports/2026/10/28/arsenal-fleetwood-town-league-cup-penalties-guimaraes-dowman?traffic_source=rss",
+  "title:Футбольный клуб четвертого дивизиона «Флитвуд Таун» выбил «Арсенал» из Кубка лиги",
+  "skip:https://news.google.com/rss/articles/CBMikgFBVV95cUxOM1hja3hGcG1XTFEyajJxMVdPaUZZdkVnd1hMOUlEUDU1Z091NHlvR3FmelozWjhFc2Z6YjVsZWJBR1FoS3F2OU1QU0g0T3ZkWmVqSkFkYXhhMEludXdlaTJNdnU1bE5zNVFVYTZLeURJWUtNY0hSTWJ3ZUt4cWJ1dlVjMi1nWGtNc3Q1RlNJSGFjdw?oc=5",
+  "https://tass.ru/proisshestviya/28260719",
+  "title:В Сербии застрелили мужчину при нападении на охранника у посольства Израиля"
 ]

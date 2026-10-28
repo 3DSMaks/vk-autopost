@@ -1,11 +1,4 @@
 [
-  "skip:https://www.rbc.ru/politics/26/10/2026/6ade6d0f0795599cc8ca30fa",
-  "skip:https://www.kommersant.ru/doc/9060274",
-  "skip:https://www.rbc.ru/politics/26/10/2026/6ade6bee19ccd917a21475b8",
-  "skip:https://www.rbc.ru/politics/26/10/2026/6ade6c960795599cc8ca30f7",
-  "skip:https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
-  "skip:https://ria.ru/20261025/rossiya-2126947376.html",
-  "skip:https://ria.ru/20261025/ssha-2126947051.html",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28252067",
   "skip:https://ria.ru/20261025/shtab-2126942275.html",
   "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
@@ -998,5 +991,12 @@
   "skip:https://www.rbc.ru/politics/28/10/2026/6ae1605197f247f6d0de2b64",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28260177",
   "https://www.interfax.ru/world/1125371",
-  "title:США предупредили страны Персидского залива о возможных военных действиях против Ирана"
+  "title:США предупредили страны Персидского залива о возможных военных действиях против Ирана",
+  "skip:https://news.google.com/rss/articles/CBMinwFBVV95cUxPT05MNG55Umh0cXBoZVlpeTVHTWdjZjhMb0hCS21LMmRiOU9ZWEhITjVYZEJBNXF6ejRwbDBBbThpMlNORGxacUV3T2s0VHp0YTV5UVdqRmpid09VNFg3RE1yT19SMmxhZk5ZNUtRcmdHQ3pFLUp5V01pdmVmcE9mdkhReFB0bmFoNGxqUEhCOVQxNlFITXByR2NUaGdsd0k?oc=5",
+  "https://www.interfax.ru/world/1125373",
+  "title:США перебрасывают зенитные ракетные комплексы Patriot на Ближний Восток на фоне возможной операции против Ирана",
+  "skip:https://ria.ru/20261028/reysy-2127421205.html",
+  "skip:https://tass.ru/ekonomika/28260219",
+  "https://www.interfax.ru/russia/1125370",
+  "title:Аэропорты Внуково, Домодедово и Жуковский вводят временные ограничения на использование воздушного пространства"
 ]

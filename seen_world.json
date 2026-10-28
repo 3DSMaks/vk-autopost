@@ -1,7 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28252067",
-  "skip:https://ria.ru/20261025/shtab-2126942275.html",
-  "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
   "title:Александр Вучич признал поражение своей партии на досрочных парламентских выборах в Сербии",
   "skip:https://www.kommersant.ru/doc/9060270",
   "https://www.interfax.ru/world/1124910",
@@ -998,5 +995,8 @@
   "skip:https://ria.ru/20261028/reysy-2127421205.html",
   "skip:https://tass.ru/ekonomika/28260219",
   "https://www.interfax.ru/russia/1125370",
-  "title:Аэропорты Внуково, Домодедово и Жуковский вводят временные ограничения на использование воздушного пространства"
+  "title:Аэропорты Внуково, Домодедово и Жуковский вводят временные ограничения на использование воздушного пространства",
+  "skip:https://www.rbc.ru/rbcfreenews/6ae146c17e6744845c1dcd6e",
+  "https://www.kommersant.ru/doc/9062354",
+  "title:Ким Чен Ын призвал командование Корейской народной армии повысить боеготовность"
 ]

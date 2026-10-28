@@ -1,9 +1,4 @@
 [
-  "title:Релиз Хрустального озера в Амедиатеке",
-  "https://www.playground.ru/mass_effect_trilogy/news/modder_vernul_vyrezannyj_multipleer_mass_effect_3_v_remaster_legendary_edition-1882251#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Моддер вернул вырезанный мультиплеер Mass Effect 3 в ремастер Legendary Edition",
-  "https://variety.com/2026/film/box-office/box-office-street-fighter-you-can-see-everything-previews-1236913929/",
-  "title:Box Office: ‘Street Fighter’ Makes $4 Million in Previews, ‘You Can See Everything’ Behind With $1.75 Million",
   "skip:https://www.playground.ru/tales_of_eternia/news/remaster_tales_of_eternia_vyshel_na_pc_i_konsolyah_s_podderzhkoj_russkogo_yazyka_i_vyrezannym_multipleerom-1882272#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169247/v-call-of-duty-modern-warfare-4-startoval-rannij-dostup-k-syuzhetnoj-kampanii/",
   "https://www.ign.com/articles/cyberpunk-2077-movie-not-retelling",
@@ -998,5 +993,10 @@
   "title:Mass Effect composer Sam Hulick is working on a 're-scored' version of the leaked Mass Effect 5 trailer for N7 Day",
   "skip:https://www.igromania.ru/news/169590/zvezda-zharkogo-sopernichestva-mozhet-syigrat-antagonista-v-prizrachnom-gonschike-s-rajanom-goslingom/",
   "https://www.ign.com/articles/phantom-blade-zero-looks-like-a-hit-before-its-even-come-out-with-an-estimated-1-million-prelaunch-copies-sold",
-  "title:Phantom Blade Zero Looks Like a Hit Before It's Even Come Out, With an Estimated 1 Million Prelaunch Copies Sold"
+  "title:Phantom Blade Zero Looks Like a Hit Before It's Even Come Out, With an Estimated 1 Million Prelaunch Copies Sold",
+  "skip:https://www.igromania.ru/news/169591/razrabotchiki-crimson-desert-nazvali-vremya-reliza-dopolneniya-puteshestvie-v-neizvedannoe/",
+  "skip:https://www.pcgamer.com/games/rpg/crimson-desert-charting-the-unknown-dlc-release-date-launch-times/",
+  "skip:https://stopgame.ru/newsdata/73310/datamayner_razmer_zagruzhaemyh_faylov_gta_vi_na_ps5_sostavit_210_gb",
+  "https://www.playground.ru/call_of_duty_modern_warfare_4/news/activision_vypustila_hvalebnyj_trejler_call_of_duty_modern_warfare_4-1885557#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Activision выпустила хвалебный трейлер Call of Duty: Modern Warfare 4"
 ]

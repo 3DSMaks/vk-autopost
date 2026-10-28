@@ -1,12 +1,4 @@
 [
-  "skip:https://www.rbc.ru/quote/26/10/2026/6adf4d149a79479feb760f57",
-  "https://www.interfax.ru/business/1125049",
-  "title:ЦБ РФ выпустил методические рекомендации для банков по контролю происхождения крупных сумм наличных",
-  "skip:https://ria.ru/20261026/iran-2127115594.html",
-  "skip:https://ria.ru/20261026/katar-2127113456.html",
-  "https://tass.ru/ekonomika/28254903",
-  "title:Эмир Катара прибыл в Москву на саммит ФСЭГ",
-  "skip:https://ria.ru/20261026/samolet-2127117834.html",
   "https://tass.ru/mezhdunarodnaya-panorama/28254883",
   "title:Военный самолет ВВС Великобритании подал аварийный сигнал в небе и возвращается на базу",
   "skip:https://www.kommersant.ru/doc/9061061",
@@ -998,5 +990,13 @@
   "skip:https://ria.ru/20261029/ssha-2127678387.html",
   "skip:https://www.kommersant.ru/doc/9063230",
   "https://tass.ru/mezhdunarodnaya-panorama/28264389",
-  "title:США направили письмо Ирану для возобновления переговоров"
+  "title:США направили письмо Ирану для возобновления переговоров",
+  "skip:https://www.interfax.ru/russia/1125642",
+  "https://www.kommersant.ru/doc/9063250",
+  "title:В Москве и области отражена массированная атака беспилотников, в аэропортах вводились ограничения",
+  "skip:https://ria.ru/20261029/tramp-2127682825.html",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28264381",
+  "skip:https://news.google.com/rss/articles/CBMivwFBVV95cUxNX1NELWo0YlVqWmdjbkZpYU5zTHB3NlNMQ19zek1rZ1FyLU9ta0hoZ2NNc1kzSlJBSWFDejRPVThqck5BWlUxU1JGMkFZOGRmQjlkMFNJQnBPTjIzTUc3SDVJeThmT3lMdU8ycVpWc2huanE4alJXa3ZSal9vNUtVWnZURkJlNHhCbUE4d18xZ0NwN19kbEZpYUEyaWk1V09oU2NsWkZuTXV0OVRxNEg2MzB6SFIxblFtZTQzWHN5QQ?oc=5",
+  "https://www.interfax.ru/world/1125652",
+  "title:Экс-кандидат в президенты Бразилии Флавиу Болсонару объявил себя победителем выборов после отъезда в США"
 ]

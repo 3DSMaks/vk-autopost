@@ -1,15 +1,4 @@
 [
-  "skip:https://ria.ru/20261025/brazilija-2126945481.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28252033",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28252021",
-  "https://www.kommersant.ru/doc/9060272",
-  "title:В Бразилии продлили голосование на президентских выборах и начали подсчет голосов",
-  "skip:https://ria.ru/20261025/vsu-2126938785.html",
-  "skip:https://tass.ru/proisshestviya/28251985",
-  "https://www.interfax.ru/russia/1124909",
-  "title:Пять человек пострадали при атаках ВСУ в Белгородской области",
-  "skip:https://news.google.com/rss/articles/CBMivwFBVV95cUxPTUU3TDlMRjZDVkdXVmplZVo5NHhmeGM5NUd5bkx3R2dJVTVBNjVaMmtkYkpJNHZDT1VNMzJTdjVWRG1VUFVMMW83ZmtnU2pOd2RsNlBlcEw5RldCZWNvT3hya3cyVGdacXg3cWd0cUlKYmdrM0JPZzFwSmJISUh0TWhZbVRzMFdfdS1ZZ1R2a2hKdERiQnZXX2pqY2RmV2NnYnZ1UE91eGFQT1pkLUk5eHRHbFVMWDRpWVl3QXA1dw?oc=5",
-  "skip:https://news.google.com/rss/articles/CBMixwFBVV95cUxOY29UVVRzc3Yxak52T2gydG5qSXVVdUpOcHlDa3lGb0ZxNFVWQzk1Z0d0dTFyQloyQ3Bma3JqX0ZZYjFrdGRsTE9Jd1U4Zml4TzliY2lFUDVhMERpbVVIYUFtMkplRTV2a2VSaG9PVktLSU1kWUozcTFCZEJ2cVdFa0duMFltNGJ4VXROUjBKS0pHbzdYVFhRRFczOVFqTFJiRTV3VVlLRzJ1SE5MM0hrQnh1bG9IZTJfN2Nsb3JhRnhxRm16VUkw?oc=5",
   "skip:https://www.rbc.ru/politics/25/10/2026/6ade68f73dd8ead0991a45ea",
   "skip:https://www.kommersant.ru/doc/9060273",
   "skip:https://ria.ru/20261025/vybory-2126946233.html",
@@ -998,5 +987,16 @@
   "title:Король Великобритании Карл III прибыл на Багамы и обсудит тему рабства",
   "skip:https://news.google.com/rss/articles/CBMic0FVX3lxTFBvNThFWkZMUTNPNTFGLUdKMGVhNHR5VldvZTFJQ0Y1Q0c0VVNuZG9GN25fSjdJVERSbDhaV0hEa21NS1ZPclN6OThfRWJaY3RoMGNOQlV2ZFdfMFI2T21WYVRMbk9lbmZMSlpONFhxYWdRMU0?oc=5",
   "https://www.aljazeera.com/video/newsfeed/2026/10/28/this-is-america-us-envoy-scolds-cuban-diplomat-at-un?traffic_source=rss",
-  "title:Представители США и Кубы устроили перепалку на заседании ООН"
+  "title:Представители США и Кубы устроили перепалку на заседании ООН",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28260149",
+  "skip:https://www.kommersant.ru/doc/9062347",
+  "skip:https://news.google.com/rss/articles/CBMilAFBVV95cUxQQUZfLVRacFkyTVZBN0U0RDQxRVZuX2puWDI4bmMxcnhYNmdtZW1TR2dBa2Zpa1VkOXFEd0NINnI0bzNxUW5aaU80UEc1am5nX2ZqUWdoSnItbVhsVHBTeUVKZGVtV21BaVRNWXB2X3hiNUFBcU5NbkUyNkxPS2pIWFNPZmJXU2pnTU5peXdLMEsyOUww?oc=5",
+  "https://www.rbc.ru/politics/28/10/2026/6ae14f4c3c0647b172c103d6",
+  "title:Проигравший выборы в Бразилии Флавиу Болсонару прибыл в США, Вашингтон одобрил визу",
+  "skip:https://ria.ru/20261028/ssha-2127417544.html",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28260091",
+  "skip:https://ria.ru/20261028/britaniya-2127415248.html",
+  "skip:https://www.rbc.ru/rbcfreenews/6ae12e2ccd3bc6a6b5d7520d",
+  "https://tass.ru/mezhdunarodnaya-panorama/28260157",
+  "title:Реакция в Великобритании и СМИ на телефонный разговор Путина с лидерами Финляндии и Норвегии"
 ]

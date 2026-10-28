@@ -1,13 +1,4 @@
 [
-  "skip:https://www.rbc.ru/politics/26/10/2026/6adeb24f4b44a612e73286e7",
-  "https://www.rbc.ru/politics/26/10/2026/6adeab55ec77d3fd33028121",
-  "title:Оппозиционный «Студенческий список» побеждает на досрочных парламентских выборах в Сербии",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28252459",
-  "skip:https://www.aljazeera.com/video/newsfeed/2026/10/26/lula-thanks-brazils-youth-for-historic-election-win?traffic_source=rss",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28252435",
-  "skip:https://www.kommersant.ru/doc/9060302",
-  "https://tass.ru/mezhdunarodnaya-panorama/28252471",
-  "title:Луис Инасиу Лула да Силва победил на президентских выборах в Бразилии",
   "skip:https://www.aljazeera.com/news/2026/10/26/seoul-fabricated-landmine-blast-north-korea-tells-un-in-letter?traffic_source=rss",
   "https://www.kommersant.ru/doc/9060327",
   "title:КНДР обратилась в Совбез ООН из-за взрыва мин на границе и обвинила Сеул в фальсификации",
@@ -998,5 +989,14 @@
   "skip:https://www.interfax.ru/world/1125505",
   "skip:https://ria.ru/20261028/sanktsii-2127539862.html",
   "https://tass.ru/ekonomika/28262503",
-  "title:Британия продлила лицензию на деятельность дочерних компаний «Лукойла» в Болгарии"
+  "title:Британия продлила лицензию на деятельность дочерних компаний «Лукойла» в Болгарии",
+  "skip:https://www.interfax.ru/russia/1125525",
+  "skip:https://www.kommersant.ru/doc/9062938",
+  "https://www.rbc.ru/politics/28/10/2026/6ae1f6ec891614ddb86259ce",
+  "title:Владимир Путин сообщил о контактах России с США и Илоном Маском по низкоорбитальным спутниковым группировкам",
+  "skip:https://tass.ru/politika/28262871",
+  "skip:https://ria.ru/20261028/lavrov-2127567565.html",
+  "skip:https://www.interfax.ru/russia/1125518",
+  "https://www.kommersant.ru/doc/9062937",
+  "title:Сергей Лавров примет участие во встрече глав МИД G20 в Атланте"
 ]

@@ -1,13 +1,4 @@
 [
-  "skip:https://www.rbc.ru/politics/26/10/2026/6adf440c0d56109cf3d31c86",
-  "skip:https://ria.ru/20261026/ekonomika-2127077589.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28254185",
-  "skip:https://ria.ru/20261026/politika-2127075010.html",
-  "skip:https://ria.ru/20261026/slovakija-2127074092.html",
-  "skip:https://ria.ru/20261026/falkov-2127070608.html",
-  "https://ria.ru/20261026/ekonomika-2127082058.html",
-  "title:Россия и Словакия провели межправительственную комиссию",
-  "skip:https://www.interfax.ru/russia/1125031",
   "skip:https://www.rbc.ru/politics/26/10/2026/6adf46bf9070d38875ea941a",
   "skip:https://ria.ru/20261026/gusev-2127079776.html",
   "skip:https://tass.ru/proisshestviya/28254413",
@@ -998,5 +989,14 @@
   "skip:https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
   "skip:https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTlDM3hOQUxUMmVMYTJUeWxDVXAyRnh6Y0xSaFR0cTdHeDY0aW9LNnFDdUxXczNGenlLM2FpbXhrLWpnbFVVYkRUUFJfUDdMX3Y2YktHa1prTi1TRE9NSndVWjQtbkIybHRJdTZxUmYtR00wMHE0ZnZvcTFUSnRNMHY5OFJCbUE5dVVseExuVHNOUG53bXVfbmpZYThFSmlwQkpERnV4YnR4TjhZLUhV?oc=5",
   "https://tass.ru/mezhdunarodnaya-panorama/28264157",
-  "title:Проигравший президентские выборы в Бразилии Флавиу Болсонару прибыл в Майами"
+  "title:Проигравший президентские выборы в Бразилии Флавиу Болсонару прибыл в Майами",
+  "skip:https://news.google.com/rss/articles/CBMiigFBVV95cUxPRGNMcklUSFE1cEJJeDlWODJjWFFFSEkya3RvdDBUOWNWbm1nMms1Q3JxWW41ZndYOEFqYTNQbE1idE9GdThHR0hhN2RzOGlLLVQ0emFpMjNKckgwbDFvazNtXzhTNXRMWUxCQ2c4TnhHam81QmRnMVF6NkhvNnRzTXZVRE5vaHFOZHc?oc=5",
+  "skip:https://www.rbc.ru/society/28/10/2026/6ae24484a750277e380c16a6",
+  "https://www.france24.com/en/americas/20261028-top-us-federal-judge-who-handled-9-11-trump-maduro-cases-dies-aged-92",
+  "title:В Нью-Йорке на 93-м году жизни умер федеральный судья Элвин Хеллерстайн",
+  "skip:https://www.rbc.ru/politics/28/10/2026/6ae2567214c09959e6e06c25",
+  "skip:https://www.france24.com/en/bolsonaro-s-escape-to-the-us-how-it-happened",
+  "skip:https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
+  "https://tass.ru/mezhdunarodnaya-panorama/28264187",
+  "title:Проигравший выборы в Бразилии Флавиу Болсонару уехал в США и объявил себя президентом"
 ]

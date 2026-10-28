@@ -1,7 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/call-of-duty-modern-warfare-4-captain-prices-fate-explained",
-  "skip:https://stopgame.ru/newsdata/73206/frakcii_novaya_sistema_klassov_i_ne_tolko_demonstraciya_no_rest_for_the_wicked_10",
-  "skip:https://www.igromania.ru/news/169249/neanonsirovannaya-shrek-2-remastered-poluchila-pervyij-trejler-i-neskolko-skrinshotov/",
   "skip:https://www.ign.com/articles/call-of-duty-modern-warfare-4-review",
   "https://gamemag.ru/news/201698/monster-hunter-wilds-game-switch-2-demo-october-2026",
   "video:2026-10-17:https://gamemag.ru/news/201698/monster-hunter-wilds-game-switch-2-demo-october-2026",
@@ -998,5 +995,8 @@
   "https://variety.com/2026/film/news/hunt-for-gollum-jamie-dornan-aragorn-lord-of-rings-1236933354/",
   "title:Jamie Dornan Says There’s ‘Pressure’ to Taking Over Aragorn Role in ‘Lord of the Rings: Hunt for Gollum’: I’m Not ‘Trying to Outdo’ Viggo Mortensen",
   "https://www.kinonews.ru/news_143852/",
-  "title:Фильм \"Мстители: Судный день\" заработал десятки миллионов до премьеры"
+  "title:Фильм \"Мстители: Судный день\" заработал десятки миллионов до премьеры",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/gta-6s-ps5-install-size-is-so-big-you-could-store-3500-copies-of-balatro-inside/",
+  "https://www.playground.ru/gothic/news/razrabotchiki_remejka_gothic_chto_to_tizeryat_opublikovan_post_s_nadpisyu_skoro_i_chetyre_novyh_skrinshota-1885647#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Разработчики ремейка Gothic что-то тизерят: опубликован пост с надписью \"Скоро\" и четыре новых скриншота"
 ]

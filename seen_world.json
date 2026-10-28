@@ -1,12 +1,4 @@
 [
-  "skip:https://tass.ru/ekonomika/28254653",
-  "skip:https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVVZWVV6TXQtR3ZqaWZKZERKZ3J3VVpIZlNtUjVfRjdTS0tuVTlRQ0F0UzRhcW9Hd2hxR1BtNzF4UVBVYXBpTkc0Rmozb3pRekc2RVNnOVBYd19KUGZ5VE1UN29haXQ2M0w0Qk1QTm5INk5KRlhxLUR6Q3REWHR3OG9EYkpFMGJUUm5HMGFiX3pBLXhZMHV5Qkgwdlc0RTczMnhOc3Q4NFpORFE5SlRfRkVDOWdmZw?oc=5",
-  "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-  "title:Искусственный интеллект-гигант Anthropic подал заявку на первичное размещение акций (IPO)",
-  "skip:https://www.theguardian.com/world/live/2026/oct/26/serbia-vucic-elections-students-bulgaria-france-urkaine-russia-latest-news-updates",
-  "skip:https://www.france24.com/en/video/20261026-belgrade-in-rapture-as-serbian-students-topple-vucic-in-historic-election",
-  "https://www.france24.com/en/serbia-s-vucic-concedes-defeat-to-the-student-led-movement-what-s-next",
-  "title:Оппозиционное студенческое движение победило на парламентских выборах в Сербии",
   "skip:https://www.rbc.ru/quote/26/10/2026/6adf4d149a79479feb760f57",
   "https://www.interfax.ru/business/1125049",
   "title:ЦБ РФ выпустил методические рекомендации для банков по контролю происхождения крупных сумм наличных",
@@ -998,5 +990,13 @@
   "skip:https://www.interfax.ru/world/1125635",
   "skip:https://ria.ru/20261028/ushakov-2127672862.html",
   "https://www.kommersant.ru/doc/9063232",
-  "title:Трехсторонние переговоры по Украине в Абу-Даби пройдут после 4 ноября"
+  "title:Трехсторонние переговоры по Украине в Абу-Даби пройдут после 4 ноября",
+  "skip:https://news.google.com/rss/articles/CBMixAFBVV95cUxPTXM0WlJ4eWFnOU96alFqZTd5VklwV1pETlVBNjdhejYzX0hXUHQzZFczWkxRMzhxOGhzOWJqSGdwRTlubFRqMTJQckJ5NXljSFFqYzB2UXRReTVCc0lDR3BvOVlhcERydVBUU3duZFA3THNRZmt1OGZseURzeDAwX2ZCSE5tX3pRUUJ0elpaMU5odHFkcmhJQVU5OS1yRGp4N0FPVVVEWWJQMXFWNHQyOExkVWVjVFQtVDl3SGcybkt3ZzRE?oc=5",
+  "skip:https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
+  "https://www.kommersant.ru/doc/9063231",
+  "title:Флавиу Болсонару объявил себя президентом Бразилии после отъезда в США",
+  "skip:https://ria.ru/20261029/ssha-2127678387.html",
+  "skip:https://www.kommersant.ru/doc/9063230",
+  "https://tass.ru/mezhdunarodnaya-panorama/28264389",
+  "title:США направили письмо Ирану для возобновления переговоров"
 ]

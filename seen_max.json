@@ -1,8 +1,4 @@
 [
-  "title:Сооснователь Rockstar Games Дэн Хаузер назвал сценарий Max Payne 3 своим личным провалом",
-  "https://www.film.ru/news/obeshchanie-bratev-koen",
-  "title:Обещание братьев Коэн",
-  "skip:https://stopgame.ru/newsdata/73211/v_microsoft_store_poyavilas_stranica_shrek_2_remastered",
   "skip:https://gamemag.ru/news/201702/shrek-2-remastered",
   "https://www.igromania.ru/news/169262/igryi-stanovyatsya-kakimi-to-slishkom-bolshimi-ekshen-phantom-blade-zero-zajmyot-pochti-135-gb-na-ps5/",
   "title:«Игры становятся какими-то слишком большими» — экшен Phantom Blade Zero займёт почти 135 ГБ на PS5",
@@ -998,5 +994,9 @@
   "title:Приготовьте свой клинок: Стартовала предзагрузка Phantom Blade Zero",
   "skip:https://www.pcgamer.com/games/action/phantom-blade-zero-release-date-launch-times/",
   "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-is-working-on-a-re-scored-version-of-the-leaked-mass-effect-5-trailer-for-n7-day/",
-  "title:Mass Effect composer Sam Hulick is working on a 're-scored' version of the leaked Mass Effect 5 trailer for N7 Day"
+  "title:Mass Effect composer Sam Hulick is working on a 're-scored' version of the leaked Mass Effect 5 trailer for N7 Day",
+  "skip:https://www.playground.ru/lost_planet_extreme_condition/news/devid_hejter_rasskazal_o_nesostoyavshemsya_filme_po_lost_planet_kotoryj_otmenili_iz_za_finansovogo_krizisa-1885529#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/david-hayter-opens-up-about-his-huge-lost-planet-movie-that-never-got-made",
+  "https://gamemag.ru/news/201858/arrowhead-studios-ne-rabotayut-nad-helldivers-3-vse-sily-brosheny-na-podderjku-helldivers-2",
+  "title:Helldivers 3 не находится в разработке"
 ]

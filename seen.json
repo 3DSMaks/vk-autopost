@@ -1,8 +1,4 @@
 [
-  "https://kg-portal.ru/comments/135439-nedelja-kino-na-kg-glavnye-novosti-1218-oktjabrja/",
-  "title:Неделя кино на КГ — главные новости 12–18 октября",
-  "https://www.film.ru/news/hanter-shafer-v-vampirskom-horrore",
-  "title:Хантер Шафер в вампирском хорроре",
   "https://variety.com/2026/film/box-office/rajinikanth-jailer-2-no-2-global-box-office-1236916220/",
   "title:Rajinikanth’s ‘Jailer 2’ Ranks No. 2 at Global Box Office as ‘Street Fighter’ Leads",
   "https://kg-portal.ru/comments/135442-piter-dzhekson-nakonec-opredelilsja-kakoj-film-snimet-sledujuschim/",
@@ -998,5 +994,9 @@
   "https://deadline.com/2026/10/jennifer-lawrence-bravo-superfan-summer-house-reunion-leaker-1237207225/",
   "title:Jennifer Lawrence Addresses Being Bravo Superfan Who Uncovered ‘Summer House’ Reunion Leaker: “I Don’t Mind My Own Business”",
   "https://deadline.com/2026/10/renee-zellweger-dominic-sessa-peter-dinklage-darlington-1237207085/",
-  "title:Renée Zellweger, Dominic Sessa & Peter Dinklage Set For Sacha Gervasi’s High Concept Comedy Drama ‘Darlington’ – AFM"
+  "title:Renée Zellweger, Dominic Sessa & Peter Dinklage Set For Sacha Gervasi’s High Concept Comedy Drama ‘Darlington’ – AFM",
+  "skip:https://deadline.com/2026/10/palm-springs-film-awards-2027-list-1237206429/",
+  "skip:https://deadline.com/2026/10/gavin-leatherwood-hermione-corfield-cast-still-yours-film-1237206668/",
+  "https://variety.com/2026/film/news/peter-medak-dead-changeling-the-krays-director-1236933340/",
+  "title:Peter Medak, Director of ‘The Changeling’ and ‘The Krays,’ Dies at 88"
 ]

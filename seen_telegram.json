@@ -1,7 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135413-pol-fig-nachal-snimat-triller-tajna-gornichnoj-sikvel-samogo-kassovogo-filma-sidni-suini/",
-  "skip:https://www.film.ru/news/start-semok-gornichnoy-2",
-  "https://www.film.ru/news/reliz-hrustalnogo-ozera-v-amediateke",
   "title:Релиз Хрустального озера в Амедиатеке",
   "https://www.playground.ru/mass_effect_trilogy/news/modder_vernul_vyrezannyj_multipleer_mass_effect_3_v_remaster_legendary_edition-1882251#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Моддер вернул вырезанный мультиплеер Mass Effect 3 в ремастер Legendary Edition",
@@ -998,5 +995,8 @@
   "skip:https://www.ign.com/articles/life-is-strange-developer-dont-nod-blasted-by-union-employees-over-illegal-management-practices-as-possible-layoffs-loom",
   "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-is-working-on-a-re-scored-version-of-the-leaked-mass-effect-5-trailer-for-n7-day/",
   "video:2026-10-28:https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-is-working-on-a-re-scored-version-of-the-leaked-mass-effect-5-trailer-for-n7-day/",
-  "title:Mass Effect composer Sam Hulick is working on a 're-scored' version of the leaked Mass Effect 5 trailer for N7 Day"
+  "title:Mass Effect composer Sam Hulick is working on a 're-scored' version of the leaked Mass Effect 5 trailer for N7 Day",
+  "skip:https://www.igromania.ru/news/169590/zvezda-zharkogo-sopernichestva-mozhet-syigrat-antagonista-v-prizrachnom-gonschike-s-rajanom-goslingom/",
+  "https://www.ign.com/articles/phantom-blade-zero-looks-like-a-hit-before-its-even-come-out-with-an-estimated-1-million-prelaunch-copies-sold",
+  "title:Phantom Blade Zero Looks Like a Hit Before It's Even Come Out, With an Estimated 1 Million Prelaunch Copies Sold"
 ]

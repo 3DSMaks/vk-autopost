@@ -1,7 +1,4 @@
 [
-  "title:Blizzard тайно добавила корову в Diablo 4 - игроки неделями искали несуществующий предмет",
-  "skip:https://variety.com/2026/film/global/coen-brothers-profane-thank-you-lumiere-award-1236914700/",
-  "skip:https://kg-portal.ru/comments/135416-strit-fajter-stanet-samoj-uspeshnoj-novinkoj-amerikanskogo-prokata/",
   "skip:https://www.kinonews.ru/news_143696/",
   "https://www.kinonews.ru/news_143695/",
   "title:\"Хоббит\" Мартин Фриман женился в 55 лет",
@@ -998,5 +995,8 @@
   "skip:https://www.film.ru/news/novyy-treyler-dzhumandzhi-otkrytyy-mir",
   "skip:https://kg-portal.ru/comments/135564-duejn-dzhonson-vedet-sebja-kak-zhenschina-akaren-gillan-igraet-rol-eesyna-vtrejlere-ekshena-dzhumandzhi-otkrytyj-mir/",
   "https://www.film.ru/news/lourens-vernetsya-k-golodnym-igram",
-  "title:Лоуренс вернется к Голодным играм"
+  "title:Лоуренс вернется к Голодным играм",
+  "skip:https://variety.com/2026/film/news/jennifer-lawrence-katniss-hunger-games-sunrise-on-the-reaping-1236933329/",
+  "https://kg-portal.ru/comments/135565-begemot-trejler/",
+  "title:Невероятное музыкальное путешествие Педро Паскаля в трейлере драмы \"Бегемот!\""
 ]

@@ -1,10 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143696/",
-  "https://www.kinonews.ru/news_143695/",
-  "title:\"Хоббит\" Мартин Фриман женился в 55 лет",
-  "skip:https://www.playground.ru/overwatch/news/byvshij_direktor_overwatch_posle_uhoda_iz_blizzard_polnostyu_razorval_svyazi_s_igroj_radi_dushevnogo_ravnovesiya-1882433#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://gamemag.ru/news/201703/former-overwatch-director-jeff-kaplan-says-he-hasnt-played-or-searched-for-it-since-leaving-blizzard",
-  "https://www.igromania.ru/news/169248/v-gta-6-mogli-ispravit-problemu-iz-gta-4-analiz-reliznogo-trejlera-ot-digital-foundry/",
   "title:В GTA 6 могли исправить проблему из GTA 4 — анализ релизного трейлера от Digital Foundry",
   "skip:https://variety.com/2026/legit/global/jk-rowling-trans-protest-harry-potter-and-the-cursed-child-1236914728/",
   "https://www.film.ru/news/osnovnoy-treyler-dzhozefiny",
@@ -998,5 +992,11 @@
   "title:Лоуренс вернется к Голодным играм",
   "skip:https://variety.com/2026/film/news/jennifer-lawrence-katniss-hunger-games-sunrise-on-the-reaping-1236933329/",
   "https://kg-portal.ru/comments/135565-begemot-trejler/",
-  "title:Невероятное музыкальное путешествие Педро Паскаля в трейлере драмы \"Бегемот!\""
+  "title:Невероятное музыкальное путешествие Педро Паскаля в трейлере драмы \"Бегемот!\"",
+  "skip:https://www.playground.ru/phantom_blade_zero/news/dlya_phantom_blade_zero_vyjdet_patch_pervogo_dnya_obyomom_5_gb_ispravlyayuschij_ryad_problem-1885588#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/phantom-blade-zero-looks-like-a-hit-before-its-even-come-out-with-an-estimated-1-million-prelaunch-copies-sold",
+  "skip:https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/",
+  "skip:https://www.pcgamer.com/games/action/phantom-blade-zero-vs-onimusha-way-of-the-sword/",
+  "https://www.playground.ru/gta_6/news/v_set_utekla_pesnya_pusher_iz_saundtreka_gta_6_sovmestnyj_trek_justice_i_gesaffelstein-1885583#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:В сеть утекла песня Pusher из саундтрека GTA 6 - совместный трек Justice и Gesaffelstein"
 ]

@@ -1,8 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/201702/shrek-2-remastered",
-  "https://www.igromania.ru/news/169262/igryi-stanovyatsya-kakimi-to-slishkom-bolshimi-ekshen-phantom-blade-zero-zajmyot-pochti-135-gb-na-ps5/",
-  "title:«Игры становятся какими-то слишком большими» — экшен Phantom Blade Zero займёт почти 135 ГБ на PS5",
-  "https://www.film.ru/news/onlayn-reliz-ostrova-zabveniya",
   "title:Онлайн-релиз Острова забвения",
   "skip:https://www.igromania.ru/news/169263/ne-proval-analitiki-otsenili-prodazhi-ghost-of-yotei-i-sravnili-ih-s-ghost-of-tsushima/",
   "skip:https://gamemag.ru/news/201697/former-rockstar-writer-on-bully-dev-october-2026",
@@ -998,5 +994,9 @@
   "skip:https://www.playground.ru/lost_planet_extreme_condition/news/devid_hejter_rasskazal_o_nesostoyavshemsya_filme_po_lost_planet_kotoryj_otmenili_iz_za_finansovogo_krizisa-1885529#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.ign.com/articles/david-hayter-opens-up-about-his-huge-lost-planet-movie-that-never-got-made",
   "https://gamemag.ru/news/201858/arrowhead-studios-ne-rabotayut-nad-helldivers-3-vse-sily-brosheny-na-podderjku-helldivers-2",
-  "title:Helldivers 3 не находится в разработке"
+  "title:Helldivers 3 не находится в разработке",
+  "skip:https://www.playground.ru/misc/news/discord_sdelaet_obsuzhdeniya_s_publichnyh_serverov_dostupnymi_v_poiskovyh_sistemah-1885541#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.pcgamer.com/software/platforms/messages-in-certain-large-public-discord-servers-will-be-searchable-on-the-web-after-december/",
+  "https://www.playground.ru/crimson_desert/news/dlya_syuzhetnyh_dopolnenij_crimson_desert_potrebuetsya_projti_osnovnuyu_kampaniyu-1885543#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Для сюжетных дополнений Crimson Desert потребуется пройти основную кампанию"
 ]

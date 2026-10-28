@@ -1,8 +1,4 @@
 [
-  "https://ria.ru/20261025/ogranichenija-2126946887.html",
-  "title:В трех московских аэропортах вводились и были отменены временные ограничения на полеты",
-  "skip:https://www.france24.com/en/europe/20261025-serbia-s-vucic-concedes-defeat-in-historic-snap-election-with-record-turnout",
-  "skip:https://ria.ru/20261026/vybory-2126949088.html",
   "skip:https://www.rbc.ru/politics/26/10/2026/6ade6d0f0795599cc8ca30fa",
   "skip:https://www.kommersant.ru/doc/9060274",
   "skip:https://www.rbc.ru/politics/26/10/2026/6ade6bee19ccd917a21475b8",
@@ -998,5 +994,9 @@
   "skip:https://ria.ru/20261028/finlyandiya-2127421565.html",
   "skip:https://www.rbc.ru/rbcfreenews/6ae149b6120adf4c76e75478",
   "https://tass.ru/politika/28260229",
-  "title:В Кремле и Финляндии прокомментировали телефонный разговор Путина со Стуббом и Стёре"
+  "title:В Кремле и Финляндии прокомментировали телефонный разговор Путина со Стуббом и Стёре",
+  "skip:https://www.rbc.ru/politics/28/10/2026/6ae1605197f247f6d0de2b64",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28260177",
+  "https://www.interfax.ru/world/1125371",
+  "title:США предупредили страны Персидского залива о возможных военных действиях против Ирана"
 ]

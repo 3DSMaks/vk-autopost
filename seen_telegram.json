@@ -1,11 +1,4 @@
 [
-  "https://www.film.ru/news/banderas-i-keydzh-v-nastoyashchem-detektive",
-  "title:Бандерас и Кейдж в Настоящем детективе",
-  "skip:https://www.igromania.ru/news/169253/sozdavshaya-boevik-samson-studiya-soavtora-igr-just-cause-i-mad-max-obankrotilas-breakit/",
-  "skip:https://www.playground.ru/samson/news/studiya_razrabotchik_samson_obankrotilas_posle_neskolkih_mesyatsev_nevyplaty_zarplat-1882380#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.pcgamer.com/movies-tv/the-cyberpunk-2077-movie-wont-be-a-film-adaptation-of-the-game-cd-projekt-chief-says/",
-  "skip:https://www.ign.com/articles/there-should-be-a-game-award-for-hot-dads-castlevania-belmonts-curse-devs-are-fully-aware-and-loving-the-horny-fanart-for-their-game",
-  "https://www.igromania.ru/news/169256/luchshij-v-serii-syuzhet-call-of-duty-modern-warfare-4-sobiraet-otzyivyi-igrokov-s-rannim-dostupom/",
   "title:«Лучший в серии» — сюжет Call of Duty: Modern Warfare 4 собирает отзывы игроков с ранним доступом",
   "skip:https://www.kinonews.ru/news_143699/",
   "https://deadline.com/2026/10/brad-caleb-kane-teases-it-welcome-to-derry-season-2-pennywise-1237166286/",
@@ -998,5 +991,12 @@
   "title:Масштабное обновление 4.1 для Dragon's Dogma 2 добралось до консоли Switch 2 - список изменений весьма внушителен",
   "skip:https://www.playground.ru/phantom_blade_zero/news/dlya_phantom_blade_zero_vyjdet_patch_pervogo_dnya_obyomom_5_gb_ispravlyayuschij_ryad_problem-1885588#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.playground.ru/gta_6/news/v_set_utekla_pesnya_pusher_iz_saundtreka_gta_6_sovmestnyj_trek_justice_i_gesaffelstein-1885583#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:В сеть утекла песня Pusher из саундтрека GTA 6 - совместный трек Justice и Gesaffelstein"
+  "title:В сеть утекла песня Pusher из саундтрека GTA 6 - совместный трек Justice и Gesaffelstein",
+  "skip:https://www.film.ru/news/osnovnoy-treyler-begemota-s-paskalem",
+  "skip:https://variety.com/2026/film/news/jennifer-lawrence-katniss-hunger-games-sunrise-on-the-reaping-1236933329/",
+  "skip:https://kg-portal.ru/comments/135565-begemot-trejler/",
+  "skip:https://www.film.ru/news/novyy-treyler-dzhumandzhi-otkrytyy-mir",
+  "skip:https://www.film.ru/news/lourens-vernetsya-k-golodnym-igram",
+  "https://deadline.com/2026/10/star-trek-veteran-actors-reunite-for-sci-fi-life-2-0-1237207071/",
+  "title:Four ‘Star Trek’ Vets Reunite For Sci-Fi ‘Life 2.0’, OneTwoThree Media Launches AFM Sales; Brit Comedy With Stephen Fry, Jane Horrocks Also On Slate"
 ]

@@ -1,7 +1,4 @@
 [
-  "skip:https://variety.com/2026/film/news/billy-evans-defends-you-can-see-everything-elizabeth-holmes-insane-1236914043/",
-  "skip:https://kg-portal.ru/comments/135416-strit-fajter-stanet-samoj-uspeshnoj-novinkoj-amerikanskogo-prokata/",
-  "skip:https://www.kinonews.ru/news_143696/",
   "https://www.film.ru/news/banderas-i-keydzh-v-nastoyashchem-detektive",
   "title:Бандерас и Кейдж в Настоящем детективе",
   "skip:https://www.igromania.ru/news/169253/sozdavshaya-boevik-samson-studiya-soavtora-igr-just-cause-i-mad-max-obankrotilas-breakit/",
@@ -998,5 +995,8 @@
   "title:Дуэйн Джонсон ведёт себя как женщина, а Карен Гиллан играет роль её сына в трейлере экшена \"Джуманджи: Открытый мир\"",
   "skip:https://www.playground.ru/gta_6/news/pridyotsya_udalit_vse_igry_razmer_gta_vi_v_210_gb_vyzval_nedovolstvo_vladeltsev_konsolej-1885569#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.playground.ru/dragons_dogma_2/news/masshtabnoe_obnovlenie_4_1_dlya_dragons_dogma_2_dobralos_do_konsoli_switch_2_spisok_izmenenij_vesma_vnushitelen-1885576#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Масштабное обновление 4.1 для Dragon's Dogma 2 добралось до консоли Switch 2 - список изменений весьма внушителен"
+  "title:Масштабное обновление 4.1 для Dragon's Dogma 2 добралось до консоли Switch 2 - список изменений весьма внушителен",
+  "skip:https://www.playground.ru/phantom_blade_zero/news/dlya_phantom_blade_zero_vyjdet_patch_pervogo_dnya_obyomom_5_gb_ispravlyayuschij_ryad_problem-1885588#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "https://www.playground.ru/gta_6/news/v_set_utekla_pesnya_pusher_iz_saundtreka_gta_6_sovmestnyj_trek_justice_i_gesaffelstein-1885583#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:В сеть утекла песня Pusher из саундтрека GTA 6 - совместный трек Justice и Gesaffelstein"
 ]

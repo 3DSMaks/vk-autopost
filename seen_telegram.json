@@ -1,6 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169258/sozdateli-no-rest-for-the-wicked-prezentovali-novuyu-sistemu-klassov-fraktsii-i-ne-tolko/",
-  "skip:https://www.igromania.ru/news/169255/glavnyih-geroev-v-novom-sezone-nastoyaschego-detektiva-syigrayut-antonio-banderas-i-nikolas-kejdzh/",
   "skip:https://www.ign.com/articles/call-of-duty-modern-warfare-4-captain-prices-fate-explained",
   "skip:https://stopgame.ru/newsdata/73206/frakcii_novaya_sistema_klassov_i_ne_tolko_demonstraciya_no_rest_for_the_wicked_10",
   "skip:https://www.igromania.ru/news/169249/neanonsirovannaya-shrek-2-remastered-poluchila-pervyij-trejler-i-neskolko-skrinshotov/",
@@ -998,5 +996,7 @@
   "title:Remedy показала, как Alan Wake II комично ломалась во время разработки",
   "skip:https://www.film.ru/news/treyler-seriala-gordost-i-predubezhdenie",
   "https://variety.com/2026/film/news/hunt-for-gollum-jamie-dornan-aragorn-lord-of-rings-1236933354/",
-  "title:Jamie Dornan Says There’s ‘Pressure’ to Taking Over Aragorn Role in ‘Lord of the Rings: Hunt for Gollum’: I’m Not ‘Trying to Outdo’ Viggo Mortensen"
+  "title:Jamie Dornan Says There’s ‘Pressure’ to Taking Over Aragorn Role in ‘Lord of the Rings: Hunt for Gollum’: I’m Not ‘Trying to Outdo’ Viggo Mortensen",
+  "https://www.kinonews.ru/news_143852/",
+  "title:Фильм \"Мстители: Судный день\" заработал десятки миллионов до премьеры"
 ]

@@ -1,10 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28251983",
-  "skip:https://ria.ru/20261025/serbija-2126938184.html",
-  "skip:https://ria.ru/20261025/serbija-2126935739.html",
-  "skip:https://ria.ru/20261025/serbija-2126935544.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28251943",
-  "https://www.kommersant.ru/doc/9060268",
   "title:В Сербии завершилось голосование на парламентских выборах при высокой явке",
   "skip:https://www.rbc.ru/rbcfreenews/6ade42014e4501f7b9f61ea9",
   "https://www.kommersant.ru/doc/9060269",
@@ -998,5 +992,11 @@
   "title:Братья Александер приговорены к 30 годам тюремного заключения по делу о торговле людьми",
   "skip:https://news.google.com/rss/articles/CBMimwFBVV95cUxNNnBPa2VzUUoxM3RCb0cyd0Fmem05T0lHMVJrejNkdGdGLU1xRmZGQ0g4UDA5N2g2NVRSU0QyTkVWUTFaYXYxUVhDVUZuZElEaDA3dkNZTW9nM3VjXzlyR2R0LXA5a0doNmh5SF9WVVd0UDlYb3hRRHVnalJuZjdGSkNxYWVmUnVLZlJVMXFzX0tReVV0MnVDQ2Jodw?oc=5",
   "https://tass.ru/obschestvo/28260007",
-  "title:В Швеции задержали бывшего депутата Верховной рады Украины"
+  "title:В Швеции задержали бывшего депутата Верховной рады Украины",
+  "skip:https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela",
+  "https://www.interfax.ru/world/1125360",
+  "title:Трамп предложил сделать Венесуэлу 51-м штатом США и похвастался нефтяной сделкой",
+  "skip:https://www.aljazeera.com/video/newsfeed/2026/10/27/president-lula-calls-bolsonaros-brazil-exit?traffic_source=rss",
+  "https://www.rbc.ru/rbcfreenews/6ae1402b7e6744845c1dcd6a",
+  "title:Президент Бразилии Лула да Силва назвал отъезд экс-сенатора Флавио Болсонару в США позорным"
 ]

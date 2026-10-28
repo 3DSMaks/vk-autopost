@@ -1,11 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9060427",
-  "skip:https://www.rbc.ru/society/26/10/2026/6adef0f2203e892aec5fe0ae",
-  "skip:https://tass.ru/proisshestviya/28252879",
-  "skip:https://ria.ru/20261026/poezd-2126979191.html",
-  "skip:https://ria.ru/20261026/bpla-2126979030.html",
-  "skip:https://www.interfax.ru/russia/1124959",
-  "skip:https://www.interfax.ru/russia/1124958",
   "skip:https://ria.ru/20261026/bpla-2126977232.html",
   "skip:https://www.rbc.ru/politics/26/10/2026/6adeed6da094ec13d1aac524",
   "skip:https://ria.ru/20261026/voronezh-2126976575.html",
@@ -998,5 +991,12 @@
   "skip:https://www.interfax.ru/business/1125546",
   "skip:https://www.kommersant.ru/doc/9062963",
   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZmZZVVJDOHFvUk81TDltQmFoQmlUOTZqaGNLVEJ6UEtDMnY4VUlJd0dJVTlEZWpMX2Y3NHNOWF92QVpKUjBvdG5ybWZfYlFsNHpTOVRIUlFhWmgtcDRkNFVqdmd0ejhKTU5EWWRlRUd1bTMzM05tYjR3b0RMSHdQb2ZoVGtvQ2hDa0V2blR1bHdlRHdoZF9kbVByNlJPdVd6bTFwZW5lczBfU0p3RU1LZmpJOWtMcnhVWFkxbk9salA?oc=5",
-  "title:Цены на газ в Европе превысили 100 евро за мегаватт-час впервые с декабря 2022 года"
+  "title:Цены на газ в Европе превысили 100 евро за мегаватт-час впервые с декабря 2022 года",
+  "skip:https://www.france24.com/en/video/20261028-at-least-64-dead-in-spain-s-high-speed-train-crash",
+  "skip:https://www.rbc.ru/rbcfreenews/6ae20d194aa1df0976d4ae2f",
+  "https://www.kommersant.ru/doc/9063090",
+  "title:Число погибших при крушении поездов в Испании возросло до 64",
+  "skip:https://news.google.com/rss/articles/CBMitAFBVV95cUxPSFFKVlhvVHNVYnBybVFJNEZPNEZ4Y2hRTjJac0NVMkxLb2tBbTVYOGVkblBNOWRHck4xSnV2WGpGV3lzTm5fckZNaldFSVltUERCQ3lIUFo3aDc5MVZkVzdRSklkcXFQbGR5OGlOTjBjaWNISnlFaVlyb3MzbFY5VGJiS2FBbENTdTVCYzlaX0JoTjRoYksyczJwQWdHX1NtcGliQ1pZejZoMEh4bjJsZ2JHdm8?oc=5",
+  "https://www.rbc.ru/rbcfreenews/6ae20577b272553879d89ea4",
+  "title:Эфиопия получила от России истребители Су-35 и зенитные комплексы С-400"
 ]

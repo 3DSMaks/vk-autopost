@@ -1,12 +1,4 @@
 [
-  "https://tass.ru/politika/28252769",
-  "title:Умер экс-премьер Японии Ясуо Фукуда",
-  "skip:https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
-  "https://tass.ru/mezhdunarodnaya-panorama/28252817",
-  "title:Оппозиционерка Мария Корина Мачадо вернулась в Венесуэлу",
-  "skip:https://tass.ru/proisshestviya/28252943",
-  "skip:https://news.google.com/rss/articles/CBMiswFBVV95cUxPNWJ2OWRpallGU2R5N3MwSUNJeERWd0MxQzAtTkFvWHhyUk1IbVZEQmc2QkZkWFFMZ3AyVzg4dC1SUmZRbldFOHlkcjNGX0Jxbkx4OW1ObEJDSldJUmpEUnFwMERydXRielRNdDhoc1BVVXZxWmtvRk10blNVN3Vkdng0ZllBczZ5MmRoQmdjeHFHVVVxc3h1Z3Rvem00OHhQclNZd2F1X1RISkFZWC12UnFXNA?oc=5",
-  "skip:https://www.interfax.ru/russia/1124961",
   "skip:https://www.kommersant.ru/doc/9060427",
   "skip:https://www.rbc.ru/society/26/10/2026/6adef0f2203e892aec5fe0ae",
   "skip:https://tass.ru/proisshestviya/28252879",
@@ -998,5 +990,13 @@
   "skip:https://ria.ru/20261028/kasabieva-2127600108.html",
   "skip:https://www.kommersant.ru/doc/9063007",
   "https://www.rbc.ru/sport/28/10/2026/6ae2028c64c3f24d4d1fc2f1",
-  "title:Россиянка Алина Касабиева завоевала золото на чемпионате мира по борьбе в Астане"
+  "title:Россиянка Алина Касабиева завоевала золото на чемпионате мира по борьбе в Астане",
+  "skip:https://www.theguardian.com/business/2026/oct/28/obr-slashes-uk-growth-forecast-for-2027-despite-healey-budget-measures",
+  "skip:https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVVlMZnVReHVKUHJzV09jMERDMHZMV045NjRaMlRoSnI3WHNjdTY4ZDhycndTWW5leHg0TkVYZVJrcU9VQm9XSjVIYTB4N3VsSDlTWWd4Y1B4QS1HQmFMUXVhdXRjOVVadDkydnptMG4tTTNQRUJneXNTVkJ5TXJWcDY3UkJjb0FLX0llME5NSXpkWnc1cmpnZ0pYUlhHekVxY0VTaUd1anc4RUk3aGd1SHdNXzF5clI3WWd2QkVmWjk3dw?oc=5",
+  "https://www.theguardian.com/uk-news/live/2026/oct/28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics",
+  "title:Бюджет Великобритании на 2026 год: новые социальные выплаты, налоги и расходы на оборону",
+  "skip:https://www.interfax.ru/business/1125546",
+  "skip:https://www.kommersant.ru/doc/9062963",
+  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZmZZVVJDOHFvUk81TDltQmFoQmlUOTZqaGNLVEJ6UEtDMnY4VUlJd0dJVTlEZWpMX2Y3NHNOWF92QVpKUjBvdG5ybWZfYlFsNHpTOVRIUlFhWmgtcDRkNFVqdmd0ejhKTU5EWWRlRUd1bTMzM05tYjR3b0RMSHdQb2ZoVGtvQ2hDa0V2blR1bHdlRHdoZF9kbVByNlJPdVd6bTFwZW5lczBfU0p3RU1LZmpJOWtMcnhVWFkxbk9salA?oc=5",
+  "title:Цены на газ в Европе превысили 100 евро за мегаватт-час впервые с декабря 2022 года"
 ]

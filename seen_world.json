@@ -1,15 +1,4 @@
 [
-  "skip:https://www.rbc.ru/politics/26/10/2026/6adef7fb4e4501f7b9f61f02",
-  "https://www.kommersant.ru/doc/9060527",
-  "title:Moody's сохранило кредитный рейтинг Франции на уровне Aa3",
-  "skip:https://www.interfax.ru/russia/1124973",
-  "skip:https://ria.ru/20261026/prezident-2127004023.html",
-  "https://www.kommersant.ru/doc/9060524",
-  "title:Президент Ирана Масуд Пезешкиан направляется с визитом в Россию",
-  "skip:https://tass.ru/proisshestviya/28253429",
-  "skip:https://www.interfax.ru/russia/1124975",
-  "skip:https://ria.ru/20261026/gorenie-2127008342.html",
-  "https://ria.ru/20261026/vagony-2127024164.html",
   "title:Число сошедших с рельсов вагонов под Екатеринбургом выросло до 39, пожар потушен",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28253419",
   "skip:https://www.aljazeera.com/gallery/2026/10/26/photos-serbia-celebrates-as-ruling-party-loses-grip-on-power?traffic_source=rss",
@@ -998,5 +987,16 @@
   "skip:https://ria.ru/20261028/putin-2127648966.html",
   "skip:https://tass.ru/obschestvo/28263849",
   "https://www.sport-interfax.ru/1125615",
-  "title:Владимир Путин поздравил российскую борчиху Алину Касабиеву с победой на чемпионате мира"
+  "title:Владимир Путин поздравил российскую борчиху Алину Касабиеву с победой на чемпионате мира",
+  "skip:https://www.kommersant.ru/doc/9063206",
+  "skip:https://www.interfax.ru/business/1125617",
+  "skip:https://tass.ru/ekonomika/28263981",
+  "https://www.rbc.ru/quote/28/10/2026/6adf00f19a79476b17a58ccf",
+  "title:ФРС США сохранила ключевую процентную ставку на уровне 3,75–4% годовых",
+  "skip:https://www.interfax.ru/russia/1125616",
+  "skip:https://ria.ru/20261028/pvo-2127655895.html",
+  "skip:https://tass.ru/armiya-i-opk/28263967",
+  "skip:https://www.interfax.ru/russia/1125605",
+  "https://www.interfax.ru/world/1125618",
+  "title:Российская ПВО перехватила и уничтожила 90 украинских беспилотников за сутки"
 ]

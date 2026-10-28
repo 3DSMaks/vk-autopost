@@ -1,14 +1,4 @@
 [
-  "skip:https://tass.ru/proisshestviya/28252357",
-  "skip:https://www.interfax.ru/russia/1124927",
-  "https://www.interfax.ru/russia/1124935",
-  "title:В Свердловской области сошли с рельсов вагоны и загорелись цистерны",
-  "skip:https://ria.ru/20261026/koalitsiya-2126962106.html",
-  "https://tass.ru/mezhdunarodnaya-panorama/28252377",
-  "title:Арабская коалиция уничтожила две ракетные установки хуситов в Йемене",
-  "skip:https://ria.ru/20261026/vybory-2126964825.html",
-  "skip:https://www.rbc.ru/rbcfreenews/6ade7c47ed835d182faf3a36",
-  "skip:https://www.kommersant.ru/doc/9060304",
   "skip:https://www.rbc.ru/politics/26/10/2026/6adeb24f4b44a612e73286e7",
   "https://www.rbc.ru/politics/26/10/2026/6adeab55ec77d3fd33028121",
   "title:Оппозиционный «Студенческий список» побеждает на досрочных парламентских выборах в Сербии",
@@ -998,5 +988,15 @@
   "title:Число погибших в результате столкновения поездов в Испании возросло до 50",
   "skip:https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKZXFXT0pLVDljQWtCeDRlaDhhaGJ3WGhTNVEtQ3NGODdJSmItTzU5OFVnTUV2Rko4WjhlMzdJZDdZb3ZsTm42SGhEa21vWlF0NnhwamR1empnV0psSGMwX1hNRUoyR0k?oc=5",
   "https://www.sport-interfax.ru/1125488",
-  "title:Футбольный клуб Реал Мадрид принес извинения Китаю за высказывания Килиана Мбаппе"
+  "title:Футбольный клуб Реал Мадрид принес извинения Китаю за высказывания Килиана Мбаппе",
+  "skip:https://tass.ru/proisshestviya/28262439",
+  "skip:https://tass.ru/sport/28262497",
+  "skip:https://ria.ru/20261028/futbol-2127539658.html",
+  "skip:https://ria.ru/20261028/posolstvo-2127538099.html",
+  "https://tass.ru/proisshestviya/28261923",
+  "title:Число погибших при крушении поездов в Испании превысило 50 человек, матчи Кубка перенесены",
+  "skip:https://www.interfax.ru/world/1125505",
+  "skip:https://ria.ru/20261028/sanktsii-2127539862.html",
+  "https://tass.ru/ekonomika/28262503",
+  "title:Британия продлила лицензию на деятельность дочерних компаний «Лукойла» в Болгарии"
 ]

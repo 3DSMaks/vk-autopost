@@ -1,12 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMimwFBVV95cUxQejBZNU9pVW5mLWs3YVoyWE1CZm9YdVhFUld3WHZSaWJrWlJ1SVFJNDFnRG5FRVNnVEVkOGZVMmY2RHdlcU45bGluZFpTZ3FlcXdqZGtmYW5oajNpTnhpVWZlN2tIWnRBdWFBcW9CbjdEREFnLVQ3YnV5WDgxdE0xNlR2SExJWWkyZzIxSWtCa1ZwRmdFMHhlYUp5Yw?oc=5",
-  "https://ria.ru/20261026/braziliya-2126961025.html",
-  "title:Лула да Силва победил на президентских выборах в Бразилии, Болсонару не признал результаты",
-  "skip:https://ria.ru/20261026/raketa-2126959836.html",
-  "https://tass.ru/mezhdunarodnaya-panorama/28252325",
-  "title:Арабская коалиция перехватила ракету хуситов над Эр-Риядом",
-  "skip:https://www.rbc.ru/politics/26/10/2026/6ade9a8aed835d182faf3a3c",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28252369",
   "skip:https://www.interfax.ru/world/1124934",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28252301",
   "skip:https://news.google.com/rss/articles/CBMitwFBVV95cUxNNG5KM0VBMzF5NW95Y3Z3U2FjOG5GNnhmUmlpSXhzOWJPSUk4MmtsSjhQQXNDZGVGdzNieUUzQ3pDUDVqcUx3aVc5RWlvRWFZTTUzbTBlWXBNMzdnVURJYm9RUkItbXFjbG5xd21kZGlZNEw5M3BYUzllMlpSWjlKSU04MFlxSXdRYUtTRGNTTUN5Q3dUUzI0bnVqSGI0X3UxOW1hdUo1aUNONlZ3WG5rQllWWG12WW8?oc=5",
@@ -998,5 +990,13 @@
   "skip:https://www.rbc.ru/rbcfreenews/6ae18e3f4e4501f7b9f6200e",
   "skip:https://www.rbc.ru/rbcfreenews/6ae1d2018d407b47eacc4e3a",
   "https://ria.ru/20261028/putin--2127514340.html",
-  "title:Владимир Путин выступил на пленарном заседании форума 'Россия — Африка' в Москве"
+  "title:Владимир Путин выступил на пленарном заседании форума 'Россия — Африка' в Москве",
+  "skip:https://news.google.com/rss/articles/CBMihwFBVV95cUxNejlKVDZEb2JQZ1lKZzBJSEZISTlCUUJBTEJYdVFJNmRTbi1wY011V1JrUFJRY0k4RjNYaHoyZ2VnRjUyZzJjWXVlNXRKOXU0NmJ4TndFVElHSFJ1WDZkQlFDZmJuVlJPRXRfMXVFbGtCVFl6bVNGd1lkRDFxWkc1QmFQVzlCS00?oc=5",
+  "skip:https://www.rbc.ru/rbcfreenews/6ae1d1051be9cac5082f2797",
+  "https://www.aljazeera.com/video/newsfeed/2026/10/28/deadly-high-speed-train-collision-in-spain?traffic_source=rss",
+  "title:Число жертв столкновения двух поездов в Испании превысило 50 человек",
+  "skip:https://www.interfax.ru/world/1125480",
+  "skip:https://www.interfax.ru/russia/1125478",
+  "https://tass.ru/mezhdunarodnaya-panorama/28262257",
+  "title:Глава Росатома Алексей Лихачев сообщил о планах по сотрудничеству с Ираном и странами Африки"
 ]

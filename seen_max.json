@@ -1,8 +1,4 @@
 [
-  "https://www.film.ru/news/osnovnoy-treyler-dzhozefiny",
-  "title:Основной трейлер Джозефины",
-  "https://www.playground.ru/lords_of_the_fallen_2/news/nad_lords_of_the_fallen_2_rabotayut_pochti_150_chelovek_ci_games_gotovitsya_raskryt_novye_podrobnosti-1882450#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Над Lords of the Fallen 2 работают почти 150 человек - CI Games готовится раскрыть новые подробности",
   "skip:https://variety.com/2026/film/global/joel-coen-on-studio-consolidation-competition-1236914741/",
   "https://kg-portal.ru/comments/135424-rezhisser-golodnyh-igr-ustroit-na-marse-vosstanie-krasnyh-shahterov/",
   "title:Режиссёр \"Голодных игр\" устроит на Марсе восстание красных шахтёров",
@@ -998,5 +994,9 @@
   "https://www.playground.ru/gta_6/news/v_set_utekla_pesnya_pusher_iz_saundtreka_gta_6_sovmestnyj_trek_justice_i_gesaffelstein-1885583#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:В сеть утекла песня Pusher из саундтрека GTA 6 - совместный трек Justice и Gesaffelstein",
   "https://www.kinonews.ru/news_143852/",
-  "title:Фильм \"Мстители: Судный день\" заработал десятки миллионов до премьеры"
+  "title:Фильм \"Мстители: Судный день\" заработал десятки миллионов до премьеры",
+  "skip:https://www.playground.ru/no_mans_sky/news/no_mans_sky_poluchaet_forsaken_s_zhutkimi_modulyami_korvetov_iz_glubin_kosmosa-1885598#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://stopgame.ru/newsdata/73312/avtory_crimson_desert_nazvali_tochnoe_vremya_reliza_dlc_charting_the_unknown",
+  "https://stopgame.ru/newsdata/73309/remedy_pokazala_kak_alan_wake_ii_komichno_lomalas_vo_vremya_razrabotki",
+  "title:Remedy показала, как Alan Wake II комично ломалась во время разработки"
 ]

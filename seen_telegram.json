@@ -1,7 +1,4 @@
 [
-  "https://www.ign.com/articles/cyberpunk-2077-movie-not-retelling",
-  "title:The Live-Action Cyberpunk 2077 Movie Won't Retrace the Game's Steps, CD Projekt Confirms",
-  "skip:https://www.film.ru/news/rossiyskiy-prokat-doka-pro-elizabet-holms",
   "skip:https://variety.com/2026/film/news/billy-evans-defends-you-can-see-everything-elizabeth-holmes-insane-1236914043/",
   "skip:https://kg-portal.ru/comments/135416-strit-fajter-stanet-samoj-uspeshnoj-novinkoj-amerikanskogo-prokata/",
   "skip:https://www.kinonews.ru/news_143696/",
@@ -998,5 +995,8 @@
   "https://www.playground.ru/call_of_duty_modern_warfare_4/news/activision_vypustila_hvalebnyj_trejler_call_of_duty_modern_warfare_4-1885557#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Activision выпустила хвалебный трейлер Call of Duty: Modern Warfare 4",
   "https://kg-portal.ru/comments/135564-duejn-dzhonson-vedet-sebja-kak-zhenschina-akaren-gillan-igraet-rol-eesyna-vtrejlere-ekshena-dzhumandzhi-otkrytyj-mir/",
-  "title:Дуэйн Джонсон ведёт себя как женщина, а Карен Гиллан играет роль её сына в трейлере экшена \"Джуманджи: Открытый мир\""
+  "title:Дуэйн Джонсон ведёт себя как женщина, а Карен Гиллан играет роль её сына в трейлере экшена \"Джуманджи: Открытый мир\"",
+  "skip:https://www.playground.ru/gta_6/news/pridyotsya_udalit_vse_igry_razmer_gta_vi_v_210_gb_vyzval_nedovolstvo_vladeltsev_konsolej-1885569#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "https://www.playground.ru/dragons_dogma_2/news/masshtabnoe_obnovlenie_4_1_dlya_dragons_dogma_2_dobralos_do_konsoli_switch_2_spisok_izmenenij_vesma_vnushitelen-1885576#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Масштабное обновление 4.1 для Dragon's Dogma 2 добралось до консоли Switch 2 - список изменений весьма внушителен"
 ]

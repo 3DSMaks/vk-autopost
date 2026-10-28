@@ -1,11 +1,4 @@
 [
-  "title:В Сербии завершилось голосование на парламентских выборах при высокой явке",
-  "skip:https://www.rbc.ru/rbcfreenews/6ade42014e4501f7b9f61ea9",
-  "https://www.kommersant.ru/doc/9060269",
-  "title:Экзит-полы показали лидерство Илияны Йотовой в первом туре выборов президента Болгарии",
-  "skip:https://www.rbc.ru/politics/25/10/2026/6ade55e2ef247d59985d1ef6",
-  "https://tass.ru/mezhdunarodnaya-panorama/28252019",
-  "title:Пентагон готовит американские военные базы к 90 дням автономной работы на случай глобального конфликта",
   "skip:https://ria.ru/20261025/brazilija-2126945481.html",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28252033",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28252021",
@@ -998,5 +991,12 @@
   "title:Трамп предложил сделать Венесуэлу 51-м штатом США и похвастался нефтяной сделкой",
   "skip:https://www.aljazeera.com/video/newsfeed/2026/10/27/president-lula-calls-bolsonaros-brazil-exit?traffic_source=rss",
   "https://www.rbc.ru/rbcfreenews/6ae1402b7e6744845c1dcd6a",
-  "title:Президент Бразилии Лула да Силва назвал отъезд экс-сенатора Флавио Болсонару в США позорным"
+  "title:Президент Бразилии Лула да Силва назвал отъезд экс-сенатора Флавио Болсонару в США позорным",
+  "skip:https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
+  "skip:https://news.google.com/rss/articles/CBMisAFBVV95cUxNTkotV3h0WGxNZkd3ZDliRzFVLTJ4cGhNVXNsMk1XS1lPLXZyOVp1bFEwSUJPV0tJcGVVakh1dFNxTEM4cjI4ejA2T0NPT3lIdDNqZUJnNl9ITTR0dno0YzdaQkJiNVkyb3A4MlVlb0RGUUhWRFY3cU1kV3FpT0NGaWt1SHdxc1doZDhwektLRGdPYWpyYjZKUEZMZGo5YVF4a013Y3VLMjRCZEp1ZW9PVA?oc=5",
+  "https://www.france24.com/en/americas/20261027-king-charles-slavery-apology-caribbean-tour",
+  "title:Король Великобритании Карл III прибыл на Багамы и обсудит тему рабства",
+  "skip:https://news.google.com/rss/articles/CBMic0FVX3lxTFBvNThFWkZMUTNPNTFGLUdKMGVhNHR5VldvZTFJQ0Y1Q0c0VVNuZG9GN25fSjdJVERSbDhaV0hEa21NS1ZPclN6OThfRWJaY3RoMGNOQlV2ZFdfMFI2T21WYVRMbk9lbmZMSlpONFhxYWdRMU0?oc=5",
+  "https://www.aljazeera.com/video/newsfeed/2026/10/28/this-is-america-us-envoy-scolds-cuban-diplomat-at-un?traffic_source=rss",
+  "title:Представители США и Кубы устроили перепалку на заседании ООН"
 ]

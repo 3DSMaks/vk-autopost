@@ -1,13 +1,4 @@
 [
-  "skip:https://ria.ru/20261026/fsb-2126984443.html",
-  "https://ria.ru/20261026/fsb-2126998481.html",
-  "title:ФСБ пресекла подготовку терактов на объектах ПРО и энергетики в Московском регионе",
-  "skip:https://tass.ru/ekonomika/28253119",
-  "skip:https://www.interfax.ru/russia/1124967",
-  "skip:https://tass.ru/obschestvo/28253133",
-  "https://www.interfax.ru/russia/1124971",
-  "title:В Воронежской области восстановили движение поездов после ночной атаки беспилотников",
-  "skip:https://www.interfax.ru/business/1124976",
   "skip:https://www.rbc.ru/politics/26/10/2026/6adef7fb4e4501f7b9f61f02",
   "https://www.kommersant.ru/doc/9060527",
   "title:Moody's сохранило кредитный рейтинг Франции на уровне Aa3",
@@ -998,5 +989,14 @@
   "title:Владимир Путин провел встречу с президентом Египта Абдель Фаттахом ас-Сиси в Москве",
   "skip:https://www.rbc.ru/politics/28/10/2026/6ae2250e2bb2ad772589b74a",
   "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-  "title:В Израиле подводят предварительные итоги парламентских выборов"
+  "title:В Израиле подводят предварительные итоги парламентских выборов",
+  "skip:https://www.kommersant.ru/doc/9063179",
+  "skip:https://news.google.com/rss/articles/CBMihgFBVV95cUxQTTZ4U1JSUThYRHFHNF9vOWoyMWtXanlHUmZWMDdWY2x0cGoyR0ttOTZ6OEhCaFl3S3NucktTZmZreUI0X2hSS25PVGNzTnZCWW9Hakpad216XzlSN2pQSnhQdDJPTjNFckZOV3V6VHZNTzRSX3dzampXNVZFcTRiaF85QmFxZw?oc=5",
+  "skip:https://news.google.com/rss/articles/CBMirwFBVV95cUxONzV6Vl9La1pvN1dMdUF1bmV0Qy0tc1l1VkJ3N1Q0bmNzLS1oaThhTWZkSXVGWUIxTTVmTFd4eHgzTk93dzhnZXozRVI2ODBiMC1tRGF2ZHdFYkd3MFBFa3M1c0l3ZmhYVlk3eW1RNXpXUHJNYkd1dmQwYm5VRjFrTmFyVUJxR0RpT3hyY24wUE53eWJxeVhTaFN0NEczekFlbHBpb3B5ZlFaMWNvYlRJ?oc=5",
+  "https://www.france24.com/en/americas/20261028-si-se-puede-us-civil-rights-icon-dolores-huerta-dies-96",
+  "title:Умерла американская правозащитница и профсоюзный лидер Долорес Уэрта",
+  "skip:https://ria.ru/20261028/putin-2127648966.html",
+  "skip:https://tass.ru/obschestvo/28263849",
+  "https://www.sport-interfax.ru/1125615",
+  "title:Владимир Путин поздравил российскую борчиху Алину Касабиеву с победой на чемпионате мира"
 ]

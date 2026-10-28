@@ -1,10 +1,4 @@
 [
-  "skip:https://deadline.com/2026/10/kylie-minogue-jonathan-groff-catherine-tate-bad-fairies-1237158983/",
-  "skip:https://deadline.com/2026/10/netflix-shakeup-analysis-peter-rice-bela-bajaria-whats-next-1237158959/",
-  "skip:https://variety.com/2026/film/news/netflix-bela-bajaria-why-did-she-leave-1236913635/",
-  "skip:https://www.film.ru/news/nazvanie-dlya-novoy-mumii",
-  "skip:https://kg-portal.ru/comments/135407-promoart-filma-mumija-kniga-mertvyh/",
-  "https://kg-portal.ru/comments/135409-gotem-spasen-betmena-chast-2-dosnimet-oskaronosnyj-rezhisser-stiven-soderberg/",
   "title:Готэм спасён! \"Бэтмена. Часть 2\" доснимет оскароносный режиссёр Стивен Содерберг",
   "skip:https://www.playground.ru/guns_of_eschaton/news/guns_of_eschaton_misticheskij_soulslike_vestern_ot_art_direktora_half_life_2_vyjdet_8_dekabrya-1882096#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169235/guns-of-eschaton-poslednyaya-igra-art-direktora-half-life-2-i-dishonored-vyijdet-8-dekabrya/",
@@ -998,5 +992,11 @@
   "skip:https://stopgame.ru/newsdata/73307/don_t_nod_grozyat_massovye_uvolneniya_i_bankrotstvo",
   "https://gamemag.ru/news/201874/cyberpunk-2-multiplayer-coming",
   "video:2026-10-28:https://gamemag.ru/news/201874/cyberpunk-2-multiplayer-coming",
-  "title:CD Projekt RED может добавить кооперативный мультиплеер в Cyberpunk 2"
+  "title:CD Projekt RED может добавить кооперативный мультиплеер в Cyberpunk 2",
+  "skip:https://www.playground.ru/world_of_warcraft/news/world_of_warcraft_forever_poluchila_animatsionnyj_trejler_s_vokalistkami_evanescence_i_spiritbox-1885467#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/cyberpunk_2077/news/reliz_patcha_2_5_dlya_cyberpunk_2077_na_switch_2_omrachilsya_tehnicheskimi_problemami-1885463#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/final_fantasy_7_part_3/news/v_final_fantasy_7_revelation_vpervye_poyavitsya_mat_tify_square_enix_pokazala_fleshbek_iz_detstva_geroini-1885462#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169575/world-of-warcraft-forever-poluchila-epichnyij-animatsionnyij-trejler/",
+  "https://www.igromania.ru/news/169569/gta-6-mozhet-vesit-210-gigabajt-na-ps5/",
+  "title:GTA 6 может весить 210 гигабайт на PS5"
 ]

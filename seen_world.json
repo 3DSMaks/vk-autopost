@@ -1,14 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28252139",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28252059",
-  "skip:https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ickctZVVoWEptcTlSYU5wLWVWakxCeDlyemF2RUNjRW9uYXU4YldiQU1EWkUtNHUtUHpReGZhcXpqcU1yTHNKcUFVM3lhd19qN1BGLWVtQkhTNWNwSC14OGIzdUZxUDA?oc=5",
-  "https://www.rbc.ru/politics/26/10/2026/6ade893f22706a3c52516800",
-  "title:Во втором туре президентских выборов в Бразилии идет подсчет голосов",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28252127",
-  "https://ria.ru/20261026/bolgariya-2126952291.html",
-  "title:Илияна Йотова лидирует в первом туре выборов президента Болгарии",
-  "skip:https://www.interfax.ru/world/1124916",
-  "https://www.france24.com/en/video/20261025-report-idf-pushes-back-on-netanyahu-s-order",
   "title:Начальник генштаба ЦАХАЛ Эяль Замир выступил против планов Нетаньяху",
   "skip:https://www.kommersant.ru/doc/9060293",
   "https://ria.ru/20261026/starlink-2126954873.html",
@@ -998,5 +988,15 @@
   "skip:https://www.interfax.ru/russia/1125411",
   "skip:https://ria.ru/20261028/aleshki-2127448985.html",
   "https://www.rbc.ru/rbcfreenews/6ae1a42afe8cbef4c5193470",
-  "title:В Алешках зафиксировано соблюдение режима прекращения огня"
+  "title:В Алешках зафиксировано соблюдение режима прекращения огня",
+  "skip:https://www.interfax.ru/russia/1125421",
+  "skip:https://www.interfax.ru/world/1125417",
+  "skip:https://www.kommersant.ru/doc/9062529",
+  "https://www.rbc.ru/rbcfreenews/6ae1a8f0c7305affbc2671d1",
+  "title:МЗ РФ прокомментировал подготовку к переговорам по Украине и позицию Москвы",
+  "skip:https://www.interfax.ru/russia/1125423",
+  "skip:https://ria.ru/20261028/aeroflot-2127458984.html",
+  "skip:https://www.interfax.ru/business/1125418",
+  "https://www.kommersant.ru/doc/9062561",
+  "title:«Аэрофлот» обсуждает закупку новых самолетов МС-21 и переход на отечественное ПО"
 ]

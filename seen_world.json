@@ -1,13 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1124949",
-  "skip:https://ria.ru/20261026/minoborony-2126970430.html",
-  "skip:https://ria.ru/20261026/kharkov-2126969985.html",
-  "skip:https://tass.ru/armiya-i-opk/28252677",
-  "skip:https://tass.ru/armiya-i-opk/28252675",
-  "https://www.rbc.ru/politics/26/10/2026/6adee31d203e892aec5fe089",
-  "title:Минобороны РФ заявило о ночных ударах по объектам энергетики и логистики Украины",
-  "skip:https://www.interfax.ru/russia/1124948",
-  "skip:https://tass.ru/proisshestviya/28252689",
   "skip:https://ria.ru/20261026/melitopol-2126970328.html",
   "https://www.kommersant.ru/doc/9060365",
   "title:ВСУ нанесли массированный удар беспилотниками по Мелитополю",
@@ -998,5 +989,14 @@
   "skip:https://ria.ru/20261028/zelenskiy--2127581064.html",
   "skip:https://www.interfax.ru/russia/1125522",
   "https://ria.ru/20261028/kreml--2127591750.html",
-  "title:Москва и Киев прокомментировали подготовку к трехсторонним переговорам по Украине"
+  "title:Москва и Киев прокомментировали подготовку к трехсторонним переговорам по Украине",
+  "skip:https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5",
+  "https://www.kommersant.ru/doc/9062976",
+  "title:SK Hynix выплатит акционерам $75 млрд после рекордной прибыли",
+  "skip:https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkhkVlMyeHNjUXZ4YXlWMVNFVXZMWkwzRW9qQUlxWkhVZHJiTlhRLTFIbjJzOUVDOE1QQ09acFBOM0xPOUstY1NMVXV5RlYzaVl5cVhvVE9MZ3lpQk44RFhfSjR2eEVFYm1RekhzVzBFMVI0TWxjM2Znbi1rSkhxVndVenhQdWpJdGgtNG1LQTh2dUdWbmQ4SEwwWmtvMEVEcGh2SUljSkpBYWloNnVmcWhiOTVzTFl5dEE?oc=5",
+  "skip:https://www.interfax.ru/world/1125535",
+  "skip:https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+  "skip:https://news.google.com/rss/articles/CBMitAFBVV95cUxQNng4MnVNRnlIRFlsX19qMzVkeU5oSG1wWnlzcGQwUDVxQ1JBLXlyZWgwTUtiMGx0S25QaXp0R3poTFJmZ2hMR1k2cmk3U3RHU19BSWt5dTYtTUxlZm9ONzhMU3lLbWF3RWNDMFFwNXNnVTdFaDhtbURrYkRnbkJuRU9vR0c1QkkwbWdYOEdYNll5Si1yVGhoVDgxZEE0azluRi15ZWdZQ1BENDZGOG5mQWtjYXQ?oc=5",
+  "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
+  "title:В Израиле подводят итоги парламентских выборов без явного победителя"
 ]

@@ -1,7 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/games/fps/we-f-ked-up-1-day-into-wardogs-season-2-the-blue-team-bribery-bonus-is-being-dropped/",
-  "skip:https://www.ign.com/articles/wardogs-season-2-hasnt-gone-particularly-well",
-  "https://gamemag.ru/news/201696/former-rockstar-writer-on-max-payne-3-october-2026",
   "title:Сооснователь Rockstar Games Дэн Хаузер назвал сценарий Max Payne 3 своим личным провалом",
   "https://www.film.ru/news/obeshchanie-bratev-koen",
   "title:Обещание братьев Коэн",
@@ -998,5 +995,8 @@
   "title:Стартовый онлайн Call of Duty: Modern Warfare 4 на Xbox оказался на 32% ниже показателей Black Ops 7",
   "skip:https://www.pcgamer.com/games/grand-theft-auto/rockstar-will-hold-union-vote-right-on-top-of-grand-theft-auto-6-release/",
   "https://gamemag.ru/news/201872/prigotovte-svoy-klinok-startovala-predzagruzka-phantom-blade-zero",
-  "title:Приготовьте свой клинок: Стартовала предзагрузка Phantom Blade Zero"
+  "title:Приготовьте свой клинок: Стартовала предзагрузка Phantom Blade Zero",
+  "skip:https://www.pcgamer.com/games/action/phantom-blade-zero-release-date-launch-times/",
+  "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-is-working-on-a-re-scored-version-of-the-leaked-mass-effect-5-trailer-for-n7-day/",
+  "title:Mass Effect composer Sam Hulick is working on a 're-scored' version of the leaked Mass Effect 5 trailer for N7 Day"
 ]

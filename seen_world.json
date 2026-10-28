@@ -1,14 +1,4 @@
 [
-  "title:Сторонники «Студенческого списка» празднуют победу на парламентских выборах в Сербии",
-  "skip:https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGctT2oxWjdadkIwMXJCRjZMRUdYWmFDQ0dvUGNxaTcxLUNCSDE3WmJzUUlXZEljc3VpWklocFJUeno0WkVTSUdBblB1MzNrYTNTYXVrTHdUMGU4a3FRd3cxZkNvcUU0N1FhbVIyS19FT0treHg3a1FwTTlMSm0tWDlwTFB6bjBiMDJGVWV6U083WWt0RHotazB0M0pVemVaY2J1SWhiT0xlU0xpYWctU1Fn?oc=5",
-  "skip:https://ria.ru/20261026/barselona-2126951444.html",
-  "skip:https://tass.ru/sport/28252135",
-  "https://ria.ru/20261026/barselona-real-2126951888.html",
-  "title:«Реал» победил «Барселону» в матче чемпионата Испании по футболу",
-  "skip:https://ria.ru/20261026/vybory-2126954045.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28252167",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28252161",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28252147",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28252139",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28252059",
   "skip:https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ickctZVVoWEptcTlSYU5wLWVWakxCeDlyemF2RUNjRW9uYXU4YldiQU1EWkUtNHUtUHpReGZhcXpqcU1yTHNKcUFVM3lhd19qN1BGLWVtQkhTNWNwSC14OGIzdUZxUDA?oc=5",
@@ -998,5 +988,15 @@
   "skip:https://www.rbc.ru/politics/28/10/2026/6ae19cbd346a9dbdf885f10c",
   "skip:https://ria.ru/20261028/ek-2127444882.html",
   "https://www.interfax.ru/russia/1125408",
-  "title:Евросоюз готовит делегацию для участия в трехсторонних переговорах по Украине в Абу-Даби"
+  "title:Евросоюз готовит делегацию для участия в трехсторонних переговорах по Украине в Абу-Даби",
+  "skip:https://www.kommersant.ru/doc/9062508",
+  "skip:https://www.rbc.ru/rbcfreenews/6ae19f6f9ca3644416da7b00",
+  "skip:https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ09lVDktVzU0MWp0RUxkY2V2SWhzNjVpMDMzdG1hZjVHTUJFUTFfWWlRRXFtZGJtTW0td25oeHhsTVRTbXZyNG0wTURZeEhQSndxeDFxdnlPd3k0ZGdqSTVOcjNJT1ZEdmdoREFLUFVQSWVMR2tyWGFxSk9NVEhCVWVub1k3UWQ3UWlQYm9WNnhqRFJGbXBkVUJLcnllN1g1YUF5YWxB?oc=5",
+  "https://www.interfax.ru/world/1125415",
+  "title:В Белграде совершено нападение на посольство Израиля, нападавший ликвидирован",
+  "skip:https://ria.ru/20261028/aleshki-2127449780.html",
+  "skip:https://www.interfax.ru/russia/1125411",
+  "skip:https://ria.ru/20261028/aleshki-2127448985.html",
+  "https://www.rbc.ru/rbcfreenews/6ae1a42afe8cbef4c5193470",
+  "title:В Алешках зафиксировано соблюдение режима прекращения огня"
 ]

@@ -1,12 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9060452",
-  "title:Минобороны сообщило о перехвате 290 украинских беспилотников за ночь",
-  "skip:https://ria.ru/20261026/fsb-2126995850.html",
-  "skip:https://tass.ru/proisshestviya/28253061",
-  "skip:https://www.kommersant.ru/doc/9060434",
-  "skip:https://www.rbc.ru/politics/26/10/2026/6adef7c9203e892aec5fe0c5",
-  "skip:https://www.interfax.ru/moscow/1124963",
-  "skip:https://ria.ru/20261026/fsb-2126984689.html",
   "skip:https://ria.ru/20261026/fsb-2126984443.html",
   "https://ria.ru/20261026/fsb-2126998481.html",
   "title:ФСБ пресекла подготовку терактов на объектах ПРО и энергетики в Московском регионе",
@@ -998,5 +990,13 @@
   "title:В Испании объявлен трехдневный траур после железнодорожной катастрофы",
   "skip:https://www.interfax.ru/world/1125577",
   "https://ria.ru/20261028/es-2127645870.html",
-  "title:Ряд стран ЕС выступили против присвоения Канаде статуса ассоциированного члена"
+  "title:Ряд стран ЕС выступили против присвоения Канаде статуса ассоциированного члена",
+  "skip:https://www.interfax.ru/russia/1125601",
+  "skip:https://tass.ru/politika/28263823",
+  "skip:https://tass.ru/politika/28263821",
+  "https://www.kommersant.ru/doc/9063157",
+  "title:Владимир Путин провел встречу с президентом Египта Абдель Фаттахом ас-Сиси в Москве",
+  "skip:https://www.rbc.ru/politics/28/10/2026/6ae2250e2bb2ad772589b74a",
+  "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+  "title:В Израиле подводят предварительные итоги парламентских выборов"
 ]

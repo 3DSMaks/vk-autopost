@@ -1,8 +1,4 @@
 [
-  "skip:https://www.playground.ru/castlevania_belmont_s_curse/news/razrabotchiki_castlevania_belmonts_curse_rady_otkrovennomu_fan_artu_s_personazhami_igry-1882361#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.pcgamer.com/movies-tv/the-cyberpunk-2077-movie-wont-be-a-film-adaptation-of-the-game-cd-projekt-chief-says/",
-  "skip:https://www.ign.com/articles/there-should-be-a-game-award-for-hot-dads-castlevania-belmonts-curse-devs-are-fully-aware-and-loving-the-horny-fanart-for-their-game",
-  "https://gamemag.ru/news/201698/monster-hunter-wilds-game-switch-2-demo-october-2026",
   "title:Capcom активно готовится к запуску Monster Hunter Wilds на Switch 2 — скоро выйдет демоверсия, а в Японии появится консольный бандл",
   "skip:https://www.kinonews.ru/news_143699/",
   "https://deadline.com/2026/10/brad-caleb-kane-teases-it-welcome-to-derry-season-2-pennywise-1237166286/",
@@ -998,5 +994,9 @@
   "skip:https://www.ign.com/articles/call-of-duty-modern-warfare-4-adds-series-favorite-map-shipment-to-multiplayer",
   "skip:https://gamemag.ru/news/201873/dune-part-three-final-trailer",
   "https://gamemag.ru/news/201875/gotovte-210-gb-stal-izvesten-razmer-grand-theft-auto-vi-dlya-playstation-5",
-  "title:Готовьте 210 ГБ: Стал известен размер Grand Theft Auto VI для PlayStation 5"
+  "title:Готовьте 210 ГБ: Стал известен размер Grand Theft Auto VI для PlayStation 5",
+  "skip:https://www.kinonews.ru/article_143857/",
+  "skip:https://www.kinonews.ru/news_143855/",
+  "https://www.film.ru/news/nikolay-koster-valdu-v-horror-seriale",
+  "title:Николай Костер-Вальду в хоррор-сериале"
 ]

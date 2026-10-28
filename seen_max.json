@@ -1,13 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-release-date-launch-times-early-access/",
-  "skip:https://stopgame.ru/newsdata/73199/bandai_namco_vypustila_remaster_tales_of_eternia",
-  "https://www.playground.ru/phantom_blade_zero/news/stali_izvestny_razmer_fajlov_i_data_nachala_predzagruzki_phantom_blade_zero-1882268#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Стали известны размер файлов и дата начала предзагрузки Phantom Blade Zero",
-  "https://www.film.ru/news/banderas-i-keydzh-v-nastoyashchem-detektive",
-  "title:Бандерас и Кейдж в Настоящем детективе",
-  "skip:https://www.igromania.ru/news/169256/luchshij-v-serii-syuzhet-call-of-duty-modern-warfare-4-sobiraet-otzyivyi-igrokov-s-rannim-dostupom/",
-  "skip:https://www.igromania.ru/news/169253/sozdavshaya-boevik-samson-studiya-soavtora-igr-just-cause-i-mad-max-obankrotilas-breakit/",
-  "skip:https://www.playground.ru/samson/news/studiya_razrabotchik_samson_obankrotilas_posle_neskolkih_mesyatsev_nevyplaty_zarplat-1882380#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.playground.ru/castlevania_belmont_s_curse/news/razrabotchiki_castlevania_belmonts_curse_rady_otkrovennomu_fan_artu_s_personazhami_igry-1882361#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.pcgamer.com/movies-tv/the-cyberpunk-2077-movie-wont-be-a-film-adaptation-of-the-game-cd-projekt-chief-says/",
   "skip:https://www.ign.com/articles/there-should-be-a-game-award-for-hot-dads-castlevania-belmonts-curse-devs-are-fully-aware-and-loving-the-horny-fanart-for-their-game",
@@ -998,5 +989,14 @@
   "title:Ремейк Птиц Хичкока на HBO",
   "skip:https://www.kinonews.ru/news_143851/",
   "https://www.film.ru/news/finalnyy-treyler-dyuny-3",
-  "title:Финальный трейлер Дюны 3"
+  "title:Финальный трейлер Дюны 3",
+  "skip:https://www.playground.ru/world_of_warcraft/news/world_of_warcraft_forever_poluchila_animatsionnyj_trejler_s_vokalistkami_evanescence_i_spiritbox-1885467#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169577/osnovnaya-istoriya-igr-resident-evil-mozhet-zavershitsya-v-techenie-sleduyuschih-10-let/",
+  "skip:https://www.igromania.ru/news/169574/ne-bojtes-kontsa-prizyivaet-poslednij-trejler-novoj-dyunyi-s-zendeej-pattinsonom-i-chervyami/",
+  "skip:https://www.igromania.ru/news/169573/otpravlenie-pribyilo-v-modern-warfare-4-dobavili-odnu-iz-samyih-populyarnyih-kart-call-of-duty/",
+  "skip:https://www.ign.com/articles/resident-evil-executive-producer-says-the-series-story-could-end-in-the-next-10-years",
+  "skip:https://www.ign.com/articles/call-of-duty-modern-warfare-4-adds-series-favorite-map-shipment-to-multiplayer",
+  "skip:https://gamemag.ru/news/201873/dune-part-three-final-trailer",
+  "https://gamemag.ru/news/201875/gotovte-210-gb-stal-izvesten-razmer-grand-theft-auto-vi-dlya-playstation-5",
+  "title:Готовьте 210 ГБ: Стал известен размер Grand Theft Auto VI для PlayStation 5"
 ]

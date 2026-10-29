@@ -1,7 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/201697/former-rockstar-writer-on-bully-dev-october-2026",
-  "https://www.igromania.ru/news/169263/ne-proval-analitiki-otsenili-prodazhi-ghost-of-yotei-i-sravnili-ih-s-ghost-of-tsushima/",
-  "title:Не провал — аналитики оценили продажи Ghost of Yotei﻿ и сравнили их с Ghost of Tsushima",
   "skip:https://www.film.ru/news/obeshchanie-bratev-koen",
   "https://deadline.com/2026/10/jk-rowling-agent-protest-harry-potter-and-the-cursed-child-1237166312/",
   "title:J.K. Rowling’s Agent Neil Blair Condemns Trans Rights Protest At ‘Harry Potter And The Cursed Child’",
@@ -998,5 +995,8 @@
   "skip:https://deadline.com/2026/10/cannes-marche-du-film-tiffcom-japan-ip-market-2027-1237207994/",
   "skip:https://variety.com/2026/film/markets-festivals/japan-ip-market-returns-cannes-2027-1236933952/",
   "https://kg-portal.ru/comments/135577-sozdatel-ulybki-bolshe-ne-ulybaetsja-tretju-chast-snimet-rezhisser-remejka-vosstavshego-iz-ada/",
-  "title:Создатель \"Улыбки\" больше не улыбается: третью часть снимет режиссёр ремейка \"Восставшего из ада\""
+  "title:Создатель \"Улыбки\" больше не улыбается: третью часть снимет режиссёр ремейка \"Восставшего из ада\"",
+  "skip:https://www.kinonews.ru/news_143879/",
+  "https://kg-portal.ru/comments/135540-novye-filmy-nedeli-rozhdenie-imperii-sbikovichem-iliam-nison-nakolesah/",
+  "title:Новые фильмы недели: \"Рождение империи\" с Биковичем и Лиам Нисон на колёсах"
 ]

@@ -1,8 +1,4 @@
 [
-  "https://www.film.ru/news/finalnyy-treyler-rozhdeniya-imperii",
-  "title:Финальный трейлер Рождения империи",
-  "https://www.film.ru/articles/hrustalnoe-ozero-i-eshche-6-novyh-horrorov-kotorye-uzhe-mozhno-posmotret-onlayn",
-  "title:«Хрустальное озеро» и еще 6 новых хорроров, которые уже можно посмотреть онлайн",
   "https://variety.com/2026/film/news/anurag-kashyap-vasan-bala-mumbai-cab-thriller-aakhri-ride-1236915547/",
   "title:Anurag Kashyap and Vasan Bala Present Mumbai Cab Thriller ‘Aakhri Ride’ for Halloween Release (EXCLUSIVE)",
   "https://www.film.ru/news/treyler-rodnoy-krovi",
@@ -998,5 +994,9 @@
   "https://deadline.com/2026/10/disney-netflix-non-english-acquisitions-ampere-analysis-1237208043/",
   "title:Disney+ & Netflix Hoover Up Non-English Acquisitions As Fervor For Japanese & Korean Content Continues – Ampere",
   "https://www.film.ru/news/mshk-provedet-kurs-po-akterskoy-tehnike",
-  "title:МШК проведет курс по актерской технике"
+  "title:МШК проведет курс по актерской технике",
+  "skip:https://www.film.ru/news/golodnye-igry-rassvet-zhatvy-pokazhet-silnyy-start",
+  "skip:https://deadline.com/2026/10/beta-builder-ai-movie-mayur-more-ashlesha-thakur-1237208010/",
+  "https://variety.com/2026/film/markets-festivals/ai-critique-shakespeare-cant-write-russo-brothers-agbo-tokyo-1236933960/",
+  "title:AI Can Critique Shakespeare but Can’t Write It, Russo Brothers’ AGBO Execs Tell Tokyo Market"
 ]

@@ -1,10 +1,4 @@
 [
-  "title:Минцифры предупредило о возможных ограничениях мобильного интернета в Москве 27-29 октября из-за саммитов",
-  "skip:https://tass.ru/ekonomika/28255627",
-  "https://www.interfax.ru/world/1125116",
-  "title:Совет ЕС выделил 4,7 миллиарда евро на военную помощь Украине",
-  "skip:https://www.interfax.ru/russia/1125115",
-  "skip:https://ria.ru/20261026/vuzy-2127161654.html",
   "skip:https://ria.ru/20261026/minobrnauki-2127161241.html",
   "skip:https://ria.ru/20261026/vuzy-2127161084.html",
   "skip:https://tass.ru/obschestvo/28255679",
@@ -998,5 +992,11 @@
   "skip:https://www.interfax.ru/business/1125699",
   "skip:https://www.rbc.ru/technology_and_media/29/10/2026/6ae2de7cd019f528230d3999",
   "https://www.rbc.ru/rbcfreenews/6ae2e57a5317b954bbe060df",
-  "title:«Яндекс» восстановил работу сервисов после атак на дата-центры и отозвал прогноз на 2026 год"
+  "title:«Яндекс» восстановил работу сервисов после атак на дата-центры и отозвал прогноз на 2026 год",
+  "skip:https://www.interfax.ru/business/1125714",
+  "https://www.kommersant.ru/doc/9063410",
+  "title:Курс китайской юаня на Московской бирже опустился ниже 12 рублей",
+  "skip:https://tass.ru/proisshestviya/28265475",
+  "https://www.interfax.ru/russia/1125725",
+  "title:Более 150 тысяч абонентов в ЛНР остались без света из-за ударов ВСУ"
 ]

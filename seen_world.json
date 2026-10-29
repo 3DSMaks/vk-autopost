@@ -1,12 +1,4 @@
 [
-  "skip:https://www.interfax.ru/world/1125135",
-  "https://www.kommersant.ru/doc/9061250",
-  "title:Дональд Трамп возложил на Иран ответственность за начало конфликта с США",
-  "skip:https://www.rbc.ru/rbcfreenews/6ae03dbb3182810645600373",
-  "skip:https://www.interfax.ru/russia/1125160",
-  "https://www.kommersant.ru/doc/9061332",
-  "title:Силы ПВО за ночь уничтожили 222 украинских беспилотника над регионами РФ",
-  "skip:https://www.kommersant.ru/doc/9061346",
   "skip:https://www.rbc.ru/rbcfreenews/6ae0421f3d5c5cd26b1e28a6",
   "skip:https://www.interfax.ru/russia/1125166",
   "skip:https://www.rbc.ru/rbcfreenews/6ae03a32a094ec13d1aac5a9",
@@ -998,5 +990,13 @@
   "title:Финляндия, США и «Росатом» заключили соглашения по редкоземельным металлам",
   "skip:https://ria.ru/20261029/vk-2127880345.html",
   "https://www.rbc.ru/society/29/10/2026/6ae35d37c62df9fe987523eb",
-  "title:Минцифры предложило блокировать SIM-карты мошенников на уровне операторов"
+  "title:Минцифры предложило блокировать SIM-карты мошенников на уровне операторов",
+  "skip:https://www.rbc.ru/sport/29/10/2026/6ae34aa86a59b56c1f42da17",
+  "skip:https://ria.ru/20261029/tennis-2127889431.html",
+  "skip:https://tass.ru/sport/28268031",
+  "https://www.kommersant.ru/doc/9064024",
+  "title:Даниил Медведев победил Кэмерона Норри и вышел в четвертьфинал турнира в Вене",
+  "skip:https://www.interfax.ru/business/1125867",
+  "https://www.kommersant.ru/doc/9064003",
+  "title:Европейский центральный банк сохранил все три процентные ставки на прежнем уровне"
 ]

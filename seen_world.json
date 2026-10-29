@@ -1,13 +1,4 @@
 [
-  "skip:https://www.interfax.ru/world/1125263",
-  "skip:https://www.kommersant.ru/doc/9061877",
-  "https://www.rbc.ru/rbcfreenews/6ae09bd219f52fd9b8f4644e",
-  "title:Премьер Дании раскритиковала лидеров Финляндии и Норвегии за телефонный разговор с Владимиром Путиным",
-  "skip:https://www.interfax.ru/russia/1125264",
-  "skip:https://www.rbc.ru/rbcfreenews/6ae097753c0647b172c10352",
-  "skip:https://www.interfax.ru/business/1125258",
-  "https://tass.ru/ekonomika/28258393",
-  "title:Владимир Путин выступил на пленарном заседании саммита Форума стран — экспортеров газа в Москве",
   "skip:https://ria.ru/20261027/mbappe-2127303029.html",
   "skip:https://www.aljazeera.com/sports/2026/10/27/kylian-mbappe-apologises-after-dictator-comment-angers-chinese-fans?traffic_source=rss",
   "skip:https://news.google.com/rss/articles/CBMimAFBVV95cUxNMTQ4UjVlWS1MVlhxNUFHOVlZSk1IWHk2ai1tRGdfRkNxQ2RBUmd1eDZKMXkxTTR5cjJYTDRxem5CXzRrQ0lUd3VkMFlTVUhHVlVReEk5MWZna1NPempEXzA2UUlqREZzNGNPazdRQlNWdWJqdUZxMTktZHBBV0xkNHAzcHFBbmVhVEY0NHNaYTZmdWpTaHViMg?oc=5",
@@ -998,5 +989,14 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28268657",
   "skip:https://www.france24.com/en/france/20261029-deeply-regressive-how-the-french-government-plans-to-make-protesters-pay-for-riots-and-looting",
   "https://tass.ru/mezhdunarodnaya-panorama/28268555",
-  "title:Во Франции задействуют спецназ и броневики на протестах после массовых беспорядков"
+  "title:Во Франции задействуют спецназ и броневики на протестах после массовых беспорядков",
+  "skip:https://tass.ru/politika/28268865",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28268627",
+  "skip:https://www.interfax.ru/russia/1125914",
+  "https://ria.ru/20261029/putin-2127940161.html",
+  "title:Итоги саммита Россия — Африка: достижение поставленных задач и укрепление партнерства",
+  "skip:https://www.rbc.ru/politics/29/10/2026/6ae38bf06d596e6575ba078e",
+  "skip:https://www.interfax.ru/world/1125907",
+  "https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss",
+  "title:Партия Нетаньяху лидирует на выборах в Израиле после подсчета 100% голосов без получения большинства"
 ]

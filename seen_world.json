@@ -1,8 +1,4 @@
 [
-  "skip:https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia?traffic_source=rss",
-  "https://www.rbc.ru/rbcfreenews/6adf5d39c85c6111647bd2bb",
-  "title:Парламент Египта одобрил военную помощь Саудовской Аравии",
-  "skip:https://www.kommersant.ru/doc/9061032",
   "https://www.rbc.ru/politics/26/10/2026/6adf7bf146a697c649b6d72e",
   "title:Победители парламентских выборов в Сербии исключили поставки оружия Украине и введение антироссийских санкций",
   "skip:https://www.interfax.ru/world/1125089",
@@ -998,5 +994,9 @@
   "skip:https://ria.ru/20261029/aeroporty-2127687452.html",
   "skip:https://tass.ru/ekonomika/28264433",
   "https://tass.ru/ekonomika/28264495",
-  "title:В аэропортах ряда российских городов ввели и сняли временные ограничения на фоне атак беспилотников"
+  "title:В аэропортах ряда российских городов ввели и сняли временные ограничения на фоне атак беспилотников",
+  "skip:https://www.interfax.ru/moscow/1125664",
+  "skip:https://ria.ru/20261029/moskva-2127692707.html",
+  "https://www.rbc.ru/rbcfreenews/6ae29133affdd7a7d841d8e5",
+  "title:Силы ПВО перехватили новые беспилотники, летевшие на Москву"
 ]

@@ -1,12 +1,4 @@
 [
-  "https://www.rbc.ru/politics/26/10/2026/6adf7bf146a697c649b6d72e",
-  "title:Победители парламентских выборов в Сербии исключили поставки оружия Украине и введение антироссийских санкций",
-  "skip:https://www.interfax.ru/world/1125089",
-  "skip:https://www.rbc.ru/politics/26/10/2026/6adf75388ee58c812461d196",
-  "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
-  "title:Алжир впервые с 1973 года направит войска за рубеж для защиты энергообъектов в Нигере",
-  "skip:https://www.rbc.ru/politics/26/10/2026/6adf8203caec548e6fd1551e",
-  "https://www.interfax.ru/business/1125093",
   "title:Яковлевский горно-обогатительный комбинат в Белгородской области частично обесточен после атаки беспилотников",
   "skip:https://www.kommersant.ru/doc/9061140",
   "skip:https://www.interfax.ru/russia/1125098",
@@ -998,5 +990,13 @@
   "skip:https://www.interfax.ru/moscow/1125664",
   "skip:https://ria.ru/20261029/moskva-2127692707.html",
   "https://www.rbc.ru/rbcfreenews/6ae29133affdd7a7d841d8e5",
-  "title:Силы ПВО перехватили новые беспилотники, летевшие на Москву"
+  "title:Силы ПВО перехватили новые беспилотники, летевшие на Москву",
+  "skip:https://www.rbc.ru/rbcfreenews/6ae277f919e61a393322f64b",
+  "skip:https://www.interfax.ru/world/1125654",
+  "https://www.kommersant.ru/doc/9063253",
+  "title:Дональд Трамп опроверг информацию о поручении возобновить мирные переговоры с Ираном",
+  "skip:https://ria.ru/20261029/pentagon-2127693464.html",
+  "skip:https://news.google.com/rss/articles/CBMiuAFBVV95cUxObXZ6TzNnOExPZmEyc0F6ckNhMURBcndMTUFfaC1TTDZkY1lqRGVhNm05YjlqeUo0a2hOdmdlWVYtV3M3bkVRbHhpNUJRRXVzcEhFSjNkUzRlVmJVYTBHWEgyeXdUZnpwSENKS1AyVTg4ekROcGljemJOdnJQSkh5WmgzSThGTlRfVDdHWGcxdHZ0NmkzcWdOd011MndzSWJxZFdYZFhnV1Z3NENTdjAxN2p6T3pJc2JY?oc=5",
+  "https://tass.ru/mezhdunarodnaya-panorama/28264557",
+  "title:Пентагон отклонил запрос на расследование сбоев системы Starlink на Украине"
 ]

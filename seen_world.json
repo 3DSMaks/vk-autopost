@@ -1,10 +1,4 @@
 [
-  "title:Яковлевский горно-обогатительный комбинат в Белгородской области частично обесточен после атаки беспилотников",
-  "skip:https://www.kommersant.ru/doc/9061140",
-  "skip:https://www.interfax.ru/russia/1125098",
-  "skip:https://ria.ru/20261026/bespilotniki-2127147439.html",
-  "skip:https://tass.ru/armiya-i-opk/28255451",
-  "https://www.rbc.ru/rbcfreenews/6adf8d8e4f2cfe423c1603a1",
   "title:Минобороны РФ сообщило о перехвате 37 беспилотников за день",
   "skip:https://ria.ru/20261026/microsoft-2127143238.html",
   "https://www.interfax.ru/business/1125090",
@@ -998,5 +992,11 @@
   "skip:https://ria.ru/20261029/pentagon-2127693464.html",
   "skip:https://news.google.com/rss/articles/CBMiuAFBVV95cUxObXZ6TzNnOExPZmEyc0F6ckNhMURBcndMTUFfaC1TTDZkY1lqRGVhNm05YjlqeUo0a2hOdmdlWVYtV3M3bkVRbHhpNUJRRXVzcEhFSjNkUzRlVmJVYTBHWEgyeXdUZnpwSENKS1AyVTg4ekROcGljemJOdnJQSkh5WmgzSThGTlRfVDdHWGcxdHZ0NmkzcWdOd011MndzSWJxZFdYZFhnV1Z3NENTdjAxN2p6T3pJc2JY?oc=5",
   "https://tass.ru/mezhdunarodnaya-panorama/28264557",
-  "title:Пентагон отклонил запрос на расследование сбоев системы Starlink на Украине"
+  "title:Пентагон отклонил запрос на расследование сбоев системы Starlink на Украине",
+  "skip:https://tass.ru/proisshestviya/28264555",
+  "https://www.rbc.ru/rbcfreenews/6ae28d2168ea732fcf9d32d5",
+  "title:В Уругвае при столкновении двух самолетов на тренировке погиб летчик",
+  "skip:https://www.interfax.ru/russia/1125661",
+  "https://ria.ru/20261029/aeroporty-2127691920.html",
+  "title:В аэропортах Самары и Ульяновска ввели временные ограничения на прием и выпуск рейсов"
 ]

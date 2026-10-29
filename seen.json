@@ -1,8 +1,4 @@
 [
-  "https://www.film.ru/news/tarantino-pro-finchera",
-  "title:Тарантино про Финчера",
-  "skip:https://deadline.com/2026/10/italy-film-tv-fund-launches-mia-market-1237168455/",
-  "skip:https://kg-portal.ru/comments/135456-pushkin-dolzhen-stradat-sarik-andreasjan-pristupil-ksemkam-filma-skazka-ospjaschej-carevne-isemi-bogatyrjah/",
   "skip:https://variety.com/2026/film/global/raj-singh-italy-rp1-holding-100-milion-film-fund-1236917222/",
   "https://variety.com/2026/film/news/lin-manuel-miranda-warriors-broadway-cast-1236916824/",
   "title:Lin-Manuel Miranda’s ‘Warriors’ Sets Broadway Cast",
@@ -998,5 +994,9 @@
   "title:‘Bosch: Start Of Watch’: First Look At Cameron Monaghan, Omari Hardwick In MGM+ Prequel",
   "skip:https://deadline.com/2026/10/patrick-stewart-dead-1237208580/",
   "https://variety.com/2026/tv/news/patrick-stewart-dead-star-trek-picardx-men-xavier-1236934412/",
-  "title:Patrick Stewart, ‘Star Trek’s’ Captain Picard and ‘X-Men’s’ Charles Xavier, Dies at 86"
+  "title:Patrick Stewart, ‘Star Trek’s’ Captain Picard and ‘X-Men’s’ Charles Xavier, Dies at 86",
+  "skip:https://variety.com/2026/film/news/patrick-stewart-death-marvel-kevin-feige-tributes-x-men-1236934424/",
+  "skip:https://www.film.ru/news/umer-zvezda-lyudey-iks-patrik-styuart",
+  "https://deadline.com/2026/10/sony-mouthwashing-videogame-movie-karyn-kusama-1237208566/",
+  "title:Sony Takes Rights To ‘Mouthwashing’ Videogame; Karyn Kusama Directing With Crooked Highway Producing"
 ]

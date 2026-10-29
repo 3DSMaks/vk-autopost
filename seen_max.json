@@ -1,7 +1,4 @@
 [
-  "skip:https://deadline.com/2026/10/street-fighter-orville-peck-tried-kylie-minogue-cameo-1237166445/",
-  "skip:https://variety.com/2026/film/news/paul-bettany-johnny-depp-hadnt-spoken-in-years-libel-trial-1236915108/",
-  "skip:https://kg-portal.ru/comments/135428-strit-fajter-pobezhdaet-v-poedinke-pervogo-uikenda-no-mozhet-proigrat-po-itogovym-sboram/",
   "https://www.film.ru/news/pochemu-film-tarantino-ne-vyshel",
   "title:Почему фильм Тарантино не вышел",
   "skip:https://www.playground.ru/battlefield_6/news/razrabotchiki_battlefield_6_otvetili_na_kritiku_skinov_s_opechatkoj_i_pyatyu_pistoletami-1882673#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +995,8 @@
   "title:A Famous GTA 4 Meme Is Now a Mechanic in GTA 6",
   "skip:https://www.film.ru/news/parker-finn-ne-snimet-ulybku-3",
   "https://www.film.ru/news/operator-la-la-lenda-budet-v-marvel",
-  "title:Оператор «Ла-Ла Ленда» будет в Marvel"
+  "title:Оператор «Ла-Ла Ленда» будет в Marvel",
+  "skip:https://www.film.ru/news/dzheymi-dornan-rasskazal-o-stresse-iz-za-roli-aragorna",
+  "https://www.kinonews.ru/news_143880/",
+  "title:Новые \"Голодные игры\" покорили критиков и названы лучшей частью франшизы"
 ]

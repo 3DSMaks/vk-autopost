@@ -1,7 +1,4 @@
 [
-  "skip:https://www.playground.ru/overwatch/news/byvshij_direktor_overwatch_posle_uhoda_iz_blizzard_polnostyu_razorval_svyazi_s_igroj_radi_dushevnogo_ravnovesiya-1882433#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://gamemag.ru/news/201703/former-overwatch-director-jeff-kaplan-says-he-hasnt-played-or-searched-for-it-since-leaving-blizzard",
-  "https://www.ign.com/articles/modern-warfare-4-switch-2-gameplay",
   "title:Modern Warfare 4 on Switch 2 Is Not The Disaster You’d Imagine",
   "skip:https://kg-portal.ru/comments/135424-rezhisser-golodnyh-igr-ustroit-na-marse-vosstanie-krasnyh-shahterov/",
   "skip:https://variety.com/2026/legit/global/jk-rowling-trans-protest-harry-potter-and-the-cursed-child-1236914728/",
@@ -998,5 +995,8 @@
   "title:‘Godzilla Minus One’ U.S. Success ‘Wasn’t a Strategy; We Just Tried,’ Says Toho CEO at Tokyo Festival",
   "skip:https://deadline.com/2026/10/matsuoka-hiro-toho-godzilla-minus-one-united-states-1237207973/",
   "https://www.film.ru/news/operator-la-la-lenda-budet-v-marvel",
-  "title:Оператор «Ла-Ла Ленда» будет в Marvel"
+  "title:Оператор «Ла-Ла Ленда» будет в Marvel",
+  "skip:https://www.film.ru/news/dzheymi-dornan-rasskazal-o-stresse-iz-za-roli-aragorna",
+  "https://www.film.ru/news/na-sozdatelya-ostavlennyh-podali-v-sud",
+  "title:На создателя «Оставленных» подали в суд"
 ]

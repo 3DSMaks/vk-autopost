@@ -1,9 +1,4 @@
 [
-  "https://www.film.ru/news/pochemu-film-tarantino-ne-vyshel",
-  "title:Почему фильм Тарантино не вышел",
-  "skip:https://www.playground.ru/battlefield_6/news/razrabotchiki_battlefield_6_otvetili_na_kritiku_skinov_s_opechatkoj_i_pyatyu_pistoletami-1882673#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.playground.ru/pukey_goddes_shot_trick/news/razrabotchiki_igry_pro_smertelnuyu_alkogolnuyu_ruletku_ispugalis_ii_klonov_i_otmenili_demo_v_steam-1882672#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.ign.com/articles/dev-behind-russian-roulette-drinking-game-cancels-steam-demo-plans-following-ai-copycat-concerns",
   "https://www.pcgamer.com/games/rpg/metal-band-genitorturers-allegedly-claims-a-vampire-the-masquerade-bloodlines-remake-is-coming-getting-a-dozen-crusty-nerds-way-too-worked-up/",
   "title:Metal band Genitorturers allegedly claims a Vampire: The Masquerade - Bloodlines remake is coming, getting a dozen crusty nerds way too worked up",
   "https://kg-portal.ru/comments/135431-gonochnyj-blokbaster-bitva-motorov-preodolel-otmetku-v500-mln-rublej-kassovyh-sborov/",
@@ -998,5 +993,10 @@
   "title:Оператор «Ла-Ла Ленда» будет в Marvel",
   "skip:https://www.film.ru/news/dzheymi-dornan-rasskazal-o-stresse-iz-za-roli-aragorna",
   "https://www.kinonews.ru/news_143880/",
-  "title:Новые \"Голодные игры\" покорили критиков и названы лучшей частью франшизы"
+  "title:Новые \"Голодные игры\" покорили критиков и названы лучшей частью франшизы",
+  "skip:https://www.playground.ru/phantom_blade_zero/news/avtory_phantom_blade_zero_sovetuyut_igrokam_otkatit_drajvery_nvidia_svezhaya_versiya_uhudshaet_igrovoj_opyt-1885924#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.pcgamer.com/hardware/phantom-blade-zero-dev-says-dont-get-the-latest-nvidia-drivers/",
+  "skip:https://www.ign.com/articles/phantom-blade-zero-beats-modern-warfare-4-steam-top-selling",
+  "https://www.igromania.ru/news/169609/tirazhi-igr-silent-hill-i-metal-gear-uvelichilis-eschyo-na-14-mln-i-13-mln-kopij-sootvetstvenno/",
+  "title:Тиражи игр Silent Hill и Metal Gear увеличились ещё на 1,4 млн и 1,3 млн копий соответственно"
 ]

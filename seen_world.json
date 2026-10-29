@@ -1,13 +1,4 @@
 [
-  "title:Минюст США выдвинул новые обвинения против экс-директора ФБР Джеймса Коми",
-  "skip:https://www.interfax.ru/moscow/1125126",
-  "skip:https://tass.ru/ekonomika/28256053",
-  "skip:https://www.interfax.ru/moscow/1125122",
-  "skip:https://ria.ru/20261027/reysy-2127178689.html",
-  "skip:https://tass.ru/ekonomika/28255985",
-  "https://ria.ru/20261027/ogranicheniya-2127183097.html",
-  "title:В московском аэропорту Внуково сняты временные ограничения на полеты",
-  "skip:https://tass.ru/armiya-i-opk/28256077",
   "skip:https://www.rbc.ru/politics/27/10/2026/6adbc2bbac27eb8ee9c28dbc",
   "skip:https://www.interfax.ru/russia/1125128",
   "skip:https://www.interfax.ru/russia/1125127",
@@ -998,5 +989,14 @@
   "title:ЕЦБ сохранил три основные процентные ставки на прежнем уровне",
   "skip:https://news.google.com/rss/articles/CBMivgFBVV95cUxNZWtDa2JmUnFRRENlQ0RoX2hseFpyajltZE5vbjUwdnlDeTQ5M01zanFrNTBJcE1NV0RwZGFCd29LQXZQN2RYd3pBZnhNbU91eEdZalRSbVpXbTdnS2VXMXNaWE9ZdV9tSHVub29PUy1kX3BFYTNZUWM2NFpTLTZTWGdLX2hTXzYxR2JPanVaeVowcVZmMTZubVZxZE9QSjFPYmVuQjJFVVZqTUJKRUlMclM0NGM4YTNzMmR0ZUdR?oc=5",
   "https://www.rbc.ru/rbcfreenews/6ae33436491c573610b4f167",
-  "title:Пентагон изучает сбои в работе морозильных камер на военных базах США как возможный кибервзлом"
+  "title:Пентагон изучает сбои в работе морозильных камер на военных базах США как возможный кибервзлом",
+  "skip:https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
+  "skip:https://tass.ru/proisshestviya/28267625",
+  "skip:https://ria.ru/20261029/kappadokiya-2127852521.html",
+  "skip:https://www.rbc.ru/society/29/10/2026/6ae348b0192428857224d3d7",
+  "https://www.rbc.ru/society/29/10/2026/6ae34c9d5ebab5d79cbec046",
+  "title:В турецкой Каппадокии при обрушении скалы погибли два человека",
+  "skip:https://www.interfax.ru/world/1125843",
+  "https://www.rbc.ru/politics/29/10/2026/6ae349922fd1a98b116df3e8",
+  "title:В Литве с 2032 года введут всеобщую воинскую повинность"
 ]

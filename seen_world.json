@@ -1,14 +1,4 @@
 [
-  "skip:https://ria.ru/20261026/minobrnauki-2127161241.html",
-  "skip:https://ria.ru/20261026/vuzy-2127161084.html",
-  "skip:https://tass.ru/obschestvo/28255679",
-  "https://www.kommersant.ru/doc/9061185",
-  "title:Минобрнауки утвердило распределение бюджетных мест в вузах на 2027/28 учебный год",
-  "skip:https://www.france24.com/en/tv-shows/the-debate/20261026-comeback-kid-how-did-brazil-veteran-leader-lula-upset-bolsonaro",
-  "skip:https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss",
-  "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-  "title:Луис Инасиу Лула да Силва одержал победу на президентских выборах в Бразилии",
-  "skip:https://www.theguardian.com/technology/2026/oct/26/iphone-duo-owners-cracks-apple-first-foldable-handset",
   "https://www.kommersant.ru/doc/9061194",
   "title:Пользователи нового складного смартфона iPhone Duo сообщают о дефектах дисплея",
   "skip:https://ria.ru/20261026/obschestvo-2127163579.html",
@@ -998,5 +988,15 @@
   "title:Курс китайской юаня на Московской бирже опустился ниже 12 рублей",
   "skip:https://tass.ru/proisshestviya/28265475",
   "https://www.interfax.ru/russia/1125725",
-  "title:Более 150 тысяч абонентов в ЛНР остались без света из-за ударов ВСУ"
+  "title:Более 150 тысяч абонентов в ЛНР остались без света из-за ударов ВСУ",
+  "skip:https://www.rbc.ru/society/29/10/2026/6ae2f689c3d5e49e664d10d1",
+  "skip:https://www.kommersant.ru/doc/9063430",
+  "skip:https://ria.ru/20261029/ispaniya-2127739815.html",
+  "https://www.rbc.ru/rbcfreenews/6ae2f261851df3abcceffe67",
+  "title:В Испании прошли протесты и столкновения с полицией после железнодорожной катастрофы",
+  "skip:https://www.interfax.ru/business/1125733",
+  "skip:https://tass.ru/ekonomika/28265547",
+  "skip:https://news.google.com/rss/articles/CBMimAFBVV95cUxPZDNjZEVFVHlwMjFPbGtabF9JMFVZZWxLVVljNDRhUHdBNDFETWlJZjJBRjBMTE92TDRaMVdEYWFVbmVBX3pkdkFhd0J1TmZrT2tYMGNpWVFzN2FWZEdERUkwT0hoMlRMak1GT0NhRDR4M3U1bmZPU2ZUSW0xakNyLUxhM05fVGlJeTRIdHRiNTVfNEx3UnZHQQ?oc=5",
+  "https://www.interfax.ru/business/1125734",
+  "title:Крупные мировые компании опубликовали финансовые отчетности за третий квартал"
 ]

@@ -1,10 +1,4 @@
 [
-  "title:Партия Жаира Болсонару признала поражение на выборах президента Бразилии, экс-президента обязали сдать паспорт",
-  "skip:https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28255991",
-  "skip:https://ria.ru/20261027/granitsa-2127177010.html",
-  "skip:https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28255935",
   "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
   "title:ВВС Иордании нанесли авиаудары по территории Сирии в ответ на нападение на церковь",
   "skip:https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-says-police-demand-passports-after-brazil-election-defeat?traffic_source=rss",
@@ -998,5 +992,11 @@
   "title:Железнодорожная катастрофа в Испании и ее политические последствия для правительства",
   "skip:https://tass.ru/proisshestviya/28266921",
   "https://ria.ru/20261029/harkov-2127814884.html",
-  "title:В пригороде Харькова прогремел взрыв"
+  "title:В пригороде Харькова прогремел взрыв",
+  "skip:https://ria.ru/20261029/byudzhet-2127838239.html",
+  "https://www.rbc.ru/economics/29/10/2026/6ae32b5df1d11a85f97f2468",
+  "title:Госдума одобрила в первом чтении проект федерального бюджета на 2027–2029 годы",
+  "skip:https://www.france24.com/en/europe/20261029-at-least-13-killed-in-horrific-russian-drone-strike-at-ukraine-train-station",
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMVJMbm5Vb3NTVmNud01fMHc3WHJUWTNvWl8zSmJYZjVUUHhRbm5VWGZxVWZmbGpQdHZNZUlCQVFuLWxWb1FoR0xTZThVSmRTRVBlWUlLaWNKUTZzVnV1dTYyellibWN0XzFXNGpsUk45U2o1Z2hzUndOUEJYM0Q3WmUxSHFteS1WRXpyRk5JcmdTaEdyNVMzV2dwRGxCc0hGMlpQRElXQzMxZXdj?oc=5",
+  "title:Удар беспилотника по железнодорожной станции в Днепре привел к гибели людей"
 ]

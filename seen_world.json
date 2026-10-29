@@ -1,11 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMirAFBVV95cUxNMWNQMjEwaXl4ZnZCNDYtNk5IWlZPVFllYTVQZmN6aHNHWlRFYjA4dWFsYlV6T01oVkJXTjVsbkF1TFM3Q2MxT2QxVVpyVEN0TFBjNmxXZFIybW56MWwxUHQwUHFHd19DOW5hS3lhdDFHT2I0TzZ0M3Z0aDJ5M3RGWmh4MlFwOFFnVlJURG9UcEh3czEyYTZJZWxPTmJPcXlYcmFhT0haU1czU3ZZ?oc=5",
-  "skip:https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVFRV0NrZERLS0JsYi0ybFV2UTh0bU82S1NxOW11NUE4U01CcVhlcWxqN0FQZmRRTk1OV3ZneGVMWW41ZksycldfX21HcTUtRmJHYjIxWC1JM0pJczRNX3BxbkctaDlVdnlNT0VvOUwxQWgwRzFYY3UtdmJhR1JyT19mdkY1WDdoSGFpWFdBb3JoemtYeFNsR2REVEZld1M5YU56d1l3?oc=5",
-  "https://www.france24.com/en/sport/20261026-harry-kane-ballon-dor-2026-alexia-putellas",
-  "title:Гарри Кейн стал обладателем «Золотого мяча»",
-  "skip:https://news.google.com/rss/articles/CBMinAFBVV95cUxOVFhiQXJoSHJjeFJsN3VtWEpEbTEzcktHWnRFU0ZpSW02MXJQcVpWaUEyMW81U19Ea2lBQnA2Nk10QlI5cTlMUGhuZG9ZSDlQVWh3OEV4STB2WXYwc2FCelZRak5PV1hCYmNHWGFCLWhMSUt4WFRKVFlaeldwdExWaXlHR210NllvNFR3ekxNakxOWVVuR08xU0lSSUo?oc=5",
-  "skip:https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbjhLRWY2TklCLUNVM1FrTnE3emllZURtQlRkb1VRQmtESF9PNk4tbmlyU1ppYjZaZVo2d3Y4MjhjTFcwOFFnZi14TUljaEhKUmk3alpJcXNlSUN1RFVLQnl6ajdja2tvcUk4cXczVzdDSXRkbms4bHlTLXNfQzRIN29zdklUUjZwODhWd002SW5Ub0s3NTdKQ2JhVTBrbXhfWTBZc29RenpXVlBlUFhpQTJPaVFmQ0k1b0pZ?oc=5",
-  "https://www.interfax.ru/world/1125125",
   "title:Минюст США выдвинул новые обвинения против экс-директора ФБР Джеймса Коми",
   "skip:https://www.interfax.ru/moscow/1125126",
   "skip:https://tass.ru/ekonomika/28256053",
@@ -998,5 +991,12 @@
   "title:Госдума приняла в первом чтении проект федерального бюджета на 2027–2029 годы",
   "skip:https://www.kommersant.ru/doc/9063743",
   "https://tass.ru/mezhdunarodnaya-panorama/28267339",
-  "title:США разрешили Японии производить ракеты для истребителей F-35 и строить совместный завод"
+  "title:США разрешили Японии производить ракеты для истребителей F-35 и строить совместный завод",
+  "skip:https://tass.ru/ekonomika/28267545",
+  "skip:https://www.rbc.ru/quote/29/10/2026/6adf4c409a7947714cbf25fa",
+  "https://www.interfax.ru/business/1125840",
+  "title:ЕЦБ сохранил три основные процентные ставки на прежнем уровне",
+  "skip:https://news.google.com/rss/articles/CBMivgFBVV95cUxNZWtDa2JmUnFRRENlQ0RoX2hseFpyajltZE5vbjUwdnlDeTQ5M01zanFrNTBJcE1NV0RwZGFCd29LQXZQN2RYd3pBZnhNbU91eEdZalRSbVpXbTdnS2VXMXNaWE9ZdV9tSHVub29PUy1kX3BFYTNZUWM2NFpTLTZTWGdLX2hTXzYxR2JPanVaeVowcVZmMTZubVZxZE9QSjFPYmVuQjJFVVZqTUJKRUlMclM0NGM4YTNzMmR0ZUdR?oc=5",
+  "https://www.rbc.ru/rbcfreenews/6ae33436491c573610b4f167",
+  "title:Пентагон изучает сбои в работе морозильных камер на военных базах США как возможный кибервзлом"
 ]

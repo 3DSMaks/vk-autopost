@@ -53,5 +53,9 @@
   "skip:https://www.igromania.ru/news/169617/originalnyij-saundtrek-gta-6-vyijdet-11-dekabrya-v-nego-vojdut-30-trekov-justice/",
   "skip:https://www.ign.com/articles/the-gta-6-original-score-has-a-release-date-and-a-brand-new-track-you-can-listen-to-right-now",
   "https://www.playground.ru/gta_6/news/rockstar_obyavila_chto_ofitsialnyj_saundtrek_k_gta_6_vyjdet_11_dekabrya-1885988#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Rockstar объявила, что официальный саундтрек к GTA 6 выйдет 11 декабря"
+  "title:Rockstar объявила, что официальный саундтрек к GTA 6 выйдет 11 декабря",
+  "skip:https://stopgame.ru/newsdata/73332/smi_xbox_skoro_anonsiruet_the_elder_scrolls_vi_sentinel",
+  "skip:https://www.ign.com/articles/the-elder-scrolls-6-is-reportedly-subtitled-sentinel-new-story-details-revealed-ahead-of-rumored-announcement",
+  "https://gamemag.ru/news/201900/the-verge-microsoft-planiruet-anonsirovat-v-noyabre-the-elder-scrolls-vi-sentinel",
+  "title:The Verge: Microsoft планирует анонсировать в ноябре The Elder Scrolls VI: Sentinel"
 ]

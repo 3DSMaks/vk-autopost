@@ -1,14 +1,4 @@
 [
-  "skip:https://ria.ru/20261026/tramp-2127167407.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28255813",
-  "skip:https://ria.ru/20261026/tramp-2127165311.html",
-  "skip:https://ria.ru/20261026/tramp-2127164918.html",
-  "skip:https://www.rbc.ru/politics/26/10/2026/6adfadfa3a2b75d3479b27a7",
-  "skip:https://www.interfax.ru/world/1125114",
-  "https://tass.ru/mezhdunarodnaya-panorama/28255833",
-  "title:Дональд Трамп раскритиковал результаты президентских выборов в Бразилии",
-  "skip:https://www.kommersant.ru/doc/9061188",
-  "skip:https://ria.ru/20261026/ataka-2127162691.html",
   "https://www.interfax.ru/russia/1125118",
   "title:ВСУ атаковали дроном автобусное предприятие в Брянской области, есть пострадавший",
   "skip:https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBfZHpFVUZWQUc5bHNGTFMxVF9QSkh2RUlzRVRMMEFSR3diQjdYWjIzMUllOHRFWGJ6SmVNZzNCaWFPUFk?oc=5",
@@ -998,5 +988,15 @@
   "title:Иранские военные заявили об уничтожении американского беспилотника MQ-1 над Ормузским проливом",
   "skip:https://www.rbc.ru/rbcfreenews/6ae2f53dd98bf27748df9fec",
   "https://www.interfax.ru/russia/1125737",
-  "title:Делегации России и Украины прибыли в Гомель для гуманитарной миссии в Алешках"
+  "title:Делегации России и Украины прибыли в Гомель для гуманитарной миссии в Алешках",
+  "skip:https://www.kommersant.ru/doc/9063471",
+  "https://www.rbc.ru/rbcfreenews/6ae2fc8619e61a393322f658",
+  "title:Центр Луганска и главпочтамт подверглись массированной атаке беспилотников",
+  "skip:https://ria.ru/20261029/peskov-2127757328.html",
+  "skip:https://www.kommersant.ru/doc/9063478",
+  "skip:https://www.interfax.ru/russia/1125740",
+  "skip:https://www.rbc.ru/politics/29/10/2026/6ae3009bf82787ed1e5e7c93",
+  "skip:https://www.interfax.ru/russia/1125738",
+  "https://www.interfax.ru/russia/1125753",
+  "title:Началась гуманитарная операция и разминирование в городе Алешки Херсонской области"
 ]

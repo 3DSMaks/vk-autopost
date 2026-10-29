@@ -1,8 +1,4 @@
 [
-  "title:Для игры Wreckfest 2 вышло обновление с новыми автомобилями, трассами и режимами",
-  "skip:https://www.film.ru/news/makevoy-hochet-sygrat-pikara",
-  "https://variety.com/2026/film/news/james-mcavoy-split-only-film-that-consistently-pays-me-1236915162/",
-  "title:James McAvoy Says ‘Split’ Is The Only Film That ‘Really Consistently Pays Me’",
   "skip:https://www.pcgamer.com/games/horror/clive-barker-says-hes-genuinely-astonished-by-hellraiser-revival-im-proud-as-f-k-at-the-end-result/",
   "https://www.igromania.ru/news/169308/zvezda-call-of-duty-modern-warfare-4-poblagodaril-fanatov-i-poprosil-ne-spojlerit-syuzhet/",
   "title:Звезда Call of Duty: Modern Warfare 4 поблагодарил фанатов и попросил не спойлерить сюжет",
@@ -998,5 +994,9 @@
   "https://gamemag.ru/news/201880/cronos-lazarus-release-date-december",
   "title:Названа дата выхода дополнения Cronos: Lazarus для Cronos: The New Dawn от создателей ремейка Silent Hill 2",
   "https://deadline.com/2026/10/the-diplomat-renewed-season-5-netflix-1237207664/",
-  "title:‘The Diplomat’ Renewed For Season 5 At Netflix"
+  "title:‘The Diplomat’ Renewed For Season 5 At Netflix",
+  "skip:https://www.film.ru/news/mstiteli-sudnyy-den-hit-predprodazh",
+  "skip:https://www.film.ru/news/golodnye-igry-rassvet-zhatvy-pokazhet-silnyy-start",
+  "https://deadline.com/2026/10/marcus-theatres-record-earnings-spider-man-the-odyssey-1237208075/",
+  "title:Marcus Theatres Posts Record Q3 Led By ‘Spider-Man’, ‘The Odyssey’ Amid Box Office Boom"
 ]

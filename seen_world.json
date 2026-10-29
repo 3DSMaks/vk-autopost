@@ -1,9 +1,4 @@
 [
-  "skip:https://www.rbc.ru/rbcfreenews/6ae0421f3d5c5cd26b1e28a6",
-  "skip:https://www.interfax.ru/russia/1125166",
-  "skip:https://www.rbc.ru/rbcfreenews/6ae03a32a094ec13d1aac5a9",
-  "https://www.interfax.ru/russia/1125173",
-  "title:ВС РФ нанесли ночной удар по объектам ВПК и мосту в Киеве",
   "skip:https://www.interfax.ru/world/1125185",
   "skip:https://www.france24.com/en/polls-open-in-israeli-election-seen-as-referendum-on-netanyahu",
   "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
@@ -998,5 +993,10 @@
   "title:Даниил Медведев победил Кэмерона Норри и вышел в четвертьфинал турнира в Вене",
   "skip:https://www.interfax.ru/business/1125867",
   "https://www.kommersant.ru/doc/9064003",
-  "title:Европейский центральный банк сохранил все три процентные ставки на прежнем уровне"
+  "title:Европейский центральный банк сохранил все три процентные ставки на прежнем уровне",
+  "skip:https://www.interfax.ru/russia/1125882",
+  "skip:https://tass.ru/ekonomika/28268093",
+  "skip:https://tass.ru/ekonomika/28268087",
+  "skip:https://www.interfax.ru/business/1125879",
+  "https://www.kommersant.ru/doc/9064048"
 ]

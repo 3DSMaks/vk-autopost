@@ -1,10 +1,4 @@
 [
-  "skip:https://www.rbc.ru/politics/27/10/2026/6adfdf993a2b75d3479b27b6",
-  "skip:https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28255967",
-  "skip:https://www.rbc.ru/politics/27/10/2026/6adfd1adca79599324c73d78",
-  "skip:https://ria.ru/20261027/pasport-2127173186.html",
-  "https://ria.ru/20261027/vybory-2127179792.html",
   "title:Партия Жаира Болсонару признала поражение на выборах президента Бразилии, экс-президента обязали сдать паспорт",
   "skip:https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28255991",
@@ -998,5 +992,11 @@
   "title:Гана начала переговоры с Росатомом о строительстве первой в стране АЭС",
   "skip:https://www.rbc.ru/rbcfreenews/6ae318a8b11d2a34d8ec6eef",
   "https://www.kommersant.ru/doc/9063650",
-  "title:В Сербии проведут повторное голосование на 53 участках на выборах"
+  "title:В Сербии проведут повторное голосование на 53 участках на выборах",
+  "skip:https://www.kommersant.ru/doc/9063643",
+  "https://www.rbc.ru/politics/29/10/2026/6ae2fc18c3d5e49e664d10f9",
+  "title:Железнодорожная катастрофа в Испании и ее политические последствия для правительства",
+  "skip:https://tass.ru/proisshestviya/28266921",
+  "https://ria.ru/20261029/harkov-2127814884.html",
+  "title:В пригороде Харькова прогремел взрыв"
 ]

@@ -1,10 +1,4 @@
 [
-  "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
-  "title:ВВС Иордании нанесли авиаудары по территории Сирии в ответ на нападение на церковь",
-  "skip:https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-says-police-demand-passports-after-brazil-election-defeat?traffic_source=rss",
-  "https://www.france24.com/en/americas/20261026-flavio-bolsonaro-opposition-brazil-court-travel-ban",
-  "title:Суд в Бразилии запретил Флавиу Болсонару покидать страну после поражения на выборах",
-  "skip:https://www.aljazeera.com/sports/2026/10/26/englands-harry-kane-wins-ballon-dor-alexia-putellas-takes-womens-award?traffic_source=rss",
   "skip:https://news.google.com/rss/articles/CBMirAFBVV95cUxNMWNQMjEwaXl4ZnZCNDYtNk5IWlZPVFllYTVQZmN6aHNHWlRFYjA4dWFsYlV6T01oVkJXTjVsbkF1TFM3Q2MxT2QxVVpyVEN0TFBjNmxXZFIybW56MWwxUHQwUHFHd19DOW5hS3lhdDFHT2I0TzZ0M3Z0aDJ5M3RGWmh4MlFwOFFnVlJURG9UcEh3czEyYTZJZWxPTmJPcXlYcmFhT0haU1czU3ZZ?oc=5",
   "skip:https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVFRV0NrZERLS0JsYi0ybFV2UTh0bU82S1NxOW11NUE4U01CcVhlcWxqN0FQZmRRTk1OV3ZneGVMWW41ZksycldfX21HcTUtRmJHYjIxWC1JM0pJczRNX3BxbkctaDlVdnlNT0VvOUwxQWgwRzFYY3UtdmJhR1JyT19mdkY1WDdoSGFpWFdBb3JoemtYeFNsR2REVEZld1M5YU56d1l3?oc=5",
   "https://www.france24.com/en/sport/20261026-harry-kane-ballon-dor-2026-alexia-putellas",
@@ -998,5 +992,11 @@
   "title:Госдума одобрила в первом чтении проект федерального бюджета на 2027–2029 годы",
   "skip:https://www.france24.com/en/europe/20261029-at-least-13-killed-in-horrific-russian-drone-strike-at-ukraine-train-station",
   "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMVJMbm5Vb3NTVmNud01fMHc3WHJUWTNvWl8zSmJYZjVUUHhRbm5VWGZxVWZmbGpQdHZNZUlCQVFuLWxWb1FoR0xTZThVSmRTRVBlWUlLaWNKUTZzVnV1dTYyellibWN0XzFXNGpsUk45U2o1Z2hzUndOUEJYM0Q3WmUxSHFteS1WRXpyRk5JcmdTaEdyNVMzV2dwRGxCc0hGMlpQRElXQzMxZXdj?oc=5",
-  "title:Удар беспилотника по железнодорожной станции в Днепре привел к гибели людей"
+  "title:Удар беспилотника по железнодорожной станции в Днепре привел к гибели людей",
+  "skip:https://www.interfax.ru/business/1125825",
+  "https://www.kommersant.ru/doc/9063831",
+  "title:Госдума приняла в первом чтении проект федерального бюджета на 2027–2029 годы",
+  "skip:https://www.kommersant.ru/doc/9063743",
+  "https://tass.ru/mezhdunarodnaya-panorama/28267339",
+  "title:США разрешили Японии производить ракеты для истребителей F-35 и строить совместный завод"
 ]

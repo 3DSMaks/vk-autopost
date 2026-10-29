@@ -1,13 +1,4 @@
 [
-  "skip:https://ria.ru/20261027/mbappe-2127303029.html",
-  "skip:https://www.aljazeera.com/sports/2026/10/27/kylian-mbappe-apologises-after-dictator-comment-angers-chinese-fans?traffic_source=rss",
-  "skip:https://news.google.com/rss/articles/CBMimAFBVV95cUxNMTQ4UjVlWS1MVlhxNUFHOVlZSk1IWHk2ai1tRGdfRkNxQ2RBUmd1eDZKMXkxTTR5cjJYTDRxem5CXzRrQ0lUd3VkMFlTVUhHVlVReEk5MWZna1NPempEXzA2UUlqREZzNGNPazdRQlNWdWJqdUZxMTktZHBBV0xkNHAzcHFBbmVhVEY0NHNaYTZmdWpTaHViMg?oc=5",
-  "https://www.rbc.ru/sport/27/10/2026/6ae0962e9a79477b20aa0689",
-  "title:Килиан Мбаппе извинился перед китайскими болельщиками за скандальные высказывания",
-  "skip:https://tass.ru/proisshestviya/28258435",
-  "https://www.interfax.ru/world/1125270",
-  "title:В Ормузском проливе на мине подорвался танкер",
-  "skip:https://ria.ru/20261027/izrailya-2127306569.html",
   "https://tass.ru/mezhdunarodnaya-panorama/28258675",
   "title:Явка на парламентских выборах в Израиле бьет рекорды",
   "skip:https://www.kommersant.ru/doc/9061954",
@@ -998,5 +989,14 @@
   "skip:https://www.rbc.ru/politics/29/10/2026/6ae38bf06d596e6575ba078e",
   "skip:https://www.interfax.ru/world/1125907",
   "https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss",
-  "title:Партия Нетаньяху лидирует на выборах в Израиле после подсчета 100% голосов без получения большинства"
+  "title:Партия Нетаньяху лидирует на выборах в Израиле после подсчета 100% голосов без получения большинства",
+  "skip:https://ria.ru/20261029/akter-2127949980.html",
+  "skip:https://tass.ru/kultura/28268993",
+  "skip:https://www.kommersant.ru/doc/9064215",
+  "https://www.rbc.ru/society/29/10/2026/6ae3a40a5ebab5d79cbec0b8",
+  "title:Умер британский актер Патрик Стюарт",
+  "skip:https://ria.ru/20261029/ogranichenija-2127950145.html",
+  "skip:https://tass.ru/proisshestviya/28268985",
+  "https://www.interfax.ru/world/1125925",
+  "title:В Боснии и Герцеговине разбился итальянский военный вертолет с миротворцами"
 ]

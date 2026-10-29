@@ -1,9 +1,4 @@
 [
-  "skip:https://www.film.ru/news/gvinet-peltrou-v-trillere-netflix",
-  "https://deadline.com/2026/10/rita-wilson-return-lena-dunham-girls-revival-hbo-1237168250/",
-  "title:Rita Wilson Teases Return In Lena Dunham’s ‘Girls’ Revival On HBO: “I Would Do Anything For Her”",
-  "https://deadline.com/2026/10/james-talaricos-friday-night-lights-ad-midterms-1237168179/",
-  "title:‘Friday Night Lights’ Stars Hit The Field To Aid James Talarico’s Smashmouth Attempt To Score A Texas Senate Race Win",
   "skip:https://variety.com/2026/film/news/hunter-schafer-bottom-surgery-1236916742/",
   "https://variety.com/2026/film/news/netflix-fired-dan-lin-greta-gerwig-narnia-tensions-1236916933/",
   "title:Why Netflix Fired Dan Lin (and the Truth About His Tension With Greta Gerwig Over ‘Narnia’)",
@@ -998,5 +993,10 @@
   "title:Новые фильмы недели: \"Рождение империи\" с Биковичем и Лиам Нисон на колёсах",
   "skip:https://kg-portal.ru/comments/135577-sozdatel-ulybki-bolshe-ne-ulybaetsja-tretju-chast-snimet-rezhisser-remejka-vosstavshego-iz-ada/",
   "https://deadline.com/2026/10/wentworth-sequel-series-5-uk-deal-1237207207/",
-  "title:Skydance-Owned 5 Buys UK Rights To ‘Wentworth’ Sequel Series"
+  "title:Skydance-Owned 5 Buys UK Rights To ‘Wentworth’ Sequel Series",
+  "skip:https://variety.com/2026/film/festivals/godzilla-minus-one-us-success-wasnt-strategy-toho-chief-1236933968/",
+  "skip:https://variety.com/2026/film/markets-festivals/japan-ip-market-returns-cannes-2027-1236933952/",
+  "skip:https://www.kinonews.ru/news_143879/",
+  "https://kg-portal.ru/comments/135573-lazershou-tri-debila-vypusk-749-baddi-ljubymi-sredstvami-vyhod-klejfejsa-zachistka-v-netflix-kvartira-billi-uajldera/",
+  "title:Лазер-шоу \"Три дебила\". Выпуск 749: \"Бадди\", \"Любыми средствами\", выход \"Клэйфейса\", зачистка в Netflix, \"Квартира\" Билли Уайлдера"
 ]

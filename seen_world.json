@@ -1,10 +1,4 @@
 [
-  "https://www.sport-interfax.ru/1125130",
-  "skip:https://www.interfax.ru/russia/1125145",
-  "skip:https://ria.ru/20261027/ataka-2127190897.html",
-  "skip:https://tass.ru/proisshestviya/28256353",
-  "https://www.kommersant.ru/doc/9061262",
-  "title:При атаке беспилотника на автобус в Запорожской области погиб пассажир",
   "skip:https://www.interfax.ru/world/1125135",
   "https://www.kommersant.ru/doc/9061250",
   "title:Дональд Трамп возложил на Иран ответственность за начало конфликта с США",
@@ -998,5 +992,11 @@
   "skip:https://www.interfax.ru/world/1125851",
   "skip:https://www.interfax.ru/world/1125842",
   "https://tass.ru/mezhdunarodnaya-panorama/28267823",
-  "title:Партия Нетаньяху лидирует на выборах в Израиле на фоне споров о возможном внешнем вмешательстве"
+  "title:Партия Нетаньяху лидирует на выборах в Израиле на фоне споров о возможном внешнем вмешательстве",
+  "skip:https://tass.ru/ekonomika/28267939",
+  "https://www.interfax.ru/world/1125863",
+  "title:Финляндия, США и «Росатом» заключили соглашения по редкоземельным металлам",
+  "skip:https://ria.ru/20261029/vk-2127880345.html",
+  "https://www.rbc.ru/society/29/10/2026/6ae35d37c62df9fe987523eb",
+  "title:Минцифры предложило блокировать SIM-карты мошенников на уровне операторов"
 ]

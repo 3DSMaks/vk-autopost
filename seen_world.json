@@ -1,12 +1,4 @@
 [
-  "skip:https://tass.ru/politika/28259257",
-  "skip:https://ria.ru/20261027/razgovor-2127356270.html",
-  "skip:https://www.interfax.ru/russia/1125303",
-  "skip:https://www.rbc.ru/politics/27/10/2026/6ae0c5cb13c1eb13d6b9a0e2",
-  "skip:https://ria.ru/20261027/razgovor-2127355683.html",
-  "skip:https://tass.ru/politika/28259207",
-  "skip:https://tass.ru/politika/28259213",
-  "skip:https://tass.ru/politika/28259215",
   "skip:https://ria.ru/20261027/kreml-2127354685.html",
   "skip:https://www.kommersant.ru/doc/9062068",
   "skip:https://ria.ru/20261027/peskov-2127351837.html",
@@ -998,5 +990,13 @@
   "skip:https://www.interfax.ru/world/1125939",
   "skip:https://tass.ru/proisshestviya/28269105",
   "https://www.kommersant.ru/doc/9064258",
-  "title:Хуситы заявили об ударах по нефтяным объектам и аэропортам в Саудовской Аравии"
+  "title:Хуситы заявили об ударах по нефтяным объектам и аэропортам в Саудовской Аравии",
+  "skip:https://www.interfax.ru/moscow/1125943",
+  "skip:https://ria.ru/20261030/moskva-2127968176.html",
+  "skip:https://tass.ru/proisshestviya/28269233",
+  "https://www.rbc.ru/rbcfreenews/6ae3cc8ae8a83604a8226b93",
+  "title:Силы ПВО перехватили 16 беспилотников, летевших в сторону Москвы",
+  "skip:https://www.aljazeera.com/editorial/2026/10/29/patrick-stewart-star-trek-captain-picard-and-x-men-actor-dies-at-86?traffic_source=rss",
+  "skip:https://ria.ru/20261030/patrick-stewart-2127961979.html",
+  "https://www.rbc.ru/society/30/10/2026/6ae3c8a25171f3bd6bffccf3"
 ]

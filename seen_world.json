@@ -1,10 +1,4 @@
 [
-  "skip:https://www.interfax.ru/world/1125185",
-  "skip:https://www.france24.com/en/polls-open-in-israeli-election-seen-as-referendum-on-netanyahu",
-  "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-  "title:В Израиле начались парламентские выборы",
-  "skip:https://tass.ru/ekonomika/28256779",
-  "https://www.interfax.ru/russia/1125187",
   "title:ФАС проводит антикартельные проверки переработчиков семян подсолнечника",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28256927",
   "https://www.rbc.ru/politics/27/10/2026/6ae04ec1232252d14b481da4",
@@ -998,5 +992,11 @@
   "skip:https://tass.ru/ekonomika/28268093",
   "skip:https://tass.ru/ekonomika/28268087",
   "skip:https://www.interfax.ru/business/1125879",
-  "https://www.kommersant.ru/doc/9064048"
+  "https://www.kommersant.ru/doc/9064048",
+  "skip:https://www.interfax.ru/world/1125877",
+  "https://tass.ru/kosmos/28268197",
+  "title:На Солнце зафиксирован крупный выброс протуберанца размером около 500 тыс. км",
+  "skip:https://news.google.com/rss/articles/CBMiswFBVV95cUxQT19OLUYzbVNkOXdLUFJnQWJpOHRJaDQ0Y3FyVWs5M1IyLTFIZmRsazhqakFvMlFPNnFTeEM1T0VTTnlHTjJyMjFsblVzMlduWlRNeFI0VjlZVXRwNUZGUTVFeWdTY0tLRzlaRWFKam9uU2lRREVFS0lTLXpQME9jR25LRjF5Z0lnZ2lqbV9ybjZfRlZldDRYXzB6UElVU08zVFduMzhCYjFTb25hWTBtNTA4dw?oc=5",
+  "https://ria.ru/20261029/katar-2127899183.html",
+  "title:Катар закупает СПГ у США для снижения рисков экспорта по Ормузскому проливу"
 ]

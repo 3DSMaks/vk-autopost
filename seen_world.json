@@ -1,15 +1,4 @@
 [
-  "skip:https://ria.ru/20261027/rossija-2127340975.html",
-  "skip:https://www.rbc.ru/politics/27/10/2026/6ae0b6ba5a94092ee8950631",
-  "skip:https://www.interfax.ru/world/1125285",
-  "https://tass.ru/politika/28259121",
-  "title:Телефонный разговор Путина с лидерами Финляндии и Норвегии",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28259039",
-  "skip:https://ria.ru/20261027/husity-2127335922.html",
-  "skip:https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMU9tRHdmbzQ2ZHlsQzBDVmpqUEhlTk9meXgzN1VMOWlUMnlKOU1ibFRMQ1VQNDNjTkloUG9lb054S2JXZ2YwMS1MMXM4b1pwczl2clNyTHM5RGZVdnd6bzJXTVl4bW4yZ0pGTEV2aEV4dlR2cDNkc0lvNjVMN2ZScklvRDE3S1VyS0FoaC02Z3BqTHJPeTJrekxhM0dONmN0VzdXTmE5QjNfM0pIZ1Q2SHMtSkZzbFNqSThaN2RybDFBdw?oc=5",
-  "https://www.interfax.ru/world/1125277",
-  "title:Хуситы заявили об ударах по объектам в Саудовской Аравии",
-  "skip:https://ria.ru/20261027/peskov-2127356540.html",
   "skip:https://tass.ru/politika/28259257",
   "skip:https://ria.ru/20261027/razgovor-2127356270.html",
   "skip:https://www.interfax.ru/russia/1125303",
@@ -998,5 +987,16 @@
   "skip:https://www.kommersant.ru/doc/9064216",
   "skip:https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWhaZUxRSlZQeF9wYnU2b0k0U2FuYUUyY0RWX3hpZmJTdFVHdk5SeUk4MlpnTXozUjVGdHllRnNXOTdDMUppd2hnbmdOMUVwWThMUGRUaGRuZjVLUTR2eld0aGQwOUt3aXVlYmtLM0xNbHFWUVdRWXVDbFdVekM1T3Q3MURNX2M0cWl0Vi1QNTVUU3o0N1BfZnVnQ2RwRDA1?oc=5",
   "skip:https://www.france24.com/en/culture/20261029-patrick-stewart-star-of-star-trek-and-x-men-dies-age-86",
-  "https://www.interfax.ru/world/1125935"
+  "https://www.interfax.ru/world/1125935",
+  "skip:https://www.rbc.ru/finances/30/10/2026/6ae3badfb2fc2401d09808cf",
+  "skip:https://ria.ru/20261030/binance-2127962927.html",
+  "skip:https://www.kommersant.ru/doc/9064257",
+  "skip:https://tass.ru/ekonomika/28269175",
+  "skip:https://tass.ru/ekonomika/28269111",
+  "https://ria.ru/20261030/bitkoiny-2127965807.html",
+  "title:Основатель Binance заявил о возможном хакерском взломе биржи",
+  "skip:https://www.interfax.ru/world/1125939",
+  "skip:https://tass.ru/proisshestviya/28269105",
+  "https://www.kommersant.ru/doc/9064258",
+  "title:Хуситы заявили об ударах по нефтяным объектам и аэропортам в Саудовской Аравии"
 ]

@@ -1,7 +1,4 @@
 [
-  "https://variety.com/2026/film/news/daisy-edgar-jones-sense-and-sensibility-dolly-parton-1236917040/",
-  "title:Why Daisy Edgar-Jones Listened to Dolly Parton to Prep for ‘Sense and Sensibility’",
-  "skip:https://www.film.ru/news/tom-holland-v-penthause",
   "https://variety.com/2026/film/news/judi-dench-says-cats-film-was-a-waste-of-goodwill-talent-1236917065/",
   "title:Judi Dench Says Panned ‘Cats’ Film Was a ‘Waste’ of Andrew Lloyd Webber’s ‘Goodwill and Talent’",
   "https://deadline.com/2026/10/star-wars-super-bowl-2027-altcast-disney-nfl-1237168321/",
@@ -998,5 +995,8 @@
   "https://kg-portal.ru/comments/135578-dzhejmi-dornan-ne-verit-v-sebja-novym-aragornom-vo-vlasteline-kolec-emu-ne-stat/",
   "title:Джейми Дорнан не верит в себя: новым Арагорном во \"Властелине колец\" ему не стать",
   "https://deadline.com/2026/10/godzilla-legendary-tbs-cj-enm-ninja-warrior-studio-monowa-1237207948/",
-  "title:TBS Unpacks Collaborations With Legendary & Korea’s CJ ENM: “We Want To Create A New Global Genre Of J-Content”"
+  "title:TBS Unpacks Collaborations With Legendary & Korea’s CJ ENM: “We Want To Create A New Global Genre Of J-Content”",
+  "skip:https://www.film.ru/news/parker-finn-ne-snimet-ulybku-3",
+  "https://www.film.ru/news/operator-la-la-lenda-budet-v-marvel",
+  "title:Оператор «Ла-Ла Ленда» будет в Marvel"
 ]

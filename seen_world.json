@@ -1,11 +1,4 @@
 [
-  "title:ФАС проводит антикартельные проверки переработчиков семян подсолнечника",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28256927",
-  "https://www.rbc.ru/politics/27/10/2026/6ae04ec1232252d14b481da4",
-  "title:СМИ сообщили о возможном обсуждении ассоциации Канады с ЕС на саммите в Монреале из-за кредита Украине",
-  "skip:https://tass.ru/ekonomika/28256951",
-  "https://www.interfax.ru/business/1125196",
-  "title:Россия за восемь месяцев увеличила объем несырьевого неэнергетического экспорта на 7,3%",
   "skip:https://www.rbc.ru/society/27/10/2026/6ae045203578b97c92e97b9c",
   "skip:https://tass.ru/info/28257033",
   "https://www.france24.com/en/tv-shows/sports/20261027-harry-kane-wins-ballon-d-or-with-kylian-mbapp%C3%A9-in-second-ahead-of-lamine-yamal",
@@ -998,5 +991,12 @@
   "title:На Солнце зафиксирован крупный выброс протуберанца размером около 500 тыс. км",
   "skip:https://news.google.com/rss/articles/CBMiswFBVV95cUxQT19OLUYzbVNkOXdLUFJnQWJpOHRJaDQ0Y3FyVWs5M1IyLTFIZmRsazhqakFvMlFPNnFTeEM1T0VTTnlHTjJyMjFsblVzMlduWlRNeFI0VjlZVXRwNUZGUTVFeWdTY0tLRzlaRWFKam9uU2lRREVFS0lTLXpQME9jR25LRjF5Z0lnZ2lqbV9ybjZfRlZldDRYXzB6UElVU08zVFduMzhCYjFTb25hWTBtNTA4dw?oc=5",
   "https://ria.ru/20261029/katar-2127899183.html",
-  "title:Катар закупает СПГ у США для снижения рисков экспорта по Ормузскому проливу"
+  "title:Катар закупает СПГ у США для снижения рисков экспорта по Ормузскому проливу",
+  "skip:https://tass.ru/proisshestviya/28268235",
+  "https://ria.ru/20261029/chislo-2127907863.html",
+  "title:Число жертв железнодорожной катастрофы в Испании увеличилось до 74",
+  "skip:https://news.google.com/rss/articles/CBMinAFBVV95cUxNX01JdWZRb19GUU9tM1JsQkhzcGM4dFBqdENqQ3VRdWhLcjRmaTFreXFZRkFuc3VZVDc3MTFCUHlTbGltZzlmbm53M2VoUkQ4YzB4VnQ5Nl9GVTF6U2hxTkRYa2tVNlZLcHpTX2pUWjBPaTdjSldHOG9WMVV0MUlTWFY0WU45NmNjR2lzNndfdVNGWTdtdHJFUUoxd1Q?oc=5",
+  "skip:https://ria.ru/20261029/es-2127900758.html",
+  "https://www.interfax.ru/world/1125898",
+  "title:Глава Еврокомиссии предложила предоставить Канаде ассоциированное членство в ЕС"
 ]

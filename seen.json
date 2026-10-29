@@ -1,7 +1,4 @@
 [
-  "https://www.film.ru/articles/tayny-sledstviya-ili-nevskiy-kakie-rossiyskie-serialy-dolshe-vsego-proderzhalis-v-efire",
-  "title:«Тайны следствия» или «Невский»: какие российские сериалы дольше всего продержались в эфире?",
-  "skip:https://www.kinonews.ru/news_143736/",
   "https://kg-portal.ru/comments/135452-radi-toma-hollanda-sony-gotova-snjat-film-po-originalnomu-scenariju-avtora-zheleznogo-cheloveka-3/",
   "title:Ради Тома Холланда Sony готова снять фильм по оригинальному сценарию автора \"Железного человека 3\"",
   "skip:https://www.kinonews.ru/news_143744/",
@@ -998,5 +995,8 @@
   "title:«Мстители: Судный день» хит предпродаж",
   "skip:https://variety.com/2026/film/global/joey-king-lakeith-stanfield-alien-romance-comedy-safe-space-1236934141/",
   "https://deadline.com/2026/10/luke-wilson-vanessa-hudgens-nick-swardson-r-rated-comedy-1237207041/",
-  "title:‘Mini War’: First Look At Luke Wilson, Vanessa Hudgens, Nick Swardson & Rob Morgan In R-Rated Comedy"
+  "title:‘Mini War’: First Look At Luke Wilson, Vanessa Hudgens, Nick Swardson & Rob Morgan In R-Rated Comedy",
+  "skip:https://variety.com/2026/film/news/elke-sommer-dead-pink-panther-shot-in-the-dark-1236934138/",
+  "https://variety.com/2026/film/columns/hunger-games-elizabeth-banks-sunrise-on-the-reaping-joseph-zada-1236934165/",
+  "title:Original ‘Hunger Games’ Star Elizabeth Banks Praises ‘Sunrise on the Reaping’ as ‘Amazing’: Joseph Zada Is a ‘Perfect’ Haymitch"
 ]

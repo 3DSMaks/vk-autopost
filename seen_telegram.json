@@ -1,8 +1,4 @@
 [
-  "https://www.kinonews.ru/news_143700/",
-  "title:Режиссер \"Голодных игр\" экранизирует \"Красное восстание\"",
-  "skip:https://www.igromania.ru/news/169257/antiutopii-pro-podrostkov-vozvraschayutsya-rezhissyor-golodnyih-igr-ekraniziruet-aloe-vosstanie/",
-  "skip:https://gamemag.ru/news/201692/cdpr-project-hadar-status-update-october-2026",
   "skip:https://gamemag.ru/news/201697/former-rockstar-writer-on-bully-dev-october-2026",
   "https://www.igromania.ru/news/169263/ne-proval-analitiki-otsenili-prodazhi-ghost-of-yotei-i-sravnili-ih-s-ghost-of-tsushima/",
   "title:Не провал — аналитики оценили продажи Ghost of Yotei﻿ и сравнили их с Ghost of Tsushima",
@@ -998,5 +994,9 @@
   "title:\"Она готова\": Rockstar заявила о завершении основной разработки GTA VI за три недели до релиза",
   "skip:https://www.kinonews.ru/news_143878/",
   "https://kg-portal.ru/comments/135568-rezhisser-meg-2-obnaruzhit-pod-njujorkom-celoe-obschestvo-podzemnyh-suschestv/",
-  "title:Режиссёр \"Мег 2\" обнаружит под Нью-Йорком целое общество подземных существ"
+  "title:Режиссёр \"Мег 2\" обнаружит под Нью-Йорком целое общество подземных существ",
+  "skip:https://deadline.com/2026/10/cannes-marche-du-film-tiffcom-japan-ip-market-2027-1237207994/",
+  "skip:https://variety.com/2026/film/markets-festivals/japan-ip-market-returns-cannes-2027-1236933952/",
+  "https://kg-portal.ru/comments/135577-sozdatel-ulybki-bolshe-ne-ulybaetsja-tretju-chast-snimet-rezhisser-remejka-vosstavshego-iz-ada/",
+  "title:Создатель \"Улыбки\" больше не улыбается: третью часть снимет режиссёр ремейка \"Восставшего из ада\""
 ]

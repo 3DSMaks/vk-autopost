@@ -1,10 +1,4 @@
 [
-  "skip:https://www.film.ru/news/ulichnyy-boec-vozglavil-prokat",
-  "skip:https://www.kinonews.ru/news_143715/",
-  "https://variety.com/2026/film/news/taika-waititi-confirms-star-wars-movie-is-on-hold-1236916086/",
-  "title:Taika Waititi Confirms His ‘Star Wars’ Movie Has Been Put ‘on Ice’ Indefinitely",
-  "skip:https://www.playground.ru/star_wars_zero_company/news/star_wars_zero_company_poluchila_krupnoe_obnovlenie_s_rezhimom_permanentnoj_smerti_i_novymi_ispytaniyami-1882866#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169310/veduschij-razrabotchik-outlast-rasskazal-chto-odin-iz-testirovschikov-ubezhal-iz-ofisa-poplakat/",
   "https://gamemag.ru/news/201718/assasins-creed-destiny-info-october-2026",
   "title:Ubisoft отменила неанонсированную игру Assassin’s Creed Destiny — СМИ",
   "https://variety.com/2026/film/news/joe-manganiello-ben-afflecks-batman-film-deathstroke-1236915997/",
@@ -998,5 +992,11 @@
   "https://kg-portal.ru/comments/135568-rezhisser-meg-2-obnaruzhit-pod-njujorkom-celoe-obschestvo-podzemnyh-suschestv/",
   "title:Режиссёр \"Мег 2\" обнаружит под Нью-Йорком целое общество подземных существ",
   "https://variety.com/2026/film/columns/hunger-games-elizabeth-banks-sunrise-on-the-reaping-joseph-zada-1236934165/",
-  "title:Original ‘Hunger Games’ Star Elizabeth Banks Praises ‘Sunrise on the Reaping’ as ‘Amazing’: Joseph Zada Is a ‘Perfect’ Haymitch"
+  "title:Original ‘Hunger Games’ Star Elizabeth Banks Praises ‘Sunrise on the Reaping’ as ‘Amazing’: Joseph Zada Is a ‘Perfect’ Haymitch",
+  "skip:https://gamemag.ru/news/201900/the-verge-microsoft-planiruet-anonsirovat-v-noyabre-the-elder-scrolls-vi-sentinel",
+  "skip:https://www.igromania.ru/news/169625/the-elder-scrolls-vi-dejstvitelno-poluchit-podzagolovok-sentinel-o-chyom-obyavyat-v-noyabre-smi/",
+  "skip:https://www.igromania.ru/news/169623/ekshen-the-duskbloods-avtorov-elden-ring-s-dark-souls-i-bloodborne-perenesli-na-2027-god/",
+  "skip:https://stopgame.ru/newsdata/73328/avtory_alien_isolation_2_podelilis_detalyami_igry_i_podtverdili_fizicheskoe_izdanie",
+  "https://www.playground.ru/assassins_creed_valhalla/news/assassins_creed_valhalla_privlekla_40_millionov_igrokov_5_noyabrya_poyavitsya_novaya_igra-1886051#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Assassin's Creed Valhalla привлекла 40 миллионов игроков - 5 ноября появится Новая игра+"
 ]

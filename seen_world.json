@@ -1,8 +1,4 @@
 [
-  "skip:https://tass.ru/politika/28259127",
-  "skip:https://www.interfax.ru/russia/1125293",
-  "skip:https://www.kommersant.ru/doc/9062043",
-  "skip:https://www.interfax.ru/russia/1125288",
   "skip:https://ria.ru/20261027/rossija-2127340975.html",
   "skip:https://www.rbc.ru/politics/27/10/2026/6ae0b6ba5a94092ee8950631",
   "skip:https://www.interfax.ru/world/1125285",
@@ -998,5 +994,9 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28268973",
   "skip:https://www.kommersant.ru/doc/9064217",
   "https://www.interfax.ru/world/1125929",
-  "title:Глава CENTCOM представил Дональду Трампу варианты военных действий против Ирана"
+  "title:Глава CENTCOM представил Дональду Трампу варианты военных действий против Ирана",
+  "skip:https://www.kommersant.ru/doc/9064216",
+  "skip:https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWhaZUxRSlZQeF9wYnU2b0k0U2FuYUUyY0RWX3hpZmJTdFVHdk5SeUk4MlpnTXozUjVGdHllRnNXOTdDMUppd2hnbmdOMUVwWThMUGRUaGRuZjVLUTR2eld0aGQwOUt3aXVlYmtLM0xNbHFWUVdRWXVDbFdVekM1T3Q3MURNX2M0cWl0Vi1QNTVUU3o0N1BfZnVnQ2RwRDA1?oc=5",
+  "skip:https://www.france24.com/en/culture/20261029-patrick-stewart-star-of-star-trek-and-x-men-dies-age-86",
+  "https://www.interfax.ru/world/1125935"
 ]

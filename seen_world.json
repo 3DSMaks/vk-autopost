@@ -1,11 +1,4 @@
 [
-  "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdi16Ny01RmxvOUZLWVB4UDFDak5LWFhweml3ZGFxaV9HYzkyS1hZMldjUUdZSng3YklkeVdCb1dYYXhpMG5KX3VmTWo5ZWtuQkJKMVNkMHZDMnQ1ZzZFeTdESHBSVmkxUWl3bWhVZTN4ZlNIbGJjTmNkbllqZGRVNUFoZmM0LTBvVTJJRllpTHJHeWtjWVdZNg?oc=5",
-  "title:Алексия Путельяс в третий раз выиграла «Золотой мяч»",
-  "skip:https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss",
-  "skip:https://ria.ru/20261027/obvineniya-2127174376.html",
-  "skip:https://ria.ru/20261027/obvineniya-2127173777.html",
-  "https://tass.ru/mezhdunarodnaya-panorama/28255943",
-  "title:В США вновь предъявили обвинения экс-главе ФБР Джеймсу Коми",
   "skip:https://www.rbc.ru/politics/27/10/2026/6adfdf993a2b75d3479b27b6",
   "skip:https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28255967",
@@ -998,5 +991,12 @@
   "title:Кристин Лагард объявила об уходе с поста главы ЕЦБ в феврале 2027 года",
   "skip:https://news.google.com/rss/articles/CBMimgFBVV95cUxPMG5CSk5rbFRVazFYVEpXdWU2cTE2R2h4OFZaZUI5VU81Y3JFQzVPenJybnhDeUlNWGNuSl9MdVlSbmU4bXRYaVB1aTZyLWliQTBCaE5ka0F2elN1XzllVVZRSGFXUnJOdXlqTkRFVUhGSWNfTGJ5N0VpdUpQQlBqQXZUU3BJY0dMYTd3Yk9YN1UxZ1lmV1hoejNn?oc=5",
   "https://www.france24.com/en/asia-pacific/20261029-hong-kong-leader-apologises-and-housing-minister-resigns-after-fire-investigation-exposes-failures",
-  "title:Гонконгский лидер извинился после расследования пожара в жилой башне"
+  "title:Гонконгский лидер извинился после расследования пожара в жилой башне",
+  "skip:https://www.interfax.ru/russia/1125794",
+  "skip:https://ria.ru/20261029/gana-2127804342.html",
+  "https://www.rbc.ru/economics/29/10/2026/6ae3234ec3d5e49e664d11b8",
+  "title:Гана начала переговоры с Росатомом о строительстве первой в стране АЭС",
+  "skip:https://www.rbc.ru/rbcfreenews/6ae318a8b11d2a34d8ec6eef",
+  "https://www.kommersant.ru/doc/9063650",
+  "title:В Сербии проведут повторное голосование на 53 участках на выборах"
 ]

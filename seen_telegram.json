@@ -1,7 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135423-strit-fajter-rolik-sneudachnymi-dubljami/",
-  "https://variety.com/2026/film/global/joel-coen-on-studio-consolidation-competition-1236914741/",
-  "title:Joel Coen on Studio Consolidation: ‘Competition Is What Produces Opportunities for Different kinds of Movies,’ Teases Reunion Film With Brother Ethan",
   "skip:https://www.playground.ru/call_of_duty_2026/news/kampaniya_call_of_duty_modern_warfare_4_poluchila_vysokie_otsenki_vozvraschenie_k_istokam_i_mrachnyj_syuzhet-1882465#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.playground.ru/tomb_raider_1996/news/novyj_tizer_tomb_raider_legacy_of_atlantis_pokazal_vnutriigrovoj_obraz_lary_kroft_v_gidrokostyume-1882460#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Новый тизер Tomb Raider Legacy of Atlantis показал внутриигровой образ Лары Крофт в гидрокостюме",
@@ -998,5 +995,8 @@
   "skip:https://www.igromania.ru/news/169611/phantom-blade-zero-v-steam-privlekla-438-000-igrokov-na-pike-v-otzyivah-sporyat-o-slozhnosti/",
   "https://gamemag.ru/news/201891/nearly-1-in-3-u-s-console-and-pc-gamers-plan-to-buy-grand-theft-auto-vi-setting-a-new-industry",
   "video:2026-10-29:https://gamemag.ru/news/201891/nearly-1-in-3-u-s-console-and-pc-gamers-plan-to-buy-grand-theft-auto-vi-setting-a-new-industry",
-  "title:Каждый третий американский геймер планирует купить Grand Theft Auto VI — это абсолютный исторический рекорд"
+  "title:Каждый третий американский геймер планирует купить Grand Theft Auto VI — это абсолютный исторический рекорд",
+  "skip:https://www.kinonews.ru/news_143880/",
+  "https://deadline.com/2026/10/disney-netflix-non-english-acquisitions-ampere-analysis-1237208043/",
+  "title:Disney+ & Netflix Hoover Up Non-English Acquisitions As Fervor For Japanese & Korean Content Continues – Ampere"
 ]

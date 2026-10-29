@@ -1,7 +1,4 @@
 [
-  "https://www.playground.ru/call_of_duty_2026/news/modern_warfare_4_udivlyaet_vnimaniem_k_detalyam_soyuzniki_otkryvayut_ogon_za_vystrel_po_portretu_vozhdya_kndr-1882653#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Modern Warfare 4 удивляет вниманием к деталям: союзники открывают огонь за выстрел по портрету вождя КНДР",
-  "skip:https://www.kinonews.ru/news_143708/",
   "skip:https://deadline.com/2026/10/street-fighter-orville-peck-tried-kylie-minogue-cameo-1237166445/",
   "skip:https://variety.com/2026/film/news/paul-bettany-johnny-depp-hadnt-spoken-in-years-libel-trial-1236915108/",
   "skip:https://kg-portal.ru/comments/135428-strit-fajter-pobezhdaet-v-poedinke-pervogo-uikenda-no-mozhet-proigrat-po-itogovym-sboram/",
@@ -998,5 +995,8 @@
   "skip:https://gamemag.ru/news/201890/bioware-employee-says-company-was-asked-to-remove-lgbtq-flag-from-mass-effect-universe",
   "skip:https://gamemag.ru/news/201885/ea-morale-hits-a-new-low-amid-ai-push-and-bioware-closure-a-cold-dead-place-thats-slowly-decaying",
   "https://www.ign.com/articles/a-famous-gta-4-meme-is-now-a-mechanic-in-gta-6",
-  "title:A Famous GTA 4 Meme Is Now a Mechanic in GTA 6"
+  "title:A Famous GTA 4 Meme Is Now a Mechanic in GTA 6",
+  "skip:https://www.film.ru/news/parker-finn-ne-snimet-ulybku-3",
+  "https://www.film.ru/news/operator-la-la-lenda-budet-v-marvel",
+  "title:Оператор «Ла-Ла Ленда» будет в Marvel"
 ]

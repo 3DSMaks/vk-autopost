@@ -1,8 +1,4 @@
 [
-  "skip:https://variety.com/2026/film/global/raj-singh-italy-rp1-holding-100-milion-film-fund-1236917222/",
-  "https://variety.com/2026/film/news/lin-manuel-miranda-warriors-broadway-cast-1236916824/",
-  "title:Lin-Manuel Miranda’s ‘Warriors’ Sets Broadway Cast",
-  "https://variety.com/2026/film/global/guillermo-del-toro-pans-labyrinth-morelia-film-festival-1236917004/",
   "title:Guillermo del Toro: ‘It Pains Me Deeply to See Past Generations Fail the Next, We’re Handing Down a World in Ruins’",
   "skip:https://variety.com/2026/film/global/luckychap-international-katie-goodson-thomas-president-film-1236917249/",
   "https://deadline.com/2026/10/netflix-hunting-wives-trailer-1237168481/",
@@ -998,5 +994,9 @@
   "skip:https://variety.com/2026/film/news/patrick-stewart-death-marvel-kevin-feige-tributes-x-men-1236934424/",
   "skip:https://www.film.ru/news/umer-zvezda-lyudey-iks-patrik-styuart",
   "https://deadline.com/2026/10/sony-mouthwashing-videogame-movie-karyn-kusama-1237208566/",
-  "title:Sony Takes Rights To ‘Mouthwashing’ Videogame; Karyn Kusama Directing With Crooked Highway Producing"
+  "title:Sony Takes Rights To ‘Mouthwashing’ Videogame; Karyn Kusama Directing With Crooked Highway Producing",
+  "skip:https://www.kinonews.ru/news_143893/",
+  "skip:https://variety.com/2026/film/news/patrick-stewart-dies-hugh-jackman-mourns-x-men-actor-1236934490/",
+  "https://deadline.com/2026/10/walton-goggins-wraps-fallout-season-3-1237208791/",
+  "title:Walton Goggins Wraps ‘Fallout’ Season 3: “Til The Next Time”"
 ]

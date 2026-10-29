@@ -1,7 +1,4 @@
 [
-  "https://stopgame.ru/newsdata/73210/avtory_stranger_than_heaven_predstavili_syuzhetnyy_trailer_pervoy_glavy",
-  "title:Авторы Stranger Than Heaven представили сюжетный трейлер первой главы",
-  "https://variety.com/2026/film/box-office/box-office-street-fighter-you-can-see-everything-whalefall-1236914827/",
   "title:Box Office: ‘Street Fighter’ Scores $13 Million Debut as ‘You Can See Everything’ Opens at No. 2 With $5.5 Million on Friday",
   "https://www.playground.ru/gta_6/news/fanaty_sravnili_novyj_trejler_gta_6_s_predyduschimi_i_zapodozrili_daungrejd_grafiki-1882506#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Фанаты сравнили новый трейлер GTA 6 с предыдущими и заподозрили даунгрейд графики",
@@ -998,5 +995,8 @@
   "https://deadline.com/2026/10/john-goodman-cast-season-2-the-beast-in-me-claire-danes-1237206529/",
   "title:John Goodman Joins Claire Danes In Season 2 Of ‘The Beast In Me’",
   "https://www.playground.ru/gothic/news/razrabotchiki_remejka_gothic_chto_to_tizeryat_opublikovan_post_s_nadpisyu_skoro_i_chetyre_novyh_skrinshota-1885647#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Разработчики ремейка Gothic что-то тизерят: опубликован пост с надписью \"Скоро\" и четыре новых скриншота"
+  "title:Разработчики ремейка Gothic что-то тизерят: опубликован пост с надписью \"Скоро\" и четыре новых скриншота",
+  "skip:https://stopgame.ru/newsdata/73315/ps_v_noyabre_dead_island_2_tomb_raider_iv_vi_remastered_i_monster_train_2",
+  "https://www.ign.com/articles/gta-6s-map-will-open-up-relatively-early-and-let-you-explore-freely-developers-are-still-discovering-new-parts-of-the-world",
+  "title:GTA 6's Map Will Open Up Relatively Early and Let You Explore Freely, Developers Are Still Discovering New Parts of the World"
 ]

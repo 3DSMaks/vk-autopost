@@ -1,9 +1,4 @@
 [
-  "skip:https://www.playground.ru/misc/news/uluchshal_instrumenty_dlya_vzloma_denuvo_voices38_obyasnil_svoyo_dlitelnoe_otsutstvie-1882738#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "https://www.playground.ru/star_wars_zero_company/news/lucasfilm_gotova_k_eksperimentam_s_igrami_po_star_wars_posle_uspeha_zero_company_i_galactic_racer-1882722#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Lucasfilm готова к экспериментам с играми по Star Wars после успеха Zero Company и Galactic Racer",
-  "skip:https://deadline.com/2026/10/box-office-global-street-fighter-1237167021/",
-  "https://deadline.com/2026/10/indie-film-box-office-la-bola-negra-shines-netflix-shares-grosses-1237167026/",
   "title:Curtain Up: ‘La Bola Negra’ Shines As Netflix Shares Grosses In Historic First — Specialty Box Office",
   "https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/remejk_ocarina_of_time_poluchit_novye_kvesty_uslozhnyonnye_mini_igry_i_izmenyonnye_podzemelya-1882751#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Ремейк Ocarina of Time получит новые квесты, усложнённые мини-игры и изменённые подземелья",
@@ -998,5 +993,10 @@
   "skip:https://www.ign.com/articles/the-gta-6-original-score-has-a-release-date-and-a-brand-new-track-you-can-listen-to-right-now",
   "skip:https://www.ign.com/articles/phantom-blade-zero-day-one-update-nvidia-driver-warning",
   "https://www.ign.com/articles/fromsoftwares-nintendo-switch-2-exclusive-the-duskbloods-officially-delayed-into-2027",
-  "title:FromSoftware's Nintendo Switch 2 Exclusive The Duskbloods Officially Delayed Into 2027"
+  "title:FromSoftware's Nintendo Switch 2 Exclusive The Duskbloods Officially Delayed Into 2027",
+  "skip:https://www.igromania.ru/news/169620/v-gothic-1-remake-dobavili-fotorezhim-legalnyie-chityi-i-tatuirovki-dlya-bezyimyannogo/",
+  "skip:https://gamemag.ru/news/201895/kitayskaya-igra-phantom-blade-zero-shturmom-vzyala-steam",
+  "skip:https://stopgame.ru/newsdata/73322/sistema_rozyska_i_kaleydoskop_reakciy_npc_bolshe_o_gta_vi_iz_stati_edge",
+  "https://www.igromania.ru/news/169615/rukovoditel-franshizyi-world-of-warcraft-nameknula-na-relizyi-konsolnyih-versij-mmo/",
+  "title:Продюсер World of Warcraft намекнула на релизы консольных версий MMO"
 ]

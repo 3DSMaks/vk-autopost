@@ -1,9 +1,4 @@
 [
-  "skip:https://www.film.ru/news/ulichnyy-boec-vozglavil-prokat",
-  "https://variety.com/2026/film/news/taika-waititi-confirms-star-wars-movie-is-on-hold-1236916086/",
-  "title:Taika Waititi Confirms His ‘Star Wars’ Movie Has Been Put ‘on Ice’ Indefinitely",
-  "skip:https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-next-fest-has-over-8-000-demos-as-worthless-vibe-coded-slop-levels-up/",
-  "https://gamemag.ru/news/201718/assasins-creed-destiny-info-october-2026",
   "title:Ubisoft отменила неанонсированную игру Assassin’s Creed Destiny — СМИ",
   "skip:https://www.kinonews.ru/news_143715/",
   "https://variety.com/2026/film/news/joe-manganiello-ben-afflecks-batman-film-deathstroke-1236915997/",
@@ -998,5 +993,10 @@
   "title:Продюсер Даррен Аронофски и сценарист \"Чёрного лебедя\" устроили настоящий кошмар в трейлере ужастика \"Маятник\"",
   "skip:https://stopgame.ru/newsdata/73342/pervoe_dlc_dlya_the_outer_worlds_2_poluchilo_korotkiy_tizer",
   "https://www.playground.ru/call_of_duty_modern_warfare_2/news/call_of_duty_modern_warfare_2_2009_mozhet_poluchit_pereizdanie_na_sovremennyh_konsolyah-1886288#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Call of Duty: Modern Warfare 2 (2009) может получить переиздание на современных консолях"
+  "title:Call of Duty: Modern Warfare 2 (2009) может получить переиздание на современных консолях",
+  "skip:https://www.playground.ru/mass_effect_5/news/po_dannym_dzhejsona_shrajera_ea_zakryla_bioware_i_otmenila_mass_effect_5_radi_star_wars_battlefront_3-1886299#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169640/ea-zakryila-bioware-i-otmenila-mass-effect-universe-iz-za-stavki-na-star-wars-battlefront-3-smi/",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/gta-6s-souped-up-red-dead-redemption-2-style-morality-system-will-scale-from-professional-to-irredeemable-so-players-can-decide-what-kind-of-criminal-they-want-to-be/",
+  "https://www.ign.com/articles/zelda-chief-eiji-aonuma-says-some-of-the-younger-members-of-the-ocarina-of-time-remake-team-had-never-played-the-original-game-and-thats-a-good-thing",
+  "title:Zelda Chief Eiji Aonuma Says Some of the Younger Members of the Ocarina of Time Remake Team Had Never Played the Original Game — and That's a Good Thi"
 ]

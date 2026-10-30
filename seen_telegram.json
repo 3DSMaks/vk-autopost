@@ -1,9 +1,4 @@
 [
-  "https://variety.com/2026/film/global/apichatpong-weerasethakul-tilda-swinton-piano-1236915017/",
-  "title:Apichatpong Weerasethakul’s ‘Jengira’s Magnificent Dream,’ With Tilda Swinton, Boarded by ‘Triangle of Sadness’ Mexican Co-Producer Piano",
-  "https://www.playground.ru/stalker_2/news/novyj_mod_dlya_stalker_2_dobavlyaet_v_igru_upravlyaemye_motornye_lodki-1882703#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Новый мод для STALKER 2 добавляет в игру управляемые моторные лодки",
-  "https://variety.com/2026/film/box-office/you-can-see-everything-box-office-nathan-fielder-elizabeth-holmes-huge-start-1236915640/",
   "title:Box Office: ‘You Can See Everything’ Stuns With $15 Million Debut, ‘Street Fighter’ Leads With $31 Million",
   "skip:https://www.playground.ru/call_of_duty_2026/news/stal_legendoj_dvazhdy_fanaty_call_of_duty_voshischeny_tem_kak_kapitan_prajs_pokoril_igrokov_v_dvuh_raznyh_versiyah-1882741#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.pcgamer.com/games/rpg/metal-band-genitorturers-allegedly-claims-a-vampire-the-masquerade-bloodlines-remake-is-coming-getting-a-dozen-crusty-nerds-way-too-worked-up/",
@@ -998,5 +993,10 @@
   "skip:https://stopgame.ru/newsdata/73341/simulyator_zhizni_petit_planet_startuet_4_dekabrya",
   "skip:https://www.playground.ru/petit_planet/news/petit_planet_ot_hoyoverse_vyjdet_4_dekabrya_avtory_genshin_impact_gotovyat_uyutnuyu_alternativu_animal_crossing-1886226#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://gamemag.ru/news/201863/fromsoftwares-switch-2-exclusive-the-duskbloods-has-been-delayed-to-2027",
-  "title:The Duskbloods от FromSoftware для Nintendo Switch 2 официально перенесли на 2027 год"
+  "title:The Duskbloods от FromSoftware для Nintendo Switch 2 официально перенесли на 2027 год",
+  "skip:https://stopgame.ru/newsdata/73340/redaktor_personazhey_i_anons_alfa_testirovaniya_hunter_the_reckoning_deathwish",
+  "skip:https://www.playground.ru/hunter_the_reckoning_deathwish/news/hunter_the_reckoning_deathwish_pokazyvaet_sozdanie_ohotnika_dlya_vyzhivaniya_v_mire_tmy-1886238#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169623/ekshen-the-duskbloods-avtorov-elden-ring-s-dark-souls-i-bloodborne-perenesli-na-2027-god/",
+  "https://www.igromania.ru/news/169638/nekstgen-obnovlenie-dlya-metro-2033-redux-i-metro-last-light-redux-dobralos-do-konsolej/",
+  "title:Некстген-обновление для​ Metro 2033 Redux и Metro: Last Light Redux добралось до консолей"
 ]

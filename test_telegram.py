@@ -194,8 +194,11 @@ class TelegramTests(unittest.TestCase):
         imgs = [self.jpeg('red'), self.jpeg('green'), self.jpeg('blue')]
         with patch.object(tg, 'gemini_json', return_value={'keep': [2, 0, 2, 9]}), quiet():
             self.assertEqual(tg.vet_images('t', imgs), [imgs[2], imgs[0]])
-        with patch.object(tg, 'gemini_json', return_value={'keep': []}), quiet():
-            self.assertEqual(tg.vet_images('t', imgs), [imgs[0]])
+        with patch.object(tg, 'gemini_json', return_value={'subject': 'x', 'keep': []}), quiet():
+            self.assertEqual(tg.vet_images('t', imgs), [])  # ничего не подошло — лучше другая новость, чем чужой кадр
+        with patch.object(tg, 'gemini_json', return_value={'subject': 'x', 'keep': []}) as g, quiet():
+            self.assertEqual(tg.vet_images('t', imgs[:1]), [])  # одиночную картинку тоже проверяем
+        g.assert_called_once()
         with patch.object(tg, 'gemini_json', side_effect=RuntimeError('down')), quiet():
             self.assertEqual(tg.vet_images('t', imgs), imgs)
 

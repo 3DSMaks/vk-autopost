@@ -1,11 +1,4 @@
 [
-  "https://www.film.ru/news/zvezda-sherloka-zhenilsya",
-  "title:Звезда «Шерлока» женился",
-  "skip:https://www.pcgamer.com/games/horror/clive-barker-says-hes-genuinely-astonished-by-hellraiser-revival-im-proud-as-f-k-at-the-end-result/",
-  "https://gamemag.ru/news/201724/squad-vykhodit-na-konsolyakh-trejler-anons",
-  "video:2026-10-18:https://gamemag.ru/news/201724/squad-vykhodit-na-konsolyakh-trejler-anons",
-  "title:Тактический шутер Squad выйдет на консолях",
-  "https://www.kinonews.ru/news_143706/",
   "title:Джош Бролин высказался о сценарии фильма \"Убийца 3\"",
   "https://www.playground.ru/fallout_3/news/fanatskij_remejk_fallout_3_na_dvizhke_new_vegas_demonstratsiya_rtx_remix_rekonstruktsii_luchej_i_nejronnogo_renderinga-1882702#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Фанатский ремейк Fallout 3 на движке New Vegas: демонстрация RTX Remix, реконструкции лучей и нейронного рендеринга",
@@ -998,5 +991,12 @@
   "https://kg-portal.ru/comments/135581-postery-filma-mstiteli-doktor-dum/",
   "title:Персонаж Роберта Дауни-младшего в самых разных злодейских позах на постерах \"Мстителей: Доктор Дум\"",
   "https://www.kinonews.ru/news_143897/",
-  "title:Джеймс Ганн готовится представить нового Бэтмена для киновселенной DC"
+  "title:Джеймс Ганн готовится представить нового Бэтмена для киновселенной DC",
+  "skip:https://stopgame.ru/newsdata/73339/grinding_gear_games_opublikovala_tizer_reliznoy_versii_path_of_exile_2",
+  "skip:https://www.igromania.ru/news/169637/sluh-o-zaschite-revyu-kopij-gta-6-votermarkoj-nazvali-lozhnyim-a-meryi-bezopasnosti-rockstar-bezumnyimi/",
+  "skip:https://www.igromania.ru/news/169636/path-of-exile-2-poluchila-svezhij-tizer-k-polnotsennomu-relizu-novyij-kontent-predstavyat-6-noyabrya/",
+  "skip:https://www.igromania.ru/news/169630/v-buduschem-assassins-creed-poka-net-novyih-remejkov-no-est-proektyi-syurprizyi-i-apdejt-dlya-valhalla/",
+  "skip:https://www.ign.com/articles/ubisoft-shares-cryptic-assassins-creed-codename-hexe-update",
+  "https://www.igromania.ru/news/169627/the-outer-worlds-2-poluchila-tizer-pervogo-syuzhetnogo-dopolneniya-side-effects-guaranteed/",
+  "title:The Outer Worlds 2 получила тизер первого сюжетного дополнения Side Effects Guaranteed"
 ]

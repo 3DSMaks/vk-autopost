@@ -1,7 +1,4 @@
 [
-  "https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/remejk_ocarina_of_time_poluchit_novye_kvesty_uslozhnyonnye_mini_igry_i_izmenyonnye_podzemelya-1882751#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Ремейк Ocarina of Time получит новые квесты, усложнённые мини-игры и изменённые подземелья",
-  "skip:https://kg-portal.ru/comments/135434-strit-fajter-na-starte-proigral-v-domashnem-prokate-mortal-kombat-ii/",
   "skip:https://www.film.ru/news/ulichnyy-boec-vozglavil-prokat",
   "https://variety.com/2026/film/news/taika-waititi-confirms-star-wars-movie-is-on-hold-1236916086/",
   "title:Taika Waititi Confirms His ‘Star Wars’ Movie Has Been Put ‘on Ice’ Indefinitely",
@@ -998,5 +995,8 @@
   "https://gamemag.ru/news/201911/mama-stala-kraterom-disney-pokazala-tizer-anime-death-stranding-isolations",
   "title:Мама стала кратером: Disney показала тизер аниме Death Stranding Isolations",
   "https://kg-portal.ru/comments/135598-majatnik-trejler/",
-  "title:Продюсер Даррен Аронофски и сценарист \"Чёрного лебедя\" устроили настоящий кошмар в трейлере ужастика \"Маятник\""
+  "title:Продюсер Даррен Аронофски и сценарист \"Чёрного лебедя\" устроили настоящий кошмар в трейлере ужастика \"Маятник\"",
+  "skip:https://stopgame.ru/newsdata/73342/pervoe_dlc_dlya_the_outer_worlds_2_poluchilo_korotkiy_tizer",
+  "https://www.playground.ru/call_of_duty_modern_warfare_2/news/call_of_duty_modern_warfare_2_2009_mozhet_poluchit_pereizdanie_na_sovremennyh_konsolyah-1886288#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Call of Duty: Modern Warfare 2 (2009) может получить переиздание на современных консолях"
 ]

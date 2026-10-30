@@ -1,8 +1,4 @@
 [
-  "https://www.kinonews.ru/news_143716/",
-  "title:Мэтт Ривз останется режиссером \"Бэтмена 2\"",
-  "skip:https://www.playground.ru/misc/news/kosmicheskaya_saga_podozhdyot_film_tajki_vajtiti_zamorozhen_na_neopredelyonnyj_srok-1882899#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "https://www.playground.ru/metro_4/news/pokupateli_fizicheskih_izdanij_metro_2039_budut_vynuzhdeny_zagruzhat_chast_kontenta_iz_seti-1882912#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Покупатели физических изданий Metro 2039 будут вынуждены загружать часть контента из сети",
   "skip:https://variety.com/2026/film/news/yeon-sang-ho-paradise-lost-sold-118-countries-hawaii-1236916204/",
   "skip:https://www.kinonews.ru/news_143728/",
@@ -998,5 +994,9 @@
   "skip:https://deadline.com/2026/10/demon-slayer-anime-annual-report-japan-tiffcom-1237209296/",
   "skip:https://variety.com/2026/film/markets-festivals/japan-anime-market-record-28-billion-local-sales-surge-1236934838/",
   "https://www.film.ru/news/novyy-triller-s-dzheymsom-makevoem",
-  "title:Новый триллер с Джеймсом МакЭвоем"
+  "title:Новый триллер с Джеймсом МакЭвоем",
+  "skip:https://www.kinonews.ru/news_143893/",
+  "skip:https://www.film.ru/news/umer-zvezda-lyudey-iks-patrik-styuart",
+  "https://kg-portal.ru/comments/135581-postery-filma-mstiteli-doktor-dum/",
+  "title:Персонаж Роберта Дауни-младшего в самых разных злодейских позах на постерах \"Мстителей: Доктор Дум\""
 ]

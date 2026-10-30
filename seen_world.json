@@ -1,15 +1,4 @@
 [
-  "skip:https://tass.ru/ekonomika/28259541",
-  "skip:https://ria.ru/20261027/rossiya-2127379957.html",
-  "skip:https://ria.ru/20261027/dmitriev-2127379576.html",
-  "https://www.kommersant.ru/doc/9062280",
-  "skip:https://tass.ru/ekonomika/28259663",
-  "https://www.rbc.ru/politics/27/10/2026/6ae0eb04a9dcc68172d099e5",
-  "title:США рассматривают возможность отмены санкций против РФПИ",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28259455",
-  "https://www.kommersant.ru/doc/9062294",
-  "title:Проигравший выборы экс-кандидат в президенты Бразилии Флавиу Болсонару сбежал из страны",
-  "skip:https://www.rbc.ru/quote/27/10/2026/6ae0d85f9a79473c97620ba4",
   "skip:https://www.aljazeera.com/news/2026/10/27/protesters-storm-serbian-pro-vucic-tv-station-after-his-loss-at-polls?traffic_source=rss",
   "https://www.france24.com/en/europe/20261027-how-student-assemblies-brought-down-the-serbian-government",
   "title:Партия президента Сербии Александра Вучича проиграла на выборах под давлением протестов",
@@ -998,5 +987,16 @@
   "skip:https://ria.ru/20261030/lnr-2128048125.html",
   "skip:https://tass.ru/proisshestviya/28270673",
   "https://tass.ru/proisshestviya/28270683",
-  "title:В ЛНР 14 муниципалитетов остались без света после атаки ВСУ на энергокомплекс"
+  "title:В ЛНР 14 муниципалитетов остались без света после атаки ВСУ на энергокомплекс",
+  "skip:https://www.rbc.ru/sport/30/10/2026/6ae45ff65171f3bd6bffcd4b",
+  "skip:https://ria.ru/20261030/khokkey-2128058161.html",
+  "skip:https://www.kommersant.ru/doc/9069296",
+  "skip:https://tass.ru/sport/28270871",
+  "https://www.sport-interfax.ru/1126071",
+  "title:Спортивный арбитражный суд обязал Международную федерацию хоккея допустить сборные России до турниров",
+  "skip:https://ria.ru/20261030/binance--2128062261.html",
+  "skip:https://www.interfax.ru/business/1126067",
+  "skip:https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+  "https://tass.ru/ekonomika/28270879",
+  "title:Криптовалютная биржа Binance столкнулась с рекордным хакерским взломом и кражей миллиардов долларов"
 ]

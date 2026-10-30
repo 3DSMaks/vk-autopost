@@ -1,15 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28259755",
-  "skip:https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbDV3WWJ5Ulh3Q05tT203WGNGVE1UNmFvZ2ZoclFXemtrWXFhNlRhUmtabmlPZXRaYU1sQ251VWhSSWJMODNJQkRrMk9MNFdfb1RVT2VJQTR4akpfM0JQNk9wMkpMV2tFY2tHc2ZpTGMwcHlLNFU3UDBrZk5MbGFrb2ZqX25XRVZCQmI5Z29LbDI5cjF2S0JodjVNcVVmV3RyUFR1SW5RZUwwY2JlSWJrRUMyNEgta3dl?oc=5",
-  "https://ria.ru/20261027/haker-2127401657.html",
-  "title:Хакер попытался взломать системы Федеральной избирательной комиссии США",
-  "skip:https://tass.ru/ekonomika/28259783",
-  "skip:https://ria.ru/20261027/putin-2127401017.html",
-  "skip:https://ria.ru/20261027/putin-2127400005.html",
-  "skip:https://tass.ru/politika/28259765",
-  "skip:https://ria.ru/20261027/prezident-2127397912.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28259751",
-  "skip:https://ria.ru/20261027/mozambik-2127395838.html",
   "skip:https://tass.ru/politika/28259711",
   "skip:https://ria.ru/20261027/rossija-2127393939.html",
   "skip:https://ria.ru/20261027/tovarooborot-2127393541.html",
@@ -998,5 +987,16 @@
   "skip:https://www.sport-interfax.ru/1126078",
   "skip:https://ria.ru/20261030/khokkey-2128060017.html",
   "https://ria.ru/20261030/cas-2128072984.html",
-  "title:Международная федерация хоккея исполнит решение CAS о допуске российских сборных"
+  "title:Международная федерация хоккея исполнит решение CAS о допуске российских сборных",
+  "skip:https://ria.ru/20261030/khokkey-2128081866.html",
+  "skip:https://tass.ru/sport/28271131",
+  "skip:https://tass.ru/sport/28271123",
+  "skip:https://tass.ru/sport/28271101",
+  "https://tass.ru/sport/28271209",
+  "title:Спортивный арбитражный суд обязал IIHF допустить российские сборные до международных турниров",
+  "skip:https://www.rbc.ru/quote/30/10/2026/6ad5a5379a79475477412c75",
+  "skip:https://tass.ru/ekonomika/28271093",
+  "skip:https://tass.ru/ekonomika/28271111",
+  "https://www.rbc.ru/rbcfreenews/6ae46fcacfb16244b1bbcd61",
+  "title:Криптобиржа Binance столкнулась с масштабной кибератакой и приостановила вывод средств"
 ]

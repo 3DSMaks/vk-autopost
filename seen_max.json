@@ -1,7 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73220/lucasfilm_stala_bolee_gibkoy_s_franshizoy_zvezdnye_voyny_i_prodolzhit_udivlyat_publiku",
-  "skip:https://stopgame.ru/newsdata/73215/pohozhe_sozdavshaya_samson_studiya_liquid_swords_obankrotilas",
-  "https://www.playground.ru/tomb_raider/news/v_novoj_tomb_raider_pohozhe_budet_bolee_20_pobochnyh_grobnits_poyavilis_detali_iz_otkrytogo_rezyume_razrabotchika-1883032#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:В новой Tomb Raider, похоже, будет более 20 побочных гробниц: появились детали из открытого резюме разработчика",
   "https://www.film.ru/news/hanter-shafer-v-vampirskom-horrore",
   "title:Хантер Шафер в вампирском хорроре",
@@ -998,5 +995,8 @@
   "skip:https://www.ign.com/articles/john-romeros-next-shooter-survived-the-microsoft-purge-now-hes-taking-inspiration-from-the-legend-of-zelda-breath-of-the-wild",
   "skip:https://www.ign.com/articles/capcom-isnt-scrapping-resident-evil-but-mainline-story-could-wrap-up-in-next-10-years-according-to-producer",
   "https://www.igromania.ru/news/169627/the-outer-worlds-2-poluchila-tizer-pervogo-syuzhetnogo-dopolneniya-side-effects-guaranteed/",
-  "title:The Outer Worlds 2 получила тизер первого сюжетного дополнения Side Effects Guaranteed"
+  "title:The Outer Worlds 2 получила тизер первого сюжетного дополнения Side Effects Guaranteed",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/you-can-relationship-max-in-gta-6-as-walking-along-the-beach-or-working-out-at-the-gym-together-increases-your-couple-rating-on-a-four-point-scale/",
+  "https://www.playground.ru/dark_souls_3/news/servery_dark_souls_2_i_dark_souls_3_vnezapno_otklyuchili_na_vseh_platformah-1886236#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Серверы Dark Souls 2 и Dark Souls 3 внезапно отключили на всех платформах"
 ]

@@ -1,10 +1,4 @@
 [
-  "skip:https://www.rbc.ru/politics/27/10/2026/6ae0e3b17420a1da511b2982",
-  "skip:https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28259581",
-  "skip:https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
-  "skip:https://www.rbc.ru/politics/27/10/2026/6ae0d75cea650179d94f7ec5",
-  "skip:https://www.france24.com/en/americas/20261027-defeated-brazilian-candidate-flavio-bolsonaro-passports-cancelled-whereabouts-unknown",
   "https://www.interfax.ru/world/1125330",
   "title:СМИ сообщили о бегстве экс-кандидата в президенты Бразилии Флавиу Болсонару из страны",
   "skip:https://www.interfax.ru/russia/1125326",
@@ -998,5 +992,11 @@
   "skip:https://www.kommersant.ru/doc/9064366",
   "skip:https://www.interfax.ru/russia/1125999",
   "https://tass.ru/politika/28270139",
-  "title:Гуманитарная миссия направилась в Алешки, при разминировании дороги погибли люди"
+  "title:Гуманитарная миссия направилась в Алешки, при разминировании дороги погибли люди",
+  "skip:https://www.interfax.ru/russia/1126036",
+  "https://ria.ru/20261030/sud-2128026476.html",
+  "title:Суд в Москве заочно приговорил гендиректора телеканала «Дождь» Марка Тена к пяти годам колонии",
+  "skip:https://www.interfax.ru/world/1126035",
+  "https://www.kommersant.ru/doc/9064446",
+  "title:Коалиция арабских государств сообщила об уничтожении беспилотника близ Мекки"
 ]

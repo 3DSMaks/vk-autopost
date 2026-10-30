@@ -1,11 +1,4 @@
 [
-  "skip:https://www.interfax.ru/world/1125356",
-  "skip:https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28259975",
-  "https://www.rbc.ru/politics/28/10/2026/6ae124206fa80a586f39aabb",
-  "title:Экс-кандидат в президенты Бразилии Флавиу Болсонару прибыл в США, Вашингтон одобрил ему визу",
-  "skip:https://www.aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election?traffic_source=rss",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28260009",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28259957",
   "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
   "title:Арабские партии получили рекордное число мест на парламентских выборах в Израиле",
@@ -998,5 +991,12 @@
   "skip:https://www.rbc.ru/politics/30/10/2026/6ae496be309c9b59359b6ccc",
   "skip:https://ria.ru/20261030/peskov-2128148618.html",
   "https://www.kommersant.ru/doc/9077655",
-  "title:Песков заявил, что удары ВСУ по НПЗ не повлияют на подготовку предстоящих трехсторонних переговоров"
+  "title:Песков заявил, что удары ВСУ по НПЗ не повлияют на подготовку предстоящих трехсторонних переговоров",
+  "skip:https://ria.ru/20261030/g20-2128159657.html",
+  "skip:https://news.google.com/rss/articles/CBMimAFBVV95cUxPa05KUnNfZG1OODZTY3RxWXpQTFozVkVHUkp1Sk9NVTVjWG1NVjlCM1hwY2VjSEZaSzJmaWZXNllQZVJUZWdCbkJlc2lBZFZMem5COUNVT2RidUdBTV9RUXZOVC15OFVmUWVnOVotRW5xVzZ3S1VCeWZPTUZoN2tLaVMweVl2NVRaV3l0RHg5ZFA0TXUxOVVTcw?oc=5",
+  "https://ria.ru/20261030/vstrecha-2128173558.html",
+  "title:В США началась встреча глав МИД стран G20",
+  "skip:https://www.kommersant.ru/doc/9077641",
+  "https://www.rbc.ru/rbcfreenews/6ae49ebcacf5a5b4b205c258",
+  "title:Генеральный директор Донецкой железной дороги погиб при атаке беспилотника"
 ]

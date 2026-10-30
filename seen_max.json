@@ -1,9 +1,4 @@
 [
-  "skip:https://www.film.ru/news/uvolnenie-dena-lima-iz-netflix",
-  "skip:https://www.kinonews.ru/news_143741/",
-  "https://deadline.com/2026/10/michael-douglas-killed-off-marvel-ant-man-1237168330/",
-  "title:Michael Douglas Asked To Be Killed Off Marvel’s ‘Ant-Man’: “They Wouldn’t Let Me”",
-  "https://www.playground.ru/call_of_duty_modern_warfare_4/news/kampaniya_modern_warfare_4_pokazala_luchshij_start_v_serii_so_vremen_black_ops_nabrav_92_polozhitelnyh_otzyvov_v_steam-1883221#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Кампания Modern Warfare 4 показала лучший старт в серии со времен Black Ops, набрав 92% положительных отзывов в Steam",
   "https://deadline.com/2026/10/star-wars-super-bowl-2027-altcast-disney-nfl-1237168321/",
   "title:‘Star Wars’ Headed To Super Bowl LXI For Animated Altcast On Disney+, Disney Channel and Disney XD",
@@ -998,5 +993,10 @@
   "skip:https://www.ign.com/articles/star-trek-online-players-form-galaxy-class-honor-guard-to-pay-tribute-to-captain-picard-actor-sir-patrick-stewart",
   "skip:https://www.playground.ru/petit_planet/news/petit_planet_ot_hoyoverse_vyjdet_4_dekabrya_avtory_genshin_impact_gotovyat_uyutnuyu_alternativu_animal_crossing-1886226#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.igromania.ru/news/169637/sluh-o-zaschite-revyu-kopij-gta-6-votermarkoj-nazvali-lozhnyim-a-meryi-bezopasnosti-rockstar-bezumnyimi/",
-  "title:Слух о защите ревью-копий GTA 6 вотермаркой назвали ложным, а меры безопасности Rockstar — безумными"
+  "title:Слух о защите ревью-копий GTA 6 вотермаркой назвали ложным, а меры безопасности Rockstar — безумными",
+  "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/call_of_duty_modern_warfare_4_udalit_realnye_kadry_tragedii_v_seule_posle_kritiki-1886271#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/misc/news/konami_na_podyome_rost_pribyli_na_75_blagodarya_silent_hill_i_metal_gear_solid-1886270#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/families-who-lost-loved-ones-in-seoul-halloween-crowd-crush-call-on-activision-to-pull-real-footage-from-call-of-duty-modern-warfare-4",
+  "https://www.ign.com/articles/call-of-duty-modern-warfare-4-adds-non-milsim-content-disclaimer-to-halloween-themed-content",
+  "title:Call of Duty: Modern Warfare 4 Adds 'Non MilSim Content' Disclaimer to Halloween Themed Content"
 ]

@@ -1,9 +1,4 @@
 [
-  "https://kg-portal.ru/comments/135442-piter-dzhekson-nakonec-opredelilsja-kakoj-film-snimet-sledujuschim/",
-  "title:Питер Джексон наконец определился, какой фильм снимет следующим",
-  "skip:https://www.igromania.ru/news/169340/studiya-razrabotchik-samson-a-tyndalston-story-zakryivaetsya/",
-  "skip:https://www.playground.ru/samson/news/studiya_liquid_swords_zakryvaetsya_uspeh_samson_na_konsolyah_ne_spas_kompaniyu-1883040#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.ign.com/articles/is-call-of-duty-modern-warfare-4-really-the-end-of-the-rebooted-modern-warfare-story-infinity-ward-responds",
   "skip:https://stopgame.ru/newsdata/73220/lucasfilm_stala_bolee_gibkoy_s_franshizoy_zvezdnye_voyny_i_prodolzhit_udivlyat_publiku",
   "skip:https://stopgame.ru/newsdata/73215/pohozhe_sozdavshaya_samson_studiya_liquid_swords_obankrotilas",
   "https://www.playground.ru/tomb_raider/news/v_novoj_tomb_raider_pohozhe_budet_bolee_20_pobochnyh_grobnits_poyavilis_detali_iz_otkrytogo_rezyume_razrabotchika-1883032#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +993,10 @@
   "skip:https://stopgame.ru/newsdata/73337/ubisoft_ne_rabotaet_nad_remeykami_assassin_s_creed_valhalla_poluchit_novuyu_igru",
   "skip:https://www.ign.com/articles/ubisoft-shares-cryptic-assassins-creed-codename-hexe-update",
   "https://www.playground.ru/misc/news/prodazhi_serii_metal_gear_prevysili_67_7_mln_kopij_tirazh_vyros_na_1_3_mln_s_nachala_leta-1886227#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Продажи серии Metal Gear превысили 67,7 млн копий - тираж вырос на 1,3 млн с начала лета"
+  "title:Продажи серии Metal Gear превысили 67,7 млн копий - тираж вырос на 1,3 млн с начала лета",
+  "skip:https://www.playground.ru/misc/news/novyj_shuter_sozdatelya_doom_sdelaet_stavku_na_svobodu_issledovaniya_kak_v_zelda_breath_of_the_wild-1886240#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/john-romeros-next-shooter-survived-the-microsoft-purge-now-hes-taking-inspiration-from-the-legend-of-zelda-breath-of-the-wild",
+  "skip:https://www.ign.com/articles/capcom-isnt-scrapping-resident-evil-but-mainline-story-could-wrap-up-in-next-10-years-according-to-producer",
+  "https://www.igromania.ru/news/169627/the-outer-worlds-2-poluchila-tizer-pervogo-syuzhetnogo-dopolneniya-side-effects-guaranteed/",
+  "title:The Outer Worlds 2 получила тизер первого сюжетного дополнения Side Effects Guaranteed"
 ]

@@ -1,10 +1,4 @@
 [
-  "https://stopgame.ru/newsdata/73229/v_noyabre_biblioteku_ps_plus_pokinut_7_igr_vklyuchaya_rdr_ii_i_gta_v",
-  "title:В ноябре библиотеку PS Plus покинут 7 игр, включая RDR II и GTA V",
-  "skip:https://www.kinonews.ru/news_143744/",
-  "skip:https://www.film.ru/news/gvinet-peltrou-v-trillere-netflix",
-  "https://variety.com/2026/film/global/percy-jackson-lucca-comics-1236914648/",
-  "title:‘Percy Jackson’ Stars Will Attend Lucca Comics, Seeking to ‘Get Up Close and Personal With Their Fans,’ Geek Meet’s Film and TV Chief Says",
   "skip:https://www.playground.ru/cyberpunk_2077/news/vozvraschenie_v_najt_siti_vtoroj_sezon_kiberpank_beguschie_po_krayu_vyshel_na_netflix-1883250#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://gamemag.ru/news/201752/microsoft-reportedly-sending-e-mails-to-lapsed-xbox-console-users-to-sell-their-consoles-to-best-buy",
   "skip:https://www.igromania.ru/news/169358/vozvraschajtes-v-najt-siti-anime-cyberpunk-edgerunners-2-vyishlo-na-netflix-s-10-novyimi-epizodami/",
@@ -998,5 +992,11 @@
   "https://www.film.ru/news/serial-po-motivam-igry-pubg",
   "title:Сериал по мотивам игры PUBG",
   "https://deadline.com/2026/10/harry-potter-ghosts-sorting-hat-fat-lady-david-threlfall-1237209330/",
-  "title:HBO’s Harry Potter Casts Its Ghosts, Sorting Hat & Fat Lady On Halloween Eve"
+  "title:HBO’s Harry Potter Casts Its Ghosts, Sorting Hat & Fat Lady On Halloween Eve",
+  "skip:https://www.playground.ru/mass_effect_5/news/po_dannym_dzhejsona_shrajera_ea_zakryla_bioware_i_otmenila_mass_effect_5_radi_star_wars_battlefront_3-1886299#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169640/ea-zakryila-bioware-i-otmenila-mass-effect-universe-iz-za-stavki-na-star-wars-battlefront-3-smi/",
+  "skip:https://stopgame.ru/newsdata/73342/pervoe_dlc_dlya_the_outer_worlds_2_poluchilo_korotkiy_tizer",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/gta-6s-souped-up-red-dead-redemption-2-style-morality-system-will-scale-from-professional-to-irredeemable-so-players-can-decide-what-kind-of-criminal-they-want-to-be/",
+  "https://www.ign.com/articles/zelda-chief-eiji-aonuma-says-some-of-the-younger-members-of-the-ocarina-of-time-remake-team-had-never-played-the-original-game-and-thats-a-good-thing",
+  "title:Zelda Chief Eiji Aonuma Says Some of the Younger Members of the Ocarina of Time Remake Team Had Never Played the Original Game — and That's a Good Thi"
 ]

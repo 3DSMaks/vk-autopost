@@ -1,9 +1,4 @@
 [
-  "skip:https://ria.ru/20261027/putin-2127368685.html",
-  "skip:https://tass.ru/ekonomika/28259419",
-  "skip:https://www.interfax.ru/russia/1125320",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28259429",
-  "skip:https://www.rbc.ru/rbcfreenews/6ae0d17e6a5f8b6dba29175a",
   "https://www.kommersant.ru/doc/9062252",
   "title:Владимир Путин провел переговоры с президентом Ирана Масудом Пезешкианом в Кремле",
   "skip:https://www.kommersant.ru/doc/9062098",
@@ -998,5 +993,10 @@
   "skip:https://ria.ru/20261030/bpla-2127972600.html",
   "skip:https://www.kommersant.ru/doc/9064275",
   "https://www.kommersant.ru/doc/9064279",
-  "title:Силы ПВО отразили массированную атаку беспилотников на Москву, в аэропортах введены ограничения"
+  "title:Силы ПВО отразили массированную атаку беспилотников на Москву, в аэропортах введены ограничения",
+  "skip:https://ria.ru/20261030/aktivy-2127976363.html",
+  "skip:https://news.google.com/rss/articles/CBMiugFBVV95cUxQbl9LV3Z6eEFpLVBKcmR2ZG9YM1lNRmZBTGRQUF9qeVRLVmlaYnc2ZDdkNERRd3VPTTNtQ0dkRGluRG56czhmbUJKaFNYU1NSX1k0VllaY2l3bGxpNTBOOG1acWdmcW90ZW5UMVF1OU11OG1HOXhZaEF3b0lucWZpLUpQaldUMEV0V1BXU3lKUXBndXBBMGtyMzJDLVFzSzZ0MGViYlNhMGJETXFUd1l0Q0s2TmNGeDFHS2c?oc=5",
+  "skip:https://news.google.com/rss/articles/CBMilgFBVV95cUxQWmNFOVU3dkJheHFpZnlQZ0d2RVd2dDZFdjBlVldUczQteU5yUUlIeldzeVR6d2lJem9aWkh6RV94Uko1cXpZS2RhV2FGR2E2djNHZGJaNG5BOTFvSnZkLWp5c2tSanlNalhnaTJ6RFlxVWNNMHo1NnpzNGVQWHdJZkw0ZkxkWUNQdnRnZGU1Y1JCQ3NuRGc?oc=5",
+  "https://www.rbc.ru/finances/30/10/2026/6ae3ecf9a9dfd110d5fc9bd6",
+  "title:Криптобиржа Binance столкнулась с кибератакой и приостановила операции"
 ]

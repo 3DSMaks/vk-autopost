@@ -1,7 +1,4 @@
 [
-  "skip:https://variety.com/2026/film/news/lionsgate-stock-legendary-entertainment-acquisition-offer-1236917824/",
-  "https://variety.com/2026/film/news/keanu-reeves-james-wan-gangster-cop-devil-paramount-1236917945/",
-  "title:Keanu Reeves in Talks to Star in James Wan’s ‘The Gangster, The Cop, The Devil’ at Paramount",
   "skip:https://kg-portal.ru/comments/135466-gangster-kop-djavol-i-kianu-rivz-akter-sygraet-v-remejke-korejskogo-trillera/",
   "https://deadline.com/2026/10/american-horror-story-renewed-season-14-fx-1237168879/",
   "title:‘American Horror Story’ Renewed For Season 14 At FX",
@@ -998,5 +995,8 @@
   "title:Бывшая глава Lucasfilm Кэтлин Кеннеди возглавит подготовку церемоний Олимпиады",
   "skip:https://kg-portal.ru/comments/135596-dzhejms-gann-gotov-kak-ugodno-nagibat-kanon-esli-margo-robbi-vernetsja-k-roli-harli-kvinn/",
   "https://deadline.com/2026/10/sag-aftra-members-ratify-tv-animation-contracts-2-1237209273/",
-  "title:SAG-AFTRA Members Ratify TV Animation Contracts, Securing 12.6% Wage Increase For Voice Actors"
+  "title:SAG-AFTRA Members Ratify TV Animation Contracts, Securing 12.6% Wage Increase For Voice Actors",
+  "skip:https://www.kinonews.ru/news_143896/",
+  "https://www.film.ru/news/korotkometrazhnyy-horror-karri-barkera",
+  "title:Короткометражный хоррор Карри Баркера"
 ]

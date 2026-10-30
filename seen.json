@@ -1,8 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143765/",
-  "skip:https://www.kinonews.ru/news_143767/",
-  "https://www.kinonews.ru/news_143747/",
-  "title:Сарик Андреасян приступил к съемкам \"Сказки о спящей царевне и семи богатырях\"",
   "skip:https://deadline.com/2026/10/netflix-greg-peters-layoffs-growth-1237169073/",
   "https://www.kinonews.ru/news_143768/",
   "title:Небинарная звезда \"Миллиардов\" готова мыть посуду из-за отсутствия работы",
@@ -998,5 +994,9 @@
   "https://variety.com/2026/film/awards/behemoth-tony-gilroy-pedro-pascal-loneliness-oscars-1236935214/",
   "title:Tony Gilroy on the Lunch With Pedro Pascal That Saved ‘Behemoth!’ and How the Film Explores ‘New Varieties of Loneliness’",
   "https://deadline.com/feature/hunger-games-sunrise-on-the-reaping-songs-soundtrack-album-1237165820/",
-  "title:The Smashing Pumpkins Release Latest ‘The Hunger Games: Sunrise On The Reaping’ Album Track, ‘Black Stars’"
+  "title:The Smashing Pumpkins Release Latest ‘The Hunger Games: Sunrise On The Reaping’ Album Track, ‘Black Stars’",
+  "skip:https://variety.com/2026/film/news/skydance-communications-pr-publicity-leadership-exec-departures-1236935492/",
+  "skip:https://deadline.com/2026/10/melissa-zukerman-skydance-communications-leadership-exits-1237209690/",
+  "https://variety.com/2026/film/awards/the-odyssey-oscars-campaign-downey-del-toro-spielberg-1236935212/",
+  "title:‘The Odyssey’ Oscar Blitz to Begin With Robert Downey Jr., Guillermo del Toro and Steven Spielberg as Moderators"
 ]

@@ -1,10 +1,4 @@
 [
-  "https://www.interfax.ru/world/1125330",
-  "title:СМИ сообщили о бегстве экс-кандидата в президенты Бразилии Флавиу Болсонару из страны",
-  "skip:https://www.interfax.ru/russia/1125326",
-  "skip:https://ria.ru/20261027/rossiya-2127383889.html",
-  "skip:https://ria.ru/20261027/emir-2127382752.html",
-  "skip:https://ria.ru/20261027/politika-2127382056.html",
   "skip:https://tass.ru/ekonomika/28259567",
   "skip:https://tass.ru/politika/28259555",
   "skip:https://ria.ru/20261027/putin-2127380933.html",
@@ -998,5 +992,11 @@
   "title:Суд в Москве заочно приговорил гендиректора телеканала «Дождь» Марка Тена к пяти годам колонии",
   "skip:https://www.interfax.ru/world/1126035",
   "https://www.kommersant.ru/doc/9064446",
-  "title:Коалиция арабских государств сообщила об уничтожении беспилотника близ Мекки"
+  "title:Коалиция арабских государств сообщила об уничтожении беспилотника близ Мекки",
+  "skip:https://ria.ru/20261030/rpts-2128030766.html",
+  "https://www.kommersant.ru/doc/9064489",
+  "title:При гибели людей во время разминирования дороги для гуманитарной миссии в Алешках участвовали представители РПЦ",
+  "skip:https://www.interfax.ru/world/1126038",
+  "https://www.rbc.ru/politics/30/10/2026/6ae43a3899cf668dcbaef38d",
+  "title:WSJ сообщила об успешном давлении США на Киев с целью приостановить удары по российским НПЗ"
 ]

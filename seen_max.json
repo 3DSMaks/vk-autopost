@@ -1,8 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169350/payday-poprobuet-dobitsya-uspeha-v-virtualnoj-realnosti-s-aces-high-uzhe-5-noyabrya/",
-  "skip:https://www.igromania.ru/news/169347/star-wars-battlefront-3-mozhet-stat-realnostyu-a-eyo-razrabotku-mogut-doverit-dice-ili-bungie/",
-  "skip:https://stopgame.ru/newsdata/73228/kooperativnyy_vr_boevik_payday_aces_high_vyydet_uzhe_5_noyabrya",
-  "skip:https://www.pcgamer.com/gaming-industry/lucasfilm-wants-to-do-more-star-wars-games-like-zero-company-and-galactic-racer-weve-tried-to-be-more-flexible-about-who-were-willing-to-take-pitches-from/",
   "skip:https://www.ign.com/articles/love-and-deepspace-launches-blade-runner-crossover-as-fans-draw-parallels-to-canceled-character-valko",
   "skip:https://www.ign.com/articles/theres-no-one-person-that-has-this-whole-thing-in-their-head-gta-6-devs-had-freedom-to-add-cool-features-just-like-rdr2s-horse-balls",
   "skip:https://gamemag.ru/news/201744/bf3starwars-bungie",
@@ -998,5 +994,9 @@
   "skip:https://stopgame.ru/newsdata/73339/grinding_gear_games_opublikovala_tizer_reliznoy_versii_path_of_exile_2",
   "skip:https://www.igromania.ru/news/169636/path-of-exile-2-poluchila-svezhij-tizer-k-polnotsennomu-relizu-novyij-kontent-predstavyat-6-noyabrya/",
   "https://www.igromania.ru/news/169638/nekstgen-obnovlenie-dlya-metro-2033-redux-i-metro-last-light-redux-dobralos-do-konsolej/",
-  "title:Некстген-обновление для​ Metro 2033 Redux и Metro: Last Light Redux добралось до консолей"
+  "title:Некстген-обновление для​ Metro 2033 Redux и Metro: Last Light Redux добралось до консолей",
+  "skip:https://gamemag.ru/news/201901/-the-wolf-among-us-remastered-reliznyj-trejler-uzhe-v-prodazhe",
+  "skip:https://www.igromania.ru/news/169622/fanatyi-pohvalili-remaster-the-wolf-among-us-za-sohranenie-stilya-originala-v-pervyih-otzyivah/",
+  "https://www.ign.com/articles/bethesda-pays-tribute-to-patrick-stewart-for-his-role-in-oblivion-fans-remember-his-role-in-games-like-castlevania",
+  "title:Bethesda Pays Tribute to Patrick Stewart for His Role in Oblivion, Fans Remember His Role in Games Like Castlevania"
 ]

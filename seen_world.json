@@ -1,14 +1,4 @@
 [
-  "skip:https://ria.ru/20261028/ispanija-2127492037.html",
-  "skip:https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo",
-  "skip:https://www.aljazeera.com/news/2026/10/28/injuries-reported-after-two-trains-collide-in-spain?traffic_source=rss",
-  "https://tass.ru/proisshestviya/28261573",
-  "title:В центральной Испании столкнулись два поезда, погибли не менее 46 человек",
-  "skip:https://www.interfax.ru/russia/1125441",
-  "https://tass.ru/obschestvo/28261735",
-  "title:Роскомнадзор внес Apple и Microsoft в реестр организаторов распространения информации",
-  "skip:https://ria.ru/20261028/ispaniya-2127503164.html",
-  "skip:https://ria.ru/20261028/ispanija-2127502830.html",
   "skip:https://www.france24.com/en/spain-local-authorities-confirm-at-least-10-dead-in-train-accident",
   "skip:https://tass.ru/proisshestviya/28261677",
   "skip:https://www.france24.com/en/video/20261028-spain-at-least-10-dead-in-crash-between-2-high-speed-trains",
@@ -998,5 +988,15 @@
   "skip:https://www.kommersant.ru/doc/9077819",
   "skip:https://news.google.com/rss/articles/CBMivwFBVV95cUxORW01d2dWQjEzQi1rNHpxb1hPYlE4b1dBMFgtUkxRQTZDY2RrNGlkeXpXNHNhUVU1MVRjVW9xY1lvbnpuSEFzNnZBaDM4ZkdGbEQwSUJ2Z0d0cms5bHVYcGhwYm5mZ3dIcU8zOXRlWFhFajVoMmtGRnA2cHQxdG1xQjdHMHJheWxyZ3dIMC12c0JyYzhScUZOOUdEd25UV3JEZ2ZNMl90ODJ4cnF2c09XUVFISEN5X2x1X0twYklBZw?oc=5",
   "https://tass.ru/mezhdunarodnaya-panorama/28273225",
-  "title:США призвали дипломатов и госслужащих покинуть Саудовскую Аравию из-за угроз безопасности"
+  "title:США призвали дипломатов и госслужащих покинуть Саудовскую Аравию из-за угроз безопасности",
+  "skip:https://tass.ru/politika/28273283",
+  "skip:https://www.interfax.ru/world/1126216",
+  "skip:https://www.rbc.ru/rbcfreenews/6ae4e91f2455cc4b83c18bbd",
+  "skip:https://www.interfax.ru/russia/1126210",
+  "https://www.kommersant.ru/doc/9077826",
+  "title:Сергей Лавров провел переговоры с главой МИД Японии Тосимицу Мотэги на полях саммита G20",
+  "skip:https://news.google.com/rss/articles/CBMiigFBVV95cUxOcXYwSnRTOGhSNzN0ekpKMjZreU8tS3RqZ1h1UXhiRjR6d0ttbFljQV9LQ1dlbHhNM3o5bzhwejFXMXV3akVmT19rYU1xYURiUGYtTXFHSmoyalJsV1F4TUNYcXJyN0FkcUdlVGFaVXJ5ZXJDSGRpWFYxUllCR3lVNEs4VlZacFJ2c2c?oc=5",
+  "skip:https://www.interfax.ru/world/1126215",
+  "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
+  "title:Канада и Европейский союз договорились о создании нового стратегического альянса"
 ]

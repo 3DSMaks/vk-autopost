@@ -1,7 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169304/stsenarist-call-of-duty-modern-warfare-4-vdohnovlyalsya-ubijtsej-dzhonom-uikom-i-padeniem-chyornogo-yastreba/",
-  "https://www.playground.ru/cyberpunk_2077/news/studiya_trigger_ispolzovala_virtualnuyu_kameru_v_cyberpunk_2077_dlya_poiska_lokatsij_vtorogo_sezona_edgerunners-1882648#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Студия Trigger использовала виртуальную камеру в Cyberpunk 2077 для поиска локаций второго сезона Edgerunners",
   "skip:https://www.kinonews.ru/news_143708/",
   "skip:https://variety.com/2026/film/news/paul-bettany-johnny-depp-hadnt-spoken-in-years-libel-trial-1236915108/",
   "https://www.film.ru/news/syuzhet-2-go-sezona-ono-dobro-pozhalovat-v-derri",
@@ -998,5 +995,8 @@
   "title:Тизер мультсериала Death Stranding Isolations",
   "skip:https://stopgame.ru/newsdata/73332/smi_xbox_skoro_anonsiruet_the_elder_scrolls_vi_sentinel",
   "https://www.ign.com/articles/assassins-creed-valhalla-is-getting-new-game-six-years-after-release",
-  "title:Assassin's Creed Valhalla Is Getting New Game+ 6 Years After Release"
+  "title:Assassin's Creed Valhalla Is Getting New Game+ 6 Years After Release",
+  "https://gamemag.ru/news/201889/prodyuser-resident-evil-nazval-primernye-sroki-zaversheniya-franshizy",
+  "video:2026-10-30:https://gamemag.ru/news/201889/prodyuser-resident-evil-nazval-primernye-sroki-zaversheniya-franshizy",
+  "title:Продюсер Resident Evil допустил завершение общего сюжета серии в ближайшие 10 лет — впереди несколько новых игр"
 ]

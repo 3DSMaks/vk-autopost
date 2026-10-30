@@ -1,7 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135466-gangster-kop-djavol-i-kianu-rivz-akter-sygraet-v-remejke-korejskogo-trillera/",
-  "https://deadline.com/2026/10/american-horror-story-renewed-season-14-fx-1237168879/",
-  "title:‘American Horror Story’ Renewed For Season 14 At FX",
   "https://deadline.com/2026/10/emily-wickersham-cast-ncis-origins-season-3-1237168913/",
   "title:Emily Wickersham Joins ‘NCIS: Origins’ Season 3 In Return To Her Original Role",
   "https://variety.com/2026/film/awards/michael-golden-globes-comedy-musical-denied-1236917938/",
@@ -998,5 +995,8 @@
   "title:SAG-AFTRA Members Ratify TV Animation Contracts, Securing 12.6% Wage Increase For Voice Actors",
   "skip:https://www.kinonews.ru/news_143896/",
   "https://www.film.ru/news/korotkometrazhnyy-horror-karri-barkera",
-  "title:Короткометражный хоррор Карри Баркера"
+  "title:Короткометражный хоррор Карри Баркера",
+  "skip:https://www.kinonews.ru/news_143897/",
+  "https://variety.com/2026/film/news/ishab-shetty-shivaji-epic-pride-of-bharat-t-series-1236934634/",
+  "title:Rishab Shetty’s Chhatrapati Shivaji Maharaj Epic ‘The Pride of Bharat’ Lands T-Series, Set as Two-Part Saga (EXCLUSIVE)"
 ]

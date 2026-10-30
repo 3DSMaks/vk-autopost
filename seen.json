@@ -1,8 +1,4 @@
 [
-  "skip:https://variety.com/2026/tv/news/ted-sarandos-addresses-netflix-content-exec-purge-1236917998/",
-  "https://deadline.com/2026/10/the-cycle-of-love-returns-to-theaters-1237169088/",
-  "title:‘The Cycle Of Love’ To Return To Cinemas For One-Day Only Engagement: Extraordinary Romantic Tale From Director Orlando Von Einsiedel",
-  "skip:https://www.kinonews.ru/news_143758/",
   "https://www.kinonews.ru/news_143746/",
   "title:В третьем сезоне сериала \"Волшебный участок\" зрители увидят \"лихие 90-е\"",
   "skip:https://www.kinonews.ru/news_143765/",
@@ -998,5 +994,9 @@
   "https://variety.com/2026/film/news/dune-return-theaters-imax-dune-3-sneak-peek-1236935288/",
   "title:‘Dune’ Movies Returning to Imax Theaters With ‘Dune 3’ Sneak Peek",
   "https://deadline.com/2026/10/rules-of-prey-series-regular-cast-peter-outerbridge-1237209131/",
-  "title:‘Rules Of Prey’ Rounds Out Series Regular Cast With Peter Outerbridge, Cody Ray Thompson & David Klein"
+  "title:‘Rules Of Prey’ Rounds Out Series Regular Cast With Peter Outerbridge, Cody Ray Thompson & David Klein",
+  "skip:https://variety.com/2026/film/festivals/sbiff-virtuosos-honorees-1236934657/",
+  "skip:https://deadline.com/2026/10/raye-voice-role-lizard-music-benny-safdie-composing-1237209560/",
+  "https://variety.com/2026/film/awards/behemoth-tony-gilroy-pedro-pascal-loneliness-oscars-1236935214/",
+  "title:Tony Gilroy on the Lunch With Pedro Pascal That Saved ‘Behemoth!’ and How the Film Explores ‘New Varieties of Loneliness’"
 ]

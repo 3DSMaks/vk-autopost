@@ -1,8 +1,4 @@
 [
-  "title:Силы ПВО сбили 10 беспилотников, летевших на Москву",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28259407",
-  "skip:https://www.kommersant.ru/doc/9062113",
-  "skip:https://tass.ru/ekonomika/28259393",
   "skip:https://tass.ru/politika/28259391",
   "skip:https://tass.ru/politika/28259389",
   "skip:https://www.interfax.ru/russia/1125317",
@@ -998,5 +994,9 @@
   "skip:https://tass.ru/ekonomika/28269203",
   "skip:https://tass.ru/ekonomika/28269197",
   "https://www.rbc.ru/rbcfreenews/6ae3cb4add30b476720dac6e",
-  "title:В российских аэропортах введены временные ограничения на фоне атак беспилотников"
+  "title:В российских аэропортах введены временные ограничения на фоне атак беспилотников",
+  "skip:https://ria.ru/20261030/binance-2127970940.html",
+  "skip:https://www.kommersant.ru/doc/9064276",
+  "https://tass.ru/ekonomika/28269285",
+  "title:Криптобиржа Binance столкнулась с масштабной кибератакой и заморозкой активов на миллиарды долларов"
 ]

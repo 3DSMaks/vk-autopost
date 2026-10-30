@@ -1,7 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143708/",
-  "skip:https://variety.com/2026/film/news/paul-bettany-johnny-depp-hadnt-spoken-in-years-libel-trial-1236915108/",
-  "https://www.film.ru/news/syuzhet-2-go-sezona-ono-dobro-pozhalovat-v-derri",
   "title:Сюжет 2-го сезона «Оно: Добро пожаловать в Дерри»",
   "skip:https://www.playground.ru/clive_barkers_hellraiser_revival/news/posle_vyhoda_igry_hellraiser_revival_klajv_barker_zadumalsya_o_buduschem_franshizy-1882663#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.playground.ru/call_of_duty_2026/news/na_urovne_shedevra_2009_goda_fanaty_nazyvayut_syuzhetnuyu_kampaniyu_modern_warfare_4_odnoj_iz_luchshih_v_istorii_serii-1882654#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +995,8 @@
   "title:Assassin's Creed Valhalla Is Getting New Game+ 6 Years After Release",
   "https://gamemag.ru/news/201889/prodyuser-resident-evil-nazval-primernye-sroki-zaversheniya-franshizy",
   "video:2026-10-30:https://gamemag.ru/news/201889/prodyuser-resident-evil-nazval-primernye-sroki-zaversheniya-franshizy",
-  "title:Продюсер Resident Evil допустил завершение общего сюжета серии в ближайшие 10 лет — впереди несколько новых игр"
+  "title:Продюсер Resident Evil допустил завершение общего сюжета серии в ближайшие 10 лет — впереди несколько новых игр",
+  "https://gamemag.ru/news/201903/ubisoft-assassins-creed-no-more-remakes-active-development-hexe-2027-valhalla-new",
+  "video:2026-10-30:https://gamemag.ru/news/201903/ubisoft-assassins-creed-no-more-remakes-active-development-hexe-2027-valhalla-new",
+  "title:Официально: Assassin's Creed Hexe покажут в 2027 году, мультиплеерную Assassin’s Creed Invictus не отменили"
 ]

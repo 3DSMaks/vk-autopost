@@ -1,10 +1,4 @@
 [
-  "skip:https://ria.ru/20261027/vybory-2127404045.html",
-  "skip:https://www.interfax.ru/world/1125345",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28259789",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28259795",
-  "skip:https://ria.ru/20261027/izrail-2127403545.html",
-  "skip:https://www.theguardian.com/world/2026/oct/27/legacy-of-7-october-looms-large-as-a-divided-israel-goes-to-the-polls-in-record-numbers",
   "skip:https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss",
   "skip:https://www.france24.com/en/video/20261027-ibrahim-abu-ahmad-on-israeli-election-crucial-for-arab-citizens-to-have-ally-in-jewish-community",
   "https://www.interfax.ru/world/1125346",
@@ -998,5 +992,11 @@
   "title:Премьер-министр Испании заявил о гражданах 27 стран среди жертв железнодорожной аварии",
   "skip:https://www.rbc.ru/rbcfreenews/6ae46712bd85941c9fdd5ae2",
   "https://www.kommersant.ru/doc/9077379",
-  "title:Юрий Ушаков прокомментировал контакты и переговоры по Украине"
+  "title:Юрий Ушаков прокомментировал контакты и переговоры по Украине",
+  "skip:https://www.rbc.ru/quote/30/10/2026/6ae44ad49a794730a84cbf29",
+  "https://ria.ru/20261030/evropa-2128103618.html",
+  "title:Биржевые цены на газ в Европе превысили $1200 за тысячу кубометров впервые с конца 2022 года",
+  "skip:https://ria.ru/20261030/ispaniya-2128101440.html",
+  "https://www.rbc.ru/rbcfreenews/6ae47f65bd85941c9fdd5b60",
+  "title:На заводе боеприпасов в испанской Гранаде прогремел взрыв"
 ]

@@ -1,13 +1,4 @@
 [
-  "skip:https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss",
-  "skip:https://www.france24.com/en/video/20261027-ibrahim-abu-ahmad-on-israeli-election-crucial-for-arab-citizens-to-have-ally-in-jewish-community",
-  "https://www.interfax.ru/world/1125346",
-  "title:В Израиле завершились досрочные парламентские выборы с высокой явкой",
-  "skip:https://www.interfax.ru/world/1125341",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28259761",
-  "skip:https://news.google.com/rss/articles/CBMingFBVV95cUxOYVBiQjE0QTJza2Y3LV9qZi1mSWh6QzY4ZXRqYmVzNGZDb2UxU0VaODliT1N6WTFlY1pjcTJhdnB2dHFRWGhUMnlPSHBnemIyVnBiaEpwaWF5NkxNLWZPZElRTjM4U0xwRkpoZnhSekEtdllFT18wdThnQS1vU2EySTA1UlIzTV94bG5aSl9yZW1xQXBlYmJWVDFYSmNuZw?oc=5",
-  "https://news.google.com/rss/articles/CBMingFBVV95cUxPaUpaNGJkUU9FeDRxVTFGcVljX3VfUHhKM1p2bm82UjZ3bW5aUUprejByam9oWGpoeWllcC0wRUlNZi1yRlV2YVcwY2tYODVJWXZ0ZVZvMm85eEN4VC00NmJKTTk5enF1TTRZZmZRelpUMzhmY0NiUzNQRVVFdmc3amptbjZFWHJuUHdRSDZkZVlNakZWQks2WWRIVXhWdw?oc=5",
-  "title:Экс-кандидат в президенты Бразилии Флавиу Болсонару уехал в США после выборов",
   "skip:https://tass.ru/ekonomika/28259851",
   "skip:https://www.interfax.ru/russia/1125342",
   "https://www.interfax.ru/russia/1125348",
@@ -998,5 +989,14 @@
   "title:Биржевые цены на газ в Европе превысили $1200 за тысячу кубометров впервые с конца 2022 года",
   "skip:https://ria.ru/20261030/ispaniya-2128101440.html",
   "https://www.rbc.ru/rbcfreenews/6ae47f65bd85941c9fdd5b60",
-  "title:На заводе боеприпасов в испанской Гранаде прогремел взрыв"
+  "title:На заводе боеприпасов в испанской Гранаде прогремел взрыв",
+  "skip:https://www.interfax.ru/world/1126099",
+  "skip:https://ria.ru/20261030/iran-2128107474.html",
+  "skip:https://news.google.com/rss/articles/CBMipgFBVV95cUxQUjdDdUxXVENSNGdpbWJZOEp2QXMtSy1WSUdCVFdHc21FVnMwTE9uMC1xMkFEaS1wTHRjd2JMQzFTZEtPX0drQ3hPMlZVeDlITnc2RndQRElNUy13Ny1UdXpROVVpejNQRHJ4a3l6Q0t3TTZwOUptZDNKdlRVQWJXLXBxTldad19oZUFGS3BKSUlLWlk3d055R290THF3ckRWb3hRYjlR?oc=5",
+  "https://tass.ru/mezhdunarodnaya-panorama/28271599",
+  "title:Инциденты с нефтяными танкерами в Ормузском проливе после сообщений КСИР",
+  "skip:https://news.google.com/rss/articles/CBMivgFBVV95cUxPOGZxZ29Sdy1mUDVhdm1xVF9GTDFaM3hWZEhmVkFneUNHWDl4Qks4bGNVbnBRdGRBUjN1ckk2dkd2MWFKSWJ6SlpKNVVhNGZ4UDZpVk1SNTBPV1ZxVlo2Z09pNjVtZ1hGRUlZYXBVUll3TTlsd2VFdy13MnJMbG92N202OTI5d1Z6bDJ0bGYzOTF5MS1oNEhUVTFKMlVoTVdhRzA4MHQyT1lBMW9CU2tKYkRQQUp3ZzNNUEphVTNB?oc=5",
+  "skip:https://www.rbc.ru/technology_and_media/30/10/2026/6ae4579062500eb984f9885e",
+  "https://www.rbc.ru/finances/30/10/2026/6ae48486d9973ce16e4234c6",
+  "title:Хакерская атака на криптовалютную биржу Binance и масштабный ущерб"
 ]

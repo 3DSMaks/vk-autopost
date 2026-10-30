@@ -1,14 +1,4 @@
 [
-  "skip:https://tass.ru/ekonomika/28260219",
-  "https://www.interfax.ru/russia/1125370",
-  "title:Аэропорты Внуково, Домодедово и Жуковский вводят временные ограничения на использование воздушного пространства",
-  "skip:https://www.rbc.ru/rbcfreenews/6ae146c17e6744845c1dcd6e",
-  "https://www.kommersant.ru/doc/9062354",
-  "title:Ким Чен Ын призвал командование Корейской народной армии повысить боеготовность",
-  "skip:https://www.rbc.ru/sport/28/10/2026/6ae180a29a7947de2bfa546c",
-  "https://www.aljazeera.com/sports/2026/10/28/arsenal-fleetwood-town-league-cup-penalties-guimaraes-dowman?traffic_source=rss",
-  "title:Футбольный клуб четвертого дивизиона «Флитвуд Таун» выбил «Арсенал» из Кубка лиги",
-  "skip:https://news.google.com/rss/articles/CBMikgFBVV95cUxOM1hja3hGcG1XTFEyajJxMVdPaUZZdkVnd1hMOUlEUDU1Z091NHlvR3FmelozWjhFc2Z6YjVsZWJBR1FoS3F2OU1QU0g0T3ZkWmVqSkFkYXhhMEludXdlaTJNdnU1bE5zNVFVYTZLeURJWUtNY0hSTWJ3ZUt4cWJ1dlVjMi1nWGtNc3Q1RlNJSGFjdw?oc=5",
   "https://tass.ru/proisshestviya/28260719",
   "title:В Сербии застрелили мужчину при нападении на охранника у посольства Израиля",
   "skip:https://www.rbc.ru/rbcfreenews/6ae193cde7885c4b8c0f4055",
@@ -998,5 +988,15 @@
   "skip:https://ria.ru/20261030/aleshki-2128191908.html",
   "skip:https://www.rbc.ru/rbcfreenews/6ae4b50f96dbb31945ada1a2",
   "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-  "title:Гуманитарная миссия и эвакуация жителей завершаются в Алешках"
+  "title:Гуманитарная миссия и эвакуация жителей завершаются в Алешках",
+  "skip:https://tass.ru/obschestvo/28272851",
+  "skip:https://www.rbc.ru/rbcfreenews/6ae4c7547146045629907966",
+  "skip:https://tass.ru/obschestvo/28272837",
+  "https://www.france24.com/en/video/20261030-stranded-locals-use-rare-truce-to-leave-moscow-occupied-town-in-ukraine",
+  "title:Завершилась гуманитарная миссия и эвакуация жителей из Алешек",
+  "skip:https://tass.ru/ekonomika/28272917",
+  "skip:https://www.interfax.ru/business/1126193",
+  "skip:https://www.rbc.ru/finances/30/10/2026/6ae4c701cfd3e788bf861409",
+  "https://ria.ru/20261030/grigorenko-2128206844.html",
+  "title:Дмитрий Григоренко покинул пост председателя наблюдательного совета ВТБ"
 ]

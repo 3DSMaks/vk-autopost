@@ -1,13 +1,4 @@
 [
-  "https://tass.ru/ekonomika/28262503",
-  "title:Британия продлила лицензию на деятельность дочерних компаний «Лукойла» в Болгарии",
-  "skip:https://www.interfax.ru/russia/1125525",
-  "skip:https://www.kommersant.ru/doc/9062938",
-  "https://www.rbc.ru/politics/28/10/2026/6ae1f6ec891614ddb86259ce",
-  "title:Владимир Путин сообщил о контактах России с США и Илоном Маском по низкоорбитальным спутниковым группировкам",
-  "skip:https://tass.ru/politika/28262871",
-  "skip:https://ria.ru/20261028/lavrov-2127567565.html",
-  "skip:https://www.interfax.ru/russia/1125518",
   "https://www.kommersant.ru/doc/9062937",
   "title:Сергей Лавров примет участие во встрече глав МИД G20 в Атланте",
   "skip:https://tass.ru/proisshestviya/28263107",
@@ -998,5 +989,14 @@
   "title:Заявления главы МИД РФ Сергея Лаврова на полях G20 об отношениях с США и украинском урегулировании",
   "skip:https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGx4RUtRNkEya28zdk1wR3JiSFhtTDZGVFR0am5PSlZXRUZ6TmtQT2VLLXhSUzdoYjNoQ3ZSclB2T3pqTGFJWGJoOWRrZURNUXF4Q0g0T1NpNkVsN0V6cVlUTncyY1lPTFVvU1h1VGxmeFNxNWlKSm5FejE2d0tabHRjOU40dTFDbmNLTVVlbjZBYmtXNHQxd1Y5RHh3a1dROGM3Vg?oc=5",
   "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-  "title:США одобрили продажу Украине ракет Patriot на $2,1 млрд"
+  "title:США одобрили продажу Украине ракет Patriot на $2,1 млрд",
+  "skip:https://www.rbc.ru/politics/31/10/2026/6ae51435e22d143d5793dabd",
+  "skip:https://www.kommersant.ru/doc/9078105",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28273585",
+  "skip:https://www.rbc.ru/rbcfreenews/6ae507ae41496c5f9c55321b",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28273523",
+  "skip:https://www.rbc.ru/politics/31/10/2026/6ae4f9ed92b809aef4d94c8b",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28273497",
+  "https://www.interfax.ru/world/1126240",
+  "title:Политический кризис в Польше: протесты и оцепление здания Конституционного трибунала"
 ]

@@ -1,12 +1,4 @@
 [
-  "skip:https://ria.ru/20261028/vizy-2127410890.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28259983",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28259961",
-  "skip:https://www.rbc.ru/rbcfreenews/6ae109001840c7d343d1ab45",
-  "https://ria.ru/20261028/ssha-2127411031.html",
-  "title:Экс-кандидат в президенты Бразилии Флавиу Болсонару прибыл в США",
-  "skip:https://ria.ru/20261028/vybory-2127411896.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28259993",
   "skip:https://www.rbc.ru/rbcfreenews/6ae0c0063a6b753ff0e3387a",
   "skip:https://www.france24.com/en/tv-shows/the-debate/20261027-bibi-s-moment-of-truth-israel-votes-in-first-general-election-since-october-7",
   "https://www.rbc.ru/politics/28/10/2026/6ae0c5eafece93d1816232ed",
@@ -998,5 +990,13 @@
   "skip:https://www.interfax.ru/world/1126127",
   "skip:https://www.kommersant.ru/doc/9077564",
   "https://ria.ru/20261030/tanker-2128137657.html",
-  "title:Инциденты с танкерами и подводными аппаратами в Ормузском проливе"
+  "title:Инциденты с танкерами и подводными аппаратами в Ормузском проливе",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28272099",
+  "skip:https://www.kommersant.ru/doc/9077567",
+  "https://ria.ru/20261030/papa-2128152323.html",
+  "title:Папа Римский проголосовал на промежуточных выборах в Конгресс США",
+  "skip:https://ria.ru/20261030/putin-2128150556.html",
+  "skip:https://ria.ru/20261030/putin-2128142144.html",
+  "https://tass.ru/politika/28272085",
+  "title:Владимир Путин провел переговоры с президентом Мали в Кремле"
 ]

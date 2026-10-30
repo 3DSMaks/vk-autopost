@@ -1,14 +1,4 @@
 [
-  "skip:https://tass.ru/ekonomika/28259851",
-  "skip:https://www.interfax.ru/russia/1125342",
-  "https://www.interfax.ru/russia/1125348",
-  "title:Аэропорты Пензы, Саратова и Саранска приостановили работу",
-  "skip:https://www.kommersant.ru/doc/9062316",
-  "skip:https://www.rbc.ru/business/27/10/2026/6ae0f9855751e43247107226",
-  "https://www.interfax.ru/world/1125344",
-  "title:США и Россия обсуждают возвращение американских компаний в нефтяной сектор",
-  "skip:https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats",
-  "skip:https://ria.ru/20261027/knesset-2127407146.html",
   "skip:https://www.aljazeera.com/video/newsfeed/2026/10/27/netanyahu-rallies-likud-voters-with-megaphone-in-shopping-mall?traffic_source=rss",
   "skip:https://www.interfax.ru/world/1125347",
   "skip:https://www.kommersant.ru/doc/9062320",
@@ -998,5 +988,15 @@
   "skip:https://news.google.com/rss/articles/CBMivgFBVV95cUxPOGZxZ29Sdy1mUDVhdm1xVF9GTDFaM3hWZEhmVkFneUNHWDl4Qks4bGNVbnBRdGRBUjN1ckk2dkd2MWFKSWJ6SlpKNVVhNGZ4UDZpVk1SNTBPV1ZxVlo2Z09pNjVtZ1hGRUlZYXBVUll3TTlsd2VFdy13MnJMbG92N202OTI5d1Z6bDJ0bGYzOTF5MS1oNEhUVTFKMlVoTVdhRzA4MHQyT1lBMW9CU2tKYkRQQUp3ZzNNUEphVTNB?oc=5",
   "skip:https://www.rbc.ru/technology_and_media/30/10/2026/6ae4579062500eb984f9885e",
   "https://www.rbc.ru/finances/30/10/2026/6ae48486d9973ce16e4234c6",
-  "title:Хакерская атака на криптовалютную биржу Binance и масштабный ущерб"
+  "title:Хакерская атака на криптовалютную биржу Binance и масштабный ущерб",
+  "skip:https://tass.ru/sport/28271747",
+  "skip:https://tass.ru/sport/28271705",
+  "skip:https://www.sport-interfax.ru/1126121",
+  "skip:https://www.sport-interfax.ru/1126114",
+  "https://www.kommersant.ru/doc/9077548",
+  "title:IIHF исполнит решение CAS о допуске российских хоккеистов к международным турнирам",
+  "skip:https://www.interfax.ru/russia/1126101",
+  "skip:https://tass.ru/obschestvo/28271647",
+  "https://www.rbc.ru/rbcfreenews/6ae4826f9dc8453fd65490af",
+  "title:В Самарской области при ликвидации последствий атак БПЛА погибли двое человек"
 ]

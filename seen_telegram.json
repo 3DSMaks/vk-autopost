@@ -1,6 +1,4 @@
 [
-  "skip:https://www.playground.ru/cyberpunk_2077/news/zavtra_sostoitsya_premera_cyberpunk_edgerunners_2-1882753#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169310/veduschij-razrabotchik-outlast-rasskazal-chto-odin-iz-testirovschikov-ubezhal-iz-ofisa-poplakat/",
   "https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/remejk_ocarina_of_time_poluchit_novye_kvesty_uslozhnyonnye_mini_igry_i_izmenyonnye_podzemelya-1882751#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Ремейк Ocarina of Time получит новые квесты, усложнённые мини-игры и изменённые подземелья",
   "skip:https://kg-portal.ru/comments/135434-strit-fajter-na-starte-proigral-v-domashnem-prokate-mortal-kombat-ii/",
@@ -998,5 +996,7 @@
   "skip:https://www.playground.ru/misc/news/konami_na_podyome_rost_pribyli_na_75_blagodarya_silent_hill_i_metal_gear_solid-1886270#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.ign.com/articles/families-who-lost-loved-ones-in-seoul-halloween-crowd-crush-call-on-activision-to-pull-real-footage-from-call-of-duty-modern-warfare-4",
   "https://gamemag.ru/news/201911/mama-stala-kraterom-disney-pokazala-tizer-anime-death-stranding-isolations",
-  "title:Мама стала кратером: Disney показала тизер аниме Death Stranding Isolations"
+  "title:Мама стала кратером: Disney показала тизер аниме Death Stranding Isolations",
+  "https://kg-portal.ru/comments/135598-majatnik-trejler/",
+  "title:Продюсер Даррен Аронофски и сценарист \"Чёрного лебедя\" устроили настоящий кошмар в трейлере ужастика \"Маятник\""
 ]

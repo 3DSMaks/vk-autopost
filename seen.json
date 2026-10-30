@@ -1,8 +1,4 @@
 [
-  "skip:https://deadline.com/2026/10/netflix-greg-peters-layoffs-growth-1237169073/",
-  "https://www.kinonews.ru/news_143768/",
-  "title:Небинарная звезда \"Миллиардов\" готова мыть посуду из-за отсутствия работы",
-  "skip:https://www.kinonews.ru/news_143766/",
   "https://deadline.com/2026/10/paul-greengrass-james-bond-bourne-supremacy-1237168459/",
   "title:Paul Greengrass Says He Was Offered A ‘James Bond’ Film After Directing ‘Bourne Supremacy’",
   "https://deadline.com/2026/10/nestor-almendros-doc-j-a-bayona-javier-bardem-1237169499/",
@@ -998,5 +994,9 @@
   "skip:https://variety.com/2026/film/news/skydance-communications-pr-publicity-leadership-exec-departures-1236935492/",
   "skip:https://deadline.com/2026/10/melissa-zukerman-skydance-communications-leadership-exits-1237209690/",
   "https://variety.com/2026/film/awards/the-odyssey-oscars-campaign-downey-del-toro-spielberg-1236935212/",
-  "title:‘The Odyssey’ Oscar Blitz to Begin With Robert Downey Jr., Guillermo del Toro and Steven Spielberg as Moderators"
+  "title:‘The Odyssey’ Oscar Blitz to Begin With Robert Downey Jr., Guillermo del Toro and Steven Spielberg as Moderators",
+  "skip:https://deadline.com/2026/10/hello-sunshine-layoffs-reese-witherspoon-mediawan-1237209797/",
+  "skip:https://variety.com/2026/tv/news/reese-witherspoon-hello-sunshine-layoff-1236935287/",
+  "https://variety.com/2026/film/global/iron-man-matthew-libatique-ai-could-replace-marvel-vfx-1236934879/",
+  "title:‘Iron Man’ Cinematographer Matthew Libatique Says AI ‘Could Replace Marvel’ VFX, but They’ll Never ‘Use AI Actors’"
 ]

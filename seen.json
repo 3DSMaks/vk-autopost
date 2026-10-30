@@ -1,7 +1,4 @@
 [
-  "title:‘Michael’: Golden Globes Reject Submission to Compete in Comedy/Musical Categories",
-  "https://kg-portal.ru/comments/135467-gonochnaja-bitva-motorov-poluchila-specialnye-postery-isobrala-bolee-600-mln-rublej/",
-  "title:Гоночная \"Битва моторов\" получила специальные постеры и собрала более 600 млн рублей",
   "https://deadline.com/2026/10/narnia-the-magicians-nephew-trailer-viewership-1237169108/",
   "title:‘Narnia: The Magician’s Nephew’ Trailer Clocks Massive 481M+ First Week Views, More Than ‘Barbie’",
   "https://deadline.com/2026/10/denzel-washington-chris-mcquarrie-united-artists-1237168034/",
@@ -998,5 +995,8 @@
   "title:Rishab Shetty’s Chhatrapati Shivaji Maharaj Epic ‘The Pride of Bharat’ Lands T-Series, Set as Two-Part Saga (EXCLUSIVE)",
   "skip:https://www.film.ru/news/serial-po-motivam-igry-pubg",
   "https://www.film.ru/news/osnovnoy-treyler-seriala-ayda",
-  "title:Основной трейлер сериала Айда"
+  "title:Основной трейлер сериала Айда",
+  "skip:https://variety.com/2026/film/festivals/shah-rukh-khan-karan-johar-kuch-kuch-hota-hai-30th-anniversary-edinburgh-film-festival-1236934894/",
+  "https://variety.com/2026/film/news/american-history-x-director-tony-kaye-leicester-monsters-short-1236934725/",
+  "title:‘American History X’ Director Tony Kaye Takes On Leicester’s Giant Monsters in Short ‘Will You Still Love Me Tomorrow?’ (EXCLUSIVE)"
 ]

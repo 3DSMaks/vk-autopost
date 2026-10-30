@@ -1,8 +1,4 @@
 [
-  "skip:https://deadline.com/2026/10/tracy-brady-joins-sundance-institute-marketing-communications-1237168709/",
-  "skip:https://variety.com/2026/awards/news/andrew-garfield-santa-barbara-film-festival-1236917746/",
-  "https://www.film.ru/news/treyler-luchshih-pankeykov-v-gorode",
-  "title:Трейлер Лучших панкейков в городе",
   "skip:https://kg-portal.ru/comments/135460-djuna-chast-3-vtoroj-trejler/",
   "https://deadline.com/2026/10/the-prestige-rerelease-2027-christopher-nolan-1237168795/",
   "title:Christopher Nolan’s ‘The Prestige’ Sets 20th Anniversary Re-Release For 2027",
@@ -998,5 +994,9 @@
   "title:Chase Sui Wonders In Talks to Join A24’s ‘Goblin’",
   "skip:https://variety.com/2026/film/news/ian-mckellen-patrick-stewart-tribute-1236934477/",
   "https://deadline.com/2026/10/justin-h-min-journey-there-hong-sangsoo-finecut-japan-1237208106/",
-  "title:Justin H. Min Starrer ‘Journey There’ & Hong Sangsoo’s ‘Nowhere To Lay My Eyes’ Sell To Multiple Territories"
+  "title:Justin H. Min Starrer ‘Journey There’ & Hong Sangsoo’s ‘Nowhere To Lay My Eyes’ Sell To Multiple Territories",
+  "skip:https://deadline.com/2026/10/ian-mckellen-pays-tribute-patrick-stewart-1237209210/",
+  "skip:https://variety.com/2026/film/news/beef-actor-justin-h-min-journey-there-hong-sangsoo-film-sales-1236934722/",
+  "https://deadline.com/2026/10/matthew-weiner-leaving-eddie-murphy-the-chairman-peacock-1237209187/",
+  "title:Matthew Weiner Exits Eddie Murphy Peacock Series ‘The Chairman’ As Showrunner"
 ]

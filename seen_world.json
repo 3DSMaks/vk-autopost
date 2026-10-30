@@ -1,14 +1,4 @@
 [
-  "skip:https://www.rbc.ru/rbcfreenews/6ae0c0063a6b753ff0e3387a",
-  "skip:https://www.france24.com/en/tv-shows/the-debate/20261027-bibi-s-moment-of-truth-israel-votes-in-first-general-election-since-october-7",
-  "https://www.rbc.ru/politics/28/10/2026/6ae0c5eafece93d1816232ed",
-  "title:Итоговая явка на парламентских выборах в Израиле составила 77,7%",
-  "skip:https://ria.ru/20261027/tramp-2127406308.html",
-  "https://www.rbc.ru/politics/27/10/2026/6ae10b4054d995500bc5ee6d",
-  "title:Трамп предложил сделать Венесуэлу 51-м штатом США",
-  "skip:https://www.aljazeera.com/news/2026/10/27/egypt-orders-closure-of-leading-independent-news-site-mada-masr?traffic_source=rss",
-  "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
-  "title:Суд в Египте приговорил главреда Mada Masr к штрафу и предписал закрыть издание",
   "skip:https://www.interfax.ru/world/1125356",
   "skip:https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28259975",
@@ -998,5 +988,15 @@
   "skip:https://ria.ru/20261030/putin-2128150556.html",
   "skip:https://ria.ru/20261030/putin-2128142144.html",
   "https://tass.ru/politika/28272085",
-  "title:Владимир Путин провел переговоры с президентом Мали в Кремле"
+  "title:Владимир Путин провел переговоры с президентом Мали в Кремле",
+  "skip:https://www.france24.com/en/technology/20261030-how-the-record-breaking-6-3-billion-heist-in-crypto-history-unfolded",
+  "skip:https://news.google.com/rss/articles/CBMirwFBVV95cUxQM1Rmb2RtNmFkU05Yc3pUTlkwdmEyMllIY01kTTVPQ1A5SFRBRmt6NTR1MUl2b0tMZDRsR1dVMTFWZjRIOTNnYWV3TFYzdDQyQThELW95bUlkaFJlSkwtTmpqdElyaWVHSWt2U0paQ0xPZkdiTnlEZE5WbXhlRzdVeG1hV2NiVkFUM1pwdGNUcnBManBNRUhPRVBKa2EwQXlXUlhPR2o2d0lCSkxDYmY4?oc=5",
+  "skip:https://www.kommersant.ru/doc/9077628",
+  "https://www.rbc.ru/finances/30/10/2026/6ae46f39bd85941c9fdd5b18",
+  "title:Криптобиржа Binance начала возвращать активы пользователям после масштабного хакерского взлома",
+  "skip:https://www.interfax.ru/russia/1126142",
+  "skip:https://www.rbc.ru/politics/30/10/2026/6ae496be309c9b59359b6ccc",
+  "skip:https://ria.ru/20261030/peskov-2128148618.html",
+  "https://www.kommersant.ru/doc/9077655",
+  "title:Песков заявил, что удары ВСУ по НПЗ не повлияют на подготовку предстоящих трехсторонних переговоров"
 ]

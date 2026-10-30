@@ -1,13 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9062589",
-  "title:Сенат Франции одобрил законопроект об ответственности за беспорядки и ущерб от протестов",
-  "skip:https://ria.ru/20261028/ispaniya-2127484725.html",
-  "skip:https://tass.ru/proisshestviya/28261413",
-  "skip:https://tass.ru/proisshestviya/28261351",
-  "https://www.rbc.ru/rbcfreenews/6ae1bff15e0cfa45ef066ee3",
-  "title:В центральной Испании произошло крушение поезда, погибли не менее 39 человек",
-  "skip:https://www.rbc.ru/politics/28/10/2026/6ae1bda09a7947ce82c6965c",
-  "skip:https://www.kommersant.ru/doc/9062617",
   "skip:https://ria.ru/20261028/alisovka-barilovka-2127482224.html",
   "https://www.interfax.ru/russia/1125443",
   "title:Минобороны РФ сообщило о переходе под российский контроль двух сел в Харьковской и Сумской областях",
@@ -998,5 +989,14 @@
   "skip:https://tass.ru/politika/28273083",
   "skip:https://tass.ru/ekonomika/28272985",
   "https://www.kommersant.ru/doc/9077810",
-  "title:Сергей Лавров провел первую за пять лет полноформатную очную встречу с главой МИД Японии на полях G20"
+  "title:Сергей Лавров провел первую за пять лет полноформатную очную встречу с главой МИД Японии на полях G20",
+  "skip:https://www.interfax.ru/world/1126208",
+  "https://tass.ru/mezhdunarodnaya-panorama/28273213",
+  "title:США одобрили крупную военную помощь и выделение кредитов для Украины",
+  "skip:https://ria.ru/20261030/lavrov-2128225825.html",
+  "skip:https://tass.ru/politika/28273183",
+  "skip:https://tass.ru/politika/28273177",
+  "skip:https://www.rbc.ru/politics/30/10/2026/6ae4dc0c508a2286f6281647",
+  "https://ria.ru/20261030/lavrov-2128225967.html",
+  "title:Главы МИД России и Японии провели первые за пять лет очные переговоры"
 ]

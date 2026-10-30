@@ -1,7 +1,4 @@
 [
-  "https://www.film.ru/news/treyler-oktyabrya-dzheremi-solne",
-  "title:Трейлер Октября Джереми Солнье",
-  "skip:https://www.film.ru/news/14-y-sezon-amerikanskoy-istorii-uzhasov",
   "https://www.film.ru/news/onlayn-reliz-sobachih-zvezd-ridli-skotta",
   "title:Онлайн-релиз Собачьих звезд Ридли Скотта",
   "https://variety.com/2026/film/news/julia-stiles-10-things-i-hate-about-you-reunion-heath-ledger-tribute-dwts-1236916762/",
@@ -998,5 +995,8 @@
   "https://kg-portal.ru/comments/135598-majatnik-trejler/",
   "title:Продюсер Даррен Аронофски и сценарист \"Чёрного лебедя\" устроили настоящий кошмар в трейлере ужастика \"Маятник\"",
   "https://deadline.com/2026/10/skydance-international-regional-leads-georgiou-exiting-1237209311/",
-  "title:Skydance International Sets Its Four Regional Leads: Andrew Georgiou Exiting Europe & Africa Role"
+  "title:Skydance International Sets Its Four Regional Leads: Andrew Georgiou Exiting Europe & Africa Role",
+  "skip:https://variety.com/2026/film/global/teenage-skater-up-again-jihlava-1236934423/",
+  "https://deadline.com/2026/10/cate-blanchett-shahrbanoo-sadat-mohammad-rasoulof-tokyo-1237209297/",
+  "title:Cate Blanchett, Shahrbanoo Sadat & Mohammad Rasoulof Bring Displacement Film Fund To Tokyo With Help From ‘Perfect Days’ Actor Kōji Yakusho"
 ]

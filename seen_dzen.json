@@ -64,5 +64,8 @@
   "skip:https://www.ign.com/articles/pubg-is-getting-a-live-action-series-on-netflix-written-directed-by-and-starring-donald-glover",
   "skip:https://www.pcgamer.com/movies-tv/donald-glover-is-heading-up-a-pubg-live-action-series-for-netflix/",
   "https://stopgame.ru/newsdata/73334/netflix_sozdaet_serial_po_motivam_pubg",
-  "title:Netflix создаёт сериал по мотивам PUBG"
+  "title:Netflix создаёт сериал по мотивам PUBG",
+  "skip:https://www.ign.com/articles/gears-of-war-e-day-reportedly-sold-over-400k-copies-across-console-and-pc-a-month-after-day-one-game-pass-launch",
+  "https://gamemag.ru/news/201907/the-verge-prodaji-gears-of-war-e-day-sostavili-vsego-400-tysyach-kopiy",
+  "title:The Verge: Продажи Gears of War: E-Day составили всего 400 тысяч копий"
 ]

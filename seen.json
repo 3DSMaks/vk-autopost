@@ -1,7 +1,4 @@
 [
-  "title:Лонг-лист Золотого орла-2027",
-  "skip:https://www.film.ru/news/pokazateli-treylera-narnii",
-  "https://variety.com/2026/film/columns/you-can-see-everything-best-picture-oscars-elizabeth-holmes-1236917667/",
   "title:Why ‘You Can See Everything’ Could Win Best Picture at the Oscars",
   "skip:https://www.film.ru/news/yubileynyy-prokat-prestizha",
   "https://deadline.com/2026/10/ted-sarandos-netflix-strategy-unchanged-earnings-1237169202/",
@@ -998,5 +995,8 @@
   "skip:https://deadline.com/2026/10/russell-brand-prosecution-weaponize-wendy-williams-quote-1237209413/",
   "skip:https://deadline.com/2026/10/star-wars-marvel-voices-sounds-gamers-creators-voicemod-1237209444/",
   "https://deadline.com/2026/10/sun-never-sets-sales-capture-focus-features-1237209442/",
-  "title:‘The Sun Never Sets’ Sells Out For Capture As Focus Features Swoops On Multiple Territories"
+  "title:‘The Sun Never Sets’ Sells Out For Capture As Focus Features Swoops On Multiple Territories",
+  "skip:https://deadline.com/2026/10/pauly-shore-sets-ps5-special-road-comic-live-from-portland-1237209480/",
+  "https://deadline.com/2026/10/forest-whitaker-rachid-boucharebs-boomerang-atomic-doc-nyc-1237209403/",
+  "title:Forest Whitaker Joins Rachid Bouchareb’s ‘Boomerang Atomic’ As EP Ahead Of DOC NYC Screening"
 ]

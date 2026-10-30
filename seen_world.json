@@ -1,11 +1,4 @@
 [
-  "skip:https://ria.ru/20261028/alisovka-barilovka-2127482224.html",
-  "https://www.interfax.ru/russia/1125443",
-  "title:Минобороны РФ сообщило о переходе под российский контроль двух сел в Харьковской и Сумской областях",
-  "skip:https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
-  "skip:https://www.rbc.ru/society/28/10/2026/6ae1c2a33c525cc023d5484a",
-  "skip:https://www.rbc.ru/rbcfreenews/6ae1c1a0e5936d9ad170a4df",
-  "skip:https://www.kommersant.ru/doc/9062632",
   "skip:https://ria.ru/20261028/ispanija-2127492037.html",
   "skip:https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo",
   "skip:https://www.aljazeera.com/news/2026/10/28/injuries-reported-after-two-trains-collide-in-spain?traffic_source=rss",
@@ -998,5 +991,12 @@
   "skip:https://tass.ru/politika/28273177",
   "skip:https://www.rbc.ru/politics/30/10/2026/6ae4dc0c508a2286f6281647",
   "https://ria.ru/20261030/lavrov-2128225967.html",
-  "title:Главы МИД России и Японии провели первые за пять лет очные переговоры"
+  "title:Главы МИД России и Японии провели первые за пять лет очные переговоры",
+  "skip:https://ria.ru/20261030/gosdep-2128228215.html",
+  "https://www.rbc.ru/politics/30/10/2026/6ae4e96fcfb16244b1bbce5c",
+  "title:Госдеп США одобрил продажу Украине ракет Patriot",
+  "skip:https://www.kommersant.ru/doc/9077819",
+  "skip:https://news.google.com/rss/articles/CBMivwFBVV95cUxORW01d2dWQjEzQi1rNHpxb1hPYlE4b1dBMFgtUkxRQTZDY2RrNGlkeXpXNHNhUVU1MVRjVW9xY1lvbnpuSEFzNnZBaDM4ZkdGbEQwSUJ2Z0d0cms5bHVYcGhwYm5mZ3dIcU8zOXRlWFhFajVoMmtGRnA2cHQxdG1xQjdHMHJheWxyZ3dIMC12c0JyYzhScUZOOUdEd25UV3JEZ2ZNMl90ODJ4cnF2c09XUVFISEN5X2x1X0twYklBZw?oc=5",
+  "https://tass.ru/mezhdunarodnaya-panorama/28273225",
+  "title:США призвали дипломатов и госслужащих покинуть Саудовскую Аравию из-за угроз безопасности"
 ]

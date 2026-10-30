@@ -1,11 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28259957",
-  "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
-  "title:Арабские партии получили рекордное число мест на парламентских выборах в Израиле",
-  "skip:https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbm95bTdpVk5ZdnFONElTaDJ2SW9VM1RoUkppRXBCRlhuMVhtY3Q3RG9YNG5xdnQzOHVkTXJvcTFFN2hsbV9zYWFzYUxtQTNJaXBMX3RuRGxQay02cWlrbmdVUDlPWklmdFdHU0VFZTVWWnlmeDhVQzh6eTA5RElMZG80TGNIa2o3NXI4dXNFUUNJMWY4S3dRdFRudzJXLWx2OVk2T1JIS0k?oc=5",
-  "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-  "title:Братья Александер приговорены к 30 годам тюремного заключения по делу о торговле людьми",
-  "skip:https://news.google.com/rss/articles/CBMimwFBVV95cUxNNnBPa2VzUUoxM3RCb0cyd0Fmem05T0lHMVJrejNkdGdGLU1xRmZGQ0g4UDA5N2g2NVRSU0QyTkVWUTFaYXYxUVhDVUZuZElEaDA3dkNZTW9nM3VjXzlyR2R0LXA5a0doNmh5SF9WVVd0UDlYb3hRRHVnalJuZjdGSkNxYWVmUnVLZlJVMXFzX0tReVV0MnVDQ2Jodw?oc=5",
   "https://tass.ru/obschestvo/28260007",
   "title:В Швеции задержали бывшего депутата Верховной рады Украины",
   "skip:https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela",
@@ -998,5 +991,12 @@
   "title:В США началась встреча глав МИД стран G20",
   "skip:https://www.kommersant.ru/doc/9077641",
   "https://www.rbc.ru/rbcfreenews/6ae49ebcacf5a5b4b205c258",
-  "title:Генеральный директор Донецкой железной дороги погиб при атаке беспилотника"
+  "title:Генеральный директор Донецкой железной дороги погиб при атаке беспилотника",
+  "skip:https://www.rbc.ru/quote/30/10/2026/6ae4ab419a79472b1740f5c9",
+  "skip:https://www.kommersant.ru/doc/9077667",
+  "https://www.interfax.ru/business/1126159",
+  "title:В ВТБ назвали маловероятной выплату дивидендов свыше 25% от прибыли в 2027 году",
+  "skip:https://www.interfax.ru/russia/1126150",
+  "https://www.rbc.ru/rbcfreenews/6ae4a9c2bd85941c9fdd5c1b",
+  "title:Мэр Новокуйбышевска сообщила о погибшем и пострадавших в результате атаки дронов"
 ]

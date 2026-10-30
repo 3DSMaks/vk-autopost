@@ -1,14 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9062561",
-  "title:«Аэрофлот» обсуждает закупку новых самолетов МС-21 и переход на отечественное ПО",
-  "skip:https://tass.ru/proisshestviya/28261299",
-  "skip:https://news.google.com/rss/articles/CBMingFBVV95cUxOUl92blFTT3BtRmEwUW1tNWNPX09pUzNYNEhrSUZreGM5bWRIdG5FaVRYal80MTR1MHBkeEdQak5sNzNwdmlwc3d6YWNPUEd1U1ItX2gxaGJSRk1LWGt4MDFhREVINXFvZWNTQWdIV3B0YXhPQWZKZ2UxUEpWTk9YbjdXX0doZEJfcC00TUlSOVhYaUNQWllyMU9QVkxOZw?oc=5",
-  "skip:https://tass.ru/proisshestviya/28261273",
-  "skip:https://ria.ru/20261028/ispaniya-2127475394.html",
-  "https://www.france24.com/en/europe/20261028-two-high-speed-trains-collide-in-southern-spain-rail-operator-says",
-  "title:В центральной Испании столкнулись два высокоскоростных поезда, есть пострадавшие",
-  "skip:https://www.france24.com/en/tv-shows/business/20261028-french-senate-debates-new-rioters-pay-bill",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28261201",
   "https://www.kommersant.ru/doc/9062589",
   "title:Сенат Франции одобрил законопроект об ответственности за беспорядки и ущерб от протестов",
   "skip:https://ria.ru/20261028/ispaniya-2127484725.html",
@@ -998,5 +988,15 @@
   "skip:https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
   "skip:https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOEMyX1UzZ3JRamVtOUNhdEk4M3czZzU5ZGJtMGNfMV9lM0xIWDNKdXdac1ZxZmdaNGdkRkZQUFBGTEh3NE9jQVJ6RWZEUVU0R1VOSG45cFprc3FHMElnRjZXSExBaHVfTUVSLXRvbERBbHBKWHBQc0xFZkYyNVg0YXZMS3huWUhMbkd4c3pnT2hyNWlEU2M3ZWJ0azg4eFVQRUVVZHJkekQ?oc=5",
   "https://tass.ru/mezhdunarodnaya-panorama/28273017",
-  "title:Главы МИД стран G20 отменили совместное фото из-за разногласий вокруг российской делегации"
+  "title:Главы МИД стран G20 отменили совместное фото из-за разногласий вокруг российской делегации",
+  "skip:https://www.rbc.ru/rbcfreenews/6ae4d56f52162556b4ff6211",
+  "skip:https://ria.ru/20261030/pvo-2128212541.html",
+  "skip:https://www.interfax.ru/russia/1126201",
+  "https://www.kommersant.ru/doc/9077811",
+  "title:Минобороны РФ сообщило о перехвате 113 украинских беспилотников над российскими регионами за день",
+  "skip:https://www.interfax.ru/world/1126203",
+  "skip:https://tass.ru/politika/28273083",
+  "skip:https://tass.ru/ekonomika/28272985",
+  "https://www.kommersant.ru/doc/9077810",
+  "title:Сергей Лавров провел первую за пять лет полноформатную очную встречу с главой МИД Японии на полях G20"
 ]

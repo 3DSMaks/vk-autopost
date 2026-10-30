@@ -1,8 +1,4 @@
 [
-  "https://www.film.ru/news/cifrovoy-reliz-obiteli-zla",
-  "title:Цифровой релиз Обители зла",
-  "skip:https://www.playground.ru/fallout_new_vegas/news/dlya_fallout_new_vegas_vyshel_masshtabnyj_graficheskij_mod_s_podderzhkoj_rtx_remix_dlss_i_fsr-1882978#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/odin_iz_igrokov_uzhe_proshyol_kampaniyu_call_of_duty_modern_warfare_4_na_maksimalnoj_slozhnosti_bez_edinoj_smerti-1882972#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.ign.com/articles/modern-warfare-4-player-finished-yolo-mode",
   "https://www.playground.ru/gta_6/news/gta_6_sprovotsirovala_ofitsialnoe_issledovanie_schitaetsya_li_flirt_s_personazhem_v_videoigre_izmenoj-1882953#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:GTA 6 спровоцировала официальное исследование, считается ли флирт с персонажем в видеоигре изменой",
@@ -998,5 +994,9 @@
   "https://kg-portal.ru/comments/135596-dzhejms-gann-gotov-kak-ugodno-nagibat-kanon-esli-margo-robbi-vernetsja-k-roli-harli-kvinn/",
   "title:Джеймс Ганн готов как угодно нагибать канон киновселенной, если Марго Робби вернётся к роли Харли Квинн",
   "https://www.kinonews.ru/news_143897/",
-  "title:Джеймс Ганн готовится представить нового Бэтмена для киновселенной DC"
+  "title:Джеймс Ганн готовится представить нового Бэтмена для киновселенной DC",
+  "skip:https://gamemag.ru/news/201907/the-verge-prodaji-gears-of-war-e-day-sostavili-vsego-400-tysyach-kopiy",
+  "skip:https://www.ign.com/articles/gears-of-war-e-day-reportedly-sold-over-400k-copies-across-console-and-pc-a-month-after-day-one-game-pass-launch",
+  "https://gamemag.ru/news/201903/ubisoft-assassins-creed-no-more-remakes-active-development-hexe-2027-valhalla-new",
+  "title:Официально: Assassin's Creed Hexe покажут в 2027 году, мультиплеерную Assassin’s Creed Invictus не отменили"
 ]

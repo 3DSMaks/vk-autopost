@@ -1,10 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/modern-warfare-4-player-finished-yolo-mode",
-  "https://www.playground.ru/gta_6/news/gta_6_sprovotsirovala_ofitsialnoe_issledovanie_schitaetsya_li_flirt_s_personazhem_v_videoigre_izmenoj-1882953#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:GTA 6 спровоцировала официальное исследование, считается ли флирт с персонажем в видеоигре изменой",
-  "skip:https://deadline.com/2026/10/paper-tiger-furies-doha-film-festival-gala-screenings-1237167206/",
-  "skip:https://variety.com/2026/film/news/james-gray-paper-tiger-doha-film-festival-1236915649/",
-  "skip:https://www.film.ru/news/pervye-sbory-netflix",
   "https://kg-portal.ru/comments/135442-piter-dzhekson-nakonec-opredelilsja-kakoj-film-snimet-sledujuschim/",
   "title:Питер Джексон наконец определился, какой фильм снимет следующим",
   "skip:https://www.igromania.ru/news/169340/studiya-razrabotchik-samson-a-tyndalston-story-zakryivaetsya/",
@@ -998,5 +992,11 @@
   "skip:https://gamemag.ru/news/201907/the-verge-prodaji-gears-of-war-e-day-sostavili-vsego-400-tysyach-kopiy",
   "skip:https://www.ign.com/articles/gears-of-war-e-day-reportedly-sold-over-400k-copies-across-console-and-pc-a-month-after-day-one-game-pass-launch",
   "https://gamemag.ru/news/201903/ubisoft-assassins-creed-no-more-remakes-active-development-hexe-2027-valhalla-new",
-  "title:Официально: Assassin's Creed Hexe покажут в 2027 году, мультиплеерную Assassin’s Creed Invictus не отменили"
+  "title:Официально: Assassin's Creed Hexe покажут в 2027 году, мультиплеерную Assassin’s Creed Invictus не отменили",
+  "skip:https://gamemag.ru/news/201908/smi-glava-turn-10-studios-ushel-iz-microsoft",
+  "skip:https://www.igromania.ru/news/169639/arhitektor-forza-motorsport-pokidaet-microsoft-i-xbox-posle-27-let-rabotyi-the-verge/",
+  "skip:https://stopgame.ru/newsdata/73337/ubisoft_ne_rabotaet_nad_remeykami_assassin_s_creed_valhalla_poluchit_novuyu_igru",
+  "skip:https://www.ign.com/articles/ubisoft-shares-cryptic-assassins-creed-codename-hexe-update",
+  "https://www.playground.ru/misc/news/prodazhi_serii_metal_gear_prevysili_67_7_mln_kopij_tirazh_vyros_na_1_3_mln_s_nachala_leta-1886227#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Продажи серии Metal Gear превысили 67,7 млн копий - тираж вырос на 1,3 млн с начала лета"
 ]

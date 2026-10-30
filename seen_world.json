@@ -1,13 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMilAFBVV95cUxQQUZfLVRacFkyTVZBN0U0RDQxRVZuX2puWDI4bmMxcnhYNmdtZW1TR2dBa2Zpa1VkOXFEd0NINnI0bzNxUW5aaU80UEc1am5nX2ZqUWdoSnItbVhsVHBTeUVKZGVtV21BaVRNWXB2X3hiNUFBcU5NbkUyNkxPS2pIWFNPZmJXU2pnTU5peXdLMEsyOUww?oc=5",
-  "https://www.rbc.ru/politics/28/10/2026/6ae14f4c3c0647b172c103d6",
-  "title:Проигравший выборы в Бразилии Флавиу Болсонару прибыл в США, Вашингтон одобрил визу",
-  "skip:https://ria.ru/20261028/ssha-2127417544.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28260091",
-  "skip:https://ria.ru/20261028/britaniya-2127415248.html",
-  "skip:https://www.rbc.ru/rbcfreenews/6ae12e2ccd3bc6a6b5d7520d",
-  "https://tass.ru/mezhdunarodnaya-panorama/28260157",
-  "title:Реакция в Великобритании и СМИ на телефонный разговор Путина с лидерами Финляндии и Норвегии",
   "skip:https://ria.ru/20261028/tramp-2127417099.html",
   "https://www.interfax.ru/world/1125364",
   "title:Трамп заявил, что конфликт с Ираном завершится по его желанию",
@@ -998,5 +989,14 @@
   "skip:https://www.interfax.ru/russia/1126165",
   "skip:https://ria.ru/20261030/zavoz-2128185314.html",
   "https://www.interfax.ru/russia/1126169",
-  "title:Глава «Росатома» Алексей Лихачев подвел итоги работы госкорпорации и анонсировал планы"
+  "title:Глава «Росатома» Алексей Лихачев подвел итоги работы госкорпорации и анонсировал планы",
+  "skip:https://ria.ru/20261030/khokkey-2128195534.html",
+  "https://www.kommersant.ru/doc/9077743",
+  "skip:https://www.rbc.ru/politics/23/10/2026/6adb8945ede3e202eabc0c7a",
+  "skip:https://www.rbc.ru/politics/30/10/2026/6ae4ba11714604562990792e",
+  "skip:https://www.kommersant.ru/doc/9077731",
+  "skip:https://ria.ru/20261030/lantratova-2128192251.html",
+  "skip:https://tass.ru/obschestvo/28272651",
+  "https://www.interfax.ru/russia/1126176",
+  "title:В Алешках завершается гуманитарная миссия"
 ]

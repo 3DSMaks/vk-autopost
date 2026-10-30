@@ -1,10 +1,4 @@
 [
-  "skip:https://tass.ru/politika/28259711",
-  "skip:https://ria.ru/20261027/rossija-2127393939.html",
-  "skip:https://ria.ru/20261027/tovarooborot-2127393541.html",
-  "skip:https://ria.ru/20261027/mozambik-2127392576.html",
-  "https://www.kommersant.ru/doc/9062317",
-  "skip:https://www.rbc.ru/politics/27/10/2026/6ae0b1ea20253d0bf1ac9cb8",
   "skip:https://ria.ru/20261027/vybory-2127404045.html",
   "skip:https://www.interfax.ru/world/1125345",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28259789",
@@ -998,5 +992,11 @@
   "skip:https://tass.ru/ekonomika/28271093",
   "skip:https://tass.ru/ekonomika/28271111",
   "https://www.rbc.ru/rbcfreenews/6ae46fcacfb16244b1bbcd61",
-  "title:Криптобиржа Binance столкнулась с масштабной кибератакой и приостановила вывод средств"
+  "title:Криптобиржа Binance столкнулась с масштабной кибератакой и приостановила вывод средств",
+  "skip:https://tass.ru/proisshestviya/28271301",
+  "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
+  "title:Премьер-министр Испании заявил о гражданах 27 стран среди жертв железнодорожной аварии",
+  "skip:https://www.rbc.ru/rbcfreenews/6ae46712bd85941c9fdd5ae2",
+  "https://www.kommersant.ru/doc/9077379",
+  "title:Юрий Ушаков прокомментировал контакты и переговоры по Украине"
 ]

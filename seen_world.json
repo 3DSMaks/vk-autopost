@@ -1,8 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9062252",
-  "title:Владимир Путин провел переговоры с президентом Ирана Масудом Пезешкианом в Кремле",
-  "skip:https://www.kommersant.ru/doc/9062098",
-  "skip:https://www.interfax.ru/russia/1125309",
   "https://www.rbc.ru/politics/27/10/2026/6ae0d3479a7947dba25b7a2b",
   "title:Мелания Трамп объявила о расширении режима тишины за пределы Алешек в Херсонской области",
   "skip:https://tass.ru/politika/28259539",
@@ -998,5 +994,9 @@
   "skip:https://news.google.com/rss/articles/CBMiugFBVV95cUxQbl9LV3Z6eEFpLVBKcmR2ZG9YM1lNRmZBTGRQUF9qeVRLVmlaYnc2ZDdkNERRd3VPTTNtQ0dkRGluRG56czhmbUJKaFNYU1NSX1k0VllaY2l3bGxpNTBOOG1acWdmcW90ZW5UMVF1OU11OG1HOXhZaEF3b0lucWZpLUpQaldUMEV0V1BXU3lKUXBndXBBMGtyMzJDLVFzSzZ0MGViYlNhMGJETXFUd1l0Q0s2TmNGeDFHS2c?oc=5",
   "skip:https://news.google.com/rss/articles/CBMilgFBVV95cUxQWmNFOVU3dkJheHFpZnlQZ0d2RVd2dDZFdjBlVldUczQteU5yUUlIeldzeVR6d2lJem9aWkh6RV94Uko1cXpZS2RhV2FGR2E2djNHZGJaNG5BOTFvSnZkLWp5c2tSanlNalhnaTJ6RFlxVWNNMHo1NnpzNGVQWHdJZkw0ZkxkWUNQdnRnZGU1Y1JCQ3NuRGc?oc=5",
   "https://www.rbc.ru/finances/30/10/2026/6ae3ecf9a9dfd110d5fc9bd6",
-  "title:Криптобиржа Binance столкнулась с кибератакой и приостановила операции"
+  "title:Криптобиржа Binance столкнулась с кибератакой и приостановила операции",
+  "skip:https://www.rbc.ru/politics/30/10/2026/6ae4270dba3ca498b3e75338",
+  "skip:https://news.google.com/rss/articles/CBMitwFBVV95cUxPTEZ5UV9XWUJPdkJDanlwdEFEY1V5T3A3UExxWHoxZFBHbnY1RjFsS0JwWk92TFhqYWpLVTFmMk9VUUhiRzZDVDZsdERfTERlUUZ0cWdKNm9MeUE4Mm5MNWZuaXpNLXVOM3BVczNXVndOOGlBZk9PLXBqT3hGLXpsRGVkREl6cTk5RXNWRThVVkNrem5BQkp0SVFReWY3aEktdGItd0c5bTNQUFVsRGZwczRYSUJVUFE?oc=5",
+  "https://tass.ru/mezhdunarodnaya-panorama/28269865",
+  "title:США призвали страны НАТО смягчить риторику в адрес России"
 ]

@@ -1,6 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73215/pohozhe_sozdavshaya_samson_studiya_liquid_swords_obankrotilas",
-  "skip:https://www.ign.com/articles/silent-hill-remake-studio-wants-to-make-physical-games-for-as-long-as-possible",
   "skip:https://www.igromania.ru/news/169307/otmenyonnyij-betmen-bena-affleka-zakanchivalsya-byi-shvatkoj-s-defstroukom-rasskazal-dzho-manganello/",
   "skip:https://www.pcgamer.com/gaming-industry/liquid-swords-developer-of-open-city-crime-sim-samson-has-gone-bankrupt-following-staff-claims-that-they-havent-been-paid-in-two-months/",
   "https://gamemag.ru/news/201719/grand-theft-auto-vi-sweat-system-october-2026",
@@ -998,5 +996,7 @@
   "title:Star Wars Voices And Sounds Made Available To Gamers And Creators By Tech Firm Voicemod",
   "skip:https://stopgame.ru/newsdata/73344/shrayer_ea_zakryla_bioware_chtoby_sosredotochitsya_na_menee_riskovannyh_zvezdnyh_voynah",
   "https://www.playground.ru/star_wars_jedi_3/news/dzhejson_shrajer_podtverdil_chto_ofitsialnyj_anons_star_wars_jedi_3_sostoitsya_v_blizhajshee_vremya-1886334#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Джейсон Шрайер подтвердил, что официальный анонс Star Wars Jedi 3 состоится в ближайшее время"
+  "title:Джейсон Шрайер подтвердил, что официальный анонс Star Wars Jedi 3 состоится в ближайшее время",
+  "https://www.playground.ru/call_of_duty_modern_warfare_4/news/akter_call_of_duty_modern_warfare_4_priznalsya_v_spasenii_ot_trehletnej_nischety_blagodarya_roli_severokorejskogo_soldata-1886347#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Актер Call of Duty Modern Warfare 4 признался в спасении от трехлетней нищеты благодаря роли северокорейского солдата"
 ]

@@ -1,9 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/201744/bf3starwars-bungie",
-  "https://www.playground.ru/gta_6/news/v_gta_6_samyj_bolshoj_i_realistichnyj_otkrytyj_mir_no_dorogi_budut_menshe_chem_v_gta_5-1883194#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:В GTA 6 самый большой и реалистичный открытый мир, но дороги будут меньше, чем в GTA 5",
-  "skip:https://www.kinonews.ru/news_143743/",
-  "skip:https://www.film.ru/news/tom-holland-v-penthause",
   "skip:https://www.film.ru/news/uvolnenie-dena-lima-iz-netflix",
   "skip:https://www.kinonews.ru/news_143741/",
   "https://deadline.com/2026/10/michael-douglas-killed-off-marvel-ant-man-1237168330/",
@@ -998,5 +993,10 @@
   "https://www.ign.com/articles/bethesda-pays-tribute-to-patrick-stewart-for-his-role-in-oblivion-fans-remember-his-role-in-games-like-castlevania",
   "title:Bethesda Pays Tribute to Patrick Stewart for His Role in Oblivion, Fans Remember His Role in Games Like Castlevania",
   "https://kg-portal.ru/comments/135598-majatnik-trejler/",
-  "title:Продюсер Даррен Аронофски и сценарист \"Чёрного лебедя\" устроили настоящий кошмар в трейлере ужастика \"Маятник\""
+  "title:Продюсер Даррен Аронофски и сценарист \"Чёрного лебедя\" устроили настоящий кошмар в трейлере ужастика \"Маятник\"",
+  "skip:https://stopgame.ru/newsdata/73341/simulyator_zhizni_petit_planet_startuet_4_dekabrya",
+  "skip:https://www.ign.com/articles/star-trek-online-players-form-galaxy-class-honor-guard-to-pay-tribute-to-captain-picard-actor-sir-patrick-stewart",
+  "skip:https://www.playground.ru/petit_planet/news/petit_planet_ot_hoyoverse_vyjdet_4_dekabrya_avtory_genshin_impact_gotovyat_uyutnuyu_alternativu_animal_crossing-1886226#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "https://www.igromania.ru/news/169637/sluh-o-zaschite-revyu-kopij-gta-6-votermarkoj-nazvali-lozhnyim-a-meryi-bezopasnosti-rockstar-bezumnyimi/",
+  "title:Слух о защите ревью-копий GTA 6 вотермаркой назвали ложным, а меры безопасности Rockstar — безумными"
 ]

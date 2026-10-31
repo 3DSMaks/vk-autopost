@@ -1,15 +1,4 @@
 [
-  "skip:https://www.rbc.ru/rbcfreenews/6ae20d194aa1df0976d4ae2f",
-  "https://www.kommersant.ru/doc/9063090",
-  "title:Число погибших при крушении поездов в Испании возросло до 64",
-  "skip:https://news.google.com/rss/articles/CBMitAFBVV95cUxPSFFKVlhvVHNVYnBybVFJNEZPNEZ4Y2hRTjJac0NVMkxLb2tBbTVYOGVkblBNOWRHck4xSnV2WGpGV3lzTm5fckZNaldFSVltUERCQ3lIUFo3aDc5MVZkVzdRSklkcXFQbGR5OGlOTjBjaWNISnlFaVlyb3MzbFY5VGJiS2FBbENTdTVCYzlaX0JoTjRoYksyczJwQWdHX1NtcGliQ1pZejZoMEh4bjJsZ2JHdm8?oc=5",
-  "https://www.rbc.ru/rbcfreenews/6ae20577b272553879d89ea4",
-  "title:Эфиопия получила от России истребители Су-35 и зенитные комплексы С-400",
-  "skip:https://www.interfax.ru/business/1125576",
-  "https://www.kommersant.ru/doc/9063128",
-  "title:ЦБ России ужесточает условия и устанавливает лимиты на выдачу автокредитов на срок свыше 7 лет",
-  "skip:https://www.interfax.ru/russia/1125574",
-  "skip:https://www.rbc.ru/politics/28/10/2026/6ae2176f0aec7c2ab63c8e88",
   "https://www.kommersant.ru/doc/9063127",
   "title:Кремль прокомментировал слова Трампа о возможной скорой встрече лидеров России, США и Украины",
   "skip:https://www.france24.com/en/spain-pm-sanchez-gives-speech-on-train-collision",
@@ -998,5 +987,16 @@
   "skip:https://ria.ru/20261031/pvo-2128292850.html",
   "skip:https://ria.ru/20261031/vladimir-2128288784.html",
   "https://www.kommersant.ru/doc/9078196",
-  "title:Силы ПВО сбили летевшие в сторону Москвы беспилотники"
+  "title:Силы ПВО сбили летевшие в сторону Москвы беспилотники",
+  "skip:https://www.rbc.ru/sport/31/10/2026/6ae5a69f87a8dbd418dd4f74",
+  "skip:https://www.interfax.ru/moscow/1126282",
+  "skip:https://ria.ru/20261031/domodedovo-2128297873.html",
+  "skip:https://tass.ru/ekonomika/28274279",
+  "skip:https://ria.ru/20261031/vnukovo-2128293450.html",
+  "https://ria.ru/20261031/rosaviatsiya-2128299158.html",
+  "title:В российских аэропортах ввели временные ограничения на полеты и скорректировали работу рейсов",
+  "skip:https://www.kommersant.ru/doc/9078210",
+  "skip:https://tass.ru/armiya-i-opk/28274307",
+  "https://ria.ru/20261031/mo-2128302518.html",
+  "title:ВС России поразили объекты транспортной инфраструктуры Украины"
 ]

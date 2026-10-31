@@ -1,13 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9062937",
-  "title:Сергей Лавров примет участие во встрече глав МИД G20 в Атланте",
-  "skip:https://tass.ru/proisshestviya/28263107",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28263009",
-  "skip:https://tass.ru/obschestvo/28262985",
-  "skip:https://www.interfax.ru/world/1125526",
-  "skip:https://www.rbc.ru/rbcfreenews/6ae1f37168b4feadca4e4499",
-  "https://tass.ru/mezhdunarodnaya-panorama/28262791",
-  "title:Число погибших в результате железнодорожной катастрофы в центральной Испании возросло до 64",
   "skip:https://www.kommersant.ru/doc/9062974",
   "skip:https://www.kommersant.ru/doc/9062952",
   "skip:https://tass.ru/politika/28263097",
@@ -998,5 +989,14 @@
   "skip:https://www.rbc.ru/politics/31/10/2026/6ae4f9ed92b809aef4d94c8b",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28273497",
   "https://www.interfax.ru/world/1126240",
-  "title:Политический кризис в Польше: протесты и оцепление здания Конституционного трибунала"
+  "title:Политический кризис в Польше: протесты и оцепление здания Конституционного трибунала",
+  "skip:https://www.kommersant.ru/doc/9078121",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28273933",
+  "skip:https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended",
+  "skip:https://www.rbc.ru/politics/31/10/2026/6ae530a792b809aef4d94c95",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28273901",
+  "skip:https://www.kommersant.ru/doc/9078119",
+  "skip:https://ria.ru/20261031/polsha-2128267363.html",
+  "https://ria.ru/20261031/polsha-2128270637.html",
+  "title:Политический кризис и силовой захват Конституционного трибунала в Польше"
 ]

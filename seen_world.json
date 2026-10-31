@@ -1,15 +1,4 @@
 [
-  "skip:https://ria.ru/20261028/aeroport-2127676176.html",
-  "skip:https://tass.ru/ekonomika/28264171",
-  "skip:https://ria.ru/20261028/domodedovo-2127669860.html",
-  "skip:https://www.interfax.ru/russia/1125625",
-  "https://ria.ru/20261028/ogranicheniya-2127676456.html",
-  "title:В аэропортах Москвы, Пензы и Саратова ввели временные ограничения",
-  "skip:https://www.interfax.ru/russia/1125651",
-  "skip:https://tass.ru/proisshestviya/28264343",
-  "skip:https://www.interfax.ru/russia/1125641",
-  "https://ria.ru/20261029/bpla-2127677815.html",
-  "title:Силы ПВО перехватили десятки беспилотников, летевших на Москву",
   "skip:https://www.rbc.ru/politics/28/10/2026/6ae25dbef4e2bb236f6b8b29",
   "skip:https://www.rbc.ru/rbcfreenews/6ae25d8cb786bcf21906c9cc",
   "skip:https://www.interfax.ru/world/1125635",
@@ -998,5 +987,16 @@
   "skip:https://tass.ru/proisshestviya/28274823",
   "skip:https://ria.ru/20261031/pvo-2128344736.html",
   "https://www.kommersant.ru/doc/9078311",
-  "title:Силы ПВО перехватили новые беспилотники на подлете к Москве"
+  "title:Силы ПВО перехватили новые беспилотники на подлете к Москве",
+  "skip:https://www.rbc.ru/politics/31/10/2026/6ae60517c06d23f7a6885f16",
+  "skip:https://www.interfax.ru/russia/1126317",
+  "skip:https://tass.ru/obschestvo/28274871",
+  "skip:https://ria.ru/20261031/fsb-2128348352.html",
+  "https://www.kommersant.ru/doc/9078320",
+  "title:ФСБ получила от США информацию о подготовке теракта в Москве",
+  "skip:https://ria.ru/20261031/germanija-2128348139.html",
+  "skip:https://ria.ru/20261031/berlin-2128347930.html",
+  "skip:https://ria.ru/20261031/germaniya-2128342844.html",
+  "https://www.kommersant.ru/doc/9078315",
+  "title:В Германии начались масштабные молодежные протесты"
 ]

@@ -1,10 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9063127",
-  "title:Кремль прокомментировал слова Трампа о возможной скорой встрече лидеров России, США и Украины",
-  "skip:https://www.france24.com/en/spain-pm-sanchez-gives-speech-on-train-collision",
-  "https://www.rbc.ru/rbcfreenews/6ae21d2314c09959e6e06bc4",
-  "title:В Испании объявлен трехдневный траур после железнодорожной катастрофы",
-  "skip:https://www.interfax.ru/world/1125577",
   "https://ria.ru/20261028/es-2127645870.html",
   "title:Ряд стран ЕС выступили против присвоения Канаде статуса ассоциированного члена",
   "skip:https://www.interfax.ru/russia/1125601",
@@ -998,5 +992,11 @@
   "skip:https://www.kommersant.ru/doc/9078210",
   "skip:https://tass.ru/armiya-i-opk/28274307",
   "https://ria.ru/20261031/mo-2128302518.html",
-  "title:ВС России поразили объекты транспортной инфраструктуры Украины"
+  "title:ВС России поразили объекты транспортной инфраструктуры Украины",
+  "skip:https://tass.ru/ekonomika/28274345",
+  "https://www.kommersant.ru/doc/9078225",
+  "title:«Аэрофлот» корректирует расписание из-за временных ограничений в Шереметьево",
+  "skip:https://www.rbc.ru/rbcfreenews/6ae59032acc9a2663a9678d0",
+  "https://www.kommersant.ru/doc/9078218",
+  "title:Эвакуированные из Алешек жители прибыли в Белоруссию для выезда на Украину"
 ]

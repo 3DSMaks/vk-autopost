@@ -1,7 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169367/razrabotchiki-cyberpunk-2077-anonsirovali-obnovlenie-artom-cyberpunk-edgerunners-2/",
-  "skip:https://www.ign.com/articles/cyberpunk-2077-gets-surprise-official-new-update-announcement-from-cd-projekt",
-  "skip:https://www.pcgamer.com/gaming-industry/moonlighter-studio-wont-host-a-public-playtest-of-its-next-game-due-to-rampant-ai-led-cloning-we-know-were-not-the-only-developers-feeling-this-way/",
   "https://www.playground.ru/elden_ring/news/elden_ring_poluchila_obnovlenie_1_17_2_fromsoftware_ispravila_eksplojt_so_strelami-1883268#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Elden Ring получила обновление 1.17.2 - FromSoftware исправила эксплойт со стрелами",
   "https://kg-portal.ru/comments/135446-postery-filma-dzhumandzhi-otkrytyj-mir/",
@@ -998,5 +995,8 @@
   "https://variety.com/2026/film/news/martin-scorsese-cleopatra-angelina-jolie-ruined-sony-hack-1236935596/",
   "title:Martin Scorsese Says His ‘Cleopatra’ Movie With Angelina Jolie Was ‘Ruined’ by Seth Rogen and the Sony Hack: ‘It Was Gonna Be Really Wild’",
   "https://variety.com/2026/film/festivals/keanu-reeves-hidari-ss-rajamouli-1236935934/",
-  "title:How Keanu Reeves Landed in Stop-Motion Samurai Epic ‘Hidari’ – and Why S.S. Rajamouli Wanted to Know How It Was Made"
+  "title:How Keanu Reeves Landed in Stop-Motion Samurai Epic ‘Hidari’ – and Why S.S. Rajamouli Wanted to Know How It Was Made",
+  "skip:https://www.kinonews.ru/news_143909/",
+  "https://www.film.ru/news/osnovnoy-treyler-seriala-ayda",
+  "title:Основной трейлер сериала Айда"
 ]

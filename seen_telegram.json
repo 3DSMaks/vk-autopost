@@ -1,6 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73219/startovye_sbory_novogo_filma_po_street_fighter_prevysili_50_mln_dollarov",
-  "skip:https://www.playground.ru/misc/news/kosmicheskaya_saga_podozhdyot_film_tajki_vajtiti_zamorozhen_na_neopredelyonnyj_srok-1882899#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://gamemag.ru/news/201713/final-fantasy-resonance-famitsu-review-october-2026",
   "video:2026-10-19:https://gamemag.ru/news/201713/final-fantasy-resonance-famitsu-review-october-2026",
   "title:Появилась первая оценка Final Fantasy Resonance — игру Square Enix хвалят, на прохождение уйдет около 30 часов",
@@ -998,5 +996,7 @@
   "title:Bloomberg: EA пожертвовала BioWare ради Star Wars: Battlefront III",
   "skip:https://www.kinonews.ru/news_143900/",
   "https://variety.com/2026/film/festivals/keanu-reeves-hidari-ss-rajamouli-1236935934/",
-  "title:How Keanu Reeves Landed in Stop-Motion Samurai Epic ‘Hidari’ – and Why S.S. Rajamouli Wanted to Know How It Was Made"
+  "title:How Keanu Reeves Landed in Stop-Motion Samurai Epic ‘Hidari’ – and Why S.S. Rajamouli Wanted to Know How It Was Made",
+  "https://www.kinonews.ru/news_143909/",
+  "title:Мартин Скорсезе объяснил хакерами отмену фильма о Клеопатре с Анджелиной Джоли"
 ]

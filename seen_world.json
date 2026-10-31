@@ -1,8 +1,4 @@
 [
-  "skip:https://www.interfax.ru/business/1125699",
-  "skip:https://www.rbc.ru/technology_and_media/29/10/2026/6ae2de7cd019f528230d3999",
-  "https://www.rbc.ru/rbcfreenews/6ae2e57a5317b954bbe060df",
-  "title:«Яндекс» восстановил работу сервисов после атак на дата-центры и отозвал прогноз на 2026 год",
   "skip:https://www.interfax.ru/business/1125714",
   "https://www.kommersant.ru/doc/9063410",
   "title:Курс китайской юаня на Московской бирже опустился ниже 12 рублей",
@@ -998,5 +994,9 @@
   "skip:https://www.theguardian.com/uk-news/2026/oct/31/protest-against-palestine-action-ban-outside-us-embassy-in-london",
   "skip:https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeUlKZ0JzU2NIcmNFckRsU1l6akpveTNUNHhUbnNyMHhkOUxXbWk0RDJWVnQ0Ti1MQVI0QnhSQnpPZmUyWVNUQktDVGxVbmFMaERuY0tlVDIyN0xYMkpxbHkteUhEVnpCNlAxYVY2SXBEWnFYREJzYWFLTThWOXYxbkNzRjk2OEo3UmtvSnBMRDNDc3BDbW04ak9PUDRWanlpcFNFdG1YWjdSdw?oc=5",
   "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban?traffic_source=rss",
-  "title:В Лондоне задержали около 140 участников протеста в поддержку Palestine Action"
+  "title:В Лондоне задержали около 140 участников протеста в поддержку Palestine Action",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28275221",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28275155",
+  "https://ria.ru/20261031/iran-2128379122.html",
+  "title:В Иране прокомментировали возможную реакцию на действия США"
 ]

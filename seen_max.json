@@ -1,9 +1,4 @@
 [
-  "https://www.playground.ru/elden_ring/news/elden_ring_poluchila_obnovlenie_1_17_2_fromsoftware_ispravila_eksplojt_so_strelami-1883268#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Elden Ring получила обновление 1.17.2 - FromSoftware исправила эксплойт со стрелами",
-  "https://kg-portal.ru/comments/135446-postery-filma-dzhumandzhi-otkrytyj-mir/",
-  "title:Полное равенство голов на постере приключенческого экшена \"Джуманджи: Открытый мир\"",
-  "skip:https://www.playground.ru/cyberpunk_2077/news/obnovlenie_2_5_dlya_cyberpunk_2077_dobavit_kak_minimum_strelbu_s_dvuh_ruk_i_kastomizatsiyu_implantov-1883284#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://stopgame.ru/newsdata/73233/22_oktyabrya_cyberpunk_2077_poluchit_apdeyt_25_v_chest_vyhoda_vtorogo_sezona_edgerunners",
   "skip:https://stopgame.ru/newsdata/73229/obnovleno_v_noyabre_biblioteku_ps_plus_pokinut_7_igr_vklyuchaya_rdr_ii_i_gta_v",
   "skip:https://www.ign.com/articles/even-sexyy-red-is-confused-why-storm-doesnt-have-more-legendary-skins",
@@ -998,5 +993,10 @@
   "title:How Keanu Reeves Landed in Stop-Motion Samurai Epic ‘Hidari’ – and Why S.S. Rajamouli Wanted to Know How It Was Made",
   "skip:https://www.kinonews.ru/news_143909/",
   "https://www.film.ru/news/osnovnoy-treyler-seriala-ayda",
-  "title:Основной трейлер сериала Айда"
+  "title:Основной трейлер сериала Айда",
+  "skip:https://www.igromania.ru/news/169644/dzhejson-shrajer-podtverdil-skoryij-anons-star-wars-jedi-3-i-500-milionnyij-byudzhet-gears-of-war-e-day/",
+  "skip:https://gamemag.ru/news/201914/djeyson-shrayer-electronic-arts-skoro-anonsiruet-tretyu-star-wars-jedi-razrabotka-star-wars",
+  "skip:https://gamemag.ru/news/201910/od-knock-poster-featuring-sophia-lillis",
+  "https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/nintendo_pokazala_novye_mehaniki_i_osobennosti_remejka_zelda_ocarina_of_time_v_svezhem_trejlere-1886473#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Nintendo показала новые механики и особенности ремейка Zelda: Ocarina of Time в свежем трейлере"
 ]

@@ -1,7 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169389/sozdateli-crimson-desert-podgotovili-obzor-novinok-dlc-puteshestvie-v-neizvedannoe/",
-  "skip:https://www.playground.ru/gta_6/news/fanaty_gta_6_zapodozrili_rockstar_games_v_syomkah_dorogogo_igrovogo_trejlera_v_majami-1883450#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.ign.com/articles/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and-expensive-live-action-trailer-in-miami",
   "skip:https://www.ign.com/articles/fight-night-eas-beloved-but-long-dormant-boxing-sim-franchise-is-coming-back",
   "https://www.igromania.ru/news/169394/dlya-the-wolf-among-us-remastered-predstavili-syuzhetnyij-trejler-i-skidochnyij-plan/",
   "title:Для The Wolf Among Us Remastered представили сюжетный трейлер и скидочный план",
@@ -998,5 +995,8 @@
   "title:В CDPR объяснили, почему цена на пропуск с DLC для «Ведьмака 3: Дикая Охота»﻿ была такой щедрой",
   "skip:https://variety.com/2026/film/news/ranbir-kapoor-yash-gold-house-diwali-event-1236935927/",
   "https://variety.com/2026/film/festivals/pink-film-veteran-zeze-takahisa-original-stories-1236935968/",
-  "title:Pink Film Veteran Zeze Takahisa Champions Original Stories at Tokyo Masterclass"
+  "title:Pink Film Veteran Zeze Takahisa Champions Original Stories at Tokyo Masterclass",
+  "skip:https://variety.com/2026/film/markets-festivals/japan-new-2027-anime-award-spotlight-creators-industry-leaders-1236935947/",
+  "https://variety.com/2026/film/awards/georgia-guria-best-film-asia-pacific-screen-awards-1236935931/",
+  "title:Georgia’s ‘Guria’ Wins Best Film at Asia Pacific Screen Awards as Thailand’s Sompot Chidgasornpongse Takes Director Prize"
 ]

@@ -1,7 +1,4 @@
 [
-  "title:Трейлер Лучших панкейков в городе",
-  "skip:https://www.playground.ru/cyberpunk_2077/news/bloger_raskryl_podrobnosti_obnovleniya_2_5_dlya_cyberpunk_2077_dvojnye_pistolety_novye_zadaniya_i_mody_na_konsolyah-1883325#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.pcgamer.com/games/rpg/of-course-a-new-edgerunners-series-means-a-new-cyberpunk-2077-patch/",
   "skip:https://stopgame.ru/newsdata/73232/lishnego_ne_potracheno_pyaterochka_kafe_razygraet_konsoli_i_smartfony_za_pokupku_gotovoy_edy",
   "https://www.igromania.ru/news/169370/modder-dobavil-v-fallout-new-vegas-polnotsennuyu-trassirovku-puti/",
   "title:Моддер добавил в Fallout: New Vegas полноценную трассировку пути",
@@ -998,5 +995,8 @@
   "title:‘Beyond The Gates’ Wins Four Daytime Emmys In Its First Year Of Eligibility",
   "skip:https://www.igromania.ru/news/169652/prihodite-eschyo-igryi-little-nightmares-sobrali-25-millionnuyu-auditoriyu/",
   "https://www.playground.ru/project_century/news/stranger_than_heaven_stanet_samoj_tehnologichnoj_igroj_rgg_studio_blagodarya_otkazu_ot_konsolej_proshlogo_pokoleniya-1886529#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Stranger Than Heaven станет самой технологичной игрой RGG Studio благодаря отказу от консолей прошлого поколения"
+  "title:Stranger Than Heaven станет самой технологичной игрой RGG Studio благодаря отказу от консолей прошлого поколения",
+  "skip:https://deadline.com/2026/10/dubai-faisal-hashmi-spine-drop-pictures-horror-slate-1237210593/",
+  "https://deadline.com/2026/10/the-celebrity-traitors-finale-draws-record-rating-1237210586/",
+  "title:‘The Celebrity Traitors’ Finale Draws Record Audience To BBC"
 ]

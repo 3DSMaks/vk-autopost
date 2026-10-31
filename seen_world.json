@@ -1,11 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9062976",
-  "title:SK Hynix выплатит акционерам $75 млрд после рекордной прибыли",
-  "skip:https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkhkVlMyeHNjUXZ4YXlWMVNFVXZMWkwzRW9qQUlxWkhVZHJiTlhRLTFIbjJzOUVDOE1QQ09acFBOM0xPOUstY1NMVXV5RlYzaVl5cVhvVE9MZ3lpQk44RFhfSjR2eEVFYm1RekhzVzBFMVI0TWxjM2Znbi1rSkhxVndVenhQdWpJdGgtNG1LQTh2dUdWbmQ4SEwwWmtvMEVEcGh2SUljSkpBYWloNnVmcWhiOTVzTFl5dEE?oc=5",
-  "skip:https://www.interfax.ru/world/1125535",
-  "skip:https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-  "skip:https://news.google.com/rss/articles/CBMitAFBVV95cUxQNng4MnVNRnlIRFlsX19qMzVkeU5oSG1wWnlzcGQwUDVxQ1JBLXlyZWgwTUtiMGx0S25QaXp0R3poTFJmZ2hMR1k2cmk3U3RHU19BSWt5dTYtTUxlZm9ONzhMU3lLbWF3RWNDMFFwNXNnVTdFaDhtbURrYkRnbkJuRU9vR0c1QkkwbWdYOEdYNll5Si1yVGhoVDgxZEE0azluRi15ZWdZQ1BENDZGOG5mQWtjYXQ?oc=5",
-  "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
   "title:В Израиле подводят итоги парламентских выборов без явного победителя",
   "skip:https://www.rbc.ru/rbcfreenews/6ae20c7cc79c544603b8a2c2",
   "skip:https://www.rbc.ru/photoreport/28/10/2026/6ae1d4149a7947b17c1d5fc4",
@@ -998,5 +991,12 @@
   "skip:https://www.interfax.ru/russia/1126264",
   "skip:https://www.rbc.ru/politics/31/10/2026/6ae578582455cc4b83c18bea",
   "https://www.kommersant.ru/doc/9078129",
-  "title:Российские военные нанесли удар по ТЭЦ-6 в Киеве"
+  "title:Российские военные нанесли удар по ТЭЦ-6 в Киеве",
+  "skip:https://www.interfax.ru/world/1126274",
+  "skip:https://www.rbc.ru/photoreport/31/10/2026/6ae5772f18a3b9290e3844ac",
+  "https://tass.ru/mezhdunarodnaya-panorama/28274191",
+  "title:Президент Польши заявил о силовом захвате Конституционного трибунала и объявил срочные консультации",
+  "skip:https://www.rbc.ru/politics/31/10/2026/6ae5909cc06d23f7a6885edd",
+  "https://tass.ru/mezhdunarodnaya-panorama/28274193",
+  "title:Украина раскритиковала сроки поставки американских ракет для систем Patriot"
 ]

@@ -1,15 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9062974",
-  "skip:https://www.kommersant.ru/doc/9062952",
-  "skip:https://tass.ru/politika/28263097",
-  "skip:https://tass.ru/politika/28263093",
-  "skip:https://www.rbc.ru/politics/28/10/2026/6ae1fcb472c59aa076772d64",
-  "skip:https://tass.ru/politika/28263073",
-  "skip:https://ria.ru/20261028/zelenskiy--2127581064.html",
-  "skip:https://www.interfax.ru/russia/1125522",
-  "https://ria.ru/20261028/kreml--2127591750.html",
-  "title:Москва и Киев прокомментировали подготовку к трехсторонним переговорам по Украине",
-  "skip:https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5",
   "https://www.kommersant.ru/doc/9062976",
   "title:SK Hynix выплатит акционерам $75 млрд после рекордной прибыли",
   "skip:https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkhkVlMyeHNjUXZ4YXlWMVNFVXZMWkwzRW9qQUlxWkhVZHJiTlhRLTFIbjJzOUVDOE1QQ09acFBOM0xPOUstY1NMVXV5RlYzaVl5cVhvVE9MZ3lpQk44RFhfSjR2eEVFYm1RekhzVzBFMVI0TWxjM2Znbi1rSkhxVndVenhQdWpJdGgtNG1LQTh2dUdWbmQ4SEwwWmtvMEVEcGh2SUljSkpBYWloNnVmcWhiOTVzTFl5dEE?oc=5",
@@ -998,5 +987,16 @@
   "skip:https://www.kommersant.ru/doc/9078119",
   "skip:https://ria.ru/20261031/polsha-2128267363.html",
   "https://ria.ru/20261031/polsha-2128270637.html",
-  "title:Политический кризис и силовой захват Конституционного трибунала в Польше"
+  "title:Политический кризис и силовой захват Конституционного трибунала в Польше",
+  "skip:https://www.kommersant.ru/doc/9078133",
+  "skip:https://www.interfax.ru/russia/1126267",
+  "skip:https://ria.ru/20261031/pvo-2128276141.html",
+  "skip:https://tass.ru/armiya-i-opk/28274041",
+  "https://www.rbc.ru/rbcfreenews/6ae587353d8c4ded5ced4dce",
+  "title:Минобороны РФ сообщило о перехвате 433 украинских беспилотников за ночь",
+  "skip:https://www.rbc.ru/rbcfreenews/6ae57ae3acc9a2663a9678aa",
+  "skip:https://www.interfax.ru/russia/1126264",
+  "skip:https://www.rbc.ru/politics/31/10/2026/6ae578582455cc4b83c18bea",
+  "https://www.kommersant.ru/doc/9078129",
+  "title:Российские военные нанесли удар по ТЭЦ-6 в Киеве"
 ]

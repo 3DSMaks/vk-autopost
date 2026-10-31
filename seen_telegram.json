@@ -1,8 +1,4 @@
 [
-  "title:Обновление Deadlock от 17.10.2026: в игру добавлена Виолетта - Offstage",
-  "card:2026-10-19:https://www.offstage.ru/industry/news/obnovlenie-deadlock-ot-17-10-2026-v-igru-dobavlena-violetta",
-  "skip:https://www.kinonews.ru/news_143728/",
-  "skip:https://deadline.com/2026/10/ted-lasso-seasons-5-6-jason-sudeikis-comments-1237167324/",
   "skip:https://deadline.com/2026/10/yeon-sang-ho-paradise-lost-cj-enm-well-go-usa-hawaii-1237167275/",
   "https://www.kinonews.ru/news_143717/",
   "title:Питер Джексон провел параллель между Джокером и Голлумом",
@@ -998,5 +994,9 @@
   "skip:https://gamemag.ru/news/201914/djeyson-shrayer-electronic-arts-skoro-anonsiruet-tretyu-star-wars-jedi-razrabotka-star-wars",
   "skip:https://stopgame.ru/newsdata/73345/dzhon_romero_nashel_izdatelya_dlya_svoego_novogo_shutera",
   "https://www.playground.ru/god_of_war/news/vyshel_pervyj_reliz_nativnogo_pk_porta_god_of_war_2005_goda_60_fps_ultrawide_i_upravlenie_myshyu-1886481#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Вышел первый релиз нативного ПК-порта God of War 2005 года - 60 FPS, ultrawide и управление мышью"
+  "title:Вышел первый релиз нативного ПК-порта God of War 2005 года - 60 FPS, ultrawide и управление мышью",
+  "skip:https://www.playground.ru/doom_the_dark_ages/news/razrabotchiki_doom_i_wolfenstein_stali_tesnee_sotrudnichat_posle_massovyh_uvolnenij_v_xbox-1886456#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/xboxs-doom-wolfenstein-developers-working-more-closely-than-ever-following-xbox-reset-layoffs",
+  "https://gamemag.ru/news/201912/bloomberg-ea-pojertvovala-bioware-radi-star-wars-battlefront-iii",
+  "title:Bloomberg: EA пожертвовала BioWare ради Star Wars: Battlefront III"
 ]

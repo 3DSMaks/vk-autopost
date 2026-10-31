@@ -1,15 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMilwFBVV95cUxNMDAxY2NBSVRWbGNQUFlwWWVORTYwb05JQmhTdFRSOXJadmJNNU05cjEyOVRmbUxPTXoxdTRzM05kM25lUUJIZ3N4aTZfTEduWDltYlBSZzE2ZkFRVEY2b2tmWTdWMjJTZXhaRXFJMm9pcE0tdU8tRkZIdTdnM2IzZzBIS3pGU1ZIVDRDMHNGbVFqWXEzWmxN?oc=5",
-  "https://www.rbc.ru/society/29/10/2026/6ae2a3016496c8e48808db78",
-  "title:В США произошел пожар на ядерном объекте в Южной Каролине с радиационным выбросом",
-  "skip:https://tass.ru/obschestvo/28265319",
-  "skip:https://www.kommersant.ru/doc/9063382",
-  "skip:https://tass.ru/proisshestviya/28265223",
-  "skip:https://www.rbc.ru/politics/29/10/2026/6ae2e67f7673df5f962b5be4",
-  "skip:https://www.interfax.ru/russia/1125710",
-  "skip:https://ria.ru/20261029/pvo-2127721930.html",
-  "https://ria.ru/20261029/bespilotniki-2127732387.html",
-  "title:Минобороны сообщило об уничтожении более 1200 украинских беспилотников за ночь",
   "skip:https://www.kommersant.ru/doc/9063379",
   "skip:https://www.kommersant.ru/doc/9063366",
   "skip:https://news.google.com/rss/articles/CBMitAFBVV95cUxQS05TT1U4b1Z2S1J4YV9sMDB4ZHp4UFRsRnZOWmJ1MGxvb2dlNWwybDBjQVlfQ3VLWmkxdHJZd3hNVGFRVmFZVF9JR1prLXZZeWRzMzA0VFNPTWdoQzdQTkRPM1BobnRRTDRvMEdQM1FldXZnWExNZ2FVbHlLYmJTdDUwbU1saThXaXB3STRxdzJGS3ZJVS1jcWlYaWZwSjd5cTlTZi1taWZTZnNFcmlrcVNYc0g?oc=5",
@@ -998,5 +987,16 @@
   "title:Госсекретарь США Марко Рубио подвел итоги встречи глав МИД G20 в Атланте и высказался по ключевым международным темам",
   "skip:https://news.google.com/rss/articles/CBMiygFBVV95cUxNLVJNVjgwa3JjQjJTZV9qaEtOR0hPeUVlUU5fVmg1NmpMcmtWR2QycWNERWphd21IckhyYnNQMllfLUtrSDhCV1p4cEV4RWhmYURFbW91dVJ0YzVUMUJPNFctZG5FX1ZSdS1KemxhbWdmRTRSX2R0TEZMbm5tdVVDSDNUbnBreFJrT0tlQXE1VzVmSllTdVZoVVpqOXV1WXh3ZGpaNmZqWmdlS010Zi1NcWxQai1WU2k0dE96SDVuUld0WkxhSm9VSlFR?oc=5",
   "https://tass.ru/obschestvo/28274999",
-  "title:В Нигерии сообщили о выявлении двух случаев с подозрением на лихорадку Эбола"
+  "title:В Нигерии сообщили о выявлении двух случаев с подозрением на лихорадку Эбола",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28275167",
+  "skip:https://www.kommersant.ru/doc/9078341",
+  "skip:https://www.interfax.ru/world/1126339",
+  "skip:https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGZ3VDBMUUphN0oxbExCLXh4eUdKSG5tMTVXMUN6bDVuN0pWSkFVUTFYN2Z2Qm9jcTh3OVFmVWR1ZzZXMHVXUjV2LXdqUndkc2piSDlNTHRTTzRRYzc4V0VyVmUtbTNadFdjMDhHSHRvclBIdlRENUp1VnBRTXhiSjRNMy1xZFFrRWJRTktCWEVIazd1aTV6eXRQelVKQnk1TUpmTw?oc=5",
+  "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france",
+  "title:Во Франции и Германии проходят массовые протесты и столкновения с полицией",
+  "skip:https://www.rbc.ru/rbcfreenews/6ae5fc76848fd36c464c71d4",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28275053",
+  "skip:https://ria.ru/20261031/vstrecha-2128362133.html",
+  "https://www.rbc.ru/politics/31/10/2026/6ae6307ab81721b52af75f29",
+  "title:Виктор Орбан и Александр Вучич встретились в Сербии и заявили о планах вернуться в политику"
 ]

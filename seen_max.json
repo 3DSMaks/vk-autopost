@@ -1,9 +1,4 @@
 [
-  "title:Ради Тома Холланда Sony готова снять фильм по оригинальному сценарию автора \"Железного человека 3\"",
-  "skip:https://gamemag.ru/news/201753/xbox-manager-adored-ai-openly-deletes-social-media-profile",
-  "skip:https://www.igromania.ru/news/169364/biznes-strateg-xbox-udalil-akkaunt-v-sotssetyah-posle-yarostnoj-rechi-ob-ii-v-igrovoj-industrii/",
-  "https://www.playground.ru/cyberpunk_2077/news/cd_projekt_red_prigotovila_syurpriz_fanatam_dlya_cyberpunk_2077_anonsirovali_obnovlenie_2_5_po_motivam_edgerunners_2-1883262#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:CD Projekt RED приготовила сюрприз фанатам - для Cyberpunk 2077 анонсировали обновление 2.5 по мотивам Edgerunners 2",
   "https://www.film.ru/news/finalnyy-treyler-rozhdeniya-imperii",
   "title:Финальный трейлер Рождения империи",
   "skip:https://www.igromania.ru/news/169367/razrabotchiki-cyberpunk-2077-anonsirovali-obnovlenie-artom-cyberpunk-edgerunners-2/",
@@ -998,5 +993,10 @@
   "https://variety.com/2026/film/news/dune-return-theaters-imax-dune-3-sneak-peek-1236935288/",
   "title:‘Dune’ Movies Returning to Imax Theaters With ‘Dune 3’ Sneak Peek",
   "https://deadline.com/2026/10/rules-of-prey-series-regular-cast-peter-outerbridge-1237209131/",
-  "title:‘Rules Of Prey’ Rounds Out Series Regular Cast With Peter Outerbridge, Cody Ray Thompson & David Klein"
+  "title:‘Rules Of Prey’ Rounds Out Series Regular Cast With Peter Outerbridge, Cody Ray Thompson & David Klein",
+  "skip:https://variety.com/2026/film/news/selma-blair-apologizes-plane-incident-1236935645/",
+  "skip:https://kg-portal.ru/comments/135599-tak-sebe-pohozhdenija-kliffa-buta-imaxkinoteatry-ne-hotjat-brat-film-devida-finchera-s-bredom-pittom/",
+  "skip:https://www.kinonews.ru/news_143900/",
+  "https://variety.com/2026/film/news/martin-scorsese-cleopatra-angelina-jolie-ruined-sony-hack-1236935596/",
+  "title:Martin Scorsese Says His ‘Cleopatra’ Movie With Angelina Jolie Was ‘Ruined’ by Seth Rogen and the Sony Hack: ‘It Was Gonna Be Really Wild’"
 ]

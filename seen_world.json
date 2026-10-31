@@ -1,14 +1,4 @@
 [
-  "title:В Израиле подводят итоги парламентских выборов без явного победителя",
-  "skip:https://www.rbc.ru/rbcfreenews/6ae20c7cc79c544603b8a2c2",
-  "skip:https://www.rbc.ru/photoreport/28/10/2026/6ae1d4149a7947b17c1d5fc4",
-  "skip:https://ria.ru/20261028/ispaniya-2127617334.html",
-  "skip:https://tass.ru/proisshestviya/28263335",
-  "skip:https://www.france24.com/en/video/20261028-replay-spanish-transport-minister-gives-press-conference-on-train-crash",
-  "skip:https://www.france24.com/en/video/20261028-spain-dozens-killed-after-one-high-speed-train-slams-into-another",
-  "skip:https://www.france24.com/en/video/20261028-spain-at-least-64-dead-in-high-speed-train-crash",
-  "skip:https://www.theguardian.com/world/2026/oct/28/analysis-fatal-collision-doubt-over-spain-high-speed-rail",
-  "https://www.rbc.ru/society/28/10/2026/6ae207e8b24df678d2fdadfc",
   "title:Число жертв столкновения поездов в центральной Испании возросло до 68 человек",
   "skip:https://ria.ru/20261028/kasabieva-2127600108.html",
   "skip:https://www.kommersant.ru/doc/9063007",
@@ -998,5 +988,15 @@
   "title:Президент Польши заявил о силовом захвате Конституционного трибунала и объявил срочные консультации",
   "skip:https://www.rbc.ru/politics/31/10/2026/6ae5909cc06d23f7a6885edd",
   "https://tass.ru/mezhdunarodnaya-panorama/28274193",
-  "title:Украина раскритиковала сроки поставки американских ракет для систем Patriot"
+  "title:Украина раскритиковала сроки поставки американских ракет для систем Patriot",
+  "skip:https://www.interfax.ru/russia/1126273",
+  "skip:https://tass.ru/proisshestviya/28274135",
+  "skip:https://ria.ru/20261031/bryansk-2128286081.html",
+  "skip:https://ria.ru/20261031/bryansk-2128285403.html",
+  "https://www.kommersant.ru/doc/9078160",
+  "title:Два человека погибли и пять пострадали при атаке дрона в Брянской области",
+  "skip:https://ria.ru/20261031/kalifornija-2128289590.html",
+  "skip:https://ria.ru/20261031/strelba-2128282205.html",
+  "https://tass.ru/proisshestviya/28274217",
+  "title:Один человек погиб при стрельбе в торговом центре в Калифорнии"
 ]

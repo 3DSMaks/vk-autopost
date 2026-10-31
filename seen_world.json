@@ -1,14 +1,4 @@
 [
-  "title:США направили письмо Ирану для возобновления переговоров",
-  "skip:https://www.interfax.ru/russia/1125642",
-  "https://www.kommersant.ru/doc/9063250",
-  "title:В Москве и области отражена массированная атака беспилотников, в аэропортах вводились ограничения",
-  "skip:https://ria.ru/20261029/tramp-2127682825.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28264381",
-  "skip:https://news.google.com/rss/articles/CBMivwFBVV95cUxNX1NELWo0YlVqWmdjbkZpYU5zTHB3NlNMQ19zek1rZ1FyLU9ta0hoZ2NNc1kzSlJBSWFDejRPVThqck5BWlUxU1JGMkFZOGRmQjlkMFNJQnBPTjIzTUc3SDVJeThmT3lMdU8ycVpWc2huanE4alJXa3ZSal9vNUtVWnZURkJlNHhCbUE4d18xZ0NwN19kbEZpYUEyaWk1V09oU2NsWkZuTXV0OVRxNEg2MzB6SFIxblFtZTQzWHN5QQ?oc=5",
-  "https://www.interfax.ru/world/1125652",
-  "title:Экс-кандидат в президенты Бразилии Флавиу Болсонару объявил себя победителем выборов после отъезда в США",
-  "skip:https://ria.ru/20261029/aeroporty-2127685927.html",
   "skip:https://tass.ru/ekonomika/28264423",
   "skip:https://ria.ru/20261029/aeroporty-2127685784.html",
   "skip:https://tass.ru/ekonomika/28264419",
@@ -998,5 +988,15 @@
   "skip:https://www.interfax.ru/russia/1126313",
   "skip:https://ria.ru/20261031/sudno-2128344238.html",
   "https://www.rbc.ru/rbcfreenews/6ae600ced8edc07a79bde7e1",
-  "title:Минобороны РФ заявило об ударе по сухогрузу с грузом для ВСУ в Черном море"
+  "title:Минобороны РФ заявило об ударе по сухогрузу с грузом для ВСУ в Черном море",
+  "skip:https://news.google.com/rss/articles/CBMimgFBVV95cUxQV05QRmVQbjJDUTZkNzRFaTA5VVp5RE9Bd2ctMkxITEVaZnNLZVVzdkx5aHBUUFZYOTJCb19YRFJRM2I1RW5QS0JJUmowaUtsVjlnaTExaWJDM2NsLVJINlJQZ0JHdlUyb05LS0kyRGdRMHlyVWdYRHFJOTNlbFRZc0plbkc2SE1nOHB1SklPVVNUVnhFY3lYdWtR?oc=5",
+  "skip:https://www.rbc.ru/rbcfreenews/6ae6014392b809aef4d94d21",
+  "https://www.kommersant.ru/doc/9078329",
+  "title:Криптобиржа Binance возместила 90% средств после хакерской атаки",
+  "skip:https://tass.ru/obschestvo/28274901",
+  "skip:https://www.rbc.ru/politics/31/10/2026/6ae607a387a8dbd418dd5029",
+  "skip:https://ria.ru/20261031/lantratova-2128349432.html",
+  "skip:https://www.interfax.ru/russia/1126319",
+  "https://www.kommersant.ru/doc/9078326",
+  "title:Москва и Киев договорились о проведении регулярных гуманитарных миссий"
 ]

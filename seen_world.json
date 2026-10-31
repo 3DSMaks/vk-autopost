@@ -1,15 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGg0QUZLRkZQUmg1ei1BVWZCUEZkcFdueUIyZDJFX3ljN09yRjUzSEE5V0JWVVpRaGRHdHNDaHAtNkRlNXZfWElQM3QxM0lpZTM1UHJYQWhKRmQ2X3JJNzAxRy1lcGIyalhUTEFhRGxyOTUxeU04S2U1X1RSWWUwcldiQndWUTZtYlB0SGZVTFM4eV9HZVV4VGdsRDAzc3h6TWhiZmVDNVF0dkRGMXI1eFhMekQ0TTU2?oc=5",
-  "skip:https://www.kommersant.ru/doc/9063184",
-  "skip:https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUG5iWVZIc0l0UF9OcVhkbnIyenJRX1J1OV8yMWQ4c0VsYlpZOXRCQUVkYzRxU25ZcVBrdTdZd0V1SGEteUpwU2Q0a3VOX2hkaDV1aUhnT1owMWV4VktZY1FHQkxNWHRWZnZlR0pkak9mQTZsdHgwLWlrMm1TdkNDNW00VS1GRFliWTZXcm1sQ1BYSGVONGVXMGNQdEVvNFFvTkN4QUQtQi15SW5VSnJEb1JwYjVJRmVZd0NFbG1tcFdDbXc?oc=5",
-  "https://tass.ru/ekonomika/28264061",
-  "title:Apple представила первый ноутбук MacBook Pro с сенсорным экраном",
-  "skip:https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYnFKUDFDOS1hQ2VWYzRDVXdvOHJ6dkhDeG5ITElPUzc5SkdZN2FxMXhVeFJpb2JEZlJZN0ZzdUVIQ3VuUC0xeEhrVTZza2RNNHpTQmx3bkh0VjBwSE1sWFdTdXV5dDdibmtnOXBRZWtoMzMzUnRSOTQzclNHRnc2UVlHQlJncE1NYmFFMFlwZGt4RjU3YmJiS0VibUNpUXV0M3M3czRsbW5HQnM?oc=5",
-  "https://news.google.com/rss/articles/CBMijgFBVV95cUxPXzloNlJFcFRGdXY5azdsVm1XVm1IV0VYem1YcU5jb2VvTl9XaUxwbEJxajZ5dDZ0SUdMblR1T2RreEFKZkdKNnQwMjRiNVRpNnJuc0xsV1dEQ0E5OFdPLW1vS1BZWEwxcXRYb3VnQlhNUlV5Nk8wSmxhWUZfOWE4XzNVbm1hbzZ3RFZGRzZB?oc=5",
-  "title:Сеть ресторанов Wendy's получила предложение о выкупе за $1,4 млрд",
-  "skip:https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss",
-  "skip:https://www.rbc.ru/rbcfreenews/6ae245f684fc27f849d2bd0b",
-  "skip:https://www.aljazeera.com/news/2026/10/28/putin-tells-african-leaders-moscow-will-not-pursue-neo-colonialism?traffic_source=rss",
   "skip:https://ria.ru/20261028/putin-2127661512.html",
   "skip:https://ria.ru/20261028/putin-2127661029.html",
   "skip:https://ria.ru/20261028/putin-2127660455.html",
@@ -998,5 +987,16 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28274461",
   "skip:https://ria.ru/20261031/zasedanie-2128312425.html",
   "https://tass.ru/proisshestviya/28274507",
-  "title:Политический кризис и протесты в Польше вокруг Конституционного трибунала"
+  "title:Политический кризис и протесты в Польше вокруг Конституционного трибунала",
+  "skip:https://www.interfax.ru/moscow/1126302",
+  "skip:https://ria.ru/20261031/pvo-2128326879.html",
+  "skip:https://tass.ru/proisshestviya/28274531",
+  "https://www.kommersant.ru/doc/9078267",
+  "title:Силы ПВО перехватили новые беспилотники, летевшие в сторону Москвы",
+  "skip:https://www.kommersant.ru/doc/9078256",
+  "skip:https://ria.ru/20261031/dizel-2128323125.html",
+  "skip:https://www.interfax.ru/business/1126298",
+  "skip:https://tass.ru/ekonomika/28274485",
+  "https://www.rbc.ru/rbcfreenews/6ae5cd2787a8dbd418dd4fee",
+  "title:Правительство РФ продлило запрет на экспорт дизельного топлива до конца января 2027 года"
 ]

@@ -1,11 +1,4 @@
 [
-  "title:Умерла американская правозащитница и профсоюзный лидер Долорес Уэрта",
-  "skip:https://ria.ru/20261028/putin-2127648966.html",
-  "skip:https://tass.ru/obschestvo/28263849",
-  "https://www.sport-interfax.ru/1125615",
-  "title:Владимир Путин поздравил российскую борчиху Алину Касабиеву с победой на чемпионате мира",
-  "skip:https://www.kommersant.ru/doc/9063206",
-  "skip:https://www.interfax.ru/business/1125617",
   "skip:https://tass.ru/ekonomika/28263981",
   "https://www.rbc.ru/quote/28/10/2026/6adf00f19a79476b17a58ccf",
   "title:ФРС США сохранила ключевую процентную ставку на уровне 3,75–4% годовых",
@@ -998,5 +991,12 @@
   "skip:https://www.interfax.ru/moscow/1126290",
   "skip:https://ria.ru/20261031/pvo-2128310788.html",
   "https://www.rbc.ru/rbcfreenews/6ae5bb3092b809aef4d94cea",
-  "title:Силы ПВО перехватили беспилотники, летевшие в сторону Москвы"
+  "title:Силы ПВО перехватили беспилотники, летевшие в сторону Москвы",
+  "skip:https://ria.ru/20261031/twz-2128309222.html",
+  "https://www.kommersant.ru/doc/9078241",
+  "title:У резиденции Дональда Трампа во Флориде развернули системы ПВО",
+  "skip:https://ria.ru/20261031/merkel--2128311927.html",
+  "skip:https://www.kommersant.ru/doc/9078234",
+  "https://tass.ru/mezhdunarodnaya-panorama/28274417",
+  "title:Ангела Меркель предложила избрать женщину следующим президентом Германии"
 ]

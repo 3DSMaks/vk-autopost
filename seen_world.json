@@ -1,10 +1,4 @@
 [
-  "skip:https://www.rbc.ru/society/29/10/2026/6ae2f689c3d5e49e664d10d1",
-  "skip:https://www.kommersant.ru/doc/9063430",
-  "skip:https://ria.ru/20261029/ispaniya-2127739815.html",
-  "https://www.rbc.ru/rbcfreenews/6ae2f261851df3abcceffe67",
-  "title:В Испании прошли протесты и столкновения с полицией после железнодорожной катастрофы",
-  "skip:https://www.interfax.ru/business/1125733",
   "skip:https://tass.ru/ekonomika/28265547",
   "skip:https://news.google.com/rss/articles/CBMimAFBVV95cUxPZDNjZEVFVHlwMjFPbGtabF9JMFVZZWxLVVljNDRhUHdBNDFETWlJZjJBRjBMTE92TDRaMVdEYWFVbmVBX3pkdkFhd0J1TmZrT2tYMGNpWVFzN2FWZEdERUkwT0hoMlRMak1GT0NhRDR4M3U1bmZPU2ZUSW0xakNyLUxhM05fVGlJeTRIdHRiNTVfNEx3UnZHQQ?oc=5",
   "https://www.interfax.ru/business/1125734",
@@ -998,5 +992,11 @@
   "title:В Париже и других городах Франции прошли массовые протесты против роста цен",
   "skip:https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDh2Tk1SWVpMWE1Mc1NmZ2JHUlFDOEFqVjg4T29yc1BLNXBibGFRSWNDUEhadDZiaEhiZXg4UFlfNV8tRVM3UVdfTkdzRzZVR2dmN2JwWjlIc3BHeVU0eVlJR0h1UThmaXhVWS1GcHZqb0c1NGR0VWoxU3k0Q3dLYU1hQVExZVJJd2FxZHpWOXc0NDRJWlZvUDk2Rm5GRUh1bXFITDBUZGFVWjY4T3VTWGh2NlFKaVBKLWc?oc=5",
   "https://tass.ru/mezhdunarodnaya-panorama/28275275",
-  "title:Суд в США окончательно отклонил иск Дональда Трампа о клевете к The Wall Street Journal"
+  "title:Суд в США окончательно отклонил иск Дональда Трампа о клевете к The Wall Street Journal",
+  "skip:https://tass.ru/ekonomika/28275421",
+  "skip:https://www.kommersant.ru/doc/9078355",
+  "skip:https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0F3bEEtREZiMG5WVnJMQlVHUDdaaHJQTno1VUJJRENOT2MySEZDcmpCYm41YnpkMS1Ub1l1ZThqSUJSa214ay1Gb3E3NFFNNWRZZDJtVjZSWU91M1NFVkRWZjJPdG9nN2ZCTm12RnhFVWFTTkhpMnBnRU5XZDhmRTRYNFZ0V1lKSkc3N1htMnRLbHhFWlo0?oc=5",
+  "skip:https://www.rbc.ru/technology_and_media/01/11/2026/6ae660ea05248f5986c38e73",
+  "https://ria.ru/20261101/fbr-2128389299.html",
+  "title:ФБР обвинило хакеров из КНДР в краже более 6 млрд долларов с биржи Binance"
 ]

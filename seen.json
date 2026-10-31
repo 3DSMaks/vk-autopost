@@ -1,6 +1,4 @@
 [
-  "skip:https://www.film.ru/articles/da-kto-takoy-etot-vash-neytan-filder-rasskazyvaem-pochemu-vse-govoryat-o-doke-uvidet-vse",
-  "skip:https://variety.com/2026/film/news/studiocanals-sixth-dimension-the-headliners-movie-1236918182/",
   "https://variety.com/2026/artisans/news/tangles-trailer-animation-alzheimers-seth-rogen-1236918154/",
   "title:‘Tangles’ Trailer: Seth Rogen-Produced Film Shows the Impact of Alzheimer’s Through Animation (EXCLUSIVE)",
   "https://deadline.com/2026/10/made-by-spooky-creator-first-horror-label-1237168857/",
@@ -998,5 +996,7 @@
   "title:Angel Studios CCO Lays Out “Values-Based” Initiative Banning Sex, Nudity, F-Words & “Misuse Of God’s Name”: “Hollywood Lives In A Bubble”",
   "skip:https://deadline.com/2026/10/box-office-2026-global-projection-1237210039/",
   "https://variety.com/2026/film/obituaries-people-news/sanjay-gupta-dead-kaante-zinda-1236935973/",
-  "title:Sanjay Gupta, Indian Director of ‘Kaante’ and ‘Zinda,’ Dies at 59"
+  "title:Sanjay Gupta, Indian Director of ‘Kaante’ and ‘Zinda,’ Dies at 59",
+  "https://deadline.com/2026/10/the-celebrity-traitors-finale-draws-record-rating-1237210586/",
+  "title:‘The Celebrity Traitors’ Finale Draws Record Audience To BBC"
 ]

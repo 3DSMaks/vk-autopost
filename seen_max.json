@@ -1,12 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73237/planet_zoo_2_i_novaya_castlevania_voshli_v_chart_prodazh_steam_no_lider_modern_warfare_4",
-  "skip:https://www.igromania.ru/news/169371/call-of-duty-modern-warfare-4-ustupila-tolko-pubg-v-svezhem-charte-steam/",
-  "https://www.playground.ru/fable_2026/news/idealnyj_duh_klassiki_razrabotchiki_fable_opublikovali_muzykalnuyu_temu_bauerstouna_chem_obradovali_fanatov-1883341#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:\"Идеальный дух классики\": разработчики Fable опубликовали музыкальную тему Бауэрстоуна, чем обрадовали фанатов",
-  "https://variety.com/2026/artisans/news/timothee-chalamet-hans-zimmer-desert-chant-dune-part-three-1236917686/",
-  "title:Timothée Chalamet and Hans Zimmer’s ‘Desert Chant’ From ‘Dune: Part Three’ Soundtrack Released",
-  "skip:https://www.playground.ru/misc/news/glavy_take_two_i_sony_zayavili_chto_ii_ne_smozhet_zamenit_chelovecheskoe_tvorchestvo-1883363#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.ign.com/articles/if-hits-are-unexpected-datasets-arent-gonna-get-you-there-take-two-interactive-and-sony-bosses-say-that-ai-cannot-replace-human-creativity",
   "skip:https://www.ign.com/articles/nintendo-pays-homage-to-original-1998-commercial-for-the-legend-of-zelda-ocarina-of-time-in-new-remake-trailer",
   "https://www.igromania.ru/news/169373/v-battlefield-6-nachalos-sobyitie-krossover-s-dead-space-s-novyim-pve-rezhimom/",
   "title:В Battlefield 6 началось событие-кроссовер с Dead Space с новым PvE-режимом",
@@ -998,5 +990,13 @@
   "title:Final Fantasy XIV Evercold Delayed, New Release Date Announced at FFXIV Fan Fest",
   "skip:https://www.ign.com/articles/stranger-than-heaven-features-optional-cheats-to-make-its-combat-easier",
   "https://www.ign.com/articles/xboxs-doom-wolfenstein-developers-working-more-closely-than-ever-following-xbox-reset-layoffs",
-  "title:Xbox's Doom, Wolfenstein Developers Working 'More Closely Than Ever' Following Xbox 'Reset' Layoffs"
+  "title:Xbox's Doom, Wolfenstein Developers Working 'More Closely Than Ever' Following Xbox 'Reset' Layoffs",
+  "skip:https://stopgame.ru/newsdata/73348/soosnovatel_bioware_nazval_prodazhu_ea_poslednim_gvozdem_v_kryshku_groba_studii",
+  "skip:https://www.igromania.ru/news/169646/takoe-sebe-realistichnoe-pogruzhenie-iz-call-of-duty-modern-warfare-4-udalyat-kadryi-davki-v-seule/",
+  "skip:https://www.ign.com/articles/crimson-desert-charting-the-unknown-review",
+  "skip:https://www.pcgamer.com/software/ai/sam-altman-argues-that-its-bad-you-want-dram-in-your-computer-and-not-a-data-center-actually/",
+  "skip:https://gamemag.ru/news/201912/bloomberg-ea-pojertvovala-bioware-radi-star-wars-battlefront-iii",
+  "skip:https://gamemag.ru/news/201906/puteshestvie-v-neizvedannoe-crimson-desert-poluchila-masshtabnoe-dopolnenie",
+  "https://www.pcgamer.com/games/fallout/this-brutal-fallout-4-horror-mod-turns-the-commonwealth-into-silent-hill/",
+  "title:This brutal Fallout 4 horror mod turns the Commonwealth into Silent Hill"
 ]

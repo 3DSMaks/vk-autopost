@@ -1,7 +1,4 @@
 [
-  "https://www.film.ru/news/kianu-rivz-v-remeyke-gangster-kop-i-dyavol",
-  "title:Киану Ривз в ремейке Гангстер, коп и дьявол",
-  "skip:https://www.playground.ru/crimson_desert/news/issledovanie_podvodnogo_mira_i_sistema_zhilya_predstavlen_obzornyj_trejler_dlc_charting_the_unknown_dlya_crimson_desert-1883456#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169389/sozdateli-crimson-desert-podgotovili-obzor-novinok-dlc-puteshestvie-v-neizvedannoe/",
   "skip:https://www.playground.ru/gta_6/news/fanaty_gta_6_zapodozrili_rockstar_games_v_syomkah_dorogogo_igrovogo_trejlera_v_majami-1883450#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.ign.com/articles/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and-expensive-live-action-trailer-in-miami",
@@ -998,5 +995,8 @@
   "https://variety.com/2026/film/festivals/ozu-mishima-yukiko-two-cigarettes-three-nights-1236935944/",
   "title:Ozu Shapes Mishima Yukiko’s Tokyo Competition Title ‘Two Cigarettes, Three Nights’",
   "https://www.igromania.ru/news/169647/v-cdpr-obyasnili-pochemu-tsena-na-propusk-s-dlc-dlya-vedmaka-3-dikaya-ohota-byila-takoj-schedroj/",
-  "title:В CDPR объяснили, почему цена на пропуск с DLC для «Ведьмака 3: Дикая Охота»﻿ была такой щедрой"
+  "title:В CDPR объяснили, почему цена на пропуск с DLC для «Ведьмака 3: Дикая Охота»﻿ была такой щедрой",
+  "skip:https://variety.com/2026/film/news/ranbir-kapoor-yash-gold-house-diwali-event-1236935927/",
+  "https://variety.com/2026/film/festivals/pink-film-veteran-zeze-takahisa-original-stories-1236935968/",
+  "title:Pink Film Veteran Zeze Takahisa Champions Original Stories at Tokyo Masterclass"
 ]

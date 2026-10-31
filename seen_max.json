@@ -1,6 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/201765/xbox-game-pass-future",
-  "https://stopgame.ru/newsdata/73247/dovedennaya_do_sovershenstva_klassika_pressa_ocenila_final_fantasy_resonance",
   "title:«Доведённая до совершенства классика» — пресса оценила Final Fantasy Resonance",
   "skip:https://www.kinonews.ru/news_143766/",
   "skip:https://www.film.ru/news/denzel-vashington-v-roli-detektiva",
@@ -998,5 +996,7 @@
   "skip:https://www.playground.ru/final_fantasy_14_a_realm_reborn/news/square_enix_perenesla_dopolnenie_final_fantasy_14_evercold_na_23_fevralya_2027_goda-1886629#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.pcgamer.com/games/fps/id-software-co-director-says-the-doom-developer-is-working-more-closely-with-machinegames-than-ever-after-xbox-laid-off-about-half-of-our-studio/",
   "https://www.pcgamer.com/games/mmo/dune-awakening-is-getting-a-free-dlc-that-adds-a-whole-new-map-and-swaps-out-sand-for-snow/",
-  "title:Dune: Awakening is getting a free DLC that adds a whole new map and swaps out sand for snow"
+  "title:Dune: Awakening is getting a free DLC that adds a whole new map and swaps out sand for snow",
+  "https://gamemag.ru/news/201921/blomberg-microsoft-deystvitelno-potratila-na-gears-of-war-e-day-500-mln-dollarov",
+  "title:Blomberg: Microsoft действительно потратила на Gears of War: E-Day 500 млн долларов"
 ]

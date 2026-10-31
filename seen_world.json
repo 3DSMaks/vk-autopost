@@ -1,12 +1,4 @@
 [
-  "title:Владимир Путин провел встречу с президентом Египта Абдель Фаттахом ас-Сиси в Москве",
-  "skip:https://www.rbc.ru/politics/28/10/2026/6ae2250e2bb2ad772589b74a",
-  "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-  "title:В Израиле подводят предварительные итоги парламентских выборов",
-  "skip:https://www.kommersant.ru/doc/9063179",
-  "skip:https://news.google.com/rss/articles/CBMihgFBVV95cUxQTTZ4U1JSUThYRHFHNF9vOWoyMWtXanlHUmZWMDdWY2x0cGoyR0ttOTZ6OEhCaFl3S3NucktTZmZreUI0X2hSS25PVGNzTnZCWW9Hakpad216XzlSN2pQSnhQdDJPTjNFckZOV3V6VHZNTzRSX3dzampXNVZFcTRiaF85QmFxZw?oc=5",
-  "skip:https://news.google.com/rss/articles/CBMirwFBVV95cUxONzV6Vl9La1pvN1dMdUF1bmV0Qy0tc1l1VkJ3N1Q0bmNzLS1oaThhTWZkSXVGWUIxTTVmTFd4eHgzTk93dzhnZXozRVI2ODBiMC1tRGF2ZHdFYkd3MFBFa3M1c0l3ZmhYVlk3eW1RNXpXUHJNYkd1dmQwYm5VRjFrTmFyVUJxR0RpT3hyY24wUE53eWJxeVhTaFN0NEczekFlbHBpb3B5ZlFaMWNvYlRJ?oc=5",
-  "https://www.france24.com/en/americas/20261028-si-se-puede-us-civil-rights-icon-dolores-huerta-dies-96",
   "title:Умерла американская правозащитница и профсоюзный лидер Долорес Уэрта",
   "skip:https://ria.ru/20261028/putin-2127648966.html",
   "skip:https://tass.ru/obschestvo/28263849",
@@ -998,5 +990,13 @@
   "title:В московском аэропорту Шереметьево сняли временные ограничения на полеты",
   "skip:https://news.google.com/rss/articles/CBMizAFBVV95cUxONll1eGZDNWJMVXFsdzlXTEs4WnlXRGJONjZ4eUQ1eGlaWGs5bVB0SnR6cUlhd1U0ZHl1bUxpM0ItUUl3cEdxdEhjTHBfZHZIc3ZQY2xMM2g1eGNkbVNfanFmVFY4R0JUeFVtb0pyb3JzSllCTG05S19HdkVzVXFTVlRaaDZidS01UVJ5SVpvUC00SlNpNUxOZXIyTnFaMGVNMmJoOWpCZ1RKRWxqam9UbG9Yb1pYWERLTkR0OG0xOE9Vc0c1U0lvbGNQZzI?oc=5",
   "https://tass.ru/mezhdunarodnaya-panorama/28274399",
-  "title:В Иране беспилотник атаковал рыболовецкие катера у острова Кешм"
+  "title:В Иране беспилотник атаковал рыболовецкие катера у острова Кешм",
+  "skip:https://www.kommersant.ru/doc/9078239",
+  "https://www.interfax.ru/world/1126293",
+  "title:Иран сообщил об атаке беспилотников на рыболовецкие суда в Персидском заливе",
+  "skip:https://www.kommersant.ru/doc/9078236",
+  "skip:https://www.interfax.ru/moscow/1126290",
+  "skip:https://ria.ru/20261031/pvo-2128310788.html",
+  "https://www.rbc.ru/rbcfreenews/6ae5bb3092b809aef4d94cea",
+  "title:Силы ПВО перехватили беспилотники, летевшие в сторону Москвы"
 ]

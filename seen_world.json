@@ -1,14 +1,4 @@
 [
-  "skip:https://tass.ru/ekonomika/28263981",
-  "https://www.rbc.ru/quote/28/10/2026/6adf00f19a79476b17a58ccf",
-  "title:ФРС США сохранила ключевую процентную ставку на уровне 3,75–4% годовых",
-  "skip:https://www.interfax.ru/russia/1125616",
-  "skip:https://ria.ru/20261028/pvo-2127655895.html",
-  "skip:https://tass.ru/armiya-i-opk/28263967",
-  "skip:https://www.interfax.ru/russia/1125605",
-  "https://www.interfax.ru/world/1125618",
-  "title:Российская ПВО перехватила и уничтожила 90 украинских беспилотников за сутки",
-  "skip:https://www.rbc.ru/technology_and_media/28/10/2026/6ae203f69a79474dab0061bb",
   "skip:https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGg0QUZLRkZQUmg1ei1BVWZCUEZkcFdueUIyZDJFX3ljN09yRjUzSEE5V0JWVVpRaGRHdHNDaHAtNkRlNXZfWElQM3QxM0lpZTM1UHJYQWhKRmQ2X3JJNzAxRy1lcGIyalhUTEFhRGxyOTUxeU04S2U1X1RSWWUwcldiQndWUTZtYlB0SGZVTFM4eV9HZVV4VGdsRDAzc3h6TWhiZmVDNVF0dkRGMXI1eFhMekQ0TTU2?oc=5",
   "skip:https://www.kommersant.ru/doc/9063184",
   "skip:https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUG5iWVZIc0l0UF9OcVhkbnIyenJRX1J1OV8yMWQ4c0VsYlpZOXRCQUVkYzRxU25ZcVBrdTdZd0V1SGEteUpwU2Q0a3VOX2hkaDV1aUhnT1owMWV4VktZY1FHQkxNWHRWZnZlR0pkak9mQTZsdHgwLWlrMm1TdkNDNW00VS1GRFliWTZXcm1sQ1BYSGVONGVXMGNQdEVvNFFvTkN4QUQtQi15SW5VSnJEb1JwYjVJRmVZd0NFbG1tcFdDbXc?oc=5",
@@ -998,5 +988,15 @@
   "skip:https://ria.ru/20261031/merkel--2128311927.html",
   "skip:https://www.kommersant.ru/doc/9078234",
   "https://tass.ru/mezhdunarodnaya-panorama/28274417",
-  "title:Ангела Меркель предложила избрать женщину следующим президентом Германии"
+  "title:Ангела Меркель предложила избрать женщину следующим президентом Германии",
+  "skip:https://www.kommersant.ru/doc/9078253",
+  "skip:https://www.interfax.ru/russia/1126294",
+  "skip:https://tass.ru/obschestvo/28274427",
+  "https://www.rbc.ru/rbcfreenews/6ae5ce1dacc9a2663a967911",
+  "title:Госпитализация части эвакуированных из Алешек жителей в Симферополе",
+  "skip:https://ria.ru/20261031/polsha-2128324364.html",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28274461",
+  "skip:https://ria.ru/20261031/zasedanie-2128312425.html",
+  "https://tass.ru/proisshestviya/28274507",
+  "title:Политический кризис и протесты в Польше вокруг Конституционного трибунала"
 ]

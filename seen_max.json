@@ -1,7 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73232/lishnego_ne_potracheno_pyaterochka_kafe_razygraet_konsoli_i_smartfony_za_pokupku_gotovoy_edy",
-  "https://www.igromania.ru/news/169370/modder-dobavil-v-fallout-new-vegas-polnotsennuyu-trassirovku-puti/",
-  "title:Моддер добавил в Fallout: New Vegas полноценную трассировку пути",
   "https://www.film.ru/articles/novye-sekretnye-materialy-oficialno-zapushcheny-rasskazyvaem-vse-chto-izvestno-o-seriale",
   "title:Новые «Секретные материалы» официально запущены! Рассказываем все, что известно о сериале Куглера",
   "skip:https://www.igromania.ru/news/169372/zombi-snova-nastupayut-novaya-obitel-zla-i-nastolnyie-igryi-dlya-poklonnikov-zhivyih-mertvetsov/",
@@ -998,5 +995,8 @@
   "title:Stranger Than Heaven станет самой технологичной игрой RGG Studio благодаря отказу от консолей прошлого поколения",
   "skip:https://deadline.com/2026/10/dubai-faisal-hashmi-spine-drop-pictures-horror-slate-1237210593/",
   "https://deadline.com/2026/10/the-celebrity-traitors-finale-draws-record-rating-1237210586/",
-  "title:‘The Celebrity Traitors’ Finale Draws Record Audience To BBC"
+  "title:‘The Celebrity Traitors’ Finale Draws Record Audience To BBC",
+  "skip:https://www.ign.com/articles/by-skipping-last-gen-systems-stranger-than-heaven-is-allowing-rgg-studio-to-fully-leverage-the-power-of-current-gen-consoles-at-long-last",
+  "https://www.ign.com/articles/final-fantasy-xiv-evercold-delayed-new-release-date-announced-at-ffxiv-fan-fest",
+  "title:Final Fantasy XIV Evercold Delayed, New Release Date Announced at FFXIV Fan Fest"
 ]

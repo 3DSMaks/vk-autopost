@@ -1,13 +1,4 @@
 [
-  "skip:https://www.interfax.ru/moscow/1125664",
-  "skip:https://ria.ru/20261029/moskva-2127692707.html",
-  "https://www.rbc.ru/rbcfreenews/6ae29133affdd7a7d841d8e5",
-  "title:Силы ПВО перехватили новые беспилотники, летевшие на Москву",
-  "skip:https://www.rbc.ru/rbcfreenews/6ae277f919e61a393322f64b",
-  "skip:https://www.interfax.ru/world/1125654",
-  "https://www.kommersant.ru/doc/9063253",
-  "title:Дональд Трамп опроверг информацию о поручении возобновить мирные переговоры с Ираном",
-  "skip:https://ria.ru/20261029/pentagon-2127693464.html",
   "skip:https://news.google.com/rss/articles/CBMiuAFBVV95cUxObXZ6TzNnOExPZmEyc0F6ckNhMURBcndMTUFfaC1TTDZkY1lqRGVhNm05YjlqeUo0a2hOdmdlWVYtV3M3bkVRbHhpNUJRRXVzcEhFSjNkUzRlVmJVYTBHWEgyeXdUZnpwSENKS1AyVTg4ekROcGljemJOdnJQSkh5WmgzSThGTlRfVDdHWGcxdHZ0NmkzcWdOd011MndzSWJxZFdYZFhnV1Z3NENTdjAxN2p6T3pJc2JY?oc=5",
   "https://tass.ru/mezhdunarodnaya-panorama/28264557",
   "title:Пентагон отклонил запрос на расследование сбоев системы Starlink на Украине",
@@ -998,5 +989,14 @@
   "skip:https://ria.ru/20261031/gaaga-2128353676.html",
   "skip:https://ria.ru/20261031/demonstratsija-2128352444.html",
   "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
-  "title:В странах Европы проходят массовые молодежные протесты и беспорядки"
+  "title:В странах Европы проходят массовые молодежные протесты и беспорядки",
+  "skip:https://tass.ru/obschestvo/28275103",
+  "skip:https://tass.ru/obschestvo/28275055",
+  "https://ria.ru/20261031/frantsija-2128366542.html",
+  "title:Во Франции сотни тысяч человек вышли на масштабные протесты против снижения уровня жизни и роста цен",
+  "skip:https://ria.ru/20261031/pvo-2128364562.html",
+  "skip:https://www.rbc.ru/rbcfreenews/6ae6223376ddd207a528d811",
+  "skip:https://tass.ru/armiya-i-opk/28275085",
+  "https://www.interfax.ru/russia/1126336",
+  "title:Минобороны РФ сообщило о перехвате 60 украинских беспилотников над российскими регионами за день"
 ]

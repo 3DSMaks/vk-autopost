@@ -1,10 +1,4 @@
 [
-  "skip:https://www.interfax.ru/world/1125619",
-  "skip:https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss",
-  "skip:https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUowdTlPaUFzb0tCdUQ3UzdYalJsS2ZEYWNvMUVtUzdKams0b051VWNIcXNPdG5wYlFzaWZIZVJfcVFTb192M3ozWk1kcW8wY1NNd1FSMzAzQ2FGTm9Mb0tfU21BenhMSXg5bFYxcXZqRlkzdHdESlZYVFlnLW82eUNZeER2SFU5ZXNzdExzLWxBYmtRTDRiMVFQQk1BYjB5dUdGQUEwb0pWYlA3VWluaA?oc=5",
-  "skip:https://www.aljazeera.com/news/2026/10/28/balad-leader-blasts-racist-exclusion-of-arab-parties-in-israel?traffic_source=rss",
-  "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
-  "skip:https://tass.ru/proisshestviya/28264159",
   "skip:https://www.kommersant.ru/doc/9063227",
   "skip:https://www.interfax.ru/russia/1125630",
   "skip:https://www.rbc.ru/rbcfreenews/6ae25170f4e2bb236f6b8b22",
@@ -998,5 +992,11 @@
   "skip:https://www.kommersant.ru/doc/9078262",
   "skip:https://www.interfax.ru/world/1126300",
   "https://tass.ru/mezhdunarodnaya-panorama/28274603",
-  "title:Верховный лидер Ирана приказал военным готовиться к ответам на угрозы на фоне подготовки США к ударам"
+  "title:Верховный лидер Ирана приказал военным готовиться к ответам на угрозы на фоне подготовки США к ударам",
+  "skip:https://www.interfax.ru/world/1126304",
+  "https://www.rbc.ru/politics/31/10/2026/6ae5e4c792af5cacf0b4ac1f",
+  "title:Минторг США разрешил Boeing возобновить сотрудничество с белорусской авиакомпанией «Белавиа»",
+  "skip:https://ria.ru/20261031/vuchich-2128328924.html",
+  "https://www.kommersant.ru/doc/9078282",
+  "title:Александра Вучича выдвинули на пост главы Сербской прогрессивной партии"
 ]

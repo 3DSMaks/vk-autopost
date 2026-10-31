@@ -1,7 +1,4 @@
 [
-  "skip:https://www.interfax.ru/business/1125714",
-  "https://www.kommersant.ru/doc/9063410",
-  "title:Курс китайской юаня на Московской бирже опустился ниже 12 рублей",
   "skip:https://tass.ru/proisshestviya/28265475",
   "https://www.interfax.ru/russia/1125725",
   "title:Более 150 тысяч абонентов в ЛНР остались без света из-за ударов ВСУ",
@@ -998,5 +995,8 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28275221",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28275155",
   "https://ria.ru/20261031/iran-2128379122.html",
-  "title:В Иране прокомментировали возможную реакцию на действия США"
+  "title:В Иране прокомментировали возможную реакцию на действия США",
+  "skip:https://www.aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france?traffic_source=rss",
+  "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+  "title:В Париже и других городах Франции прошли массовые протесты против роста цен"
 ]

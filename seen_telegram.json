@@ -1,7 +1,4 @@
 [
-  "https://kg-portal.ru/comments/135442-piter-dzhekson-nakonec-opredelilsja-kakoj-film-snimet-sledujuschim/",
-  "title:Питер Джексон наконец определился, какой фильм снимет следующим",
-  "skip:https://www.playground.ru/league_of_legends/news/virtualnaya_k_pop_gruppa_k_da_s_geroinyami_league_of_legends_vernulas_posle_6_letnego_molchaniya_s_singlom_firestarter-1883000#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.ign.com/articles/league-of-legends-virtual-k-pop-group-kda-reemerge-after-6-years-of-silence-with-new-single-and-music-video-from-the-makers-of-arcane",
   "skip:https://www.ign.com/articles/modern-warfare-4-pays-tribute-to-call-of-duty-co-creator-vince-zampella",
   "https://www.playground.ru/witcher_3_wild_hunt/news/the_witcher_3_wild_hunt_remastered_poluchila_patch_dlya_switch_2_s_pravkami_razresheniya_i_chyotkosti-1883001#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +995,8 @@
   "https://www.igromania.ru/news/169650/telltale-pozvolit-perenesti-v-the-wolf-among-us-2-resheniya-iz-the-wolf-among-us-remastered/",
   "title:Telltale ​позволит перенести в The Wolf Among Us 2﻿ решения из The Wolf Among Us Remastered",
   "https://deadline.com/2026/10/the-celebrity-traitors-finale-draws-record-rating-1237210586/",
-  "title:‘The Celebrity Traitors’ Finale Draws Record Audience To BBC"
+  "title:‘The Celebrity Traitors’ Finale Draws Record Audience To BBC",
+  "skip:https://stopgame.ru/newsdata/73348/soosnovatel_bioware_nazval_prodazhu_ea_poslednim_gvozdem_v_kryshku_groba_studii",
+  "https://www.playground.ru/gta_6/news/predpolagaemyj_ispolnitel_roli_dzhejsona_iz_gta_6_popal_v_skandal_iz_za_reposta_mema_s_melstroem-1886555#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Предполагаемый исполнитель роли Джейсона из GTA 6 попал в скандал из-за репоста мема с Мелстроем"
 ]

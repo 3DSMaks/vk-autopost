@@ -1,7 +1,4 @@
 [
-  "title:China Box Office: ‘Resident Evil’ Retains Top Spot Over Quiet Post-Holiday Frame as Local Titles Wind Down",
-  "skip:https://www.igromania.ru/news/169332/ogromnuyu-lokatsiyu-iz-rannego-bilda-dark-souls-2-nashli-datamajneryi/",
-  "skip:https://www.playground.ru/misc/news/kassovye_sbory_obitelya_zla_prevysili_360_millionov_posle_pyatogo_uik_enda-1882920#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://gamemag.ru/news/201722/activision-on-blops-remasters-october-2026",
   "video:2026-10-19:https://gamemag.ru/news/201722/activision-on-blops-remasters-october-2026",
   "title:Продажи переизданий Call of Duty: Black Ops и Black Ops 2 превзошли все ожидания Activision — ставку на ностальгию усилят",
@@ -998,5 +995,8 @@
   "https://www.ign.com/articles/final-fantasy-xiv-evercold-delayed-new-release-date-announced-at-ffxiv-fan-fest",
   "title:Final Fantasy XIV Evercold Delayed, New Release Date Announced at FFXIV Fan Fest",
   "https://stopgame.ru/newsdata/73346/smi_odin_iz_sozdateley_forza_motorsport_uhodit_iz_xbox",
-  "title:СМИ: один из создателей Forza Motorsport уходит из XBOX"
+  "title:СМИ: один из создателей Forza Motorsport уходит из XBOX",
+  "skip:https://www.igromania.ru/news/169652/prihodite-eschyo-igryi-little-nightmares-sobrali-25-millionnuyu-auditoriyu/",
+  "https://www.pcgamer.com/games/fallout/this-brutal-fallout-4-horror-mod-turns-the-commonwealth-into-silent-hill/",
+  "title:This brutal Fallout 4 horror mod turns the Commonwealth into Silent Hill"
 ]

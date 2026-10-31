@@ -1,7 +1,4 @@
 [
-  "https://www.film.ru/articles/novye-sekretnye-materialy-oficialno-zapushcheny-rasskazyvaem-vse-chto-izvestno-o-seriale",
-  "title:Новые «Секретные материалы» официально запущены! Рассказываем все, что известно о сериале Куглера",
-  "skip:https://www.igromania.ru/news/169372/zombi-snova-nastupayut-novaya-obitel-zla-i-nastolnyie-igryi-dlya-poklonnikov-zhivyih-mertvetsov/",
   "skip:https://stopgame.ru/newsdata/73237/planet_zoo_2_i_novaya_castlevania_voshli_v_chart_prodazh_steam_no_lider_modern_warfare_4",
   "skip:https://www.igromania.ru/news/169371/call-of-duty-modern-warfare-4-ustupila-tolko-pubg-v-svezhem-charte-steam/",
   "https://www.playground.ru/fable_2026/news/idealnyj_duh_klassiki_razrabotchiki_fable_opublikovali_muzykalnuyu_temu_bauerstouna_chem_obradovali_fanatov-1883341#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +995,8 @@
   "title:‘The Celebrity Traitors’ Finale Draws Record Audience To BBC",
   "skip:https://www.ign.com/articles/by-skipping-last-gen-systems-stranger-than-heaven-is-allowing-rgg-studio-to-fully-leverage-the-power-of-current-gen-consoles-at-long-last",
   "https://www.ign.com/articles/final-fantasy-xiv-evercold-delayed-new-release-date-announced-at-ffxiv-fan-fest",
-  "title:Final Fantasy XIV Evercold Delayed, New Release Date Announced at FFXIV Fan Fest"
+  "title:Final Fantasy XIV Evercold Delayed, New Release Date Announced at FFXIV Fan Fest",
+  "skip:https://www.ign.com/articles/stranger-than-heaven-features-optional-cheats-to-make-its-combat-easier",
+  "https://www.ign.com/articles/xboxs-doom-wolfenstein-developers-working-more-closely-than-ever-following-xbox-reset-layoffs",
+  "title:Xbox's Doom, Wolfenstein Developers Working 'More Closely Than Ever' Following Xbox 'Reset' Layoffs"
 ]

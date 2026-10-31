@@ -1,11 +1,4 @@
 [
-  "https://www.playground.ru/gears_of_war_e_day/news/gears_of_war_e_day_odna_iz_samyh_populyarnyh_igr_na_moment_zapuska_v_severnoj_amerike-1883295#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Gears of War: E-Day - одна из самых популярных игр на момент запуска в Северной Америке",
-  "skip:https://variety.com/2026/film/global/luckychap-international-katie-goodson-thomas-president-film-1236917249/",
-  "skip:https://kg-portal.ru/comments/135450-luchshie-blinchiki-v-okruge-trejler/",
-  "https://www.film.ru/news/tarantino-pro-finchera",
-  "title:Тарантино про Финчера",
-  "skip:https://gamemag.ru/news/201733/mw-4-cod-steam-user-reviews-campaign-october-2026",
   "skip:https://www.playground.ru/misc/news/microsoft_predlagaet_vladeltsam_neispolzuemyh_xbox_series_x_s_sdat_konsoli_v_trejd_in_na_fone_rosta_tsen-1883313#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.ign.com/articles/final-fantasy-resonance-review",
   "https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/novyj_trejler_remejka_the_legend_of_zelda_ocarina_of_time_otsylaet_k_reklame_originalnoj_igry_dlya_n64-1883303#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +991,12 @@
   "https://www.playground.ru/little_nightmares_3/news/chislo_igrokov_v_little_nightmares_3_dostiglo_2_millionov_auditoriya_vsej_serii_prevysila_25_millionov-1886501#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Число игроков в Little Nightmares 3 достигло 2 миллионов - аудитория всей серии превысила 25 миллионов",
   "https://www.kinonews.ru/news_143910/",
-  "title:Звезда \"Субстанции\" Маргарет Куолли развелась с мужем"
+  "title:Звезда \"Субстанции\" Маргарет Куолли развелась с мужем",
+  "skip:https://www.igromania.ru/news/169651/sozdateli-soulframe-napomnili-o-starte-otkryityih-prelyudij-s-6-noyabrya-v-novom-trejlere/",
+  "skip:https://www.igromania.ru/news/169645/neveroyatno-radyi-romero-games-nashla-izdatelya-dlya-novoj-igryi-soavtora-doom-i-quake-dzhona-romero/",
+  "skip:https://www.pcgamer.com/games/rpg/soulframe-opens-up-for-everyone-today-as-the-warframe-devs-prepare-the-fantasy-action-rpg-for-one-of-its-biggest-most-violent-updates-ever-next-month/",
+  "skip:https://www.pcgamer.com/games/fps/romero-games-has-a-new-publisher-for-the-game-xbox-abandoned-but-its-110-person-team-is-now-just-16-devs-i-needed-to-basically-design-a-new-game-that-could-use-as-much-of-that-stuff-as-possible/",
+  "skip:https://stopgame.ru/newsdata/73345/dzhon_romero_nashel_izdatelya_dlya_svoego_novogo_shutera",
+  "https://www.igromania.ru/news/169650/telltale-pozvolit-perenesti-v-the-wolf-among-us-2-resheniya-iz-the-wolf-among-us-remastered/",
+  "title:Telltale ​позволит перенести в The Wolf Among Us 2﻿ решения из The Wolf Among Us Remastered"
 ]

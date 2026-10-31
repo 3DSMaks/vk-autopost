@@ -1,10 +1,4 @@
 [
-  "https://www.film.ru/news/cifrovoy-reliz-obiteli-zla",
-  "title:Цифровой релиз Обители зла",
-  "skip:https://www.playground.ru/fallout_new_vegas/news/dlya_fallout_new_vegas_vyshel_masshtabnyj_graficheskij_mod_s_podderzhkoj_rtx_remix_dlss_i_fsr-1882978#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/odin_iz_igrokov_uzhe_proshyol_kampaniyu_call_of_duty_modern_warfare_4_na_maksimalnoj_slozhnosti_bez_edinoj_smerti-1882972#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.ign.com/articles/modern-warfare-4-player-finished-yolo-mode",
-  "https://www.playground.ru/call_of_duty_modern_warfare_4/news/v_call_of_duty_modern_warfare_4_otdali_dan_uvazheniya_pokojnomu_soavtoru_franshizy_vinsu_zampelle-1882968#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:В Call of Duty: Modern Warfare 4 отдали дань уважения покойному соавтору франшизы Винсу Зампелле",
   "skip:https://variety.com/2026/film/news/james-gray-paper-tiger-doha-film-festival-1236915649/",
   "https://kg-portal.ru/comments/135442-piter-dzhekson-nakonec-opredelilsja-kakoj-film-snimet-sledujuschim/",
@@ -998,5 +992,11 @@
   "https://deadline.com/2026/10/beyond-the-gates-wins-multiple-daytime-emmys-1237210503/",
   "title:‘Beyond The Gates’ Wins Four Daytime Emmys In Its First Year Of Eligibility",
   "https://deadline.com/2026/10/dubai-faisal-hashmi-spine-drop-pictures-horror-slate-1237210593/",
-  "title:Dubai-Based Director Faisal Hashmi Launches Spine Drop Pictures & Inaugural Horror Slate"
+  "title:Dubai-Based Director Faisal Hashmi Launches Spine Drop Pictures & Inaugural Horror Slate",
+  "skip:https://www.playground.ru/project_century/news/stranger_than_heaven_stanet_samoj_tehnologichnoj_igroj_rgg_studio_blagodarya_otkazu_ot_konsolej_proshlogo_pokoleniya-1886529#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169651/sozdateli-soulframe-napomnili-o-starte-otkryityih-prelyudij-s-6-noyabrya-v-novom-trejlere/",
+  "skip:https://www.ign.com/articles/by-skipping-last-gen-systems-stranger-than-heaven-is-allowing-rgg-studio-to-fully-leverage-the-power-of-current-gen-consoles-at-long-last",
+  "skip:https://www.pcgamer.com/games/rpg/soulframe-opens-up-for-everyone-today-as-the-warframe-devs-prepare-the-fantasy-action-rpg-for-one-of-its-biggest-most-violent-updates-ever-next-month/",
+  "https://www.igromania.ru/news/169650/telltale-pozvolit-perenesti-v-the-wolf-among-us-2-resheniya-iz-the-wolf-among-us-remastered/",
+  "title:Telltale ​позволит перенести в The Wolf Among Us 2﻿ решения из The Wolf Among Us Remastered"
 ]

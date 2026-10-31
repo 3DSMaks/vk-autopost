@@ -1,9 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9063379",
-  "skip:https://www.kommersant.ru/doc/9063366",
-  "skip:https://news.google.com/rss/articles/CBMitAFBVV95cUxQS05TT1U4b1Z2S1J4YV9sMDB4ZHp4UFRsRnZOWmJ1MGxvb2dlNWwybDBjQVlfQ3VLWmkxdHJZd3hNVGFRVmFZVF9JR1prLXZZeWRzMzA0VFNPTWdoQzdQTkRPM1BobnRRTDRvMEdQM1FldXZnWExNZ2FVbHlLYmJTdDUwbU1saThXaXB3STRxdzJGS3ZJVS1jcWlYaWZwSjd5cTlTZi1taWZTZnNFcmlrcVNYc0g?oc=5",
-  "skip:https://www.interfax.ru/business/1125702",
-  "skip:https://www.interfax.ru/business/1125700",
   "skip:https://www.interfax.ru/business/1125699",
   "skip:https://www.rbc.ru/technology_and_media/29/10/2026/6ae2de7cd019f528230d3999",
   "https://www.rbc.ru/rbcfreenews/6ae2e57a5317b954bbe060df",
@@ -998,5 +993,10 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28275053",
   "skip:https://ria.ru/20261031/vstrecha-2128362133.html",
   "https://www.rbc.ru/politics/31/10/2026/6ae6307ab81721b52af75f29",
-  "title:Виктор Орбан и Александр Вучич встретились в Сербии и заявили о планах вернуться в политику"
+  "title:Виктор Орбан и Александр Вучич встретились в Сербии и заявили о планах вернуться в политику",
+  "skip:https://tass.ru/obschestvo/28275187",
+  "skip:https://www.theguardian.com/uk-news/2026/oct/31/protest-against-palestine-action-ban-outside-us-embassy-in-london",
+  "skip:https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeUlKZ0JzU2NIcmNFckRsU1l6akpveTNUNHhUbnNyMHhkOUxXbWk0RDJWVnQ0Ti1MQVI0QnhSQnpPZmUyWVNUQktDVGxVbmFMaERuY0tlVDIyN0xYMkpxbHkteUhEVnpCNlAxYVY2SXBEWnFYREJzYWFLTThWOXYxbkNzRjk2OEo3UmtvSnBMRDNDc3BDbW04ak9PUDRWanlpcFNFdG1YWjdSdw?oc=5",
+  "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban?traffic_source=rss",
+  "title:В Лондоне задержали около 140 участников протеста в поддержку Palestine Action"
 ]

@@ -1,14 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9063504",
-  "https://tass.ru/ekonomika/28265907",
-  "skip:https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
-  "skip:https://news.google.com/rss/articles/CBMirAFBVV95cUxPUlRWdElCT21MdGllQ29QbmxreHhfeTJvaUQ5Rjd2VndKSFRqSmJVMEhKY1VpOTNYWm1zZklsVWVjY0FHbDZxenZUa2NFaWQ0NEluY1ZXV1lqSWNPOWVyMXZ4eGhuQnkxLWVha01PVlhLb2l4Y2RzdENjSTQ0c3UweG5qTFZiOWE1MHFoVllsQjdqeURjUUxfSHpCWnlwNFdnR0N1Y2h1dUw5VElo?oc=5",
-  "skip:https://www.rbc.ru/politics/29/10/2026/6ae2fb0d76ddd207a528d73c",
-  "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-  "title:ЦИК Израиля инициировал расследование нарушений на парламентских выборах",
-  "skip:https://ria.ru/20261029/peskov-2127791403.html",
-  "skip:https://www.interfax.ru/russia/1125781",
-  "skip:https://www.interfax.ru/russia/1125780",
   "skip:https://ria.ru/20261029/putin-2127785340.html",
   "skip:https://ria.ru/20261029/aleshki-2127784952.html",
   "skip:https://tass.ru/politika/28266371",
@@ -998,5 +988,15 @@
   "skip:https://www.kommersant.ru/doc/9078386",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28275827",
   "https://ria.ru/20261101/kompanija-2128420028.html",
-  "title:В Персидском заливе атакован танкер-газовоз"
+  "title:В Персидском заливе атакован танкер-газовоз",
+  "skip:https://tass.ru/obschestvo/28275905",
+  "skip:https://www.interfax.ru/russia/1126381",
+  "skip:https://www.kommersant.ru/doc/9078392",
+  "skip:https://tass.ru/proisshestviya/28275893",
+  "skip:https://ria.ru/20261101/delo-2128420965.html",
+  "https://www.rbc.ru/rbcfreenews/6ae6dcadb6f380484a2310ee",
+  "title:СКР возбудил дело о теракте после атаки БПЛА в Нижегородской области",
+  "skip:https://tass.ru/politika/28275889",
+  "https://ria.ru/20261101/putin-2128422105.html",
+  "title:Путин поздравил сотрудников Росфинмониторинга с 25-летием службы"
 ]

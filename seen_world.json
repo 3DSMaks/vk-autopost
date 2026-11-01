@@ -1,7 +1,4 @@
 [
-  "skip:https://ria.ru/20261029/putin-2127910590.html",
-  "skip:https://ria.ru/20261029/putin-2127910496.html",
-  "skip:https://ria.ru/20261029/putin-2127909997.html",
   "skip:https://ria.ru/20261029/putin-2127909906.html",
   "skip:https://ria.ru/20261029/putin-2127909390.html",
   "skip:https://tass.ru/politika/28268321",
@@ -998,5 +995,8 @@
   "skip:https://ria.ru/20261101/delo-2128477130.html",
   "skip:https://tass.ru/proisshestviya/28276385",
   "https://www.rbc.ru/rbcfreenews/6ae75e0b6b514a72023eaf40",
-  "title:В Ростовской области задержан подозреваемый в похищении и убийстве семейной пары"
+  "title:В Ростовской области задержан подозреваемый в похищении и убийстве семейной пары",
+  "skip:https://tass.ru/sport/28276405",
+  "https://www.rbc.ru/sport/01/11/2026/6ae76451ed0a2bda6d0b8da0",
+  "title:Финляндия предложила странам ЕС ограничить въезд российским спортсменам"
 ]

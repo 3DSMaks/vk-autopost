@@ -1,7 +1,4 @@
 [
-  "https://stopgame.ru/newsdata/73229/obnovleno_v_noyabre_biblioteku_ps_plus_pokinut_7_igr_vklyuchaya_rdr_ii_i_gta_v",
-  "title:[Обновлено] В ноябре библиотеку PS Plus покинут 7 игр, включая RDR II и GTA V",
-  "https://www.film.ru/news/treyler-luchshih-pankeykov-v-gorode",
   "title:Трейлер Лучших панкейков в городе",
   "skip:https://www.playground.ru/cyberpunk_2077/news/bloger_raskryl_podrobnosti_obnovleniya_2_5_dlya_cyberpunk_2077_dvojnye_pistolety_novye_zadaniya_i_mody_na_konsolyah-1883325#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.pcgamer.com/games/rpg/of-course-a-new-edgerunners-series-means-a-new-cyberpunk-2077-patch/",
@@ -998,5 +995,8 @@
   "title:Конь из человека: разработчики первой Assassin's Creed рассказали о безумной хитрости с анимацией лошадей",
   "https://gamemag.ru/news/201747/nintendo-on-zelda-40-th-anniversary-october-2026",
   "video:2026-11-01:https://gamemag.ru/news/201747/nintendo-on-zelda-40-th-anniversary-october-2026",
-  "title:«Это мировой феномен»: Nintendo извинилась за нехватку консолей Switch 2 в стиле The Legend of Zelda: Ocarina of Time"
+  "title:«Это мировой феномен»: Nintendo извинилась за нехватку консолей Switch 2 в стиле The Legend of Zelda: Ocarina of Time",
+  "skip:https://www.film.ru/news/serial-o-garri-pottere-novye-aktery",
+  "https://www.film.ru/news/dzheyms-gann-predstavit-novogo-betmena",
+  "title:Джеймс Ганн представит нового Бэтмена"
 ]

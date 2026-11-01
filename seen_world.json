@@ -1,12 +1,4 @@
 [
-  "skip:https://www.rbc.ru/rbcfreenews/6ae318a8b11d2a34d8ec6eef",
-  "https://www.kommersant.ru/doc/9063650",
-  "title:В Сербии проведут повторное голосование на 53 участках на выборах",
-  "skip:https://www.kommersant.ru/doc/9063643",
-  "https://www.rbc.ru/politics/29/10/2026/6ae2fc18c3d5e49e664d10f9",
-  "title:Железнодорожная катастрофа в Испании и ее политические последствия для правительства",
-  "skip:https://tass.ru/proisshestviya/28266921",
-  "https://ria.ru/20261029/harkov-2127814884.html",
   "title:В пригороде Харькова прогремел взрыв",
   "skip:https://ria.ru/20261029/byudzhet-2127838239.html",
   "https://www.rbc.ru/economics/29/10/2026/6ae32b5df1d11a85f97f2468",
@@ -998,5 +990,13 @@
   "skip:https://www.interfax.ru/russia/1126387",
   "skip:https://tass.ru/politika/28275989",
   "https://tass.ru/politika/28276043",
-  "title:Юрий Ушаков заявил, что Владимир Путин ответит на возможный звонок Владимира Зеленского"
+  "title:Юрий Ушаков заявил, что Владимир Путин ответит на возможный звонок Владимира Зеленского",
+  "skip:https://www.rbc.ru/politics/01/11/2026/6ae7079e6b8ef7b63d5e169f",
+  "skip:https://www.interfax.ru/russia/1126388",
+  "https://www.kommersant.ru/doc/9078436",
+  "title:Песков заявил о необходимости участия Европы в переговорах по Украине при изменении подхода",
+  "skip:https://ria.ru/20261101/lnr-2128434466.html",
+  "skip:https://tass.ru/proisshestviya/28276069",
+  "https://www.rbc.ru/rbcfreenews/6ae712d5d019f528230d3a08",
+  "title:Четыре мирных жителя погибли при атаках Украины на ЛНР"
 ]

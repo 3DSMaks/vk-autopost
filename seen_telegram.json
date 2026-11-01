@@ -1,8 +1,4 @@
 [
-  "title:Трейлер Лучших панкейков в городе",
-  "skip:https://www.playground.ru/cyberpunk_2077/news/bloger_raskryl_podrobnosti_obnovleniya_2_5_dlya_cyberpunk_2077_dvojnye_pistolety_novye_zadaniya_i_mody_na_konsolyah-1883325#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.pcgamer.com/games/rpg/of-course-a-new-edgerunners-series-means-a-new-cyberpunk-2077-patch/",
-  "skip:https://gamemag.ru/news/201733/mw-4-cod-steam-user-reviews-campaign-october-2026",
   "https://www.igromania.ru/news/169373/v-battlefield-6-nachalos-sobyitie-krossover-s-dead-space-s-novyim-pve-rezhimom/",
   "title:В Battlefield 6 началось событие-кроссовер с Dead Space с новым PvE-режимом",
   "https://www.film.ru/articles/novye-sekretnye-materialy-oficialno-zapushcheny-rasskazyvaem-vse-chto-izvestno-o-seriale",
@@ -998,5 +994,9 @@
   "title:«Это мировой феномен»: Nintendo извинилась за нехватку консолей Switch 2 в стиле The Legend of Zelda: Ocarina of Time",
   "skip:https://www.film.ru/news/serial-o-garri-pottere-novye-aktery",
   "https://www.film.ru/news/dzheyms-gann-predstavit-novogo-betmena",
-  "title:Джеймс Ганн представит нового Бэтмена"
+  "title:Джеймс Ганн представит нового Бэтмена",
+  "skip:https://www.igromania.ru/news/169664/prodazhi-simulyatora-magazina-probably-stolen-dostigli-otmetki-v-polmilliona-kopij/",
+  "skip:https://stopgame.ru/newsdata/73349/kiberpankovyy_simulyator_lavochnika_probably_stolen_kupili_500_tysyach_raz",
+  "https://www.pcgamer.com/games/dark-souls/fromsoftware-temporarily-shuts-down-dark-souls-2-and-3-multiplayer-over-server-issue/",
+  "title:FromSoftware temporarily shuts down Dark Souls 2 and 3 multiplayer over 'server issue'"
 ]

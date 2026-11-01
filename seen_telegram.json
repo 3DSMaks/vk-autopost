@@ -1,8 +1,4 @@
 [
-  "https://www.film.ru/articles/novye-sekretnye-materialy-oficialno-zapushcheny-rasskazyvaem-vse-chto-izvestno-o-seriale",
-  "title:Новые «Секретные материалы» официально запущены! Рассказываем все, что известно о сериале Куглера",
-  "skip:https://stopgame.ru/newsdata/73232/lishnego_ne_potracheno_pyaterochka_kafe_razygraet_konsoli_i_smartfony_za_pokupku_gotovoy_edy",
-  "skip:https://stopgame.ru/newsdata/73236/sluh_dice_i_respawn_trudyatsya_nad_star_wars_battlefront_iii",
   "skip:https://www.ign.com/articles/theres-real-force-behind-these-star-wars-battlefront-3-rumors",
   "https://www.playground.ru/fable_2026/news/idealnyj_duh_klassiki_razrabotchiki_fable_opublikovali_muzykalnuyu_temu_bauerstouna_chem_obradovali_fanatov-1883341#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:\"Идеальный дух классики\": разработчики Fable опубликовали музыкальную тему Бауэрстоуна, чем обрадовали фанатов",
@@ -998,5 +994,9 @@
   "https://www.pcgamer.com/games/dark-souls/fromsoftware-temporarily-shuts-down-dark-souls-2-and-3-multiplayer-over-server-issue/",
   "title:FromSoftware temporarily shuts down Dark Souls 2 and 3 multiplayer over 'server issue'",
   "https://deadline.com/2026/10/vision-quest-paul-bettany-blew-10-blood-vessels-eye-1237210698/",
-  "title:‘Vision Quest’s Paul Bettany On How He Blew 10 Blood Vessels In His Eye While “Wildly Overacting”: “A Lesson In Less Is More”"
+  "title:‘Vision Quest’s Paul Bettany On How He Blew 10 Blood Vessels In His Eye While “Wildly Overacting”: “A Lesson In Less Is More”",
+  "skip:https://kg-portal.ru/comments/135604-tajka-vajtiti-ne-sterpel-postanovschik-nabrosilsja-na-kritikov-svoego-poslednego-provalnogo-filma-s-dzhennoj-ortegoj/",
+  "skip:https://deadline.com/2026/10/taika-waititi-calls-klara-and-the-sun-critics-irrelevant-1237210687/",
+  "https://www.film.ru/news/kinoteatry-otkazalis-pokazyvat-kliffa-buta",
+  "title:Кинотеатры отказались показывать «Клиффа Бута»"
 ]

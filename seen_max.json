@@ -1,14 +1,4 @@
 [
-  "title:Онлайн-релиз Собачьих звезд Ридли Скотта",
-  "skip:https://www.igromania.ru/news/169412/v-cd-projekt-red-rasskazali-kogda-proishodyat-sobyitiya-cyberpunk-edgerunners-2/",
-  "skip:https://www.playground.ru/cyberpunk_2077/news/cd_projekt_red_raskryla_god_dejstviya_vtorogo_sezona_edgerunners_2_i_proyasnila_svyaz_s_cyberpunk_2077-1883507#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "https://www.igromania.ru/news/169409/ponyatno-kto-platit-gta-6-reklamiruyut-na-tv-s-udlinyonnyimi-stsenami-iz-za-tsenzuryi-i-bez-logo-xbox/",
-  "title:Понятно, кто платит — GTA 6 рекламируют на ТВ с удлинёнными сценами из-за «цензуры» и без лого Xbox",
-  "https://deadline.com/2026/10/john-leguizamo-thonored-sao-paulo-film-festival-1237169485/",
-  "title:‘The Odyssey’ Star John Leguizamo To Be Honored At São Paulo International Film Festival",
-  "skip:https://stopgame.ru/newsdata/73248/9_dekabrya_riders_republic_poluchit_oflayn_rezhim_i_vyydet_na_switch_2",
-  "https://www.igromania.ru/news/169418/yaponskie-fanatyi-forza-horizon-6-zhaluyutsya-na-banyi-iz-za-ukrasheniya-mashin-v-stile-anime/",
-  "title:Японские фанаты Forza Horizon 6 жалуются на баны из-за украшения машин в стиле аниме",
   "skip:https://deadline.com/2026/10/noel-clarke-pleads-not-guilty-sexual-offenses-1237169545/",
   "skip:https://www.kinonews.ru/news_143770/",
   "https://www.film.ru/news/novaya-ekranizaciya-sobachego-serdca",
@@ -998,5 +988,15 @@
   "skip:https://variety.com/2026/film/news/green-room-director-patrick-stewart-1236936405/",
   "skip:https://www.film.ru/articles/o-kapitan-moy-kapitan-kakim-my-zapomnim-patrika-styuarta-ispolnitelya-roley-zhan-lyuka",
   "https://deadline.com/2026/10/robert-downey-jr-pedro-pascal-mcu-role-reversal-halloween-1237210827/",
-  "title:Robert Downey Jr. & Pedro Pascal Serve MCU Role Reversal For Halloween: “Costume Swap!”"
+  "title:Robert Downey Jr. & Pedro Pascal Serve MCU Role Reversal For Halloween: “Costume Swap!”",
+  "skip:https://www.igromania.ru/news/169657/razrabotchiki-wolfenstein-i-doom-posle-sokraschenij-v-xbox-stali-sotrudnichat-eschyo-tesnee/",
+  "skip:https://www.playground.ru/forza_horizon_6/news/soosnovatel_serii_forza_den_grinuolt_pokidaet_microsoft-1886727#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169656/dopolnenie-evercold-dlya-final-fantasy-xiv-vyijdet-23-fevralya-2027-goda/",
+  "skip:https://stopgame.ru/newsdata/73350/utechka_v_set_popal_vozmozhnyy_geympley_remeyka_pervoy_persona_no_est_nyuansy",
+  "skip:https://www.pcgamer.com/games/racing/forza-co-creator-dan-greenawalt-is-reportedly-leaving-microsoft/",
+  "skip:https://www.pcgamer.com/games/horror/after-almost-a-decade-of-work-alien-isolation-mod-tools-hit-1-0-with-support-for-full-custom-maps-missions-modes-characters-weapons-animations-sounds-models-textures-and-more/",
+  "skip:https://www.ign.com/articles/persona-1-remake-footage-seemingly-leaks-online",
+  "skip:https://stopgame.ru/newsdata/73347/mina_the_hollower_obespechila_yacht_club_games_finansovuyu_stabilnost_poka_chto",
+  "https://www.ign.com/articles/input-lag-is-so-bad-in-call-of-duty-modern-warfare-4-on-nintendo-switch-2-that-players-suffer-from-a-competitive-disadvantage",
+  "title:Input Lag Is So Bad in Call of Duty: Modern Warfare 4 on Nintendo Switch 2 That Players Suffer From a 'Competitive Disadvantage'"
 ]

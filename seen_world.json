@@ -1,14 +1,4 @@
 [
-  "skip:https://ria.ru/20261029/putin-2127909906.html",
-  "skip:https://ria.ru/20261029/putin-2127909390.html",
-  "skip:https://tass.ru/politika/28268321",
-  "skip:https://ria.ru/20261029/moskva-2127908762.html",
-  "https://ria.ru/20261029/putin-2127916043.html",
-  "title:В Москве завершился третий саммит «Россия — Африка»",
-  "skip:https://www.rbc.ru/rbcfreenews/6ae37cca99cf668dcbaef348",
-  "https://tass.ru/proisshestviya/28268299",
-  "title:В турецкой Каппадокии из-за обрушения скалы погибли три человека",
-  "skip:https://tass.ru/politika/28268485",
   "skip:https://tass.ru/politika/28268383",
   "skip:https://tass.ru/politika/28268565",
   "skip:https://tass.ru/politika/28268463",
@@ -998,5 +988,15 @@
   "title:В Ростовской области задержан подозреваемый в похищении и убийстве семейной пары",
   "skip:https://tass.ru/sport/28276405",
   "https://www.rbc.ru/sport/01/11/2026/6ae76451ed0a2bda6d0b8da0",
-  "title:Финляндия предложила странам ЕС ограничить въезд российским спортсменам"
+  "title:Финляндия предложила странам ЕС ограничить въезд российским спортсменам",
+  "skip:https://ria.ru/20261101/filippo-2128489429.html",
+  "https://tass.ru/mezhdunarodnaya-panorama/28276511",
+  "title:Французский политик Флориан Филиппо обвинил Еврокомиссию во вмешательстве во внутренние дела Польши",
+  "skip:https://tass.ru/sport/28276495",
+  "skip:https://tass.ru/sport/28276489",
+  "skip:https://tass.ru/sport/28276451",
+  "skip:https://www.rbc.ru/sport/01/11/2026/6ae75e706b514a72023eaf42",
+  "skip:https://ria.ru/20261101/medali-2128479406.html",
+  "https://tass.ru/sport/28276505",
+  "title:Сборная России по спортивной борьбе завоевала четыре золотые медали на чемпионате мира в Астане"
 ]

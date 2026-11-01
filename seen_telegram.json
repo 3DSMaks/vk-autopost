@@ -1,9 +1,4 @@
 [
-  "skip:https://www.film.ru/news/tom-holland-v-penthause",
-  "skip:https://www.film.ru/news/uvolnenie-dena-lima-iz-netflix",
-  "skip:https://www.kinonews.ru/news_143741/",
-  "https://kg-portal.ru/comments/135446-postery-filma-dzhumandzhi-otkrytyj-mir/",
-  "title:Полное равенство голов на постере приключенческого экшена \"Джуманджи: Открытый мир\"",
   "skip:https://www.igromania.ru/news/169364/biznes-strateg-xbox-udalil-akkaunt-v-sotssetyah-posle-yarostnoj-rechi-ob-ii-v-igrovoj-industrii/",
   "skip:https://www.playground.ru/cyberpunk_2077/news/vozvraschenie_v_najt_siti_vtoroj_sezon_kiberpank_beguschie_po_krayu_vyshel_na_netflix-1883250#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://gamemag.ru/news/201752/microsoft-reportedly-sending-e-mails-to-lapsed-xbox-console-users-to-sell-their-consoles-to-best-buy",
@@ -998,5 +993,10 @@
   "title:Спецвыпуск Добро пожаловать в Дерри",
   "skip:https://www.kinonews.ru/article_143899/",
   "https://deadline.com/2026/10/box-office-you-can-see-everything-clayface-halloween-1237209579/",
-  "title:‘Clayface’ Chasing Elizabeth Holmes & Nathan Fielder For No. 1, But Docu Duo Have Edge With Near $11M – Halloween Box Office Update"
+  "title:‘Clayface’ Chasing Elizabeth Holmes & Nathan Fielder For No. 1, But Docu Duo Have Edge With Near $11M – Halloween Box Office Update",
+  "skip:https://deadline.com/2026/10/snl-pays-tribute-patrick-stewart-1237210812/",
+  "skip:https://variety.com/2026/film/news/green-room-director-patrick-stewart-1236936405/",
+  "skip:https://www.film.ru/articles/o-kapitan-moy-kapitan-kakim-my-zapomnim-patrika-styuarta-ispolnitelya-roley-zhan-lyuka",
+  "https://www.kinonews.ru/news_143911/",
+  "title:Для сериала \"Гарри Поттер\" нашли Распределяющую Шляпу и призраков"
 ]

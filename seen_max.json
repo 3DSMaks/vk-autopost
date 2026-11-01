@@ -1,7 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/sony-issues-new-ps5-firmware-update-as-jailbreak-race-heats-up-ahead-of-gta-6-release",
-  "https://www.pcgamer.com/gaming-industry/ea-sports-fc-27-gets-a-pegi-16-rating-in-europe-because-of-loot-boxes/",
-  "title:EA Sports FC 27 gets a PEGI 16 rating in Europe because of loot boxes",
   "skip:https://www.film.ru/news/perezapusk-hora-v-rabote",
   "https://deadline.com/2026/10/hunting-alice-bell-trailer-alexandra-roach-simon-pegg-1237169559/",
   "title:‘Hunting Alice Bell’: Trailer Drops For Channel 4 Drama Featuring Alexandra Roach & Simon Pegg",
@@ -998,5 +995,8 @@
   "https://www.igromania.ru/news/169654/razrabotchiki-lords-of-the-fallen-2-vzyali-kredit-pochti-v-30-mln-evro-na-zapusk-igryi/",
   "title:Разработчики Lords of the Fallen 2 взяли кредит почти в 30 млн евро на запуск игры",
   "https://www.film.ru/news/serial-o-garri-pottere-novye-aktery",
-  "title:Сериал о «Гарри Поттере» новые актеры"
+  "title:Сериал о «Гарри Поттере» новые актеры",
+  "skip:https://www.pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt/",
+  "https://www.playground.ru/bayonetta_3/news/eksklyuziv_nintendo_switch_bayonetta_3_poluchil_neofitsialnyj_port_na_pk_cherez_proekt_witch_time-1886779#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Эксклюзив Nintendo Switch Bayonetta 3 получил неофициальный порт на ПК через проект Witch Time"
 ]

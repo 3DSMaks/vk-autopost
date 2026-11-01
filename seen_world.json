@@ -1,12 +1,4 @@
 [
-  "skip:https://tass.ru/ekonomika/28267939",
-  "https://www.interfax.ru/world/1125863",
-  "title:Финляндия, США и «Росатом» заключили соглашения по редкоземельным металлам",
-  "skip:https://ria.ru/20261029/vk-2127880345.html",
-  "https://www.rbc.ru/society/29/10/2026/6ae35d37c62df9fe987523eb",
-  "title:Минцифры предложило блокировать SIM-карты мошенников на уровне операторов",
-  "skip:https://www.rbc.ru/sport/29/10/2026/6ae34aa86a59b56c1f42da17",
-  "skip:https://ria.ru/20261029/tennis-2127889431.html",
   "skip:https://tass.ru/sport/28268031",
   "https://www.kommersant.ru/doc/9064024",
   "title:Даниил Медведев победил Кэмерона Норри и вышел в четвертьфинал турнира в Вене",
@@ -998,5 +990,13 @@
   "skip:https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
   "skip:https://news.google.com/rss/articles/CBMitAFBVV95cUxOX2l3Y3cxckRlRlpIRFQzT2FWa0YzZHcxYTdSV3dDY29iN0FNUHdqa1hKWkxFdU40NFI5MG8tWEV2SU54cng3NXpoV3JhdzdjVVRKZHJPYmlPNVBYTG95Y1lQYW1PbzVscnpHZ0plMGhET096ZDNjdEg0dTlzd2dPNVNlOXV3N2NiOW5rXzRsN3VZc2pSQWk0TUxkLXl4ZTRrcV9mMW9UWnUtSzlPajJaLS16Qm8?oc=5",
   "https://tass.ru/mezhdunarodnaya-panorama/28276233",
-  "title:В Германии прошли массовые протесты и беспорядки, приведшие к столкновениям с полицией"
+  "title:В Германии прошли массовые протесты и беспорядки, приведшие к столкновениям с полицией",
+  "skip:https://www.interfax.ru/business/1126402",
+  "skip:https://tass.ru/ekonomika/28276203",
+  "skip:https://ria.ru/20261101/opek-2128452185.html",
+  "https://www.kommersant.ru/doc/9078485",
+  "title:Семь стран ОПЕК+ сохранили действующие квоты по добыче нефти на декабрь",
+  "skip:https://www.rbc.ru/politics/01/11/2026/6ae7277381b6b30aeb2295d7",
+  "https://tass.ru/mezhdunarodnaya-panorama/28276289",
+  "title:В Сербии задержали высокопоставленных сотрудников полиции"
 ]

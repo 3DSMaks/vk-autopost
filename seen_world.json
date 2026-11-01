@@ -1,11 +1,4 @@
 [
-  "skip:https://www.rbc.ru/rbcfreenews/6ae380331bbabc2d90db9f89",
-  "skip:https://ria.ru/20261029/putin-2127913200.html",
-  "skip:https://tass.ru/obschestvo/28268357",
-  "skip:https://ria.ru/20261029/putin-2127913100.html",
-  "skip:https://www.kommersant.ru/doc/9064135",
-  "skip:https://tass.ru/ekonomika/28268353",
-  "skip:https://tass.ru/politika/28268349",
   "skip:https://ria.ru/20261029/putin-2127912515.html",
   "skip:https://ria.ru/20261029/putin-2127912353.html",
   "skip:https://ria.ru/20261029/putin-2127912263.html",
@@ -998,5 +991,12 @@
   "skip:https://www.rbc.ru/sport/01/11/2026/6ae7444f81b6b30aeb229613",
   "skip:https://tass.ru/sport/28276305",
   "https://tass.ru/sport/28276401",
-  "title:Российские борцы завоевали золотые и бронзовые медали на чемпионате мира в Астане"
+  "title:Российские борцы завоевали золотые и бронзовые медали на чемпионате мира в Астане",
+  "skip:https://www.rbc.ru/rbcfreenews/6ae7538781b6b30aeb229665",
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVEpDUVhCYWticTBIZEZxaHVlMXBZbFp0ODd6RVB2c1VzNllrVFpHRk5SR3E4Uk9YeWRJVFVoVGhlLS10ckliNzkyTzdjNi1KRU85UG9UQXpvcjlteTdLcm5iTERreDNqaF9jSU1ndTBwN2pBcXdGNlhEYTRmTFpKOXVOMUl3Q21fQW9DS2gxUWpkYjdfYnlJWmROR3VEQk5KUVhNSGFMNFFHcUZmNTZ2UENLWks?oc=5",
+  "title:ФСБ раскрыла детали задержания подростка в Москве после информации из США о подготовке теракта",
+  "skip:https://www.theguardian.com/politics/live/2026/nov/01/andy-burnham-uk-historic-slave-trade-financial-reparations-badenoch-budget-defence-latest-politics-news-updates",
+  "skip:https://www.aljazeera.com/news/2026/11/1/burnham-open-to-uk-slavery-apology-but-not-reparations-why-now?traffic_source=rss",
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZlE4dXBSNXNIRlR3U1ZfS2hXam11aWp1cWpLUzgxVUVxemRoeUczdnZuU21BaGFkaWtMa1BfYWRNZ0JDeGNFQkg3am5yaVQ2VEljZlduRGhlT3pBVUpESDNWcW05OU5BVXhBTW5BU3VxdjRHS0NjdW1MY1FFc0ZKV3BkUTNOYkd0NHE5d3V0R2FvcXA4NWJ2U0tQN0o4bnhaNGc?oc=5",
+  "title:Власти Великобритании исключили возможность выплаты репараций за историческую роль в работорговле"
 ]

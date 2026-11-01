@@ -1,11 +1,4 @@
 [
-  "title:В пригороде Харькова прогремел взрыв",
-  "skip:https://ria.ru/20261029/byudzhet-2127838239.html",
-  "https://www.rbc.ru/economics/29/10/2026/6ae32b5df1d11a85f97f2468",
-  "title:Госдума одобрила в первом чтении проект федерального бюджета на 2027–2029 годы",
-  "skip:https://www.france24.com/en/europe/20261029-at-least-13-killed-in-horrific-russian-drone-strike-at-ukraine-train-station",
-  "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMVJMbm5Vb3NTVmNud01fMHc3WHJUWTNvWl8zSmJYZjVUUHhRbm5VWGZxVWZmbGpQdHZNZUlCQVFuLWxWb1FoR0xTZThVSmRTRVBlWUlLaWNKUTZzVnV1dTYyellibWN0XzFXNGpsUk45U2o1Z2hzUndOUEJYM0Q3WmUxSHFteS1WRXpyRk5JcmdTaEdyNVMzV2dwRGxCc0hGMlpQRElXQzMxZXdj?oc=5",
-  "title:Удар беспилотника по железнодорожной станции в Днепре привел к гибели людей",
   "skip:https://www.interfax.ru/business/1125825",
   "https://www.kommersant.ru/doc/9063831",
   "title:Госдума приняла в первом чтении проект федерального бюджета на 2027–2029 годы",
@@ -998,5 +991,12 @@
   "skip:https://ria.ru/20261101/lnr-2128434466.html",
   "skip:https://tass.ru/proisshestviya/28276069",
   "https://www.rbc.ru/rbcfreenews/6ae712d5d019f528230d3a08",
-  "title:Четыре мирных жителя погибли при атаках Украины на ЛНР"
+  "title:Четыре мирных жителя погибли при атаках Украины на ЛНР",
+  "skip:https://www.kommersant.ru/doc/9078414",
+  "https://www.rbc.ru/politics/01/11/2026/6ae6fb54d8edc07a79bde806",
+  "title:Армия Ирана заявила о покупке российских Су-35 и ожидает их поставки",
+  "skip:https://www.rbc.ru/economics/01/11/2026/6ae70b8c2432b1a6cebe6edd",
+  "skip:https://ria.ru/20261101/evropa-2128431144.html",
+  "https://www.kommersant.ru/doc/9078438",
+  "title:Александр Новак заявил о поступлении российского дизеля на рынок ЕС под другими марками"
 ]

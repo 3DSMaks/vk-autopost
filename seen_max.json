@@ -1,10 +1,4 @@
 [
-  "title:«Доведённая до совершенства классика» — пресса оценила Final Fantasy Resonance",
-  "skip:https://www.kinonews.ru/news_143766/",
-  "skip:https://www.film.ru/news/denzel-vashington-v-roli-detektiva",
-  "skip:https://www.film.ru/news/treyler-nad-bezdnoy-idrisa-elby",
-  "skip:https://kg-portal.ru/comments/135462-nad-glubinoj-trejler/",
-  "https://www.film.ru/news/14-y-sezon-amerikanskoy-istorii-uzhasov",
   "title:14-й сезон Американской истории ужасов",
   "skip:https://www.igromania.ru/news/169407/palworld-poluchit-krupnoe-obnovlenie-side-by-side-etoj-zimoj/",
   "skip:https://stopgame.ru/newsdata/73245/etoy_zimoy_palworld_poluchit_krupnoe_obnovlenie_side_by_side",
@@ -998,5 +992,11 @@
   "https://www.pcgamer.com/games/mmo/dune-awakening-is-getting-a-free-dlc-that-adds-a-whole-new-map-and-swaps-out-sand-for-snow/",
   "title:Dune: Awakening is getting a free DLC that adds a whole new map and swaps out sand for snow",
   "https://gamemag.ru/news/201921/blomberg-microsoft-deystvitelno-potratila-na-gears-of-war-e-day-500-mln-dollarov",
-  "title:Blomberg: Microsoft действительно потратила на Gears of War: E-Day 500 млн долларов"
+  "title:Blomberg: Microsoft действительно потратила на Gears of War: E-Day 500 млн долларов",
+  "skip:https://stopgame.ru/newsdata/73351/reliz_dopolneniya_evercold_dlya_final_fantasy_xiv_pereehal_na_23_fevralya",
+  "skip:https://www.playground.ru/physint/news/hideo_kodzima_pokazal_novyj_poster_shpionskogo_ekshena_physint_s_billom_skarsgardom-1886708#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-evercold-delayed-to-february-preorders-start-next-week/",
+  "skip:https://gamemag.ru/news/201924/oficialno-v-little-nightmares-iii-sygralo-bolee-2-mln-chelovek",
+  "https://www.playground.ru/gta_6/news/bukmekery_i_trejdery_otsenili_shansy_gta_6_na_metacritic_v_istoricheskij_rekord_nikto_ne_verit-1886711#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Букмекеры и трейдеры оценили шансы GTA 6 на Metacritic: в исторический рекорд никто не верит"
 ]

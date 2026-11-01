@@ -1,13 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1125853",
-  "skip:https://www.kommersant.ru/doc/9063922",
-  "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-  "title:Удар беспилотника по железнодорожной станции в Днепре и гибель мирных жителей в Белгородской области",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28267629",
-  "skip:https://www.interfax.ru/world/1125851",
-  "skip:https://www.interfax.ru/world/1125842",
-  "https://tass.ru/mezhdunarodnaya-panorama/28267823",
-  "title:Партия Нетаньяху лидирует на выборах в Израиле на фоне споров о возможном внешнем вмешательстве",
   "skip:https://tass.ru/ekonomika/28267939",
   "https://www.interfax.ru/world/1125863",
   "title:Финляндия, США и «Росатом» заключили соглашения по редкоземельным металлам",
@@ -998,5 +989,14 @@
   "skip:https://ria.ru/20261101/rossija-2128443767.html",
   "skip:https://www.rbc.ru/rbcfreenews/6ae70979dbc956125771c1ac",
   "https://www.kommersant.ru/doc/9078464",
-  "title:Россия и Азербайджан подписали программу по модернизации бронетехники"
+  "title:Россия и Азербайджан подписали программу по модернизации бронетехники",
+  "skip:https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXU0aVh0RXlJYm1BOUtMU2FncFZnaDY5dVo4LXR0OFhsUzl1V2s0ZHpoeU5VX2d4cjg0RWRXRkRLLVhRRFJ6QlVKd3dEQ3ZtNVF0c0laVUtZZU1DTFB2bVVpN01abDA1RDRBWXJLRzFSVzZpQmFaWFBVaVdhNG9GdEVranBrT2M5NzlmWFVKSXo5QjJla0JLZ2x3SG9pOE9mb0xOaUNaZmxxbzQ4RlVVY04tZnRxZWNLNVBoby1WMXQ?oc=5",
+  "https://www.kommersant.ru/doc/9078496",
+  "title:Иранские и российские представители проводят переговоры в Абу-Даби и Дохе",
+  "skip:https://news.google.com/rss/articles/CBMirwFBVV95cUxPNTdPSnZDZzVvN2xBQW5kZUxRSEpEb2UxOG9jc2xkZEpCa2dIeXR4Z0xMMkdfWlc4UnB1UHJFNFg1cmZEa0ZmMW9TTktHOHJHODFYNWlUckNGZnlhWk1kVmhnczhVeGl2djV6d1FKVzNPel84dFg4a3RSRjVVTDJuYkVVWG5iTWRkWjRFel9lWHpLcG9xbElvYnV5akVURUh4aURuVzRQNmN3aDF1OE5n?oc=5",
+  "skip:https://tass.ru/proisshestviya/28276215",
+  "skip:https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+  "skip:https://news.google.com/rss/articles/CBMitAFBVV95cUxOX2l3Y3cxckRlRlpIRFQzT2FWa0YzZHcxYTdSV3dDY29iN0FNUHdqa1hKWkxFdU40NFI5MG8tWEV2SU54cng3NXpoV3JhdzdjVVRKZHJPYmlPNVBYTG95Y1lQYW1PbzVscnpHZ0plMGhET096ZDNjdEg0dTlzd2dPNVNlOXV3N2NiOW5rXzRsN3VZc2pSQWk0TUxkLXl4ZTRrcV9mMW9UWnUtSzlPajJaLS16Qm8?oc=5",
+  "https://tass.ru/mezhdunarodnaya-panorama/28276233",
+  "title:В Германии прошли массовые протесты и беспорядки, приведшие к столкновениям с полицией"
 ]

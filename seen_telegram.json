@@ -1,7 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73234/helldivers_ii_pereveli_na_novyy_antichit",
-  "skip:https://www.igromania.ru/news/169363/razrabotchiki-helldivers-2-menyayut-antichit-i-nachinayut-tschatelnee-sledit-za-modami/",
-  "https://www.playground.ru/gears_of_war_e_day/news/gears_of_war_e_day_odna_iz_samyh_populyarnyh_igr_na_moment_zapuska_v_severnoj_amerike-1883295#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Gears of War: E-Day - одна из самых популярных игр на момент запуска в Северной Америке",
   "skip:https://variety.com/2026/film/global/luckychap-international-katie-goodson-thomas-president-film-1236917249/",
   "skip:https://kg-portal.ru/comments/135450-luchshie-blinchiki-v-okruge-trejler/",
@@ -998,5 +995,8 @@
   "https://www.kinonews.ru/news_143918/",
   "title:Кристофер Ллойд жалеет об одном невыполненном трюке в \"Назад в будущее 3\"",
   "https://gamemag.ru/news/201921/blomberg-microsoft-deystvitelno-potratila-na-gears-of-war-e-day-500-mln-dollarov",
-  "title:Blomberg: Microsoft действительно потратила на Gears of War: E-Day 500 млн долларов"
+  "title:Blomberg: Microsoft действительно потратила на Gears of War: E-Day 500 млн долларов",
+  "https://gamemag.ru/news/201925/intergalactic-the-heretic-prophet-ashley-johnson-playing",
+  "video:2026-11-01:https://gamemag.ru/news/201925/intergalactic-the-heretic-prophet-ashley-johnson-playing",
+  "title:Похоже, PS5-эксклюзив Intergalactic: The Heretic Prophet уже находится в играбельном состоянии"
 ]

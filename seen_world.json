@@ -1,10 +1,4 @@
 [
-  "skip:https://ria.ru/20261029/putin-2127916920.html",
-  "skip:https://ria.ru/20261029/putin-2127916446.html",
-  "skip:https://ria.ru/20261029/putin-2127916590.html",
-  "skip:https://www.rbc.ru/rbcfreenews/6ae18ff76b25b287949d4755",
-  "https://tass.ru/politika/28268583",
-  "skip:https://ria.ru/20261029/putin-2127922849.html",
   "skip:https://tass.ru/ekonomika/28268527",
   "skip:https://ria.ru/20261029/putin-2127922123.html",
   "skip:https://tass.ru/politika/28268525",
@@ -998,5 +992,11 @@
   "title:Илияна Йотова лидирует во втором туре президентских выборов в Болгарии",
   "skip:https://tass.ru/ekonomika/28276533",
   "https://www.interfax.ru/russia/1126418",
-  "title:Аэропорт Пскова ввел временные ограничения на прием и выпуск рейсов"
+  "title:Аэропорт Пскова ввел временные ограничения на прием и выпуск рейсов",
+  "skip:https://ria.ru/20261101/finljandija-2128493552.html",
+  "https://www.kommersant.ru/doc/9078629",
+  "title:Финляндия предложила запретить въезд российских спортсменов в Шенгенскую зону",
+  "skip:https://news.google.com/rss/articles/CBMiswFBVV95cUxQNFRBVkdFd1REUGNsaWd3Z2lRUzVQdEwtczZmOUtvZHBiWmVmSkUyMGdURWVNSV9SbV9Oa0hPRW5iV0hXS2JtN1JIYTdqcjJBeXJzOVpGSTYtYVNFM3FHUVdDSU9TcnpoNVF0XzNPTVVsclNPa3JabVlEVEZVbEFYdnA4U1Z1YWxSQ2lkU01lM0YwbHd4dWxqRjNodV8tUDUxWmk3MGxFMHVNLVFRV1FWaWVVUQ?oc=5",
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX1NiRk5MRXE1STVPM1NFMEx5bWRKR3Z3VFpCenRzSm5BaHoxRFB3REF0Z05UMi1adU9mTGVGVTVLUlk5cDdLRlJaRGR1TGJ3cWR6WmZVRnpCMGhCdUFIMzBwTXFsSzhQczdDYnJvRVRHWjFmblZtWXYwTWd4cWJlaTVZbjEwU1VCMG5uRElwNGhRZ0wzb1NDazBVdzFCX1E?oc=5",
+  "title:Сенатора Криса Мерфи госпитализировали с инсультом"
 ]

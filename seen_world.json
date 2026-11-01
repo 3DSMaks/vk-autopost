@@ -1,13 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9064048",
-  "skip:https://www.interfax.ru/world/1125877",
-  "https://tass.ru/kosmos/28268197",
-  "title:На Солнце зафиксирован крупный выброс протуберанца размером около 500 тыс. км",
-  "skip:https://news.google.com/rss/articles/CBMiswFBVV95cUxQT19OLUYzbVNkOXdLUFJnQWJpOHRJaDQ0Y3FyVWs5M1IyLTFIZmRsazhqakFvMlFPNnFTeEM1T0VTTnlHTjJyMjFsblVzMlduWlRNeFI0VjlZVXRwNUZGUTVFeWdTY0tLRzlaRWFKam9uU2lRREVFS0lTLXpQME9jR25LRjF5Z0lnZ2lqbV9ybjZfRlZldDRYXzB6UElVU08zVFduMzhCYjFTb25hWTBtNTA4dw?oc=5",
-  "https://ria.ru/20261029/katar-2127899183.html",
-  "title:Катар закупает СПГ у США для снижения рисков экспорта по Ормузскому проливу",
-  "skip:https://tass.ru/proisshestviya/28268235",
-  "https://ria.ru/20261029/chislo-2127907863.html",
   "title:Число жертв железнодорожной катастрофы в Испании увеличилось до 74",
   "skip:https://news.google.com/rss/articles/CBMinAFBVV95cUxNX01JdWZRb19GUU9tM1JsQkhzcGM4dFBqdENqQ3VRdWhLcjRmaTFreXFZRkFuc3VZVDc3MTFCUHlTbGltZzlmbm53M2VoUkQ4YzB4VnQ5Nl9GVTF6U2hxTkRYa2tVNlZLcHpTX2pUWjBPaTdjSldHOG9WMVV0MUlTWFY0WU45NmNjR2lzNndfdVNGWTdtdHJFUUoxd1Q?oc=5",
   "skip:https://ria.ru/20261029/es-2127900758.html",
@@ -998,5 +989,14 @@
   "skip:https://tass.ru/obschestvo/28276295",
   "skip:https://www.interfax.ru/russia/1126405",
   "https://www.kommersant.ru/doc/9078508",
-  "title:В Нижегородской области ввели лимит на продажу бензина после атаки беспилотников"
+  "title:В Нижегородской области ввели лимит на продажу бензина после атаки беспилотников",
+  "skip:https://ria.ru/20261101/fsb-2128465205.html",
+  "skip:https://www.interfax.ru/russia/1126407",
+  "skip:https://tass.ru/obschestvo/28276321",
+  "skip:https://www.kommersant.ru/doc/9078521",
+  "https://www.rbc.ru/rbcfreenews/6ae746781dfdf0fb94e2bcf4",
+  "title:ФСБ задержала несовершеннолетнего после информации из США о подготовке теракта в Москве",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28276249",
+  "https://ria.ru/20261101/london-2128466717.html",
+  "title:В Лондоне у посольства США задержали более 300 участников протеста в поддержку Palestine Action"
 ]

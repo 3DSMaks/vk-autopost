@@ -1,9 +1,4 @@
 [
-  "https://stopgame.ru/newsdata/73243/morehodstvo_romany_i_novye_istorii_v_reviewnom_trailere_dlc_dlya_crimson_desert",
-  "title:Мореходство, романы и новые истории в обзорном трейлере DLC для Crimson Desert",
-  "skip:https://www.kinonews.ru/news_143769/",
-  "skip:https://www.kinonews.ru/news_143758/",
-  "https://www.film.ru/news/onlayn-reliz-sobachih-zvezd-ridli-skotta",
   "title:Онлайн-релиз Собачьих звезд Ридли Скотта",
   "skip:https://www.igromania.ru/news/169412/v-cd-projekt-red-rasskazali-kogda-proishodyat-sobyitiya-cyberpunk-edgerunners-2/",
   "skip:https://www.playground.ru/cyberpunk_2077/news/cd_projekt_red_raskryla_god_dejstviya_vtorogo_sezona_edgerunners_2_i_proyasnila_svyaz_s_cyberpunk_2077-1883507#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +993,10 @@
   "title:Букмекеры и трейдеры оценили шансы GTA 6 на Metacritic: в исторический рекорд никто не верит",
   "skip:https://www.playground.ru/physint/news/v_set_popali_pervye_dizajny_physint_novoj_shpionskoj_igry_hideo_kodzimy-1886704#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.playground.ru/elder_scrolls_5_skyrim/news/entuziast_perenes_rendering_the_elder_scrolls_5_skyrim_na_dvizhok_unreal_engine_5_s_sohraneniem_podderzhki_modov-1886715#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Энтузиаст перенес рендеринг The Elder Scrolls 5: Skyrim на движок Unreal Engine 5 с сохранением поддержки модов"
+  "title:Энтузиаст перенес рендеринг The Elder Scrolls 5: Skyrim на движок Unreal Engine 5 с сохранением поддержки модов",
+  "skip:https://deadline.com/2026/10/snl-pays-tribute-patrick-stewart-1237210812/",
+  "skip:https://variety.com/2026/film/news/green-room-director-patrick-stewart-1236936405/",
+  "skip:https://www.film.ru/articles/o-kapitan-moy-kapitan-kakim-my-zapomnim-patrika-styuarta-ispolnitelya-roley-zhan-lyuka",
+  "https://deadline.com/2026/10/robert-downey-jr-pedro-pascal-mcu-role-reversal-halloween-1237210827/",
+  "title:Robert Downey Jr. & Pedro Pascal Serve MCU Role Reversal For Halloween: “Costume Swap!”"
 ]

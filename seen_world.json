@@ -1,11 +1,4 @@
 [
-  "skip:https://www.interfax.ru/business/1125825",
-  "https://www.kommersant.ru/doc/9063831",
-  "title:Госдума приняла в первом чтении проект федерального бюджета на 2027–2029 годы",
-  "skip:https://www.kommersant.ru/doc/9063743",
-  "https://tass.ru/mezhdunarodnaya-panorama/28267339",
-  "title:США разрешили Японии производить ракеты для истребителей F-35 и строить совместный завод",
-  "skip:https://tass.ru/ekonomika/28267545",
   "skip:https://www.rbc.ru/quote/29/10/2026/6adf4c409a7947714cbf25fa",
   "https://www.interfax.ru/business/1125840",
   "title:ЕЦБ сохранил три основные процентные ставки на прежнем уровне",
@@ -998,5 +991,12 @@
   "skip:https://www.rbc.ru/economics/01/11/2026/6ae70b8c2432b1a6cebe6edd",
   "skip:https://ria.ru/20261101/evropa-2128431144.html",
   "https://www.kommersant.ru/doc/9078438",
-  "title:Александр Новак заявил о поступлении российского дизеля на рынок ЕС под другими марками"
+  "title:Александр Новак заявил о поступлении российского дизеля на рынок ЕС под другими марками",
+  "skip:https://www.interfax.ru/business/1126392",
+  "https://www.kommersant.ru/doc/9078446",
+  "title:ОПЕК+ сохранит квоты на добычу нефти в декабре",
+  "skip:https://www.kommersant.ru/doc/9078442",
+  "skip:https://www.kommersant.ru/doc/9078437",
+  "https://www.rbc.ru/society/01/11/2026/6ae71d36dbc956125771c1b9",
+  "title:Россия введет визовый режим для граждан Черногории с 30 декабря"
 ]

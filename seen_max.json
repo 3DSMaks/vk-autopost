@@ -1,6 +1,4 @@
 [
-  "skip:https://www.playground.ru/elder_scrolls_6/news/xbox_project_helix_mogli_otlozhit_do_kontsa_2028_goda_radi_vyhoda_vmeste_s_krupnym_eksklyuzivom-1883531#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169417/komanda-beyond-good-and-evil-2-rasteryalas-i-ne-ponimaet-k-chemu-idti-smi/",
   "skip:https://www.ign.com/articles/sony-issues-new-ps5-firmware-update-as-jailbreak-race-heats-up-ahead-of-gta-6-release",
   "https://www.pcgamer.com/gaming-industry/ea-sports-fc-27-gets-a-pegi-16-rating-in-europe-because-of-loot-boxes/",
   "title:EA Sports FC 27 gets a PEGI 16 rating in Europe because of loot boxes",
@@ -998,5 +996,7 @@
   "skip:https://www.igromania.ru/news/169661/vozmozhnyij-gejmplej-remejka-pervoj-persona-pokazali-v-seti/",
   "skip:https://gamemag.ru/news/201926/v-seti-poyavilis-predpolagaemye-kadry-remeyka-pervoy-persona",
   "https://www.igromania.ru/news/169654/razrabotchiki-lords-of-the-fallen-2-vzyali-kredit-pochti-v-30-mln-evro-na-zapusk-igryi/",
-  "title:Разработчики Lords of the Fallen 2 взяли кредит почти в 30 млн евро на запуск игры"
+  "title:Разработчики Lords of the Fallen 2 взяли кредит почти в 30 млн евро на запуск игры",
+  "https://www.film.ru/news/serial-o-garri-pottere-novye-aktery",
+  "title:Сериал о «Гарри Поттере» новые актеры"
 ]

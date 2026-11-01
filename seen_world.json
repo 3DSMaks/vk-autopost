@@ -1,11 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMimgFBVV95cUxPMG5CSk5rbFRVazFYVEpXdWU2cTE2R2h4OFZaZUI5VU81Y3JFQzVPenJybnhDeUlNWGNuSl9MdVlSbmU4bXRYaVB1aTZyLWliQTBCaE5ka0F2elN1XzllVVZRSGFXUnJOdXlqTkRFVUhGSWNfTGJ5N0VpdUpQQlBqQXZUU3BJY0dMYTd3Yk9YN1UxZ1lmV1hoejNn?oc=5",
-  "https://www.france24.com/en/asia-pacific/20261029-hong-kong-leader-apologises-and-housing-minister-resigns-after-fire-investigation-exposes-failures",
-  "title:Гонконгский лидер извинился после расследования пожара в жилой башне",
-  "skip:https://www.interfax.ru/russia/1125794",
-  "skip:https://ria.ru/20261029/gana-2127804342.html",
-  "https://www.rbc.ru/economics/29/10/2026/6ae3234ec3d5e49e664d11b8",
-  "title:Гана начала переговоры с Росатомом о строительстве первой в стране АЭС",
   "skip:https://www.rbc.ru/rbcfreenews/6ae318a8b11d2a34d8ec6eef",
   "https://www.kommersant.ru/doc/9063650",
   "title:В Сербии проведут повторное голосование на 53 участках на выборах",
@@ -998,5 +991,12 @@
   "title:Следственный комитет возбудил уголовное дело о теракте после атаки беспилотников на Нижегородскую область",
   "skip:https://www.rbc.ru/rbcfreenews/6ae6e42f6b8ef7b63d5e166a",
   "https://www.kommersant.ru/doc/9078400",
-  "title:В Цюрихе празднование Хэллоуина переросло в массовые беспорядки и столкновения с полицией"
+  "title:В Цюрихе празднование Хэллоуина переросло в массовые беспорядки и столкновения с полицией",
+  "skip:https://tass.ru/armiya-i-opk/28275963",
+  "https://www.interfax.ru/russia/1126384",
+  "title:Минобороны РФ сообщило о перехвате 391 украинского беспилотника за сутки",
+  "skip:https://www.interfax.ru/russia/1126387",
+  "skip:https://tass.ru/politika/28275989",
+  "https://tass.ru/politika/28276043",
+  "title:Юрий Ушаков заявил, что Владимир Путин ответит на возможный звонок Владимира Зеленского"
 ]

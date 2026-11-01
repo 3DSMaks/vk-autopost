@@ -1,12 +1,4 @@
 [
-  "skip:https://tass.ru/ekonomika/28268473",
-  "skip:https://tass.ru/politika/28268469",
-  "skip:https://www.kommersant.ru/doc/9064157",
-  "skip:https://tass.ru/ekonomika/28268467",
-  "skip:https://ria.ru/20261029/putin-2127920030.html",
-  "skip:https://tass.ru/ekonomika/28268465",
-  "skip:https://tass.ru/ekonomika/28268459",
-  "skip:https://ria.ru/20261029/putin-2127919733.html",
   "skip:https://www.rbc.ru/rbcfreenews/6ae384cbdd30b476720dac13",
   "skip:https://tass.ru/ekonomika/28268437",
   "skip:https://tass.ru/politika/28268439",
@@ -998,5 +990,13 @@
   "skip:https://tass.ru/proisshestviya/28276509",
   "skip:https://tass.ru/proisshestviya/28276473",
   "https://www.interfax.ru/russia/1126419",
-  "title:Несколько городов и районов ДНР частично обесточены из-за аварии в энергосистеме"
+  "title:Несколько городов и районов ДНР частично обесточены из-за аварии в энергосистеме",
+  "skip:https://www.interfax.ru/world/1126420",
+  "skip:https://news.google.com/rss/articles/CBMivgFBVV95cUxOOXdkX2hvMlBTTmRRRGlTbndZSTFnWnZyYkJ5STRjNFBOUkdwQ3VDUjRuTUQySzhQMkp2UXh0MW5VS3E4WHVXeEhQQ2JnRnUxV0pIVTM3T1J6Y0o3Y1JWamZ4YXMwNEtjazNiU3pERzRaWC1XNXZBZk56UU1KSUFNMWtZS0hrUjNUSW5ILW9kdWVQa3BqYkNPSl9tQk90SEtWcDdXRjZXdkdUT1IzS2ViaTgwTmE5MnlCclh1T0pB?oc=5",
+  "skip:https://www.rbc.ru/politics/01/11/2026/6ae77214b2d30c2d3dd1d60e",
+  "https://www.kommersant.ru/doc/9078620",
+  "title:Дональд Трамп пообещал использовать право вето в случае победы демократов на выборах в Конгресс",
+  "skip:https://www.rbc.ru/politics/01/11/2026/6ae7777d81b6b30aeb229695",
+  "https://tass.ru/mezhdunarodnaya-panorama/28276565",
+  "title:Илиана Йотова лидирует во втором туре президентских выборов в Болгарии согласно экзитполам"
 ]

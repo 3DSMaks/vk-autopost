@@ -1,7 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28266555",
-  "https://www.france24.com/en/europe/20261029-ecb-president-christine-lagarde-to-step-down-in-february-2027-nine-months-before-term-ends",
-  "title:Кристин Лагард объявила об уходе с поста главы ЕЦБ в феврале 2027 года",
   "skip:https://news.google.com/rss/articles/CBMimgFBVV95cUxPMG5CSk5rbFRVazFYVEpXdWU2cTE2R2h4OFZaZUI5VU81Y3JFQzVPenJybnhDeUlNWGNuSl9MdVlSbmU4bXRYaVB1aTZyLWliQTBCaE5ka0F2elN1XzllVVZRSGFXUnJOdXlqTkRFVUhGSWNfTGJ5N0VpdUpQQlBqQXZUU3BJY0dMYTd3Yk9YN1UxZ1lmV1hoejNn?oc=5",
   "https://www.france24.com/en/asia-pacific/20261029-hong-kong-leader-apologises-and-housing-minister-resigns-after-fire-investigation-exposes-failures",
   "title:Гонконгский лидер извинился после расследования пожара в жилой башне",
@@ -998,5 +995,8 @@
   "skip:https://tass.ru/proisshestviya/28275925",
   "skip:https://www.rbc.ru/rbcfreenews/6ae6ee41dfbf8227cec4a709",
   "https://www.rbc.ru/politics/01/11/2026/6ae6f7bb05248f5986c38f00",
-  "title:Следственный комитет возбудил уголовное дело о теракте после атаки беспилотников на Нижегородскую область"
+  "title:Следственный комитет возбудил уголовное дело о теракте после атаки беспилотников на Нижегородскую область",
+  "skip:https://www.rbc.ru/rbcfreenews/6ae6e42f6b8ef7b63d5e166a",
+  "https://www.kommersant.ru/doc/9078400",
+  "title:В Цюрихе празднование Хэллоуина переросло в массовые беспорядки и столкновения с полицией"
 ]

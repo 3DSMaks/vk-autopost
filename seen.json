@@ -1,7 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/article_143757/",
-  "https://deadline.com/2026/10/netflix-town-hall-executives-layoffs-peter-rice-1237170147/",
-  "title:Netflix Co-CEOs Address Executive Shakeup & Layoffs In Town Hall, Talk Up New CCO Peter Rice’s Experience Across Platforms — Including Streaming",
   "skip:https://www.kinonews.ru/news_143782/",
   "skip:https://deadline.com/2026/10/ea-cuts-400-jobs-shuts-down-bioware-1237170402/",
   "https://deadline.com/2026/10/billy-porter-leslie-jones-phoebe-robinson-places-dahlingz-1237170446/",
@@ -998,5 +995,8 @@
   "https://www.film.ru/articles/sobachi-zvezdy-serdce-zverya-i-eshche-5-filmov-kotorye-ponravyatsya-sobachnikam",
   "title:«Собачьи звезды», «Сердце зверя» и еще 5 фильмов, которые понравятся собачникам",
   "https://deadline.com/2026/10/milwaukee-brewers-weekend-update-after-world-series-1237210800/",
-  "title:Milwaukee Brewers Make Surprise “Weekend Update” Appearance After World Series Win With Returning ‘SNL’ Alum Bobby Moynihan"
+  "title:Milwaukee Brewers Make Surprise “Weekend Update” Appearance After World Series Win With Returning ‘SNL’ Alum Bobby Moynihan",
+  "skip:https://www.film.ru/news/serial-o-garri-pottere-novye-aktery",
+  "https://www.film.ru/news/dzheyms-gann-predstavit-novogo-betmena",
+  "title:Джеймс Ганн представит нового Бэтмена"
 ]

@@ -1,9 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9064168",
-  "skip:https://www.kommersant.ru/doc/9064147",
-  "skip:https://www.interfax.ru/russia/1125908",
-  "skip:https://ria.ru/20261029/putin-2127924743.html",
-  "skip:https://www.interfax.ru/russia/1125906",
   "skip:https://www.rbc.ru/politics/29/10/2026/6ae388730cd0f4f5e566b4f1",
   "skip:https://ria.ru/20261029/putin-2127922567.html",
   "skip:https://www.rbc.ru/politics/29/10/2026/6ae387041bbabc2d90db9f91",
@@ -998,5 +993,10 @@
   "skip:https://www.kommersant.ru/doc/9078645",
   "skip:https://ria.ru/20261101/netanjahu-2128503606.html",
   "https://www.rbc.ru/politics/02/11/2026/6ae7a2e8bc750bafc655f468",
-  "title:Премьер-министр Израиля Биньямин Нетаньяху попросил Дональда Трампа возобновить удары по Ирану"
+  "title:Премьер-министр Израиля Биньямин Нетаньяху попросил Дональда Трампа возобновить удары по Ирану",
+  "skip:https://ria.ru/20261102/bolgariya-2128511492.html",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28276721",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28276689",
+  "https://www.kommersant.ru/doc/9078661",
+  "title:Андрей Гюров признал поражение во втором туре президентских выборов в Болгарии"
 ]

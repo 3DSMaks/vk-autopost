@@ -1,6 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169364/biznes-strateg-xbox-udalil-akkaunt-v-sotssetyah-posle-yarostnoj-rechi-ob-ii-v-igrovoj-industrii/",
-  "skip:https://www.playground.ru/cyberpunk_2077/news/vozvraschenie_v_najt_siti_vtoroj_sezon_kiberpank_beguschie_po_krayu_vyshel_na_netflix-1883250#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://gamemag.ru/news/201752/microsoft-reportedly-sending-e-mails-to-lapsed-xbox-console-users-to-sell-their-consoles-to-best-buy",
   "skip:https://www.igromania.ru/news/169358/vozvraschajtes-v-najt-siti-anime-cyberpunk-edgerunners-2-vyishlo-na-netflix-s-10-novyimi-epizodami/",
   "skip:https://www.ign.com/articles/theres-no-one-person-that-has-this-whole-thing-in-their-head-gta-6-devs-had-freedom-to-add-cool-features-just-like-rdr2s-horse-balls",
@@ -998,5 +996,7 @@
   "skip:https://variety.com/2026/film/news/green-room-director-patrick-stewart-1236936405/",
   "skip:https://www.film.ru/articles/o-kapitan-moy-kapitan-kakim-my-zapomnim-patrika-styuarta-ispolnitelya-roley-zhan-lyuka",
   "https://www.kinonews.ru/news_143911/",
-  "title:Для сериала \"Гарри Поттер\" нашли Распределяющую Шляпу и призраков"
+  "title:Для сериала \"Гарри Поттер\" нашли Распределяющую Шляпу и призраков",
+  "https://deadline.com/2026/10/robert-downey-jr-pedro-pascal-mcu-role-reversal-halloween-1237210827/",
+  "title:Robert Downey Jr. & Pedro Pascal Serve MCU Role Reversal For Halloween: “Costume Swap!”"
 ]

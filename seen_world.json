@@ -1,14 +1,4 @@
 [
-  "skip:https://tass.ru/sport/28268031",
-  "https://www.kommersant.ru/doc/9064024",
-  "title:Даниил Медведев победил Кэмерона Норри и вышел в четвертьфинал турнира в Вене",
-  "skip:https://www.interfax.ru/business/1125867",
-  "https://www.kommersant.ru/doc/9064003",
-  "title:Европейский центральный банк сохранил все три процентные ставки на прежнем уровне",
-  "skip:https://www.interfax.ru/russia/1125882",
-  "skip:https://tass.ru/ekonomika/28268093",
-  "skip:https://tass.ru/ekonomika/28268087",
-  "skip:https://www.interfax.ru/business/1125879",
   "https://www.kommersant.ru/doc/9064048",
   "skip:https://www.interfax.ru/world/1125877",
   "https://tass.ru/kosmos/28268197",
@@ -998,5 +988,15 @@
   "title:Семь стран ОПЕК+ сохранили действующие квоты по добыче нефти на декабрь",
   "skip:https://www.rbc.ru/politics/01/11/2026/6ae7277381b6b30aeb2295d7",
   "https://tass.ru/mezhdunarodnaya-panorama/28276289",
-  "title:В Сербии задержали высокопоставленных сотрудников полиции"
+  "title:В Сербии задержали высокопоставленных сотрудников полиции",
+  "skip:https://tass.ru/proisshestviya/28276317",
+  "skip:https://ria.ru/20261101/fsb-2128462260.html",
+  "skip:https://www.rbc.ru/politics/01/11/2026/6ae7450e81b6b30aeb229616",
+  "skip:https://tass.ru/proisshestviya/28276315",
+  "https://tass.ru/proisshestviya/28276319",
+  "title:ФСБ задержала подростка в Москве после проверки информации из США о подготовке теракта",
+  "skip:https://tass.ru/obschestvo/28276295",
+  "skip:https://www.interfax.ru/russia/1126405",
+  "https://www.kommersant.ru/doc/9078508",
+  "title:В Нижегородской области ввели лимит на продажу бензина после атаки беспилотников"
 ]

@@ -1,8 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169389/sozdateli-crimson-desert-podgotovili-obzor-novinok-dlc-puteshestvie-v-neizvedannoe/",
-  "skip:https://www.playground.ru/gta_6/news/fanaty_gta_6_zapodozrili_rockstar_games_v_syomkah_dorogogo_igrovogo_trejlera_v_majami-1883450#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.ign.com/articles/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and-expensive-live-action-trailer-in-miami",
-  "https://www.igromania.ru/news/169391/fight-night-vozvraschaetsya-ea-sports-tizerit-novuyu-igru-serii-spustya-15-let/",
   "title:«Fight Night возвращается» — EA Sports тизерит новую игру серии спустя 15 лет",
   "skip:https://www.kinonews.ru/news_143767/",
   "skip:https://variety.com/2026/film/awards/michael-golden-globes-comedy-musical-denied-1236917938/",
@@ -998,5 +994,9 @@
   "https://variety.com/2026/film/news/michael-mann-shot-himself-gun-range-accident-1236936667/",
   "title:Michael Mann Hospitalized After Accidentally Shooting Himself in the Leg at Los Angeles Gun Range",
   "https://variety.com/2026/film/global/frank-miller-comic-book-movies-lucca-1236936369/",
-  "title:Frank Miller on Why He’s Relieved There Are Fewer Comic Book Adaptations Now: They Were ‘Really in Danger of Losing Their Souls’"
+  "title:Frank Miller on Why He’s Relieved There Are Fewer Comic Book Adaptations Now: They Were ‘Really in Danger of Losing Their Souls’",
+  "skip:https://gamemag.ru/news/201931/sluh-novaya-igra-avtorov-days-gone-iz-bend-studio-vyydet-uje-v-sleduyushchem-godu",
+  "skip:https://www.igromania.ru/news/169655/sleduyuschaya-igra-sozdatelej-days-gone-mozhet-byit-kooperativom-ot-tretego-litsa/",
+  "https://www.playground.ru/phantom_blade_zero/news/phantom_blade_zero_lider_sredi_odnopolzovatelskih_igr_po_onlajnu_v_steam_v_2026_godu-1886861#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Phantom Blade Zero - лидер среди однопользовательских игр по онлайну в Steam в 2026 году"
 ]

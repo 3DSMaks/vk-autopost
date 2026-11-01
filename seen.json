@@ -1,6 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143782/",
-  "skip:https://deadline.com/2026/10/ea-cuts-400-jobs-shuts-down-bioware-1237170402/",
   "https://deadline.com/2026/10/billy-porter-leslie-jones-phoebe-robinson-places-dahlingz-1237170446/",
   "title:Billy Porter, Leslie Jones & Phoebe Robinson To Front ‘Places, Dahlingz!’ Podcast From Acast",
   "skip:https://variety.com/2026/film/global/sebastian-koch-oscar-gabriele-salvatores-1236918664/",
@@ -998,5 +996,7 @@
   "title:Milwaukee Brewers Make Surprise “Weekend Update” Appearance After World Series Win With Returning ‘SNL’ Alum Bobby Moynihan",
   "skip:https://www.film.ru/news/serial-o-garri-pottere-novye-aktery",
   "https://www.film.ru/news/dzheyms-gann-predstavit-novogo-betmena",
-  "title:Джеймс Ганн представит нового Бэтмена"
+  "title:Джеймс Ганн представит нового Бэтмена",
+  "https://www.film.ru/news/kinoteatry-otkazalis-pokazyvat-kliffa-buta",
+  "title:Кинотеатры отказались показывать «Клиффа Бута»"
 ]

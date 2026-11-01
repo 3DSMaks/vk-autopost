@@ -1,8 +1,4 @@
 [
-  "https://www.film.ru/news/novaya-ekranizaciya-sobachego-serdca",
-  "title:Новая экранизация Собачьего сердца",
-  "skip:https://gamemag.ru/news/201771/ff-res-scores",
-  "https://www.igromania.ru/news/169400/rolevoj-ekshen-exodus-dobavili-v-vishlistyi-pochti-million-raz-novostej-o-nyom-stoit-zhdat-na-the-game-awards/",
   "title:Ролевой боевик Exodus добавили в вишлисты почти миллион раз — новостей о нём стоит ждать на The Game Awards",
   "https://deadline.com/2026/10/glee-reboot-series-order-disney-hulu-1237169231/",
   "title:‘Glee’ Reboot Lands Series Order At Disney+ & Hulu",
@@ -998,5 +994,9 @@
   "https://www.ign.com/articles/input-lag-is-so-bad-in-call-of-duty-modern-warfare-4-on-nintendo-switch-2-that-players-suffer-from-a-competitive-disadvantage",
   "title:Input Lag Is So Bad in Call of Duty: Modern Warfare 4 on Nintendo Switch 2 That Players Suffer From a 'Competitive Disadvantage'",
   "https://gamemag.ru/news/201925/intergalactic-the-heretic-prophet-ashley-johnson-playing",
-  "title:Похоже, PS5-эксклюзив Intergalactic: The Heretic Prophet уже находится в играбельном состоянии"
+  "title:Похоже, PS5-эксклюзив Intergalactic: The Heretic Prophet уже находится в играбельном состоянии",
+  "skip:https://www.kinonews.ru/news_143917/",
+  "skip:https://www.kinonews.ru/news_143911/",
+  "https://deadline.com/2026/10/inde-navarrette-snl-debut-shane-gillis-quip-little-whore-outfit-1237210738/",
+  "title:Inde Navarrette Kicks Off ‘Saturday Night Live’ Debut With Shane Gillis Quip About Her “Little Whore Outfit” For Getting Into Marvel Shape"
 ]

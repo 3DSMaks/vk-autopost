@@ -1,10 +1,4 @@
 [
-  "skip:https://www.rbc.ru/rbcfreenews/6ae384cbdd30b476720dac13",
-  "skip:https://tass.ru/ekonomika/28268437",
-  "skip:https://tass.ru/politika/28268439",
-  "skip:https://ria.ru/20261029/rossija-2127918155.html",
-  "skip:https://ria.ru/20261029/putin-2127918046.html",
-  "skip:https://www.interfax.ru/world/1125902",
   "skip:https://ria.ru/20261029/putin-2127916920.html",
   "skip:https://ria.ru/20261029/putin-2127916446.html",
   "skip:https://ria.ru/20261029/putin-2127916590.html",
@@ -998,5 +992,11 @@
   "title:Дональд Трамп пообещал использовать право вето в случае победы демократов на выборах в Конгресс",
   "skip:https://www.rbc.ru/politics/01/11/2026/6ae7777d81b6b30aeb229695",
   "https://tass.ru/mezhdunarodnaya-panorama/28276565",
-  "title:Илиана Йотова лидирует во втором туре президентских выборов в Болгарии согласно экзитполам"
+  "title:Илиана Йотова лидирует во втором туре президентских выборов в Болгарии согласно экзитполам",
+  "skip:https://ria.ru/20261101/bolgariya-2128497470.html",
+  "https://www.interfax.ru/world/1126423",
+  "title:Илияна Йотова лидирует во втором туре президентских выборов в Болгарии",
+  "skip:https://tass.ru/ekonomika/28276533",
+  "https://www.interfax.ru/russia/1126418",
+  "title:Аэропорт Пскова ввел временные ограничения на прием и выпуск рейсов"
 ]

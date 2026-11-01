@@ -1,12 +1,4 @@
 [
-  "skip:https://tass.ru/ekonomika/28265547",
-  "skip:https://news.google.com/rss/articles/CBMimAFBVV95cUxPZDNjZEVFVHlwMjFPbGtabF9JMFVZZWxLVVljNDRhUHdBNDFETWlJZjJBRjBMTE92TDRaMVdEYWFVbmVBX3pkdkFhd0J1TmZrT2tYMGNpWVFzN2FWZEdERUkwT0hoMlRMak1GT0NhRDR4M3U1bmZPU2ZUSW0xakNyLUxhM05fVGlJeTRIdHRiNTVfNEx3UnZHQQ?oc=5",
-  "https://www.interfax.ru/business/1125734",
-  "title:Крупные мировые компании опубликовали финансовые отчетности за третий квартал",
-  "skip:https://www.interfax.ru/world/1125731",
-  "https://ria.ru/20261029/iran-2127754436.html",
-  "title:Иранские военные заявили об уничтожении американского беспилотника MQ-1 над Ормузским проливом",
-  "skip:https://www.rbc.ru/rbcfreenews/6ae2f53dd98bf27748df9fec",
   "https://www.interfax.ru/russia/1125737",
   "title:Делегации России и Украины прибыли в Гомель для гуманитарной миссии в Алешках",
   "skip:https://www.kommersant.ru/doc/9063471",
@@ -998,5 +990,13 @@
   "skip:https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0F3bEEtREZiMG5WVnJMQlVHUDdaaHJQTno1VUJJRENOT2MySEZDcmpCYm41YnpkMS1Ub1l1ZThqSUJSa214ay1Gb3E3NFFNNWRZZDJtVjZSWU91M1NFVkRWZjJPdG9nN2ZCTm12RnhFVWFTTkhpMnBnRU5XZDhmRTRYNFZ0V1lKSkc3N1htMnRLbHhFWlo0?oc=5",
   "skip:https://www.rbc.ru/technology_and_media/01/11/2026/6ae660ea05248f5986c38e73",
   "https://ria.ru/20261101/fbr-2128389299.html",
-  "title:ФБР обвинило хакеров из КНДР в краже более 6 млрд долларов с биржи Binance"
+  "title:ФБР обвинило хакеров из КНДР в краже более 6 млрд долларов с биржи Binance",
+  "skip:https://www.kommersant.ru/doc/9078361",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28275523",
+  "skip:https://ria.ru/20261101/tramp-2128396746.html",
+  "https://www.rbc.ru/technology_and_media/01/11/2026/6ae68e785213636976153056",
+  "title:Трамп прокомментировал информацию о причастности КНДР к взлому биржи Binance",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28275509",
+  "https://ria.ru/20261101/g20-2128396534.html",
+  "title:Трамп заявил о намерении пригласить Зеленского на саммит G20"
 ]

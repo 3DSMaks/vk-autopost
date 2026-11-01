@@ -1,10 +1,4 @@
 [
-  "skip:https://www.playground.ru/cyberpunk_2077/news/cd_projekt_red_predstavila_polnyj_spisok_izmenenij_obnovleniya_2_5_dlya_cyberpunk_2077-1883612#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "https://www.igromania.ru/news/169432/novyie-naushniki-playstation-pulse-vyijdut-odnovremenno-s-gta-6/",
-  "title:Новые наушники PlayStation Pulse выйдут одновременно с GTA 6",
-  "skip:https://www.kinonews.ru/news_143775/",
-  "https://www.film.ru/news/osnovnoy-treyler-kolec-vlasti-3",
-  "title:Основной трейлер Колец власти-3",
   "skip:https://stopgame.ru/newsdata/73258/avtory_phantom_blade_zero_vylozhili_reliznyy_trailer_i_anonsirovali_fizicheskoe_izdanie",
   "skip:https://www.igromania.ru/news/169444/mir-kung-fu-panka-k-phantom-blade-zero-vyipustili-reliznyij-trejler-i-anonsirovali-diski-dlya-ps5/",
   "skip:https://www.playground.ru/phantom_blade_zero/news/phantom_blade_zero_poluchila_zahvatyvayuschij_reliznyj_trejler_fizicheskie_izdaniya_dlya_ps5_vyjdut_v_2027_godu-1883719#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +992,11 @@
   "https://www.playground.ru/crimson_desert/news/eschyo_odna_zaplatka_dlya_crimson_desert_vyshel_patch_2_04_05_on_ustranyaet_vylet_v_boyu_s_ravokom_i_oshibki_zadanij-1886847#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Ещё одна заплатка - для Crimson Desert вышел патч 2.04.05: он устраняет вылет в бою с Равоком и ошибки заданий",
   "https://www.playground.ru/phantom_blade_zero/news/phantom_blade_zero_lider_sredi_odnopolzovatelskih_igr_po_onlajnu_v_steam_v_2026_godu-1886861#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Phantom Blade Zero - лидер среди однопользовательских игр по онлайну в Steam в 2026 году"
+  "title:Phantom Blade Zero - лидер среди однопользовательских игр по онлайну в Steam в 2026 году",
+  "skip:https://variety.com/2026/film/box-office/you-can-see-everything-clayface-battle-for-no-1-box-office-1236936664/",
+  "skip:https://deadline.com/2026/11/box-office-you-can-see-everything-clayface-halloween-1237209579/",
+  "skip:https://variety.com/2026/film/news/michael-mann-shot-himself-gun-range-accident-1236936667/",
+  "skip:https://deadline.com/2026/11/michael-mann-injured-weapon-discharges-filmmaker-ok-1237210846/",
+  "https://www.film.ru/news/kinoteatry-otkazalis-pokazyvat-kliffa-buta",
+  "title:Кинотеатры отказались показывать «Клиффа Бута»"
 ]

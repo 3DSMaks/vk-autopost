@@ -1,7 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73258/avtory_phantom_blade_zero_vylozhili_reliznyy_trailer_i_anonsirovali_fizicheskoe_izdanie",
-  "skip:https://www.igromania.ru/news/169444/mir-kung-fu-panka-k-phantom-blade-zero-vyipustili-reliznyij-trejler-i-anonsirovali-diski-dlya-ps5/",
-  "skip:https://www.playground.ru/phantom_blade_zero/news/phantom_blade_zero_poluchila_zahvatyvayuschij_reliznyj_trejler_fizicheskie_izdaniya_dlya_ps5_vyjdut_v_2027_godu-1883719#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.playground.ru/misc/news/devid_fincher_vyrezal_60_stranits_iz_stsenariya_kventina_tarantino_dlya_filma_o_kliffe_bute-1883713#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://gamemag.ru/news/201778/introducing-the-next-line-of-ps5-audio-playstation-pulse",
   "skip:https://gamemag.ru/news/201776/the-gangster-the-cop-the-devil-remake-keanu-reeves-cast",
@@ -998,5 +995,8 @@
   "skip:https://variety.com/2026/film/news/michael-mann-shot-himself-gun-range-accident-1236936667/",
   "skip:https://deadline.com/2026/11/michael-mann-injured-weapon-discharges-filmmaker-ok-1237210846/",
   "https://www.film.ru/news/kinoteatry-otkazalis-pokazyvat-kliffa-buta",
-  "title:Кинотеатры отказались показывать «Клиффа Бута»"
+  "title:Кинотеатры отказались показывать «Клиффа Бута»",
+  "skip:https://www.playground.ru/misc/news/syomki_betmena_2_ostanovili_posle_togo_kak_betmobil_yakoby_sbil_odnogo_iz_aktyorov-1886867#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "https://gamemag.ru/news/201928/avtor-fable-piter-muline-vstal-na-zashchitu-iskusstvennogo-intellektaschitaet-chto-on-perevernet",
+  "title:Отец Fable Питер Мулинье встал на защиту ИИ — считает, что он перевернет индустрию"
 ]

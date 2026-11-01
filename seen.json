@@ -1,7 +1,4 @@
 [
-  "skip:https://www.film.ru/news/kris-pratt-vernetsya-v-marvel",
-  "skip:https://www.film.ru/news/glinolikiy-lyubov-kritikov",
-  "https://www.film.ru/news/razrabatyvayut-serial-o-yadovitom-plyushche",
   "title:Разрабатывают сериал о Ядовитом Плюще",
   "skip:https://www.film.ru/news/samara-uiving-sygraet-u-olivii-uayld",
   "https://kg-portal.ru/comments/135494-samara-uiving-sygraet-merzavku-v-prazdnichnoj-komedii-s-dzhennifer-eniston-i-piterom-dinklejdzhem/",
@@ -998,5 +995,8 @@
   "https://kg-portal.ru/comments/135603-postery-filma-skrudzh/",
   "title:Джонни Депп и его призраки на постерах рождественского ужастика \"Скрудж\"",
   "https://variety.com/2026/film/festivals/tokyo-drama-jani-be-good-silence-motherhood-1236936404/",
-  "title:Tokyo Asian Future Drama ‘Jani Be Good’ Probes Silence and Motherhood in a Chinese-Indonesian Family, Marking Ariani Darmawan’s Return"
+  "title:Tokyo Asian Future Drama ‘Jani Be Good’ Probes Silence and Motherhood in a Chinese-Indonesian Family, Marking Ariani Darmawan’s Return",
+  "skip:https://kg-portal.ru/comments/135604-tajka-vajtiti-ne-sterpel-postanovschik-nabrosilsja-na-kritikov-svoego-poslednego-provalnogo-filma-s-dzhennoj-ortegoj/",
+  "https://variety.com/2026/film/global/valladolid-prizes-dao-la-gradiva-lisandro-alonso-1236936281/",
+  "title:Valladolid Festival Prizes: Alain Gomis’ ‘Dao’ Wins Golden Spike, ‘La Gradiva’ Takes Silver"
 ]

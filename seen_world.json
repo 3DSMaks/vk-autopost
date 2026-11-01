@@ -1,14 +1,4 @@
 [
-  "skip:https://tass.ru/politika/28268383",
-  "skip:https://tass.ru/politika/28268565",
-  "skip:https://tass.ru/politika/28268463",
-  "skip:https://tass.ru/politika/28268453",
-  "skip:https://tass.ru/politika/28268499",
-  "skip:https://tass.ru/ekonomika/28268493",
-  "skip:https://tass.ru/ekonomika/28268483",
-  "skip:https://www.rbc.ru/politics/29/10/2026/6ae32f144f91972b35199412",
-  "skip:https://tass.ru/politika/28268477",
-  "skip:https://ria.ru/20261029/putin-2127920531.html",
   "skip:https://tass.ru/ekonomika/28268473",
   "skip:https://tass.ru/politika/28268469",
   "skip:https://www.kommersant.ru/doc/9064157",
@@ -998,5 +988,15 @@
   "skip:https://www.rbc.ru/sport/01/11/2026/6ae75e706b514a72023eaf42",
   "skip:https://ria.ru/20261101/medali-2128479406.html",
   "https://tass.ru/sport/28276505",
-  "title:Сборная России по спортивной борьбе завоевала четыре золотые медали на чемпионате мира в Астане"
+  "title:Сборная России по спортивной борьбе завоевала четыре золотые медали на чемпионате мира в Астане",
+  "skip:https://www.interfax.ru/russia/1126417",
+  "skip:https://ria.ru/20261101/bespilotnik-2128490898.html",
+  "skip:https://tass.ru/armiya-i-opk/28276527",
+  "https://www.rbc.ru/rbcfreenews/6ae77db4b6f380484a231124",
+  "title:Минобороны РФ отчиталось об уничтожении 47 украинских беспилотников за день",
+  "skip:https://tass.ru/proisshestviya/28276521",
+  "skip:https://tass.ru/proisshestviya/28276509",
+  "skip:https://tass.ru/proisshestviya/28276473",
+  "https://www.interfax.ru/russia/1126419",
+  "title:Несколько городов и районов ДНР частично обесточены из-за аварии в энергосистеме"
 ]

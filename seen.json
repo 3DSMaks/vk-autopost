@@ -1,8 +1,4 @@
 [
-  "https://www.film.ru/news/3-y-sezon-nikto-etogo-ne-hochet-vyshel",
-  "title:3-й сезон «Никто этого не хочет» вышел",
-  "https://deadline.com/2026/10/heated-rivalry-regal-cinema-limited-theatrical-run-1237167318/",
-  "title:Puck Yeah! ‘Heated Rivalry’ Gets Limited Theatrical Run With Regal For Season 1",
   "https://deadline.com/2026/10/fleetwood-mac-documentary-frank-marshall-apple-1237170586/",
   "title:Apple’s Fleetwood Mac Doc Lands Title & Release Date",
   "https://deadline.com/2026/10/james-bond-screen-tests-names-1237170401/",
@@ -998,5 +994,9 @@
   "https://deadline.com/2026/11/nobody-wants-this-actress-tensions-not-rising-adam-brody-1237210876/",
   "title:‘Nobody Wants This’ Actress Tovah Feldshuh Insists “Tensions Are Not Rising” With Adam Brody, Hopes “We Are Chosen” For Season 4",
   "https://variety.com/lists/best-movies-streaming-november-2026/",
-  "title:23 Best Movies New to Streaming in November: ‘Tony,’ ‘Misty Green,’ ‘Possible Love’ and More"
+  "title:23 Best Movies New to Streaming in November: ‘Tony,’ ‘Misty Green,’ ‘Possible Love’ and More",
+  "skip:https://deadline.com/2026/11/box-office-global-clayface-resident-evil-1237210872/",
+  "skip:https://variety.com/2026/film/news/judi-dench-robin-williams-husband-cancer-battle-1236936832/",
+  "https://variety.com/2026/film/global/soviet-tv-audiences-mass-hypnosis-anatoly-kashpirovskiy-1236936646/",
+  "title:How Soviet TV Audiences Fell Under the Spell of Mass Hypnosis Artist Anatoly Kashpirovskiy"
 ]

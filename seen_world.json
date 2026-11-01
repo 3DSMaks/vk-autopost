@@ -1,8 +1,4 @@
 [
-  "skip:https://tass.ru/ekonomika/28268527",
-  "skip:https://ria.ru/20261029/putin-2127922123.html",
-  "skip:https://tass.ru/politika/28268525",
-  "https://www.rbc.ru/politics/29/10/2026/6ae3885e5171f3bd6bffccab",
   "title:Путин заявил о готовности России ответить на угрозы в районе Балтийского моря",
   "skip:https://ria.ru/20261029/mid-2127930640.html",
   "skip:https://ria.ru/20261029/deklaratsiya-2127930475.html",
@@ -998,5 +994,9 @@
   "title:Финляндия предложила запретить въезд российских спортсменов в Шенгенскую зону",
   "skip:https://news.google.com/rss/articles/CBMiswFBVV95cUxQNFRBVkdFd1REUGNsaWd3Z2lRUzVQdEwtczZmOUtvZHBiWmVmSkUyMGdURWVNSV9SbV9Oa0hPRW5iV0hXS2JtN1JIYTdqcjJBeXJzOVpGSTYtYVNFM3FHUVdDSU9TcnpoNVF0XzNPTVVsclNPa3JabVlEVEZVbEFYdnA4U1Z1YWxSQ2lkU01lM0YwbHd4dWxqRjNodV8tUDUxWmk3MGxFMHVNLVFRV1FWaWVVUQ?oc=5",
   "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX1NiRk5MRXE1STVPM1NFMEx5bWRKR3Z3VFpCenRzSm5BaHoxRFB3REF0Z05UMi1adU9mTGVGVTVLUlk5cDdLRlJaRGR1TGJ3cWR6WmZVRnpCMGhCdUFIMzBwTXFsSzhQczdDYnJvRVRHWjFmblZtWXYwTWd4cWJlaTVZbjEwU1VCMG5uRElwNGhRZ0wzb1NDazBVdzFCX1E?oc=5",
-  "title:Сенатора Криса Мерфи госпитализировали с инсультом"
+  "title:Сенатора Криса Мерфи госпитализировали с инсультом",
+  "skip:https://news.google.com/rss/articles/CBMirgFBVV95cUxORHRBcV9HNTRnOEhqZThzQVMzVlZIaG5ncWtIZmFlTFpwNHRGVy1NM0FjZWJkSDhKQm1SREljaHFNQlZnVmk4V0h6Uy1CTkl1V3N4eXh1bm9haW1NOVdyTmxKcTZxek93QWFwZlpGMDBSaXBRMTBiU1VuWFV0MmdIM1JMTDNyUjhiZVpENms5RzBkQ254WkhBaXExQlFDcEw0eElDU1Rfa19rb2psQUE?oc=5",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28276547",
+  "https://tass.ru/mezhdunarodnaya-panorama/28276591",
+  "title:Латвия сообщила о кратковременном пересечении своего воздушного пространства неопознанным объектом"
 ]

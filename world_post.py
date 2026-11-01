@@ -250,7 +250,7 @@ def photos_for(event):
             print('  ! фото не получены:', type(exc).__name__)
             continue
         if found:
-            return found[:2], ''
+            return found[:tg.PHOTOS_PER_POST], ''
     picked = commons_photo(event)
     if picked:
         return [picked[0]], f'Фото: {picked[1]} / Wikimedia Commons'

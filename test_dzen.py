@@ -78,7 +78,7 @@ class DzenTests(unittest.TestCase):
         with patch.object(dz.tg, 'pictures', return_value=[b'x', b'y', b'z']), \
              patch.object(dz.tg, 'looks_like', side_effect=lambda d: {b'x': 0, b'y': 2**200 - 1, b'z': 2**100 - 1}[d]), \
              patch.object(dz, 'bing_links') as bing, patch.object(dz, 'steam_shots') as steam, quiet():
-            self.assertEqual(dz.gather_photos([pick]), [b'x', b'y'])
+            self.assertEqual(dz.gather_photos([pick]), [b'x'])  # без каруселей — одно фото
         bing.assert_not_called()
         steam.assert_not_called()
 

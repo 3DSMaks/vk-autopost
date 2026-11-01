@@ -23,7 +23,7 @@ import telegram_post as tg
 
 SEEN_FILE = Path(__file__).with_name('seen_dzen.json')
 CAPTION = 1000  # Синхроробот переносит в Дзен текст только из подписи к фото, а она — до 1024 знаков
-MAX_PHOTOS = 2
+MAX_PHOTOS = tg.PHOTOS_PER_POST
 WRITER_MODELS = ['gemini-3.8-flash', 'gemini-3.5-flash-lite']  # для статьи — модель посильнее
 
 PICK_SCHEMA = {'type': 'OBJECT', 'properties': {

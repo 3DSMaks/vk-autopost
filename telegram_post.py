@@ -395,6 +395,9 @@ def fetch_best(url, referer):
     return None
 
 
+PHOTOS_PER_POST = 1  # без каруселей (просьба пользователя): одно фото, лучшее из проверенных Gemini
+
+
 def pictures(pick):
     """До 3 фото к новости в лучшем доступном качестве: из одинаковых картинок разного размера берём самую крупную,
     мелкие (меньше 400 px по короткой стороне) отбрасываем, если есть крупнее; затем отбор Gemini."""
@@ -418,7 +421,7 @@ def pictures(pick):
             break
     big = [g for g in groups if min(image_size(g[1])) >= 400]
     out = [g[1] for g in (big or groups)]
-    return vet_images(pick.get('title', ''), out)
+    return vet_images(pick.get('title', ''), out)[:PHOTOS_PER_POST]
 
 
 SKIP = 'skip:'  # так в истории помечены новости, к которым не нашлось фото (их больше не предлагаем)

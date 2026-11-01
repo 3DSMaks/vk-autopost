@@ -91,7 +91,7 @@ class TelegramTests(unittest.TestCase):
             ImageDraw.Draw(im).rectangle([0, 0, size[0] // 2, size[1]], fill=color)
             buf = _io.BytesIO(); im.save(buf, 'JPEG'); return buf.getvalue()
         big, small, other = jpeg((800, 450), 'black'), jpeg((400, 225), 'black'), jpeg((800, 450), 'white')
-        with patch.object(tg.news, 'page_images', return_value=[]), patch.object(tg, 'nearby_images', return_value=[]), patch.object(tg.news, 'image_urls', return_value=['1', '2', '3']), patch.object(tg.news, 'download_jpeg', side_effect=[big, small, other]), patch.object(tg, 'bigger_versions', return_value=[]), patch.object(tg, 'vet_images', side_effect=lambda t, imgs: imgs):
+        with patch.object(tg.news, 'page_images', return_value=[]), patch.object(tg, 'nearby_images', return_value=[]), patch.object(tg.news, 'image_urls', return_value=['1', '2', '3']), patch.object(tg.news, 'download_jpeg', side_effect=[big, small, other]), patch.object(tg, 'bigger_versions', return_value=[]), patch.object(tg, 'vet_images', side_effect=lambda t, imgs: imgs), patch.object(tg, 'PHOTOS_PER_POST', 3):
             self.assertEqual(tg.pictures({'link': 'x'}), [big, other])
 
     def test_no_photo_picks_another(self):

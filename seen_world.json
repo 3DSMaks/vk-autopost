@@ -1,12 +1,4 @@
 [
-  "https://www.rbc.ru/rbcfreenews/6ae2fc8619e61a393322f658",
-  "title:Центр Луганска и главпочтамт подверглись массированной атаке беспилотников",
-  "skip:https://ria.ru/20261029/peskov-2127757328.html",
-  "skip:https://www.kommersant.ru/doc/9063478",
-  "skip:https://www.interfax.ru/russia/1125740",
-  "skip:https://www.rbc.ru/politics/29/10/2026/6ae3009bf82787ed1e5e7c93",
-  "skip:https://www.interfax.ru/russia/1125738",
-  "https://www.interfax.ru/russia/1125753",
   "title:Началась гуманитарная операция и разминирование в городе Алешки Херсонской области",
   "skip:https://tass.ru/ekonomika/28266175",
   "skip:https://www.interfax.ru/business/1125763",
@@ -998,5 +990,13 @@
   "title:Трамп заявил о намерении пригласить Зеленского на саммит G20",
   "skip:https://tass.ru/armiya-i-opk/28275741",
   "https://ria.ru/20261101/pvo-2128409436.html",
-  "title:Силы ПВО за ночь сбили 235 украинских беспилотников над российскими регионами"
+  "title:Силы ПВО за ночь сбили 235 украинских беспилотников над российскими регионами",
+  "skip:https://www.interfax.ru/russia/1126369",
+  "skip:https://www.kommersant.ru/doc/9078374",
+  "https://www.rbc.ru/rbcfreenews/6ae6d256ed0a2bda6d0b8d82",
+  "title:Минобороны РФ отчиталось о перехвате 235 украинских беспилотников за ночь",
+  "skip:https://tass.ru/politika/28275839",
+  "skip:https://ria.ru/20261101/matvienko-2128417822.html",
+  "https://www.interfax.ru/russia/1126375",
+  "title:Председатель Совета Федерации Валентина Матвиенко направляется с официальным визитом в Китай"
 ]

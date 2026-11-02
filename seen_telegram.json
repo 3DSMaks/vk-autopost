@@ -1,7 +1,4 @@
 [
-  "skip:https://variety.com/2026/film/global/noel-clarke-pleads-not-guilty-sexual-offense-charges-1236918512/",
-  "https://www.kinonews.ru/news_143758/",
-  "title:Киану Ривз сыграет в фильме автора \"Пилы\" Джеймса Вана",
   "skip:https://www.igromania.ru/news/169412/v-cd-projekt-red-rasskazali-kogda-proishodyat-sobyitiya-cyberpunk-edgerunners-2/",
   "https://www.igromania.ru/news/169409/ponyatno-kto-platit-gta-6-reklamiruyut-na-tv-s-udlinyonnyimi-stsenami-iz-za-tsenzuryi-i-bez-logo-xbox/",
   "title:Понятно, кто платит — GTA 6 рекламируют на ТВ с удлинёнными сценами из-за «цензуры» и без лого Xbox",
@@ -998,5 +995,8 @@
   "https://www.film.ru/news/400-mln-obiteli-zla",
   "title:400 млн Обители зла",
   "https://deadline.com/2026/11/mike-flanagan-carrie-warhammer-40000-interview-1237171623/",
-  "title:‘Carrie’s Mike Flanagan Reflects On Supernatural YA Drama & Says ‘Warhammer 40,000’ Series Has “Very Cool And Unexpected On-Ramp”"
+  "title:‘Carrie’s Mike Flanagan Reflects On Supernatural YA Drama & Says ‘Warhammer 40,000’ Series Has “Very Cool And Unexpected On-Ramp”",
+  "skip:https://www.igromania.ru/news/169671/obitel-zla-zaka-kreggera-zarabotala-400-mln-dollarov/",
+  "https://www.playground.ru/fable_2026/news/razrabotchiki_fable_predstavili_muzykalnuyu_temu_samoj_zagadochnoj_i_pugayuschej_lokatsii_albiona-1887069#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Разработчики Fable представили музыкальную тему самой загадочной и пугающей локации Альбиона"
 ]

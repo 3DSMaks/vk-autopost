@@ -1,7 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/201761/xbox-project-helix-release-date",
-  "https://www.playground.ru/left_4_dead_2/news/klassicheskij_zombi_shuter_teper_s_trassirovkoj_luchej_nvidia_predstavila_left_4_dead_rtx-1883568#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "video:2026-10-21:https://www.playground.ru/left_4_dead_2/news/klassicheskij_zombi_shuter_teper_s_trassirovkoj_luchej_nvidia_predstavila_left_4_dead_rtx-1883568#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Классический зомби-шутер теперь с трассировкой лучей - NVIDIA представила Left 4 Dead RTX",
   "skip:https://kg-portal.ru/comments/135474-kadry-iz-filma-novye-pohozhdenija-kliffa-buta/",
   "skip:https://www.film.ru/news/perezapusk-hora-v-rabote",
@@ -998,5 +995,8 @@
   "skip:https://www.igromania.ru/news/169679/gears-of-war-e-day-podeshevela-byudzhet-v-500-mln-mog-prednaznachatsya-vsej-the-coalition/",
   "skip:https://stopgame.ru/newsdata/73356/pervaya_path_of_exile_poluchit_rasshirenie_koveny_umbrii_uzhe_13_noyabrya",
   "https://www.ign.com/articles/niftski-breaks-super-mario-bros-world-record",
-  "title:Speedrunner Breaks Super Mario Bros. World Record While Dressed as the Italian Plumber, Now Just 2 Frames From Theoretical Perfect Run"
+  "title:Speedrunner Breaks Super Mario Bros. World Record While Dressed as the Italian Plumber, Now Just 2 Frames From Theoretical Perfect Run",
+  "skip:https://deadline.com/2026/11/netflix-josh-oconnor-joel-coen-jack-of-spades-1237211377/",
+  "https://variety.com/2026/music/news/hunger-games-album-jennifer-lawrence-ella-langley-1236937594/",
+  "title:‘Hunger Games’ Companion Album to Feature Jennifer Lawrence, Ella Langley, Tyler Childers, Mckenna Grace and 25 More"
 ]

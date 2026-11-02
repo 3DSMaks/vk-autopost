@@ -1,7 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/sony-issues-new-ps5-firmware-update-as-jailbreak-race-heats-up-ahead-of-gta-6-release",
-  "https://gamemag.ru/news/201772/xbox-project-helix-waiting-launch-exclusive-holiday-2028-not-hardware",
-  "video:2026-10-21:https://gamemag.ru/news/201772/xbox-project-helix-waiting-launch-exclusive-holiday-2028-not-hardware",
   "title:Kepler_L2: Перенос Xbox Project Helix на 2028 год может быть связан с желанием Microsoft получить мощный эксклюзив к старту продаж",
   "https://deadline.com/2026/10/dune-part-three-smashes-bfi-imax-record-ticket-sales-1237169586/",
   "title:‘Dune: Part Three’ Smashes BFI Imax Record With 33,000 Admissions Sold In First 24 Hours",
@@ -998,5 +995,8 @@
   "title:Разработчики трёх новых Silent Hill не знали о существовании игр друг друга",
   "https://kg-portal.ru/comments/135621-chelovek-s-meshkom-trejler/",
   "video:2026-11-02:https://kg-portal.ru/comments/135621-chelovek-s-meshkom-trejler/",
-  "title:Арнольд Шварценеггер и Алан Ричсон спасают Рождество в трейлере фильма \"Человек с мешком\""
+  "title:Арнольд Шварценеггер и Алан Ричсон спасают Рождество в трейлере фильма \"Человек с мешком\"",
+  "skip:https://stopgame.ru/newsdata/73357/film_po_resident_evil_zaka_kreggera_sobral_400_mln_dollarov_v_mirovom_prokate",
+  "https://gamemag.ru/news/201933/it-hasnt-made-any-difference-gears-of-war-ps5-cancellation-fails-to-boost-xbox",
+  "title:«Положительных результатов нет»: Эксклюзивная Gears of War: E-Day не помогла увеличить продажи Xbox Series X|S"
 ]

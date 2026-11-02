@@ -1,9 +1,4 @@
 [
-  "https://www.playground.ru/call_of_duty_modern_warfare_4/news/pod_kapotom_iw_engine_digital_foundry_raskryla_graficheskie_sekrety_call_of_duty_modern_warfare_4-1883807#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Под капотом IW Engine: Digital Foundry раскрыла графические секреты Call of Duty: Modern Warfare 4",
-  "skip:https://kg-portal.ru/comments/135494-samara-uiving-sygraet-merzavku-v-prazdnichnoj-komedii-s-dzhennifer-eniston-i-piterom-dinklejdzhem/",
-  "skip:https://www.film.ru/news/samara-uiving-sygraet-u-olivii-uayld",
-  "https://www.film.ru/news/glinolikiy-lyubov-kritikov",
   "title:«Глиноликий» любовь критиков",
   "skip:https://www.playground.ru/misc/news/capcom_predupredila_o_fishingovyh_atakah_posle_utechki_dannyh_11_7_mln_polzovatelej-1883822#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.pcgamer.com/movies-tv/mass-effects-amazon-series-is-reportedly-continuing-after-bioware-shutdown-whichll-make-an-uncomfortable-gravestone-for-the-studios-work/",
@@ -998,5 +993,10 @@
   "skip:https://www.playground.ru/gta_6/news/gta_6_teper_trebuet_proshivku_ps5_versii_14_22_eto_snizhaet_veroyatnost_emulyatsii_igry_na_pk_v_den_eyo_vyhoda-1887106#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.ign.com/articles/sony-issues-yet-another-ps5-firmware-update-as-jailbreak-whac-a-mole-continues-ahead-of-gta-6-release",
   "https://www.playground.ru/until_dawn_2/news/rejting_until_dawn_2_v_singapure_raskryvaet_podrobnosti_zhestokih_stsen_smerti_i_syuzhetnye_detali-1887107#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Рейтинг Until Dawn 2 в Сингапуре раскрывает подробности жестоких сцен смерти и сюжетные детали"
+  "title:Рейтинг Until Dawn 2 в Сингапуре раскрывает подробности жестоких сцен смерти и сюжетные детали",
+  "skip:https://www.film.ru/news/data-vtorogo-sezona-kak-priruchit-lisu",
+  "skip:https://www.film.ru/news/dzhek-lauden-o-potencialnom-bonde",
+  "skip:https://www.film.ru/articles/derzhi-lico-recenziya-na-film-kleyfeys-bodi-horror-o-protivnike-betmena",
+  "https://kg-portal.ru/comments/135621-chelovek-s-meshkom-trejler/",
+  "title:Арнольд Шварценеггер и Алан Ричсон спасают Рождество в трейлере фильма \"Человек с мешком\""
 ]

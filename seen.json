@@ -1,7 +1,4 @@
 [
-  "https://www.film.ru/news/sleygraund-v-rossii",
-  "title:Слэйграунд в России",
-  "https://www.film.ru/news/premera-seriala-baba-yaga",
   "title:Премьера сериала Баба-яга",
   "https://kg-portal.ru/comments/135509-vyshel-trejler-indijskogo-epika-ramajana-vozrozhdenie-legendy/",
   "title:Вышел трейлер индийского эпика \"Рамаяна. Возрождение легенды\"",
@@ -998,5 +995,8 @@
   "skip:https://www.film.ru/news/dzhek-lauden-o-potencialnom-bonde",
   "skip:https://www.film.ru/articles/derzhi-lico-recenziya-na-film-kleyfeys-bodi-horror-o-protivnike-betmena",
   "https://deadline.com/2026/11/druski-deal-netflix-collect-and-praise-1237209987/",
-  "title:Druski Strikes Deal With Netflix Ahead Of ‘Collect & Praise’ Launch"
+  "title:Druski Strikes Deal With Netflix Ahead Of ‘Collect & Praise’ Launch",
+  "skip:https://deadline.com/2026/11/the-man-bag-trailer-arnold-schwarzenegger-santa-amazon-1237211272/",
+  "https://variety.com/2026/film/awards/sandra-huller-fatherland-supporting-actress-oscars-1236937000/",
+  "title:Sandra Hüller Makes Surprise Move to Supporting for ‘Fatherland,’ Setting Up Possible Double Oscar Nom With ‘Rose’ (EXCLUSIVE)"
 ]

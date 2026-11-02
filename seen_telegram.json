@@ -1,7 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143769/",
-  "skip:https://www.film.ru/news/14-y-sezon-amerikanskoy-istorii-uzhasov",
-  "https://www.film.ru/news/onlayn-reliz-sobachih-zvezd-ridli-skotta",
   "title:Онлайн-релиз Собачьих звезд Ридли Скотта",
   "skip:https://www.igromania.ru/news/169407/palworld-poluchit-krupnoe-obnovlenie-side-by-side-etoj-zimoj/",
   "skip:https://www.igromania.ru/news/169401/ubisoft-pozvolit-igrat-v-riders-republic-v-avtonomnom-rezhime-s-9-dekabrya/",
@@ -998,5 +995,8 @@
   "title:Режиссёр Final Fantasy 7 Revelation заверил, что мультиплатформенный релиз не скажется на качестве игры",
   "skip:https://stopgame.ru/newsdata/73353/prodazhi_phantom_blade_zero_dostigli_4_mln_kopiy_za_3_dnya",
   "https://www.pcgamer.com/games/rpg/footage-of-what-sure-looks-like-a-persona-1-remake-has-leaked/",
-  "title:Footage of what sure looks like a Persona 1 remake has leaked"
+  "title:Footage of what sure looks like a Persona 1 remake has leaked",
+  "skip:https://www.igromania.ru/news/169673/dejv-batista-pokazal-podgotovku-k-roli-kratosa-v-seriale-god-of-war/",
+  "https://www.playground.ru/shin_megami_tensei_persona_5/news/novyj_rekord_atlus_prodazhi_persona_5_i_eyo_spin_offov_dostigli_15_5_mln-1887054#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Новый рекорд Atlus: продажи Persona 5 и её спин-оффов достигли 15,5 млн"
 ]

@@ -1,11 +1,4 @@
 [
-  "https://tass.ru/mezhdunarodnaya-panorama/28271599",
-  "title:Инциденты с нефтяными танкерами в Ормузском проливе после сообщений КСИР",
-  "skip:https://news.google.com/rss/articles/CBMivgFBVV95cUxPOGZxZ29Sdy1mUDVhdm1xVF9GTDFaM3hWZEhmVkFneUNHWDl4Qks4bGNVbnBRdGRBUjN1ckk2dkd2MWFKSWJ6SlpKNVVhNGZ4UDZpVk1SNTBPV1ZxVlo2Z09pNjVtZ1hGRUlZYXBVUll3TTlsd2VFdy13MnJMbG92N202OTI5d1Z6bDJ0bGYzOTF5MS1oNEhUVTFKMlVoTVdhRzA4MHQyT1lBMW9CU2tKYkRQQUp3ZzNNUEphVTNB?oc=5",
-  "skip:https://www.rbc.ru/technology_and_media/30/10/2026/6ae4579062500eb984f9885e",
-  "https://www.rbc.ru/finances/30/10/2026/6ae48486d9973ce16e4234c6",
-  "title:Хакерская атака на криптовалютную биржу Binance и масштабный ущерб",
-  "skip:https://tass.ru/sport/28271747",
   "skip:https://tass.ru/sport/28271705",
   "skip:https://www.sport-interfax.ru/1126121",
   "skip:https://www.sport-interfax.ru/1126114",
@@ -998,5 +991,12 @@
   "skip:https://ria.ru/20261102/putin-2128780101.html",
   "skip:https://www.rbc.ru/rbcfreenews/6ae8d9a3714fe8b386e1326c",
   "https://tass.ru/obschestvo/28279971",
-  "title:Владимир Путин поручил провести 4 ноября церемонию вручения премии за вклад в укрепление единства нации"
+  "title:Владимир Путин поручил провести 4 ноября церемонию вручения премии за вклад в укрепление единства нации",
+  "skip:https://news.google.com/rss/articles/CBMipAFBVV95cUxOSjQxRVBYSHRNOF9zQ2l4RldLcXhabTFZWjVtWkhRaGZ3c25xemVZZmJjU1FiQUxMYlpzdmFvQkp1RGRFcWpaVGlOel9vLWx4ZDdfdDdlbm9DWTBXU1B2ZTNHQVFfU1EyQ1VaSHE2NFNqTXEwSEdxZmJEM3piSHhQc1YwUnM0SmxQVFFXYkQtM3BkdW5hclJpdEZwNXZ0M01mRXVUWQ?oc=5",
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTJsVnE3eVE4T0Utbk5kRVBCb1dsT3ZrVjdDVmd5S3ZyczJkTVBvckZLejltX3pWeXVQaUQ5OXhOSlBpbThtOHlWZ2dZS3BOZXBNRXU2cHh0YjE2Yi1zZzJyY2pqWFRfVTZVZi1KcGw2RThBVVR2TmZwNEdhOEpLblZCUGtsUkd2YndfVTlQRU1UbksyQ2Z1a2RldGhMMWZrZGdRWmVTclhydlh6ZklYM1pfeE9lWUM2T1E?oc=5",
+  "skip:https://www.interfax.ru/world/1126641",
+  "skip:https://tass.ru/politika/28279955",
+  "skip:https://ria.ru/20261102/lavrov-2128779125.html",
+  "https://www.kommersant.ru/doc/9079421",
+  "title:Сергей Лавров прибыл в Минск для участия в конференции по евразийской безопасности"
 ]

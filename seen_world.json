@@ -1,13 +1,4 @@
 [
-  "skip:https://tass.ru/sport/28271705",
-  "skip:https://www.sport-interfax.ru/1126121",
-  "skip:https://www.sport-interfax.ru/1126114",
-  "https://www.kommersant.ru/doc/9077548",
-  "title:IIHF исполнит решение CAS о допуске российских хоккеистов к международным турнирам",
-  "skip:https://www.interfax.ru/russia/1126101",
-  "skip:https://tass.ru/obschestvo/28271647",
-  "https://www.rbc.ru/rbcfreenews/6ae4826f9dc8453fd65490af",
-  "title:В Самарской области при ликвидации последствий атак БПЛА погибли двое человек",
   "skip:https://www.kommersant.ru/doc/9077583",
   "skip:https://www.interfax.ru/russia/1126129",
   "skip:https://www.rbc.ru/politics/30/10/2026/6ae48f8dc06d23f7a6885dfb",
@@ -998,5 +989,14 @@
   "skip:https://tass.ru/politika/28279955",
   "skip:https://ria.ru/20261102/lavrov-2128779125.html",
   "https://www.kommersant.ru/doc/9079421",
-  "title:Сергей Лавров прибыл в Минск для участия в конференции по евразийской безопасности"
+  "title:Сергей Лавров прибыл в Минск для участия в конференции по евразийской безопасности",
+  "skip:https://ria.ru/20261102/ataka-2128783702.html",
+  "skip:https://tass.ru/proisshestviya/28280003",
+  "https://www.kommersant.ru/doc/9079427",
+  "title:Удар ВСУ по рейсовому автобусу в ЛНР привел к гибели человека",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28279993",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28279987",
+  "skip:https://www.rbc.ru/politics/02/11/2026/6ae8dc280dbbc5bef016517e",
+  "https://www.kommersant.ru/doc/9079425",
+  "title:Полиция Польши начала специальную операцию у границы с Калининградской областью"
 ]

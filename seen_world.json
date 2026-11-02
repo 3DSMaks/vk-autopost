@@ -1,8 +1,4 @@
 [
-  "skip:https://tass.ru/politika/28268855",
-  "skip:https://www.interfax.ru/russia/1125919",
-  "skip:https://www.kommersant.ru/doc/9064173",
-  "https://ria.ru/20261029/putin-2127938193.html",
   "title:Владимир Путин провел переговоры с президентом Республики Конго и первой женщиной-президентом Намибии",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28268657",
   "skip:https://www.france24.com/en/france/20261029-deeply-regressive-how-the-french-government-plans-to-make-protesters-pay-for-riots-and-looting",
@@ -998,5 +994,9 @@
   "skip:https://www.rbc.ru/politics/02/11/2026/6ae83204458ce32e70db7761",
   "skip:https://www.interfax.ru/russia/1126490",
   "https://www.kommersant.ru/doc/9078792",
-  "title:ФСБ предотвратила серию терактов против российских военных с использованием заминированных FPV-очков"
+  "title:ФСБ предотвратила серию терактов против российских военных с использованием заминированных FPV-очков",
+  "skip:https://www.rbc.ru/rbcfreenews/6ae83c511eb6f46c9372c089",
+  "skip:https://tass.ru/proisshestviya/28277807",
+  "https://www.kommersant.ru/doc/9078846",
+  "title:МВД и Лаборатория Касперского пресекли деятельность хакерской группировки Вася Грек"
 ]

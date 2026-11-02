@@ -1,9 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/games/call-of-duty/dmz-electronic-sensors-location/",
-  "skip:https://www.playground.ru/blood_of_dawnwalker/news/vyshlo_krupnoe_obnovlenie_1_1_dlya_vampirskoj_rpg_the_blood_of_dawnwalker-1883812#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169457/shouranner-pingvina-hochet-snyat-dlya-dc-serial-pro-yadovitogo-plyuscha/",
-  "skip:https://www.igromania.ru/news/169455/gejmdirektor-life-is-strange-rashvalil-adaptatsiyu-igryi-amazon-i-pokazal-foto-s-serialnyimi-maks-i-hloej/",
-  "https://www.ign.com/articles/ea-sports-confirms-its-developing-an-open-world-football-game",
   "title:EA Sports Confirms It's Developing an Open-World Football Game",
   "skip:https://www.kinonews.ru/news_143779/",
   "skip:https://www.kinonews.ru/article_143757/",
@@ -998,5 +993,10 @@
   "skip:https://stopgame.ru/newsdata/73356/pervaya_path_of_exile_poluchit_rasshirenie_koveny_umbrii_uzhe_13_noyabrya",
   "skip:https://gamemag.ru/news/201935/dragon-age-could-have-had-its-baldurs-gate-3-moment-former-lead-says-but-bioware-chose-simpler-rpgs",
   "https://gamemag.ru/news/201927/razrabotchiki-novyh-chastey-silent-hill-rabotali-v-polnoy-izolyacii-drug-ot-drugakonami-derjala",
-  "title:Разработчики трёх новых Silent Hill не знали о существовании игр друг друга"
+  "title:Разработчики трёх новых Silent Hill не знали о существовании игр друг друга",
+  "skip:https://deadline.com/2026/11/newsom-ca-film-tv-tax-incentive-hike-1-billion-1237211227/",
+  "skip:https://variety.com/2026/film/news/gavin-newsom-california-movie-tv-tax-credit-billion-dollars-1236937395/",
+  "skip:https://deadline.com/2026/11/hollywood-music-in-media-awards-2026-nominations-1237209973/",
+  "https://variety.com/2026/film/global/dominic-west-john-cleese-trudie-stylers-the-reception-1236937454/",
+  "title:Dominic West, John Cleese, Portia de Rossi Join Jeff Daniels in Trudie Styler’s Comedy ‘The Reception’ (EXCLUSIVE)"
 ]

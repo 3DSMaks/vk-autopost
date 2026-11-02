@@ -1,7 +1,4 @@
 [
-  "skip:https://www.playground.ru/cyberpunk_2077/news/cd_projekt_red_raskryla_god_dejstviya_vtorogo_sezona_edgerunners_2_i_proyasnila_svyaz_s_cyberpunk_2077-1883507#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "https://www.pcgamer.com/gaming-industry/ea-sports-fc-27-gets-a-pegi-16-rating-in-europe-because-of-loot-boxes/",
-  "title:EA Sports FC 27 gets a PEGI 16 rating in Europe because of loot boxes",
   "skip:https://www.kinonews.ru/news_143769/",
   "skip:https://www.film.ru/news/14-y-sezon-amerikanskoy-istorii-uzhasov",
   "https://www.film.ru/news/onlayn-reliz-sobachih-zvezd-ridli-skotta",
@@ -998,5 +995,8 @@
   "https://www.playground.ru/gta_6/news/v_rockstar_games_rasskazali_ob_integratsii_elementov_rpg_i_simulyatora_zhizni_v_gta_6-1887002#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:В Rockstar Games рассказали об интеграции элементов RPG и симулятора жизни в GTA 6",
   "https://www.playground.ru/final_fantasy_7_part_3/news/rezhissyor_final_fantasy_7_revelation_zaveril_chto_multiplatformennyj_reliz_ne_skazhetsya_na_kachestve_igry-1886996#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Режиссёр Final Fantasy 7 Revelation заверил, что мультиплатформенный релиз не скажется на качестве игры"
+  "title:Режиссёр Final Fantasy 7 Revelation заверил, что мультиплатформенный релиз не скажется на качестве игры",
+  "skip:https://stopgame.ru/newsdata/73353/prodazhi_phantom_blade_zero_dostigli_4_mln_kopiy_za_3_dnya",
+  "https://www.pcgamer.com/games/rpg/footage-of-what-sure-looks-like-a-persona-1-remake-has-leaked/",
+  "title:Footage of what sure looks like a Persona 1 remake has leaked"
 ]

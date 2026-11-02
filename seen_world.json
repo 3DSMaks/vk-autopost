@@ -1,10 +1,4 @@
 [
-  "skip:https://ria.ru/20261030/pvo-2128010581.html",
-  "skip:https://tass.ru/armiya-i-opk/28270097",
-  "https://www.rbc.ru/rbcfreenews/6ae43ca7f8a3ab49f5f26a55",
-  "title:Минобороны РФ сообщило о сбитых за ночь более тысячи украинских беспилотников",
-  "skip:https://www.rbc.ru/rbcfreenews/6ae43b75f8a3ab49f5f26a50",
-  "skip:https://www.rbc.ru/rbcfreenews/6ae4379eba3ca498b3e75368",
   "skip:https://www.interfax.ru/russia/1126001",
   "skip:https://www.interfax.ru/russia/1126003",
   "skip:https://ria.ru/20261030/aleshki-2128003144.html",
@@ -998,5 +992,11 @@
   "title:Основателя The Insider Романа Доброхотова заочно приговорили к 5,5 года колонии",
   "skip:https://ria.ru/20261102/samolet-2128686158.html",
   "https://www.rbc.ru/society/02/11/2026/6ae88f60b6f380484a231177",
-  "title:Самолет авиакомпании Wizz Air экстренно сел в Будапеште из-за сообщения о бомбе"
+  "title:Самолет авиакомпании Wizz Air экстренно сел в Будапеште из-за сообщения о бомбе",
+  "skip:https://www.interfax.ru/digital/1126596",
+  "https://ria.ru/20261102/kiberataka-2128698737.html",
+  "skip:https://tass.ru/proisshestviya/28279349",
+  "skip:https://www.interfax.ru/world/1126595",
+  "skip:https://news.google.com/rss/articles/CBMiowFBVV95cUxQLTQ5eVVHbDA4NkpVWmNlWmNrc0ZYZGxxSC1wdFphVmljMnVMX3BDWUNVQkl4akdHOU9leWNKTFdJS0xQVWI2X1VOZUUtYkRzOFN5aDlJcXpXeTVWV0EyeWVzS0JON0ZCb0w2bHBua0JfbDQxcHVsYk11ektjbjQyV1hNVzRnNjBlay1KZnpxVEVySlZ5b1FwbURIYll4aXJmRlN3?oc=5",
+  "https://tass.ru/proisshestviya/28279353"
 ]

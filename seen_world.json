@@ -1,10 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1126001",
-  "skip:https://www.interfax.ru/russia/1126003",
-  "skip:https://ria.ru/20261030/aleshki-2128003144.html",
-  "skip:https://www.interfax.ru/russia/1126000",
-  "skip:https://www.kommersant.ru/doc/9064366",
-  "skip:https://www.interfax.ru/russia/1125999",
   "https://tass.ru/politika/28270139",
   "title:Гуманитарная миссия направилась в Алешки, при разминировании дороги погибли люди",
   "skip:https://www.interfax.ru/russia/1126036",
@@ -998,5 +992,11 @@
   "skip:https://tass.ru/proisshestviya/28279349",
   "skip:https://www.interfax.ru/world/1126595",
   "skip:https://news.google.com/rss/articles/CBMiowFBVV95cUxQLTQ5eVVHbDA4NkpVWmNlWmNrc0ZYZGxxSC1wdFphVmljMnVMX3BDWUNVQkl4akdHOU9leWNKTFdJS0xQVWI2X1VOZUUtYkRzOFN5aDlJcXpXeTVWV0EyeWVzS0JON0ZCb0w2bHBua0JfbDQxcHVsYk11ektjbjQyV1hNVzRnNjBlay1KZnpxVEVySlZ5b1FwbURIYll4aXJmRlN3?oc=5",
-  "https://tass.ru/proisshestviya/28279353"
+  "https://tass.ru/proisshestviya/28279353",
+  "skip:https://ria.ru/20261102/tramp-2128700720.html",
+  "https://www.rbc.ru/politics/02/11/2026/6ae88ce02273f59e1557a633",
+  "title:Дональд Трамп пообещал защитить Илона Маска и снизить цены на бензин в США",
+  "skip:https://tass.ru/obschestvo/28279373",
+  "https://ria.ru/20261102/vydvorenie-2128699070.html",
+  "title:В России вдвое расширят список оснований для выдворения мигрантов"
 ]

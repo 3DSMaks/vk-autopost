@@ -1,6 +1,4 @@
 [
-  "https://www.kinonews.ru/news_143776/",
-  "title:Среди претендентов на роль Джеймса Бонда появился секретный \"третий актер\"",
   "skip:https://stopgame.ru/newsdata/73260/smi_serial_po_mass_effect_po_prezhnemu_nahoditsya_v_proizvodstve",
   "skip:https://www.playground.ru/misc/news/zakrytie_bioware_proizoshlo_na_fone_18_mlrd_dolga_ea_i_plana_sekonomit_do_700_mln-1883740#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169445/komanda-mass-effect-5-i-veteranyi-serii-prokommentirovali-zakryitie-bioware-i-otmenu-novoj-igryi/",
@@ -998,5 +996,7 @@
   "skip:https://kg-portal.ru/comments/135605-novaja-obitel-zla-nakanune-cifrovogo-reliza-zarabotala-v-mirovom-prokate-vnushitelnuju-summu/",
   "skip:https://www.kinonews.ru/news_143924/",
   "https://www.film.ru/news/ekranizaciya-igry-mouthwashing",
-  "title:Экранизация игры Mouthwashing"
+  "title:Экранизация игры Mouthwashing",
+  "https://www.film.ru/news/treyler-kvazimodo-s-vensanom-kasselem-0",
+  "title:Трейлер Квазимодо с Венсаном Касселем"
 ]

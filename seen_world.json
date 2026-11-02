@@ -1,13 +1,4 @@
 [
-  "title:Криптобиржа Binance покроет все потери после крупнейшего в истории взлома",
-  "skip:https://ria.ru/20261030/cas-2128072495.html",
-  "skip:https://www.rbc.ru/sport/30/10/2026/6ae463d50057ce6e2519ca50",
-  "skip:https://tass.ru/sport/28271043",
-  "skip:https://ria.ru/20261030/khokkey-2128070172.html",
-  "skip:https://ria.ru/20261030/tardif-2128068439.html",
-  "skip:https://tass.ru/sport/28271013",
-  "skip:https://www.sport-interfax.ru/1126078",
-  "skip:https://ria.ru/20261030/khokkey-2128060017.html",
   "https://ria.ru/20261030/cas-2128072984.html",
   "title:Международная федерация хоккея исполнит решение CAS о допуске российских сборных",
   "skip:https://ria.ru/20261030/khokkey-2128081866.html",
@@ -998,5 +989,14 @@
   "title:Под Киевом обнаружен дом с удерживаемыми людьми, на месте работают силовики",
   "skip:https://ria.ru/20261102/husity-2128762286.html",
   "https://tass.ru/mezhdunarodnaya-panorama/28279747",
-  "title:Хуситы заявили об ударах по аэропортам и объектам на юге и востоке Саудовской Аравии"
+  "title:Хуситы заявили об ударах по аэропортам и объектам на юге и востоке Саудовской Аравии",
+  "skip:https://www.kommersant.ru/doc/9079371",
+  "skip:https://tass.ru/ekonomika/28279791",
+  "https://www.rbc.ru/politics/02/11/2026/6ae8c3530d6cdd0c34bba9c9",
+  "title:В Казахстане приостановили прокачку нефти по нефтепроводу Атырау — Самара из-за атаки беспилотников",
+  "skip:https://www.sport-interfax.ru/1126634",
+  "skip:https://www.rbc.ru/sport/02/11/2026/6ae8bc06d8deff8663eef366",
+  "skip:https://tass.ru/sport/28279793",
+  "https://ria.ru/20261102/dubl-2128769761.html",
+  "title:Футбольный клуб Зенит разгромил Крылья Советов и возглавил турнирную таблицу РПЛ"
 ]

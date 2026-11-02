@@ -1,11 +1,4 @@
 [
-  "skip:https://ria.ru/20261030/binance--2128062261.html",
-  "skip:https://www.interfax.ru/business/1126067",
-  "skip:https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-  "https://tass.ru/ekonomika/28270879",
-  "title:Криптовалютная биржа Binance столкнулась с рекордным хакерским взломом и кражей миллиардов долларов",
-  "skip:https://news.google.com/rss/articles/CBMifkFVX3lxTE1qZXdEd1I0bEpndGQ4QnA5ZlZrb1hDaVVudGxwME91ZE92eWhXNzNWR2tsdzNFS09WbE1Qb3ZvNzgwcVhxM2hxWTQwQ3VYbGJ5Wno3UlFCaEUtdWtlcW9GVmxvcF9JMURBckJjdXlZenNPbVFhN1NVejAzc0lrUQ?oc=5",
-  "https://ria.ru/20261030/binance--2128073331.html",
   "title:Криптобиржа Binance покроет все потери после крупнейшего в истории взлома",
   "skip:https://ria.ru/20261030/cas-2128072495.html",
   "skip:https://www.rbc.ru/sport/30/10/2026/6ae463d50057ce6e2519ca50",
@@ -998,5 +991,12 @@
   "title:Цена нефти марки Brent упала ниже 106 долларов за баррель на фоне перспектив урегулирования конфликта на Ближнем Востоке",
   "skip:https://news.google.com/rss/articles/CBMitwFBVV95cUxNNVJGdUotaWhuOVFjZ2VTVHZ5bkxnbmVXd3BUS0JEenI2QkpMYXJSVUxpUGJrNHpaMkFtZ244cE93RWhCWExKTmJFdm5FbFZEck14aVdnaW0tdU5DdHY0UUk3TkpqbW5vb1RzMW85Z1VkZHFBSnlRMkRVUTlxRDgyR2Z1N3BBSkRsdzI2Mm9WQmxjaFpiOUpqR3k5WjRZUVVZaUtGWGVscXhlS01PZjBUTWRMNHpIU28?oc=5",
   "https://tass.ru/mezhdunarodnaya-panorama/28279681",
-  "title:Глава МИД Китая призвал страны Персидского залива создать новую архитектуру безопасности"
+  "title:Глава МИД Китая призвал страны Персидского залива создать новую архитектуру безопасности",
+  "skip:https://tass.ru/proisshestviya/28279731",
+  "skip:https://ria.ru/20261102/kiev-2128751957.html",
+  "https://tass.ru/mezhdunarodnaya-panorama/28279789",
+  "title:Под Киевом обнаружен дом с удерживаемыми людьми, на месте работают силовики",
+  "skip:https://ria.ru/20261102/husity-2128762286.html",
+  "https://tass.ru/mezhdunarodnaya-panorama/28279747",
+  "title:Хуситы заявили об ударах по аэропортам и объектам на юге и востоке Саудовской Аравии"
 ]

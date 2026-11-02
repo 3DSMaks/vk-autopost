@@ -1,7 +1,4 @@
 [
-  "title:Классический зомби-шутер теперь с трассировкой лучей - NVIDIA представила Left 4 Dead RTX",
-  "skip:https://kg-portal.ru/comments/135474-kadry-iz-filma-novye-pohozhdenija-kliffa-buta/",
-  "skip:https://www.film.ru/news/perezapusk-hora-v-rabote",
   "https://variety.com/2026/artisans/news/tangles-trailer-animation-alzheimers-seth-rogen-1236918154/",
   "title:‘Tangles’ Trailer: Seth Rogen-Produced Film Shows the Impact of Alzheimer’s Through Animation (EXCLUSIVE)",
   "skip:https://www.igromania.ru/news/169436/trejler-3-sezona-vlastelin-kolets-koltsa-vlasti-obeschaet-epichnyie-srazheniya-i-pogruzhenie-vo-mrak/",
@@ -998,5 +995,8 @@
   "title:Speedrunner Breaks Super Mario Bros. World Record While Dressed as the Italian Plumber, Now Just 2 Frames From Theoretical Perfect Run",
   "skip:https://deadline.com/2026/11/netflix-josh-oconnor-joel-coen-jack-of-spades-1237211377/",
   "https://variety.com/2026/music/news/hunger-games-album-jennifer-lawrence-ella-langley-1236937594/",
-  "title:‘Hunger Games’ Companion Album to Feature Jennifer Lawrence, Ella Langley, Tyler Childers, Mckenna Grace and 25 More"
+  "title:‘Hunger Games’ Companion Album to Feature Jennifer Lawrence, Ella Langley, Tyler Childers, Mckenna Grace and 25 More",
+  "skip:https://www.film.ru/news/dzhek-lauden-o-potencialnom-bonde",
+  "https://variety.com/2026/film/awards/netflix-joel-coen-jack-of-spades-josh-oconnor-2027-1236936906/",
+  "title:Joel Coen’s ‘Jack of Spades,’ With Josh O’Connor and Patsy Ferran, Lands at Netflix for Fall 2027"
 ]

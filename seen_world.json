@@ -1,11 +1,4 @@
 [
-  "https://www.rbc.ru/finances/30/10/2026/6ae3ecf9a9dfd110d5fc9bd6",
-  "title:Криптобиржа Binance столкнулась с кибератакой и приостановила операции",
-  "skip:https://www.rbc.ru/politics/30/10/2026/6ae4270dba3ca498b3e75338",
-  "skip:https://news.google.com/rss/articles/CBMitwFBVV95cUxPTEZ5UV9XWUJPdkJDanlwdEFEY1V5T3A3UExxWHoxZFBHbnY1RjFsS0JwWk92TFhqYWpLVTFmMk9VUUhiRzZDVDZsdERfTERlUUZ0cWdKNm9MeUE4Mm5MNWZuaXpNLXVOM3BVczNXVndOOGlBZk9PLXBqT3hGLXpsRGVkREl6cTk5RXNWRThVVkNrem5BQkp0SVFReWY3aEktdGItd0c5bTNQUFVsRGZwczRYSUJVUFE?oc=5",
-  "https://tass.ru/mezhdunarodnaya-panorama/28269865",
-  "title:США призвали страны НАТО смягчить риторику в адрес России",
-  "skip:https://www.interfax.ru/russia/1126016",
   "skip:https://ria.ru/20261030/pvo-2128010581.html",
   "skip:https://tass.ru/armiya-i-opk/28270097",
   "https://www.rbc.ru/rbcfreenews/6ae43ca7f8a3ab49f5f26a55",
@@ -998,5 +991,12 @@
   "skip:https://www.interfax.ru/russia/1126588",
   "skip:https://tass.ru/obschestvo/28279129",
   "https://www.kommersant.ru/doc/9079129",
-  "title:МЧС сообщило о рассылке ложных сообщений из-за кибератаки на приложение в 33 регионах"
+  "title:МЧС сообщило о рассылке ложных сообщений из-за кибератаки на приложение в 33 регионах",
+  "skip:https://www.interfax.ru/russia/1126591",
+  "skip:https://www.kommersant.ru/doc/9079120",
+  "https://www.rbc.ru/rbcfreenews/6ae8898abf12f080d5fe44da",
+  "title:Основателя The Insider Романа Доброхотова заочно приговорили к 5,5 года колонии",
+  "skip:https://ria.ru/20261102/samolet-2128686158.html",
+  "https://www.rbc.ru/society/02/11/2026/6ae88f60b6f380484a231177",
+  "title:Самолет авиакомпании Wizz Air экстренно сел в Будапеште из-за сообщения о бомбе"
 ]

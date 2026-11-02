@@ -116,5 +116,9 @@
   "skip:https://www.playground.ru/final_fantasy_14_a_realm_reborn/news/square_enix_pokazala_novye_regiony_final_fantasy_xiv_evercold_v_svezhem_trejlere-1886936#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.playground.ru/final_fantasy_14_a_realm_reborn/news/final_fantasy_14_evercold_pokazyvaet_novye_ledyanye_podzemelya-1886935#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://stopgame.ru/newsdata/73351/reliz_dopolneniya_evercold_dlya_final_fantasy_xiv_pereehal_na_23_fevralya",
-  "title:Релиз дополнения Evercold для Final Fantasy XIV переехал на 23 февраля"
+  "title:Релиз дополнения Evercold для Final Fantasy XIV переехал на 23 февраля",
+  "skip:https://www.igromania.ru/news/169666/phantom-blade-zero-razoshlas-tirazhom-v-chetyire-milliona-kopij-za-72-chasa/",
+  "skip:https://gamemag.ru/news/201934/phantom-blade-zero-ccu-fw",
+  "https://stopgame.ru/newsdata/73353/prodazhi_phantom_blade_zero_dostigli_4_mln_kopiy_za_3_dnya",
+  "title:Продажи Phantom Blade Zero достигли 4 млн копий за 3 дня"
 ]

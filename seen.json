@@ -1,8 +1,4 @@
 [
-  "skip:https://www.film.ru/news/kto-napishet-novyy-shpionskiy-serial-dlya-marvel",
-  "https://www.kinonews.ru/news_143780/",
-  "title:Мультфильм \"Ведьмин лес\" покорил первых зрителей",
-  "https://deadline.com/2026/10/silaa-release-date-zee-studios-omung-kumars-1237169645/",
   "title:Zee Studios Sets Release Date For Omung Kumar’s ‘Silaa’",
   "https://deadline.com/2026/10/louis-partridge-one-last-summer-enola-holmes-1237171542/",
   "title:‘Enola Holmes’ Star Louis Partridge To Headline & Produce Film ‘One Last Summer’",
@@ -998,5 +994,9 @@
   "title:‘Hunger Games’ Companion Album to Feature Jennifer Lawrence, Ella Langley, Tyler Childers, Mckenna Grace and 25 More",
   "skip:https://deadline.com/2026/11/hunger-games-sunrise-on-the-reaping-meta-vr-glasses-1237211422/",
   "https://variety.com/2026/biz/news/meta-lionsgate-hunger-games-sunrise-on-the-reaping-3d-vr-1236937750/",
-  "title:Meta to Help Bring ‘The Hunger Games: Sunrise on the Reaping’ to 3D Screens — and Its $1,299 VR Glasses"
+  "title:Meta to Help Bring ‘The Hunger Games: Sunrise on the Reaping’ to 3D Screens — and Its $1,299 VR Glasses",
+  "skip:https://www.kinonews.ru/news_143950/",
+  "skip:https://variety.com/2026/film/awards/john-turturro-only-living-pickpocket-knicks-oscars-1236935365/",
+  "https://variety.com/2026/film/news/x-men-hunger-games-ben-wang-iceman-marvel-reboot-1236937787/",
+  "title:‘X-Men’: ‘Hunger Games’ Actor Ben Wang Circling Iceman Role in Marvel’s Reboot"
 ]

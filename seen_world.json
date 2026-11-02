@@ -1,10 +1,4 @@
 [
-  "https://ria.ru/20261029/putin-2127940161.html",
-  "title:Итоги саммита Россия — Африка: достижение поставленных задач и укрепление партнерства",
-  "skip:https://www.rbc.ru/politics/29/10/2026/6ae38bf06d596e6575ba078e",
-  "skip:https://www.interfax.ru/world/1125907",
-  "https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss",
-  "title:Партия Нетаньяху лидирует на выборах в Израиле после подсчета 100% голосов без получения большинства",
   "skip:https://ria.ru/20261029/akter-2127949980.html",
   "skip:https://tass.ru/kultura/28268993",
   "skip:https://www.kommersant.ru/doc/9064215",
@@ -998,5 +992,11 @@
   "skip:https://tass.ru/proisshestviya/28277855",
   "skip:https://ria.ru/20261102/florida-2128582061.html",
   "https://www.rbc.ru/society/02/11/2026/6ae847136ceccb58de039b4d",
-  "title:Крушение бизнес-джета во Флориде унесло жизни девяти человек"
+  "title:Крушение бизнес-джета во Флориде унесло жизни девяти человек",
+  "skip:https://tass.ru/ekonomika/28278183",
+  "https://ria.ru/20261102/neft-2128599283.html",
+  "title:Цена нефти марки Brent опустилась ниже 109 долларов за баррель",
+  "skip:https://www.interfax.ru/russia/1126533",
+  "https://tass.ru/politika/28278115",
+  "title:Сергей Шойгу заявил, что Россия не собирается нападать на страны Запада"
 ]

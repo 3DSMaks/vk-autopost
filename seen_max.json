@@ -1,9 +1,4 @@
 [
-  "https://kg-portal.ru/comments/135487-novyj-temnyj-rycar-betsja-sbejnom-naarte-kovtoroj-chasti-multfilma-betmen-trilogija-najtfol/",
-  "title:Новый Тёмный рыцарь бьётся с Бэйном на арте ко второй части мультфильма \"Бэтмен: Трилогия Найтфол\"",
-  "skip:https://gamemag.ru/news/201775/next-james-bond-cast-two-actors-left",
-  "https://www.playground.ru/resident_evil_code_veronica_x/news/sluh_capcom_mogla_zatizerit_vozvraschenie_krisa_redfilda_v_remejke_resident_evil_code_veronica-1883766#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Слух: Capcom могла затизерить возвращение Криса Редфилда в ремейке Resident Evil: Code Veronica",
   "skip:https://kg-portal.ru/comments/135493-kris-pratt-ne-ostavljaet-popytok-vernut-starlorda-v-kinovselennuju-marvel/",
   "https://deadline.com/2026/10/harry-potter-accounts-clue-about-budget-hbo-series-1237170454/",
   "title:‘Harry Potter’ Production Accounts Reveal Clue About Budget For HBO Series",
@@ -998,5 +993,10 @@
   "https://www.kinonews.ru/news_143938/",
   "title:Скайуокеры вернутся в десятом эпизоде \"Звездных войн\"",
   "https://www.film.ru/news/start-vtorogo-sezona-odnoy-iz-mnogih",
-  "title:Старт второго сезона Одной из многих"
+  "title:Старт второго сезона Одной из многих",
+  "skip:https://www.playground.ru/fable_2026/news/razrabotchiki_fable_predstavili_muzykalnuyu_temu_samoj_zagadochnoj_i_pugayuschej_lokatsii_albiona-1887069#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/misc/news/igroki_sdelali_svoj_vybor_geforce_rtx_3060_snova_lidiruet_v_steam_a_dolya_linux_priblizilas_k_4-1887058#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://gamemag.ru/news/201932/square-enix-nazvala-tochnuyu-datu-vyhoda-dopolneniya-evercold-dlya-final-fantasy-xiv-predstavlen",
+  "https://gamemag.ru/news/201930/klassicheskaya-call-of-duty-modern-warfare-2-skoro-mojet-poluchit-pereizdanie-dlya-sovremennyh",
+  "title:Оригинальную Call of Duty: Modern Warfare 2 могут перевыпустить на современных платформах"
 ]

@@ -1,9 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/call-of-duty-modern-warfare-4-dmz-review",
-  "skip:https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-players-declare-broken-on-dmz-perk-that-lets-you-self-revive-after-full-death/",
-  "skip:https://gamemag.ru/news/201783/serious-sam-the-third-encounter",
-  "skip:https://gamemag.ru/news/201767/cyberpunk-edgerunners-streaming-now-and-new-cp-77-update-october-2026",
-  "skip:https://stopgame.ru/newsdata/73255/anonsirovana_serious_sam_the_third_encounter",
   "skip:https://gamemag.ru/news/201782/bioware-f-rip",
   "https://www.ign.com/articles/gta-6s-fast-food-restaurant-burger-shot-is-coming-to-real-life-in-the-miami-heats-arena",
   "title:GTA 6's Fast Food Restaurant, Burger Shot, Is Coming to Real Life in the Miami Heat's Arena",
@@ -998,5 +993,10 @@
   "title:В Rockstar Games рассказали об интеграции элементов RPG и симулятора жизни в GTA 6",
   "skip:https://kg-portal.ru/comments/135604-tajka-vajtiti-ne-sterpel-postanovschik-nabrosilsja-na-kritikov-svoego-poslednego-provalnogo-filma-s-dzhennoj-ortegoj/",
   "https://variety.com/2026/film/news/jack-lowden-responds-james-bond-rumors-1236937276/",
-  "title:Jack Lowden Plays Coy About James Bond Rumors: ‘It’s All Very Flattering’ but I’m Not ‘Going to Add to the Noise’"
+  "title:Jack Lowden Plays Coy About James Bond Rumors: ‘It’s All Very Flattering’ but I’m Not ‘Going to Add to the Noise’",
+  "skip:https://www.ign.com/articles/phantom-blade-zero-sells-4-million-copies-in-72-hours",
+  "skip:https://www.ign.com/articles/yakuza-series-creator-toshiro-nagoshis-studio-has-officially-shut-down-before-releasing-a-game",
+  "skip:https://www.igromania.ru/news/169667/studiya-sozdatelya-like-a-dragonyakuza-zakryilas-sudba-ekshena-gang-of-dragon-neizvestna/",
+  "https://gamemag.ru/news/201933/it-hasnt-made-any-difference-gears-of-war-ps5-cancellation-fails-to-boost-xbox",
+  "title:«Положительных результатов нет»: Эксклюзивная Gears of War: E-Day не помогла увеличить продажи Xbox Series X|S"
 ]

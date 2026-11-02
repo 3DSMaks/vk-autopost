@@ -1,9 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169412/v-cd-projekt-red-rasskazali-kogda-proishodyat-sobyitiya-cyberpunk-edgerunners-2/",
-  "https://www.igromania.ru/news/169409/ponyatno-kto-platit-gta-6-reklamiruyut-na-tv-s-udlinyonnyimi-stsenami-iz-za-tsenzuryi-i-bez-logo-xbox/",
-  "title:Понятно, кто платит — GTA 6 рекламируют на ТВ с удлинёнными сценами из-за «цензуры» и без лого Xbox",
-  "https://deadline.com/2026/10/glee-reboot-series-order-disney-hulu-1237169231/",
-  "title:‘Glee’ Reboot Lands Series Order At Disney+ & Hulu",
   "skip:https://www.playground.ru/valor_mortis/news/valor_mortis_okupilas_za_nedelyu_soulslike_ot_avtorov_ghostrunner_uzhe_prinosit_pribyl-1883548#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.playground.ru/wolf_among_us/news/vladeltsy_originalnoj_the_wolf_among_us_poluchat_skidku_50_na_pokupku_remastera-1883547#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169420/valor-mortis-potrebovalas-nedelya-chtobyi-polnostyu-okupitsya/",
@@ -998,5 +993,10 @@
   "title:‘Carrie’s Mike Flanagan Reflects On Supernatural YA Drama & Says ‘Warhammer 40,000’ Series Has “Very Cool And Unexpected On-Ramp”",
   "skip:https://www.igromania.ru/news/169671/obitel-zla-zaka-kreggera-zarabotala-400-mln-dollarov/",
   "https://www.playground.ru/fable_2026/news/razrabotchiki_fable_predstavili_muzykalnuyu_temu_samoj_zagadochnoj_i_pugayuschej_lokatsii_albiona-1887069#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Разработчики Fable представили музыкальную тему самой загадочной и пугающей локации Альбиона"
+  "title:Разработчики Fable представили музыкальную тему самой загадочной и пугающей локации Альбиона",
+  "skip:https://www.ign.com/articles/zelda-ocarina-of-time-google-easter-egg",
+  "skip:https://www.igromania.ru/news/169675/inside-sayonara-wild-hearts-i-balatro-voshli-v-spisok-igr-udivivshih-glav-vnutrennih-studij-sony/",
+  "https://gamemag.ru/news/201927/razrabotchiki-novyh-chastey-silent-hill-rabotali-v-polnoy-izolyacii-drug-ot-drugakonami-derjala",
+  "video:2026-11-02:https://gamemag.ru/news/201927/razrabotchiki-novyh-chastey-silent-hill-rabotali-v-polnoy-izolyacii-drug-ot-drugakonami-derjala",
+  "title:Разработчики трёх новых Silent Hill не знали о существовании игр друг друга"
 ]

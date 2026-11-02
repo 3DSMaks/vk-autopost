@@ -1,8 +1,4 @@
 [
-  "https://www.film.ru/news/razrabatyvayut-serial-o-yadovitom-plyushche",
-  "title:Разрабатывают сериал о Ядовитом Плюще",
-  "skip:https://www.igromania.ru/news/169458/vsya-trilogiya-prodalas-huzhe-horizon-zero-dawn-novaya-mass-effect-eschyo-do-otmenyi-vyizyivala-somneniya/",
-  "skip:https://www.ign.com/articles/we-were-working-on-a-great-game-former-mass-effect-5-writers-speak-out-after-ea-shuts-down-bioware",
   "skip:https://www.pcgamer.com/games/mass-effect/the-next-mass-effect-would-have-had-a-level-of-autonomy-and-choice-that-no-other-game-has-been-able-to-match-according-to-bioware-veteran/",
   "skip:https://www.ign.com/articles/bioware-was-the-greatest-rpg-developer-ever",
   "skip:https://www.ign.com/articles/the-internet-reacts-to-the-cancelation-of-mass-effect-5-and-the-death-of-bioware",
@@ -998,5 +994,9 @@
   "https://kg-portal.ru/comments/135620-na-vtoryh-vyhodnyh-klejfejs-zarabotal-bolshe-supergerl/",
   "title:На вторых выходных \"Клэйфейс\" заработал больше \"Супергёрл\"",
   "https://deadline.com/2026/11/goodfellas-toho-sci-fi-thriller-leviathan-first-images-1237209570/",
-  "title:Goodfellas Unveils First Images For Toho’s Sci-Fi Thriller ‘Leviathan’ & Fall Lineup – AFM"
+  "title:Goodfellas Unveils First Images For Toho’s Sci-Fi Thriller ‘Leviathan’ & Fall Lineup – AFM",
+  "skip:https://www.igromania.ru/news/169679/gears-of-war-e-day-podeshevela-byudzhet-v-500-mln-mog-prednaznachatsya-vsej-the-coalition/",
+  "skip:https://www.playground.ru/misc/news/hideo_kodzima_ostalsya_dovolen_filmom_glinolikij_i_sravnil_ego_s_klassikoj_nauchnoj_fantastiki-1887086#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "https://www.playground.ru/gran_turismo_7/news/gran_turismo_7_uzhe_zapuskaetsya_na_pk_cherez_rekompilyatsiyu_ps4_versii_okolo_55_fps_na_geforce_rtx_4060-1887090#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Gran Turismo 7 уже запускается на ПК через рекомпиляцию PS4-версии - около 55 FPS на GeForce RTX 4060"
 ]

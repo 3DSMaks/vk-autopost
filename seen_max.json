@@ -1,6 +1,4 @@
 [
-  "skip:https://www.film.ru/news/kris-pratt-vernetsya-v-marvel",
-  "skip:https://www.kinonews.ru/news_143782/",
   "https://www.film.ru/news/razrabatyvayut-serial-o-yadovitom-plyushche",
   "title:Разрабатывают сериал о Ядовитом Плюще",
   "skip:https://www.igromania.ru/news/169458/vsya-trilogiya-prodalas-huzhe-horizon-zero-dawn-novaya-mass-effect-eschyo-do-otmenyi-vyizyivala-somneniya/",
@@ -998,5 +996,7 @@
   "https://deadline.com/2026/11/mike-flanagan-carrie-warhammer-40000-interview-1237171623/",
   "title:‘Carrie’s Mike Flanagan Reflects On Supernatural YA Drama & Says ‘Warhammer 40,000’ Series Has “Very Cool And Unexpected On-Ramp”",
   "https://kg-portal.ru/comments/135620-na-vtoryh-vyhodnyh-klejfejs-zarabotal-bolshe-supergerl/",
-  "title:На вторых выходных \"Клэйфейс\" заработал больше \"Супергёрл\""
+  "title:На вторых выходных \"Клэйфейс\" заработал больше \"Супергёрл\"",
+  "https://deadline.com/2026/11/goodfellas-toho-sci-fi-thriller-leviathan-first-images-1237209570/",
+  "title:Goodfellas Unveils First Images For Toho’s Sci-Fi Thriller ‘Leviathan’ & Fall Lineup – AFM"
 ]

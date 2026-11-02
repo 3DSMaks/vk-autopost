@@ -1,10 +1,4 @@
 [
-  "skip:https://ria.ru/20261030/bryansk-2128034483.html",
-  "https://www.interfax.ru/russia/1126053",
-  "title:В Брянской области в результате атаки дрона на частный дом погиб 19-летний молодой человек",
-  "skip:https://ria.ru/20261030/lnr-2128048125.html",
-  "skip:https://tass.ru/proisshestviya/28270673",
-  "https://tass.ru/proisshestviya/28270683",
   "title:В ЛНР 14 муниципалитетов остались без света после атаки ВСУ на энергокомплекс",
   "skip:https://www.rbc.ru/sport/30/10/2026/6ae45ff65171f3bd6bffcd4b",
   "skip:https://ria.ru/20261030/khokkey-2128058161.html",
@@ -998,5 +992,11 @@
   "skip:https://www.kommersant.ru/doc/9079229",
   "skip:https://www.interfax.ru/russia/1126609",
   "https://ria.ru/20261102/iran-2128728336.html",
-  "title:Владимир Путин и секретарь Совбеза Ирана Мохсен Резаи обсудили по телефону ситуацию на Ближнем Востоке"
+  "title:Владимир Путин и секретарь Совбеза Ирана Мохсен Резаи обсудили по телефону ситуацию на Ближнем Востоке",
+  "skip:https://ria.ru/20261102/hakery-2128740811.html",
+  "https://www.rbc.ru/society/02/11/2026/6ae883c3bf12f080d5fe44bd",
+  "title:Кибератака вывела из строя холодильные установки в супермаркетах ряда европейских стран",
+  "skip:https://ria.ru/20261102/oi-2036-2128721182.html",
+  "https://tass.ru/sport/28279637",
+  "title:МОК назвал семь стран, претендующих на проведение Олимпиады 2036 года"
 ]

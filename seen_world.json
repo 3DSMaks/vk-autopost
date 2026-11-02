@@ -1,14 +1,4 @@
 [
-  "skip:https://ria.ru/20261030/patrick-stewart-2127961979.html",
-  "https://www.rbc.ru/society/30/10/2026/6ae3c8a25171f3bd6bffccf3",
-  "skip:https://www.rbc.ru/technology_and_media/30/10/2026/6ae3cf25442724baf5712841",
-  "skip:https://news.google.com/rss/articles/CBMixwFBVV95cUxPT3g4aktSMUNOUXJpZ0NMa2hicVFaR28zZjd6NWF5Qkp5U1RfbURlMWRoc2oxa2wzb24yNUowQWNSSmhsanVLWUFfdUJYalF6b2l5eHFTSzctV0VPQlE0UEpBZm9BdkpJSFo5OTdXWDJINE1JWXVILUhvYk1JVlpKVzFvTGJTYzJGSlQ4VXB2ZnRnNHFORmRDTmdtOG1kam9wNTh3TWYyX1VFVmp4bzMxQ096eUdCTzNIRkVHNDZZelNjWkhpVWlV?oc=5",
-  "https://tass.ru/ekonomika/28269269",
-  "title:Биржа Binance столкнулась с кибератакой, приведшей к масштабным потерям и заморозке средств",
-  "skip:https://ria.ru/20261030/aeroport-2127970398.html",
-  "skip:https://tass.ru/ekonomika/28269265",
-  "skip:https://tass.ru/ekonomika/28269261",
-  "skip:https://tass.ru/ekonomika/28269239",
   "skip:https://tass.ru/ekonomika/28269203",
   "skip:https://tass.ru/ekonomika/28269197",
   "https://www.rbc.ru/rbcfreenews/6ae3cb4add30b476720dac6e",
@@ -998,5 +988,15 @@
   "skip:https://www.rbc.ru/rbcfreenews/6ae86350a88001aafeb6b592",
   "skip:https://www.kommersant.ru/doc/9078985",
   "https://www.interfax.ru/russia/1126565",
-  "title:В России подвели итоги гуманитарной операции и помощи жителям в Алешках"
+  "title:В России подвели итоги гуманитарной операции и помощи жителям в Алешках",
+  "skip:https://www.kommersant.ru/doc/9079046",
+  "skip:https://www.rbc.ru/politics/02/11/2026/6ae86d0abc750bafc655f528",
+  "skip:https://www.interfax.ru/world/1126561",
+  "https://tass.ru/mezhdunarodnaya-panorama/28278883",
+  "title:Премьер-министр Бельгии Барт де Вевер подал в отставку из-за бюджетного кризиса",
+  "skip:https://tass.ru/proisshestviya/28278615",
+  "skip:https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+  "skip:https://news.google.com/rss/articles/CBMizwFBVV95cUxObF9LUXZ2TVpjZm13eW9HNXZ0MkZFVDM5eHl5RXc0aDkzODdvc0VKYVE4YV9MSDZITjVTR01CM3l6ajdCVEFZMXlmdmx3MzBRWHN5QVkyTFU2bkR2Sm5VQm5OWUVfLVJoeHFZaXdrc0F1QTRnT0tHYXRvcVd4S0V2QUxmV3ptOEszT2EyWmFpVjYyUnRwODF1eGhXbGpGcUV2UXRwZFFLOGhPLTY1MWUxal9TY3M0Qm9MOVpSeTFHazNxMUNGSnVfdzVvOE0tUGM?oc=5",
+  "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+  "title:Хакерской атаке подверглись холодильные установки в супермаркетах ряда европейских стран"
 ]

@@ -1,11 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9064217",
-  "https://www.interfax.ru/world/1125929",
-  "title:Глава CENTCOM представил Дональду Трампу варианты военных действий против Ирана",
-  "skip:https://www.kommersant.ru/doc/9064216",
-  "skip:https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWhaZUxRSlZQeF9wYnU2b0k0U2FuYUUyY0RWX3hpZmJTdFVHdk5SeUk4MlpnTXozUjVGdHllRnNXOTdDMUppd2hnbmdOMUVwWThMUGRUaGRuZjVLUTR2eld0aGQwOUt3aXVlYmtLM0xNbHFWUVdRWXVDbFdVekM1T3Q3MURNX2M0cWl0Vi1QNTVUU3o0N1BfZnVnQ2RwRDA1?oc=5",
-  "skip:https://www.france24.com/en/culture/20261029-patrick-stewart-star-of-star-trek-and-x-men-dies-age-86",
-  "https://www.interfax.ru/world/1125935",
   "skip:https://www.rbc.ru/finances/30/10/2026/6ae3badfb2fc2401d09808cf",
   "skip:https://ria.ru/20261030/binance-2127962927.html",
   "skip:https://www.kommersant.ru/doc/9064257",
@@ -998,5 +991,12 @@
   "skip:https://tass.ru/politika/28278289",
   "skip:https://tass.ru/politika/28278281",
   "https://ria.ru/20261102/kreml-2128611961.html",
-  "title:Подготовка к встрече Владимира Путина и Си Цзиньпина на саммите АТЭС"
+  "title:Подготовка к встрече Владимира Путина и Си Цзиньпина на саммите АТЭС",
+  "skip:https://www.france24.com/en/video/20261102-ukraine-and-russia-both-hit-by-cyberattacks-on-emergency-apps",
+  "skip:https://www.kommersant.ru/doc/9078958",
+  "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
+  "title:В России и на Украине сообщили о кибератаках на системы экстренного оповещения",
+  "skip:https://tass.ru/politika/28278617",
+  "https://ria.ru/20261102/putin-2128622704.html",
+  "title:Россия ратифицировала соглашение с Китаем о строительстве ж/д пути и соглашение с Буркина-Фасо"
 ]

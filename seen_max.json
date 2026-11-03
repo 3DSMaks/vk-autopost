@@ -1,8 +1,4 @@
 [
-  "skip:https://www.playground.ru/mass_effect_5/news/trejler_mass_effect_5_byl_gotov_k_pokazu_eschyo_do_zakrytiya_bioware_fanaty_mogut_ego_tak_i_ne_uvidet-1883898#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.playground.ru/gta_6/news/v_reklame_gta_6_na_tv_izmenili_stseny_s_dzhejsonom_i_lyusiej_fanaty_zametili_novye_detali-1883897#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.playground.ru/misc/news/obnovlyonnaya_besprovodnaya_garnitura_playstation_pulse_vyjdet_19_noyabrya_v_den_reliza_grand_theft_auto_6-1883891#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169466/control-resonant-i-onimusha-ustupili-marvels-wolverine-po-zagruzkam-na-ps5-v-sentyabre/",
   "skip:https://www.pcgamer.com/gaming-industry/game-industry-legend-warren-spector-blows-up-over-biowares-closure-its-utter-bulls-t/",
   "skip:https://gamemag.ru/news/201800/kotaku-the-case-for-exclusivity-when-gears-of-war-e-day-cost-over-500-million-to-make",
   "skip:https://www.playground.ru/gears_of_war_e_day/news/po_dannym_smi_byudzhet_razrabotki_gears_of_war_e_day_prevyshaet_500_mln_dollarov_bez_zatrat_na_marketing-1883887#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +994,9 @@
   "https://www.ign.com/articles/alien-isolation-2-sticking-with-pure-survival-horror-roots-says-creative-director",
   "title:Alien: Isolation 2 Sticking With Pure Survival Horror Roots, Says Creative Director",
   "https://kg-portal.ru/comments/135624-dzhonni-depp-gotov-vernutsja-k-roli-kapitana-dzheka-vorobja-chtoby-krasivo-zavershit-piratov-karibskogo-morja/",
-  "title:Джонни Депп готов вернуться к роли капитана Джека Воробья, чтобы красиво завершить \"Пиратов Карибского моря\""
+  "title:Джонни Депп готов вернуться к роли капитана Джека Воробья, чтобы красиво завершить \"Пиратов Карибского моря\"",
+  "skip:https://kg-portal.ru/comments/135627-ne-v-pervyj-raz-netflix-stanet-kinoprokatchikom-sovmestnogo-filma-bratev-koenov/",
+  "skip:https://www.film.ru/news/pikovyy-valet-i-netflix",
+  "https://www.kinonews.ru/news_143954/",
+  "title:Звезда франшизы \"Крик\" Нив Кэмпбелл вернется в \"Крике 8\""
 ]

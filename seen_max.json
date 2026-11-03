@@ -1,8 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/skate-studio-hit-with-layoffs",
-  "skip:https://www.pcgamer.com/gaming-industry/what-we-were-cooking-was-really-cool-an-award-winning-science-fiction-author-was-working-on-mass-effect-5s-story/",
-  "skip:https://www.igromania.ru/news/169464/razrabotka-gears-of-war-e-day-mogla-obojtis-v-500-mln-dollarov-bez-uchyota-marketinga/",
-  "skip:https://www.ign.com/articles/gta-6-tv-commercial-strips-shower-scene-doesnt-mention-xbox",
   "skip:https://www.ign.com/articles/mass-effect-5-trailer-reportedly-ready-to-go-before-bioware-closure",
   "skip:https://www.ign.com/articles/ea-halts-development-on-mobile-multiplayer-sims-game-in-favor-of-rumored-sims-4-sequel",
   "https://www.playground.ru/serious_sam_the_third_encounter/news/predstavleny_skrinshoty_i_minimalnye_trebovaniya_serious_sam_the_third_encounter_zayavlena_polnaya_russkaya_lokalizatsiya-1883890#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +994,9 @@
   "title:Звезда франшизы \"Крик\" Нив Кэмпбелл вернется в \"Крике 8\"",
   "skip:https://www.ign.com/articles/alien-isolation-2-new-protagonist-setting-details",
   "https://www.ign.com/articles/gearbox-calls-on-fans-to-help-shape-the-next-borderlands-teases-exciting-overall-direction-for-the-future-of-the-franchise",
-  "title:Gearbox Calls on Fans to Help Shape the Next Borderlands, Teases 'Exciting Overall Direction' For the Future of the Franchise"
+  "title:Gearbox Calls on Fans to Help Shape the Next Borderlands, Teases 'Exciting Overall Direction' For the Future of the Franchise",
+  "skip:https://deadline.com/2026/11/british-independent-film-awards-elsinore-2026-1237211788/",
+  "skip:https://www.kinonews.ru/news_143957/",
+  "https://www.film.ru/news/treyler-tretego-persi-dzheksona",
+  "title:Трейлер третьего Перси Джексона"
 ]

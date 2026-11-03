@@ -1,9 +1,4 @@
 [
-  "title:Автор \"Александра\" Лаэта Калогридис займется фильмом по игре \"Samurai Spirits\"",
-  "skip:https://www.kinonews.ru/news_143792/",
-  "skip:https://www.film.ru/articles/teplo-li-tebe-devica-pochemu-novaya-ekranizaciya-morozko-ne-sogrevaet",
-  "https://variety.com/2026/film/global/france-riots-hollywood-shoots-alert-theaters-curfew-1236921624/",
-  "title:France Riots Put Hollywood Shoots on Alert as Curfews Disrupt Movie Theaters: It ‘Has Now Been Flagged as a Problem Area’",
   "https://deadline.com/2026/10/the-gentlemen-season-3-cast-orlando-bloom-no-meghan-markle-1237171447/",
   "title:‘The Gentlemen’ Season 3 Cast Additions Include Orlando Bloom, Robert Carlyle & Elijah Wood But No Meghan Markle; Here’s Who’s Not Coming Back",
   "skip:https://www.film.ru/news/elaydzha-i-orlando-v-dzhentlmenah",
@@ -998,5 +993,10 @@
   "skip:https://kg-portal.ru/comments/135627-ne-v-pervyj-raz-netflix-stanet-kinoprokatchikom-sovmestnogo-filma-bratev-koenov/",
   "skip:https://www.film.ru/news/pikovyy-valet-i-netflix",
   "https://www.kinonews.ru/news_143954/",
-  "title:Звезда франшизы \"Крик\" Нив Кэмпбелл вернется в \"Крике 8\""
+  "title:Звезда франшизы \"Крик\" Нив Кэмпбелл вернется в \"Крике 8\"",
+  "skip:https://deadline.com/2026/11/british-independent-film-awards-elsinore-2026-1237211788/",
+  "skip:https://kg-portal.ru/comments/135629-russkij-trejler-novyh-pohozhdenij-kliffa-buta/",
+  "skip:https://kg-portal.ru/comments/135628-gena-shapokljak-ushastik-iego-semja-nanovom-postere-filma-cheburashka-3/",
+  "https://variety.com/2026/awards/global/bifa-nominations-2026-elsinore-i-see-buildings-animol-1236937954/",
+  "title:‘Elsinore,’ ‘I See Buildings Fall Like Lightning’ and ‘Animol’ Lead British Independent Film Awards Nominations"
 ]

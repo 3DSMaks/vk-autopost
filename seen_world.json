@@ -1,10 +1,4 @@
 [
-  "skip:https://www.rbc.ru/rbcfreenews/6ae4c7547146045629907966",
-  "skip:https://tass.ru/obschestvo/28272837",
-  "https://www.france24.com/en/video/20261030-stranded-locals-use-rare-truce-to-leave-moscow-occupied-town-in-ukraine",
-  "title:Завершилась гуманитарная миссия и эвакуация жителей из Алешек",
-  "skip:https://tass.ru/ekonomika/28272917",
-  "skip:https://www.interfax.ru/business/1126193",
   "skip:https://www.rbc.ru/finances/30/10/2026/6ae4c701cfd3e788bf861409",
   "https://ria.ru/20261030/grigorenko-2128206844.html",
   "title:Дмитрий Григоренко покинул пост председателя наблюдательного совета ВТБ",
@@ -998,5 +992,11 @@
   "skip:https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2hIb2RkVE5NOGtSTm13ODFQYkxHZ2FhVEFlNGdidjFJVVpmTy1UekFuX29Xd2xEMTdRNjNzbEFaTzNNcFNqRURrbl9XVXZjdkpsUFgycVJaWXo1SUFJSFFiSGpSUHQ1U1gzTl9IWWhPS3RSd1hsNF9zV2xXYy1ZclBPMk4xd0tJV1dxZms0MWJGU3djMDNEbWFyNUtkZTduX3c2OTgwTWNRSVdGLWRoT3Jn?oc=5",
   "skip:https://news.google.com/rss/articles/CBMitgFBVV95cUxNQXM5REVmckxkZlNXQmQxV2I3TEJOaTl1SXRfdU8tN0VUUFBiY3F4UDNieGJ2OTY2TDJXVEpJU2d2c0F5WkRBSWFNT1FKZjlCVm5SMWcyMHhaZlZlT3k2X2puajhuV1ptUjQzanhydW5yZXU0M1RFYnBlYkhCS01JOHI5RTlMVUlsZHRib1BSbnFMU09MTkRqY1Z6aE5KSGY2LWJodHNqWXNVMlROTjAtSEl4TENJQQ?oc=5",
   "https://www.aljazeera.com/news/2026/11/3/polls-open-in-closely-contested-us-midterm-elections-2026?traffic_source=rss",
-  "title:В США начались промежуточные выборы в Конгресс"
+  "title:В США начались промежуточные выборы в Конгресс",
+  "skip:https://www.interfax.ru/business/1126787",
+  "https://www.france24.com/en/us-strikes-iran-s-qeshm-island-as-midterm-elections-start",
+  "title:США нанесли удары по иранскому острову Кешм, цены на нефть выросли",
+  "skip:https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
+  "https://www.interfax.ru/world/1126796",
+  "title:В Непале у Эвереста столкнулись два вертолета, есть погибший"
 ]

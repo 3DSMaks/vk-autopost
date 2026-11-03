@@ -1,7 +1,4 @@
 [
-  "title:Число игроков в Warhammer 40,000: Space Marine 2 достигло 15 миллионов",
-  "skip:https://variety.com/2026/artisans/news/the-odyssey-sets-costumes-editing-1236918682/",
-  "skip:https://www.film.ru/news/dva-finalnyh-kandidata-na-rol-dzheymsa-bonda",
   "https://www.film.ru/news/kerri-poluchit-2-y-sezon",
   "title:«Кэрри» получит 2-й сезон",
   "skip:https://www.igromania.ru/news/169477/ne-ochen-strannyie-dela-serial-kerri-po-stivenu-kingu-ofitsialno-prodlili-na-vtoroj-sezon/",
@@ -998,5 +995,8 @@
   "skip:https://stopgame.ru/newsdata/73363/posle_vyhoda_control_resonant_vyruchka_remedy_podskochila_na_226",
   "skip:https://www.igromania.ru/news/169705/control-resonant-uluchshila-finansovyie-pokazateli-remedy-remejk-max-payne-1-and-2-v-aktivnom-proizvodstve/",
   "https://gamemag.ru/news/201954/control-resonant-remedy-revenue-leaps",
-  "title:Remedy Entertainment вернулась к прибыльности благодаря Control Resonant"
+  "title:Remedy Entertainment вернулась к прибыльности благодаря Control Resonant",
+  "skip:https://www.pcgamer.com/movies-tv/mike-flanagan-thinks-warhammer-is-a-fascinating-world-but-cant-tell-us-anything-else-about-the-upcoming-warhammer-40-000-project-because-henry-cavill-would-be-furious/",
+  "https://stopgame.ru/newsdata/73366/franshiza_borderlands_preodolela_otmetku_v_100_mln_prodannyh_kopiy",
+  "title:Франшиза Borderlands преодолела отметку в 100 млн проданных копий"
 ]

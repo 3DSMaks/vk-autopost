@@ -1,10 +1,4 @@
 [
-  "skip:https://www.rbc.ru/quote/30/10/2026/6ae4ab419a79472b1740f5c9",
-  "skip:https://www.kommersant.ru/doc/9077667",
-  "https://www.interfax.ru/business/1126159",
-  "title:В ВТБ назвали маловероятной выплату дивидендов свыше 25% от прибыли в 2027 году",
-  "skip:https://www.interfax.ru/russia/1126150",
-  "https://www.rbc.ru/rbcfreenews/6ae4a9c2bd85941c9fdd5c1b",
   "title:Мэр Новокуйбышевска сообщила о погибшем и пострадавших в результате атаки дронов",
   "skip:https://www.rbc.ru/sport/30/10/2026/6ae4ab78266146f5b7326c32",
   "skip:https://www.kommersant.ru/doc/9077693",
@@ -998,5 +992,11 @@
   "title:Российские военные нанесли массированный удар по объектам энергетики и портовой инфраструктуре на Украине",
   "skip:https://www.aljazeera.com/sports/2026/11/3/afc-reschedules-asian-cup-2027-in-saudi-arabia-amid-regional-conflict?traffic_source=rss",
   "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
-  "title:Кубок Азии 2027 года в Саудовской Аравии перенесли из-за атак хуситов и регионального конфликта"
+  "title:Кубок Азии 2027 года в Саудовской Аравии перенесли из-за атак хуситов и регионального конфликта",
+  "skip:https://www.kommersant.ru/doc/9079634",
+  "https://www.interfax.ru/business/1126734",
+  "title:Росимущество начало отбор организатора продажи пакета акций Совкомфлота",
+  "skip:https://www.kommersant.ru/doc/9079624",
+  "https://www.interfax.ru/business/1126730",
+  "title:ФАС помогла регионам России заключить 146 соглашений о стабилизации цен на топливо"
 ]

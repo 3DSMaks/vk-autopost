@@ -1,11 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143775/",
-  "https://deadline.com/2026/10/daisy-ridley-voyage-to-the-bottom-of-the-sea-tv-series-1237169669/",
-  "title:Daisy Ridley To Lead ‘Voyage To The Bottom Of The Sea’ TV Series In Works At Paramount+ From Akiva Goldsman, Matt Shakman & Legendary TV",
-  "skip:https://stopgame.ru/newsdata/73258/avtory_phantom_blade_zero_vylozhili_reliznyy_trailer_i_anonsirovali_fizicheskoe_izdanie",
-  "skip:https://www.igromania.ru/news/169444/mir-kung-fu-panka-k-phantom-blade-zero-vyipustili-reliznyij-trejler-i-anonsirovali-diski-dlya-ps5/",
-  "skip:https://www.playground.ru/phantom_blade_zero/news/phantom_blade_zero_poluchila_zahvatyvayuschij_reliznyj_trejler_fizicheskie_izdaniya_dlya_ps5_vyjdut_v_2027_godu-1883719#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.playground.ru/misc/news/devid_fincher_vyrezal_60_stranits_iz_stsenariya_kventina_tarantino_dlya_filma_o_kliffe_bute-1883713#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.playground.ru/call_of_duty_modern_warfare_4/news/razrabotchiki_modern_warfare_4_prazdnuyut_uspeh_v_steam_i_zapuskayut_rezhim_dmz_na_novoj_karte-1883732#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Разработчики Modern Warfare 4 празднуют успех в Steam и запускают режим DMZ на новой карте",
   "skip:https://www.kinonews.ru/news_143777/",
@@ -998,5 +991,12 @@
   "title:Создатели Call of Duty: Warzone﻿ рассказали об интеграции с Modern Warfare 4﻿ и новинках 1 сезона",
   "skip:https://www.igromania.ru/news/169698/rashvalennyij-film-po-resident-evil-rezhissyora-orudij-vyishel-v-tsifre/",
   "https://www.ign.com/articles/alien-isolation-2-sticking-with-pure-survival-horror-roots-says-creative-director",
-  "title:Alien: Isolation 2 Sticking With Pure Survival Horror Roots, Says Creative Director"
+  "title:Alien: Isolation 2 Sticking With Pure Survival Horror Roots, Says Creative Director",
+  "skip:https://gamemag.ru/news/201950/otpravlyaemsya-na-hadjin-microsoft-pokazala-novuyu-versiyu-call-of-duty-warzone",
+  "skip:https://gamemag.ru/news/201944/resident-evil-hits-400-million-million-worldwide-box",
+  "skip:https://www.ign.com/articles/call-of-duty-warzone-is-adding-a-weather-system-this-week",
+  "skip:https://www.ign.com/articles/alien-isolation-2-new-protagonist-setting-details",
+  "skip:https://www.ign.com/articles/nintendo-explains-why-it-chose-to-do-another-the-legend-of-zelda-ocarina-of-time-remake",
+  "https://www.ign.com/articles/gearbox-calls-on-fans-to-help-shape-the-next-borderlands-teases-exciting-overall-direction-for-the-future-of-the-franchise",
+  "title:Gearbox Calls on Fans to Help Shape the Next Borderlands, Teases 'Exciting Overall Direction' For the Future of the Franchise"
 ]

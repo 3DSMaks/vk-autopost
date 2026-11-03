@@ -1,7 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/it-looks-like-gta-6s-beer-brands-are-about-to-become-real",
-  "https://www.playground.ru/warhammer_40000_dawn_of_war_4/news/novyj_masshtabnyj_trejler_warhammer_40_000_dawn_of_war_iv_predstavlyaet_obzor_igrovogo_protsessa-1883625#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Новый масштабный трейлер Warhammer 40,000: Dawn of War IV представляет обзор игрового процесса",
   "skip:https://www.kinonews.ru/news_143775/",
   "https://deadline.com/2026/10/daisy-ridley-voyage-to-the-bottom-of-the-sea-tv-series-1237169669/",
   "title:Daisy Ridley To Lead ‘Voyage To The Bottom Of The Sea’ TV Series In Works At Paramount+ From Akiva Goldsman, Matt Shakman & Legendary TV",
@@ -998,5 +995,8 @@
   "skip:https://gamemag.ru/news/201942/deyv-batista-soobshchil-o-progresse-v-podgotovke-k-roli-kratosa-v-ekranizacii-god-of-war",
   "skip:https://gamemag.ru/news/201464/the-man-with-the-bag-trailer",
   "https://www.igromania.ru/news/169690/sozdateli-call-of-duty-warzone-rasskazali-ob-integratsii-s-modern-warfare-4-i-novinkah-1-sezona/",
-  "title:Создатели Call of Duty: Warzone﻿ рассказали об интеграции с Modern Warfare 4﻿ и новинках 1 сезона"
+  "title:Создатели Call of Duty: Warzone﻿ рассказали об интеграции с Modern Warfare 4﻿ и новинках 1 сезона",
+  "skip:https://www.igromania.ru/news/169698/rashvalennyij-film-po-resident-evil-rezhissyora-orudij-vyishel-v-tsifre/",
+  "https://www.ign.com/articles/alien-isolation-2-sticking-with-pure-survival-horror-roots-says-creative-director",
+  "title:Alien: Isolation 2 Sticking With Pure Survival Horror Roots, Says Creative Director"
 ]

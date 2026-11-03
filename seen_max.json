@@ -1,10 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143789/",
-  "https://deadline.com/2026/10/sacha-baron-cohen-marvel-ironheart-not-insulted-devil-jewish-1237171378/",
-  "title:Sacha Baron Cohen Says Marvel’s ‘Ironheart’ Producers Wanted To Ensure He Was “Not Insulted” Playing Devil As Jewish Actor",
-  "skip:https://www.playground.ru/misc/news/amazon_prodlila_serial_kerri_majka_flenagana_na_vtoroj_sezon_posle_uspeshnogo_starta_na_prime_video-1884027#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.playground.ru/cyberpunk_2077/news/oni_podderzhivayut_zhizn_igr_cd_projekt_red_priznala_vklad_soobschestva_v_dolgoletie_svoih_proektov-1884015#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://gamemag.ru/news/201808/warhammer-40-000-space-marine-2-15-million",
   "https://gamemag.ru/news/201789/secret-activision-rpg-project-update-october-2026",
   "title:Activision готовит конкурента Cyberpunk 2077 и Grand Theft Auto VI — игроков ждет масштабная ролевая игра в открытом мире",
   "https://www.film.ru/news/kto-napishet-novyy-shpionskiy-serial-dlya-marvel",
@@ -998,5 +992,11 @@
   "skip:https://www.playground.ru/elder_scrolls_6/news/the_elder_scrolls_6_ofitsialno_poluchila_podzagolovok_sentinel_bethesda_pokazala_logotip_igry-1887451#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169713/the-elder-scrolls-6-dejstvitelno-nosit-podzagolovok-sentinel/",
   "https://www.playground.ru/hogwarts_legacy/news/hogwarts_legacy_poluchit_dlss_5_uzhe_5_noyabrya_nvidia_pokazala_uluchshennoe_osveschenie_i_materialy_v_novom_trejlere-1887460#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Hogwarts Legacy получит DLSS 5 уже 5 ноября - NVIDIA показала улучшенное освещение и материалы в новом трейлере"
+  "title:Hogwarts Legacy получит DLSS 5 уже 5 ноября - NVIDIA показала улучшенное освещение и материалы в новом трейлере",
+  "skip:https://www.playground.ru/stronghold_4/news/stronghold_4_perenesli_na_aprel_2027_goda_radi_dopolnitelnogo_kontenta_i_dorabotki_igry-1887470#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/elder_scrolls_6/news/dzhejson_shrajer_soobschaet_chto_do_vyhoda_the_elder_scrolls_6_sentinel_eschyo_bolee_dvuh_let-1887469#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169715/rannij-dostup-stronghold-4-perenesli-na-20-aprelya/",
+  "skip:https://stopgame.ru/newsdata/73370/teper_oficialno_the_elder_scrolls_vi_nosit_podzagolovok_sentinel",
+  "https://stopgame.ru/newsdata/73369/predzagruzka_grand_theft_auto_vi_startuet_10_noyabrya",
+  "title:Предзагрузка Grand Theft Auto VI стартует 10 ноября"
 ]

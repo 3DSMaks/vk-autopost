@@ -1,9 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143777/",
-  "skip:https://www.film.ru/news/osnovnoy-treyler-kolec-vlasti-3",
-  "https://variety.com/2026/film/news/chris-pratt-star-lord-mcu-1236919455/",
-  "title:Chris Pratt Confirms Star-Lord Will Return to the MCU, Says ‘Hard Action’ Has Been Taken to Make It Happen",
-  "skip:https://www.igromania.ru/news/169447/potentsial-stat-luchshej-igroj-warhammer-40k-ili-otkrovenno-ustarela-vyishli-prevyu-dawn-of-war-4/",
   "skip:https://www.igromania.ru/news/169445/komanda-mass-effect-5-i-veteranyi-serii-prokommentirovali-zakryitie-bioware-i-otmenu-novoj-igryi/",
   "skip:https://www.playground.ru/mass_effect/news/serial_po_mass_effect_ot_amazon_vsyo_eschyo_nahoditsya_v_razrabotke_nesmotrya_na_zakrytie_bioware-1883733#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169442/serial-po-mass-effect-vsyo-eschyo-v-rabote-nesmotrya-na-zakryitie-bioware-i-otmenu-novoj-igryi-ign/",
@@ -998,5 +993,10 @@
   "https://www.ign.com/articles/gearbox-calls-on-fans-to-help-shape-the-next-borderlands-teases-exciting-overall-direction-for-the-future-of-the-franchise",
   "title:Gearbox Calls on Fans to Help Shape the Next Borderlands, Teases 'Exciting Overall Direction' For the Future of the Franchise",
   "https://www.playground.ru/god_of_war_laufey/news/kori_barlog_nameknul_na_god_of_war_laufey_esche_vosem_let_nazad_no_nikto_ne_obratil_na_eto_vnimaniya-1887309#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Кори Барлог намекнул на God of War Laufey еще восемь лет назад но никто не обратил на это внимания"
+  "title:Кори Барлог намекнул на God of War Laufey еще восемь лет назад но никто не обратил на это внимания",
+  "skip:https://www.ign.com/articles/nintendo-reveals-development-team-behind-the-legend-of-zelda-ocarina-of-time-remake",
+  "skip:https://gamemag.ru/news/201943/until-dawn-2-poluchila-vozrastnoy-reyting-v-singapure",
+  "https://gamemag.ru/news/201939/the-witcher-3-wild-hunts-expansion-pricing-was-about-providing-quality-at-a-good-value",
+  "video:2026-11-03:https://gamemag.ru/news/201939/the-witcher-3-wild-hunts-expansion-pricing-was-about-providing-quality-at-a-good-value",
+  "title:Новое дополнение для «Ведьмака 3» точно будет стоить своих денег — CD Projekt RED обещает не разочаровать"
 ]

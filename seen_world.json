@@ -1,14 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9077741",
-  "skip:https://www.interfax.ru/world/1126180",
-  "skip:https://ria.ru/20261030/aleshki-2128193391.html",
-  "skip:https://www.rbc.ru/rbcfreenews/6ae4b8b896dbb31945ada1ad",
-  "skip:https://ria.ru/20261030/aleshki-2128192341.html",
-  "skip:https://ria.ru/20261030/aleshki-2128191908.html",
-  "skip:https://www.rbc.ru/rbcfreenews/6ae4b50f96dbb31945ada1a2",
-  "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-  "title:Гуманитарная миссия и эвакуация жителей завершаются в Алешках",
-  "skip:https://tass.ru/obschestvo/28272851",
   "skip:https://www.rbc.ru/rbcfreenews/6ae4c7547146045629907966",
   "skip:https://tass.ru/obschestvo/28272837",
   "https://www.france24.com/en/video/20261030-stranded-locals-use-rare-truce-to-leave-moscow-occupied-town-in-ukraine",
@@ -998,5 +988,15 @@
   "title:США нанесли удары по иранскому острову Кешм",
   "skip:https://www.kommersant.ru/doc/9079777",
   "https://www.interfax.ru/business/1126780",
-  "title:Сбои в работе Т-Банка и отключение света в Крыму и Херсонской области"
+  "title:Сбои в работе Т-Банка и отключение света в Крыму и Херсонской области",
+  "skip:https://www.rbc.ru/sport/03/11/2026/6ae9c7264be8a625cbdb68c7",
+  "skip:https://ria.ru/20261103/norvegija-2128951218.html",
+  "skip:https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNnE5UmI5TDQzTVRGcmhlazJxd05DSEZ2OEZGOFJkamh5aU9ZWUpvSHJ2MmV3Y1lkUjB3NDhDN3M3c0VBY2N0VlYtZkdhRk1xR05ObUNqVVEySUlRX0x5SnZ1ellKZkx0bWtZbGdWd1M1cV9WYkU0aEtYaW5rOVBDWTZLVFh6Y3Y0V3owV1h2S1oyd0hueXlqYUFzcW5WS21HeFlNd2JEUzdJbUQtYVBDQm9zRU9WX1NjQTRv?oc=5",
+  "https://tass.ru/sport/28282707",
+  "title:Сборная Норвегии по хоккею отказалась играть против России на чемпионате мира 2027 года",
+  "skip:https://news.google.com/rss/articles/CBMirAFBVV95cUxPXzBTeXRWM3ktaW9LQUFHVVg5V2JZMWZ3OG5LaWUtNGpVMmN2bnQ4RTJmaWVVaGctdnJZTkFZeWdjbG9JUUE4NFdFalFyQ2tZRFotZERxRkJQcHVtS1lwUGhVc0xJZnVqYnF4ZllqcDJFUkJxcEd2QTF0RGFERW1oSkFENEV0V3VQMEFabVkwOHcwTV9lVWNRZ3JmbDVDOUQ5aGYwWTJUb0o5RGpK?oc=5",
+  "skip:https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2hIb2RkVE5NOGtSTm13ODFQYkxHZ2FhVEFlNGdidjFJVVpmTy1UekFuX29Xd2xEMTdRNjNzbEFaTzNNcFNqRURrbl9XVXZjdkpsUFgycVJaWXo1SUFJSFFiSGpSUHQ1U1gzTl9IWWhPS3RSd1hsNF9zV2xXYy1ZclBPMk4xd0tJV1dxZms0MWJGU3djMDNEbWFyNUtkZTduX3c2OTgwTWNRSVdGLWRoT3Jn?oc=5",
+  "skip:https://news.google.com/rss/articles/CBMitgFBVV95cUxNQXM5REVmckxkZlNXQmQxV2I3TEJOaTl1SXRfdU8tN0VUUFBiY3F4UDNieGJ2OTY2TDJXVEpJU2d2c0F5WkRBSWFNT1FKZjlCVm5SMWcyMHhaZlZlT3k2X2puajhuV1ptUjQzanhydW5yZXU0M1RFYnBlYkhCS01JOHI5RTlMVUlsZHRib1BSbnFMU09MTkRqY1Z6aE5KSGY2LWJodHNqWXNVMlROTjAtSEl4TENJQQ?oc=5",
+  "https://www.aljazeera.com/news/2026/11/3/polls-open-in-closely-contested-us-midterm-elections-2026?traffic_source=rss",
+  "title:В США начались промежуточные выборы в Конгресс"
 ]

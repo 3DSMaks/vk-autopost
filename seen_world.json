@@ -1,9 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1126190",
-  "skip:https://ria.ru/20261030/lantratova-2128203040.html",
-  "skip:https://ria.ru/20261030/lantratova-2128202893.html",
-  "skip:https://ria.ru/20261030/lantratova-2128201974.html",
-  "skip:https://ria.ru/20261030/lantratova-2128201843.html",
   "https://www.kommersant.ru/doc/9077780",
   "title:В Алешках завершилась гуманитарная миссия, уполномоченный по правам человека предложил сделать такие операции регулярными при координации Мелании Трам",
   "skip:https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
@@ -998,5 +993,10 @@
   "title:Мелания Трамп объявила о планах провести встречу представителей России и Украины в Белом доме 5 ноября",
   "skip:https://www.rbc.ru/politics/03/11/2026/6ae8a59d234eac52f49a0b18",
   "skip:https://www.rbc.ru/politics/03/11/2026/6ae8e0166bb9e5802d392e6e",
-  "https://ria.ru/20261103/golosovanie-2128980940.html"
+  "https://ria.ru/20261103/golosovanie-2128980940.html",
+  "skip:https://tass.ru/sport/28283073",
+  "skip:https://ria.ru/20261103/khokkey-2128985556.html",
+  "https://www.kommersant.ru/doc/9079927",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28283165",
+  "https://www.kommersant.ru/doc/9079936"
 ]

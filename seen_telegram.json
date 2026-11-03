@@ -1,6 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169460/dannyie-pochti-12-millionov-fanatov-street-fighter-6-monster-hunter-wilds-i-drugih-igr-capcom-utekli-v-set/",
-  "skip:https://www.igromania.ru/news/169459/the-blood-of-dawnwalker-poluchila-obnovlenie-s-syuzhetnoj-slozhnostyu-i-vozmozhnostyu-gladit-zhivotnyih/",
   "skip:https://www.playground.ru/blood_of_dawnwalker/news/vyshlo_krupnoe_obnovlenie_1_1_dlya_vampirskoj_rpg_the_blood_of_dawnwalker-1883812#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169457/shouranner-pingvina-hochet-snyat-dlya-dc-serial-pro-yadovitogo-plyuscha/",
   "skip:https://stopgame.ru/newsdata/73259/vampirskiy_simulyator_upravleniya_otelem_bloody_hell_hotel_obrel_okno_reliza",
@@ -998,5 +996,7 @@
   "skip:https://www.kinonews.ru/news_143959/",
   "skip:https://www.film.ru/articles/vlastelin-kolec-ohota-na-golluma-vse-chto-izvestno-o-novom-filme-po-motivam-knig-dzhona-rr",
   "https://variety.com/2026/film/news/josh-oconnor-james-bond-casting-rumors-1236938475/",
-  "title:Josh O’Connor Describes Bond Rumors as ‘Incredibly Bizarre Pinch Me Moment’: ‘To Be Considered Is Extraordinary’"
+  "title:Josh O’Connor Describes Bond Rumors as ‘Incredibly Bizarre Pinch Me Moment’: ‘To Be Considered Is Extraordinary’",
+  "https://www.film.ru/news/treyler-tretego-persi-dzheksona",
+  "title:Трейлер третьего Перси Джексона"
 ]

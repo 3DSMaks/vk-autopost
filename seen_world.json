@@ -1,12 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9077761",
-  "skip:https://www.rbc.ru/politics/30/10/2026/6ae4c1d4309c9b59359b6d4e",
-  "skip:https://www.interfax.ru/russia/1126184",
-  "skip:https://tass.ru/politika/28272749",
-  "https://ria.ru/20261030/ushakov-2128199703.html",
-  "title:Юрий Ушаков сообщил о согласовании ноябрьской даты трехсторонних переговоров по Украине в Абу-Даби",
-  "skip:https://www.kommersant.ru/doc/9077765",
-  "skip:https://www.france24.com/en/video/20261030-war-in-ukraine-evacuations-under-way-in-russian-occupied-oleshky",
   "skip:https://www.kommersant.ru/doc/9077741",
   "skip:https://www.interfax.ru/world/1126180",
   "skip:https://ria.ru/20261030/aleshki-2128193391.html",
@@ -998,5 +990,13 @@
   "skip:https://www.interfax.ru/russia/1126763",
   "skip:https://ria.ru/20261103/kozhemyako-2128903039.html",
   "https://www.rbc.ru/rbcfreenews/6ae9b132b90c73eaf275f2ec",
-  "title:Владимир Путин включил Олега Кожемяко в состав Совета безопасности РФ"
+  "title:Владимир Путин включил Олега Кожемяко в состав Совета безопасности РФ",
+  "skip:https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest?traffic_source=rss",
+  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/3/us-conducts-series-of-defensive-strikes-against-iran?traffic_source=rss",
+  "skip:https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+  "https://www.kommersant.ru/doc/9079815",
+  "title:США нанесли удары по иранскому острову Кешм",
+  "skip:https://www.kommersant.ru/doc/9079777",
+  "https://www.interfax.ru/business/1126780",
+  "title:Сбои в работе Т-Банка и отключение света в Крыму и Херсонской области"
 ]

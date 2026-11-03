@@ -1,12 +1,4 @@
 [
-  "skip:https://www.playground.ru/blood_of_dawnwalker/news/vyshlo_krupnoe_obnovlenie_1_1_dlya_vampirskoj_rpg_the_blood_of_dawnwalker-1883812#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169457/shouranner-pingvina-hochet-snyat-dlya-dc-serial-pro-yadovitogo-plyuscha/",
-  "skip:https://stopgame.ru/newsdata/73259/vampirskiy_simulyator_upravleniya_otelem_bloody_hell_hotel_obrel_okno_reliza",
-  "https://www.playground.ru/cyberpunk_2077/news/dlya_cyberpunk_2077_vyshel_patch_2_5_po_motivam_edgerunners_2-1883818#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Для Cyberpunk 2077 вышел патч 2.5 по мотивам Edgerunners 2",
-  "https://kg-portal.ru/comments/135495-postery-filma-ebenezer-rozhdestvenskaja-istorija/",
-  "title:Праздничный фильм с Джонни Деппом оказался слишком страшным для детей",
-  "skip:https://www.igromania.ru/news/169461/cyberpunk-2077-poluchila-obnovlenie-s-kvestom-prikvelom-k-cyberpunk-edgerunners-2/",
   "skip:https://gamemag.ru/news/201775/next-james-bond-cast-two-actors-left",
   "skip:https://gamemag.ru/news/201767/cyberpunk-edgerunners-streaming-now-and-new-cp-77-update-october-2026",
   "https://www.ign.com/articles/resident-evil-developer-capcom-issues-phishing-warning-after-data-breach-hits-over-11-million-customer-accounts",
@@ -998,5 +990,13 @@
   "https://variety.com/2026/film/news/josh-oconnor-james-bond-casting-rumors-1236938475/",
   "title:Josh O’Connor Describes Bond Rumors as ‘Incredibly Bizarre Pinch Me Moment’: ‘To Be Considered Is Extraordinary’",
   "https://www.film.ru/news/treyler-tretego-persi-dzheksona",
-  "title:Трейлер третьего Перси Джексона"
+  "title:Трейлер третьего Перси Джексона",
+  "skip:https://gamemag.ru/news/201964/djeyson-shrayer-relizathe-elder-scrolls-vi-sentinel-pridetsya-jdat-bolshe-2-h-let",
+  "skip:https://stopgame.ru/newsdata/73370/teper_oficialno_the_elder_scrolls_vi_nosit_podzagolovok_sentinel",
+  "skip:https://stopgame.ru/newsdata/73369/predzagruzka_grand_theft_auto_vi_startuet_10_noyabrya",
+  "skip:https://www.ign.com/articles/gta-6-preload-times-and-install-size-confirmed-rockstar-announces-physical-cover-art-poster-and-map-of-leonida",
+  "skip:https://www.ign.com/articles/the-elder-scrolls-6-sentinel-name-logo-officially-revealed-as-bethesda-marks-40th-anniversary",
+  "https://gamemag.ru/news/201957/final-fantasy-7-remake-and-rebirth-currently-have-huge-price-drops-on-the-switch-2-eshop",
+  "video:2026-11-03:https://gamemag.ru/news/201957/final-fantasy-7-remake-and-rebirth-currently-have-huge-price-drops-on-the-switch-2-eshop",
+  "title:Подготовка к Final Fantasy VII Revelation: Final Fantasy VII Remake и Final Fantasy VII Rebirth для Switch 2 отдают за бесценок"
 ]

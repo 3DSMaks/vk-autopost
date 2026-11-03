@@ -1,14 +1,4 @@
 [
-  "skip:https://www.interfax.ru/world/1126208",
-  "https://tass.ru/mezhdunarodnaya-panorama/28273213",
-  "title:США одобрили крупную военную помощь и выделение кредитов для Украины",
-  "skip:https://ria.ru/20261030/lavrov-2128225825.html",
-  "skip:https://tass.ru/politika/28273183",
-  "skip:https://tass.ru/politika/28273177",
-  "skip:https://www.rbc.ru/politics/30/10/2026/6ae4dc0c508a2286f6281647",
-  "https://ria.ru/20261030/lavrov-2128225967.html",
-  "title:Главы МИД России и Японии провели первые за пять лет очные переговоры",
-  "skip:https://ria.ru/20261030/gosdep-2128228215.html",
   "https://www.rbc.ru/politics/30/10/2026/6ae4e96fcfb16244b1bbce5c",
   "title:Госдеп США одобрил продажу Украине ракет Patriot",
   "skip:https://www.kommersant.ru/doc/9077819",
@@ -998,5 +988,15 @@
   "skip:https://tass.ru/proisshestviya/28283529",
   "skip:https://ria.ru/20261103/kiev-2129011845.html",
   "https://www.rbc.ru/society/03/11/2026/6ae9ecc2130db983efe70278",
-  "title:В Киеве введены экстренные отключения света и прекращена подача воды"
+  "title:В Киеве введены экстренные отключения света и прекращена подача воды",
+  "skip:https://www.rbc.ru/politics/03/11/2026/6ae9f2894be8a625cbdb692e",
+  "skip:https://www.france24.com/en/middle-east/20261103-trump-says-us-will-halt-4-billion-in-aid-to-israel-after-end-of-this-year",
+  "https://www.kommersant.ru/doc/9080026",
+  "skip:https://www.interfax.ru/russia/1126830",
+  "skip:https://tass.ru/politika/28283545",
+  "skip:https://tass.ru/politika/28283537",
+  "skip:https://news.google.com/rss/articles/CBMimgFBVV95cUxObGFOYWFENFVtbThMMmQ4a0ZVS3gxMFI4QUNEY0pWcG1pUlZDb1g4d3ExN04tUUhieEl2T0JsNmZvYk44T3drelVEbERDX0pHNXYybTJJLWJmMWJ4N1VNcEZNUlFhc0ZZM05WQnFzYjZRbDl4eEx1aTRocTJBd1Z3SnFiUDhLT2xBbEFBX1VzNFBYSnZtNmVzdjR3?oc=5",
+  "skip:https://tass.ru/politika/28283531",
+  "https://ria.ru/20261103/zakharova-2129040179.html",
+  "title:МИД РФ назвал провокационными военные маневры США и Южной Кореи у границ КНДР"
 ]

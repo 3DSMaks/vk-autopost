@@ -1,11 +1,4 @@
 [
-  "https://www.rbc.ru/politics/30/10/2026/6ae4fdd2acc9a2663a967881",
-  "title:Сергей Лавров встретился с госсекретарем США Марко Рубио на полях саммита G20",
-  "skip:https://www.rbc.ru/politics/30/10/2026/6ae4f9dfc06d23f7a6885ea8",
-  "skip:https://ria.ru/20261030/polsha-2128235104.html",
-  "skip:https://www.rbc.ru/politics/30/10/2026/6ae4f41b52162556b4ff6235",
-  "skip:https://www.rbc.ru/rbcfreenews/6ae4f3c2ed0a2bda6d0b8d29",
-  "skip:https://www.rbc.ru/politics/30/10/2026/6ae4f2b01ad7960ff9fdde31",
   "skip:https://news.google.com/rss/articles/CBMitgFBVV95cUxPc2p4TC1POGdvdHlLdGMyVVl1Nmw5dHhWdEZkS0FCZVBMazc3dzdQaElfeXBIcGRNV1NxZTRENXBKSHJRTkZnb2ZkelBMd0VlQjJHYkE3MFFCbGwtTFhfOEQwbHJYSDJlMGZSd2ttNm16ejVQTzg2SHBrOHZCZGk0ZVR4dUp5b0lZMWpkRU1NLTFzWDRHUl9RdDRLNmFyTW9tVXhLYmZOeGdBTFFlRl9UM3Q3SElzdw?oc=5",
   "https://ria.ru/20261030/polsha-2128237711.html",
   "title:В Польше разгорелся кризис вокруг Конституционного трибунала и отстранения его руководства",
@@ -998,5 +991,12 @@
   "skip:https://www.kommersant.ru/doc/9080060",
   "skip:https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdlc5d1FIMl9JRFFnMHlQaW5pLVZrOGFFNzZmYWQ2MS1hcFdjOGd2eUc3a1NQZzlNRjc4azNDSDJURzBCTFJuTUVwZVVJbVlfSDV1aUN2Z1ljZktQRGNLYks3ZUdJOHJ0ZzBDaGl3UFR5YzRMVElIbi16U09uVV96RTVxVS1Odk5sSHhMQTE1eUk1aHNnWTRTZ1E1X1diSnRfNVJnRFkyVWFicWtLaTd0NW9rWmR5TFVnM1NBRVNLVVI?oc=5",
   "https://www.rbc.ru/business/03/11/2026/6aea0c660dbbc5bef016522b",
-  "title:Консорциум во главе с Тоддом Боэли готовит сделку по покупке зарубежных активов ЛУКОЙЛа"
+  "title:Консорциум во главе с Тоддом Боэли готовит сделку по покупке зарубежных активов ЛУКОЙЛа",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28283815",
+  "skip:https://news.google.com/rss/articles/CBMijwFBVV95cUxNc2xpcHg4YnN1aFV0Z180RmhGanA4ajYxVlJENjBqaFVpdjZRMXZZRmNMWlZ5NFdHMHVoZGY1NGFzMVdCZVZDa1gyeTd3Y1FMb1JKRHFLeW14WDQ0UkFvZUFCMFNrZV8yRkJyS2YzWHNBd2VIV1BZTWxEdEdzWXVyMVNrUEhKSDFQa1M3MnlwVQ?oc=5",
+  "https://www.kommersant.ru/doc/9080078",
+  "title:Парламент Гренландии одобрил соглашение о безопасности с США",
+  "skip:https://ria.ru/20261103/mid--2129062025.html",
+  "https://tass.ru/politika/28283893",
+  "title:Временного поверенного в делах Норвегии вызвали в МИД России"
 ]

@@ -1,9 +1,4 @@
 [
-  "title:Минобороны РФ сообщило о перехвате 433 украинских беспилотников за ночь",
-  "skip:https://www.rbc.ru/rbcfreenews/6ae57ae3acc9a2663a9678aa",
-  "skip:https://www.interfax.ru/russia/1126264",
-  "skip:https://www.rbc.ru/politics/31/10/2026/6ae578582455cc4b83c18bea",
-  "https://www.kommersant.ru/doc/9078129",
   "title:Российские военные нанесли удар по ТЭЦ-6 в Киеве",
   "skip:https://www.interfax.ru/world/1126274",
   "skip:https://www.rbc.ru/photoreport/31/10/2026/6ae5772f18a3b9290e3844ac",
@@ -998,5 +993,10 @@
   "title:Российский футболист Алексей Батраков оформил дубль за «Галатасарай» в матче против «Штутгарта»",
   "skip:https://www.theguardian.com/world/2026/nov/04/two-australians-dead-in-spain-high-speed-train-crash-ntwnfb",
   "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-  "title:В результате крушения скоростного поезда на юге Мадрида погибли по меньшей мере 69 человек"
+  "title:В результате крушения скоростного поезда на юге Мадрида погибли по меньшей мере 69 человек",
+  "skip:https://www.rbc.ru/rbcfreenews/6aea48f7b90c73eaf275f2f8",
+  "skip:https://ria.ru/20261103/bespilotniki-2129085298.html",
+  "skip:https://tass.ru/proisshestviya/28284183",
+  "https://www.kommersant.ru/doc/9080124",
+  "title:Силы ПВО сбили пять беспилотников, летевших на Москву"
 ]

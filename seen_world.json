@@ -1,11 +1,4 @@
 [
-  "skip:https://www.rbc.ru/finances/30/10/2026/6ae4c701cfd3e788bf861409",
-  "https://ria.ru/20261030/grigorenko-2128206844.html",
-  "title:Дмитрий Григоренко покинул пост председателя наблюдательного совета ВТБ",
-  "skip:https://www.interfax.ru/russia/1126196",
-  "skip:https://tass.ru/obschestvo/28272903",
-  "skip:https://ria.ru/20261030/aleshki-2128205772.html",
-  "skip:https://ria.ru/20261030/aleshki-2128205285.html",
   "skip:https://www.interfax.ru/russia/1126190",
   "skip:https://ria.ru/20261030/lantratova-2128203040.html",
   "skip:https://ria.ru/20261030/lantratova-2128202893.html",
@@ -998,5 +991,12 @@
   "title:США нанесли удары по иранскому острову Кешм, цены на нефть выросли",
   "skip:https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
   "https://www.interfax.ru/world/1126796",
-  "title:В Непале у Эвереста столкнулись два вертолета, есть погибший"
+  "title:В Непале у Эвереста столкнулись два вертолета, есть погибший",
+  "skip:https://www.rbc.ru/politics/03/11/2026/6ae9d69cd54c8a55deca5fea",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28282999",
+  "https://www.kommersant.ru/doc/9079912",
+  "title:Мелания Трамп объявила о планах провести встречу представителей России и Украины в Белом доме 5 ноября",
+  "skip:https://www.rbc.ru/politics/03/11/2026/6ae8a59d234eac52f49a0b18",
+  "skip:https://www.rbc.ru/politics/03/11/2026/6ae8e0166bb9e5802d392e6e",
+  "https://ria.ru/20261103/golosovanie-2128980940.html"
 ]

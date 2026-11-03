@@ -1,14 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9077780",
-  "title:В Алешках завершилась гуманитарная миссия, уполномоченный по правам человека предложил сделать такие операции регулярными при координации Мелании Трам",
-  "skip:https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-  "skip:https://news.google.com/rss/articles/CBMirAFBVV95cUxQaS1PbC12ckM5dTFzWDZISy0zcmVfWjc2ODREc1dFMnlOem5RUmpWWGdxR2dKSlNQS0JrZXVvZGI4VDN2aXRQQkpIaHF4bWdwSjJvYjduMkFQUmdDaEdGS01lQThMQXpjTS02SW5YenA5U0ZQZUZsazg5SnhyZzFZel9YWTZqUmVVYUcxYTEyTDl3V3Z5dEZ6RTZCS3U5ZkUwWFBna2hDNnZ3dHo0?oc=5",
-  "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVVBjUl9KRVc4d0NVN1pRQ1cwOWJpdk1TTWhBbWFxUEtYeldXOTktMlp2cEk1QWZZT0ZDLXRkVmlXWUFvcVJGNk4wZUR6WWFTQzNPNDl2OTgtTDVIOXphbDJEMGtqOVpnMFg1V3VPRjNCRGhIQi1vMW5iajZFY2xqSDdWdFpGSmxqaUJkcVc2b1FUZXluREw0RjJaLWhqMGU4cVkzeGQwVTdlVzhMV2tGNw?oc=5",
-  "title:Криптовалютная биржа Binance выделила более $6,3 млрд на покрытие потерь от масштабного хакерского взлома",
-  "skip:https://ria.ru/20261030/putin-2128218071.html",
-  "skip:https://tass.ru/ekonomika/28273053",
-  "skip:https://www.kommersant.ru/doc/9077791",
-  "skip:https://ria.ru/20261030/putin-2128211470.html",
   "skip:https://ria.ru/20261030/putin-2128211186.html",
   "skip:https://ria.ru/20261030/putin-2128208720.html",
   "https://tass.ru/politika/28273099",
@@ -998,5 +988,15 @@
   "skip:https://ria.ru/20261103/khokkey-2128985556.html",
   "https://www.kommersant.ru/doc/9079927",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28283165",
-  "https://www.kommersant.ru/doc/9079936"
+  "https://www.kommersant.ru/doc/9079936",
+  "skip:https://www.france24.com/en/video/20261103-us-midterm-elections-a-referendum-on-president-donald-trump",
+  "skip:https://ria.ru/20261103/tramp-2129008016.html",
+  "skip:https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRFA3Qk9sWVFFclA5aUMzTVlKenJNX25YTU5oenBmQXVqWjlneGxXUWRyZ3FSNE43TmRRcjJnbVEzLXJFazZJTVVMeDVUSE9FRktPQXh6b1FpeWtrbzYyMmFtYThKN3Y2NE9nTUV4a2RQaXpGblMxM2JycTVkTFQ5cG9hV3NObHpnMnFUQ0lxNlVuaHpOR1lUWkxPZ2NZcUctRnNnNjE1NjZEeUZBTWZaYVg4V2lBaDM0?oc=5",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28283239",
+  "skip:https://www.france24.com/en/video/20261103-what-could-happen-if-donald-trump-loses-us-midterm-elections",
+  "https://www.rbc.ru/rbcfreenews/6ae9e5cfd322aa216fc5558f",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28283271",
+  "skip:https://ria.ru/20261103/tramp-2128997053.html",
+  "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island",
+  "title:США нанесли удары по иранскому острову Кешм и системе ПВО"
 ]

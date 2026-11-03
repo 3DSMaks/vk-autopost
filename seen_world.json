@@ -1,14 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMitAFBVV95cUxONTN6V2ZLYWRNNzFWb3hYckNxQzgzMXZlTHY2MGN3NldSRW1BUGEtX0NUVTRzREhQcTdldGtuNkFVRzY4ZFlYRUYzS2Q0Y0tuT1hYbmpVMmZ4T3pjQjB4Si1sRndxN1haVVJ6dnlVbElWRW5vWC00Mnd6dnRsNkFsZXc2WUlRTnlxM3pmNHBUN1BERGdJcElnb1hrbGpudHFMbzJaWGxrdmx1T1c3cDJYOUplUnk?oc=5",
-  "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-  "title:Политический кризис и протесты в Польше из-за ситуации вокруг Конституционного трибунала",
-  "skip:https://ria.ru/20261031/tramp-2128245268.html",
-  "skip:https://www.interfax.ru/russia/1126227",
-  "skip:https://www.interfax.ru/russia/1126225",
-  "skip:https://www.interfax.ru/russia/1126224",
-  "skip:https://www.interfax.ru/russia/1126223",
-  "skip:https://tass.ru/politika/28273413",
-  "https://www.interfax.ru/world/1126234",
   "title:Заявления главы МИД РФ Сергея Лаврова на полях G20 об отношениях с США и украинском урегулировании",
   "skip:https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGx4RUtRNkEya28zdk1wR3JiSFhtTDZGVFR0am5PSlZXRUZ6TmtQT2VLLXhSUzdoYjNoQ3ZSclB2T3pqTGFJWGJoOWRrZURNUXF4Q0g0T1NpNkVsN0V6cVlUTncyY1lPTFVvU1h1VGxmeFNxNWlKSm5FejE2d0tabHRjOU40dTFDbmNLTVVlbjZBYmtXNHQxd1Y5RHh3a1dROGM3Vg?oc=5",
   "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
@@ -998,5 +988,15 @@
   "title:В Киеве остановили движение трамваев и троллейбусов из-за сложной ситуации в энергосистеме",
   "skip:https://www.interfax.ru/russia/1126847",
   "https://www.kommersant.ru/doc/9080093",
-  "title:Сотрудница ЗАЭС погибла в результате атаки беспилотника"
+  "title:Сотрудница ЗАЭС погибла в результате атаки беспилотника",
+  "skip:https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
+  "skip:https://tass.ru/obschestvo/28283985",
+  "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmcVNqTFVUcUU0YUtCXzQyT0FqMlp1TkhvVldOTGpGLUh5T3c3ZkZaTkpta0hHaXNaU0RsZ2Uxc1JvUG5ET3pSNzVKR2ZMRUpDSVV5N25ubW9oZWUtZ25YVG1ocllBT3h1?oc=5",
+  "title:В США проходят промежуточные выборы в Конгресс",
+  "skip:https://news.google.com/rss/articles/CBMilAFBVV95cUxObEZ5QUVHRExnMldxRWFXWHEzTXY3RFVoOTZtV2FZdlp1cmpOa2xidC1heGl6UEoxMm15UmNOQXd2YnBuYnQ5SWdjLXBncXFMNGhaWHUxSEtoZk9wa0dSd0RMTlRCQTZvVnBSYXV5bl9YY2l4djVPR3dxUmRhc3Y1TnpwR0FNVzNaX2tYXzBsdW9FRTlT?oc=5",
+  "skip:https://ria.ru/20261103/ispaniya-2129066567.html",
+  "skip:https://news.google.com/rss/articles/CBMirAFBVV95cUxNVWFwSnlPLWRGczY0ZFFLekNhbWZZZFRmekd2UmFtbXlQZW1OTGpDYk5hRlp1WTBXUjQ0c1M4Uy1Kc0tRaWVyRTk3U2E1UFJrektkS00zNUpYZnROdnBNVndqLWFwa25HcThDQmJCZTdpdkdpMm82cG91Wl8zMGtuZ3NOdG1wVXdNTzN0VzZBUk5oYXA3SklIazdhbFNnLURBZ3JfQ09tTU1jNXRy?oc=5",
+  "skip:https://www.rbc.ru/sport/03/11/2026/6aea1a370dbbc5bef0165230",
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxORWVoMHNNZXR3NlJHcU5VaXdOUEFqa3pxcmVaS0hlcHhYRkdqcFZXdWxuMUhEOFdaaHNHZ2lieXBBX29RQUVVTU1CeFJyQzhUX241X0d2VGpUaHNEUzlGUzB6akFqaEFMMDUtZGxNQVN0b1VVWVQwRTdMZXNpNmlwVFA2cndwVG9iSUNMVURHSlp0U3Nqd21SOEtUSlJOTVFrRU5USzBIMkJUemtPVnc?oc=5",
+  "title:В Испании приостановили все футбольные турниры после смерти игрока Хесуса де Мигеля"
 ]

@@ -1,8 +1,4 @@
 [
-  "skip:https://tass.ru/politika/28273083",
-  "skip:https://tass.ru/ekonomika/28272985",
-  "https://www.kommersant.ru/doc/9077810",
-  "title:Сергей Лавров провел первую за пять лет полноформатную очную встречу с главой МИД Японии на полях G20",
   "skip:https://www.interfax.ru/world/1126208",
   "https://tass.ru/mezhdunarodnaya-panorama/28273213",
   "title:США одобрили крупную военную помощь и выделение кредитов для Украины",
@@ -998,5 +994,9 @@
   "skip:https://ria.ru/20261103/tampere-2129014023.html",
   "skip:https://www.sport-interfax.ru/1126808",
   "https://ria.ru/20261103/khokkey-2129025558.html",
-  "title:Сборные нескольких стран по хоккею отказались играть против России на чемпионате мира 2027 года"
+  "title:Сборные нескольких стран по хоккею отказались играть против России на чемпионате мира 2027 года",
+  "skip:https://tass.ru/proisshestviya/28283529",
+  "skip:https://ria.ru/20261103/kiev-2129011845.html",
+  "https://www.rbc.ru/society/03/11/2026/6ae9ecc2130db983efe70278",
+  "title:В Киеве введены экстренные отключения света и прекращена подача воды"
 ]

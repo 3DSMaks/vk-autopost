@@ -1,8 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/201801/wolverine-was-uss-best-selling-game-in-september-with-ps5-sales-up-43",
-  "skip:https://stopgame.ru/newsdata/73263/otmenennaya_mass_effect_ravnyalas_na_baldur_s_gate_iii_i_vedmaka_v_plane_svobody_vybora",
-  "skip:https://www.igromania.ru/news/169465/serious-sam-the-third-encounter-razdelila-fanatov-ot-vostorga-do-kritiki-multyashnosti/",
-  "skip:https://gamemag.ru/news/201785/ea-new-projects-new-problems",
   "https://www.pcgamer.com/games/fps/ea-has-reportedly-put-dice-and-respawn-to-work-on-a-new-star-wars-battlefront-game/",
   "title:EA has reportedly put DICE and Respawn to work on a new Star Wars: Battlefront game",
   "skip:https://variety.com/2026/film/global/james-bond-final-screen-tests-callum-turner-jack-lowden-1236921500/",
@@ -998,5 +994,9 @@
   "skip:https://www.igromania.ru/news/169706/byivshij-top-menedzher-xbox-helen-chang-oprovergla-sluhi-o-svoyom-uhode-iz-kompanii/",
   "skip:https://www.pcgamer.com/gaming-industry/xbox-coo-who-left-after-just-3-months-shoots-down-claims-she-was-fired-for-a-policy-violation-says-her-story-is-about-core-values/",
   "https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/stalo_izvestno_kogda_mozhno_budet_nachat_igrat_v_the_legend_of_zelda_ocarina_of_time_na_switch_2-1887382#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Стало известно, когда можно будет начать играть в The Legend of Zelda: Ocarina of Time на Switch 2"
+  "title:Стало известно, когда можно будет начать играть в The Legend of Zelda: Ocarina of Time на Switch 2",
+  "skip:https://kg-portal.ru/comments/135631-sokolinyj-glaz-budet-spasat-poterjannogo-v-okeane-tanosa-v-trillere-po-realnoj-istorii/",
+  "skip:https://www.kinonews.ru/news_143950/",
+  "https://kg-portal.ru/comments/135628-gena-shapokljak-ushastik-iego-semja-nanovom-postere-filma-cheburashka-3/",
+  "title:Гена, Шапокляк, Ушастик и его семья на новом постере фильма \"Чебурашка 3\""
 ]

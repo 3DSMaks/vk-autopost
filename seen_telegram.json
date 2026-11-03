@@ -1,7 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/201776/the-gangster-the-cop-the-devil-remake-keanu-reeves-cast",
-  "https://www.playground.ru/cyberpunk_2077/news/cyberpunk_2077_poluchila_podderzhku_xbox_play_anywhere-1883730#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Cyberpunk 2077 получила поддержку Xbox Play Anywhere",
   "skip:https://kg-portal.ru/comments/135478-lazershou-tri-debila-vypusk-748-korejskij-blokbaster-nadezhda-trejler-narnii-sbory-strit-fajtera-vse-pobediteli-zolotoj-maliny/",
   "https://kg-portal.ru/comments/135487-novyj-temnyj-rycar-betsja-sbejnom-naarte-kovtoroj-chasti-multfilma-betmen-trilogija-najtfol/",
   "title:Новый Тёмный рыцарь бьётся с Бэйном на арте ко второй части мультфильма \"Бэтмен: Трилогия Найтфол\"",
@@ -998,5 +995,8 @@
   "skip:https://www.film.ru/news/treyler-cheloveka-s-meshkom",
   "skip:https://www.film.ru/news/pikovyy-valet-i-netflix",
   "https://kg-portal.ru/comments/135624-dzhonni-depp-gotov-vernutsja-k-roli-kapitana-dzheka-vorobja-chtoby-krasivo-zavershit-piratov-karibskogo-morja/",
-  "title:Джонни Депп готов вернуться к роли капитана Джека Воробья, чтобы красиво завершить \"Пиратов Карибского моря\""
+  "title:Джонни Депп готов вернуться к роли капитана Джека Воробья, чтобы красиво завершить \"Пиратов Карибского моря\"",
+  "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-global-release-times",
+  "https://www.playground.ru/cyberpunk_2077/news/shouranner_edgerunners_2_soobschil_chto_cdpr_ne_sobiraetsya_vybirat_odnu_kanonichnuyu_kontsovku_dlya_cyberpunk_2077-1887377#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Шоураннер Edgerunners 2 сообщил, что CDPR не собирается выбирать одну каноничную концовку для Cyberpunk 2077"
 ]

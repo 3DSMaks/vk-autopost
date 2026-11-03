@@ -1,8 +1,4 @@
 [
-  "https://variety.com/2026/music/news/ascap-writing-awards-biographies-john-williams-bernard-herrmann-1236922092/",
-  "title:Biographies of John Williams and Bernard Herrmann Among Honored Works in ASCAP’s Awards for Music Writing and Broadcasts",
-  "skip:https://www.kinonews.ru/news_143795/",
-  "https://www.kinonews.ru/news_143793/",
   "title:Автор \"Александра\" Лаэта Калогридис займется фильмом по игре \"Samurai Spirits\"",
   "skip:https://www.kinonews.ru/news_143792/",
   "skip:https://www.film.ru/articles/teplo-li-tebe-devica-pochemu-novaya-ekranizaciya-morozko-ne-sogrevaet",
@@ -998,5 +994,9 @@
   "https://www.film.ru/news/obitel-zla-vyshla-v-seti",
   "title:Обитель зла вышла в Сети",
   "https://www.kinonews.ru/news_143956/",
-  "title:Рон Ховард экранизирует \"Робопокалипсис\" в виде сериала"
+  "title:Рон Ховард экранизирует \"Робопокалипсис\" в виде сериала",
+  "skip:https://kg-portal.ru/comments/135627-ne-v-pervyj-raz-netflix-stanet-kinoprokatchikom-sovmestnogo-filma-bratev-koenov/",
+  "skip:https://www.film.ru/news/pikovyy-valet-i-netflix",
+  "https://www.kinonews.ru/news_143954/",
+  "title:Звезда франшизы \"Крик\" Нив Кэмпбелл вернется в \"Крике 8\""
 ]

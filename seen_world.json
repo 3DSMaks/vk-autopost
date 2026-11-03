@@ -1,7 +1,4 @@
 [
-  "skip:https://www.rbc.ru/rbcfreenews/6ae4fcb4af69ea42d44a1d4e",
-  "skip:https://ria.ru/20261030/polsha-2128241002.html",
-  "skip:https://www.kommersant.ru/doc/9077829",
   "skip:https://news.google.com/rss/articles/CBMitAFBVV95cUxONTN6V2ZLYWRNNzFWb3hYckNxQzgzMXZlTHY2MGN3NldSRW1BUGEtX0NUVTRzREhQcTdldGtuNkFVRzY4ZFlYRUYzS2Q0Y0tuT1hYbmpVMmZ4T3pjQjB4Si1sRndxN1haVVJ6dnlVbElWRW5vWC00Mnd6dnRsNkFsZXc2WUlRTnlxM3pmNHBUN1BERGdJcElnb1hrbGpudHFMbzJaWGxrdmx1T1c3cDJYOUplUnk?oc=5",
   "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
   "title:Политический кризис и протесты в Польше из-за ситуации вокруг Конституционного трибунала",
@@ -998,5 +995,8 @@
   "skip:https://www.rbc.ru/rbcfreenews/6aea1bc79a9aff5e37370e76",
   "skip:https://ria.ru/20261103/klichko-2129059897.html",
   "https://tass.ru/proisshestviya/28283941",
-  "title:В Киеве остановили движение трамваев и троллейбусов из-за сложной ситуации в энергосистеме"
+  "title:В Киеве остановили движение трамваев и троллейбусов из-за сложной ситуации в энергосистеме",
+  "skip:https://www.interfax.ru/russia/1126847",
+  "https://www.kommersant.ru/doc/9080093",
+  "title:Сотрудница ЗАЭС погибла в результате атаки беспилотника"
 ]

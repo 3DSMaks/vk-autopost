@@ -1,13 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9077743",
-  "skip:https://www.rbc.ru/politics/23/10/2026/6adb8945ede3e202eabc0c7a",
-  "skip:https://www.rbc.ru/politics/30/10/2026/6ae4ba11714604562990792e",
-  "skip:https://www.kommersant.ru/doc/9077731",
-  "skip:https://ria.ru/20261030/lantratova-2128192251.html",
-  "skip:https://tass.ru/obschestvo/28272651",
-  "https://www.interfax.ru/russia/1126176",
-  "title:В Алешках завершается гуманитарная миссия",
-  "skip:https://ria.ru/20261030/abu-dabi-2128199512.html",
   "skip:https://www.kommersant.ru/doc/9077761",
   "skip:https://www.rbc.ru/politics/30/10/2026/6ae4c1d4309c9b59359b6d4e",
   "skip:https://www.interfax.ru/russia/1126184",
@@ -998,5 +989,14 @@
   "title:Переговоры между Россией, США и Украиной пройдут в Абу-Даби 10-11 ноября под руководством Мединского",
   "skip:https://ria.ru/20261103/kiev-2128890472.html",
   "https://www.rbc.ru/society/03/11/2026/6ae9a8ec92e4a72ceaf7ac98",
-  "title:В Киеве полностью остановили движение поездов по всем веткам метрополитена"
+  "title:В Киеве полностью остановили движение поездов по всем веткам метрополитена",
+  "skip:https://www.rbc.ru/society/03/11/2026/6ae9b60f215291c707fb283b",
+  "skip:https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
+  "skip:https://tass.ru/proisshestviya/28282227",
+  "https://www.rbc.ru/rbcfreenews/6ae9b6d7d54c8a55deca5f38",
+  "title:Самолет из Лондона экстренно посадили в Польше после сообщения о бомбе",
+  "skip:https://www.interfax.ru/russia/1126763",
+  "skip:https://ria.ru/20261103/kozhemyako-2128903039.html",
+  "https://www.rbc.ru/rbcfreenews/6ae9b132b90c73eaf275f2ec",
+  "title:Владимир Путин включил Олега Кожемяко в состав Совета безопасности РФ"
 ]

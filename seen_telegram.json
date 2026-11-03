@@ -1,9 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/games/fps/holy-crap-theyre-making-serious-sam-the-third-encounter/",
-  "skip:https://www.ign.com/articles/call-of-duty-modern-warfare-4-dmz-review",
-  "skip:https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-players-declare-broken-on-dmz-perk-that-lets-you-self-revive-after-full-death/",
-  "skip:https://gamemag.ru/news/201783/serious-sam-the-third-encounter",
-  "skip:https://gamemag.ru/news/201784/left-4-dead-rtx-announcement",
   "skip:https://gamemag.ru/news/201776/the-gangster-the-cop-the-devil-remake-keanu-reeves-cast",
   "https://www.playground.ru/cyberpunk_2077/news/cyberpunk_2077_poluchila_podderzhku_xbox_play_anywhere-1883730#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Cyberpunk 2077 получила поддержку Xbox Play Anywhere",
@@ -998,5 +993,10 @@
   "title:Новое дополнение для «Ведьмака 3» точно будет стоить своих денег — CD Projekt RED обещает не разочаровать",
   "skip:https://gamemag.ru/reviews/gears-of-war-e-day-xbox-review",
   "https://www.playground.ru/tom_clancys_the_division_2/news/avtory_the_division_2_raskryli_etapy_vnedreniya_krosspleya_mezhdu_pk_i_konsolyami-1887359#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Авторы The Division 2 раскрыли этапы внедрения кроссплея между ПК и консолями"
+  "title:Авторы The Division 2 раскрыли этапы внедрения кроссплея между ПК и консолями",
+  "skip:https://kg-portal.ru/comments/135627-ne-v-pervyj-raz-netflix-stanet-kinoprokatchikom-sovmestnogo-filma-bratev-koenov/",
+  "skip:https://www.film.ru/news/treyler-cheloveka-s-meshkom",
+  "skip:https://www.film.ru/news/pikovyy-valet-i-netflix",
+  "https://kg-portal.ru/comments/135624-dzhonni-depp-gotov-vernutsja-k-roli-kapitana-dzheka-vorobja-chtoby-krasivo-zavershit-piratov-karibskogo-morja/",
+  "title:Джонни Депп готов вернуться к роли капитана Джека Воробья, чтобы красиво завершить \"Пиратов Карибского моря\""
 ]

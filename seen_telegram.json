@@ -1,9 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/games/mass-effect/the-next-mass-effect-would-have-had-a-level-of-autonomy-and-choice-that-no-other-game-has-been-able-to-match-according-to-bioware-veteran/",
-  "skip:https://www.ign.com/articles/bioware-was-the-greatest-rpg-developer-ever",
-  "skip:https://www.pcgamer.com/gaming-industry/cd-projekt-boss-pays-tribute-to-bioware-for-helping-bring-the-witcher-to-life-20-years-ago-bioware-has-been-a-massive-part-of-cdpr-history/",
-  "skip:https://www.ign.com/articles/former-bioware-executive-producer-mark-darrah-says-ea-might-be-more-likely-to-sell-ips-like-mass-effect-and-dragon-age-after-studios-closure",
-  "skip:https://www.ign.com/articles/star-wars-the-old-republic-fans-pay-their-respects-to-bioware",
   "skip:https://www.ign.com/articles/mass-effect-5-was-supposed-to-redeem-the-series-after-andromeda-and-now-well-never-get-that",
   "skip:https://stopgame.ru/newsdata/73256/ne_luchshiy_den_dlya_igrovoy_industrii_boss_cd_projekt_red_prostilsya_s_bioware",
   "skip:https://www.pcgamer.com/gaming-industry/with-bioware-dead-ea-lays-out-its-next-chapter-and-its-pretty-much-as-predicted-guns-and-football-are-fine-and-everything-else-is-under-the-microscope/",
@@ -998,5 +993,10 @@
   "skip:https://www.pcgamer.com/gaming-industry/xbox-coo-who-left-after-just-3-months-shoots-down-claims-she-was-fired-for-a-policy-violation-says-her-story-is-about-core-values/",
   "skip:https://www.ign.com/articles/zelda-ocarina-of-time-remake-foil-cover-preorders-sold-out-amazon",
   "https://www.playground.ru/gears_of_war/news/ekranizatsiya_gears_of_war_postepenno_prodvigaetsya_avtory_zakonchili_rabotu_nad_stsenariem-1887383#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Экранизация Gears of War постепенно продвигается: авторы закончили работу над сценарием"
+  "title:Экранизация Gears of War постепенно продвигается: авторы закончили работу над сценарием",
+  "skip:https://www.playground.ru/alyonkiny_istorii/news/alyonkiny_istorii_priznali_luchshej_igroj_na_kazhdyj_den_na_premii_rustore_2026-1887392#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://stopgame.ru/newsdata/73363/posle_vyhoda_control_resonant_vyruchka_remedy_podskochila_na_226",
+  "skip:https://www.igromania.ru/news/169705/control-resonant-uluchshila-finansovyie-pokazateli-remedy-remejk-max-payne-1-and-2-v-aktivnom-proizvodstve/",
+  "https://www.igromania.ru/news/169707/chyornaya-pyatnitsa-v-ps-store-nachnyotsya-zavtra-so-skidkami-na-silent-hill-townfall-i-rasshirennoe-izdanie-marvels-wolverine/",
+  "title:«Чёрная пятница» в PS Store начнётся завтра со скидками на Silent Hill: Townfall и расширенное издание Marvelʼs Wolverine"
 ]

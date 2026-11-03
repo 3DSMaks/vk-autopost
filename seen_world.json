@@ -1,14 +1,4 @@
 [
-  "skip:https://tass.ru/obschestvo/28272595",
-  "skip:https://tass.ru/obschestvo/28272591",
-  "skip:https://ria.ru/20261030/likhachev-2128187565.html",
-  "skip:https://tass.ru/ekonomika/28272575",
-  "skip:https://ria.ru/20261030/likhachev-2128187023.html",
-  "skip:https://www.interfax.ru/russia/1126165",
-  "skip:https://ria.ru/20261030/zavoz-2128185314.html",
-  "https://www.interfax.ru/russia/1126169",
-  "title:Глава «Росатома» Алексей Лихачев подвел итоги работы госкорпорации и анонсировал планы",
-  "skip:https://ria.ru/20261030/khokkey-2128195534.html",
   "https://www.kommersant.ru/doc/9077743",
   "skip:https://www.rbc.ru/politics/23/10/2026/6adb8945ede3e202eabc0c7a",
   "skip:https://www.rbc.ru/politics/30/10/2026/6ae4ba11714604562990792e",
@@ -998,5 +988,15 @@
   "title:Концерн Schaeffler объявил о сокращении более 3,4 тыс. рабочих мест в Европе",
   "skip:https://www.interfax.ru/russia/1126741",
   "https://tass.ru/ekonomika/28281821",
-  "title:Суд в Москве оштрафовал компанию Google на 3,8 млн рублей за неудаление запрещенного контента"
+  "title:Суд в Москве оштрафовал компанию Google на 3,8 млн рублей за неудаление запрещенного контента",
+  "skip:https://www.kommersant.ru/doc/9079709",
+  "skip:https://www.rbc.ru/politics/03/11/2026/6ae9a7f93a3fdab5a384f8bf",
+  "skip:https://www.interfax.ru/russia/1126751",
+  "skip:https://www.interfax.ru/russia/1126750",
+  "skip:https://tass.ru/politika/28281939",
+  "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQloyWTF2V2MxV0hvV1IzWmF0YVhrdE9zR1pWZGtodWcxZ19zOVhRcjFfRFlMQjBGQjFxZkx3VFdGVm8yS2d1d25WTFIyRkxXcWtKRXZIUWRrVnpmUzVnbFhYa1IxVGdwYTVaVDNURnl3MVdyNHhhMVhYVURMMmtreTdhd3ZNdkNORUlCRmJTNDEwWGNZdFc4OTRiQl9XMXREVDVnT0l0bVotOUhFVGNnTDlhcm5HS1U?oc=5",
+  "title:Переговоры между Россией, США и Украиной пройдут в Абу-Даби 10-11 ноября под руководством Мединского",
+  "skip:https://ria.ru/20261103/kiev-2128890472.html",
+  "https://www.rbc.ru/society/03/11/2026/6ae9a8ec92e4a72ceaf7ac98",
+  "title:В Киеве полностью остановили движение поездов по всем веткам метрополитена"
 ]

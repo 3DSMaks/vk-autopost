@@ -1,7 +1,4 @@
 [
-  "https://gamemag.ru/news/201789/secret-activision-rpg-project-update-october-2026",
-  "title:Activision готовит конкурента Cyberpunk 2077 и Grand Theft Auto VI — игроков ждет масштабная ролевая игра в открытом мире",
-  "https://www.film.ru/news/kto-napishet-novyy-shpionskiy-serial-dlya-marvel",
   "title:Кто напишет новый шпионский сериал для Marvel",
   "skip:https://www.playground.ru/misc/news/obitel_zla_zaka_kreggera_mozhet_dobratsya_do_tsifrovyh_ploschadok_uzhe_3_noyabrya-1884029#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://gamemag.ru/news/201809/zach-creggers-resident-evil-digital-release-date",
@@ -998,5 +995,8 @@
   "skip:https://www.igromania.ru/news/169715/rannij-dostup-stronghold-4-perenesli-na-20-aprelya/",
   "skip:https://stopgame.ru/newsdata/73370/teper_oficialno_the_elder_scrolls_vi_nosit_podzagolovok_sentinel",
   "https://stopgame.ru/newsdata/73369/predzagruzka_grand_theft_auto_vi_startuet_10_noyabrya",
-  "title:Предзагрузка Grand Theft Auto VI стартует 10 ноября"
+  "title:Предзагрузка Grand Theft Auto VI стартует 10 ноября",
+  "skip:https://www.ign.com/articles/gta-6-preload-times-and-install-size-confirmed-rockstar-announces-physical-cover-art-poster-and-map-of-leonida",
+  "https://www.ign.com/articles/the-elder-scrolls-6-sentinel-name-logo-officially-revealed-as-bethesda-marks-40th-anniversary",
+  "title:The Elder Scrolls 6: Sentinel Name, Logo, Officially Revealed as Bethesda Marks 40th Anniversary"
 ]

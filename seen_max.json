@@ -1,12 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/201811/hlx-audio",
-  "skip:https://www.pcgamer.com/games/fps/half-life-3-re-re-re-confirmed-a-valve-dev-just-said-hlx-out-loud/",
-  "skip:https://www.ign.com/articles/valve-developer-mistakenly-mentions-rumored-half-life-3-codename",
-  "skip:https://www.igromania.ru/news/169472/auditoriya-warhammer-40000-space-marine-2-uzhe-naschityivaet-15-millionov-kosmodesantnikov/",
-  "https://www.ign.com/articles/cyberpunk-2-associate-director-says-half-of-games-quest-team-are-former-modders",
-  "title:Cyberpunk 2 Associate Director Says Half of Game's Quest Team Are Former Modders",
-  "skip:https://deadline.com/2026/10/box-office-clayface-you-can-see-everything-1237171500/",
-  "skip:https://deadline.com/2026/10/nobody-wants-this-creator-responds-adam-brody-free-palestine-1237171442/",
   "skip:https://www.kinonews.ru/news_143789/",
   "https://deadline.com/2026/10/sacha-baron-cohen-marvel-ironheart-not-insulted-devil-jewish-1237171378/",
   "title:Sacha Baron Cohen Says Marvel’s ‘Ironheart’ Producers Wanted To Ensure He Was “Not Insulted” Playing Devil As Jewish Actor",
@@ -998,5 +990,13 @@
   "https://variety.com/2026/film/global/pierce-brosnan-callum-turner-james-bond-1236938354/",
   "title:Pierce Brosnan Approves of Callum Turner as James Bond: He’s ‘So Strong’ and I’m ‘Eager to See’ Who Becomes the Next 007",
   "https://variety.com/2026/film/global/jason-statham-guy-ritchie-dogfight-netflix-action-film-1236938327/",
-  "title:Jason Statham and Guy Ritchie Reunite — Again — for Netflix Revenge Action Movie ‘Dogfight’"
+  "title:Jason Statham and Guy Ritchie Reunite — Again — for Netflix Revenge Action Movie ‘Dogfight’",
+  "skip:https://www.playground.ru/gta_6/news/rockstar_raskryla_datu_predzagruzki_gta_6_i_trebovaniya_k_svobodnomu_mestu-1887459#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://gamemag.ru/news/201956/podojdem-eshche-8-let-todd-govard-oficialno-predstavil-the-elder-scrolls-vi-sentinel",
+  "skip:https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-sentinel-is-finally-made-official/",
+  "skip:https://www.igromania.ru/news/169714/predzagruzka-gta-6-nachnyotsya10-noyabrya/",
+  "skip:https://www.playground.ru/elder_scrolls_6/news/the_elder_scrolls_6_ofitsialno_poluchila_podzagolovok_sentinel_bethesda_pokazala_logotip_igry-1887451#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169713/the-elder-scrolls-6-dejstvitelno-nosit-podzagolovok-sentinel/",
+  "https://www.playground.ru/hogwarts_legacy/news/hogwarts_legacy_poluchit_dlss_5_uzhe_5_noyabrya_nvidia_pokazala_uluchshennoe_osveschenie_i_materialy_v_novom_trejlere-1887460#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Hogwarts Legacy получит DLSS 5 уже 5 ноября - NVIDIA показала улучшенное освещение и материалы в новом трейлере"
 ]

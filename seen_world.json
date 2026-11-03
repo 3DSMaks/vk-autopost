@@ -1,7 +1,4 @@
 [
-  "skip:https://tass.ru/ekonomika/28272625",
-  "skip:https://tass.ru/ekonomika/28272619",
-  "skip:https://ria.ru/20261030/likhachev-2128190050.html",
   "skip:https://tass.ru/obschestvo/28272595",
   "skip:https://tass.ru/obschestvo/28272591",
   "skip:https://ria.ru/20261030/likhachev-2128187565.html",
@@ -998,5 +995,8 @@
   "title:Кремль сообщил о работе по организации трехсторонней встречи Путина, Трампа и Си Цзиньпина",
   "skip:https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeFAtaXBQd0FKN01ZQUFGZFd3YjlPMnNEbDJjazNwZTFQTnplVlJkNzRzNm10WU1XWl91eTVaQVlzVG43R0tfcTZtQkFuSEdqejlZSDc3Y294M2NIZXNmY3puTnpYdmFVdWp3MmNDT3E4TGUzdzVUa2doSTFpU1Q3NnBTYjVzWTl2QVFQakotTFJWVWhUakNpaVpMY1lMV0dLUk56N1JWeS1SalM2V25fN0JOTy0zWkx4OE1NWVhFQmR5UGtFd3g4Uw?oc=5",
   "https://tass.ru/ekonomika/28281469",
-  "title:Концерн Schaeffler объявил о сокращении более 3,4 тыс. рабочих мест в Европе"
+  "title:Концерн Schaeffler объявил о сокращении более 3,4 тыс. рабочих мест в Европе",
+  "skip:https://www.interfax.ru/russia/1126741",
+  "https://tass.ru/ekonomika/28281821",
+  "title:Суд в Москве оштрафовал компанию Google на 3,8 млн рублей за неудаление запрещенного контента"
 ]

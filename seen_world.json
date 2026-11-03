@@ -1,12 +1,4 @@
 [
-  "skip:https://ria.ru/20261031/polsha-2128267363.html",
-  "https://ria.ru/20261031/polsha-2128270637.html",
-  "title:Политический кризис и силовой захват Конституционного трибунала в Польше",
-  "skip:https://www.kommersant.ru/doc/9078133",
-  "skip:https://www.interfax.ru/russia/1126267",
-  "skip:https://ria.ru/20261031/pvo-2128276141.html",
-  "skip:https://tass.ru/armiya-i-opk/28274041",
-  "https://www.rbc.ru/rbcfreenews/6ae587353d8c4ded5ced4dce",
   "title:Минобороны РФ сообщило о перехвате 433 украинских беспилотников за ночь",
   "skip:https://www.rbc.ru/rbcfreenews/6ae57ae3acc9a2663a9678aa",
   "skip:https://www.interfax.ru/russia/1126264",
@@ -998,5 +990,13 @@
   "skip:https://www.kommersant.ru/doc/9080111",
   "skip:https://www.interfax.ru/russia/1126865",
   "https://www.rbc.ru/rbcfreenews/6aea37dd479898568515075f",
-  "title:В Краснодаре введены временные ограничения в аэропорту и объявлена тревога из-за атаки беспилотников"
+  "title:В Краснодаре введены временные ограничения в аэропорту и объявлена тревога из-за атаки беспилотников",
+  "skip:https://www.sport-interfax.ru/1126870",
+  "skip:https://tass.ru/sport/28284157",
+  "skip:https://www.rbc.ru/sport/03/11/2026/6aea243679607c36e215e01c",
+  "https://www.rbc.ru/sport/03/11/2026/6aea3c70a5497ae345d6faab",
+  "title:Российский футболист Алексей Батраков оформил дубль за «Галатасарай» в матче против «Штутгарта»",
+  "skip:https://www.theguardian.com/world/2026/nov/04/two-australians-dead-in-spain-high-speed-train-crash-ntwnfb",
+  "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+  "title:В результате крушения скоростного поезда на юге Мадрида погибли по меньшей мере 69 человек"
 ]

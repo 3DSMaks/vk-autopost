@@ -1,9 +1,4 @@
 [
-  "title:Заявления главы МИД РФ Сергея Лаврова на полях G20 об отношениях с США и украинском урегулировании",
-  "skip:https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGx4RUtRNkEya28zdk1wR3JiSFhtTDZGVFR0am5PSlZXRUZ6TmtQT2VLLXhSUzdoYjNoQ3ZSclB2T3pqTGFJWGJoOWRrZURNUXF4Q0g0T1NpNkVsN0V6cVlUTncyY1lPTFVvU1h1VGxmeFNxNWlKSm5FejE2d0tabHRjOU40dTFDbmNLTVVlbjZBYmtXNHQxd1Y5RHh3a1dROGM3Vg?oc=5",
-  "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-  "title:США одобрили продажу Украине ракет Patriot на $2,1 млрд",
-  "skip:https://www.rbc.ru/politics/31/10/2026/6ae51435e22d143d5793dabd",
   "skip:https://www.kommersant.ru/doc/9078105",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28273585",
   "skip:https://www.rbc.ru/rbcfreenews/6ae507ae41496c5f9c55321b",
@@ -998,5 +993,10 @@
   "skip:https://news.google.com/rss/articles/CBMirAFBVV95cUxNVWFwSnlPLWRGczY0ZFFLekNhbWZZZFRmekd2UmFtbXlQZW1OTGpDYk5hRlp1WTBXUjQ0c1M4Uy1Kc0tRaWVyRTk3U2E1UFJrektkS00zNUpYZnROdnBNVndqLWFwa25HcThDQmJCZTdpdkdpMm82cG91Wl8zMGtuZ3NOdG1wVXdNTzN0VzZBUk5oYXA3SklIazdhbFNnLURBZ3JfQ09tTU1jNXRy?oc=5",
   "skip:https://www.rbc.ru/sport/03/11/2026/6aea1a370dbbc5bef0165230",
   "https://news.google.com/rss/articles/CBMirgFBVV95cUxORWVoMHNNZXR3NlJHcU5VaXdOUEFqa3pxcmVaS0hlcHhYRkdqcFZXdWxuMUhEOFdaaHNHZ2lieXBBX29RQUVVTU1CeFJyQzhUX241X0d2VGpUaHNEUzlGUzB6akFqaEFMMDUtZGxNQVN0b1VVWVQwRTdMZXNpNmlwVFA2cndwVG9iSUNMVURHSlp0U3Nqd21SOEtUSlJOTVFrRU5USzBIMkJUemtPVnc?oc=5",
-  "title:В Испании приостановили все футбольные турниры после смерти игрока Хесуса де Мигеля"
+  "title:В Испании приостановили все футбольные турниры после смерти игрока Хесуса де Мигеля",
+  "skip:https://www.france24.com/en/tv-shows/the-debate/20261103-trickle-or-tsunami-democrats-eye-gains-in-us-midterm-elections",
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTE84eHlvQ0ZfX1A0MXo0QTg0Y285Ym51NzNrdmVYeFhRWHNJZzRHY2k2WlNiRnQ3UjJRQjR0Y1lKV1JsbHdicXN5S01DNFFIOTF0R1YxUVhuamFZOVNNeVlmX3N3MWdHaUxhUVloMQ?oc=5",
+  "skip:https://tass.ru/proisshestviya/28284087",
+  "https://www.rbc.ru/rbcfreenews/6aea321379607c36e215e037",
+  "title:Во Франции вооруженные грабители похитили до 50 кг золота с ювелирной фабрики"
 ]

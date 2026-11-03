@@ -1,13 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9077655",
-  "title:Песков заявил, что удары ВСУ по НПЗ не повлияют на подготовку предстоящих трехсторонних переговоров",
-  "skip:https://ria.ru/20261030/g20-2128159657.html",
-  "skip:https://news.google.com/rss/articles/CBMimAFBVV95cUxPa05KUnNfZG1OODZTY3RxWXpQTFozVkVHUkp1Sk9NVTVjWG1NVjlCM1hwY2VjSEZaSzJmaWZXNllQZVJUZWdCbkJlc2lBZFZMem5COUNVT2RidUdBTV9RUXZOVC15OFVmUWVnOVotRW5xVzZ3S1VCeWZPTUZoN2tLaVMweVl2NVRaV3l0RHg5ZFA0TXUxOVVTcw?oc=5",
-  "https://ria.ru/20261030/vstrecha-2128173558.html",
-  "title:В США началась встреча глав МИД стран G20",
-  "skip:https://www.kommersant.ru/doc/9077641",
-  "https://www.rbc.ru/rbcfreenews/6ae49ebcacf5a5b4b205c258",
-  "title:Генеральный директор Донецкой железной дороги погиб при атаке беспилотника",
   "skip:https://www.rbc.ru/quote/30/10/2026/6ae4ab419a79472b1740f5c9",
   "skip:https://www.kommersant.ru/doc/9077667",
   "https://www.interfax.ru/business/1126159",
@@ -998,5 +989,14 @@
   "title:Силы ПВО сбили десятки беспилотников, летевших на Москву",
   "skip:https://www.interfax.ru/russia/1126657",
   "https://www.rbc.ru/rbcfreenews/6ae9076c522d471f841eba2f",
-  "title:Мэр Москвы Сергей Собянин сообщил о 18 сбитых на подлете к Москве беспилотниках"
+  "title:Мэр Москвы Сергей Собянин сообщил о 18 сбитых на подлете к Москве беспилотниках",
+  "skip:https://news.google.com/rss/articles/CBMisAFBVV95cUxOLTRlckpuNzhrODZxT3dZUVN2bmk4SjZVRnFmQWZkM3loRnplZzV1QndFY3VEX1dONWE1cV9fWEc1Z1Y0NVNQNlFtNVc2dEZpT2ZXRU5tdV9WdDRiTUpEaVZNZ3RQU25tWV83R1NROXJacVVjaUNHc0dvamQzLUNrdWtIVkFmX1o0a2FVT2hFb0p5ZlN6MUhhOU5DSlhxdlR3bE5QMUdrZnZNenZ0YjVvNw?oc=5",
+  "skip:https://www.interfax.ru/russia/1126718",
+  "skip:https://www.interfax.ru/russia/1126717",
+  "skip:https://www.interfax.ru/russia/1126716",
+  "https://www.kommersant.ru/doc/9079579",
+  "title:Российские военные нанесли массированный удар по объектам энергетики и портовой инфраструктуре на Украине",
+  "skip:https://www.aljazeera.com/sports/2026/11/3/afc-reschedules-asian-cup-2027-in-saudi-arabia-amid-regional-conflict?traffic_source=rss",
+  "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
+  "title:Кубок Азии 2027 года в Саудовской Аравии перенесли из-за атак хуситов и регионального конфликта"
 ]

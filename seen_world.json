@@ -1,10 +1,4 @@
 [
-  "title:Мэр Новокуйбышевска сообщила о погибшем и пострадавших в результате атаки дронов",
-  "skip:https://www.rbc.ru/sport/30/10/2026/6ae4ab78266146f5b7326c32",
-  "skip:https://www.kommersant.ru/doc/9077693",
-  "skip:https://www.rbc.ru/sport/30/10/2026/6ae4a7a9508a2286f62815fa",
-  "https://ria.ru/20261030/tennis-2128181241.html",
-  "title:Российский теннисист Даниил Медведев квалифицировался на Итоговый турнир ATP",
   "skip:https://tass.ru/ekonomika/28272625",
   "skip:https://tass.ru/ekonomika/28272619",
   "skip:https://ria.ru/20261030/likhachev-2128190050.html",
@@ -998,5 +992,11 @@
   "title:Росимущество начало отбор организатора продажи пакета акций Совкомфлота",
   "skip:https://www.kommersant.ru/doc/9079624",
   "https://www.interfax.ru/business/1126730",
-  "title:ФАС помогла регионам России заключить 146 соглашений о стабилизации цен на топливо"
+  "title:ФАС помогла регионам России заключить 146 соглашений о стабилизации цен на топливо",
+  "skip:https://www.rbc.ru/politics/03/11/2026/6ae998f5888dfac2af1b4654",
+  "https://www.kommersant.ru/doc/9079659",
+  "title:Кремль сообщил о работе по организации трехсторонней встречи Путина, Трампа и Си Цзиньпина",
+  "skip:https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeFAtaXBQd0FKN01ZQUFGZFd3YjlPMnNEbDJjazNwZTFQTnplVlJkNzRzNm10WU1XWl91eTVaQVlzVG43R0tfcTZtQkFuSEdqejlZSDc3Y294M2NIZXNmY3puTnpYdmFVdWp3MmNDT3E4TGUzdzVUa2doSTFpU1Q3NnBTYjVzWTl2QVFQakotTFJWVWhUakNpaVpMY1lMV0dLUk56N1JWeS1SalM2V25fN0JOTy0zWkx4OE1NWVhFQmR5UGtFd3g4Uw?oc=5",
+  "https://tass.ru/ekonomika/28281469",
+  "title:Концерн Schaeffler объявил о сокращении более 3,4 тыс. рабочих мест в Европе"
 ]

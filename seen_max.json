@@ -1,9 +1,4 @@
 [
-  "title:Кто напишет новый шпионский сериал для Marvel",
-  "skip:https://www.playground.ru/misc/news/obitel_zla_zaka_kreggera_mozhet_dobratsya_do_tsifrovyh_ploschadok_uzhe_3_noyabrya-1884029#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://gamemag.ru/news/201809/zach-creggers-resident-evil-digital-release-date",
-  "https://www.playground.ru/fallout_76/news/auditoriya_fallout_76_dostigla_25_millionov_igrokov-1884023#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Аудитория Fallout 76 достигла 25 миллионов игроков",
   "https://www.film.ru/news/charli-xcx-v-novom-filme-skorseze",
   "title:Charli xcx в новом фильме Скорсезе",
   "skip:https://stopgame.ru/newsdata/73269/obschaya_auditoriya_warhammer_40_000_space_marine_ii_vyrosla_do_15_mln_chelovek",
@@ -998,5 +993,10 @@
   "title:Предзагрузка Grand Theft Auto VI стартует 10 ноября",
   "skip:https://www.ign.com/articles/gta-6-preload-times-and-install-size-confirmed-rockstar-announces-physical-cover-art-poster-and-map-of-leonida",
   "https://www.ign.com/articles/the-elder-scrolls-6-sentinel-name-logo-officially-revealed-as-bethesda-marks-40th-anniversary",
-  "title:The Elder Scrolls 6: Sentinel Name, Logo, Officially Revealed as Bethesda Marks 40th Anniversary"
+  "title:The Elder Scrolls 6: Sentinel Name, Logo, Officially Revealed as Bethesda Marks 40th Anniversary",
+  "skip:https://kg-portal.ru/comments/135648-sedmoj-zahod-gaj-richi-i-dzhejson-stejtem-snimut-stilnyj-ekshentriller-pro-londonskij-kriminalitet/",
+  "skip:https://www.kinonews.ru/news_143959/",
+  "skip:https://www.film.ru/articles/vlastelin-kolec-ohota-na-golluma-vse-chto-izvestno-o-novom-filme-po-motivam-knig-dzhona-rr",
+  "https://deadline.com/2026/11/cinemarko-netflix-cliff-booth-theatrical-release-1237212191/",
+  "title:No ‘Cliff Booth’ At Cinemark: CEO Cites Long-Term Industry Risk"
 ]

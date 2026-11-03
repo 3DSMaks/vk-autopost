@@ -1,12 +1,4 @@
 [
-  "https://www.film.ru/news/razrabatyvayut-serial-o-yadovitom-plyushche",
-  "title:Разрабатывают сериал о Ядовитом Плюще",
-  "skip:https://www.igromania.ru/news/169458/vsya-trilogiya-prodalas-huzhe-horizon-zero-dawn-novaya-mass-effect-eschyo-do-otmenyi-vyizyivala-somneniya/",
-  "skip:https://www.playground.ru/life_is_strange/news/sozdatel_life_is_strange_posetil_syomki_seriala_amazon_i_ostalsya_v_vostorge-1883810#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/pod_kapotom_iw_engine_digital_foundry_raskryla_graficheskie_sekrety_call_of_duty_modern_warfare_4-1883807#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.ign.com/articles/we-were-working-on-a-great-game-former-mass-effect-5-writers-speak-out-after-ea-shuts-down-bioware",
-  "skip:https://www.pcgamer.com/gaming-industry/rip-bioware-ea-has-shut-down-the-legendary-rpg-developer/",
-  "https://www.ign.com/articles/dragon-ball-xenoverse-3-narrows-release-window-following-player-feedback",
   "title:Dragon Ball Xenoverse 3 Narrows Release Window Following Player Feedback",
   "https://www.kinonews.ru/news_143776/",
   "title:Джейкоб Элорди и Джек Лауден вошли в шорт-лист на роль Джеймса Бонда вместе с секретным кандидатом",
@@ -998,5 +990,13 @@
   "title:\"Крик 7\" не закончил историю Сидни: Нив Кэмпбелл вернётся в восьмой части хоррора",
   "skip:https://www.film.ru/news/obitel-zla-vyshla-v-seti",
   "https://www.kinonews.ru/news_143957/",
-  "title:Фильм \"Голодные игры: Рассвет жатвы\" выйдет в 3D"
+  "title:Фильм \"Голодные игры: Рассвет жатвы\" выйдет в 3D",
+  "skip:https://www.playground.ru/gta_6/news/rockstar_raskryla_datu_predzagruzki_gta_6_i_trebovaniya_k_svobodnomu_mestu-1887459#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://gamemag.ru/news/201956/podojdem-eshche-8-let-todd-govard-oficialno-predstavil-the-elder-scrolls-vi-sentinel",
+  "skip:https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-sentinel-is-finally-made-official/",
+  "skip:https://www.igromania.ru/news/169714/predzagruzka-gta-6-nachnyotsya10-noyabrya/",
+  "skip:https://www.playground.ru/elder_scrolls_6/news/the_elder_scrolls_6_ofitsialno_poluchila_podzagolovok_sentinel_bethesda_pokazala_logotip_igry-1887451#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169713/the-elder-scrolls-6-dejstvitelno-nosit-podzagolovok-sentinel/",
+  "https://stopgame.ru/newsdata/73366/franshiza_borderlands_preodolela_otmetku_v_100_mln_prodannyh_kopiy",
+  "title:Франшиза Borderlands преодолела отметку в 100 млн проданных копий"
 ]

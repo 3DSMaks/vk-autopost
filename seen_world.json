@@ -1,11 +1,4 @@
 [
-  "https://www.rbc.ru/politics/30/10/2026/6ae4e96fcfb16244b1bbce5c",
-  "title:Госдеп США одобрил продажу Украине ракет Patriot",
-  "skip:https://www.kommersant.ru/doc/9077819",
-  "skip:https://news.google.com/rss/articles/CBMivwFBVV95cUxORW01d2dWQjEzQi1rNHpxb1hPYlE4b1dBMFgtUkxRQTZDY2RrNGlkeXpXNHNhUVU1MVRjVW9xY1lvbnpuSEFzNnZBaDM4ZkdGbEQwSUJ2Z0d0cms5bHVYcGhwYm5mZ3dIcU8zOXRlWFhFajVoMmtGRnA2cHQxdG1xQjdHMHJheWxyZ3dIMC12c0JyYzhScUZOOUdEd25UV3JEZ2ZNMl90ODJ4cnF2c09XUVFISEN5X2x1X0twYklBZw?oc=5",
-  "https://tass.ru/mezhdunarodnaya-panorama/28273225",
-  "title:США призвали дипломатов и госслужащих покинуть Саудовскую Аравию из-за угроз безопасности",
-  "skip:https://tass.ru/politika/28273283",
   "skip:https://www.interfax.ru/world/1126216",
   "skip:https://www.rbc.ru/rbcfreenews/6ae4e91f2455cc4b83c18bbd",
   "skip:https://www.interfax.ru/russia/1126210",
@@ -998,5 +991,12 @@
   "skip:https://news.google.com/rss/articles/CBMimgFBVV95cUxObGFOYWFENFVtbThMMmQ4a0ZVS3gxMFI4QUNEY0pWcG1pUlZDb1g4d3ExN04tUUhieEl2T0JsNmZvYk44T3drelVEbERDX0pHNXYybTJJLWJmMWJ4N1VNcEZNUlFhc0ZZM05WQnFzYjZRbDl4eEx1aTRocTJBd1Z3SnFiUDhLT2xBbEFBX1VzNFBYSnZtNmVzdjR3?oc=5",
   "skip:https://tass.ru/politika/28283531",
   "https://ria.ru/20261103/zakharova-2129040179.html",
-  "title:МИД РФ назвал провокационными военные маневры США и Южной Кореи у границ КНДР"
+  "title:МИД РФ назвал провокационными военные маневры США и Южной Кореи у границ КНДР",
+  "skip:https://ria.ru/20261103/putin-2129044330.html",
+  "skip:https://tass.ru/politika/28283651",
+  "https://www.interfax.ru/russia/1126834",
+  "title:Владимир Путин внес на ратификацию в Госдуму соглашения с Зимбабве и Камбоджей о передаче осужденных лиц",
+  "skip:https://www.interfax.ru/business/1126826",
+  "https://www.kommersant.ru/doc/9080038",
+  "title:Минюст зарегистрировал приказ ФАС и Минэнерго о снижении норматива биржевых продаж авиакеросина до 5%"
 ]

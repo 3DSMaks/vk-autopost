@@ -1,12 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9078333",
-  "https://www.interfax.ru/world/1126338",
-  "title:Госсекретарь США Марко Рубио подвел итоги встречи глав МИД G20 в Атланте и высказался по ключевым международным темам",
-  "skip:https://news.google.com/rss/articles/CBMiygFBVV95cUxNLVJNVjgwa3JjQjJTZV9qaEtOR0hPeUVlUU5fVmg1NmpMcmtWR2QycWNERWphd21IckhyYnNQMllfLUtrSDhCV1p4cEV4RWhmYURFbW91dVJ0YzVUMUJPNFctZG5FX1ZSdS1KemxhbWdmRTRSX2R0TEZMbm5tdVVDSDNUbnBreFJrT0tlQXE1VzVmSllTdVZoVVpqOXV1WXh3ZGpaNmZqWmdlS010Zi1NcWxQai1WU2k0dE96SDVuUld0WkxhSm9VSlFR?oc=5",
-  "https://tass.ru/obschestvo/28274999",
-  "title:В Нигерии сообщили о выявлении двух случаев с подозрением на лихорадку Эбола",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28275167",
-  "skip:https://www.kommersant.ru/doc/9078341",
   "skip:https://www.interfax.ru/world/1126339",
   "skip:https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGZ3VDBMUUphN0oxbExCLXh4eUdKSG5tMTVXMUN6bDVuN0pWSkFVUTFYN2Z2Qm9jcTh3OVFmVWR1ZzZXMHVXUjV2LXdqUndkc2piSDlNTHRTTzRRYzc4V0VyVmUtbTNadFdjMDhHSHRvclBIdlRENUp1VnBRTXhiSjRNMy1xZFFrRWJRTktCWEVIazd1aTV6eXRQelVKQnk1TUpmTw?oc=5",
   "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france",
@@ -998,5 +990,13 @@
   "skip:https://ria.ru/20261104/tramp-2129243937.html",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28286823",
   "https://ria.ru/20261104/tramp-2129244934.html",
-  "title:Дональд Трамп связал поражение республиканцев на промежуточных выборах с войной против Ирана"
+  "title:Дональд Трамп связал поражение республиканцев на промежуточных выборах с войной против Ирана",
+  "skip:https://www.interfax.ru/russia/1127038",
+  "https://www.kommersant.ru/doc/9080471",
+  "title:Три человека погибли в результате удара беспилотника по микроавтобусу в Белгородской области",
+  "skip:https://www.kommersant.ru/doc/9080466",
+  "skip:https://www.rbc.ru/politics/04/11/2026/6aeb692757b0bd02570b2b56",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28286797",
+  "https://ria.ru/20261104/shvejtsarija-2129247667.html",
+  "title:Швейцария присоединилась к новому пакету санкций ЕС против России и сняла ограничения с ряда лиц"
 ]

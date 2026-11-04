@@ -1,12 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/games/call-of-duty/ive-tested-every-graphics-setting-in-call-of-duty-modern-warfare-4-tweak-these-four-options-for-the-best-performance/",
-  "skip:https://stopgame.ru/newsdata/73271/avtory_exodus_pomenyali_vneshnost_muzhskogo_protagonista_v_rezultate_kritiki",
-  "skip:https://www.igromania.ru/news/169478/v-exodus-duhovnom-naslednike-mass-effect-izmenili-muzhskuyu-versiyu-glavnogo-geroya-posle-kritiki/",
-  "https://www.playground.ru/gta_6/news/massovyj_nevyhod_na_rabotu_iz_za_reliza_gta_6_mozhet_obojtis_ekonomike_ssha_v_1_mlrd-1884126#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Массовый невыход на работу из-за релиза GTA 6 может обойтись экономике США в $1 млрд",
-  "skip:https://www.kinonews.ru/news_143795/",
-  "https://deadline.com/2026/10/prince-william-christopher-nolan-super-fan-batman-1237171554/",
-  "title:Prince William Says He’s A Christopher Nolan & ‘The Celebrity Traitors’ Super Fan",
   "https://www.ign.com/articles/cyberpunk-2077-update-secretly-added-witcher-sword-cosmetics",
   "title:Cyberpunk 2077 2.5 Update Secretly Added The Witcher 3 Sword and Cosmetics",
   "skip:https://www.kinonews.ru/news_143794/",
@@ -998,5 +990,13 @@
   "skip:https://www.ign.com/articles/ubisoft-among-suitors-trying-to-buy-marvels-blade-dishonored-studio-arkane-lyon-from-xbox",
   "skip:https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-still-a-long-way-off-bethesda-warns-itll-be-some-time-before-were-ready-to-share-more/",
   "https://www.playground.ru/gta_6/news/playstation_france_mogla_sluchajno_raskryt_uluchsheniya_gta_6_dlya_ps5_pro_upominayutsya_pssr_i_prodvinutyj_rejtrejsing-1887694#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:PlayStation France могла случайно раскрыть улучшения GTA 6 для PS5 Pro - упоминаются PSSR и продвинутый рейтрейсинг"
+  "title:PlayStation France могла случайно раскрыть улучшения GTA 6 для PS5 Pro - упоминаются PSSR и продвинутый рейтрейсинг",
+  "skip:https://www.playground.ru/misc/news/google_postavila_shkoly_ssha_pered_vyborom_prinyat_ii_ili_lishitsya_google_search_cherez_uchenicheskie_akkaunty-1887688#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.pcgamer.com/software/ai/google-criticized-by-nyc-mayor-zohran-mamdani-following-ai-policy-change-google-is-trying-to-use-its-monopoly-power-to-force-ai-into-our-public-schools/",
+  "skip:https://stopgame.ru/newsdata/73376/game_pass_v_noyabre_chast_1_warhammer_survivors_toxic_commando_void_breaker",
+  "skip:https://www.igromania.ru/news/169718/warhammer-survivors-toxic-commando-i-football-manager-2027-vojdut-v-xbox-game-pass-do-17-noyabrya/",
+  "skip:https://www.pcgamer.com/software/ai/just-deleted-a-couple-terabytes-of-ai-slop-itch-io-pushes-back-against-the-flood-of-ai-on-its-storefront/",
+  "skip:https://stopgame.ru/newsdata/73374/magazin_itchio_dobavil_filtr_dlya_skrytiya_igr_s_ii_kontentom",
+  "https://gamemag.ru/news/201958/blizzard-nameknula-na-konsolnuyu-versiyu-world-of-warcraftlegendarnaya-mmo-mojet-vyyti-na-xbox",
+  "title:Blizzard намекнула на консольную версию World of Warcraft — легендарная MMO может выйти на Xbox"
 ]

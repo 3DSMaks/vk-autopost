@@ -1,12 +1,4 @@
 [
-  "https://www.interfax.ru/world/1126293",
-  "title:Иран сообщил об атаке беспилотников на рыболовецкие суда в Персидском заливе",
-  "skip:https://www.kommersant.ru/doc/9078236",
-  "skip:https://www.interfax.ru/moscow/1126290",
-  "skip:https://ria.ru/20261031/pvo-2128310788.html",
-  "https://www.rbc.ru/rbcfreenews/6ae5bb3092b809aef4d94cea",
-  "title:Силы ПВО перехватили беспилотники, летевшие в сторону Москвы",
-  "skip:https://ria.ru/20261031/twz-2128309222.html",
   "https://www.kommersant.ru/doc/9078241",
   "title:У резиденции Дональда Трампа во Флориде развернули системы ПВО",
   "skip:https://ria.ru/20261031/merkel--2128311927.html",
@@ -998,5 +990,13 @@
   "skip:https://www.interfax.ru/russia/1126947",
   "skip:https://www.kommersant.ru/doc/9080207",
   "https://tass.ru/proisshestviya/28285353",
-  "title:Массированная атака украинских беспилотников на российские регионы, рекордное число сбитых дронов над Брянской областью"
+  "title:Массированная атака украинских беспилотников на российские регионы, рекордное число сбитых дронов над Брянской областью",
+  "skip:https://www.interfax.ru/russia/1126960",
+  "skip:https://tass.ru/armiya-i-opk/28285393",
+  "skip:https://tass.ru/armiya-i-opk/28285387",
+  "https://ria.ru/20261104/minoborony-2129151928.html",
+  "title:Россия и Казахстан подписали план двустороннего сотрудничества между министерствами обороны на 2027 год",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28285325",
+  "https://www.interfax.ru/world/1126961",
+  "title:Литва закупает финские минные системы и готовится к переходу на всеобщий призыв"
 ]

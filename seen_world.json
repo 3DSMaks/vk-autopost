@@ -1,13 +1,4 @@
 [
-  "skip:https://ria.ru/20261031/gaaga-2128353676.html",
-  "skip:https://ria.ru/20261031/demonstratsija-2128352444.html",
-  "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
-  "title:В странах Европы проходят массовые молодежные протесты и беспорядки",
-  "skip:https://tass.ru/obschestvo/28275103",
-  "skip:https://tass.ru/obschestvo/28275055",
-  "https://ria.ru/20261031/frantsija-2128366542.html",
-  "title:Во Франции сотни тысяч человек вышли на масштабные протесты против снижения уровня жизни и роста цен",
-  "skip:https://ria.ru/20261031/pvo-2128364562.html",
   "skip:https://www.rbc.ru/rbcfreenews/6ae6223376ddd207a528d811",
   "skip:https://tass.ru/armiya-i-opk/28275085",
   "https://www.interfax.ru/russia/1126336",
@@ -998,5 +989,14 @@
   "skip:https://www.kommersant.ru/doc/9080440",
   "skip:https://tass.ru/proisshestviya/28286609",
   "https://www.rbc.ru/rbcfreenews/6aeb5b9eba1d74490ffce792",
-  "title:Суд в Киеве арестовал медработницу по делу о тюрьме для мобилизованных"
+  "title:Суд в Киеве арестовал медработницу по делу о тюрьме для мобилизованных",
+  "skip:https://www.aljazeera.com/news/2026/11/4/presidential-hopeful-vance-appears-to-question-iran-war-after-polls-debacle?traffic_source=rss",
+  "skip:https://www.france24.com/en/video/20261104-us-midterms-iran-s-deputy-parliament-speaker-reacts-to-trump-s-elections-setback-1",
+  "skip:https://www.interfax.ru/world/1127030",
+  "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa013TjNzRzN3VjI3QVg1bEtHRjdHNjFyeVpZTURvOWw1M1cwX2dpZXhKUXVTVEZRUjJTS20tNjBHSUlSS3NnOU4zZENjTmRoTHZmN1lEZE9lS0dRU1ROWWxnaFlhRXNtZUkzTGlHVnZ6YmpfTERySXRfV3FzOEd0bmgzOW5oVlJqa1FONmI3NjVleWVZR2d6LTY1dlZqUURPMnU3ZkpDQQ?oc=5",
+  "title:Вице-президент США Джей Ди Вэнс назвал конфликт с Ираном причиной поражения республиканцев на промежуточных выборах",
+  "skip:https://ria.ru/20261104/putin-2129237209.html",
+  "skip:https://tass.ru/politika/28286741",
+  "https://www.interfax.ru/russia/1127036",
+  "title:Владимир Путин пригласил на чаепитие в Кремль детей участников СВО"
 ]

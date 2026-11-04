@@ -1,7 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169504/igroki-dead-by-daylight-bolshe-ne-smogut-kupit-horoshego-parnya-chaki-posle-24-noyabrya-skoro-skidki/",
-  "skip:https://www.igromania.ru/news/169502/eto-ne-myi-creative-assembly-obyasnila-kogo-stoit-vinit-za-total-war-shogun-2-complete-edition/",
-  "skip:https://www.igromania.ru/news/169500/pervyij-glavnyij-operatsionnyij-direktor-xbox-uhodit-iz-microsoft-ona-zanimala-dolzhnost-s-iyulya/",
   "skip:https://www.ign.com/articles/dead-by-daylight-to-remove-chucky-content-just-months-after-losing-michael-myers",
   "https://www.igromania.ru/news/169494/bethesda-i-obsidian-pozdravili-igrokov-s-dnyom-fallout-v-sleduyuschem-godu-prazdnovanie-projdyot-v-vashingtone/",
   "title:Bethesda и Obsidian поздравили игроков с Днём Fallout — в следующем году празднование пройдёт в Вашингтоне",
@@ -998,5 +995,8 @@
   "skip:https://stopgame.ru/newsdata/73381/dlya_guild_wars_anonsirovali_dopolnenie_afterlife_pervoe_za_pochti_20_let",
   "skip:https://www.pcgamer.com/games/the-elder-scrolls/bethesdas-associate-art-director-really-did-try-to-fit-7-000-actual-steps-into-skyrims-7-000-steps-i-take-no-responsibility-for-the-frost-troll/",
   "https://www.playground.ru/tomb_raider_1996/news/razrabotchiki_tomb_raider_legacy_of_atlantis_otmetili_100_dnej_do_vyhoda_novym_promo_artom-1887798#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Разработчики Tomb Raider: Legacy of Atlantis отметили 100 дней до выхода новым промо-артом"
+  "title:Разработчики Tomb Raider: Legacy of Atlantis отметили 100 дней до выхода новым промо-артом",
+  "skip:https://www.ign.com/articles/nvidia-shows-off-dlss-5-hogwarts-legacy-trailer",
+  "https://www.igromania.ru/news/169735/god-of-war-laufey-perenesli-na-20-maya/",
+  "title:God of War: Laufey перенесли на 20 мая"
 ]

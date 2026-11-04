@@ -1,15 +1,4 @@
 [
-  "title:Создатели последней экранизации \"Мастера и Маргариты\" снимут новый фильм по повести \"Собачье сердце\" Михаила Булгакова",
-  "skip:https://gamemag.ru/news/201800/kotaku-the-case-for-exclusivity-when-gears-of-war-e-day-cost-over-500-million-to-make",
-  "skip:https://www.playground.ru/gears_of_war_e_day/news/po_dannym_smi_byudzhet_razrabotki_gears_of_war_e_day_prevyshaet_500_mln_dollarov_bez_zatrat_na_marketing-1883887#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169464/razrabotka-gears-of-war-e-day-mogla-obojtis-v-500-mln-dollarov-bez-uchyota-marketinga/",
-  "skip:https://stopgame.ru/newsdata/73255/anonsirovana_serious_sam_the_third_encounter",
-  "https://www.playground.ru/marvels_wolverine/news/marvels_wolverine_vozglavila_sentyabrskij_chart_v_ssha_pokazav_luchshij_rezultat_so_vremyon_helldivers_2-1883871#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Marvel's Wolverine возглавила сентябрьский чарт в США, показав лучший результат со времён Helldivers 2",
-  "https://deadline.com/2026/10/carrie-renewed-season-2-prime-video-1237170430/",
-  "title:‘Carrie’ Renewed For Season 2 By Prime Video",
-  "skip:https://www.pcgamer.com/hardware/capcom-confirms-a-data-breach-has-affected-over-11-million-people-with-emails-ip-addresses-and-birthdays-caught-up-in-the-mix/",
-  "skip:https://www.playground.ru/metro_2033_the_last_refuge/news/dlya_metro_redux_vyshlo_besplatnoe_next_gen_obnovlenie_na_pk-1883902#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.playground.ru/sker_ritual/news/v_egs_startovala_razdacha_sker_ritual_vdohnovlyonnoj_rezhimom_zombi_iz_call_of_duty_i_pikselnogo_horrora_home-1883901#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169467/kooperativnyij-horror-shuter-sker-ritual-stali-besplatno-otdavat-v-epic-games-store/",
   "skip:https://gamemag.ru/news/201801/wolverine-was-uss-best-selling-game-in-september-with-ps5-sales-up-43",
@@ -998,5 +987,16 @@
   "skip:https://www.film.ru/news/milliard-bitvy-motorov",
   "skip:https://kg-portal.ru/comments/135643-gonochnyj-blokbaster-bitva-motorov-peresek-chertu-v1-mlrd-rublej-kassovyh-sborov/",
   "https://www.film.ru/news/onlayn-reliz-kleyfeysa",
-  "title:Онлайн-релиз Клэйфейса"
+  "title:Онлайн-релиз Клэйфейса",
+  "skip:https://gamemag.ru/news/201972/obed-ot-capcom-v-dragons-dogma-2-poyavilis-geroi-anime-podzemele-vkusnostey",
+  "skip:https://gamemag.ru/news/201971/yavlenie-temnogo-messii-ubisoft-planiruet-vykupit-studiyu-arkane-lyon",
+  "skip:https://www.igromania.ru/news/169721/ubisoft-mozhet-kupit-studiyu-arkane-zayavil-dzhejson-shrajer/",
+  "skip:https://www.igromania.ru/news/169720/dragons-dogma-2-poluchila-kollaboratsiyu-s-anime-podzemele-vkusnostej/",
+  "skip:https://www.pcgamer.com/software/ai/google-criticized-by-nyc-mayor-zohran-mamdani-following-ai-policy-change-google-is-trying-to-use-its-monopoly-power-to-force-ai-into-our-public-schools/",
+  "skip:https://www.pcgamer.com/gaming-industry/ubisoft-reportedly-wants-to-buy-arkane-from-xbox/",
+  "skip:https://stopgame.ru/newsdata/73377/shrayer_ubisoft_odin_iz_potencialnyh_pokupateley_arkane",
+  "skip:https://www.ign.com/articles/ubisoft-among-suitors-trying-to-buy-marvels-blade-dishonored-studio-arkane-lyon-from-xbox",
+  "skip:https://www.ign.com/articles/final-fantasy-switch-2-video-game-deals-november-2026",
+  "https://www.igromania.ru/news/169722/gejmplej-zhdyom-cherez-15-let-igroki-vstretili-trejler-the-elder-scrolls-vi-sentinel-skepsisom-i-shutkami/",
+  "title:«Геймплей ждём через 15 лет»: игроки встретили трейлер The Elder Scrolls VI: Sentinel скепсисом и шутками"
 ]

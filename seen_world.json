@@ -1,15 +1,4 @@
 [
-  "title:Силы ПВО перехватили новые беспилотники на подлете к Москве",
-  "skip:https://www.rbc.ru/politics/31/10/2026/6ae60517c06d23f7a6885f16",
-  "skip:https://www.interfax.ru/russia/1126317",
-  "skip:https://tass.ru/obschestvo/28274871",
-  "skip:https://ria.ru/20261031/fsb-2128348352.html",
-  "https://www.kommersant.ru/doc/9078320",
-  "title:ФСБ получила от США информацию о подготовке теракта в Москве",
-  "skip:https://ria.ru/20261031/germanija-2128348139.html",
-  "skip:https://ria.ru/20261031/berlin-2128347930.html",
-  "skip:https://ria.ru/20261031/germaniya-2128342844.html",
-  "https://www.kommersant.ru/doc/9078315",
   "title:В Германии начались масштабные молодежные протесты",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28274907",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28274867",
@@ -998,5 +987,16 @@
   "skip:https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe",
   "skip:https://ria.ru/20261104/krov-2129197270.html",
   "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeDBfdnUzSGUzellWZVNfdElQclhWWFFORHpKZGJZSnREN1RRNC1SaFdsRmFaTDN6WFJYMGdSc2pOOUFpTnF5cHNsVHVaQl9DOS1ycVphdWh6dnFnbGp6WGhDU2wycWw0SHpqV3VEYzQ3cDhzUDVtZFoxaFF1TVc0SzBGaGF1QmoxN2ZhNUdfYy14em90N2dyUm1zV0tZY0Zmd0xyLWdiUkExNVRtRFozaVhYQzhEcFo1UzRYWGdIYlplSEpocUxVMVNkR2k1cXB3MW5kM0pwM21zRy0x?oc=5",
-  "title:Хакерской атаке подверглись холодильные установки службы крови во Франции"
+  "title:Хакерской атаке подверглись холодильные установки службы крови во Франции",
+  "skip:https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news",
+  "skip:https://www.aljazeera.com/news/2026/11/4/how-big-is-the-republican-midterms-loss-and-is-there-a-silver-lining?traffic_source=rss",
+  "skip:https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
+  "skip:https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ0RKVlY1MlliV3dhVWp3b2FVOGNsTGEyYnZLb1ZENVpINVdLdDVFTnNsazZ5b3FsbmVocktWZUhacFZmRU83cEFLOTNnOVBKZXJ6RUFoTjFncjJsNHB4Z25QMHlVLTNPRnE5TE5KNU9NN2JQQ09rQmo2N1N4dHFGNUEySXhLUVFhZVlJU0ZUd0V6aXhKVy1OT3JIa3lwdUpDT184VXpQYkthTXg1VWc?oc=5",
+  "skip:https://www.france24.com/en/video/20261104-a-look-back-at-how-trump-s-political-decisions-saw-his-approval-rating-plummet",
+  "skip:https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1l2eFV1eVp6bE01NW40RDUtcmU2REdDOUZDRU5JSmdDN0MtNElwaUZXQ3VVUUVqV0tuSFZNb3RaeTBNd2JXanAyRlJ6UUU0S1pPMVdzYjV6OUpyRW1yc1hST1o4SFozN0JZYzU4dldLSXNkc05VeUwyV0E5TXotUC1lYXhEN2FtaTBXN3hOdHR2T1FaSE1Kc2ZHdnExcFZuWUpxVWwxQQ?oc=5",
+  "skip:https://news.google.com/rss/articles/CBMirgFBVV95cUxOVkVUcncxLUJqT2dDRWNjUTNjVUh5cmxVYmVRUUJQZkcydUhDcGNkMWdTT0lYTlBTemFEZHF5Zjc2VERfOTFyT0tIcEhFSFo5QzNvTXZlaTNmUDUxY2J4ZFhKeDN4dXlpZmtJMWJxRkVnYjFXNnJZdEM3WGRoUXg3RVlaUWN1dV9wZDE2WHp2ZGJ6MHZUbXlyZXJzT2JPZUZSZEtFMGRqMF95enlWZ2c?oc=5",
+  "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
+  "skip:https://tass.ru/proisshestviya/28286267",
+  "https://ria.ru/20261104/hakery-2129213265.html",
+  "title:Хакеры вывели более 118 миллионов евро из французского банка Crédit Mutuel"
 ]

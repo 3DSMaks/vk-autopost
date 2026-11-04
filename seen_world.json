@@ -1,8 +1,4 @@
 [
-  "skip:https://www.interfax.ru/moscow/1126312",
-  "skip:https://tass.ru/proisshestviya/28274823",
-  "skip:https://ria.ru/20261031/pvo-2128344736.html",
-  "https://www.kommersant.ru/doc/9078311",
   "title:Силы ПВО перехватили новые беспилотники на подлете к Москве",
   "skip:https://www.rbc.ru/politics/31/10/2026/6ae60517c06d23f7a6885f16",
   "skip:https://www.interfax.ru/russia/1126317",
@@ -998,5 +994,9 @@
   "skip:https://www.rbc.ru/sport/04/11/2026/6aeb25f67d37fe181e8f9470",
   "skip:https://news.google.com/rss/articles/CBMimAFBVV95cUxPZDRnb1c0Z2JnaXhxRGMxNTBzX3B0TWFKSDhaWUdhR1VyZUJBcE1qekQ0QnVKNlBwMU9jMWxzVXBEdVlrQmJ3TUstS2FWak1CY1R5RmIxb2lHaEZmZ2wybHpmS0pMYUpxRnNwaXpMZzhudDJnWHhOYjBPSVRNd1FXZEtLQ0NMbzZYZ2MyeWFJdHQ1Tl9MdVJDSw?oc=5",
   "https://www.aljazeera.com/sports/2026/11/4/tennis-great-rafael-nadal-set-to-join-real-madrid-board?traffic_source=rss",
-  "title:Рафаэль Надаль войдет в совет директоров мадридского «Реала»"
+  "title:Рафаэль Надаль войдет в совет директоров мадридского «Реала»",
+  "skip:https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe",
+  "skip:https://ria.ru/20261104/krov-2129197270.html",
+  "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeDBfdnUzSGUzellWZVNfdElQclhWWFFORHpKZGJZSnREN1RRNC1SaFdsRmFaTDN6WFJYMGdSc2pOOUFpTnF5cHNsVHVaQl9DOS1ycVphdWh6dnFnbGp6WGhDU2wycWw0SHpqV3VEYzQ3cDhzUDVtZFoxaFF1TVc0SzBGaGF1QmoxN2ZhNUdfYy14em90N2dyUm1zV0tZY0Zmd0xyLWdiUkExNVRtRFozaVhYQzhEcFo1UzRYWGdIYlplSEpocUxVMVNkR2k1cXB3MW5kM0pwM21zRy0x?oc=5",
+  "title:Хакерской атаке подверглись холодильные установки службы крови во Франции"
 ]

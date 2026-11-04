@@ -1,10 +1,4 @@
 [
-  "https://www.film.ru/news/nekrolog-toma-skerritta",
-  "title:Некролог Тома Скерритта",
-  "skip:https://www.playground.ru/misc/news/amazon_obyavila_datu_premery_realiti_shou_fallout_shelter_the_experiment_uchastniki_poboryutsya_za_krupnyj_denezhnyj_priz-1884210#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169493/realiti-shou-fallout-shelter-the-experiment-startuet-13-yanvarya-2027-goda/",
-  "https://stopgame.ru/newsdata/73274/prodazhi_remeyka_romancing_saga_2_prevysili_otmetku_v_million_kopiy",
-  "title:Продажи ремейка Romancing SaGa 2 превысили отметку в миллион копий",
   "https://variety.com/2026/film/news/box-office-clayface-previews-1236919973/",
   "title:Box Office: ‘Clayface’ Makes $3.5 Million in Previews",
   "skip:https://www.playground.ru/marvels_blade/news/udivlyus_esli_studiyu_zakroyut_dzhejson_shrajer_schitaet_chto_arkane_lyon_najdyot_pokupatelej-1884242#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +992,11 @@
   "skip:https://www.kinonews.ru/news_143976/",
   "skip:https://www.film.ru/news/onlayn-reliz-kleyfeysa",
   "https://deadline.com/2026/11/jean-claude-van-damme-returning-martial-arts-roots-katana-1237212968/",
-  "title:Jean-Claude Van Damme Returning To Martial Arts Roots In Yakuza Action Pic ‘Katana’ For Jeremy Zag & The Veterans — AFM"
+  "title:Jean-Claude Van Damme Returning To Martial Arts Roots In Yakuza Action Pic ‘Katana’ For Jeremy Zag & The Veterans — AFM",
+  "skip:https://deadline.com/2026/11/harry-potter-oxford-street-store-opening-trans-protest-1237212999/",
+  "skip:https://www.film.ru/news/saundtrek-kliffa-buta",
+  "skip:https://variety.com/2026/film/global/harry-potter-store-opening-trans-rights-protesters-london-1236939173/",
+  "skip:https://kg-portal.ru/comments/135650-pol-u-s-anderson-vozvraschaetsja-k-lavkraftianskomu-kosmicheskomu-uzhasu-s-dvumja-ekranizacijami-bestsellerov/",
+  "https://variety.com/2026/film/markets-festivals/jessica-rothe-sxsw-sci-fi-thriller-imposters-us-distribution-1236938971/",
+  "title:Jessica Rothe SXSW Sci-Fi Thriller ‘Imposters’ Sells to Brainstorm Media for U.S., Racks Up International Deals Ahead of AFM (EXCLUSIVE)"
 ]

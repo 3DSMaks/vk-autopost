@@ -1,9 +1,4 @@
 [
-  "skip:https://www.film.ru/news/dva-finalnyh-kandidata-na-rol-dzheymsa-bonda",
-  "https://www.film.ru/news/maykla-ne-dopustili-k-zolotomu-globusu",
-  "title:«Майкла» не допустили к «Золотому глобусу»",
-  "skip:https://www.playground.ru/misc/news/amazon_prodlila_serial_kerri_majka_flenagana_na_vtoroj_sezon_posle_uspeshnogo_starta_na_prime_video-1884027#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169477/ne-ochen-strannyie-dela-serial-kerri-po-stivenu-kingu-ofitsialno-prodlili-na-vtoroj-sezon/",
   "skip:https://www.igromania.ru/news/169476/otlichnaya-rabota-sotrudnik-valve-publichno-upomyanul-hlx-ili-neofitsialnuyu-half-life-3/",
   "skip:https://gamemag.ru/news/201811/hlx-audio",
   "skip:https://www.pcgamer.com/games/fps/half-life-3-re-re-re-confirmed-a-valve-dev-just-said-hlx-out-loud/",
@@ -998,5 +993,10 @@
   "skip:https://www.igromania.ru/news/169728/silent-hill-townfall-the-blood-of-dawnwalker-marvels-wolverine-i-drugie-vyigodnyie-predlozheniya-na-rasprodazhe-v-ps-store/",
   "https://gamemag.ru/news/201958/blizzard-nameknula-na-konsolnuyu-versiyu-world-of-warcraftlegendarnaya-mmo-mojet-vyyti-na-xbox",
   "video:2026-11-04:https://gamemag.ru/news/201958/blizzard-nameknula-na-konsolnuyu-versiyu-world-of-warcraftlegendarnaya-mmo-mojet-vyyti-na-xbox",
-  "title:Blizzard намекнула на консольную версию World of Warcraft — легендарная MMO может выйти на Xbox"
+  "title:Blizzard намекнула на консольную версию World of Warcraft — легендарная MMO может выйти на Xbox",
+  "skip:https://www.ign.com/articles/the-elder-scrolls-6-sentinel-timeline",
+  "skip:https://www.igromania.ru/news/169718/warhammer-survivors-toxic-commando-i-football-manager-2027-vojdut-v-xbox-game-pass-do-17-noyabrya/",
+  "https://gamemag.ru/news/201959/predzagruzka-grand-theft-auto-vi-nachnetsya-10-noyabrya",
+  "video:2026-11-04:https://gamemag.ru/news/201959/predzagruzka-grand-theft-auto-vi-nachnetsya-10-noyabrya",
+  "title:Освобождайте место: Предзагрузка Grand Theft Auto VI начнётся 10 ноября"
 ]

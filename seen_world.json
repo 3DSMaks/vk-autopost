@@ -1,9 +1,4 @@
 [
-  "title:В Германии начались масштабные молодежные протесты",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28274907",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28274867",
-  "skip:https://www.interfax.ru/world/1126316",
-  "skip:https://www.kommersant.ru/doc/9078308",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28274805",
   "skip:https://ria.ru/20261031/tusk-2128344888.html",
   "https://ria.ru/20261031/polsha-2128353425.html",
@@ -998,5 +993,10 @@
   "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
   "skip:https://tass.ru/proisshestviya/28286267",
   "https://ria.ru/20261104/hakery-2129213265.html",
-  "title:Хакеры вывели более 118 миллионов евро из французского банка Crédit Mutuel"
+  "title:Хакеры вывели более 118 миллионов евро из французского банка Crédit Mutuel",
+  "skip:https://news.google.com/rss/articles/CBMisAFBVV95cUxQemZtNHA3MndVd0YwZEZjYVZSdXA5NVpnXzhpUnY5Mkp5U2lBTnBtNEV6dVB0LUJZVXBDV2lUNnNHbTczNWFVVEtXUVhFdlUxdm5sOWl6U0JFMjhGXzgzQ19GNXdrNUVJMlB4czlkenlNOUctMGllMmFLRTJrVXl0T1hoQ1ZUcmI4N0xxU18wTEhuQUNHYm5mNFhNc0pVRjJqY0s0clotUW42czd0TTRCNw?oc=5",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-loses-control-of-congress?traffic_source=rss",
+  "skip:https://www.interfax.ru/world/1127018",
+  "https://tass.ru/mezhdunarodnaya-panorama/28286451",
+  "title:КСИР заявил об уничтожении американского беспилотника над островом Кешм"
 ]

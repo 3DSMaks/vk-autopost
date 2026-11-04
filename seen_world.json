@@ -1,15 +1,4 @@
 [
-  "skip:https://tass.ru/obschestvo/28274665",
-  "https://ria.ru/20261031/germaniya-2128340875.html",
-  "title:В Германии прошли молодежные протесты с призывами к отставке Мерца",
-  "skip:https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUnNxSkYwMC1uai12TzE0WWtCOGJrNnhLczhzTmQzaGR3VnRlNUpSM3lZY2lKQjNKV1o2RjFnNWVHRG9CeUFYYnhwRTBkTDRONXl6cG45c21xMGpZaHpWYVRlY1VpNnV2azljOEFiSFBQeml5NEJDVHRHWXBnQW03N3JHMVlIN2llRFpZaFZGMERzMkY0QnhZVDlqNktycjc4SC1HYmp6TE5pZw?oc=5",
-  "skip:https://news.google.com/rss/articles/CBMirgFBVV95cUxOYzNpRnIwTkhmZ3ZERUZnczJZSGVXRjZQN3hQUHF3ZExsV3RRU2tVS1lLTW9YS0JsREdlNFRxdlVQZUJUd2FMd0UwR1FvUlllMkZKYWlfWGVDdE91Z1dDUElZY0k2X2F3OFZ3OTd3NGZsUVk5X2x4eU1EN3ZGbV9yZnhXc3RPaDNqOFdBbDFjbGdKM0RRVmJFbzVtRkw2d3Z4T3BXZWk0aHhRS3BUX0E?oc=5",
-  "https://www.kommersant.ru/doc/9078289",
-  "title:Минторг США выдал Boeing лицензию на сотрудничество с Белавиа",
-  "skip:https://ria.ru/20261031/plan-2128339441.html",
-  "https://www.kommersant.ru/doc/9078296",
-  "title:Иран заявил о готовности сократить до двух дней план по открытию Ормузского пролива",
-  "skip:https://ria.ru/20261031/tramp-2128341745.html",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28274765",
   "skip:https://ria.ru/20261031/ibragimov-2128343906.html",
   "https://www.rbc.ru/politics/31/10/2026/6ae5f3fd92b809aef4d94d10",
@@ -998,5 +987,16 @@
   "skip:https://ria.ru/20261104/putin-2129170983.html",
   "skip:https://www.interfax.ru/russia/1126979",
   "https://www.rbc.ru/rbcfreenews/6aeb1cdd4cdb49e8245a08ff",
-  "title:Владимир Путин возложил цветы к памятнику Минину и Пожарскому в День народного единства"
+  "title:Владимир Путин возложил цветы к памятнику Минину и Пожарскому в День народного единства",
+  "skip:https://www.rbc.ru/politics/04/11/2026/6aeb19f191cd0cddcd04064f",
+  "skip:https://www.interfax.ru/russia/1126987",
+  "skip:https://ria.ru/20261104/tramp-2129177352.html",
+  "https://www.kommersant.ru/doc/9080312",
+  "title:В Кремле выразили надежду на продолжение миротворческих усилий Трампа после выборов в Конгресс США",
+  "skip:https://ria.ru/20261104/aeroport-2129181687.html",
+  "skip:https://tass.ru/ekonomika/28285871",
+  "skip:https://www.interfax.ru/russia/1126984",
+  "skip:https://ria.ru/20261104/ekaterinburg-2129176367.html",
+  "https://www.interfax.ru/russia/1126990",
+  "title:В аэропорту Екатеринбурга вводились и были сняты временные ограничения на прием и выпуск рейсов"
 ]

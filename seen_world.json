@@ -1,11 +1,4 @@
 [
-  "title:Суд в США окончательно отклонил иск Дональда Трампа о клевете к The Wall Street Journal",
-  "skip:https://tass.ru/ekonomika/28275421",
-  "skip:https://www.kommersant.ru/doc/9078355",
-  "skip:https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0F3bEEtREZiMG5WVnJMQlVHUDdaaHJQTno1VUJJRENOT2MySEZDcmpCYm41YnpkMS1Ub1l1ZThqSUJSa214ay1Gb3E3NFFNNWRZZDJtVjZSWU91M1NFVkRWZjJPdG9nN2ZCTm12RnhFVWFTTkhpMnBnRU5XZDhmRTRYNFZ0V1lKSkc3N1htMnRLbHhFWlo0?oc=5",
-  "skip:https://www.rbc.ru/technology_and_media/01/11/2026/6ae660ea05248f5986c38e73",
-  "https://ria.ru/20261101/fbr-2128389299.html",
-  "title:ФБР обвинило хакеров из КНДР в краже более 6 млрд долларов с биржи Binance",
   "skip:https://www.kommersant.ru/doc/9078361",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28275523",
   "skip:https://ria.ru/20261101/tramp-2128396746.html",
@@ -998,5 +991,12 @@
   "skip:https://www.interfax.ru/russia/1127047",
   "skip:https://tass.ru/proisshestviya/28286947",
   "https://www.kommersant.ru/doc/9080485",
-  "title:В Брянской области четыре человека пострадали при атаке беспилотников"
+  "title:В Брянской области четыре человека пострадали при атаке беспилотников",
+  "skip:https://ria.ru/20261104/ministr-2129256085.html",
+  "skip:https://tass.ru/proisshestviya/28286971",
+  "https://www.rbc.ru/rbcfreenews/6aeb9983ba8cf69562bd3e79",
+  "title:Министр экономики Баварии Хуберт Айвангер найден мертвым в отеле в Берлине",
+  "skip:https://www.interfax.ru/world/1127048",
+  "https://www.kommersant.ru/doc/9080488",
+  "title:США дистанционно участвовали в переговорах о послевоенном восстановлении Украины"
 ]

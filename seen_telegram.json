@@ -1,7 +1,4 @@
 [
-  "https://stopgame.ru/newsdata/73270/v_assassins_creed_black_flag_resynced_dobavyat_novuyu_igru_na_sleduyuschey_nedele",
-  "title:В Assassin's Creed: Black Flag Resynced добавят «Новую игру+» на следующей неделе",
-  "skip:https://deadline.com/2026/10/ryu-murakami-obit-almost-transparent-blue-74-1237171560/",
   "skip:https://www.film.ru/news/nekrolog-ryu-murakami",
   "https://kg-portal.ru/comments/135511-neuzhto-srabotalo-disishnyj-uzhastik-klejfejs-nravitsja-zriteljam-ineploho-zarabatyvaet-pomerkam-zhanra/",
   "title:Неужто сработало? Дисишный ужастик \"Клэйфейс\" нравится зрителям и неплохо зарабатывает по меркам жанра",
@@ -998,5 +995,8 @@
   "skip:https://kg-portal.ru/comments/135656-zhanklod-van-damm-sygraet-v-boevike-s-moschju-krovavogo-sporta-naprjazheniem-zalozhnicy-i-energiej-dzhona-uika/",
   "skip:https://variety.com/2026/film/global/harry-potter-store-opening-trans-rights-protesters-london-1236939173/",
   "https://deadline.com/2026/11/toni-collette-lenni-norwegian-dramedy-pernille-apple-1237212642/",
-  "title:Toni Collette To Star In TV Adaptation Of Norwegian Dramedy ‘Pernille’ For Apple"
+  "title:Toni Collette To Star In TV Adaptation Of Norwegian Dramedy ‘Pernille’ For Apple",
+  "skip:https://kg-portal.ru/comments/135657-djuna-3-dva-s-polovinoj-chasa-nasilija-rugani-i-intima/",
+  "https://variety.com/2026/film/global/daisy-ridley-sosie-bacon-simon-rex-get-rid-of-it-1236939126/",
+  "title:Daisy Ridley, Sosie Bacon and Simon Rex to Star in Road Trip Horror ‘Get Rid of It’ From ‘Whiplash’ and ‘Drive’ Producer"
 ]

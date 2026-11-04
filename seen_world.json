@@ -1,11 +1,4 @@
 [
-  "skip:https://ria.ru/20261031/pvo-2128326879.html",
-  "skip:https://tass.ru/proisshestviya/28274531",
-  "https://www.kommersant.ru/doc/9078267",
-  "title:Силы ПВО перехватили новые беспилотники, летевшие в сторону Москвы",
-  "skip:https://www.kommersant.ru/doc/9078256",
-  "skip:https://ria.ru/20261031/dizel-2128323125.html",
-  "skip:https://www.interfax.ru/business/1126298",
   "skip:https://tass.ru/ekonomika/28274485",
   "https://www.rbc.ru/rbcfreenews/6ae5cd2787a8dbd418dd4fee",
   "title:Правительство РФ продлило запрет на экспорт дизельного топлива до конца января 2027 года",
@@ -998,5 +991,12 @@
   "title:Демократическая партия США одержала победу на промежуточных выборах в Конгресс",
   "skip:https://ria.ru/20261104/kompjuter-2129153323.html",
   "https://www.kommersant.ru/doc/9080259",
-  "title:В Армении прошли обыски у лидеров партии «Сильная Армения»"
+  "title:В Армении прошли обыски у лидеров партии «Сильная Армения»",
+  "skip:https://news.google.com/rss/articles/CBMijwFBVV95cUxNSnlWVjhZeXhCME9sTHdmcC1RWTdrNUVIbUhhbE1td2t3Z2VDbzh1SW1kSmJJdWU5aVRSeW8tQ3hweVJwTDdVMGR0XzdtM0UtSGhkRnY1NWN6ZUkxR05xb2NadnJuNjEza3d4cDNOcTRnWXJBT2MzYnJjY2hkbjdHUmxoWjVsWGE0UE5NOUx0QQ?oc=5",
+  "https://tass.ru/ekonomika/28285647",
+  "title:Инфляция в еврозоне в октябре достигла трехлетнего максимума в 4%",
+  "skip:https://www.rbc.ru/sport/04/11/2026/6aeafdae69e9b8afc0ec6620",
+  "skip:https://ria.ru/20261104/khokkey-2129160120.html",
+  "https://www.sport-interfax.ru/1126973",
+  "title:В Международной федерации хоккея заявили о трудностях из-за допуска сборной России"
 ]

@@ -1,6 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169476/otlichnaya-rabota-sotrudnik-valve-publichno-upomyanul-hlx-ili-neofitsialnuyu-half-life-3/",
-  "skip:https://gamemag.ru/news/201811/hlx-audio",
   "skip:https://www.pcgamer.com/games/fps/half-life-3-re-re-re-confirmed-a-valve-dev-just-said-hlx-out-loud/",
   "skip:https://www.ign.com/articles/valve-developer-mistakenly-mentions-rumored-half-life-3-codename",
   "https://www.igromania.ru/news/169481/call-of-duty-modern-warfare-4-vyishla-vo-vsyom-mire-i-prodolzhaet-sobirat-hvalebnyie-otzyivyi-igrokov/",
@@ -998,5 +996,7 @@
   "skip:https://www.igromania.ru/news/169718/warhammer-survivors-toxic-commando-i-football-manager-2027-vojdut-v-xbox-game-pass-do-17-noyabrya/",
   "https://gamemag.ru/news/201959/predzagruzka-grand-theft-auto-vi-nachnetsya-10-noyabrya",
   "video:2026-11-04:https://gamemag.ru/news/201959/predzagruzka-grand-theft-auto-vi-nachnetsya-10-noyabrya",
-  "title:Освобождайте место: Предзагрузка Grand Theft Auto VI начнётся 10 ноября"
+  "title:Освобождайте место: Предзагрузка Grand Theft Auto VI начнётся 10 ноября",
+  "https://stopgame.ru/newsdata/73379/pressa_s_vostorgom_vstretila_remeyk_the_legend_of_zelda_ocarina_of_time",
+  "title:Пресса с восторгом встретила ремейк The Legend of Zelda: Ocarina of Time"
 ]

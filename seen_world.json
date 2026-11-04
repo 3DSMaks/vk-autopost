@@ -1,12 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28275155",
-  "https://ria.ru/20261031/iran-2128379122.html",
-  "title:В Иране прокомментировали возможную реакцию на действия США",
-  "skip:https://www.aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france?traffic_source=rss",
-  "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-  "title:В Париже и других городах Франции прошли массовые протесты против роста цен",
-  "skip:https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDh2Tk1SWVpMWE1Mc1NmZ2JHUlFDOEFqVjg4T29yc1BLNXBibGFRSWNDUEhadDZiaEhiZXg4UFlfNV8tRVM3UVdfTkdzRzZVR2dmN2JwWjlIc3BHeVU0eVlJR0h1UThmaXhVWS1GcHZqb0c1NGR0VWoxU3k0Q3dLYU1hQVExZVJJd2FxZHpWOXc0NDRJWlZvUDk2Rm5GRUh1bXFITDBUZGFVWjY4T3VTWGh2NlFKaVBKLWc?oc=5",
-  "https://tass.ru/mezhdunarodnaya-panorama/28275275",
   "title:Суд в США окончательно отклонил иск Дональда Трампа о клевете к The Wall Street Journal",
   "skip:https://tass.ru/ekonomika/28275421",
   "skip:https://www.kommersant.ru/doc/9078355",
@@ -998,5 +990,13 @@
   "skip:https://www.interfax.ru/russia/1127043",
   "skip:https://tass.ru/proisshestviya/28286865",
   "https://ria.ru/20261104/ataka-2129246929.html",
-  "title:Мирный житель получил ранения при атаке украинского беспилотника в Курской области"
+  "title:Мирный житель получил ранения при атаке украинского беспилотника в Курской области",
+  "skip:https://ria.ru/20261104/blumstedt-2129254195.html",
+  "skip:https://www.rbc.ru/rbcfreenews/6aeb8596ed1e4669282b9ec0",
+  "https://tass.ru/kultura/28286965",
+  "title:Умер шведский дирижер Герберт Блумстедт",
+  "skip:https://www.interfax.ru/russia/1127047",
+  "skip:https://tass.ru/proisshestviya/28286947",
+  "https://www.kommersant.ru/doc/9080485",
+  "title:В Брянской области четыре человека пострадали при атаке беспилотников"
 ]

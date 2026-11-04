@@ -1,7 +1,4 @@
 [
-  "title:Зоя Бербер развелась",
-  "https://www.film.ru/news/dakota-dzhonson-zakrutila-roman",
-  "title:Дакота Джонсон закрутила роман",
   "skip:https://www.film.ru/news/svezhiy-tizer-doktora-duma",
   "https://variety.com/2026/film/global/el-gouna-film-festival-2026-five-takeaways-cinegouna-1236930192/",
   "title:El Gouna Takeaways: ‘Safe Exit’ Wins Top Prize, Arab TV Seeks New Talent and Egyptian Filmmakers Push Boundaries",
@@ -998,5 +995,8 @@
   "title:Jean-Claude Van Damme Returning To Martial Arts Roots In Yakuza Action Pic ‘Katana’ For Jeremy Zag & The Veterans — AFM",
   "skip:https://deadline.com/2026/11/harry-potter-oxford-street-store-opening-trans-protest-1237212999/",
   "https://www.film.ru/news/treyler-kak-perezhit-brak",
-  "title:Трейлер Как пережить брак"
+  "title:Трейлер Как пережить брак",
+  "skip:https://variety.com/2026/film/global/harry-potter-store-opening-trans-rights-protesters-london-1236939173/",
+  "https://deadline.com/2026/11/itv-gone-season-2-keeley-hawes-eve-myles-george-kay-1237212082/",
+  "title:‘The Assassin’ Star Keeley Hawes Joins Season 2 Of George Kay’s ITV Thriller ‘Gone’"
 ]

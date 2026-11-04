@@ -1,10 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9078241",
-  "title:У резиденции Дональда Трампа во Флориде развернули системы ПВО",
-  "skip:https://ria.ru/20261031/merkel--2128311927.html",
-  "skip:https://www.kommersant.ru/doc/9078234",
-  "https://tass.ru/mezhdunarodnaya-panorama/28274417",
-  "title:Ангела Меркель предложила избрать женщину следующим президентом Германии",
   "skip:https://www.kommersant.ru/doc/9078253",
   "skip:https://www.interfax.ru/russia/1126294",
   "skip:https://tass.ru/obschestvo/28274427",
@@ -998,5 +992,11 @@
   "title:Россия и Казахстан подписали план двустороннего сотрудничества между министерствами обороны на 2027 год",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28285325",
   "https://www.interfax.ru/world/1126961",
-  "title:Литва закупает финские минные системы и готовится к переходу на всеобщий призыв"
+  "title:Литва закупает финские минные системы и готовится к переходу на всеобщий призыв",
+  "skip:https://www.france24.com/en/middle-east/20261104-four-oil-tankers-destroyed-in-hormuz-after-hitting-mines-tehran-says",
+  "https://www.kommersant.ru/doc/9080253",
+  "title:КСИР заявил о подрыве четырех танкеров в Ормузском проливе",
+  "skip:https://www.rbc.ru/sport/04/11/2026/6aeaf0c26b418975db44307d",
+  "https://www.kommersant.ru/doc/9080260",
+  "title:Skoda пригрозила отказаться от спонсирования чемпионата мира по хоккею в случае допуска сборной России"
 ]

@@ -1,7 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143797/",
-  "https://www.film.ru/news/obyavlen-novyy-chuzhoy",
-  "title:Объявлен новый Чужой",
   "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/pervye_otsenki_modern_warfare_4_kritiki_hvalyat_mrachnuyu_kampaniyu_i_obnovlennyj_rezhim_dmz-1884330#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.playground.ru/misc/news/elajdzha_vud_i_orlando_blum_sygrayut_v_tretem_sezone_dzhentlmenov_gaya_richi-1884319#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://gamemag.ru/news/201822/mw-4-scores-big",
@@ -998,5 +995,8 @@
   "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-review-remake",
   "skip:https://www.ign.com/articles/the-elder-scrolls-6-sentinel-timeline",
   "https://www.igromania.ru/news/169732/sozdateli-the-elder-scrolls-5-skyrim-dejstvitelno-pyitalis-rastyanut-put-k-vyisokomu-hrotgaru-na-7000-shagov/",
-  "title:Создатели The Elder Scrolls 5: Skyrim действительно пытались растянуть путь к Высокому Хротгару на 7000 шагов"
+  "title:Создатели The Elder Scrolls 5: Skyrim действительно пытались растянуть путь к Высокому Хротгару на 7000 шагов",
+  "skip:https://deadline.com/2026/11/london-film-festival-la-bola-negra-audience-award-2026-1237212998/",
+  "https://deadline.com/2026/11/trinity-release-date-netflix-photos-trailer-1237212652/",
+  "title:‘Trinity’ Sets Release Date At Netflix; First Look & Trailer"
 ]

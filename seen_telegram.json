@@ -1,8 +1,4 @@
 [
-  "https://www.film.ru/news/kto-napishet-novyy-shpionskiy-serial-dlya-marvel",
-  "title:Кто напишет новый шпионский сериал для Marvel",
-  "skip:https://stopgame.ru/newsdata/73269/obschaya_auditoriya_warhammer_40_000_space_marine_ii_vyrosla_do_15_mln_chelovek",
-  "skip:https://gamemag.ru/news/201808/warhammer-40-000-space-marine-2-15-million",
   "https://www.playground.ru/romancing_saga_2_revenge_of_the_seven/news/romancing_saga_2_revenge_of_the_seven_dostigla_milliona_prodazh_seriya_saga_vozvraschaetsya_k_uspehu_spustya_27_let-1884049#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Romancing SaGa 2: Revenge of the Seven достигла миллиона продаж - серия SaGa возвращается к успеху спустя 27 лет",
   "skip:https://www.film.ru/news/dzhosh-okonnor-pretenduet-na-bonda",
@@ -998,5 +994,9 @@
   "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-how-long-to-beat",
   "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-review-remake",
   "https://www.igromania.ru/news/169732/sozdateli-the-elder-scrolls-5-skyrim-dejstvitelno-pyitalis-rastyanut-put-k-vyisokomu-hrotgaru-na-7000-shagov/",
-  "title:Создатели The Elder Scrolls 5: Skyrim действительно пытались растянуть путь к Высокому Хротгару на 7000 шагов"
+  "title:Создатели The Elder Scrolls 5: Skyrim действительно пытались растянуть путь к Высокому Хротгару на 7000 шагов",
+  "skip:https://variety.com/2026/film/global/tinto-brass-dead-caligula-salon-kitty-1236939212/",
+  "skip:https://deadline.com/2026/11/tinto-brass-dead-italian-caligula-director-93-1237213071/",
+  "https://variety.com/2026/film/global/bill-nighy-hayley-atwell-maisie-williams-the-last-dino-1236939109/",
+  "title:Bill Nighy, Hayley Atwell and Maisie Williams Lead Voice Cast of Animated Feature ‘The Last Dino’ (EXCLUSIVE)"
 ]

@@ -1,9 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/201814/dispatch-one-year-anniversary",
-  "skip:https://stopgame.ru/newsdata/73272/godovschina_dispatch_obnovlenie_deluxe_izdaniya_i_anons_mobilnyh_versiy",
-  "https://gamemag.ru/news/201815/borderlands-4-update-notes",
-  "title:Borderlands 4 лишилась защиты Denuvo",
-  "skip:https://variety.com/lists/next-james-bond-henry-cavill-james-norton-rege-jean-page/",
   "https://www.film.ru/news/nekrolog-toma-skerritta",
   "title:Некролог Тома Скерритта",
   "skip:https://www.playground.ru/misc/news/amazon_obyavila_datu_premery_realiti_shou_fallout_shelter_the_experiment_uchastniki_poboryutsya_za_krupnyj_denezhnyj_priz-1884210#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +993,10 @@
   "skip:https://stopgame.ru/newsdata/73378/darkest_dungeon_ii_poluchit_dopolnenie_the_butcher_s_asylum_v_2027_m",
   "skip:https://www.igromania.ru/news/169724/darkest-dungeon-2-poluchit-dopolnenie-butchers-asylum-v-2027-godu/",
   "https://www.igromania.ru/news/169727/gta-6-na-predzakazah-zarabotala-svyishe-750-mln-dollarov-zayavili-analitiki/",
-  "title:​GTA 6 на предзаказах заработала свыше 750 млн долларов, заявили аналитики"
+  "title:​GTA 6 на предзаказах заработала свыше 750 млн долларов, заявили аналитики",
+  "skip:https://variety.com/2026/film/news/quentin-tarantino-letting-down-brad-pitt-cliff-booth-sequel-1236939103/",
+  "skip:https://www.kinonews.ru/news_143976/",
+  "skip:https://www.film.ru/news/onlayn-reliz-kleyfeysa",
+  "https://deadline.com/2026/11/jean-claude-van-damme-returning-martial-arts-roots-katana-1237212968/",
+  "title:Jean-Claude Van Damme Returning To Martial Arts Roots In Yakuza Action Pic ‘Katana’ For Jeremy Zag & The Veterans — AFM"
 ]

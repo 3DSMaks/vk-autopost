@@ -1,11 +1,4 @@
 [
-  "skip:https://www.rbc.ru/rbcfreenews/6ae6223376ddd207a528d811",
-  "skip:https://tass.ru/armiya-i-opk/28275085",
-  "https://www.interfax.ru/russia/1126336",
-  "title:Минобороны РФ сообщило о перехвате 60 украинских беспилотников над российскими регионами за день",
-  "skip:https://ria.ru/20261031/tramp-2128368646.html",
-  "skip:https://www.rbc.ru/politics/31/10/2026/6ae626cfb0df3e58a4593826",
-  "skip:https://www.interfax.ru/world/1126337",
   "skip:https://www.rbc.ru/politics/31/10/2026/6ae61d05953c6c91ec6145f3",
   "skip:https://www.kommersant.ru/doc/9078334",
   "skip:https://ria.ru/20261031/rubio-2128362530.html",
@@ -998,5 +991,12 @@
   "skip:https://ria.ru/20261104/putin-2129237209.html",
   "skip:https://tass.ru/politika/28286741",
   "https://www.interfax.ru/russia/1127036",
-  "title:Владимир Путин пригласил на чаепитие в Кремль детей участников СВО"
+  "title:Владимир Путин пригласил на чаепитие в Кремль детей участников СВО",
+  "skip:https://www.interfax.ru/world/1127037",
+  "skip:https://www.rbc.ru/politics/04/11/2026/6aeb67ab57b0bd02570b2b51",
+  "https://tass.ru/mezhdunarodnaya-panorama/28286785",
+  "title:Дональд Трамп обсуждает с советниками возможную отставку главы Пентагона Пита Хегсета после поражения республиканцев на выборах",
+  "skip:https://tass.ru/proisshestviya/28286793",
+  "https://ria.ru/20261104/ataka-2129242734.html",
+  "title:В Белгородской области три человека погибли в результате украинской атаки на микроавтобус"
 ]

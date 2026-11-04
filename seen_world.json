@@ -1,15 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9078253",
-  "skip:https://www.interfax.ru/russia/1126294",
-  "skip:https://tass.ru/obschestvo/28274427",
-  "https://www.rbc.ru/rbcfreenews/6ae5ce1dacc9a2663a967911",
-  "title:Госпитализация части эвакуированных из Алешек жителей в Симферополе",
-  "skip:https://ria.ru/20261031/polsha-2128324364.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28274461",
-  "skip:https://ria.ru/20261031/zasedanie-2128312425.html",
-  "https://tass.ru/proisshestviya/28274507",
-  "title:Политический кризис и протесты в Польше вокруг Конституционного трибунала",
-  "skip:https://www.interfax.ru/moscow/1126302",
   "skip:https://ria.ru/20261031/pvo-2128326879.html",
   "skip:https://tass.ru/proisshestviya/28274531",
   "https://www.kommersant.ru/doc/9078267",
@@ -998,5 +987,16 @@
   "title:КСИР заявил о подрыве четырех танкеров в Ормузском проливе",
   "skip:https://www.rbc.ru/sport/04/11/2026/6aeaf0c26b418975db44307d",
   "https://www.kommersant.ru/doc/9080260",
-  "title:Skoda пригрозила отказаться от спонсирования чемпионата мира по хоккею в случае допуска сборной России"
+  "title:Skoda пригрозила отказаться от спонсирования чемпионата мира по хоккею в случае допуска сборной России",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28285513",
+  "skip:https://news.google.com/rss/articles/CBMilwFBVV95cUxQYldVVWZMVFEwSkw0RXVnZFhkTGpRUl9rNVpMR25KUW5kaTJLZlVjUjgyZURaUW9XMzdxaVRLNmRsbV9VeERTcjJ6MmhwMDVRdGsxZW9mSnRWNk9DRVYyWVN1Yi1qTVNlTW90M3ZmWi1nQi1KVHBtRmV6QVRmeUNOUmVVNXA0aHRlX0k2anZNX2dGYXBuZjMw?oc=5",
+  "skip:https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28285487",
+  "skip:https://www.interfax.ru/world/1126965",
+  "skip:https://news.google.com/rss/articles/CBMipwFBVV95cUxOdGFrbDdpa3A4TmhoRll4NkpfRkZ6OS0tLVFzX3NhVTFiSHVnYmtWaTBQbThRdFc0ZThrLVRYYXVZN0Jod1FMRmlheUpzc1VpMjV2REpiVHgzNGFkbkM5THgtWXRNTUlESEpjcUxKM1AzM3N2dUVIUTYwUm54a2otdVVpSE1MdzVsUW54Ui1oVHQ0XzZ3SWV1NnAzaTNPQkw2bnktelNFNA?oc=5",
+  "https://www.rbc.ru/politics/04/11/2026/6aeaeb0691cd0cddcd0405f0",
+  "title:Демократическая партия США одержала победу на промежуточных выборах в Конгресс",
+  "skip:https://ria.ru/20261104/kompjuter-2129153323.html",
+  "https://www.kommersant.ru/doc/9080259",
+  "title:В Армении прошли обыски у лидеров партии «Сильная Армения»"
 ]

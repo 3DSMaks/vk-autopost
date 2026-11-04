@@ -1,10 +1,4 @@
 [
-  "skip:https://www.playground.ru/misc/news/drajver_nvidia_geforce_game_ready_621_01_whql_vyzyvaet_chernye_ekrany_sboi_drajvera_i_stattery_pri_igre_s_g_sync_i_vrr-1884157#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "https://www.playground.ru/elden_ring/news/elden_ring_prodalas_tirazhom_36_4_mln_kopij_i_prinesla_2_mlrd_v_2026_godu_igra_oboshla_mnogie_novinki-1884164#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Elden Ring продалась тиражом 36,4 млн копий и принесла $2 млрд - в 2026 году игра обошла многие новинки",
-  "skip:https://www.film.ru/news/elaydzha-i-orlando-v-dzhentlmenah",
-  "https://www.kinonews.ru/news_143796/",
-  "title:Сериал \"Гарри Поттер\" станет самым дорогим для HBO",
   "skip:https://gamemag.ru/news/201814/dispatch-one-year-anniversary",
   "skip:https://stopgame.ru/newsdata/73272/godovschina_dispatch_obnovlenie_deluxe_izdaniya_i_anons_mobilnyh_versiy",
   "https://gamemag.ru/news/201815/borderlands-4-update-notes",
@@ -998,5 +992,11 @@
   "skip:https://www.film.ru/news/niv-kempbell-v-krike-8",
   "skip:https://www.film.ru/news/kosmicheskiy-horror-pola-us-andersona",
   "https://deadline.com/2026/11/itv-gone-season-2-keeley-hawes-eve-myles-george-kay-1237212082/",
-  "title:‘The Assassin’ Star Keeley Hawes Joins Season 2 Of George Kay’s ITV Thriller ‘Gone’"
+  "title:‘The Assassin’ Star Keeley Hawes Joins Season 2 Of George Kay’s ITV Thriller ‘Gone’",
+  "skip:https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/shedevr_remejk_the_legend_of_zelda_ocarina_of_time_dlya_switch_2_poluchil_96_ballov_na_metacritic-1887723#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169729/remejk-the-legend-of-zelda-ocarina-of-time-poluchaet-otlichnyie-otsenki-kritikov/",
+  "skip:https://stopgame.ru/newsdata/73378/darkest_dungeon_ii_poluchit_dopolnenie_the_butcher_s_asylum_v_2027_m",
+  "skip:https://www.igromania.ru/news/169724/darkest-dungeon-2-poluchit-dopolnenie-butchers-asylum-v-2027-godu/",
+  "https://www.igromania.ru/news/169727/gta-6-na-predzakazah-zarabotala-svyishe-750-mln-dollarov-zayavili-analitiki/",
+  "title:​GTA 6 на предзаказах заработала свыше 750 млн долларов, заявили аналитики"
 ]

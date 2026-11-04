@@ -1,8 +1,4 @@
 [
-  "title:‘Clayface’ Director James Watkins Explains Aaron Paul’s Cameo: “A Real Brief Easter Egg”",
-  "https://www.film.ru/news/finish-novogo-fishera",
-  "title:Финиш нового Фишера",
-  "https://www.film.ru/news/cifrovoy-reliz-ulichnogo-boyca",
   "title:Цифровой релиз Уличного бойца",
   "https://variety.com/2026/film/people-news/ken-atchity-dead-the-meg-1236930069/",
   "title:Ken Atchity, ‘The Meg’ Producer and Literary Agent, Dies at 82",
@@ -998,5 +994,9 @@
   "skip:https://deadline.com/2026/11/bafta-breakthrough-imran-perretta-2026-1237212332/",
   "skip:https://www.film.ru/news/milliard-bitvy-motorov",
   "https://variety.com/2026/film/markets-festivals/weta-fx-taicca-partner-taiwan-ai-screen-production-hub-1236938968/",
-  "title:Weta FX and TAICCA Partner to Turn Taiwan Into an AI Screen Production Hub for Asia (EXCLUSIVE)"
+  "title:Weta FX and TAICCA Partner to Turn Taiwan Into an AI Screen Production Hub for Asia (EXCLUSIVE)",
+  "skip:https://www.kinonews.ru/news_143975/",
+  "skip:https://www.film.ru/news/naruto-oficialno-v-razrabotke",
+  "https://www.kinonews.ru/news_143982/",
+  "title:Объявлен хронометраж фильма \"Дюна: Часть третья\""
 ]

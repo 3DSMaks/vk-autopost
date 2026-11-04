@@ -1,11 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/mass-effect-5-trailer-reportedly-ready-to-go-before-bioware-closure",
-  "https://www.pcgamer.com/games/fps/ea-has-reportedly-put-dice-and-respawn-to-work-on-a-new-star-wars-battlefront-game/",
-  "title:EA has reportedly put DICE and Respawn to work on a new Star Wars: Battlefront game",
-  "skip:https://variety.com/2026/film/news/tangles-grand-jury-prize-animation-is-film-festival-1236921464/",
-  "skip:https://variety.com/2026/film/global/james-bond-final-screen-tests-callum-turner-jack-lowden-1236921500/",
-  "https://variety.com/2026/artisans/news/the-odyssey-sets-costumes-editing-1236918682/",
-  "video:2026-10-22:https://variety.com/2026/artisans/news/the-odyssey-sets-costumes-editing-1236918682/",
   "title:‘The Odyssey’ Artisans Talk Bringing Christopher Nolan’s Epic to Life With Practical Sets and Thousands of Costumes at Middleburg Film Fest",
   "skip:https://www.pcgamer.com/games/mass-effect/someone-leaked-a-mass-effect-5-trailer-and-now-i-feel-even-worse-because-it-looks-really-good/",
   "skip:https://www.igromania.ru/news/169471/dispatch-poluchila-obnovlenie-s-novyimi-rezhimami-auditoriya-igryi-prevyisila-5-mln-chelovek/",
@@ -998,5 +991,12 @@
   "skip:https://www.film.ru/news/niv-kempbell-v-krike-8",
   "skip:https://kg-portal.ru/comments/135650-pol-u-s-anderson-vozvraschaetsja-k-lavkraftianskomu-kosmicheskomu-uzhasu-s-dvumja-ekranizacijami-bestsellerov/",
   "https://www.film.ru/news/saundtrek-kliffa-buta",
-  "title:Саундтрек Клиффа Бута"
+  "title:Саундтрек Клиффа Бута",
+  "skip:https://stopgame.ru/newsdata/73378/darkest_dungeon_ii_poluchit_dopolnenie_the_butcher_s_asylum_v_2027_m",
+  "skip:https://www.igromania.ru/news/169724/darkest-dungeon-2-poluchit-dopolnenie-butchers-asylum-v-2027-godu/",
+  "skip:https://www.ign.com/articles/witcher-3-songs-of-the-past-dlc-details",
+  "skip:https://www.pcgamer.com/games/action/control-resonant-is-remedys-fastest-selling-game-to-date-tripling-the-studios-quarterly-revenue/",
+  "skip:https://gamemag.ru/news/201963/netflix-zavershila-rabotu-nad-scenariem-gears-of-war",
+  "https://www.igromania.ru/news/169727/gta-6-na-predzakazah-zarabotala-svyishe-750-mln-dollarov-zayavili-analitiki/",
+  "title:​GTA 6 на предзаказах заработала свыше 750 млн долларов, заявили аналитики"
 ]

@@ -1,8 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/games/fps/half-life-3-re-re-re-confirmed-a-valve-dev-just-said-hlx-out-loud/",
-  "skip:https://www.ign.com/articles/valve-developer-mistakenly-mentions-rumored-half-life-3-codename",
-  "https://www.igromania.ru/news/169481/call-of-duty-modern-warfare-4-vyishla-vo-vsyom-mire-i-prodolzhaet-sobirat-hvalebnyie-otzyivyi-igrokov/",
-  "title:Call of Duty: Modern Warfare 4﻿ вышла во всём мире и продолжает собирать хвалебные отзывы игроков",
   "skip:https://www.film.ru/news/nekrolog-toma-skerritta",
   "skip:https://deadline.com/2026/10/nobody-wants-this-creator-responds-adam-brody-free-palestine-1237171442/",
   "skip:https://www.kinonews.ru/news_143790/",
@@ -998,5 +994,9 @@
   "video:2026-11-04:https://gamemag.ru/news/201959/predzagruzka-grand-theft-auto-vi-nachnetsya-10-noyabrya",
   "title:Освобождайте место: Предзагрузка Grand Theft Auto VI начнётся 10 ноября",
   "https://stopgame.ru/newsdata/73379/pressa_s_vostorgom_vstretila_remeyk_the_legend_of_zelda_ocarina_of_time",
-  "title:Пресса с восторгом встретила ремейк The Legend of Zelda: Ocarina of Time"
+  "title:Пресса с восторгом встретила ремейк The Legend of Zelda: Ocarina of Time",
+  "skip:https://deadline.com/2026/11/harry-potter-oxford-street-store-opening-trans-protest-1237212999/",
+  "skip:https://www.kinonews.ru/news_143976/",
+  "https://deadline.com/2026/11/jean-claude-van-damme-returning-martial-arts-roots-katana-1237212968/",
+  "title:Jean-Claude Van Damme Returning To Martial Arts Roots In Yakuza Action Pic ‘Katana’ For Jeremy Zag & The Veterans — AFM"
 ]

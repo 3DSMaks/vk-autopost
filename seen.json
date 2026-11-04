@@ -1,6 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143807/",
-  "skip:https://kg-portal.ru/comments/135519-ridli-skott-privlek-scenarista-vospitannyh-volkami-dlja-prodolzhenija-prometeja-i-chuzhogo-zavet/",
   "https://www.kinonews.ru/news_143808/",
   "title:Букмекеры назвали фаворитов на роль Джеймса Бонда",
   "skip:https://kg-portal.ru/comments/135520-mstiteli-doktor-dum-tizer/",
@@ -998,5 +996,7 @@
   "title:Онлайн-релиз Клэйфейса",
   "skip:https://www.film.ru/news/kosmicheskiy-horror-pola-us-andersona",
   "https://www.film.ru/news/niv-kempbell-v-krike-8",
-  "title:Нив Кэмпбелл в Крике 8"
+  "title:Нив Кэмпбелл в Крике 8",
+  "https://www.film.ru/news/saundtrek-kliffa-buta",
+  "title:Саундтрек Клиффа Бута"
 ]

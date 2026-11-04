@@ -1,11 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28274765",
-  "skip:https://ria.ru/20261031/ibragimov-2128343906.html",
-  "https://www.rbc.ru/politics/31/10/2026/6ae5f3fd92b809aef4d94d10",
-  "title:Дональд Трамп заявил о близости мирной сделки по урегулированию конфликта на Украине",
-  "skip:https://ria.ru/20261031/ogranichenija-2128347003.html",
-  "skip:https://tass.ru/obschestvo/28274849",
-  "skip:https://www.interfax.ru/moscow/1126310",
   "skip:https://ria.ru/20261031/sheremetevo-2128341180.html",
   "https://www.interfax.ru/moscow/1126315",
   "title:В московских аэропортах сняли временные ограничения на полеты",
@@ -998,5 +991,12 @@
   "skip:https://www.interfax.ru/russia/1126984",
   "skip:https://ria.ru/20261104/ekaterinburg-2129176367.html",
   "https://www.interfax.ru/russia/1126990",
-  "title:В аэропорту Екатеринбурга вводились и были сняты временные ограничения на прием и выпуск рейсов"
+  "title:В аэропорту Екатеринбурга вводились и были сняты временные ограничения на прием и выпуск рейсов",
+  "skip:https://tass.ru/kultura/28285997",
+  "skip:https://ria.ru/20261104/brass-2129187400.html",
+  "https://www.kommersant.ru/doc/9080338",
+  "title:Умер итальянский кинорежиссер Тинто Брасс",
+  "skip:https://news.google.com/rss/articles/CBMiRkFVX3lxTE9BTWtOdGNlc2xxQVVTcnE5b0FuUy1HT056Xy1VWk5pQWJ6TEgwT2pkUnZaN2JIcEE3Z242STNLOGR0VjRIdFE?oc=5",
+  "https://www.kommersant.ru/doc/9080330",
+  "title:В Ереване задержали главу группы «Ташир» Самвела Карапетяна"
 ]

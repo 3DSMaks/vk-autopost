@@ -1,13 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28274995",
-  "skip:https://ria.ru/20261031/rubio-2128356905.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28274991",
-  "https://ria.ru/20261031/rubio-2128361193.html",
-  "title:Госсекретарь США Марко Рубио подвел итоги встречи глав МИД G20 в Атланте",
-  "skip:https://tass.ru/proisshestviya/28275031",
-  "skip:https://tass.ru/obschestvo/28275009",
-  "skip:https://tass.ru/obschestvo/28274997",
-  "skip:https://tass.ru/obschestvo/28274993",
   "skip:https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
   "skip:https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities?traffic_source=rss",
   "skip:https://tass.ru/proisshestviya/28274939",
@@ -998,5 +989,14 @@
   "skip:https://www.aljazeera.com/sports/2026/11/4/ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia?traffic_source=rss",
   "skip:https://ria.ru/20261104/bolshunov-2129216091.html",
   "https://ria.ru/20261104/vyalbe-2129223305.html",
-  "title:Международная федерация лыжного спорта отказалась предоставить Александру Большунову нейтральный статус"
+  "title:Международная федерация лыжного спорта отказалась предоставить Александру Большунову нейтральный статус",
+  "skip:https://tass.ru/politika/28286627",
+  "skip:https://ria.ru/20261104/mid-2129230426.html",
+  "https://www.interfax.ru/russia/1127026",
+  "title:МИД России обвинил Канаду в политизированном отказе выдать визы российским хоккеистам",
+  "skip:https://news.google.com/rss/articles/CBMioAFBVV95cUxQamVyNmRLVmZvMjhIVURTTEVhWlVBUGJfT216ZUlQU24zT1cyMWwzRXpqR0Y0OWRtdmYzNHB0N1NkZmVOTEV3TUgtUEdUS2FsZVVSYkxON2lRa1hwcTYwTV9JZXVJQlVFMUpqRVk2S1F4a0FLbjBWTWo4LVhWMy1IMTJFT2Q3NmRwZFBqR3ZvV3lsN2VjZlVyeE5OY01Na0to?oc=5",
+  "skip:https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
+  "skip:https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTnJMX1lSSDlPU0otVy01QlBuQzZyUm5LWlpyMDM3QVlGcU5BczEyYUh6LWlJakluTEtTSVdLZFhfUERZQ3JPbEdGc1cyR2dlWlp4dC1wbDdvdXdMbWJjRUdmSDl2Y2VNNkxPS1U1TDB6WjJMZTlRdV9hSy05OWVPTVlfTWRQVC1RbExnWUV1eWl1bmpvVWR6QXgtcHhSbHRoUWNXUjhIb1FpM1RuRm00OFVKLVgtZ1hIS2g2dmdlbl8zdw?oc=5",
+  "https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region?traffic_source=rss",
+  "title:Число погибших в результате удара ВСУ по селу в Запорожской области возросло до 40 человек"
 ]

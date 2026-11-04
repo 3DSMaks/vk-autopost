@@ -1,8 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169486/bethesda-smogla-zavlech-v-fallout-76-bolee-25-mln-igrokov-obnovlenie-world-pets-vyijdet-1-dekabrya/",
-  "skip:https://gamemag.ru/news/201786/poison-ivy-series-developing",
-  "https://www.igromania.ru/news/169481/call-of-duty-modern-warfare-4-vyishla-vo-vsyom-mire-i-prodolzhaet-sobirat-hvalebnyie-otzyivyi-igrokov/",
-  "title:Call of Duty: Modern Warfare 4﻿ вышла во всём мире и продолжает собирать хвалебные отзывы игроков",
   "skip:https://deadline.com/2026/10/ryu-murakami-obit-almost-transparent-blue-74-1237171560/",
   "skip:https://kg-portal.ru/comments/135511-neuzhto-srabotalo-disishnyj-uzhastik-klejfejs-nravitsja-zriteljam-ineploho-zarabatyvaet-pomerkam-zhanra/",
   "skip:https://www.film.ru/news/nekrolog-ryu-murakami",
@@ -998,5 +994,9 @@
   "skip:https://www.kinonews.ru/news_143971/",
   "skip:https://kg-portal.ru/comments/135629-russkij-trejler-novyh-pohozhdenij-kliffa-buta/",
   "https://www.kinonews.ru/news_143982/",
-  "title:Объявлен хронометраж фильма \"Дюна: Часть третья\""
+  "title:Объявлен хронометраж фильма \"Дюна: Часть третья\"",
+  "skip:https://www.film.ru/news/milliard-bitvy-motorov",
+  "skip:https://kg-portal.ru/comments/135643-gonochnyj-blokbaster-bitva-motorov-peresek-chertu-v1-mlrd-rublej-kassovyh-sborov/",
+  "https://www.kinonews.ru/news_143981/",
+  "title:Объявлена дата премьеры второго сезона аниме \"Голубоглазый самурай\""
 ]

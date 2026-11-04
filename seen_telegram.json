@@ -1,11 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143789/",
-  "https://www.film.ru/news/dzhenna-ortega-ob-uhode-s-televideniya",
-  "title:Дженна Ортега об уходе с телевидения",
-  "skip:https://www.igromania.ru/news/169479/finalnyie-kinoprobyi-na-rol-dzhejmsa-bonda-smi-nazvali-tryoh-aktyorov/",
-  "skip:https://gamemag.ru/news/201809/zach-creggers-resident-evil-digital-release-date",
-  "https://www.playground.ru/fallout_76/news/auditoriya_fallout_76_dostigla_25_millionov_igrokov-1884023#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Аудитория Fallout 76 достигла 25 миллионов игроков",
   "https://www.film.ru/news/kto-napishet-novyy-shpionskiy-serial-dlya-marvel",
   "title:Кто напишет новый шпионский сериал для Marvel",
   "skip:https://stopgame.ru/newsdata/73269/obschaya_auditoriya_warhammer_40_000_space_marine_ii_vyrosla_do_15_mln_chelovek",
@@ -998,5 +991,12 @@
   "title:Jean-Claude Van Damme Returning To Martial Arts Roots In Yakuza Action Pic ‘Katana’ For Jeremy Zag & The Veterans — AFM",
   "skip:https://deadline.com/2026/11/london-film-festival-la-bola-negra-audience-award-2026-1237212998/",
   "https://deadline.com/2026/11/trinity-release-date-netflix-photos-trailer-1237212652/",
-  "title:‘Trinity’ Sets Release Date At Netflix; First Look & Trailer"
+  "title:‘Trinity’ Sets Release Date At Netflix; First Look & Trailer",
+  "skip:https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/remejk_zelda_ocarina_of_time_rabotaet_na_switch_2_so_stabilnymi_60_fps_i_razresheniem_do_1440p-1887775#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/the_legend_of_zelda_ocarina_of_time_igra_s_samym_vysokim_rejtingom_2026_goda_na_metacritic-1887770#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://gamemag.ru/news/201973/ocharovyvaet-igrokov-poyavilis-pervye-ocenki-remeyka-the-legend-of-zelda-ocarina-of-time",
+  "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-how-long-to-beat",
+  "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-review-remake",
+  "https://www.igromania.ru/news/169732/sozdateli-the-elder-scrolls-5-skyrim-dejstvitelno-pyitalis-rastyanut-put-k-vyisokomu-hrotgaru-na-7000-shagov/",
+  "title:Создатели The Elder Scrolls 5: Skyrim действительно пытались растянуть путь к Высокому Хротгару на 7000 шагов"
 ]

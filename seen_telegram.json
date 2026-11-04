@@ -1,9 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/201775/next-james-bond-cast-two-actors-left",
-  "skip:https://gamemag.ru/news/201767/cyberpunk-edgerunners-streaming-now-and-new-cp-77-update-october-2026",
-  "https://www.ign.com/articles/resident-evil-developer-capcom-issues-phishing-warning-after-data-breach-hits-over-11-million-customer-accounts",
-  "title:Resident Evil Developer Capcom Issues Phishing Warning After Data Breach Hits Over 11 Million Customer Accounts",
-  "skip:https://variety.com/2026/tv/columns/heated-rivalry-released-movie-theaters-1236916996/",
   "https://www.film.ru/news/3-y-sezon-nikto-etogo-ne-hochet-vyshel",
   "title:3-й сезон «Никто этого не хочет» вышел",
   "skip:https://www.playground.ru/star_wars_the_old_republic/news/star_wars_the_old_republic_pochti_15_let_podderzhivala_bioware_no_studiya_dazhe_ne_upomyanula_eyo_v_proschalnom_soobschenii-1883858#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +993,10 @@
   "skip:https://www.ign.com/articles/the-elder-scrolls-6-sentinel-name-logo-officially-revealed-as-bethesda-marks-40th-anniversary",
   "https://gamemag.ru/news/201957/final-fantasy-7-remake-and-rebirth-currently-have-huge-price-drops-on-the-switch-2-eshop",
   "video:2026-11-03:https://gamemag.ru/news/201957/final-fantasy-7-remake-and-rebirth-currently-have-huge-price-drops-on-the-switch-2-eshop",
-  "title:Подготовка к Final Fantasy VII Revelation: Final Fantasy VII Remake и Final Fantasy VII Rebirth для Switch 2 отдают за бесценок"
+  "title:Подготовка к Final Fantasy VII Revelation: Final Fantasy VII Remake и Final Fantasy VII Rebirth для Switch 2 отдают за бесценок",
+  "skip:https://deadline.com/2026/11/pierce-brosnan-callum-turner-james-bond-josh-oconnor-casting-1237212659/",
+  "skip:https://www.kinonews.ru/news_143971/",
+  "https://variety.com/2026/artisans/news/dune-3-spaceship-55-tons-1236937875/",
+  "video:2026-11-04:https://variety.com/2026/artisans/news/dune-3-spaceship-55-tons-1236937875/",
+  "title:‘Dune 3’ Production Designer Patrice Vermette Created a 55-Ton Spaceship for Sci-Fi Epic: It’s a ‘Major Spectacle’"
 ]

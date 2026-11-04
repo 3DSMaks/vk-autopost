@@ -1,12 +1,4 @@
 [
-  "https://www.rbc.ru/politics/31/10/2026/6ae6307ab81721b52af75f29",
-  "title:Виктор Орбан и Александр Вучич встретились в Сербии и заявили о планах вернуться в политику",
-  "skip:https://tass.ru/obschestvo/28275187",
-  "skip:https://www.theguardian.com/uk-news/2026/oct/31/protest-against-palestine-action-ban-outside-us-embassy-in-london",
-  "skip:https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeUlKZ0JzU2NIcmNFckRsU1l6akpveTNUNHhUbnNyMHhkOUxXbWk0RDJWVnQ0Ti1MQVI0QnhSQnpPZmUyWVNUQktDVGxVbmFMaERuY0tlVDIyN0xYMkpxbHkteUhEVnpCNlAxYVY2SXBEWnFYREJzYWFLTThWOXYxbkNzRjk2OEo3UmtvSnBMRDNDc3BDbW04ak9PUDRWanlpcFNFdG1YWjdSdw?oc=5",
-  "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban?traffic_source=rss",
-  "title:В Лондоне задержали около 140 участников протеста в поддержку Palestine Action",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28275221",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28275155",
   "https://ria.ru/20261031/iran-2128379122.html",
   "title:В Иране прокомментировали возможную реакцию на действия США",
@@ -998,5 +990,13 @@
   "skip:https://tass.ru/obschestvo/28286869",
   "skip:https://tass.ru/obschestvo/28286815",
   "https://ria.ru/20261104/kiev-2129248802.html",
-  "title:Жители Киева перекрыли дороги из-за длительных отключений света"
+  "title:Жители Киева перекрыли дороги из-за длительных отключений света",
+  "skip:https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSEhmUWlhLUFxUEhVeEJxVXdwc3FtVndOSUg4YlNfQ2RyYUt2OUFlM200M1h3M3NLZEFpU2c1MHJza2JPV2dkWGRWU05sMlp2ZmRqVUxUa3Rvd2RSeGFyQXctSDZPYTNfUmEza1lLSEY5SUN2OUdmZkhHQW5tTTcza3FfbGZ2X1ZkZk5VWmVWWHRhLW9pZmx3QmJOSVJLdWR1OHRNaUJoQVVKZw?oc=5",
+  "skip:https://news.google.com/rss/articles/CBMisAFBVV95cUxPTU5EOWpMNjZvcmh2TzIzTHo1OWRzaUdGRWZEN0xwbWpqV09pOGFoY2M5dlEya2xHTHJnS0VsQjZGM2lSTVk1U05TbHpLc3FveFhySUgtb1dPWEtXTkNXVlg4MWlwbTBSeGw1R2pPWTg3d3ZuV01nSDNvWWVQSjRTeFRSb3N2QnFMa0FMUDBGTWY5NDVIdG41Z05wdnRQT3pBRWJvSzg3Z0tEVXZSZDM5ag?oc=5",
+  "https://tass.ru/mezhdunarodnaya-panorama/28286937",
+  "title:Минфин США ввел санкции против граждан и компаний из Индии, Турции и Сингапура за содействие Ирану",
+  "skip:https://www.interfax.ru/russia/1127043",
+  "skip:https://tass.ru/proisshestviya/28286865",
+  "https://ria.ru/20261104/ataka-2129246929.html",
+  "title:Мирный житель получил ранения при атаке украинского беспилотника в Курской области"
 ]

@@ -1,6 +1,4 @@
 [
-  "skip:https://deadline.com/2026/10/ryu-murakami-obit-almost-transparent-blue-74-1237171560/",
-  "skip:https://kg-portal.ru/comments/135511-neuzhto-srabotalo-disishnyj-uzhastik-klejfejs-nravitsja-zriteljam-ineploho-zarabatyvaet-pomerkam-zhanra/",
   "skip:https://www.film.ru/news/nekrolog-ryu-murakami",
   "https://www.film.ru/news/dzhenna-ortega-ob-uhode-s-televideniya",
   "title:Дженна Ортега об уходе с телевидения",
@@ -998,5 +996,7 @@
   "skip:https://www.film.ru/news/milliard-bitvy-motorov",
   "skip:https://kg-portal.ru/comments/135643-gonochnyj-blokbaster-bitva-motorov-peresek-chertu-v1-mlrd-rublej-kassovyh-sborov/",
   "https://www.kinonews.ru/news_143981/",
-  "title:Объявлена дата премьеры второго сезона аниме \"Голубоглазый самурай\""
+  "title:Объявлена дата премьеры второго сезона аниме \"Голубоглазый самурай\"",
+  "https://variety.com/2026/artisans/news/dune-3-spaceship-55-tons-1236937875/",
+  "title:‘Dune 3’ Production Designer Patrice Vermette Created a 55-Ton Spaceship for Sci-Fi Epic: It’s a ‘Major Spectacle’"
 ]

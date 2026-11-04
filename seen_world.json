@@ -1,10 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28274805",
-  "skip:https://ria.ru/20261031/tusk-2128344888.html",
-  "https://ria.ru/20261031/polsha-2128353425.html",
-  "title:Политический кризис в Польше: оппозиция инициировала вотум недоверия правительству Туска",
-  "skip:https://www.kommersant.ru/doc/9078310",
-  "skip:https://www.interfax.ru/russia/1126313",
   "skip:https://ria.ru/20261031/sudno-2128344238.html",
   "https://www.rbc.ru/rbcfreenews/6ae600ced8edc07a79bde7e1",
   "title:Минобороны РФ заявило об ударе по сухогрузу с грузом для ВСУ в Черном море",
@@ -998,5 +992,11 @@
   "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-loses-control-of-congress?traffic_source=rss",
   "skip:https://www.interfax.ru/world/1127018",
   "https://tass.ru/mezhdunarodnaya-panorama/28286451",
-  "title:КСИР заявил об уничтожении американского беспилотника над островом Кешм"
+  "title:КСИР заявил об уничтожении американского беспилотника над островом Кешм",
+  "skip:https://www.interfax.ru/russia/1127016",
+  "https://ria.ru/20261104/sukhogruz-2129214525.html",
+  "title:Минобороны РФ заявило о поражении судна с грузом для ВСУ в порту Одессы",
+  "skip:https://www.france24.com/en/france/20261104-french-blood-banks-foil-new-cyberattack-targeting-refrigerators",
+  "https://tass.ru/proisshestviya/28286511",
+  "title:Во Франции хакеры совершили кибератаку на системы управления холодильниками с донорской кровью"
 ]

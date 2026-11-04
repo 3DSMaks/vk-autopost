@@ -1,11 +1,4 @@
 [
-  "https://www.film.ru/news/charli-xcx-v-novom-filme-skorseze",
-  "title:Charli xcx в новом фильме Скорсезе",
-  "skip:https://stopgame.ru/newsdata/73269/obschaya_auditoriya_warhammer_40_000_space_marine_ii_vyrosla_do_15_mln_chelovek",
-  "https://gamemag.ru/news/201807/bf-7-in-deveilopment-2028",
-  "title:Insider Gaming: EA уже работает над Battlefield 7",
-  "https://kg-portal.ru/comments/135510-zvezdnye-vojny-s-rajanom-goslingom-uzhe-stojat-dorozhe-probuzhdenija-sily-i-poslednih-dzhedaev/",
-  "title:\"Звёздные войны\" с Райаном Гослингом уже стоят дороже \"Пробуждения силы\" и \"Последних джедаев\"",
   "skip:https://www.igromania.ru/news/169486/bethesda-smogla-zavlech-v-fallout-76-bolee-25-mln-igrokov-obnovlenie-world-pets-vyijdet-1-dekabrya/",
   "skip:https://gamemag.ru/news/201786/poison-ivy-series-developing",
   "https://www.igromania.ru/news/169481/call-of-duty-modern-warfare-4-vyishla-vo-vsyom-mire-i-prodolzhaet-sobirat-hvalebnyie-otzyivyi-igrokov/",
@@ -998,5 +991,12 @@
   "skip:https://www.kinonews.ru/news_143959/",
   "skip:https://www.film.ru/articles/vlastelin-kolec-ohota-na-golluma-vse-chto-izvestno-o-novom-filme-po-motivam-knig-dzhona-rr",
   "https://deadline.com/2026/11/cinemarko-netflix-cliff-booth-theatrical-release-1237212191/",
-  "title:No ‘Cliff Booth’ At Cinemark: CEO Cites Long-Term Industry Risk"
+  "title:No ‘Cliff Booth’ At Cinemark: CEO Cites Long-Term Industry Risk",
+  "skip:https://www.kinonews.ru/news_143975/",
+  "skip:https://www.film.ru/news/steytem-i-richi-dlya-netflix",
+  "skip:https://www.film.ru/news/naruto-oficialno-v-razrabotke",
+  "skip:https://www.kinonews.ru/news_143971/",
+  "skip:https://kg-portal.ru/comments/135629-russkij-trejler-novyh-pohozhdenij-kliffa-buta/",
+  "https://www.kinonews.ru/news_143982/",
+  "title:Объявлен хронометраж фильма \"Дюна: Часть третья\""
 ]

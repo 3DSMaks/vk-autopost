@@ -1,14 +1,4 @@
 [
-  "https://variety.com/2026/film/news/box-office-clayface-previews-1236919973/",
-  "title:Box Office: ‘Clayface’ Makes $3.5 Million in Previews",
-  "skip:https://www.playground.ru/marvels_blade/news/udivlyus_esli_studiyu_zakroyut_dzhejson_shrajer_schitaet_chto_arkane_lyon_najdyot_pokupatelej-1884242#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://stopgame.ru/newsdata/73277/smi_arkane_dolzhna_nayti_pokupatelya_do_13_noyabrya_inache_studiyu_zakroyut",
-  "skip:https://gamemag.ru/news/201816/arkane-has-until-november-to-find-a-buyer-or-face-closure-its-claimed",
-  "skip:https://www.ign.com/articles/xbox-wants-to-close-arkane-lyon",
-  "https://stopgame.ru/newsdata/73276/razrabotchik_valve_upomyanul_hlx_predpolagaemoe_kodovoe_nazvanie_half_life_3",
-  "title:Разработчик Valve упомянул HLX — предполагаемое кодовое название Half-Life 3",
-  "skip:https://www.film.ru/news/podtverzhdenie-hyuller-v-mstitelyah",
-  "skip:https://variety.com/2026/film/news/sandra-huller-avengers-doomsday-cameo-role-1236930032/",
   "skip:https://www.kinonews.ru/news_143797/",
   "https://www.film.ru/news/obyavlen-novyy-chuzhoy",
   "title:Объявлен новый Чужой",
@@ -998,5 +988,15 @@
   "skip:https://variety.com/2026/film/global/harry-potter-store-opening-trans-rights-protesters-london-1236939173/",
   "skip:https://kg-portal.ru/comments/135650-pol-u-s-anderson-vozvraschaetsja-k-lavkraftianskomu-kosmicheskomu-uzhasu-s-dvumja-ekranizacijami-bestsellerov/",
   "https://variety.com/2026/film/markets-festivals/jessica-rothe-sxsw-sci-fi-thriller-imposters-us-distribution-1236938971/",
-  "title:Jessica Rothe SXSW Sci-Fi Thriller ‘Imposters’ Sells to Brainstorm Media for U.S., Racks Up International Deals Ahead of AFM (EXCLUSIVE)"
+  "title:Jessica Rothe SXSW Sci-Fi Thriller ‘Imposters’ Sells to Brainstorm Media for U.S., Racks Up International Deals Ahead of AFM (EXCLUSIVE)",
+  "skip:https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/the_legend_of_zelda_ocarina_of_time_igra_s_samym_vysokim_rejtingom_2026_goda_na_metacritic-1887770#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/misc/news/amd_mozhet_vpervye_v_istorii_obojti_intel_po_kvartalnoj_vyruchke_prognoz_kompanii_na_konets_goda_dostigaet_17_mlrd-1887764#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://gamemag.ru/news/201973/ocharovyvaet-igrokov-poyavilis-pervye-ocenki-remeyka-the-legend-of-zelda-ocarina-of-time",
+  "skip:https://stopgame.ru/newsdata/73379/pressa_s_vostorgom_vstretila_remeyk_the_legend_of_zelda_ocarina_of_time",
+  "skip:https://www.pcgamer.com/hardware/processors/amd-says-its-going-to-beat-intel-in-total-revenue-for-the-very-first-time-by-the-end-of-2026/",
+  "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-how-long-to-beat",
+  "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-review-remake",
+  "skip:https://www.ign.com/articles/the-elder-scrolls-6-sentinel-timeline",
+  "https://www.igromania.ru/news/169732/sozdateli-the-elder-scrolls-5-skyrim-dejstvitelno-pyitalis-rastyanut-put-k-vyisokomu-hrotgaru-na-7000-shagov/",
+  "title:Создатели The Elder Scrolls 5: Skyrim действительно пытались растянуть путь к Высокому Хротгару на 7000 шагов"
 ]

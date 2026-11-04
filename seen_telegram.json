@@ -1,8 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/games/call-of-duty/dmz-electronic-sensors-location/",
-  "https://www.playground.ru/final_fantasy_resonance/news/final_fantasy_resonance_perenosit_istoriyu_brave_exvius_v_hd_2d_i_uzhe_dostupna_na_konsolyah_i_pk-1883860#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:FINAL FANTASY RESONANCE переносит историю Brave Exvius в HD-2D и уже доступна на консолях и ПК",
-  "https://kg-portal.ru/comments/135486-sozdateli-poslednej-ekranizacii-mastera-imargarity-snimut-novyj-film-popovesti-sobache-serdce-mihaila-bulgakova/",
   "title:Создатели последней экранизации \"Мастера и Маргариты\" снимут новый фильм по повести \"Собачье сердце\" Михаила Булгакова",
   "skip:https://gamemag.ru/news/201800/kotaku-the-case-for-exclusivity-when-gears-of-war-e-day-cost-over-500-million-to-make",
   "skip:https://www.playground.ru/gears_of_war_e_day/news/po_dannym_smi_byudzhet_razrabotki_gears_of_war_e_day_prevyshaet_500_mln_dollarov_bez_zatrat_na_marketing-1883887#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +994,9 @@
   "skip:https://www.film.ru/news/naruto-oficialno-v-razrabotke",
   "skip:https://kg-portal.ru/comments/135648-sedmoj-zahod-gaj-richi-i-dzhejson-stejtem-snimut-stilnyj-ekshentriller-pro-londonskij-kriminalitet/",
   "https://www.kinonews.ru/news_143982/",
-  "title:Объявлен хронометраж фильма \"Дюна: Часть третья\""
+  "title:Объявлен хронометраж фильма \"Дюна: Часть третья\"",
+  "skip:https://www.film.ru/news/milliard-bitvy-motorov",
+  "skip:https://kg-portal.ru/comments/135643-gonochnyj-blokbaster-bitva-motorov-peresek-chertu-v1-mlrd-rublej-kassovyh-sborov/",
+  "https://www.film.ru/news/onlayn-reliz-kleyfeysa",
+  "title:Онлайн-релиз Клэйфейса"
 ]

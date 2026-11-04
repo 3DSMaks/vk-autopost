@@ -1,11 +1,4 @@
 [
-  "skip:https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
-  "skip:https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities?traffic_source=rss",
-  "skip:https://tass.ru/proisshestviya/28274939",
-  "skip:https://ria.ru/20261031/parizh-2128355792.html",
-  "skip:https://ria.ru/20261031/germanija-2128355475.html",
-  "skip:https://ria.ru/20261031/keln-2128355108.html",
-  "skip:https://www.rbc.ru/politics/31/10/2026/6ae609ddb0c86d0c7dc0cc1e",
   "skip:https://ria.ru/20261031/gaaga-2128353676.html",
   "skip:https://ria.ru/20261031/demonstratsija-2128352444.html",
   "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
@@ -998,5 +991,12 @@
   "skip:https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
   "skip:https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTnJMX1lSSDlPU0otVy01QlBuQzZyUm5LWlpyMDM3QVlGcU5BczEyYUh6LWlJakluTEtTSVdLZFhfUERZQ3JPbEdGc1cyR2dlWlp4dC1wbDdvdXdMbWJjRUdmSDl2Y2VNNkxPS1U1TDB6WjJMZTlRdV9hSy05OWVPTVlfTWRQVC1RbExnWUV1eWl1bmpvVWR6QXgtcHhSbHRoUWNXUjhIb1FpM1RuRm00OFVKLVgtZ1hIS2g2dmdlbl8zdw?oc=5",
   "https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region?traffic_source=rss",
-  "title:Число погибших в результате удара ВСУ по селу в Запорожской области возросло до 40 человек"
+  "title:Число погибших в результате удара ВСУ по селу в Запорожской области возросло до 40 человек",
+  "skip:https://www.interfax.ru/russia/1127027",
+  "https://tass.ru/proisshestviya/28286637",
+  "title:Россия выдала Китаю подозреваемого в присвоении миллиардов юаней инвесторов",
+  "skip:https://www.kommersant.ru/doc/9080440",
+  "skip:https://tass.ru/proisshestviya/28286609",
+  "https://www.rbc.ru/rbcfreenews/6aeb5b9eba1d74490ffce792",
+  "title:Суд в Киеве арестовал медработницу по делу о тюрьме для мобилизованных"
 ]

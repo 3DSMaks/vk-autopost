@@ -1,7 +1,4 @@
 [
-  "title:После \"Войны и мира\" Сарика Андреасяна выйдет новый фильм по роману \"Анна Каренина\" Льва Толстого",
-  "https://variety.com/2026/film/news/clayface-batman-gotham-aaron-paul-cameo-1236921644/",
-  "title:‘Clayface’ Director James Watkins Explains That [SPOILER] Cameo, Introducing Gotham City to the DC Universe and All the Shape-Shifting Kills",
   "https://www.film.ru/news/tarantino-pokazal-otryvok-iz-kliffa-buta",
   "title:Тарантино показал отрывок из «Клиффа Бута»",
   "https://variety.com/2026/film/box-office/you-can-see-everything-box-office-huge-second-weekend-clayface-leads-1236930604/",
@@ -998,5 +995,8 @@
   "skip:https://www.film.ru/news/adam-drayver-ne-vernetsya-v-zvezdnye-voyny",
   "skip:https://deadline.com/2026/11/the-odyssey-imax-quartelry-earnings-1237214226/",
   "https://deadline.com/2026/11/kiefer-sutherland-al-pacino-movie-father-joe-us-deal-1237214237/",
-  "title:Kiefer Sutherland & Al Pacino Action-Thriller ‘Father Joe’ Gets North American Deal"
+  "title:Kiefer Sutherland & Al Pacino Action-Thriller ‘Father Joe’ Gets North American Deal",
+  "skip:https://www.film.ru/news/sintiya-erivo-sygraet-mat-tupaka-shakura",
+  "https://www.film.ru/news/dyuna-chast-3-samaya-korotkaya",
+  "title:«Дюна: Часть 3» самая короткая"
 ]

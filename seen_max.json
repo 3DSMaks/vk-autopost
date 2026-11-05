@@ -1,10 +1,4 @@
 [
-  "title:Зендея на Оскаре",
-  "skip:https://www.kinonews.ru/news_143808/",
-  "skip:https://deadline.com/2026/10/clayface-james-watkins-explains-aaron-paul-cameo-1237172273/",
-  "https://www.film.ru/news/finish-novogo-fishera",
-  "title:Финиш нового Фишера",
-  "https://www.playground.ru/stalker_2/news/dlya_s_t_a_l_k_e_r_2_heart_of_chornobyl_gotovyat_obnovlenie_2_1-1884378#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Для S.T.A.L.K.E.R. 2: Heart of Chornobyl готовят обновление 2.1",
   "https://www.playground.ru/call_of_duty_modern_warfare_4/news/call_of_duty_modern_warfare_4_poluchila_russkuyu_nejrosetevuyu_ozvuchku-1884392#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Call of Duty: Modern Warfare 4 получила Русскую нейросетевую озвучку",
@@ -998,5 +992,11 @@
   "skip:https://www.film.ru/news/dyuna-chast-3-samaya-korotkaya",
   "skip:https://www.film.ru/news/adam-drayver-ne-vernetsya-v-zvezdnye-voyny",
   "https://www.kinonews.ru/news_143996/",
-  "title:Звезда \"Медведя\" Джереми Аллен Уайт может стать новым Росомахой"
+  "title:Звезда \"Медведя\" Джереми Аллен Уайт может стать новым Росомахой",
+  "skip:https://stopgame.ru/newsdata/73396/blizzard_vypustila_world_of_warcraft_forever_rasshirennuyu_versiyu_vanilnoy_wow",
+  "skip:https://www.pcgamer.com/games/world-of-warcraft/after-all-the-queuing-drama-in-beta-wow-forevers-launch-was-buttery-smooth/",
+  "skip:https://www.ign.com/articles/world-of-warcraft-forever-launch-live-blog",
+  "skip:https://www.ign.com/articles/world-of-warcraft-forever-review",
+  "https://www.ign.com/articles/sony-announces-official-marvels-wolverine-sales-figure-for-the-first-time-raises-playstation-sales-forecast-with-gta-6-imminent",
+  "title:Sony Announces Official Marvel's Wolverine Sales Figure for the First Time, Raises PlayStation Sales Forecast With GTA 6 Imminent"
 ]

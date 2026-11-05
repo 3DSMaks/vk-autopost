@@ -1,11 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/dead-by-daylight-to-remove-chucky-content-just-months-after-losing-michael-myers",
-  "https://www.igromania.ru/news/169494/bethesda-i-obsidian-pozdravili-igrokov-s-dnyom-fallout-v-sleduyuschem-godu-prazdnovanie-projdyot-v-vashingtone/",
-  "title:Bethesda и Obsidian поздравили игроков с Днём Fallout — в следующем году празднование пройдёт в Вашингтоне",
-  "skip:https://www.ign.com/articles/femshep-voice-actor-jennifer-hale-speaks-out-after-mass-effect-5-trailer-leaks-online",
-  "https://gamemag.ru/news/201819/nintendos-shigeru-miyamoto-becomes-first-game-developer-to-receive-the-order-of-culture-japans",
-  "title:Впервые в истории игровой индустрии: Создателя Super Mario и The Legend of Zelda Сигэру Миямото наградит лично император Японии",
-  "skip:https://www.film.ru/news/svezhiy-tizer-doktora-duma",
   "https://deadline.com/2026/10/quentin-tarantino-cliff-booth-screening-surprise-afi-fest-1237172221/",
   "title:Quentin Tarantino Wraps His AFI Fest Q&A By Showing Crowd First 17 Minutes Of ‘Cliff Booth’",
   "skip:https://stopgame.ru/newsdata/73280/sigeru_miyamoto_obyasnil_pochemu_ii_ne_zamenit_chelovecheskoe_tvorchestvo",
@@ -998,5 +991,12 @@
   "title:Разработчики Tomb Raider: Legacy of Atlantis отметили 100 дней до выхода новым промо-артом",
   "skip:https://www.ign.com/articles/nvidia-shows-off-dlss-5-hogwarts-legacy-trailer",
   "https://www.igromania.ru/news/169735/god-of-war-laufey-perenesli-na-20-maya/",
-  "title:God of War: Laufey перенесли на 20 мая"
+  "title:God of War: Laufey перенесли на 20 мая",
+  "skip:https://deadline.com/2026/11/sony-q2-earnings-spider-man-brand-new-day-1237214122/",
+  "skip:https://variety.com/2026/film/news/sony-pictures-earnings-spider-man-brand-new-day-1236939997/",
+  "skip:https://www.kinonews.ru/news_143993/",
+  "skip:https://kg-portal.ru/comments/135658-oruzhejnye-barony-tizer/",
+  "skip:https://kg-portal.ru/comments/135657-djuna-3-dva-s-polovinoj-chasa-nasilija-rugani-i-intima/",
+  "https://variety.com/2026/film/news/adam-driver-the-hunt-for-ben-solo-kylo-ren-1236939988/",
+  "title:Adam Driver Says ‘The Ship Has Sailed’ on ‘The Hunt for Ben Solo’ and He’s Done Playing Kylo Ren: ‘It’s Over’"
 ]

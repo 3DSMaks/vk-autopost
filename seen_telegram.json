@@ -1,9 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/201822/mw-4-scores-big",
-  "skip:https://stopgame.ru/newsdata/73277/smi_arkane_dolzhna_nayti_pokupatelya_do_13_noyabrya_inache_studiyu_zakroyut",
-  "https://www.igromania.ru/news/169496/insajderyi-rasskazali-ob-otmenyonnoj-mass-effect-reliz-v-2028-godu-detali-syuzheta-romanyi-i-ne-tolko/",
-  "video:2026-10-24:https://www.igromania.ru/news/169496/insajderyi-rasskazali-ob-otmenyonnoj-mass-effect-reliz-v-2028-godu-detali-syuzheta-romanyi-i-ne-tolko/",
-  "title:Инсайдеры рассказали об отменённой Mass Effect: релиз в 2028 году, детали сюжета, романы и не только",
   "skip:https://www.kinonews.ru/news_143807/",
   "skip:https://kg-portal.ru/comments/135519-ridli-skott-privlek-scenarista-vospitannyh-volkami-dlja-prodolzhenija-prometeja-i-chuzhogo-zavet/",
   "skip:https://www.film.ru/news/podtverzhdenie-hyuller-v-mstitelyah",
@@ -998,5 +993,10 @@
   "https://deadline.com/2026/11/nightswimming-lennie-james-itv-thriller-two-brothers-1237213214/",
   "title:‘The Walking Dead’ Star Lennie James Leading ITV Thriller ‘Nightswimming’ From Harry & Jack Williams",
   "https://variety.com/2026/film/awards/griffin-dunne-practical-magic-resurgence-american-werewolf-london-1236938556/",
-  "title:Griffin Dunne on Renewed Interest in ‘Practical Magic’ and ‘An American Werewolf in London’: ‘I Seem to Be the King of Lapsed Love’"
+  "title:Griffin Dunne on Renewed Interest in ‘Practical Magic’ and ‘An American Werewolf in London’: ‘I Seem to Be the King of Lapsed Love’",
+  "skip:https://www.igromania.ru/news/169756/remejk-the-legend-of-zelda-ocarina-of-time-vyishel-na-nintendo-switch-2/",
+  "skip:https://www.playground.ru/misc/news/adam_drajver_ne_vernyotsya_k_kajlo_renu_esli_tolko_disney_ne_peredumaet_naschyot_filma_o_bene_solo-1888023#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-full-english-voice-cast-revealed",
+  "https://stopgame.ru/newsdata/73391/god_of_war_laufey_zaderzhitsya_do_20_maya_2027_go",
+  "title:God of War Laufey задержится до 20 мая 2027-го"
 ]

@@ -1,7 +1,4 @@
 [
-  "skip:https://www.film.ru/news/zoya-berber-razvelas",
-  "https://www.film.ru/news/finish-novogo-fishera",
-  "title:Финиш нового Фишера",
   "https://www.playground.ru/stalker_2/news/dlya_s_t_a_l_k_e_r_2_heart_of_chornobyl_gotovyat_obnovlenie_2_1-1884378#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Для S.T.A.L.K.E.R. 2: Heart of Chornobyl готовят обновление 2.1",
   "skip:https://www.film.ru/news/novyy-treyler-rokki-eto-ya",
@@ -998,5 +995,8 @@
   "video:2026-11-05:https://gamemag.ru/news/201987/marvels-wolverine-razoshlas-tirajom-v-24-milliona-kopiy",
   "title:Официально: Marvelʼs Wolverine для PlayStation 5 разошлась тиражом в 2,4 миллиона копий за 50 дней",
   "https://www.film.ru/news/dyuna-chast-3-samaya-korotkaya",
-  "title:«Дюна: Часть 3» самая короткая"
+  "title:«Дюна: Часть 3» самая короткая",
+  "skip:https://variety.com/2026/film/news/robert-pattinson-40th-american-cinematheque-award-ryan-gosling-1236939979/",
+  "https://deadline.com/2026/11/robert-pattinson-40th-american-cinematheque-award-1237214469/",
+  "title:Robert Pattinson To Receive The 40th Annual American Cinematheque Award"
 ]

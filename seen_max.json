@@ -1,8 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/save-mass-effect-petition-hits-50000-signatures-just-days-after-bioware-closure",
-  "https://www.pcgamer.com/games/action/based-on-player-data-capcoms-pretty-happy-with-the-difficulty-level-of-onimusha-way-of-the-sword-we-think-its-hit-the-right-spot/",
-  "title:Based on player data, Capcom's pretty happy with the difficulty level of Onimusha: Way of the Sword: 'We think it's hit the right spot'",
-  "https://www.film.ru/news/zendeya-na-oskare",
   "title:Зендея на Оскаре",
   "skip:https://www.kinonews.ru/news_143808/",
   "skip:https://deadline.com/2026/10/clayface-james-watkins-explains-aaron-paul-cameo-1237172273/",
@@ -998,5 +994,9 @@
   "skip:https://www.igromania.ru/news/169752/prodazhi-nintendo-switch-2-prevyisili-2635-mln-konsolej-plyus-raskryityi-uspehi-novyih-igr/",
   "skip:https://stopgame.ru/newsdata/73393/tirazh_switch_2_prevysil_26_mln_konsoley_i_tempy_prodazh_snizhayutsya_otchet_nintendo",
   "https://www.igromania.ru/news/169748/world-of-warcraft-forever-startovala-s-vostorzhennyimi-otzyivami-gejmerov/",
-  "title:World of Warcraft: Forever стартовала с восторженными отзывами геймеров"
+  "title:World of Warcraft: Forever стартовала с восторженными отзывами геймеров",
+  "skip:https://www.film.ru/news/dyuna-chast-3-samaya-korotkaya",
+  "skip:https://www.film.ru/news/adam-drayver-ne-vernetsya-v-zvezdnye-voyny",
+  "https://www.kinonews.ru/news_143996/",
+  "title:Звезда \"Медведя\" Джереми Аллен Уайт может стать новым Росомахой"
 ]

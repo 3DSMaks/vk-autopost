@@ -1,6 +1,4 @@
 [
-  "https://www.playground.ru/stalker_2/news/dlya_s_t_a_l_k_e_r_2_heart_of_chornobyl_gotovyat_obnovlenie_2_1-1884378#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Для S.T.A.L.K.E.R. 2: Heart of Chornobyl готовят обновление 2.1",
   "skip:https://www.film.ru/news/novyy-treyler-rokki-eto-ya",
   "https://www.film.ru/news/zendeya-na-oskare",
   "title:Зендея на Оскаре",
@@ -998,5 +996,7 @@
   "title:«Дюна: Часть 3» самая короткая",
   "skip:https://variety.com/2026/film/news/robert-pattinson-40th-american-cinematheque-award-ryan-gosling-1236939979/",
   "https://deadline.com/2026/11/robert-pattinson-40th-american-cinematheque-award-1237214469/",
-  "title:Robert Pattinson To Receive The 40th Annual American Cinematheque Award"
+  "title:Robert Pattinson To Receive The 40th Annual American Cinematheque Award",
+  "https://www.film.ru/news/ari-aster-nachal-semki-kozla-otpushcheniya",
+  "title:Ари Астер начал съемки «Козла отпущения»"
 ]

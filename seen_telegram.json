@@ -1,10 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/201819/nintendos-shigeru-miyamoto-becomes-first-game-developer-to-receive-the-order-of-culture-japans",
-  "skip:https://www.ign.com/articles/nintendo-legend-shigeru-miyamoto-becomes-first-game-designer-to-be-awarded-japans-order-of-culture",
-  "https://www.igromania.ru/news/169506/chut-bolshe-goda-i-svoboda-versiya-borderlands-4-v-steam-lishilas-denuvo/",
-  "title:Чуть больше года и свобода — версия Borderlands 4 в Steam лишилась Denuvo",
-  "https://www.film.ru/news/svezhiy-tizer-doktora-duma",
-  "title:Свежий тизер Доктора Дума",
   "https://www.playground.ru/factorio/news/factorio_2_1_vyshla_i_stala_poslednim_krupnym_obnovleniem_kultovoj_igry_o_stroitelstve_fabrik-1884355#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Factorio 2.1 вышла и стала последним крупным обновлением культовой игры о строительстве фабрик",
   "skip:https://www.film.ru/news/zoya-berber-razvelas",
@@ -998,5 +992,11 @@
   "https://www.igromania.ru/news/169763/assassins-creed-valhalla-poluchila-novuyu-igru-i-kostyum-v-stile-assassins-creed-shadows/",
   "title:Assassin's Creed Valhalla получила «Новую игру+» и костюм в стиле Assassin's Creed Shadows",
   "https://variety.com/2026/film/news/imax-quarterly-revenue-record-the-odyssey-1236940229/",
-  "title:‘The Odyssey’ Takes Imax to Biggest Quarterly Revenue to Date"
+  "title:‘The Odyssey’ Takes Imax to Biggest Quarterly Revenue to Date",
+  "skip:https://www.igromania.ru/news/169765/striptiz-razborki-pushki-avtoryi-gta-6-pokazali-reliznuyu-galereyu-s-desyatkami-skrinshotov/",
+  "skip:https://www.playground.ru/gta_6/news/rockstar_pokazala_pochti_40_novyh_skrinshotov_gta_6_za_dve_nedeli_do_reliza-1888086#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.pcgamer.com/games/rpg/oh-hell-yes-pillars-of-eternity-1-and-2-are-getting-full-fat-gamepad-support-and-you-can-try-it-right-now/",
+  "https://gamemag.ru/news/201987/marvels-wolverine-razoshlas-tirajom-v-24-milliona-kopiy",
+  "video:2026-11-05:https://gamemag.ru/news/201987/marvels-wolverine-razoshlas-tirajom-v-24-milliona-kopiy",
+  "title:Официально: Marvelʼs Wolverine для PlayStation 5 разошлась тиражом в 2,4 миллиона копий за 50 дней"
 ]

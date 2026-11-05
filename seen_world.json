@@ -1,10 +1,4 @@
 [
-  "title:ФБР обвинило Северную Корею в кибератаке на биржу Binance",
-  "skip:https://www.kommersant.ru/doc/9078386",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28275827",
-  "https://ria.ru/20261101/kompanija-2128420028.html",
-  "title:В Персидском заливе атакован танкер-газовоз",
-  "skip:https://tass.ru/obschestvo/28275905",
   "skip:https://www.interfax.ru/russia/1126381",
   "skip:https://www.kommersant.ru/doc/9078392",
   "skip:https://tass.ru/proisshestviya/28275893",
@@ -998,5 +992,11 @@
   "skip:https://news.google.com/rss/articles/CBMirwFBVV95cUxNbVJKOWdMTUYyUUxqRVNtLXBGc2hjTTYwa3NQa0FNVXpKb3dnQzFySkJIY2I1MkhmZ0pscjE5SlFaQjEwZUROUjA2TlJlT1RVSjdYVkVycHZXcndMdW5Ic2Jtc1R3VW8wbWdvMm9BR2haOGZQblF6MjloYVFkU0t0ZU1tUTFkb1lVdm1QTl8tY3FFN2tBdGRMN3p6RUlLQ2NyZ184ejJJelYzVzdiNVVV?oc=5",
   "skip:https://news.google.com/rss/articles/CBMivwFBVV95cUxOQS1XM3FhOUF5Y2FuYlkwYW42emJSbjBOX1NrWWNqMERIWHB3eWJLNzZScXFxLTlzRDVvS3Z0Tnl1bjEtRjBhOWIzT05FSWxpMHlLTGxPM2l5ZWlHNS12c21XLThxdmhianFFNDkzTGEtbVhfaG5RTnR4eEQ1aVk4cHNNMnQxVElkbkpFcGdPS29raGhacW54N1pLOUVDbnVEd0FMdW45MzBaMHFVOFhiTV9fUmxFTHlfb2F2TXNGbw?oc=5",
   "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
-  "title:Гонконгского активиста Джошуа Вонга приговорили к 10 годам тюрьмы по закону о национальной безопасности"
+  "title:Гонконгского активиста Джошуа Вонга приговорили к 10 годам тюрьмы по закону о национальной безопасности",
+  "skip:https://www.interfax.ru/russia/1127076",
+  "skip:https://tass.ru/proisshestviya/28287435",
+  "skip:https://ria.ru/20261105/bpla-2129271987.html",
+  "skip:https://www.interfax.ru/russia/1127074",
+  "https://ria.ru/20261105/bpla-2129273998.html",
+  "title:Около 50 беспилотников уничтожены над Воронежской областью за ночь"
 ]

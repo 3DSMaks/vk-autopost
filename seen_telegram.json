@@ -1,7 +1,4 @@
 [
-  "skip:https://variety.com/2026/film/news/box-office-clayface-previews-1236919973/",
-  "https://deadline.com/2026/10/david-zayas-cast-apple-tv-alex-cary-series-1237171754/",
-  "title:David Zayas Joins Dakota Fanning In Apple TV’s Alex Cary Thriller Series",
   "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/pervye_otsenki_modern_warfare_4_kritiki_hvalyat_mrachnuyu_kampaniyu_i_obnovlennyj_rezhim_dmz-1884330#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.playground.ru/misc/news/elajdzha_vud_i_orlando_blum_sygrayut_v_tretem_sezone_dzhentlmenov_gaya_richi-1884319#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://gamemag.ru/news/201822/mw-4-scores-big",
@@ -998,5 +995,8 @@
   "skip:https://www.film.ru/news/dzheremi-allen-uayt-mozhet-sygrat-rosomahu",
   "skip:https://www.film.ru/news/dnevnik-bridzhit-dzhons-vyydet-3-dekabrya",
   "https://deadline.com/2026/11/liam-neeson-reacts-meryl-streep-narnia-aslan-1237213943/",
-  "title:Liam Neeson Reacts To Meryl Streep Taking Over ‘Narnia’ Role Of Aslan: “Nobody Better”"
+  "title:Liam Neeson Reacts To Meryl Streep Taking Over ‘Narnia’ Role Of Aslan: “Nobody Better”",
+  "skip:https://kg-portal.ru/comments/135661-karta-poshla-zvezdu-ochen-strannyh-del-majju-houk-usilenno-zovut-v-ekranizaciju-magic-the-gathering/",
+  "https://deadline.com/2026/11/nightswimming-lennie-james-itv-thriller-two-brothers-1237213214/",
+  "title:‘The Walking Dead’ Star Lennie James Leading ITV Thriller ‘Nightswimming’ From Harry & Jack Williams"
 ]

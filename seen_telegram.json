@@ -1,13 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73274/prodazhi_remeyka_romancing_saga_2_prevysili_otmetku_v_million_kopiy",
-  "https://www.playground.ru/elden_ring/news/elden_ring_prodalas_tirazhom_36_4_mln_kopij_i_prinesla_2_mlrd_v_2026_godu_igra_oboshla_mnogie_novinki-1884164#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Elden Ring продалась тиражом 36,4 млн копий и принесла $2 млрд - в 2026 году игра обошла многие новинки",
-  "skip:https://www.film.ru/articles/recenziya-na-anime-kiberpank-begushchie-po-krayu-2-stavki-nizhe-shtampov-bolshe",
-  "https://www.kinonews.ru/news_143796/",
-  "title:Сериал \"Гарри Поттер\" станет самым дорогим для HBO",
-  "skip:https://gamemag.ru/news/201814/dispatch-one-year-anniversary",
-  "skip:https://stopgame.ru/newsdata/73272/godovschina_dispatch_obnovlenie_deluxe_izdaniya_i_anons_mobilnyh_versiy",
-  "https://gamemag.ru/news/201815/borderlands-4-update-notes",
   "video:2026-10-23:https://gamemag.ru/news/201815/borderlands-4-update-notes",
   "title:Borderlands 4 лишилась защиты Denuvo",
   "skip:https://deadline.com/2026/10/box-office-clayface-you-can-see-everything-1237171500/",
@@ -998,5 +989,14 @@
   "skip:https://gamemag.ru/news/201979/vertical-slice-arkane-union-workers-accuse-microsoft-of-sabotaging-the-studio",
   "skip:https://gamemag.ru/news/201976/tramp-ne-pomog-kompozitor-halo-i-destiny-proigral-vybory-v-kongress-ssha",
   "https://www.igromania.ru/news/169742/prodazhi-god-of-war-ragnarok-prevyisili-otmetku-v-216-mln-kopij/",
-  "title:Продажи God of War: Ragnarok превысили отметку в 21,6 млн копий"
+  "title:Продажи God of War: Ragnarok превысили отметку в 21,6 млн копий",
+  "skip:https://deadline.com/2026/11/sony-q2-earnings-spider-man-brand-new-day-1237214122/",
+  "skip:https://variety.com/2026/film/news/sony-pictures-earnings-spider-man-brand-new-day-1236939997/",
+  "skip:https://www.film.ru/news/vyshel-pervyy-tizer-oruzheynogo-barona-2",
+  "skip:https://deadline.com/2026/11/joe-minoso-exit-cruz-chicago-fire-season-15-recap-1237211554/",
+  "skip:https://kg-portal.ru/comments/135659-eto-zalet-dejzi-ridli-sluchajno-zaberemeneet-neponjatnym-suschestvom-v-uzhastike/",
+  "skip:https://www.kinonews.ru/news_143993/",
+  "https://variety.com/2026/film/news/adam-driver-the-hunt-for-ben-solo-kylo-ren-1236939988/",
+  "video:2026-11-05:https://variety.com/2026/film/news/adam-driver-the-hunt-for-ben-solo-kylo-ren-1236939988/",
+  "title:Adam Driver Says ‘The Ship Has Sailed’ on ‘The Hunt for Ben Solo’ and He’s Done Playing Kylo Ren: ‘It’s Over’"
 ]

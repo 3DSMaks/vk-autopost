@@ -1,15 +1,4 @@
 [
-  "skip:https://tass.ru/proisshestviya/28276069",
-  "https://www.rbc.ru/rbcfreenews/6ae712d5d019f528230d3a08",
-  "title:Четыре мирных жителя погибли при атаках Украины на ЛНР",
-  "skip:https://www.kommersant.ru/doc/9078414",
-  "https://www.rbc.ru/politics/01/11/2026/6ae6fb54d8edc07a79bde806",
-  "title:Армия Ирана заявила о покупке российских Су-35 и ожидает их поставки",
-  "skip:https://www.rbc.ru/economics/01/11/2026/6ae70b8c2432b1a6cebe6edd",
-  "skip:https://ria.ru/20261101/evropa-2128431144.html",
-  "https://www.kommersant.ru/doc/9078438",
-  "title:Александр Новак заявил о поступлении российского дизеля на рынок ЕС под другими марками",
-  "skip:https://www.interfax.ru/business/1126392",
   "https://www.kommersant.ru/doc/9078446",
   "title:ОПЕК+ сохранит квоты на добычу нефти в декабре",
   "skip:https://www.kommersant.ru/doc/9078442",
@@ -998,5 +987,16 @@
   "skip:https://www.france24.com/en/video/20261105-multiple-flights-in-europe-diverted-because-of-bomb-threats-after-earlier-hoaxes",
   "skip:https://www.rbc.ru/politics/05/11/2026/6aec79f497bb920de28c3091",
   "https://www.interfax.ru/world/1127193",
-  "title:В Европе зафиксирована новая волна ложных сообщений об угрозах взрыва на авиарейсах"
+  "title:В Европе зафиксирована новая волна ложных сообщений об угрозах взрыва на авиарейсах",
+  "skip:https://www.aljazeera.com/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court?traffic_source=rss",
+  "skip:https://news.google.com/rss/articles/CBMiigFBVV95cUxORDhxQVI1Z010dTJVSjdqZHdheWxsSFpDVk05T1pJZzVPa2FYeHF5cE5DeUk4SVhtbmtBbGJ3UTJsdmlkeXhPb3NJY18wV3NfaGdGbDBJV1FWLW0zc0NLY2VWS0FROC10dTQzWlZUcHRMSkJhSmZnSlRtN1dfV0FCNHdtMTZvOUhteVE?oc=5",
+  "skip:https://www.bbc.co.uk/news/videos/c9dr8713zjgyo?at_medium=RSS&at_campaign=rss",
+  "skip:https://www.france24.com/en/europe/20261105-british-comedian-russell-brand-found-guilty-of-rape-sexual-assault",
+  "skip:https://www.theguardian.com/culture/2026/nov/05/russell-brand-found-guilty-rape-sexual-assault",
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVHdmLUw5N2gyTG9jUURDdEtNLVVJRmlOcnhEWEJ2OWJrNUQxT1hWWlZFZjNGZWI0LUt5RzVrTzh1X1FGZ29iTGFQWm4yTTR4bHVPSTQ1amxQY1FHdjZuUTRjQmNTNHhaUzEzTFQteXc0YnpETGtzX1pBVzJ6bzlUZTRIQUpPdWVEZE1QRVhBVVg4RFd4Z2VDeVZ4RVJkUWZL?oc=5",
+  "title:Суд в Лондоне признал британского комика Рассела Брэнда виновным в изнасиловании и сексуальном насилии",
+  "skip:https://www.kommersant.ru/doc/9081110",
+  "skip:https://www.interfax.ru/russia/1127232",
+  "https://www.rbc.ru/rbcfreenews/6aec967594076a0133c11b9b",
+  "title:Владимир Путин провел в Кремле встречу с секретарем Совбеза Ирана Мохсеном Резаи"
 ]

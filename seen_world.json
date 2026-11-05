@@ -1,12 +1,4 @@
 [
-  "https://www.rbc.ru/technology_and_media/01/11/2026/6ae68e785213636976153056",
-  "title:Трамп прокомментировал информацию о причастности КНДР к взлому биржи Binance",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28275509",
-  "https://ria.ru/20261101/g20-2128396534.html",
-  "title:Трамп заявил о намерении пригласить Зеленского на саммит G20",
-  "skip:https://tass.ru/armiya-i-opk/28275741",
-  "https://ria.ru/20261101/pvo-2128409436.html",
-  "title:Силы ПВО за ночь сбили 235 украинских беспилотников над российскими регионами",
   "skip:https://www.interfax.ru/russia/1126369",
   "skip:https://www.kommersant.ru/doc/9078374",
   "https://www.rbc.ru/rbcfreenews/6ae6d256ed0a2bda6d0b8d82",
@@ -998,5 +990,13 @@
   "title:США дистанционно участвовали в переговорах о послевоенном восстановлении Украины",
   "skip:https://ria.ru/20261105/kndr-2129259537.html",
   "https://tass.ru/mezhdunarodnaya-panorama/28287047",
-  "title:КНДР провела испытания новейшего комплекса ПВО"
+  "title:КНДР провела испытания новейшего комплекса ПВО",
+  "skip:https://www.rbc.ru/rbcfreenews/6aebc538a1d455891c8deb8a",
+  "skip:https://news.google.com/rss/articles/CBMilgFBVV95cUxON2VHTjd2c194WWZFcllSTmlYdHVFWHQxZDEyVGh4SDljSXVEMDZfaDc3VHhqSWVOUktZWUJ1MkxDYVJyVTMyem03OWNqeXNTVjY0VUxpM0tobTA5M1lpY05BM2VtY2tqWlNvTlFqXzdrSWF6RnlmRUVpYmxHUUtKSEtkRDB3b1p1eEdYTU1qZHFWTHM5Q2c?oc=5",
+  "https://www.theguardian.com/world/2026/nov/05/hubert-aiwanger-dead-german-politician-berlin-hotel",
+  "title:В Берлине в отеле найден мертвым министр экономики Баварии Хуберт Айвангер",
+  "skip:https://ria.ru/20261105/tramp-2129265800.html",
+  "skip:https://www.rbc.ru/politics/05/11/2026/6aebb622bb284b7f41281c7f",
+  "https://www.kommersant.ru/doc/9080510",
+  "title:СМИ сообщили о риске срыва военных проектов Трампа после победы демократов в Конгрессе"
 ]

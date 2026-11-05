@@ -1,13 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/cyberpunk-2077-update-secretly-added-witcher-sword-cosmetics",
-  "skip:https://stopgame.ru/newsdata/73271/avtory_exodus_pomenyali_vneshnost_muzhskogo_protagonista_v_rezultate_kritiki",
-  "skip:https://www.igromania.ru/news/169478/v-exodus-duhovnom-naslednike-mass-effect-izmenili-muzhskuyu-versiyu-glavnogo-geroya-posle-kritiki/",
-  "https://www.playground.ru/gta_6/news/massovyj_nevyhod_na_rabotu_iz_za_reliza_gta_6_mozhet_obojtis_ekonomike_ssha_v_1_mlrd-1884126#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Массовый невыход на работу из-за релиза GTA 6 может обойтись экономике США в $1 млрд",
-  "skip:https://www.kinonews.ru/news_143794/",
-  "skip:https://www.kinonews.ru/news_143795/",
-  "https://deadline.com/2026/10/the-gentlemen-season-3-cast-orlando-bloom-no-meghan-markle-1237171447/",
-  "title:‘The Gentlemen’ Season 3 Cast Additions Include Orlando Bloom, Robert Carlyle & Elijah Wood But No Meghan Markle; Here’s Who’s Not Coming Back",
   "skip:https://stopgame.ru/newsdata/73274/prodazhi_remeyka_romancing_saga_2_prevysili_otmetku_v_million_kopiy",
   "https://www.playground.ru/elden_ring/news/elden_ring_prodalas_tirazhom_36_4_mln_kopij_i_prinesla_2_mlrd_v_2026_godu_igra_oboshla_mnogie_novinki-1884164#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Elden Ring продалась тиражом 36,4 млн копий и принесла $2 млрд - в 2026 году игра обошла многие новинки",
@@ -998,5 +989,14 @@
   "https://kg-portal.ru/comments/135658-oruzhejnye-barony-tizer/",
   "title:Отец Николас Кейдж и сын Билл Скарсгард воюют в тизере триллера \"Оружейные бароны\"",
   "https://deadline.com/2026/11/alfonso-cuaron-horror-thriller-ascension-cast-apple-tv-1237212571/",
-  "title:Alfonso Cuarón’s Horror Thriller ‘Ascension’ Casts Art Malik, Fred Loxley & Mirren Mack As Series Regulars"
+  "title:Alfonso Cuarón’s Horror Thriller ‘Ascension’ Casts Art Malik, Fred Loxley & Mirren Mack As Series Regulars",
+  "skip:https://www.igromania.ru/news/169747/prodazhi-marvels-wolverine-sostavili-24-mln-kopij-rosomaha-proigryivaet-ghost-of-yotei/",
+  "skip:https://www.playground.ru/marvels_wolverine/news/ofitsialno_marvels_wolverine_pokazala_skromnye_prodazhi_vsego_2_4_mln_kopij_za_dva_mesyatsa-1887957#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169743/ne-vina-arkane-profsoyuz-obvinil-microsoft-i-xbox-v-sabotazhe-razrabotki-marvels-blade/",
+  "skip:https://www.ign.com/articles/gta-6-rakes-in-over-750-million-in-pre-orders-two-weeks-ahead-of-release-date",
+  "skip:https://www.pcgamer.com/gaming-industry/french-game-union-accuses-microsoft-of-sabotaging-blade-and-then-using-the-fallout-to-justify-closing-arkane/",
+  "skip:https://gamemag.ru/news/201979/vertical-slice-arkane-union-workers-accuse-microsoft-of-sabotaging-the-studio",
+  "skip:https://gamemag.ru/news/201976/tramp-ne-pomog-kompozitor-halo-i-destiny-proigral-vybory-v-kongress-ssha",
+  "https://www.igromania.ru/news/169742/prodazhi-god-of-war-ragnarok-prevyisili-otmetku-v-216-mln-kopij/",
+  "title:Продажи God of War: Ragnarok превысили отметку в 21,6 млн копий"
 ]

@@ -1,9 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/games/strategy/creative-assembly-exec-pins-the-blame-for-the-shogun-2-remaster-mess-on-someone-else-this-was-not-a-creative-assembly-developed-game/",
-  "skip:https://www.ign.com/articles/femshep-voice-actor-jennifer-hale-speaks-out-after-mass-effect-5-trailer-leaks-online",
-  "skip:https://www.pcgamer.com/gaming-industry/im-forever-grateful-to-bioware-16-game-developers-share-the-moment-a-bioware-game-inspired-them-to-join-the-industry/",
-  "skip:https://www.ign.com/articles/mass-effect-5-details-revealed-following-cancellation-including-hitman-style-freedom-in-missions",
-  "skip:https://gamemag.ru/news/201816/arkane-has-until-november-to-find-a-buyer-or-face-closure-its-claimed",
   "https://www.igromania.ru/news/169501/v-cyberpunk-2077-dobavili-neskolko-predmetov-po-vedmaku-3-v-obnovlenii-k-vyihodu-anime/",
   "title:В Cyberpunk 2077 добавили несколько предметов по «Ведьмаку 3» в обновлении к выходу аниме",
   "skip:https://kg-portal.ru/comments/135520-mstiteli-doktor-dum-tizer/",
@@ -998,5 +993,10 @@
   "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/ispolnitel_roli_kapitana_prajsa_schitaet_sebya_luchshim_kandidatom_na_rol_v_filme_call_of_duty-1888028#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://stopgame.ru/newsdata/73394/2_4_mln_kopiy_u_marvel_s_wolverine_i_pochti_98_mln_prodannyh_ps5_otchet_sony",
   "https://www.playground.ru/gta_6/news/rockstar_podtverdila_vladeltsy_fizicheskih_kopij_gta_6_mogut_v_lyuboj_moment_perejti_na_izdanie_ultimate_edition-1888032#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Rockstar подтвердила: владельцы физических копий GTA 6 могут в любой момент перейти на издание Ultimate Edition"
+  "title:Rockstar подтвердила: владельцы физических копий GTA 6 могут в любой момент перейти на издание Ultimate Edition",
+  "skip:https://www.film.ru/news/adam-drayver-ne-vernetsya-v-zvezdnye-voyny",
+  "skip:https://variety.com/2026/film/news/liam-neeson-meryl-streep-aslan-narnia-1236940112/",
+  "skip:https://deadline.com/2026/11/the-odyssey-imax-quartelry-earnings-1237214226/",
+  "https://deadline.com/2026/11/kiefer-sutherland-al-pacino-movie-father-joe-us-deal-1237214237/",
+  "title:Kiefer Sutherland & Al Pacino Action-Thriller ‘Father Joe’ Gets North American Deal"
 ]

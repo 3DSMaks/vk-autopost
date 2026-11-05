@@ -1,10 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143807/",
-  "skip:https://kg-portal.ru/comments/135519-ridli-skott-privlek-scenarista-vospitannyh-volkami-dlja-prodolzhenija-prometeja-i-chuzhogo-zavet/",
-  "skip:https://www.film.ru/news/podtverzhdenie-hyuller-v-mstitelyah",
-  "skip:https://variety.com/2026/film/news/sandra-huller-avengers-doomsday-cameo-role-1236930032/",
-  "skip:https://www.film.ru/news/obyavlen-novyy-chuzhoy",
-  "https://deadline.com/2026/10/avengers-doomsday-world-series-sneak-peek-1237172207/",
   "title:‘Avengers: Doomsday’ World Series Sneak Peek Sees Mister Fantastic Throw Out First Pitch",
   "skip:https://www.igromania.ru/news/169504/igroki-dead-by-daylight-bolshe-ne-smogut-kupit-horoshego-parnya-chaki-posle-24-noyabrya-skoro-skidki/",
   "skip:https://www.igromania.ru/news/169497/shutka-o-kepah-i-plohaya-aktyorskaya-igra-bejsbolistov-mstiteli-doktor-dum-poluchili-novyij-tizer/",
@@ -998,5 +992,11 @@
   "skip:https://www.playground.ru/misc/news/adam_drajver_ne_vernyotsya_k_kajlo_renu_esli_tolko_disney_ne_peredumaet_naschyot_filma_o_bene_solo-1888023#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-full-english-voice-cast-revealed",
   "https://stopgame.ru/newsdata/73391/god_of_war_laufey_zaderzhitsya_do_20_maya_2027_go",
-  "title:God of War Laufey задержится до 20 мая 2027-го"
+  "title:God of War Laufey задержится до 20 мая 2027-го",
+  "skip:https://www.ign.com/articles/nintendo-rules-out-further-switch-2-price-rises-as-console-sales-and-profit-fall",
+  "skip:https://www.igromania.ru/news/169752/prodazhi-nintendo-switch-2-prevyisili-2635-mln-konsolej-plyus-raskryityi-uspehi-novyih-igr/",
+  "skip:https://stopgame.ru/newsdata/73393/tirazh_switch_2_prevysil_26_mln_konsoley_i_tempy_prodazh_snizhayutsya_otchet_nintendo",
+  "skip:https://gamemag.ru/news/201978/oficialno-reliz-god-of-war-laufey-otlojili-na-may-2027-goda",
+  "https://www.playground.ru/call_of_duty_modern_warfare_4/news/call_of_duty_modern_warfare_4_vozglavila_oktyabrskie_charty_zagruzok_v_playstation_store-1888030#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Call of Duty: Modern Warfare 4 возглавила октябрьские чарты загрузок в PlayStation Store"
 ]

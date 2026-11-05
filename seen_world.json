@@ -1,10 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1126381",
-  "skip:https://www.kommersant.ru/doc/9078392",
-  "skip:https://tass.ru/proisshestviya/28275893",
-  "skip:https://ria.ru/20261101/delo-2128420965.html",
-  "https://www.rbc.ru/rbcfreenews/6ae6dcadb6f380484a2310ee",
-  "title:СКР возбудил дело о теракте после атаки БПЛА в Нижегородской области",
   "skip:https://tass.ru/politika/28275889",
   "https://ria.ru/20261101/putin-2128422105.html",
   "title:Путин поздравил сотрудников Росфинмониторинга с 25-летием службы",
@@ -998,5 +992,11 @@
   "skip:https://ria.ru/20261105/bpla-2129271987.html",
   "skip:https://www.interfax.ru/russia/1127074",
   "https://ria.ru/20261105/bpla-2129273998.html",
-  "title:Около 50 беспилотников уничтожены над Воронежской областью за ночь"
+  "title:Около 50 беспилотников уничтожены над Воронежской областью за ночь",
+  "skip:https://ria.ru/20261105/ssha-2129301129.html",
+  "https://www.rbc.ru/politics/05/11/2026/6aec2c01535625f8570d9314",
+  "title:Демократы увеличили преимущество на промежуточных выборах в США",
+  "skip:https://www.rbc.ru/sport/05/11/2026/6aec2681283c4c1a8b63a13f",
+  "https://www.sport-interfax.ru/1127118",
+  "title:Умер чемпион мира «Формулы-1» 1980 года Алан Джонс"
 ]

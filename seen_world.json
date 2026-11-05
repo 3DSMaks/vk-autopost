@@ -1,10 +1,4 @@
 [
-  "skip:https://tass.ru/politika/28275839",
-  "skip:https://ria.ru/20261101/matvienko-2128417822.html",
-  "https://www.interfax.ru/russia/1126375",
-  "title:Председатель Совета Федерации Валентина Матвиенко направляется с официальным визитом в Китай",
-  "skip:https://www.interfax.ru/world/1126370",
-  "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
   "title:ФБР обвинило Северную Корею в кибератаке на биржу Binance",
   "skip:https://www.kommersant.ru/doc/9078386",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28275827",
@@ -998,5 +992,11 @@
   "skip:https://ria.ru/20261105/ogranicheniya-2129268499.html",
   "skip:https://tass.ru/ekonomika/28287279",
   "https://www.interfax.ru/russia/1127068",
-  "title:В аэропорту Сочи сняли временные ограничения на полеты"
+  "title:В аэропорту Сочи сняли временные ограничения на полеты",
+  "skip:https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+  "skip:https://www.france24.com/en/asia-pacific/20261105-joshua-wong-hong-kong-10-years-jail-foreign-collusion",
+  "skip:https://news.google.com/rss/articles/CBMirwFBVV95cUxNbVJKOWdMTUYyUUxqRVNtLXBGc2hjTTYwa3NQa0FNVXpKb3dnQzFySkJIY2I1MkhmZ0pscjE5SlFaQjEwZUROUjA2TlJlT1RVSjdYVkVycHZXcndMdW5Ic2Jtc1R3VW8wbWdvMm9BR2haOGZQblF6MjloYVFkU0t0ZU1tUTFkb1lVdm1QTl8tY3FFN2tBdGRMN3p6RUlLQ2NyZ184ejJJelYzVzdiNVVV?oc=5",
+  "skip:https://news.google.com/rss/articles/CBMivwFBVV95cUxOQS1XM3FhOUF5Y2FuYlkwYW42emJSbjBOX1NrWWNqMERIWHB3eWJLNzZScXFxLTlzRDVvS3Z0Tnl1bjEtRjBhOWIzT05FSWxpMHlLTGxPM2l5ZWlHNS12c21XLThxdmhianFFNDkzTGEtbVhfaG5RTnR4eEQ1aVk4cHNNMnQxVElkbkpFcGdPS29raGhacW54N1pLOUVDbnVEd0FMdW45MzBaMHFVOFhiTV9fUmxFTHlfb2F2TXNGbw?oc=5",
+  "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
+  "title:Гонконгского активиста Джошуа Вонга приговорили к 10 годам тюрьмы по закону о национальной безопасности"
 ]

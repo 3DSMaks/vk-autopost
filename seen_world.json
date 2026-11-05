@@ -1,12 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9078446",
-  "title:ОПЕК+ сохранит квоты на добычу нефти в декабре",
-  "skip:https://www.kommersant.ru/doc/9078442",
-  "skip:https://www.kommersant.ru/doc/9078437",
-  "https://www.rbc.ru/society/01/11/2026/6ae71d36dbc956125771c1b9",
-  "title:Россия введет визовый режим для граждан Черногории с 30 декабря",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28276145",
-  "https://www.interfax.ru/world/1126395",
   "title:Десятки демонстрантов и полицейских пострадали в ходе массовых беспорядков во Франции",
   "skip:https://ria.ru/20261101/binance-2128438200.html",
   "skip:https://www.rbc.ru/technology_and_media/01/11/2026/6ae7197092daf5f8eba4fb5a",
@@ -998,5 +990,13 @@
   "skip:https://www.kommersant.ru/doc/9081110",
   "skip:https://www.interfax.ru/russia/1127232",
   "https://www.rbc.ru/rbcfreenews/6aec967594076a0133c11b9b",
-  "title:Владимир Путин провел в Кремле встречу с секретарем Совбеза Ирана Мохсеном Резаи"
+  "title:Владимир Путин провел в Кремле встречу с секретарем Совбеза Ирана Мохсеном Резаи",
+  "skip:https://www.rbc.ru/society/05/11/2026/6aec714444645bf351561c4f",
+  "skip:https://www.aljazeera.com/sports/2026/11/5/why-has-cristiano-ronaldo-retired-from-international-football?traffic_source=rss",
+  "skip:https://www.rbc.ru/sport/05/11/2026/6aec92e51b2b2ead74f0fafa",
+  "https://www.kommersant.ru/doc/9081133",
+  "title:Криштиану Роналду завершил карьеру в сборной Португалии",
+  "skip:https://www.interfax.ru/russia/1127242",
+  "https://www.kommersant.ru/doc/9081158",
+  "title:МИД России рекомендовал гражданам временно воздержаться от поездок в Иран"
 ]

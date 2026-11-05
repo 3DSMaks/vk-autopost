@@ -1,7 +1,4 @@
 [
-  "skip:https://tass.ru/ekonomika/28275919",
-  "skip:https://ria.ru/20261101/cheboksary-2128420504.html",
-  "skip:https://tass.ru/ekonomika/28275891",
   "skip:https://www.interfax.ru/russia/1126379",
   "https://www.interfax.ru/russia/1126382",
   "title:Аэропорты Калуги, Нижнего Новгорода и Чебоксар возобновили работу после ограничений",
@@ -998,5 +995,8 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28288257",
   "skip:https://ria.ru/20261105/peregovory-2129328552.html",
   "https://ria.ru/20261105/erdogan-2129339272.html",
-  "title:Эрдоган заявил о планах обсудить с Путиным украинский конфликт"
+  "title:Эрдоган заявил о планах обсудить с Путиным украинский конфликт",
+  "skip:https://www.rbc.ru/rbcfreenews/6aec524ea1d455891c8dec33",
+  "https://www.kommersant.ru/doc/9080802",
+  "title:Гособвинение потребовало заочно приговорить Жанну Немцову к пяти годам колонии"
 ]

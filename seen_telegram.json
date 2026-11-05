@@ -1,9 +1,4 @@
 [
-  "title:Who Should Be the Next James Bond? 25 Picks for the New 007",
-  "skip:https://www.playground.ru/misc/news/amazon_obyavila_datu_premery_realiti_shou_fallout_shelter_the_experiment_uchastniki_poboryutsya_za_krupnyj_denezhnyj_priz-1884210#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169493/realiti-shou-fallout-shelter-the-experiment-startuet-13-yanvarya-2027-goda/",
-  "https://stopgame.ru/newsdata/73276/razrabotchik_valve_upomyanul_hlx_predpolagaemoe_kodovoe_nazvanie_half_life_3",
-  "title:Разработчик Valve упомянул HLX — предполагаемое кодовое название Half-Life 3",
   "skip:https://variety.com/2026/film/news/box-office-clayface-previews-1236919973/",
   "https://deadline.com/2026/10/david-zayas-cast-apple-tv-alex-cary-series-1237171754/",
   "title:David Zayas Joins Dakota Fanning In Apple TV’s Alex Cary Thriller Series",
@@ -998,5 +993,10 @@
   "skip:https://www.film.ru/news/novyy-film-o-dzhone-konstantine",
   "skip:https://kg-portal.ru/comments/135666-kianu-rivz-ischezaet-nad-novoj-ekranizaciej-konstantina-rabotaet-rezhisser-zloveschih-mertvecov/",
   "https://www.kinonews.ru/news_143996/",
-  "title:Звезда \"Медведя\" Джереми Аллен Уайт может стать новым Росомахой"
+  "title:Звезда \"Медведя\" Джереми Аллен Уайт может стать новым Росомахой",
+  "skip:https://www.kinonews.ru/news_144004/",
+  "skip:https://www.film.ru/news/dzheremi-allen-uayt-mozhet-sygrat-rosomahu",
+  "skip:https://www.film.ru/news/dnevnik-bridzhit-dzhons-vyydet-3-dekabrya",
+  "https://deadline.com/2026/11/liam-neeson-reacts-meryl-streep-narnia-aslan-1237213943/",
+  "title:Liam Neeson Reacts To Meryl Streep Taking Over ‘Narnia’ Role Of Aslan: “Nobody Better”"
 ]

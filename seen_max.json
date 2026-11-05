@@ -1,7 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169495/microsoft-i-xbox-dolzhnyi-reshit-sudbu-arkane-studios-i-marvels-blade-do-13-noyabrya-le-monde/",
-  "skip:https://www.pcgamer.com/gaming-industry/why-private-equity-acquisitions-like-the-one-that-just-claimed-bioware-are-so-dreaded/",
-  "skip:https://www.pcgamer.com/gaming-industry/time-could-be-running-out-for-arkane/",
   "skip:https://gamemag.ru/news/201820/insider-gaming-xbox-buying-mass-effect-wouldnt-surprise-me-but-they-shouldnt",
   "skip:https://www.pcgamer.com/gaming-industry/im-forever-grateful-to-bioware-16-game-developers-share-the-moment-a-bioware-game-inspired-them-to-join-the-industry/",
   "skip:https://www.ign.com/articles/bioware-may-be-gone-but-its-spirit-lives-on-in-these-games",
@@ -998,5 +995,8 @@
   "skip:https://gamemag.ru/news/201978/oficialno-reliz-god-of-war-laufey-otlojili-na-may-2027-goda",
   "skip:https://stopgame.ru/newsdata/73391/god_of_war_laufey_zaderzhitsya_do_20_maya_2027_go",
   "https://www.playground.ru/ghost_of_yotei/news/sucker_punch_raskryla_podrobnosti_vozvrascheniya_dzina_sakaya_v_ghost_of_yotei_most_wanted-1887963#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Sucker Punch раскрыла подробности возвращения Дзина Сакая в Ghost of Yotei: Most Wanted"
+  "title:Sucker Punch раскрыла подробности возвращения Дзина Сакая в Ghost of Yotei: Most Wanted",
+  "skip:https://www.kinonews.ru/news_144004/",
+  "https://www.kinonews.ru/news_143999/",
+  "title:Объявлен сценарист нового фильма DC Studios о Джоне Константине"
 ]

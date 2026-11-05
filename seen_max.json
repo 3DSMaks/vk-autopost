@@ -1,8 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/201820/insider-gaming-xbox-buying-mass-effect-wouldnt-surprise-me-but-they-shouldnt",
-  "skip:https://www.pcgamer.com/gaming-industry/im-forever-grateful-to-bioware-16-game-developers-share-the-moment-a-bioware-game-inspired-them-to-join-the-industry/",
-  "skip:https://www.ign.com/articles/bioware-may-be-gone-but-its-spirit-lives-on-in-these-games",
-  "skip:https://www.ign.com/articles/ea-appears-to-have-quietly-pulled-mass-effect-content-from-battlefield-6-following-bioware-shutdown",
   "skip:https://www.ign.com/articles/save-mass-effect-petition-hits-50000-signatures-just-days-after-bioware-closure",
   "https://www.pcgamer.com/games/action/based-on-player-data-capcoms-pretty-happy-with-the-difficulty-level-of-onimusha-way-of-the-sword-we-think-its-hit-the-right-spot/",
   "title:Based on player data, Capcom's pretty happy with the difficulty level of Onimusha: Way of the Sword: 'We think it's hit the right spot'",
@@ -998,5 +994,9 @@
   "title:Sucker Punch раскрыла подробности возвращения Дзина Сакая в Ghost of Yotei: Most Wanted",
   "skip:https://www.kinonews.ru/news_144004/",
   "https://www.kinonews.ru/news_143999/",
-  "title:Объявлен сценарист нового фильма DC Studios о Джоне Константине"
+  "title:Объявлен сценарист нового фильма DC Studios о Джоне Константине",
+  "skip:https://www.igromania.ru/news/169752/prodazhi-nintendo-switch-2-prevyisili-2635-mln-konsolej-plyus-raskryityi-uspehi-novyih-igr/",
+  "skip:https://stopgame.ru/newsdata/73393/tirazh_switch_2_prevysil_26_mln_konsoley_i_tempy_prodazh_snizhayutsya_otchet_nintendo",
+  "https://www.igromania.ru/news/169748/world-of-warcraft-forever-startovala-s-vostorzhennyimi-otzyivami-gejmerov/",
+  "title:World of Warcraft: Forever стартовала с восторженными отзывами геймеров"
 ]

@@ -1,7 +1,4 @@
 [
-  "https://www.film.ru/news/dzhudi-dench-uhodit-iz-kino",
-  "title:Джуди Денч уходит из кино",
-  "https://variety.com/2026/film/global/egyptian-cinema-el-gouna-film-industry-future-1236930557/",
   "title:Egyptian Cinema Eyes Its Next Act as Industry Veterans Call for Better Scripts, Wider Distribution",
   "skip:https://www.film.ru/news/glinolikiy-vozglavil-amerikanskiy-prokat",
   "https://variety.com/2026/film/news/elon-musks-grok-ai-generated-odyssey-1236930662/",
@@ -998,5 +995,8 @@
   "https://variety.com/2026/film/news/imax-quarterly-revenue-record-the-odyssey-1236940229/",
   "title:‘The Odyssey’ Takes Imax to Biggest Quarterly Revenue to Date",
   "https://deadline.com/2026/11/toy-story-5-andrew-stanton-interview-1237213590/",
-  "title:‘Toy Story 5’ Writer-Director Andrew Stanton Wants To Bring Nuance To The Conversation Between Kids & Technology"
+  "title:‘Toy Story 5’ Writer-Director Andrew Stanton Wants To Bring Nuance To The Conversation Between Kids & Technology",
+  "skip:https://deadline.com/2026/11/nicholas-galitzine-ichabod-crane-hollow-sydney-sweeney-2-1237214468/",
+  "https://deadline.com/2026/11/yellowjackets-trailer-creepy-alanis-morissette-soundtrack-1237213999/",
+  "title:‘Yellowjackets’ Trailer: The Team Adjusts To Civilization With Creepy Alanis Morissette Soundtrack In Final Season"
 ]

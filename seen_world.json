@@ -1,14 +1,4 @@
 [
-  "title:Десятки демонстрантов и полицейских пострадали в ходе массовых беспорядков во Франции",
-  "skip:https://ria.ru/20261101/binance-2128438200.html",
-  "skip:https://www.rbc.ru/technology_and_media/01/11/2026/6ae7197092daf5f8eba4fb5a",
-  "https://tass.ru/ekonomika/28276147",
-  "title:Криптобиржа Binance частично возобновила вывод средств после хакерской атаки",
-  "skip:https://www.interfax.ru/russia/1126394",
-  "skip:https://ria.ru/20261101/aleshki-2128439490.html",
-  "https://www.rbc.ru/rbcfreenews/6ae7237398193d61caf9e6b0",
-  "title:Эвакуированных из Алешек жителей разместили в пункте временного размещения на Кубани",
-  "skip:https://ria.ru/20261101/rossija-2128443767.html",
   "skip:https://www.rbc.ru/rbcfreenews/6ae70979dbc956125771c1ac",
   "https://www.kommersant.ru/doc/9078464",
   "title:Россия и Азербайджан подписали программу по модернизации бронетехники",
@@ -998,5 +988,15 @@
   "title:Криштиану Роналду завершил карьеру в сборной Португалии",
   "skip:https://www.interfax.ru/russia/1127242",
   "https://www.kommersant.ru/doc/9081158",
-  "title:МИД России рекомендовал гражданам временно воздержаться от поездок в Иран"
+  "title:МИД России рекомендовал гражданам временно воздержаться от поездок в Иран",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28289957",
+  "skip:https://www.rbc.ru/politics/05/11/2026/6aeca3db4cb9bd7ea0d75c44",
+  "skip:https://ria.ru/20261105/iran-2129509331.html",
+  "skip:https://news.google.com/rss/articles/CBMirAFBVV95cUxQMkR5dEUwb2FoSDZrZ2p1UVF1T3VzbjEwSmhUWFBSeElYM0lHamE3SE0zYVViRHNqZ2piYTBjbWtoZThDU01hQmpYRFlwMHJTTFl3S2MyWnFoZWh1VTRCdEFvckJZcHktYjNpMWxLbU1vOGp3N0k1Yi1FZ0xTMXYzU2I2OHVZeGZrVXdiUmJOZ0phb2dLTjVGTTQ4aGF0WEdOLTVzS2RLQzBYNXR5?oc=5",
+  "https://www.kommersant.ru/doc/9081175",
+  "title:Секретарь Совета безопасности Ирана Мохсен Резаи передал Владимиру Путину послание от верховного лидера Ирана",
+  "skip:https://www.interfax.ru/business/1127262",
+  "skip:https://tass.ru/ekonomika/28289993",
+  "https://ria.ru/20261105/rossija-2129519873.html",
+  "title:Россия и Иран подписали пакет документов о доступе к земельным участкам для строительства железнодорожной линии Решт — Астара"
 ]

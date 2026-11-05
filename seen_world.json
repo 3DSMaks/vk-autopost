@@ -1,12 +1,4 @@
 [
-  "skip:https://tass.ru/politika/28275989",
-  "https://tass.ru/politika/28276043",
-  "title:Юрий Ушаков заявил, что Владимир Путин ответит на возможный звонок Владимира Зеленского",
-  "skip:https://www.rbc.ru/politics/01/11/2026/6ae7079e6b8ef7b63d5e169f",
-  "skip:https://www.interfax.ru/russia/1126388",
-  "https://www.kommersant.ru/doc/9078436",
-  "title:Песков заявил о необходимости участия Европы в переговорах по Украине при изменении подхода",
-  "skip:https://ria.ru/20261101/lnr-2128434466.html",
   "skip:https://tass.ru/proisshestviya/28276069",
   "https://www.rbc.ru/rbcfreenews/6ae712d5d019f528230d3a08",
   "title:Четыре мирных жителя погибли при атаках Украины на ЛНР",
@@ -998,5 +990,13 @@
   "skip:https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVlZWHk4XzU4N190TEhTREdrcTJFU1R6QjZVRnp1VW9tYVN1OGc1ZUl3dkszbkFxQXN3TjhfbWpycVpIOGpYZXJST2FGRDdrUl9EbDUxeGNBeXpfZEZDT05XdHJoT25Tbkg3elc1ZF91YjFuZURRRV9GSVJSQVo0VmdDR0RucEEyaEN6VUhHWkVOY1U5by1lT0lLM2wwRVBKYU5sa3NvZVZHS1pqMEZUMFNScw?oc=5",
   "skip:https://tass.ru/info/28288955",
   "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
-  "title:Криштиану Роналду объявил о завершении карьеры в сборной Португалии"
+  "title:Криштиану Роналду объявил о завершении карьеры в сборной Португалии",
+  "skip:https://www.sport-interfax.ru/1127204",
+  "skip:https://www.rbc.ru/sport/05/11/2026/6aec75b67ac2290fc6e576e7",
+  "https://tass.ru/sport/28289297",
+  "title:Федерация футбола Португалии пообещала организовать достойные проводы Криштиану Роналду из сборной",
+  "skip:https://www.france24.com/en/video/20261105-multiple-flights-in-europe-diverted-because-of-bomb-threats-after-earlier-hoaxes",
+  "skip:https://www.rbc.ru/politics/05/11/2026/6aec79f497bb920de28c3091",
+  "https://www.interfax.ru/world/1127193",
+  "title:В Европе зафиксирована новая волна ложных сообщений об угрозах взрыва на авиарейсах"
 ]

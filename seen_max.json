@@ -1,7 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169517/ekranizatsiya-elden-ring-mozhet-obojtis-studii-a24-pochti-v-200-mln-dollarov/",
-  "skip:https://www.igromania.ru/news/169516/uroven-slozhnosti-onimusha-way-of-the-sword-blizok-k-iznachalnoj-zadumke-zayavili-v-capcom/",
-  "https://www.playground.ru/dragon_age_the_veilguard/news/prodyuser_bioware_schitaet_chto_ea_pomeshala_raskryt_potentsial_dragon_age_the_veilguard-1884605#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Продюсер BioWare считает что EA помешала раскрыть потенциал Dragon Age: The Veilguard",
   "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/igroki_call_of_duty_modern_warfare_4_stolknulis_s_blekloj_grafikoj_posle_obnovleniya_drajverov-1884615#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169515/glava-new-blood-nazval-immersivnyij-simulyator-plohim-marketingovyim-terminom/",
@@ -998,5 +995,8 @@
   "https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/monolith_soft_pomogla_nintendo_s_remejkom_the_legend_of_zelda_ocarina_of_time-1888288#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Monolith Soft помогла Nintendo с ремейком The Legend of Zelda: Ocarina of Time",
   "https://deadline.com/2026/11/letitia-wright-horror-in-her-shadow-for-obsession-producer-1237215351/",
-  "title:Letitia Wright To Star In Supernatural Horror ‘In Her Shadow’ For ‘Obsession’ Producer & Bankside — AFM"
+  "title:Letitia Wright To Star In Supernatural Horror ‘In Her Shadow’ For ‘Obsession’ Producer & Bankside — AFM",
+  "skip:https://www.playground.ru/onimusha_way_of_the_sword/news/capcom_dovolna_startom_pragmata_i_onimusha_way_of_the_sword_obe_igry_operezhayut_prognozy_po_prodazham-1888292#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "https://stopgame.ru/newsdata/73403/v_assassins_creed_valhalla_vveli_novuyu_igru_hranilische_podderzhku_pssr_2_i_ne_tolko",
+  "title:В Assassin's Creed Valhalla ввели «Новую игру +», хранилище, поддержку PSSR 2 и не только"
 ]

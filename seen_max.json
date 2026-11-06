@@ -1,11 +1,4 @@
 [
-  "https://www.playground.ru/phantom_blade_zero/news/v_set_utekla_pervaya_retsenziya_na_phantom_blade_zero_pohvalili_boyovku_no_raskritikovali_pustye_lokatsii-1884679#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:В сеть утекла первая рецензия на Phantom Blade Zero - похвалили боёвку, но раскритиковали пустые локации",
-  "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/call_of_duty_modern_warfare_4_privlekla_bolee_227_tysyach_igrokov_v_steam_v_debyutnyj_uikend-1884664#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/dlya_call_of_duty_modern_warfare_4_vyshlo_blagotvoritelnoe_dlc_v_chest_geroya_kajla_karpentera-1884656#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "https://www.playground.ru/god_of_war_3/news/god_of_war_iii_remastered_spartanport_2_7_0_povysil_proizvoditelnost_na_slabyh_protsessorah_vplot_do_5_raz-1884646#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:God of War III Remastered - SpartanPort 2.7.0 повысил производительность на слабых процессорах вплоть до 5 раз",
-  "skip:https://www.playground.ru/witcher/news/dag_kokl_zapisal_vse_repliki_geralta_dlya_pervogo_vedmaka_vsego_za_8_dnej_u_menya_propadal_golos-1884626#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169519/aktyor-ozvuchki-geralta-v-vedmake-rasskazal-o-tyazhyoloj-rabote-nad-personazhem/",
   "https://www.igromania.ru/news/169509/rukovodstvo-xbox-otkazalos-prodavat-prava-na-ekranizatsii-svoih-igr-netflix-za-500-mln-dollarov-zayavil-insajder/",
   "title:Руководство Xbox отказалось продавать права на экранизации своих игр Netflix за 500 млн долларов, заявил инсайдер",
@@ -998,5 +991,12 @@
   "https://www.kinonews.ru/news_144018/",
   "title:\"Список смертников\" с Крисом Праттом получил продолжение",
   "https://kg-portal.ru/comments/135689-novye-pohozhdenija-kliffa-buta-vtoroj-trejler/",
-  "title:Брэд Питт спасает голливудскую звезду в трейлере экшен-триллера \"Новые похождения Клиффа Бута\""
+  "title:Брэд Питт спасает голливудскую звезду в трейлере экшен-триллера \"Новые похождения Клиффа Бута\"",
+  "skip:https://www.pcgamer.com/games/rpg/david-gaider-has-been-working-on-owlcats-expanse-rpg-the-expanse-has-long-been-one-of-my-favourite-series-and-so-obviously-i-jumped-at-the-opportunity-to-be-involved/",
+  "skip:https://stopgame.ru/newsdata/73407/v_age_of_wonders_4_nachalis_besplatnye_vyhodnye",
+  "skip:https://www.igromania.ru/news/169779/svezhij-trejler-the-expanse-osiris-reborn-posvyatili-novomu-golosu-glavnogo-geroya/",
+  "skip:https://www.igromania.ru/news/169778/mobilnuyu-ratchet-and-clank-ranger-rumble-zakryivayut-serveryi-igryi-otklyuchat-1-maya-2027-goda/",
+  "skip:https://www.igromania.ru/news/169771/fentezijnaya-strategiya-age-of-wonders-4-stala-vremenno-besplatnoj-v-tom-chisle-v-rossii/",
+  "https://www.playground.ru/metro_4/news/milliardy_obektov_i_chernaya_magiya_optimizatsii_4a_games_rasskazala_o_tehnologicheskom_skachke_dvizhka_metro_2039-1888368#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Миллиарды объектов и \"черная магия\" оптимизации: 4A Games рассказала о технологическом скачке движка Metro 2039"
 ]

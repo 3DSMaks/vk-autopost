@@ -1,7 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135526-mstiteli-doktor-dum-tizer/",
-  "skip:https://kg-portal.ru/comments/135525-dzhejms-gann-na-sedmom-nebe-klejfejs-poluchil-ot-zritelej-takuju-zhe-ocenku-kak-obsessija-i-orudija/",
-  "https://www.film.ru/news/garri-potter-stal-samym-dorogim-serialom",
   "title:«Гарри Поттер» стал самым дорогим сериалом",
   "skip:https://www.kinonews.ru/news_143816/",
   "skip:https://variety.com/2026/film/news/sag-aftra-duncan-crabtree-ireland-contract-extension-1236930503/",
@@ -998,5 +995,8 @@
   "skip:https://www.ign.com/articles/ea-brings-every-ultima-and-wing-commander-game-to-steam-and-gog-with-quality-of-life-updates",
   "skip:https://www.pcgamer.com/games/eas-releasing-a-truckload-of-classic-games-on-steam-and-7-of-them-are-remasters/",
   "https://www.igromania.ru/news/169776/pragmata-i-novaya-onimusha-prodayutsya-s-operezheniem-plana-dragons-dogma-2-dark-arisen-tozhe-horosha/",
-  "title:Pragmata и новая Onimusha продаются с опережением плана — Dragonʼs Dogma 2: Dark Arisen тоже хороша"
+  "title:Pragmata и новая Onimusha продаются с опережением плана — Dragonʼs Dogma 2: Dark Arisen тоже хороша",
+  "skip:https://kg-portal.ru/comments/135688-galleristka-trejler/",
+  "https://www.kinonews.ru/news_144019/",
+  "title:Адам Драйвер подтвердил роль злодея-психопата в \"Схватке 2\""
 ]

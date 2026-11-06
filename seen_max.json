@@ -1,10 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73282/smi_a24_vydelila_pochti_s200_mln_na_adaptaciyu_elden_ring",
-  "skip:https://gamemag.ru/news/201829/former-bioware-producer-on-future-op-studios-ip-october-2026",
-  "skip:https://www.ign.com/articles/rumored-lucia-actress-goes-viral-after-dodging-swarm-of-gta-6-comments-during-livestream",
-  "https://www.playground.ru/until_dawn/news/eksklyuziv_ps4_neofitsialno_dobralsya_do_pk_sostoyalsya_reliz_nativnoj_rekompilyatsii_until_dawn_2015_goda-1884711#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Эксклюзив PS4 неофициально добрался до ПК - состоялся релиз нативной рекомпиляции Until Dawn 2015 года",
-  "skip:https://www.playground.ru/phantom_blade_zero/news/phantom_blade_zero_poluchila_vysokie_otsenki_ot_kritikov_91_ball_na_opencritic_i_88_na_metacritic-1884795#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.ign.com/articles/phantom-blade-zero-review",
   "skip:https://gamemag.ru/news/201834/exodus-new-protagonist-face-october-2026",
   "https://www.playground.ru/gears_of_war_e_day/news/utverzhdaetsya_chto_gears_of_war_e_day_stanet_pervoj_chastyu_trilogii_byudzhet_v_500_mln_dollarov_rasschitan_na_3_igry-1884789#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +992,11 @@
   "skip:https://variety.com/2026/tv/news/melania-trump-series-amazon-release-date-1236941341/",
   "skip:https://www.film.ru/news/prikvel-ochen-strannyh-del",
   "https://deadline.com/2026/11/taylor-kitsch-alexandra-daddario-long-island-bank-robber-1237215411/",
-  "title:Taylor Kitsch, Alexandra Daddario & Christopher Walken Set For True Crime-Thriller ‘The Long Island Bank Robber’ — AFM"
+  "title:Taylor Kitsch, Alexandra Daddario & Christopher Walken Set For True Crime-Thriller ‘The Long Island Bank Robber’ — AFM",
+  "skip:https://www.playground.ru/warhammer_40000_rogue_trader/news/razrabotchiki_rogue_trader_ob_anonse_daty_vyhoda_finalnogo_dopolneniya_eto_moment_v_kotorom_radost_smeshana_s_grustyu-1888406#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://stopgame.ru/newsdata/73411/hard_west_ii_vyydet_na_ps5_i_xbox_series_uzhe_na_sleduyuschey_nedele",
+  "skip:https://www.igromania.ru/news/169774/nier-automata-sluchajno-vyirosla-do-366-gb-posle-svezhego-obnovleniya-v-steam/",
+  "skip:https://gamemag.ru/news/202003/processiya-proklyatyh-finalnoe-dlc-dlya-warhammer-40000-rogue-trader-vyhodit-v-dekabre",
+  "https://www.igromania.ru/news/169777/bloodborne-ne-poluchila-prodolzheniya-ili-remejk-iz-za-slozhnostej-pri-peregovorah-prichastnyih-storon/",
+  "title:Bloodborne не получила продолжения или ремейк из-за сложностей при переговорах причастных сторон"
 ]

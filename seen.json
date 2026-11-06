@@ -1,7 +1,4 @@
 [
-  "skip:https://deadline.com/2026/10/man-arrested-miami-vice-85-brooklyn-set-butcher-knife-1237172783/",
-  "skip:https://www.kinonews.ru/news_143823/",
-  "skip:https://variety.com/2026/film/news/miami-vice-85-man-arrested-on-set-1236930692/",
   "https://variety.com/2026/film/columns/i-play-rocky-stephan-james-carl-weathers-michael-b-jordan-1236930508/",
   "title:‘I Play Rocky’ Star Stephan James on Paying Tribute to Carl Weathers with His Red Carpet Look: ‘I Can Literally Walk in His Shoes Yet Again’",
   "skip:https://www.kinonews.ru/news_143826/",
@@ -998,5 +995,8 @@
   "skip:https://variety.com/2026/film/news/rosamund-pike-feed-body-horror-movie-leslye-headland-1236940925/",
   "skip:https://variety.com/2026/digital/news/letterboxd-negotiations-new-york-times-1236940881/",
   "https://deadline.com/2026/11/the-terminal-list-franchise-amazon-savage-son-chris-pratt-1237215033/",
-  "title:‘The Terminal List’ Franchise Continues At Amazon With ‘Savage Son’"
+  "title:‘The Terminal List’ Franchise Continues At Amazon With ‘Savage Son’",
+  "skip:https://www.kinonews.ru/news_144015/",
+  "https://www.film.ru/news/treyler-galeristki-s-portman-i-ortegoy",
+  "title:Трейлер Галеристки с Портман и Ортегой"
 ]

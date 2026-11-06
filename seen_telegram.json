@@ -1,7 +1,4 @@
 [
-  "https://www.film.ru/news/tarantino-pokazal-otryvok-iz-kliffa-buta",
-  "title:Тарантино показал отрывок из «Клиффа Бута»",
-  "https://www.film.ru/news/dzhudi-dench-uhodit-iz-kino",
   "title:Джуди Денч уходит из кино",
   "https://www.film.ru/news/todd-heyns-gotovit-novoe-kino",
   "title:Тодд Хэйнс готовит новое кино",
@@ -998,5 +995,8 @@
   "skip:https://www.igromania.ru/news/169772/sverhestestvennaya-strategiya-v-settinge-dikogo-zapada-hard-west-2-vyijdet-na-konsolyah-10-noyabrya/",
   "skip:https://gamemag.ru/news/202003/processiya-proklyatyh-finalnoe-dlc-dlya-warhammer-40000-rogue-trader-vyhodit-v-dekabre",
   "https://www.igromania.ru/news/169777/bloodborne-ne-poluchila-prodolzheniya-ili-remejk-iz-za-slozhnostej-pri-peregovorah-prichastnyih-storon/",
-  "title:Bloodborne не получила продолжения или ремейк из-за сложностей при переговорах причастных сторон"
+  "title:Bloodborne не получила продолжения или ремейк из-за сложностей при переговорах причастных сторон",
+  "skip:https://variety.com/2026/film/box-office/box-office-godzilla-minus-zero-previews-1236941301/",
+  "https://www.film.ru/news/prikvel-ochen-strannyh-del",
+  "title:Приквел Очень странных дел"
 ]

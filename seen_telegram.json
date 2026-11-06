@@ -1,9 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169512/sozdateli-tomb-raider-legacy-of-atlantis-rasskazali-o-prodolzhitelnosti-igryi/",
-  "https://www.playground.ru/call_of_duty_modern_warfare_4/news/call_of_duty_modern_warfare_4_privlekla_bolee_227_tysyach_igrokov_v_steam_v_debyutnyj_uikend-1884664#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Call of Duty: Modern Warfare 4 привлекла более 227 тысяч игроков в Steam в дебютный уикенд",
-  "skip:https://variety.com/2026/film/news/clayface-batman-gotham-aaron-paul-cameo-1236921644/",
-  "skip:https://kg-portal.ru/comments/135525-dzhejms-gann-na-sedmom-nebe-klejfejs-poluchil-ot-zritelej-takuju-zhe-ocenku-kak-obsessija-i-orudija/",
   "skip:https://variety.com/2026/film/columns/i-play-rocky-anthony-ippolito-sylvester-stallone-dog-1236930482/",
   "skip:https://www.film.ru/articles/recenziya-na-film-oglyanis-dramu-o-devichey-druzhbe-ot-rezhissera-magazinnyh-vorishek",
   "https://www.kinonews.ru/news_143811/",
@@ -998,5 +993,10 @@
   "title:\"Список смертников\" с Крисом Праттом получил продолжение",
   "https://kg-portal.ru/comments/135689-novye-pohozhdenija-kliffa-buta-vtoroj-trejler/",
   "video:2026-11-06:https://kg-portal.ru/comments/135689-novye-pohozhdenija-kliffa-buta-vtoroj-trejler/",
-  "title:Брэд Питт спасает голливудскую звезду в трейлере экшен-триллера \"Новые похождения Клиффа Бута\""
+  "title:Брэд Питт спасает голливудскую звезду в трейлере экшен-триллера \"Новые похождения Клиффа Бута\"",
+  "skip:https://gamemag.ru/news/202004/criminal-series-teaser",
+  "skip:https://stopgame.ru/newsdata/73407/v_age_of_wonders_4_nachalis_besplatnye_vyhodnye",
+  "skip:https://www.igromania.ru/news/169771/fentezijnaya-strategiya-age-of-wonders-4-stala-vremenno-besplatnoj-v-tom-chisle-v-rossii/",
+  "https://stopgame.ru/newsdata/73406/v_2027_m_vyydet_dokumentalnyy_film_o_bioware_i_rasskazhet_o_ee_finalnyh_dnyah",
+  "title:В 2027-м выйдет документальный фильм о BioWare и расскажет о её финальных днях"
 ]

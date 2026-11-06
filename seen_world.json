@@ -1,12 +1,4 @@
 [
-  "https://www.interfax.ru/russia/1126406",
-  "title:Вооруженные силы России поразили сухогруз с военными грузами для Украины недалеко от Одессы",
-  "skip:https://ria.ru/20261101/sheriev-2128473246.html",
-  "skip:https://tass.ru/sport/28276373",
-  "skip:https://www.rbc.ru/sport/01/11/2026/6ae74f8576ddd207a528d836",
-  "skip:https://www.kommersant.ru/doc/9078543",
-  "skip:https://ria.ru/20261101/gadzhimagomedov-2128468039.html",
-  "skip:https://tass.ru/sport/28276343",
   "skip:https://tass.ru/sport/28276333",
   "skip:https://www.rbc.ru/sport/01/11/2026/6ae7444f81b6b30aeb229613",
   "skip:https://tass.ru/sport/28276305",
@@ -998,5 +990,13 @@
   "title:В ЛНР в результате атак ВСУ за сутки пострадали несколько человек, включая пассажиров микроавтобуса",
   "skip:https://ria.ru/20261106/zakharova-2129678596.html",
   "https://tass.ru/politika/28292269",
-  "title:Официальный представитель МИД РФ Мария Захарова раскритиковала решение властей ФРГ отказать в выплатах блокадникам нееврейской национальности"
+  "title:Официальный представитель МИД РФ Мария Захарова раскритиковала решение властей ФРГ отказать в выплатах блокадникам нееврейской национальности",
+  "skip:https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVRCaDk3eDZCNk1pZm5fYzRTSmNwOGJuXzhOeFh6R09KV1lBcXhPMjRfWGZfWjRtTEtSTkRCRWhlMHdsYWo4X1Q0QnBuSE5zNGtfVmdEWGtsaVVuTi02dnBHbUkxRXg5UnRDVFRKcS1KTjRoOGlaaThBbkVGYzRwbGw4OVB2bFBDWURjWS1qNGZLZ2hJMHJKaGpKX0dWSVN3aGV5bnVtQXRxVGhvLUVzckM1REU0VEE?oc=5",
+  "https://ria.ru/20261106/rim-2129696856.html",
+  "title:Рейс Прага — Рим сел в Венеции из-за угрозы взрыва",
+  "skip:https://ria.ru/20261106/iran-2129686825.html",
+  "skip:https://ria.ru/20261106/putin-2129681385.html",
+  "skip:https://ria.ru/20261106/putin--2129681114.html",
+  "https://www.interfax.ru/russia/1127410",
+  "title:Владимир Путин провел встречу с секретарем Совбеза Ирана Мохсеном Резаи в Москве"
 ]

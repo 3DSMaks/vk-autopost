@@ -1,10 +1,4 @@
 [
-  "skip:https://ria.ru/20261101/sk-2128479222.html",
-  "skip:https://tass.ru/proisshestviya/28276407",
-  "skip:https://ria.ru/20261101/delo-2128477130.html",
-  "skip:https://tass.ru/proisshestviya/28276385",
-  "https://www.rbc.ru/rbcfreenews/6ae75e0b6b514a72023eaf40",
-  "title:В Ростовской области задержан подозреваемый в похищении и убийстве семейной пары",
   "skip:https://tass.ru/sport/28276405",
   "https://www.rbc.ru/sport/01/11/2026/6ae76451ed0a2bda6d0b8da0",
   "title:Финляндия предложила странам ЕС ограничить въезд российским спортсменам",
@@ -998,5 +992,11 @@
   "skip:https://www.interfax.ru/world/1127429",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28292539",
   "https://www.rbc.ru/politics/06/11/2026/6aedc0eae02016d6a88ac6b6",
-  "title:Суд в Финляндии приостановил новые аресты российских госактивов"
+  "title:Суд в Финляндии приостановил новые аресты российских госактивов",
+  "skip:https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM1hGX3FNRUVaMDhGcnI2WkxBSk53bDZLT1A3RDZvZFktR0wyZy05Ym8xc2hsTFlQMDJzT3lHeHZkTl9UMkttb3RocE9KSDB6OGNmNG9iNFY0aFdVelhFeXREVWJ1OUpUNG1zWEFMUnZueUVMdGhXNVVuUFBCY2lhMm1EY0pxUEsweDVveC11eF9ZRmwwSEdVUy1Jbndzdi1GWXd3M282NHdpdkdqeU83T1FRcmtXZ2RGSDRFN2pKRzg?oc=5",
+  "https://www.interfax.ru/world/1127434",
+  "title:Мощное землетрясение зафиксировано у восточного побережья Японии",
+  "skip:https://news.google.com/rss/articles/CBMixgFBVV95cUxNTDM4YlUwUzVPa0VhbS1wVTlvVXpPbWZ5Y1EwUUFfSG1Cbk5xR1NSeTNLZnhNLU1Lekk0eDVuaWtCQndUSTd0bDRELWNXdGJJYllrYmJUYkRqMkl4b0VwWVRCWF9Tc2doN3lIRm42eV9YQlBha3JfNHByNDFLb1RxV3RkdkZyRFZJRnVsc0VybnBGUzdJRUw5LXVMMl9zMGNrb05EeWFXVm5KYnVnNGYzMTNQd3oxcGJDZVlVUlFDTlJSeHAtUGc?oc=5",
+  "https://www.interfax.ru/world/1127428",
+  "title:Во Франции школьный автобус попал в ДТП, есть погибшие"
 ]

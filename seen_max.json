@@ -1,8 +1,4 @@
 [
-  "skip:https://www.playground.ru/misc/news/zendeyu_budut_prodvigat_na_oskar_za_rol_chani_v_dyune_chast_tretya_srazu_kak_luchshuyu_aktrisu-1884400#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "https://www.pcgamer.com/games/rpg/upcoming-mass-effect-like-exodus-himbo-fies-protagonist-after-fans-complain-about-his-face/",
-  "title:Upcoming Mass Effect-like Exodus himbo-fies protagonist after fans complain about his face",
-  "https://www.playground.ru/fallout_4/news/novyj_mod_dobavlyaet_v_fallout_4_dinamicheskuyu_deformatsiyu_landshafta-1884404#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Новый мод добавляет в Fallout 4 динамическую деформацию ландшафта",
   "https://www.playground.ru/gta_6/news/digital_foundry_ne_stoit_zhdat_polnotsennuyu_gta_vi_na_pk_cherez_emulyatsiyu_srazu_posle_konsolnogo_reliza-1884393#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Digital Foundry: не стоит ждать полноценную GTA VI на ПК через эмуляцию сразу после консольного релиза",
@@ -998,5 +994,9 @@
   "title:Sony Announces Official Marvel's Wolverine Sales Figure for the First Time, Raises PlayStation Sales Forecast With GTA 6 Imminent",
   "skip:https://variety.com/2026/film/news/robert-pattinson-40th-american-cinematheque-award-ryan-gosling-1236939979/",
   "https://www.film.ru/news/ari-aster-nachal-semki-kozla-otpushcheniya",
-  "title:Ари Астер начал съемки «Козла отпущения»"
+  "title:Ари Астер начал съемки «Козла отпущения»",
+  "skip:https://www.film.ru/news/verdikt-rassella-brenda",
+  "skip:https://www.kinonews.ru/news_144010/",
+  "https://www.kinonews.ru/news_144015/",
+  "title:Lionsgate запускает анимационный приквел \"Джона Уика\""
 ]

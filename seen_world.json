@@ -1,14 +1,4 @@
 [
-  "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZlE4dXBSNXNIRlR3U1ZfS2hXam11aWp1cWpLUzgxVUVxemRoeUczdnZuU21BaGFkaWtMa1BfYWRNZ0JDeGNFQkg3am5yaVQ2VEljZlduRGhlT3pBVUpESDNWcW05OU5BVXhBTW5BU3VxdjRHS0NjdW1MY1FFc0ZKV3BkUTNOYkd0NHE5d3V0R2FvcXA4NWJ2U0tQN0o4bnhaNGc?oc=5",
-  "title:Власти Великобритании исключили возможность выплаты репараций за историческую роль в работорговле",
-  "skip:https://ria.ru/20261101/fsb-2128482014.html",
-  "skip:https://www.interfax.ru/russia/1126412",
-  "skip:https://ria.ru/20261101/moskva-2128481775.html",
-  "skip:https://tass.ru/proisshestviya/28276417",
-  "skip:https://ria.ru/20261101/oruzhie-2128473601.html",
-  "https://www.rbc.ru/politics/01/11/2026/6ae74a3167da0aeda7ed7967",
-  "title:ФСБ опубликовала кадры задержания подростка в Москве, готовившего теракт по указаниям из США",
-  "skip:https://www.interfax.ru/russia/1126411",
   "skip:https://ria.ru/20261101/sk-2128479222.html",
   "skip:https://tass.ru/proisshestviya/28276407",
   "skip:https://ria.ru/20261101/delo-2128477130.html",
@@ -998,5 +988,15 @@
   "skip:https://tass.ru/proisshestviya/28292453",
   "skip:https://ria.ru/20261106/praga-2129699441.html",
   "https://www.rbc.ru/politics/06/11/2026/6aedb59cff2d0771a5715784",
-  "title:Новая волна ложных сообщений об угрозах взрыва на авиарейсах в Европе"
+  "title:Новая волна ложных сообщений об угрозах взрыва на авиарейсах в Европе",
+  "skip:https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM1lNNTd4SjQ5dGlFcG1hdjFVY2lvOXZDMVZCUmZjaTJBSXlFTGZsS1E2aEt2bXhQUXl4R0FrZnNtUlFpdUo5RVJUZ2JISllTV0RFQ0tqLWNSNk5HeVBpU2N1WFJKck9LRHYxSE9nSjJ1cXhpN3VKNlV6TGhTSkVOR3EzT2dtSXBtUTNEU2FkQVVBLUVMckZvU0c2dkhQcmNyVTh6V01CcnF6MmFtV0lfS2pNTU1JSEdMRWxUV1lqblJtanNaRTljQXRPN0hQbEJl?oc=5",
+  "skip:https://ria.ru/20261106/sovbez-2129712178.html",
+  "skip:https://tass.ru/politika/28292535",
+  "skip:https://www.interfax.ru/russia/1127423",
+  "https://www.rbc.ru/technology_and_media/06/11/2026/6aedbc4e30e757a9a3262c27",
+  "title:Совбез РФ предупредил о дестабилизирующих рисках спутниковых систем Starlink и OneWeb",
+  "skip:https://www.interfax.ru/world/1127429",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28292539",
+  "https://www.rbc.ru/politics/06/11/2026/6aedc0eae02016d6a88ac6b6",
+  "title:Суд в Финляндии приостановил новые аресты российских госактивов"
 ]

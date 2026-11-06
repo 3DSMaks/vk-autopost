@@ -1,9 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1126547",
-  "skip:https://ria.ru/20261102/ates-2128609072.html",
-  "skip:https://www.interfax.ru/russia/1126545",
-  "skip:https://tass.ru/politika/28278299",
-  "skip:https://tass.ru/politika/28278293",
   "skip:https://ria.ru/20261102/putin-2128605547.html",
   "skip:https://tass.ru/politika/28278289",
   "skip:https://tass.ru/politika/28278281",
@@ -998,5 +993,10 @@
   "title:Дональд Трамп назначил Стивена Миллера новым главой аппарата Белого дома",
   "skip:https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies",
   "https://www.kommersant.ru/doc/9091586",
-  "title:Умер лауреат премии «Оскар» чилийский режиссер Себастьян Лелио"
+  "title:Умер лауреат премии «Оскар» чилийский режиссер Себастьян Лелио",
+  "skip:https://www.rbc.ru/rbcfreenews/6aee3baa5b36bc7c245dc3b7",
+  "skip:https://www.france24.com/en/americas/20261106-trump-announces-immigration-hardliner-stephen-miller-as-new-chief-of-staff",
+  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss",
+  "skip:https://www.interfax.ru/world/1127509",
+  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fR2NZenF2RTcyX0t4aDFMZDgyMGhxMllBNFViMWdFRENqWk9KbVg0a2hrOWt4NlM1WElIcWtVOE9iUFJGM2RackwxYjc0aFl0OVVXR1JNRGlnNE1oQ05jOGI1RTVHX1E?oc=5"
 ]

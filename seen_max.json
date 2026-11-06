@@ -1,6 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/201827/prohojdenie-tomb-raider-legacy-of-atlantis-zaymet-1416-chasov",
-  "skip:https://www.igromania.ru/news/169512/sozdateli-tomb-raider-legacy-of-atlantis-rasskazali-o-prodolzhitelnosti-igryi/",
   "https://www.playground.ru/phantom_blade_zero/news/v_set_utekla_pervaya_retsenziya_na_phantom_blade_zero_pohvalili_boyovku_no_raskritikovali_pustye_lokatsii-1884679#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:В сеть утекла первая рецензия на Phantom Blade Zero - похвалили боёвку, но раскритиковали пустые локации",
   "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/call_of_duty_modern_warfare_4_privlekla_bolee_227_tysyach_igrokov_v_steam_v_debyutnyj_uikend-1884664#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +996,7 @@
   "https://www.film.ru/news/praym-taym-pokazhut-v-rossii",
   "title:Прайм-тайм покажут в России",
   "https://www.kinonews.ru/news_144018/",
-  "title:\"Список смертников\" с Крисом Праттом получил продолжение"
+  "title:\"Список смертников\" с Крисом Праттом получил продолжение",
+  "https://kg-portal.ru/comments/135689-novye-pohozhdenija-kliffa-buta-vtoroj-trejler/",
+  "title:Брэд Питт спасает голливудскую звезду в трейлере экшен-триллера \"Новые похождения Клиффа Бута\""
 ]

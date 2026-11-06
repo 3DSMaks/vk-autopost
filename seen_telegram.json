@@ -1,11 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73281/capcom_dovolna_slozhnostyu_onimusha_way_of_the_sword_i_uchla_kritiku_povtoryayuschihsya_bossov",
-  "skip:https://www.pcgamer.com/games/sim/new-blood-ceo-confirms-it-the-worst-way-to-sell-immersive-sims-like-gloomwood-and-fallen-aces-is-to-call-them-immersive-sims/",
-  "https://www.playground.ru/dragon_age_the_veilguard/news/prodyuser_bioware_schitaet_chto_ea_pomeshala_raskryt_potentsial_dragon_age_the_veilguard-1884605#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Продюсер BioWare считает что EA помешала раскрыть потенциал Dragon Age: The Veilguard",
-  "skip:https://kg-portal.ru/comments/135526-mstiteli-doktor-dum-tizer/",
-  "https://www.film.ru/news/garri-potter-stal-samym-dorogim-serialom",
-  "title:«Гарри Поттер» стал самым дорогим сериалом",
   "skip:https://www.pcgamer.com/games/mass-effect/mass-effect-5-would-have-let-players-generate-alternate-timelines-based-on-their-choices-in-previous-games-according-to-the-series-technical-director/",
   "https://www.playground.ru/halo_combat_evolved/news/halo_studios_planirovala_igru_po_halo_first_strike_no_uvolneniya_mogli_sorvat_proekt-1884608#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Halo Studios планировала игру по Halo: First Strike, но увольнения могли сорвать проект",
@@ -998,5 +991,12 @@
   "title:Letitia Wright To Star In Supernatural Horror ‘In Her Shadow’ For ‘Obsession’ Producer & Bankside — AFM",
   "https://www.film.ru/news/priznaki-neyrosetey-v-novoy-reklame-dior",
   "video:2026-11-06:https://www.film.ru/news/priznaki-neyrosetey-v-novoy-reklame-dior",
-  "title:Признаки нейросетей в новой рекламе Dior"
+  "title:Признаки нейросетей в новой рекламе Dior",
+  "skip:https://www.playground.ru/onimusha_way_of_the_sword/news/capcom_dovolna_startom_pragmata_i_onimusha_way_of_the_sword_obe_igry_operezhayut_prognozy_po_prodazham-1888292#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169776/pragmata-i-novaya-onimusha-prodayutsya-s-operezheniem-plana-dragons-dogma-2-dark-arisen-tozhe-horosha/",
+  "skip:https://www.pcgamer.com/gaming-industry/saudi-arabia-owns-ea-and-according-to-a-reuters-report-unity-is-next/",
+  "skip:https://www.igromania.ru/news/169768/animatsionnomu-filmu-o-dzhone-uike-s-kianu-rivzom-dali-zelyonyij-svet/",
+  "skip:https://www.igromania.ru/news/169767/vladeyuschie-ea-suverennyij-fond-saudovskoj-aravii-i-silver-lake-nedavno-obsuzhdali-pokupku-unity/",
+  "https://www.igromania.ru/news/169769/da-blin-bethesda-gejmeryi-vyismeyali-ofitsialnyij-merch-po-the-elder-scrolls-vi-sentinel/",
+  "title:«Да блин, Bethesda» — геймеры высмеяли официальный мерч по The Elder Scrolls VI: Sentinel"
 ]

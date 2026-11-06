@@ -1,13 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMitAFBVV95cUxOX2l3Y3cxckRlRlpIRFQzT2FWa0YzZHcxYTdSV3dDY29iN0FNUHdqa1hKWkxFdU40NFI5MG8tWEV2SU54cng3NXpoV3JhdzdjVVRKZHJPYmlPNVBYTG95Y1lQYW1PbzVscnpHZ0plMGhET096ZDNjdEg0dTlzd2dPNVNlOXV3N2NiOW5rXzRsN3VZc2pSQWk0TUxkLXl4ZTRrcV9mMW9UWnUtSzlPajJaLS16Qm8?oc=5",
-  "https://tass.ru/mezhdunarodnaya-panorama/28276233",
-  "title:В Германии прошли массовые протесты и беспорядки, приведшие к столкновениям с полицией",
-  "skip:https://www.interfax.ru/business/1126402",
-  "skip:https://tass.ru/ekonomika/28276203",
-  "skip:https://ria.ru/20261101/opek-2128452185.html",
-  "https://www.kommersant.ru/doc/9078485",
-  "title:Семь стран ОПЕК+ сохранили действующие квоты по добыче нефти на декабрь",
-  "skip:https://www.rbc.ru/politics/01/11/2026/6ae7277381b6b30aeb2295d7",
   "https://tass.ru/mezhdunarodnaya-panorama/28276289",
   "title:В Сербии задержали высокопоставленных сотрудников полиции",
   "skip:https://tass.ru/proisshestviya/28276317",
@@ -998,5 +989,14 @@
   "title:КСИР сообщил о возгорании двух танкеров в Ормузском проливе из-за подрыва на минах",
   "skip:https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWnlMcV9XTE94RnhqbWNmQ1B5Y01Gd0tReURLRG5nc1VOVlBQR1RwazRSdXF0azlhbS1nTmJ5M0MxZUxMMUQxM1pxRHVjN1VVQWM5OGtOOGdWU1Fwa0llb0hxTXVHX05rV3JoRTR3eWwtTkNseGQ2eW5hcTcxUmQ5YnRYUVNwaGdwaDlhelZ5dmJoOVZhaGU1N1Fkb1RTUDFMY1lCUzlMcG9SYUNDcUlMeHBBYXBWQmM2QUloLWh5QkNuOGRvMTRVSml0dmxEN2lqaU1va09iQ0o?oc=5",
   "https://tass.ru/ekonomika/28291583",
-  "title:Илон Маск заявил о сокращении производства Tesla Cybertruck ради роботакси"
+  "title:Илон Маск заявил о сокращении производства Tesla Cybertruck ради роботакси",
+  "skip:https://www.kommersant.ru/doc/9081524",
+  "https://www.rbc.ru/technology_and_media/06/11/2026/6aed89bec4a073e7d4c86199",
+  "title:«Т-Технологии» объявили о планах выкупить до 100% акций «Циана»",
+  "skip:https://www.rbc.ru/rbcfreenews/6aed8cdad40277571ee8da69",
+  "skip:https://www.kommersant.ru/doc/9081526",
+  "skip:https://ria.ru/20261106/bespilotnik-2129638200.html",
+  "skip:https://tass.ru/proisshestviya/28291671",
+  "https://www.interfax.ru/russia/1127368",
+  "title:При атаке беспилотника в Адыгее пострадал человек"
 ]

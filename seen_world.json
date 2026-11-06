@@ -1,11 +1,4 @@
 [
-  "skip:https://tass.ru/sport/28276495",
-  "skip:https://tass.ru/sport/28276489",
-  "skip:https://tass.ru/sport/28276451",
-  "skip:https://www.rbc.ru/sport/01/11/2026/6ae75e706b514a72023eaf42",
-  "skip:https://ria.ru/20261101/medali-2128479406.html",
-  "https://tass.ru/sport/28276505",
-  "title:Сборная России по спортивной борьбе завоевала четыре золотые медали на чемпионате мира в Астане",
   "skip:https://www.interfax.ru/russia/1126417",
   "skip:https://ria.ru/20261101/bespilotnik-2128490898.html",
   "skip:https://tass.ru/armiya-i-opk/28276527",
@@ -998,5 +991,12 @@
   "title:Лидер кенийской секты приговорен к пожизненному заключению за массовые убийства детей",
   "skip:https://www.kommersant.ru/doc/9091279",
   "https://ria.ru/20261106/netanyakhu--2129736218.html",
-  "title:Офис Нетаньяху назвал прекращение помощи США переходом к партнерству"
+  "title:Офис Нетаньяху назвал прекращение помощи США переходом к партнерству",
+  "skip:https://www.interfax.ru/business/1127443",
+  "skip:https://www.kommersant.ru/doc/9091322",
+  "https://www.rbc.ru/rbcfreenews/6aedd2a4dacbc91c5c974964",
+  "title:ЦБ определил перечень криптовалют для неквалифицированных инвесторов",
+  "skip:https://www.kommersant.ru/doc/9091316",
+  "https://tass.ru/mezhdunarodnaya-panorama/28292911",
+  "title:Президент Парагвая Сантьяго Пенья запросил время на подготовку к импичменту на фоне финансового кризиса"
 ]

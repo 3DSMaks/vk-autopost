@@ -1,9 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/games/rpg/biowares-incredible-legacy-will-continue-as-long-as-there-are-rpgs/",
-  "skip:https://www.pcgamer.com/games/sim/new-blood-ceo-confirms-it-the-worst-way-to-sell-immersive-sims-like-gloomwood-and-fallen-aces-is-to-call-them-immersive-sims/",
-  "https://www.playground.ru/halo_combat_evolved/news/halo_studios_planirovala_igru_po_halo_first_strike_no_uvolneniya_mogli_sorvat_proekt-1884608#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Halo Studios планировала игру по Halo: First Strike, но увольнения могли сорвать проект",
-  "https://www.film.ru/news/todd-heyns-gotovit-novoe-kino",
   "title:Тодд Хэйнс готовит новое кино",
   "https://kg-portal.ru/comments/135529-posle-vojny-imira-sarika-andreasjana-vyjdet-novyj-film-poromanu-anna-karenina-lva-tolstogo/",
   "title:После \"Войны и мира\" Сарика Андреасяна выйдет новый фильм по роману \"Анна Каренина\" Льва Толстого",
@@ -998,5 +993,10 @@
   "https://www.ign.com/articles/rapper-kodak-black-will-be-in-npc-in-gta-6-creating-speculation-over-other-artists-appearing-in-game",
   "title:Rapper Kodak Black Will Be an NPC in GTA 6, Creating Speculation Over Other Artists Appearing In-Game",
   "https://deadline.com/2026/11/weta-fx-daniel-seah-taicca-taiwan-moonshine-studio-1237215367/",
-  "title:Weta FX CEO Daniel Seah Unpacks TAICCA Partnership: “Taiwan Has Creative Talent, Technology & Government Support”"
+  "title:Weta FX CEO Daniel Seah Unpacks TAICCA Partnership: “Taiwan Has Creative Talent, Technology & Government Support”",
+  "skip:https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/razrabotchikam_remejka_ocarina_of_time_posovetovali_ne_otvlekatsya_na_zaputannuyu_hronologiyu_zelda-1888335#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.pcgamer.com/software/zelda-ocarina-of-time-remake-reportedly-running-at-60-fps-on-pc-just-hours-after-games-official-nintendo-switch-2-release/",
+  "skip:https://www.ign.com/articles/nintendo-exec-bill-trinen-explains-why-the-ocarina-of-time-remake-is-the-perfect-first-the-legend-of-zelda-game",
+  "https://gamemag.ru/news/202007/sedina-v-golovu-activision-blizzard-otklyuchila-warzone-na-xbox-one-i-ps4",
+  "title:Седина в голову: Activision Blizzard отключила Warzone на Xbox One и PS4"
 ]

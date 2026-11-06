@@ -1,15 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9078661",
-  "title:Андрей Гюров признал поражение во втором туре президентских выборов в Болгарии",
-  "skip:https://news.google.com/rss/articles/CBMizgFBVV95cUxNdXY4a011WkVOZHRKb3FKU2lMRzNwbGlwOUFPWFdMWVcycnhkeVd2aDZpc0tfclNqYTFsS1lkR1JGT1dqYXJkU1pIeDhITThrWm43QldpMFEwNnItS0k2a1hSckF4TU5rdlkxMnBjUnRfTThHY1AyVDlkaFFrRElKOUppaDU1NXg3a0dEUmY1VWtCNDVKM3pHLUlyOHV1TjZHdElqRUUzR1g5VThQcDYyV3NQSTNkYkFZMEVzM0ZHV2dYRGFsV1NLWWpWeGxyQQ?oc=5",
-  "https://tass.ru/ekonomika/28277063",
-  "title:Криптобиржа Binance возобновила работу после вывода средств пользователями на фоне хакерской атаки",
-  "skip:https://ria.ru/20261102/rossija-2128561885.html",
-  "skip:https://www.rbc.ru/technology_and_media/02/11/2026/6ae837facd60143befd98ec0",
-  "https://www.kommersant.ru/doc/9078811",
-  "title:Крупный технический сбой затронул хостинг-провайдер Beget",
-  "skip:https://ria.ru/20261102/fsb-2128548631.html",
-  "skip:https://www.rbc.ru/politics/02/11/2026/6ae83204458ce32e70db7761",
   "skip:https://www.interfax.ru/russia/1126490",
   "https://www.kommersant.ru/doc/9078792",
   "title:ФСБ предотвратила серию терактов против российских военных с использованием заминированных FPV-очков",
@@ -998,5 +987,16 @@
   "skip:https://www.rbc.ru/rbcfreenews/6aee09f8e824b280460c968d",
   "skip:https://ria.ru/20261106/gosduma-2129837694.html",
   "https://www.interfax.ru/russia/1127497",
-  "title:Правительство РФ внесло в Госдуму законопроект о конвертации пенсионных накоплений в программу долгосрочных сбережений"
+  "title:Правительство РФ внесло в Госдуму законопроект о конвертации пенсионных накоплений в программу долгосрочных сбережений",
+  "skip:https://www.interfax.ru/culture/1127499",
+  "skip:https://tass.ru/kultura/28293551",
+  "skip:https://www.rbc.ru/society/06/11/2026/6aee1494bd610e42ee884311",
+  "skip:https://ria.ru/20261106/kayurov-2129845454.html",
+  "skip:https://ria.ru/20261106/kayurov-2129844029.html",
+  "skip:https://tass.ru/kultura/28293509",
+  "https://ria.ru/20261106/akter-2129847816.html",
+  "title:Умер народный артист РСФСР Юрий Каюров",
+  "skip:https://www.interfax.ru/business/1127495",
+  "https://www.kommersant.ru/doc/9091568",
+  "title:Совет директоров «Роснефти» рекомендовал промежуточные дивиденды"
 ]

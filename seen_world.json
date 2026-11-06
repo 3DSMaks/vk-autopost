@@ -1,11 +1,4 @@
 [
-  "skip:https://tass.ru/proisshestviya/28276473",
-  "https://www.interfax.ru/russia/1126419",
-  "title:Несколько городов и районов ДНР частично обесточены из-за аварии в энергосистеме",
-  "skip:https://www.interfax.ru/world/1126420",
-  "skip:https://news.google.com/rss/articles/CBMivgFBVV95cUxOOXdkX2hvMlBTTmRRRGlTbndZSTFnWnZyYkJ5STRjNFBOUkdwQ3VDUjRuTUQySzhQMkp2UXh0MW5VS3E4WHVXeEhQQ2JnRnUxV0pIVTM3T1J6Y0o3Y1JWamZ4YXMwNEtjazNiU3pERzRaWC1XNXZBZk56UU1KSUFNMWtZS0hrUjNUSW5ILW9kdWVQa3BqYkNPSl9tQk90SEtWcDdXRjZXdkdUT1IzS2ViaTgwTmE5MnlCclh1T0pB?oc=5",
-  "skip:https://www.rbc.ru/politics/01/11/2026/6ae77214b2d30c2d3dd1d60e",
-  "https://www.kommersant.ru/doc/9078620",
   "title:Дональд Трамп пообещал использовать право вето в случае победы демократов на выборах в Конгресс",
   "skip:https://www.rbc.ru/politics/01/11/2026/6ae7777d81b6b30aeb229695",
   "https://tass.ru/mezhdunarodnaya-panorama/28276565",
@@ -998,5 +991,12 @@
   "skip:https://www.aljazeera.com/sports/2026/11/6/portugal-fa-pledges-to-honour-cristiano-ronaldo-as-jorge-jesus-names-squad?traffic_source=rss",
   "skip:https://news.google.com/rss/articles/CBMiygFBVV95cUxPYUx5U2lDRXk1YThMbm9UZWl5OUwxRFFEVGYwSEw2QS1mcEFJOVZNbmJ2TzhyV3VfamJ0VGgxSjQ0eE9PMlZGbkFhcE9UaVVoeVduU1NtN2Q0ci1yQnBwYkNaTnAtSzVaSUVaSHJKVzVHenZMZFFZSEFHQnExaEEzTHdQTFZjb3lDanBzekNCcFhWNGVTUm5EMnRhYWdtY3FoSGxLTlFRNVhMc1dIbnJkMHRFcFJhZTFXbkdwT09xajdyWUx5a3h6QXNR?oc=5",
   "https://www.rbc.ru/sport/06/11/2026/6aedd4932ad290e27f932f6f",
-  "title:Федерация футбола Португалии пообещала почтить Криштиану Роналду после его ухода из сборной"
+  "title:Федерация футбола Португалии пообещала почтить Криштиану Роналду после его ухода из сборной",
+  "skip:https://ria.ru/20261106/akunin-2129782620.html",
+  "skip:https://www.rbc.ru/politics/06/11/2026/6aede101e855636db5bcba3a",
+  "https://www.interfax.ru/russia/1127453",
+  "title:Минюст расширил реестр лиц под временными ограничениями, включив в него Бориса Акунина, Юрия Дудя и других",
+  "skip:https://www.kommersant.ru/doc/9091433",
+  "https://tass.ru/mezhdunarodnaya-panorama/28293073",
+  "title:Финляндия разрабатывает новые ограничения на въезд для граждан России"
 ]

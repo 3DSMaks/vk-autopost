@@ -1,10 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1126490",
-  "https://www.kommersant.ru/doc/9078792",
-  "title:ФСБ предотвратила серию терактов против российских военных с использованием заминированных FPV-очков",
-  "skip:https://www.rbc.ru/rbcfreenews/6ae83c511eb6f46c9372c089",
-  "skip:https://tass.ru/proisshestviya/28277807",
-  "https://www.kommersant.ru/doc/9078846",
   "title:МВД и Лаборатория Касперского пресекли деятельность хакерской группировки Вася Грек",
   "skip:https://www.kommersant.ru/doc/9078878",
   "skip:https://ria.ru/20261102/yotova-2128574349.html",
@@ -998,5 +992,11 @@
   "title:Умер народный артист РСФСР Юрий Каюров",
   "skip:https://www.interfax.ru/business/1127495",
   "https://www.kommersant.ru/doc/9091568",
-  "title:Совет директоров «Роснефти» рекомендовал промежуточные дивиденды"
+  "title:Совет директоров «Роснефти» рекомендовал промежуточные дивиденды",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28293617",
+  "https://ria.ru/20261106/usa-2129851654.html",
+  "title:Стивен Миллер назначен новым главой аппарата Белого дома",
+  "skip:https://tass.ru/kultura/28293563",
+  "https://www.rbc.ru/rbcfreenews/6aee1dad2fca64e80dfad819",
+  "title:Умер лауреат премии «Оскар» режиссер Себастьян Лелио"
 ]

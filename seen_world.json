@@ -1,14 +1,4 @@
 [
-  "skip:https://tass.ru/sport/28276333",
-  "skip:https://www.rbc.ru/sport/01/11/2026/6ae7444f81b6b30aeb229613",
-  "skip:https://tass.ru/sport/28276305",
-  "https://tass.ru/sport/28276401",
-  "title:Российские борцы завоевали золотые и бронзовые медали на чемпионате мира в Астане",
-  "skip:https://www.rbc.ru/rbcfreenews/6ae7538781b6b30aeb229665",
-  "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVEpDUVhCYWticTBIZEZxaHVlMXBZbFp0ODd6RVB2c1VzNllrVFpHRk5SR3E4Uk9YeWRJVFVoVGhlLS10ckliNzkyTzdjNi1KRU85UG9UQXpvcjlteTdLcm5iTERreDNqaF9jSU1ndTBwN2pBcXdGNlhEYTRmTFpKOXVOMUl3Q21fQW9DS2gxUWpkYjdfYnlJWmROR3VEQk5KUVhNSGFMNFFHcUZmNTZ2UENLWks?oc=5",
-  "title:ФСБ раскрыла детали задержания подростка в Москве после информации из США о подготовке теракта",
-  "skip:https://www.theguardian.com/politics/live/2026/nov/01/andy-burnham-uk-historic-slave-trade-financial-reparations-badenoch-budget-defence-latest-politics-news-updates",
-  "skip:https://www.aljazeera.com/news/2026/11/1/burnham-open-to-uk-slavery-apology-but-not-reparations-why-now?traffic_source=rss",
   "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZlE4dXBSNXNIRlR3U1ZfS2hXam11aWp1cWpLUzgxVUVxemRoeUczdnZuU21BaGFkaWtMa1BfYWRNZ0JDeGNFQkg3am5yaVQ2VEljZlduRGhlT3pBVUpESDNWcW05OU5BVXhBTW5BU3VxdjRHS0NjdW1MY1FFc0ZKV3BkUTNOYkd0NHE5d3V0R2FvcXA4NWJ2U0tQN0o4bnhaNGc?oc=5",
   "title:Власти Великобритании исключили возможность выплаты репараций за историческую роль в работорговле",
   "skip:https://ria.ru/20261101/fsb-2128482014.html",
@@ -998,5 +988,15 @@
   "skip:https://ria.ru/20261106/putin-2129681385.html",
   "skip:https://ria.ru/20261106/putin--2129681114.html",
   "https://www.interfax.ru/russia/1127410",
-  "title:Владимир Путин провел встречу с секретарем Совбеза Ирана Мохсеном Резаи в Москве"
+  "title:Владимир Путин провел встречу с секретарем Совбеза Ирана Мохсеном Резаи в Москве",
+  "skip:https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
+  "skip:https://www.rbc.ru/rbcfreenews/6aedb22e3eeddcdbc2d938f9",
+  "https://ria.ru/20261106/frantsija-2129709910.html",
+  "title:Во Франции школьный автобус попал в ДТП, погибли два человека",
+  "skip:https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live",
+  "skip:https://www.aljazeera.com/news/2026/11/6/hoax-or-bomb-threats-what-we-know-about-flight-disruptions-across-europe?traffic_source=rss",
+  "skip:https://tass.ru/proisshestviya/28292453",
+  "skip:https://ria.ru/20261106/praga-2129699441.html",
+  "https://www.rbc.ru/politics/06/11/2026/6aedb59cff2d0771a5715784",
+  "title:Новая волна ложных сообщений об угрозах взрыва на авиарейсах в Европе"
 ]

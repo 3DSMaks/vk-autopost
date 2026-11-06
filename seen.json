@@ -1,8 +1,4 @@
 [
-  "title:Elon Musk’s Grok Releases First AI-Generated ‘Odyssey’ Episode, Months After Promising ‘Historically Accurate’ Full-Length Film",
-  "skip:https://deadline.com/2026/10/box-office-global-clayface-1237172755/",
-  "https://deadline.com/2026/10/hudson-williams-writing-film-ex-hockey-player-character-1237172776/",
-  "title:Hudson Williams Is Writing A Film, “Getting Tripped Up” Over Ex-Hockey Player Character",
   "skip:https://deadline.com/2026/10/man-arrested-miami-vice-85-brooklyn-set-butcher-knife-1237172783/",
   "skip:https://www.kinonews.ru/news_143823/",
   "skip:https://variety.com/2026/film/news/miami-vice-85-man-arrested-on-set-1236930692/",
@@ -998,5 +994,9 @@
   "title:‘Yellowjackets’ Trailer: The Team Adjusts To Civilization With Creepy Alanis Morissette Soundtrack In Final Season",
   "skip:https://deadline.com/2026/11/freddie-prinze-jr-shelley-hennig-sasha-pieterse-killing-time-1237214982/",
   "https://variety.com/2026/film/news/keanu-reeves-john-wick-animated-movie-prequel-1236940815/",
-  "title:Keanu Reeves Set to Return as John Wick in Animated Prequel Movie"
+  "title:Keanu Reeves Set to Return as John Wick in Animated Prequel Movie",
+  "skip:https://variety.com/2026/film/news/rosamund-pike-feed-body-horror-movie-leslye-headland-1236940925/",
+  "skip:https://variety.com/2026/digital/news/letterboxd-negotiations-new-york-times-1236940881/",
+  "https://deadline.com/2026/11/the-terminal-list-franchise-amazon-savage-son-chris-pratt-1237215033/",
+  "title:‘The Terminal List’ Franchise Continues At Amazon With ‘Savage Son’"
 ]

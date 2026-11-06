@@ -1,13 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1126407",
-  "skip:https://tass.ru/obschestvo/28276321",
-  "skip:https://www.kommersant.ru/doc/9078521",
-  "https://www.rbc.ru/rbcfreenews/6ae746781dfdf0fb94e2bcf4",
-  "title:ФСБ задержала несовершеннолетнего после информации из США о подготовке теракта в Москве",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28276249",
-  "https://ria.ru/20261101/london-2128466717.html",
-  "title:В Лондоне у посольства США задержали более 300 участников протеста в поддержку Palestine Action",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28276291",
   "https://www.interfax.ru/world/1126408",
   "title:Иран продолжает переговоры с катарскими посредниками по Ормузскому проливу",
   "skip:https://www.kommersant.ru/doc/9078510",
@@ -998,5 +989,14 @@
   "skip:https://www.kommersant.ru/doc/9081567",
   "skip:https://www.interfax.ru/world/1127367",
   "https://www.rbc.ru/politics/06/11/2026/6aed8bf4d1ea9bbf08b4e611",
-  "title:Генсек НАТО Марк Рютте прокомментировал сделку США и России по дизельному топливу"
+  "title:Генсек НАТО Марк Рютте прокомментировал сделку США и России по дизельному топливу",
+  "skip:https://tass.ru/politika/28292129",
+  "skip:https://www.kommersant.ru/doc/9091144",
+  "https://tass.ru/mezhdunarodnaya-panorama/28291377",
+  "title:Дональд Трамп анонсировал крупное соглашение по Украине после встречи с Кириллом Дмитриевым и Меланией Трамп",
+  "skip:https://tass.ru/ekonomika/28292067",
+  "skip:https://tass.ru/ekonomika/28292127",
+  "skip:https://www.interfax.ru/russia/1127385",
+  "https://www.interfax.ru/russia/1127394",
+  "title:В аэропортах Грозного, Махачкалы и Владикавказа введены временные ограничения на полеты"
 ]

@@ -1,8 +1,4 @@
 [
-  "title:‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-  "https://kg-portal.ru/comments/135535-nedelja-kino-na-kg-glavnye-novosti-1925-oktjabrja/",
-  "title:Неделя кино на КГ — главные новости 19–25 октября",
-  "https://www.kinonews.ru/news_143831/",
   "title:Начались съемки третьего фильма о героях Простоквашино",
   "https://deadline.com/2026/10/disney-plus-the-walsh-sisters-marian-keyes-rte-bbc-series-1237172919/",
   "title:Disney+ Among Buyers For RTÉ & BBC Drama ‘The Walsh Sisters’",
@@ -998,5 +994,9 @@
   "skip:https://deadline.com/2026/11/sebastian-lelio-dead-fantastic-woman-director-1237215711/",
   "skip:https://www.kinonews.ru/news_144033/",
   "https://deadline.com/2026/11/ariana-grande-focker-in-law-hexed-box-office-projections-1237215651/",
-  "title:Ariana Grande Comedy ‘Focker-In-Law’ & Disney’s ‘Hexed’ Hope To Lure $40M-$50M Opening Over Thanksgiving Box Office Stretch"
+  "title:Ariana Grande Comedy ‘Focker-In-Law’ & Disney’s ‘Hexed’ Hope To Lure $40M-$50M Opening Over Thanksgiving Box Office Stretch",
+  "skip:https://variety.com/2026/film/awards/la-bola-negra-to-receive-international-star-award-1236940942/",
+  "skip:https://deadline.com/2026/11/am-i-the-wave-manuel-garcia-rulfo-renata-vaca-1237215721/",
+  "https://www.film.ru/news/uley-startoval-v-amediateka",
+  "title:Улей стартовал в Amediateka"
 ]

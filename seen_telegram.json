@@ -1,7 +1,4 @@
 [
-  "skip:https://variety.com/2026/film/columns/i-play-rocky-anthony-ippolito-sylvester-stallone-dog-1236930482/",
-  "skip:https://www.film.ru/articles/recenziya-na-film-oglyanis-dramu-o-devichey-druzhbe-ot-rezhissera-magazinnyh-vorishek",
-  "https://www.kinonews.ru/news_143811/",
   "title:Элайджа Вуд и Орландо Блум сыграют в сериале \"Джентльмены\"",
   "skip:https://variety.com/2026/film/box-office/you-can-see-everything-box-office-huge-second-weekend-clayface-leads-1236930604/",
   "skip:https://deadline.com/2026/10/sag-aftra-votes-extend-duncan-crabtree-ireland-contract-1237172683/",
@@ -998,5 +995,8 @@
   "skip:https://stopgame.ru/newsdata/73407/v_age_of_wonders_4_nachalis_besplatnye_vyhodnye",
   "skip:https://www.igromania.ru/news/169771/fentezijnaya-strategiya-age-of-wonders-4-stala-vremenno-besplatnoj-v-tom-chisle-v-rossii/",
   "https://stopgame.ru/newsdata/73406/v_2027_m_vyydet_dokumentalnyy_film_o_bioware_i_rasskazhet_o_ee_finalnyh_dnyah",
-  "title:В 2027-м выйдет документальный фильм о BioWare и расскажет о её финальных днях"
+  "title:В 2027-м выйдет документальный фильм о BioWare и расскажет о её финальных днях",
+  "skip:https://www.igromania.ru/news/169775/fanatyi-mass-effect-prizyivayut-ne-pokupat-novyij-merch-ko-dnyu-n7-posle-zakryitiya-bioware/",
+  "https://www.ign.com/articles/former-rockstar-dev-claims-gta-6-online-will-launch-soon",
+  "title:Rockstar Will Be Keen to Release GTA 6 on PC Sooner Rather Than Later Because of AI Clones, Former Dev Says"
 ]

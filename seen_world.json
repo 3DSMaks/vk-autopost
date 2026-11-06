@@ -1,13 +1,4 @@
 [
-  "title:Латвия сообщила о кратковременном пересечении своего воздушного пространства неопознанным объектом",
-  "skip:https://news.google.com/rss/articles/CBMiogFBVV95cUxNUWVuZkFvVFlJOEJiem9lZWhrb1hTLXVaS1ZyWnhwLUZpNUpUcm9VM3JYb1BLeGxxUTZ3NXVkWWVMOGNKQUVtdFNZNWFnajRrdi1uYWdKRUFyRjltZVZsTUdQdDBpdFFoX0dseVJTY3UxMzlOeTRNUjY1b3pqZGE1YXRjWmZNRExQUjYyNXJwZTBXbGRvbWNjdl95U1U4WHF1b1E?oc=5",
-  "skip:https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUpHTEVONW0yRVJoVzhBci1rTVpaUXZwR2JmTUFwYy1zSzdpa0lsdTMyVGV3WnNoUmJoVkkxcWZJQTJzN3NSby1MSF96TGFNcUhERjZlekhTZDhSdXpjbEF5Qm9XZWdfV1hEUENLM1d6dUx1cU5HTE55MWFaZ0dMN1VLRHprT2FZTlVTOTQtVWdFS3BmQjgzSHE1S2xFd2V1UlhLeXE2ZHFGalN2R0J2dw?oc=5",
-  "https://tass.ru/mezhdunarodnaya-panorama/28276625",
-  "title:Илиана Йотова лидирует на президентских выборах в Болгарии согласно экзитполам",
-  "skip:https://www.aljazeera.com/sports/2026/11/1/arsenal-go-top-after-narrow-win-at-liverpool?traffic_source=rss",
-  "skip:https://news.google.com/rss/articles/CBMilwFBVV95cUxPY2lnQ0xxVVNOTkR4cmlkaGkyUXFRT3JuSU0ySVJTM2dYN3ZNT3pYVzZFcEVpWTBrcmYyaHEtUkEteTNUQ2Zpa2JsX2o3QUJBVjI2LUlxVXhKZmdFUUowcjZtUUc1Qm1sTUJKUnphSENVTng4YnVzT3lrT09vOUlHQkVMbTFMMmNkMzcxaXpYSlpmRDhna1Zv?oc=5",
-  "skip:https://ria.ru/20261101/gol-2128497730.html",
-  "skip:https://www.rbc.ru/sport/01/11/2026/6ae78189c8461490c3283e2d",
   "skip:https://tass.ru/sport/28276575",
   "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVFU4LVdXdUFsSjVuaG82ZHJ4bmJJenoxdGdHV2NvaVBfWENkamJJS1hEQmsxNi1LZ1FYb2RXYmM4cFk4dnJ4emxCWXY4cmo4aFVzTVBUN05YMDFleXhaUUlMOExlcWVVV0tMb2hGNm1KSTM0OWp2OTJoMHV6d3phRUExVWMxWFFzOUhSenptb3IzUkJpZmlOcDlPV281SGZQWFE?oc=5",
   "title:Арсенал победил Ливерпуль и возглавил таблицу чемпионата Англии по футболу",
@@ -998,5 +989,14 @@
   "skip:https://tass.ru/proisshestviya/28293255",
   "skip:https://www.interfax.ru/russia/1127469",
   "https://www.kommersant.ru/doc/9091483",
-  "title:Прокуратура запросила 15 лет колонии для бывшего министра Михаила Абызова"
+  "title:Прокуратура запросила 15 лет колонии для бывшего министра Михаила Абызова",
+  "skip:https://ria.ru/20261106/voditel-2129828917.html",
+  "skip:https://www.rbc.ru/society/06/11/2026/6aedfba2e824b280460c9643",
+  "skip:https://ria.ru/20261106/podmoskove-2129825621.html",
+  "skip:https://www.kommersant.ru/doc/9091509",
+  "https://ria.ru/20261106/perehod-2129830629.html",
+  "title:В Подмосковье самосвал врезался в надземный пешеходный переход на Ленинградском шоссе, есть погибший",
+  "skip:https://ria.ru/20261106/germanija-2129828251.html",
+  "https://tass.ru/proisshestviya/28293347",
+  "title:В Германии неизвестные осквернили советский воинский мемориал"
 ]

@@ -1,13 +1,4 @@
 [
-  "title:Новый мод добавляет в Fallout 4 динамическую деформацию ландшафта",
-  "https://www.playground.ru/gta_6/news/digital_foundry_ne_stoit_zhdat_polnotsennuyu_gta_vi_na_pk_cherez_emulyatsiyu_srazu_posle_konsolnogo_reliza-1884393#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Digital Foundry: не стоит ждать полноценную GTA VI на ПК через эмуляцию сразу после консольного релиза",
-  "https://www.playground.ru/gta_6/news/v_gta_6_poyavitsya_analog_onlyfans_vnutriigrovoe_prilozhenie_po_podpiske_peekhole-1884432#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:В GTA 6 появится аналог OnlyFans - внутриигровое приложение по подписке Peekhole",
-  "https://www.playground.ru/cyberpunk_2077/news/za_sutki_na_mod_io_bylo_skachano_2_8_mln_modov_dlya_cyberpunk_2077_rekord_dlya_servisa-1884427#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:За сутки на mod.io было скачано 2,8 млн модов для Cyberpunk 2077 - рекорд для сервиса",
-  "skip:https://www.pcgamer.com/games/survival-crafting/after-14-years-of-development-factorios-final-major-update-is-out-now/",
-  "https://www.playground.ru/diablo_4/news/diablo_4_uvelichit_razmer_stopki_oskolkov_pervorodnogo_zla_posle_neskolkih_nedel_zhalob_igrokov-1884425#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Diablo 4 увеличит размер стопки Осколков Первородного Зла после нескольких недель жалоб игроков",
   "skip:https://variety.com/2026/film/news/quentin-tarantino-further-mis-adventures-of-cliff-booth-preview-1236930220/",
   "https://variety.com/2026/film/box-office/box-office-clayface-you-can-see-everything-wildwood-wicker-1236930256/",
@@ -998,5 +989,14 @@
   "skip:https://www.film.ru/news/verdikt-rassella-brenda",
   "skip:https://www.kinonews.ru/news_144010/",
   "https://www.kinonews.ru/news_144015/",
-  "title:Lionsgate запускает анимационный приквел \"Джона Уика\""
+  "title:Lionsgate запускает анимационный приквел \"Джона Уика\"",
+  "skip:https://www.igromania.ru/news/169770/istoriyu-legendarnoj-bioware-rasskazhut-v-dokumentalnom-filme-ot-istokov-do-zakryitiya/",
+  "skip:https://www.igromania.ru/news/169769/da-blin-bethesda-gejmeryi-vyismeyali-ofitsialnyij-merch-po-the-elder-scrolls-vi-sentinel/",
+  "skip:https://www.igromania.ru/news/169768/animatsionnomu-filmu-o-dzhone-uike-s-kianu-rivzom-dali-zelyonyij-svet/",
+  "skip:https://www.igromania.ru/news/169767/vladeyuschie-ea-suverennyij-fond-saudovskoj-aravii-i-silver-lake-nedavno-obsuzhdali-pokupku-unity/",
+  "skip:https://gamemag.ru/news/202001/insayder-zvezda-seriala-medved-rassmatrivaetsya-na-rol-rosomahi",
+  "skip:https://www.ign.com/articles/bethesda-is-already-selling-the-elder-scrolls-6-sentinel-merch",
+  "skip:https://www.ign.com/articles/biowares-final-years-were-filmed-and-will-be-revealed-in-a-new-documentary",
+  "https://gamemag.ru/news/202000/grand-theft-auto-6-new-screenshots-november-5",
+  "title:Осталось совсем недолго: Rockstar Games дразнит фанатов новыми 4K-скриншотами Grand Theft Auto VI"
 ]

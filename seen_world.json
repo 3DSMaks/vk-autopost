@@ -1,13 +1,4 @@
 [
-  "skip:https://ria.ru/20261102/peskov-2128604910.html",
-  "skip:https://tass.ru/politika/28278279",
-  "skip:https://www.interfax.ru/russia/1126542",
-  "skip:https://tass.ru/politika/28278277",
-  "skip:https://www.rbc.ru/politics/02/11/2026/6ae858709da3429685c4640e",
-  "skip:https://news.google.com/rss/articles/CBMisAFBVV95cUxOZlJhblpJUzZ3RGRyak5uVjBUZGEzd3JGWk9NaHZlV3FCd2ExX0NfaWtQaHdFamxBbk12UVRzMTUyRV9uZE1qMGlyNVFER05IRFhuWUZfek9YTEJLQ0Q4X3R1c0Y0UjM1Vk1GcFBYMmczbW85OEY4eVdVY0lpZnBGZ0ExZmN2S1ZVVkRwcTdyVjdxYU53OHBwWEZzV0xBbUoxMXQ3aUdzdzBrUklvdGt6bA?oc=5",
-  "skip:https://news.google.com/rss/articles/CBMinAFBVV95cUxQb3kzM01FTVZSOElRZGZMbmdPQWNodU1Jc0NGNDV3UDFNYmxQUzNQbFVuMnJ6N3VudWd6RE5LRWpGYVVrX20zeXF0YlZNQ2pCejZTX2hSSkR6emVhMXh6VWN5MldYRUk0T1VTR1dpaW9ubGptM3BoMlN5d3NOOTJVTnJWb2ZhNThrajN0Ykt3eG1ocWN1V0NFdHhCUEM?oc=5",
-  "https://tass.ru/politika/28278399",
-  "title:Итоги гуманитарной операции и прекращения огня в Алешках",
   "skip:https://www.interfax.ru/russia/1126547",
   "skip:https://ria.ru/20261102/ates-2128609072.html",
   "skip:https://www.interfax.ru/russia/1126545",
@@ -998,5 +989,14 @@
   "title:Главный тренер «Локомотива» Михаил Галактионов уволен после поражения от «Рубина»",
   "skip:https://www.rbc.ru/rbcfreenews/6aee1cb8e62600c92ca06099",
   "skip:https://tass.ru/info/28293565",
-  "https://www.kommersant.ru/doc/9091573"
+  "https://www.kommersant.ru/doc/9091573",
+  "skip:https://news.google.com/rss/articles/CBMimAFBVV95cUxNVHdReU5NTkhUSUdyRGlEeFF3YVVOaW9PMjdJOUtSd2YwdEpzUUM5WmhtRlJ1NFNrekdLZjM3Y0RSeTIwQ0xwQW5xaHJhUnFrSlhHZm1HZmdzcjFlZzcydHVhV3dLQ1U4X21vakg3a01ONi1VREdFc1pJMVB2S3JXVEN4clJyR182NnBBSG9WcWQtQXNpSVQzQw?oc=5",
+  "skip:https://www.kommersant.ru/doc/9091585",
+  "skip:https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss",
+  "skip:https://news.google.com/rss/articles/CBMikwFBVV95cUxPRW9VOFJHVC05elRKeHJYaUVfalhSNTJYS0dhNkJobGVIaGU1ZVlLaUNlakI2SURhTHNqc2c2ODFYcWpVaE5uUXpoNEI1d1h3MjFxbTlqNHQwVVJmNEFyUl9uRWktTWdRMGs1Z05GUXRxU2FwVC0wV19JSExCbi1DM1pPNHZVUzFZcVB3ak93TWM4MUk?oc=5",
+  "https://tass.ru/mezhdunarodnaya-panorama/28293693",
+  "title:Дональд Трамп назначил Стивена Миллера новым главой аппарата Белого дома",
+  "skip:https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies",
+  "https://www.kommersant.ru/doc/9091586",
+  "title:Умер лауреат премии «Оскар» чилийский режиссер Себастьян Лелио"
 ]

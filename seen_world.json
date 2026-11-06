@@ -1,7 +1,4 @@
 [
-  "skip:https://www.rbc.ru/rbcfreenews/6ae70979dbc956125771c1ac",
-  "https://www.kommersant.ru/doc/9078464",
-  "title:Россия и Азербайджан подписали программу по модернизации бронетехники",
   "skip:https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXU0aVh0RXlJYm1BOUtMU2FncFZnaDY5dVo4LXR0OFhsUzl1V2s0ZHpoeU5VX2d4cjg0RWRXRkRLLVhRRFJ6QlVKd3dEQ3ZtNVF0c0laVUtZZU1DTFB2bVVpN01abDA1RDRBWXJLRzFSVzZpQmFaWFBVaVdhNG9GdEVranBrT2M5NzlmWFVKSXo5QjJla0JLZ2x3SG9pOE9mb0xOaUNaZmxxbzQ4RlVVY04tZnRxZWNLNVBoby1WMXQ?oc=5",
   "https://www.kommersant.ru/doc/9078496",
   "title:Иранские и российские представители проводят переговоры в Абу-Даби и Дохе",
@@ -998,5 +995,8 @@
   "skip:https://www.interfax.ru/business/1127262",
   "skip:https://tass.ru/ekonomika/28289993",
   "https://ria.ru/20261105/rossija-2129519873.html",
-  "title:Россия и Иран подписали пакет документов о доступе к земельным участкам для строительства железнодорожной линии Решт — Астара"
+  "title:Россия и Иран подписали пакет документов о доступе к земельным участкам для строительства железнодорожной линии Решт — Астара",
+  "skip:https://ria.ru/20261106/rubio-2129576452.html",
+  "https://tass.ru/mezhdunarodnaya-panorama/28290811",
+  "title:Марко Рубио считает оптимальным проведение выборов в Венесуэле в 2027 году"
 ]

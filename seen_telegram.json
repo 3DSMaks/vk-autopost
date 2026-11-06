@@ -1,9 +1,4 @@
 [
-  "title:Элайджа Вуд и Орландо Блум сыграют в сериале \"Джентльмены\"",
-  "skip:https://variety.com/2026/film/box-office/you-can-see-everything-box-office-huge-second-weekend-clayface-leads-1236930604/",
-  "skip:https://deadline.com/2026/10/sag-aftra-votes-extend-duncan-crabtree-ireland-contract-1237172683/",
-  "skip:https://variety.com/2026/film/news/sag-aftra-duncan-crabtree-ireland-contract-extension-1236930503/",
-  "skip:https://variety.com/2026/film/news/nathan-fielder-you-can-see-everything-lance-oppenheim-1236916862/",
   "https://www.film.ru/news/tarantino-pokazal-otryvok-iz-kliffa-buta",
   "title:Тарантино показал отрывок из «Клиффа Бута»",
   "https://www.film.ru/news/dzhudi-dench-uhodit-iz-kino",
@@ -998,5 +993,10 @@
   "title:В 2027-м выйдет документальный фильм о BioWare и расскажет о её финальных днях",
   "skip:https://www.igromania.ru/news/169775/fanatyi-mass-effect-prizyivayut-ne-pokupat-novyij-merch-ko-dnyu-n7-posle-zakryitiya-bioware/",
   "https://www.ign.com/articles/former-rockstar-dev-claims-gta-6-online-will-launch-soon",
-  "title:Rockstar Will Be Keen to Release GTA 6 on PC Sooner Rather Than Later Because of AI Clones, Former Dev Says"
+  "title:Rockstar Will Be Keen to Release GTA 6 on PC Sooner Rather Than Later Because of AI Clones, Former Dev Says",
+  "skip:https://stopgame.ru/newsdata/73411/hard_west_ii_vyydet_na_ps5_i_xbox_series_uzhe_na_sleduyuschey_nedele",
+  "skip:https://www.igromania.ru/news/169772/sverhestestvennaya-strategiya-v-settinge-dikogo-zapada-hard-west-2-vyijdet-na-konsolyah-10-noyabrya/",
+  "skip:https://gamemag.ru/news/202003/processiya-proklyatyh-finalnoe-dlc-dlya-warhammer-40000-rogue-trader-vyhodit-v-dekabre",
+  "https://www.igromania.ru/news/169777/bloodborne-ne-poluchila-prodolzheniya-ili-remejk-iz-za-slozhnostej-pri-peregovorah-prichastnyih-storon/",
+  "title:Bloodborne не получила продолжения или ремейк из-за сложностей при переговорах причастных сторон"
 ]

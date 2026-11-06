@@ -1,8 +1,4 @@
 [
-  "title:Тодд Хэйнс готовит новое кино",
-  "https://kg-portal.ru/comments/135529-posle-vojny-imira-sarika-andreasjana-vyjdet-novyj-film-poromanu-anna-karenina-lva-tolstogo/",
-  "title:После \"Войны и мира\" Сарика Андреасяна выйдет новый фильм по роману \"Анна Каренина\" Льва Толстого",
-  "skip:https://www.film.ru/articles/recenziya-na-film-oglyanis-dramu-o-devichey-druzhbe-ot-rezhissera-magazinnyh-vorishek",
   "https://variety.com/2026/film/news/clayface-batman-gotham-aaron-paul-cameo-1236921644/",
   "title:‘Clayface’ Director James Watkins Explains That [SPOILER] Cameo, Introducing Gotham City to the DC Universe and All the Shape-Shifting Kills",
   "skip:https://gamemag.ru/news/201827/prohojdenie-tomb-raider-legacy-of-atlantis-zaymet-1416-chasov",
@@ -998,5 +994,9 @@
   "skip:https://www.pcgamer.com/software/zelda-ocarina-of-time-remake-reportedly-running-at-60-fps-on-pc-just-hours-after-games-official-nintendo-switch-2-release/",
   "skip:https://www.ign.com/articles/nintendo-exec-bill-trinen-explains-why-the-ocarina-of-time-remake-is-the-perfect-first-the-legend-of-zelda-game",
   "https://gamemag.ru/news/202007/sedina-v-golovu-activision-blizzard-otklyuchila-warzone-na-xbox-one-i-ps4",
-  "title:Седина в голову: Activision Blizzard отключила Warzone на Xbox One и PS4"
+  "title:Седина в голову: Activision Blizzard отключила Warzone на Xbox One и PS4",
+  "skip:https://www.film.ru/news/vtoroy-treyler-novyh-pohozhdeniy-kliffa-buta",
+  "skip:https://deadline.com/2026/11/stranger-things-prequel-series-other-worlds-netflix-duffers-1237215152/",
+  "https://www.film.ru/news/praym-taym-pokazhut-v-rossii",
+  "title:Прайм-тайм покажут в России"
 ]

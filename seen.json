@@ -1,8 +1,4 @@
 [
-  "title:Tokyo Film Festival to Reassess Its Global Standing Ahead of 40th Edition, Says Director Hisamatsu Takeo",
-  "https://www.kinonews.ru/news_143830/",
-  "title:Кристен Белл рассказала об озвучивании мультфильма \"Холодное сердце 3\"",
-  "https://variety.com/2026/film/festivals/velocipastor-2-filmquest-audience-laughter-1236930949/",
   "title:‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
   "https://kg-portal.ru/comments/135535-nedelja-kino-na-kg-glavnye-novosti-1925-oktjabrja/",
   "title:Неделя кино на КГ — главные новости 19–25 октября",
@@ -998,5 +994,9 @@
   "skip:https://deadline.com/2026/11/end-of-oak-street-hbo-max-steaming-date-1237215644/",
   "skip:https://www.kinonews.ru/news_144031/",
   "https://variety.com/2026/film/news/sebastian-lelio-dead-fantastic-woman-1236941486/",
-  "title:Sebastián Lelio, Chilean Director of Oscar-Winning ‘A Fantastic Woman,’ Dies at 52"
+  "title:Sebastián Lelio, Chilean Director of Oscar-Winning ‘A Fantastic Woman,’ Dies at 52",
+  "skip:https://deadline.com/2026/11/sebastian-lelio-dead-fantastic-woman-director-1237215711/",
+  "skip:https://www.kinonews.ru/news_144033/",
+  "https://deadline.com/2026/11/ariana-grande-focker-in-law-hexed-box-office-projections-1237215651/",
+  "title:Ariana Grande Comedy ‘Focker-In-Law’ & Disney’s ‘Hexed’ Hope To Lure $40M-$50M Opening Over Thanksgiving Box Office Stretch"
 ]

@@ -1,7 +1,4 @@
 [
-  "skip:https://www.film.ru/news/novyy-treyler-rokki-eto-ya",
-  "https://www.film.ru/news/zendeya-na-oskare",
-  "title:Зендея на Оскаре",
   "skip:https://www.pcgamer.com/games/survival-crafting/after-14-years-of-development-factorios-final-major-update-is-out-now/",
   "https://www.igromania.ru/news/169495/microsoft-i-xbox-dolzhnyi-reshit-sudbu-arkane-studios-i-marvels-blade-do-13-noyabrya-le-monde/",
   "video:2026-10-24:https://www.igromania.ru/news/169495/microsoft-i-xbox-dolzhnyi-reshit-sudbu-arkane-studios-i-marvels-blade-do-13-noyabrya-le-monde/",
@@ -998,5 +995,8 @@
   "https://deadline.com/2026/11/robert-pattinson-40th-american-cinematheque-award-1237214469/",
   "title:Robert Pattinson To Receive The 40th Annual American Cinematheque Award",
   "https://www.film.ru/news/ari-aster-nachal-semki-kozla-otpushcheniya",
-  "title:Ари Астер начал съемки «Козла отпущения»"
+  "title:Ари Астер начал съемки «Козла отпущения»",
+  "skip:https://www.kinonews.ru/news_144010/",
+  "https://www.kinonews.ru/news_144015/",
+  "title:Lionsgate запускает анимационный приквел \"Джона Уика\""
 ]

@@ -1,12 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9078629",
-  "title:Финляндия предложила запретить въезд российских спортсменов в Шенгенскую зону",
-  "skip:https://news.google.com/rss/articles/CBMiswFBVV95cUxQNFRBVkdFd1REUGNsaWd3Z2lRUzVQdEwtczZmOUtvZHBiWmVmSkUyMGdURWVNSV9SbV9Oa0hPRW5iV0hXS2JtN1JIYTdqcjJBeXJzOVpGSTYtYVNFM3FHUVdDSU9TcnpoNVF0XzNPTVVsclNPa3JabVlEVEZVbEFYdnA4U1Z1YWxSQ2lkU01lM0YwbHd4dWxqRjNodV8tUDUxWmk3MGxFMHVNLVFRV1FWaWVVUQ?oc=5",
-  "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX1NiRk5MRXE1STVPM1NFMEx5bWRKR3Z3VFpCenRzSm5BaHoxRFB3REF0Z05UMi1adU9mTGVGVTVLUlk5cDdLRlJaRGR1TGJ3cWR6WmZVRnpCMGhCdUFIMzBwTXFsSzhQczdDYnJvRVRHWjFmblZtWXYwTWd4cWJlaTVZbjEwU1VCMG5uRElwNGhRZ0wzb1NDazBVdzFCX1E?oc=5",
-  "title:Сенатора Криса Мерфи госпитализировали с инсультом",
-  "skip:https://news.google.com/rss/articles/CBMirgFBVV95cUxORHRBcV9HNTRnOEhqZThzQVMzVlZIaG5ncWtIZmFlTFpwNHRGVy1NM0FjZWJkSDhKQm1SREljaHFNQlZnVmk4V0h6Uy1CTkl1V3N4eXh1bm9haW1NOVdyTmxKcTZxek93QWFwZlpGMDBSaXBRMTBiU1VuWFV0MmdIM1JMTDNyUjhiZVpENms5RzBkQ254WkhBaXExQlFDcEw0eElDU1Rfa19rb2psQUE?oc=5",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28276547",
-  "https://tass.ru/mezhdunarodnaya-panorama/28276591",
   "title:Латвия сообщила о кратковременном пересечении своего воздушного пространства неопознанным объектом",
   "skip:https://news.google.com/rss/articles/CBMiogFBVV95cUxNUWVuZkFvVFlJOEJiem9lZWhrb1hTLXVaS1ZyWnhwLUZpNUpUcm9VM3JYb1BLeGxxUTZ3NXVkWWVMOGNKQUVtdFNZNWFnajRrdi1uYWdKRUFyRjltZVZsTUdQdDBpdFFoX0dseVJTY3UxMzlOeTRNUjY1b3pqZGE1YXRjWmZNRExQUjYyNXJwZTBXbGRvbWNjdl95U1U4WHF1b1E?oc=5",
   "skip:https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUpHTEVONW0yRVJoVzhBci1rTVpaUXZwR2JmTUFwYy1zSzdpa0lsdTMyVGV3WnNoUmJoVkkxcWZJQTJzN3NSby1MSF96TGFNcUhERjZlekhTZDhSdXpjbEF5Qm9XZWdfV1hEUENLM1d6dUx1cU5HTE55MWFaZ0dMN1VLRHprT2FZTlVTOTQtVWdFS3BmQjgzSHE1S2xFd2V1UlhLeXE2ZHFGalN2R0J2dw?oc=5",
@@ -998,5 +990,13 @@
   "skip:https://tass.ru/obschestvo/28293129",
   "skip:https://www.interfax.ru/russia/1127454",
   "https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic?traffic_source=rss",
-  "title:Новая волна ложных сообщений об угрозах взрыва нарушила работу транспорта и СМИ в Европе"
+  "title:Новая волна ложных сообщений об угрозах взрыва нарушила работу транспорта и СМИ в Европе",
+  "skip:https://www.kommersant.ru/doc/9091456",
+  "skip:https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
+  "https://tass.ru/proisshestviya/28292855",
+  "title:Лидер кенийской секты приговорен к длительному тюремному сроку за массовые убийства",
+  "skip:https://tass.ru/proisshestviya/28293255",
+  "skip:https://www.interfax.ru/russia/1127469",
+  "https://www.kommersant.ru/doc/9091483",
+  "title:Прокуратура запросила 15 лет колонии для бывшего министра Михаила Абызова"
 ]

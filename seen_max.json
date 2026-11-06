@@ -1,9 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169519/aktyor-ozvuchki-geralta-v-vedmake-rasskazal-o-tyazhyoloj-rabote-nad-personazhem/",
-  "https://www.igromania.ru/news/169509/rukovodstvo-xbox-otkazalos-prodavat-prava-na-ekranizatsii-svoih-igr-netflix-za-500-mln-dollarov-zayavil-insajder/",
-  "title:Руководство Xbox отказалось продавать права на экранизации своих игр Netflix за 500 млн долларов, заявил инсайдер",
-  "https://www.playground.ru/gta_6/news/aktrisa_kotoruyu_schitayut_prototipom_lyusii_iz_gta_6_provela_pervyj_pryamoj_efir_i_proignorirovala_vse_voprosy_ob_igre-1884670#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Актриса, которую считают прототипом Люсии из GTA 6, провела первый прямой эфир и проигнорировала все вопросы об игре",
   "skip:https://stopgame.ru/newsdata/73282/smi_a24_vydelila_pochti_s200_mln_na_adaptaciyu_elden_ring",
   "skip:https://gamemag.ru/news/201829/former-bioware-producer-on-future-op-studios-ip-october-2026",
   "skip:https://www.ign.com/articles/rumored-lucia-actress-goes-viral-after-dodging-swarm-of-gta-6-comments-during-livestream",
@@ -998,5 +993,10 @@
   "skip:https://www.igromania.ru/news/169778/mobilnuyu-ratchet-and-clank-ranger-rumble-zakryivayut-serveryi-igryi-otklyuchat-1-maya-2027-goda/",
   "skip:https://www.igromania.ru/news/169771/fentezijnaya-strategiya-age-of-wonders-4-stala-vremenno-besplatnoj-v-tom-chisle-v-rossii/",
   "https://www.playground.ru/metro_4/news/milliardy_obektov_i_chernaya_magiya_optimizatsii_4a_games_rasskazala_o_tehnologicheskom_skachke_dvizhka_metro_2039-1888368#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Миллиарды объектов и \"черная магия\" оптимизации: 4A Games рассказала о технологическом скачке движка Metro 2039"
+  "title:Миллиарды объектов и \"черная магия\" оптимизации: 4A Games рассказала о технологическом скачке движка Metro 2039",
+  "skip:https://deadline.com/2026/11/melania-the-series-release-date-trailer-prime-video-1237215492/",
+  "skip:https://variety.com/2026/tv/news/melania-trump-series-amazon-release-date-1236941341/",
+  "skip:https://www.film.ru/news/prikvel-ochen-strannyh-del",
+  "https://deadline.com/2026/11/taylor-kitsch-alexandra-daddario-long-island-bank-robber-1237215411/",
+  "title:Taylor Kitsch, Alexandra Daddario & Christopher Walken Set For True Crime-Thriller ‘The Long Island Bank Robber’ — AFM"
 ]

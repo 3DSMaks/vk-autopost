@@ -1,10 +1,4 @@
 [
-  "skip:https://tass.ru/sport/28276405",
-  "https://www.rbc.ru/sport/01/11/2026/6ae76451ed0a2bda6d0b8da0",
-  "title:Финляндия предложила странам ЕС ограничить въезд российским спортсменам",
-  "skip:https://ria.ru/20261101/filippo-2128489429.html",
-  "https://tass.ru/mezhdunarodnaya-panorama/28276511",
-  "title:Французский политик Флориан Филиппо обвинил Еврокомиссию во вмешательстве во внутренние дела Польши",
   "skip:https://tass.ru/sport/28276495",
   "skip:https://tass.ru/sport/28276489",
   "skip:https://tass.ru/sport/28276451",
@@ -998,5 +992,11 @@
   "title:Мощное землетрясение зафиксировано у восточного побережья Японии",
   "skip:https://news.google.com/rss/articles/CBMixgFBVV95cUxNTDM4YlUwUzVPa0VhbS1wVTlvVXpPbWZ5Y1EwUUFfSG1Cbk5xR1NSeTNLZnhNLU1Lekk0eDVuaWtCQndUSTd0bDRELWNXdGJJYllrYmJUYkRqMkl4b0VwWVRCWF9Tc2doN3lIRm42eV9YQlBha3JfNHByNDFLb1RxV3RkdkZyRFZJRnVsc0VybnBGUzdJRUw5LXVMMl9zMGNrb05EeWFXVm5KYnVnNGYzMTNQd3oxcGJDZVlVUlFDTlJSeHAtUGc?oc=5",
   "https://www.interfax.ru/world/1127428",
-  "title:Во Франции школьный автобус попал в ДТП, есть погибшие"
+  "title:Во Франции школьный автобус попал в ДТП, есть погибшие",
+  "skip:https://news.google.com/rss/articles/CBMivAFBVV95cUxPOVFQN3ZZdXgwV0VlOWE3MF8zbXg0ZF9ZenNaZ3pVTl8xcHpuREFHUFpodWFmMXVzSmN3c29kRVViMDZhdkZ1QjB1WGdoR0tLZ09OaTRORzBOWmNQQUFUb2RvMnpVdjQ3eGlCcmJsSGxPNzFVM0N2bEJCZ3V5SVJ0OTRyZW9LbFVhVmRXeUV2a0Q0eFE4WVR1Vl81V1NoTWZ4THNYbklpbFc1RmxIZ043WTBVWWxwTW4yVmNYXw?oc=5",
+  "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
+  "title:Лидер кенийской секты приговорен к пожизненному заключению за массовые убийства детей",
+  "skip:https://www.kommersant.ru/doc/9091279",
+  "https://ria.ru/20261106/netanyakhu--2129736218.html",
+  "title:Офис Нетаньяху назвал прекращение помощи США переходом к партнерству"
 ]

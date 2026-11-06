@@ -1,10 +1,4 @@
 [
-  "https://tass.ru/mezhdunarodnaya-panorama/28276289",
-  "title:В Сербии задержали высокопоставленных сотрудников полиции",
-  "skip:https://tass.ru/proisshestviya/28276317",
-  "skip:https://ria.ru/20261101/fsb-2128462260.html",
-  "skip:https://www.rbc.ru/politics/01/11/2026/6ae7450e81b6b30aeb229616",
-  "skip:https://tass.ru/proisshestviya/28276315",
   "https://tass.ru/proisshestviya/28276319",
   "title:ФСБ задержала подростка в Москве после проверки информации из США о подготовке теракта",
   "skip:https://tass.ru/obschestvo/28276295",
@@ -998,5 +992,11 @@
   "skip:https://ria.ru/20261106/bespilotnik-2129638200.html",
   "skip:https://tass.ru/proisshestviya/28291671",
   "https://www.interfax.ru/russia/1127368",
-  "title:При атаке беспилотника в Адыгее пострадал человек"
+  "title:При атаке беспилотника в Адыгее пострадал человек",
+  "skip:https://www.rbc.ru/quote/06/11/2026/6aed8ff09a79477efe9317a2",
+  "skip:https://www.interfax.ru/business/1127370",
+  "https://www.kommersant.ru/doc/9081566",
+  "skip:https://ria.ru/20261106/ozon-2129651121.html",
+  "https://www.rbc.ru/technology_and_media/06/11/2026/6aed95d3c4a073e7d4c861d5",
+  "title:В работе «Озон банка» произошел сбой"
 ]

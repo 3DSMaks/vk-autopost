@@ -1,9 +1,4 @@
 [
-  "https://www.film.ru/news/novyy-treyler-rokki-eto-ya",
-  "title:Новый трейлер Рокки это я",
-  "https://www.film.ru/news/cifrovoy-reliz-ulichnogo-boyca",
-  "title:Цифровой релиз Уличного бойца",
-  "skip:https://variety.com/2026/film/news/amc-kips-bay-closing-date-ceo-adam-aron-1236930275/",
   "https://variety.com/2026/film/columns/amanda-seyfried-you-can-see-everything-oscar-1236916757/",
   "title:The Surprise Guest in ‘You Can See Everything’ Could Win an Oscar. Should They?",
   "skip:https://www.playground.ru/onimusha_way_of_the_sword/news/v_capcom_schitayut_chto_nashli_idealnyj_balans_slozhnosti_dlya_onimusha_way_of_the_sword-1884534#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +993,10 @@
   "skip:https://kg-portal.ru/comments/135681-nevypolnimaja-missija-dzhona-uika-odobrena-studiej-lionsgate-kianu-rivz-vernetsja-chtoby-ozvuchit-svoego-personazha/",
   "skip:https://www.film.ru/news/tizer-kriminala-s-charli-hannemom",
   "https://www.film.ru/news/treyler-galeristki-s-portman-i-ortegoy",
-  "title:Трейлер Галеристки с Портман и Ортегой"
+  "title:Трейлер Галеристки с Портман и Ортегой",
+  "skip:https://www.kinonews.ru/news_144017/",
+  "skip:https://deadline.com/2026/11/box-office-godzilla-minus-zero-cat-in-the-hat-1237215161/",
+  "skip:https://www.kinonews.ru/news_144012/",
+  "https://kg-portal.ru/comments/135680-sozdateli-dzhona-uika-dadut-dzheremi-renneru-12-pul-chtoby-perebit-vseh-prestupnikov-londona/",
+  "title:Создатели \"Джона Уика\" дадут Джереми Реннеру 12 пуль, чтобы перебить всех преступников Лондона"
 ]

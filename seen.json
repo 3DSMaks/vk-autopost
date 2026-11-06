@@ -1,7 +1,4 @@
 [
-  "https://www.film.ru/news/rycar-semi-korolevstv-v-roli-zverya",
-  "title:Рыцарь Семи Королевств в роли Зверя",
-  "skip:https://www.film.ru/news/byudzhet-kolca-eldena",
   "https://variety.com/2026/film/news/james-gunn-defends-clayface-individual-stories-dcu-1236930872/",
   "title:James Gunn Defends the DC Universe, Says He Dislikes the Idea That ‘Individual Stories Aren’t Meaningful Unless They Lead to Something’",
   "https://variety.com/lists/documentaries-best-picture-oscar-nominations-snubs/",
@@ -998,5 +995,8 @@
   "skip:https://www.kinonews.ru/news_144006/",
   "skip:https://www.kinonews.ru/news_144012/",
   "https://kg-portal.ru/comments/135680-sozdateli-dzhona-uika-dadut-dzheremi-renneru-12-pul-chtoby-perebit-vseh-prestupnikov-londona/",
-  "title:Создатели \"Джона Уика\" дадут Джереми Реннеру 12 пуль, чтобы перебить всех преступников Лондона"
+  "title:Создатели \"Джона Уика\" дадут Джереми Реннеру 12 пуль, чтобы перебить всех преступников Лондона",
+  "skip:https://www.film.ru/news/ari-aster-nachal-semki-kozla-otpushcheniya",
+  "https://www.film.ru/news/horror-s-rozamund-payk",
+  "title:Хоррор с Розамунд Пайк"
 ]

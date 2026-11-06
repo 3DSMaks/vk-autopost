@@ -1,10 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/phantom-blade-zero-review",
-  "skip:https://gamemag.ru/news/201834/exodus-new-protagonist-face-october-2026",
-  "https://www.playground.ru/gears_of_war_e_day/news/utverzhdaetsya_chto_gears_of_war_e_day_stanet_pervoj_chastyu_trilogii_byudzhet_v_500_mln_dollarov_rasschitan_na_3_igry-1884789#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Утверждается, что Gears of War: E-Day станет первой частью трилогии - бюджет в $500 млн долларов рассчитан на 3 игры",
-  "skip:https://www.ign.com/articles/mass-effects-commander-shepard-actors-destiny-community-help-savemasseffect-petition-cross-200000-signatures",
-  "skip:https://www.playground.ru/mass_effect_5/news/petitsiya_za_spasenie_mass_effect_nabrala_200_tysyach_podpisej_vsego_cherez_neskolko_dnej_posle_zakrytiya_bioware-1884790#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.playground.ru/misc/news/ulichnyj_boets_poteryal_72_sborov_vo_vtoroj_uikend-1884771#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.pcgamer.com/games/mass-effect/save-mass-effect-petition-hits-over-180-000-signatures-within-days-of-biowares-closure/",
   "https://gamemag.ru/news/201833/new-game-plus-black-flag-resynced-october-2026",
@@ -998,5 +992,11 @@
   "skip:https://www.igromania.ru/news/169774/nier-automata-sluchajno-vyirosla-do-366-gb-posle-svezhego-obnovleniya-v-steam/",
   "skip:https://gamemag.ru/news/202003/processiya-proklyatyh-finalnoe-dlc-dlya-warhammer-40000-rogue-trader-vyhodit-v-dekabre",
   "https://www.igromania.ru/news/169777/bloodborne-ne-poluchila-prodolzheniya-ili-remejk-iz-za-slozhnostej-pri-peregovorah-prichastnyih-storon/",
-  "title:Bloodborne не получила продолжения или ремейк из-за сложностей при переговорах причастных сторон"
+  "title:Bloodborne не получила продолжения или ремейк из-за сложностей при переговорах причастных сторон",
+  "skip:https://www.playground.ru/elder_scrolls_6/news/glavnyj_dizajner_skyrim_nazval_dva_vazhnyh_uluchsheniya_kotorye_hotel_by_uvidet_v_the_elder_scrolls_6_sentinel-1888412#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.pcgamer.com/games/world-of-warcraft/wow-forever-takes-250-000-gb-of-memory-to-run-and-i-cant-even-joke-about-sam-altman-being-jealous-because-thats-almost-nothing-compared-to-the-monolithic-demands-of-ai/",
+  "skip:https://www.pcgamer.com/games/the-elder-scrolls/skyrims-lead-designer-has-2-big-asks-of-the-elder-scrolls-6-sentinel-and-only-one-of-them-is-something-most-players-have-ever-thought-about/",
+  "skip:https://gamemag.ru/news/201980/stal-i-koldovstvo-novyy-geympley-lords-of-the-fallen-ii",
+  "https://www.ign.com/articles/nier-automata-dev-working-on-fix-patch-that-bloated-game-size-366gb",
+  "title:Nier: Automata Dev Working on Fix for Patch That Accidentally Bloated the Game Size to 366GB on PC"
 ]

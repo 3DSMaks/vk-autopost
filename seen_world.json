@@ -1,12 +1,4 @@
 [
-  "title:Илиана Йотова лидирует во втором туре президентских выборов в Болгарии согласно экзитполам",
-  "skip:https://ria.ru/20261101/bolgariya-2128497470.html",
-  "https://www.interfax.ru/world/1126423",
-  "title:Илияна Йотова лидирует во втором туре президентских выборов в Болгарии",
-  "skip:https://tass.ru/ekonomika/28276533",
-  "https://www.interfax.ru/russia/1126418",
-  "title:Аэропорт Пскова ввел временные ограничения на прием и выпуск рейсов",
-  "skip:https://ria.ru/20261101/finljandija-2128493552.html",
   "https://www.kommersant.ru/doc/9078629",
   "title:Финляндия предложила запретить въезд российских спортсменов в Шенгенскую зону",
   "skip:https://news.google.com/rss/articles/CBMiswFBVV95cUxQNFRBVkdFd1REUGNsaWd3Z2lRUzVQdEwtczZmOUtvZHBiWmVmSkUyMGdURWVNSV9SbV9Oa0hPRW5iV0hXS2JtN1JIYTdqcjJBeXJzOVpGSTYtYVNFM3FHUVdDSU9TcnpoNVF0XzNPTVVsclNPa3JabVlEVEZVbEFYdnA4U1Z1YWxSQ2lkU01lM0YwbHd4dWxqRjNodV8tUDUxWmk3MGxFMHVNLVFRV1FWaWVVUQ?oc=5",
@@ -998,5 +990,13 @@
   "title:Финляндия разрабатывает новые ограничения на въезд для граждан России",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28293055",
   "https://www.interfax.ru/world/1127462",
-  "title:КСИР заявил о сбитом американском беспилотнике над островом Кешм"
+  "title:КСИР заявил о сбитом американском беспилотнике над островом Кешм",
+  "skip:https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
+  "https://www.kommersant.ru/doc/9091463",
+  "title:Еврокомиссия обвинила TikTok в нарушении закона о цифровых услугах из-за алгоритмов",
+  "skip:https://www.interfax.ru/world/1127465",
+  "skip:https://tass.ru/obschestvo/28293129",
+  "skip:https://www.interfax.ru/russia/1127454",
+  "https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic?traffic_source=rss",
+  "title:Новая волна ложных сообщений об угрозах взрыва нарушила работу транспорта и СМИ в Европе"
 ]

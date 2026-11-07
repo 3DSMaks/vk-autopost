@@ -1,9 +1,4 @@
 [
-  "title:Аманда Сайфред отвергла \"Стражей Галактики\" и не жалеет об этом",
-  "skip:https://stopgame.ru/newsdata/73289/indi_horror_look_outside_vyydet_na_konsolyah_playstation_i_switch_v_konce_mesyaca",
-  "skip:https://www.ign.com/articles/mass-effect-leaks-reveal-canceled-bioware-games-story-would-have-accounted-for-all-choices-from-previous-games",
-  "skip:https://www.pcgamer.com/games/fps/overwatch-devs-took-one-look-at-jetpack-cat-and-bastions-combo-and-went-oh-thats-a-little-scary/",
-  "skip:https://gamemag.ru/news/201828/look-outside-console-release-date-october-2026",
   "https://www.igromania.ru/news/169528/onlajn-cyberpunk-2077-vyiros-posle-vyihoda-obnovleniya-i-novogo-sezona-seriala/",
   "title:Онлайн Cyberpunk 2077 вырос после выхода обновления и нового сезона сериала",
   "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/problema_gigantskih_patchej_call_of_duty_dobralas_do_nintendo_switch_2_razmer_modern_warfare_4_uvelichilsya_do_91_3_gb-1884849#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +993,10 @@
   "skip:https://www.kinonews.ru/news_144031/",
   "skip:https://kg-portal.ru/comments/135701-v-prodolzhenii-uzhastika-1408-zaseljatsja-natalija-dajer-elajdzha-vud-i-parochka-dedov-semjuel-l-dzhekson-i-dzhon-kjusak/",
   "https://www.kinonews.ru/news_144036/",
-  "title:Глен Пауэлл ведет переговоры о \"большой роли\" в экранизации комиксов DC"
+  "title:Глен Пауэлл ведет переговоры о \"большой роли\" в экранизации комиксов DC",
+  "skip:https://www.playground.ru/world_of_warcraft/news/pervyj_igrok_world_of_warcraft_forever_dostig_60_go_urovnya_vsego_za_tri_dnya_posle_zapuska-1888568#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch",
+  "skip:https://www.ign.com/articles/god-of-war-ragnarok-tops-list-of-10-highest-grossing-playstation-studios-games-from-the-ps5-generation",
+  "https://www.playground.ru/gta_6/news/mediamarkt_i_saturn_pokazali_dvustoronnij_poster_gta_vi_kotoryj_budut_vydavat_s_predzakazami_igry-1888539#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:MediaMarkt и Saturn показали двусторонний постер GTA VI, который будут выдавать с предзаказами игры"
 ]

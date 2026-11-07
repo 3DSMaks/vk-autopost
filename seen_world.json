@@ -1,11 +1,4 @@
 [
-  "skip:https://ria.ru/20261102/mchs-2128655441.html",
-  "https://www.rbc.ru/rbcfreenews/6ae87fea1599c549eb7061cc",
-  "title:МЧС устраняет последствия кибератаки и уязвимости в мобильном приложении",
-  "skip:https://tass.ru/ekonomika/28279175",
-  "https://www.rbc.ru/technology_and_media/02/11/2026/6ae8876e2273f59e1557a612",
-  "title:Облачный провайдер Beget сообщил о массированной кибератаке",
-  "skip:https://www.interfax.ru/russia/1126588",
   "skip:https://tass.ru/obschestvo/28279129",
   "https://www.kommersant.ru/doc/9079129",
   "title:МЧС сообщило о рассылке ложных сообщений из-за кибератаки на приложение в 33 регионах",
@@ -998,5 +991,12 @@
   "https://ria.ru/20261107/lidiya-shukshina-2129930528.html",
   "skip:https://tass.ru/armiya-i-opk/28294547",
   "https://www.interfax.ru/world/1127565",
-  "title:В восточной части Ормузского пролива загорелся нефтяной танкер"
+  "title:В восточной части Ормузского пролива загорелся нефтяной танкер",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28294649",
+  "skip:https://ria.ru/20261107/iran-2129929136.html",
+  "https://www.kommersant.ru/doc/9091915",
+  "title:Иран снял ограничения на дальность полета ракет",
+  "skip:https://ria.ru/20261107/khokkey-2129940448.html",
+  "https://tass.ru/sport/28294673",
+  "title:IIHF решила не допускать белорусских хоккеистов к чемпионату мира 2027 года"
 ]

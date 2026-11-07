@@ -1,9 +1,4 @@
 [
-  "skip:https://ria.ru/20261102/podkomissiya-2128720118.html",
-  "skip:https://ria.ru/20261102/putin-2128719726.html",
-  "skip:https://ria.ru/20261102/putin-2128719115.html",
-  "skip:https://tass.ru/ekonomika/28279497",
-  "https://tass.ru/politika/28279531",
   "title:Владимир Путин подписал указ о мерах поддержки информационных ресурсов и обязал частные ЦОД резервировать мощности",
   "skip:https://www.rbc.ru/rbcfreenews/6ae8a0667151b7da7a847a4e",
   "skip:https://www.kommersant.ru/doc/9079229",
@@ -998,5 +993,10 @@
   "title:В Донецке из-за крупной аварии более 120 тыс. абонентов остались без света",
   "skip:https://news.google.com/rss/articles/CBMilwFBVV95cUxNZHBvWlRRd01wR0toUFJoUS1LcHFTbEZkT0doUlpzZlFvYWwxZ2k5QVJSOVluYkZHOFZ2eVpRbXBfWTc4QncyV0cyS2hVNUViQ1ZvaEZzcUtudlFhNTNjb3lKVkRVMk5jaWZTQ3VWSlhlZGVRd2pHSHJOQ3pqeGtMVUFZeWg4WFp3NmRfcHRMN09yOUY2WkZr?oc=5",
   "https://www.france24.com/en/banking-scandal-topples-paraguay-leader",
-  "title:Президент Парагвая Сантьяго Пенья отправлен под домашний арест после банковского скандала"
+  "title:Президент Парагвая Сантьяго Пенья отправлен под домашний арест после банковского скандала",
+  "skip:https://news.google.com/rss/articles/CBMiugFBVV95cUxNYWZNYXdzeHF4Ymh3blFVa2M3MlNpVWRUN0FjRXlkcWtVTjdwd0ZWZF9FSXpISWczYURGdmxzWVh1RE9SQ0NvaUhkTFV5dXg2dExMU1lGOVNJYnAyRUFGMUF2U1RMR0dlbFRiT3JmNV92Q3E0LUh6ZHU2Vm1WN2RvMk1hQWZyVTNlbGNCWFEyd3RtSkZaTHlEanRmOWJ3Qk1BQ3BSSDFwamdUb3pGWmVrQ1BWMnQwMW9rTFE?oc=5",
+  "skip:https://ria.ru/20261107/darknet-2129949690.html",
+  "skip:https://www.interfax.ru/world/1127566",
+  "https://www.aljazeera.com/news/2026/11/7/pro-russian-hackers-leak-italian-foreign-ministers-data-on-dark-web?traffic_source=rss",
+  "title:Глава МИД Италии заявил о публикации его личных данных в даркнете"
 ]

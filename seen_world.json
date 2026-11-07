@@ -1,11 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9079233",
-  "https://www.rbc.ru/quote/02/11/2026/6ae8a1e39a794726dab754de",
-  "title:Цена нефти марки Brent упала ниже 106 долларов за баррель на фоне перспектив урегулирования конфликта на Ближнем Востоке",
-  "skip:https://news.google.com/rss/articles/CBMitwFBVV95cUxNNVJGdUotaWhuOVFjZ2VTVHZ5bkxnbmVXd3BUS0JEenI2QkpMYXJSVUxpUGJrNHpaMkFtZ244cE93RWhCWExKTmJFdm5FbFZEck14aVdnaW0tdU5DdHY0UUk3TkpqbW5vb1RzMW85Z1VkZHFBSnlRMkRVUTlxRDgyR2Z1N3BBSkRsdzI2Mm9WQmxjaFpiOUpqR3k5WjRZUVVZaUtGWGVscXhlS01PZjBUTWRMNHpIU28?oc=5",
-  "https://tass.ru/mezhdunarodnaya-panorama/28279681",
-  "title:Глава МИД Китая призвал страны Персидского залива создать новую архитектуру безопасности",
-  "skip:https://tass.ru/proisshestviya/28279731",
   "skip:https://ria.ru/20261102/kiev-2128751957.html",
   "https://tass.ru/mezhdunarodnaya-panorama/28279789",
   "title:Под Киевом обнаружен дом с удерживаемыми людьми, на месте работают силовики",
@@ -998,5 +991,12 @@
   "skip:https://www.interfax.ru/russia/1127588",
   "skip:https://tass.ru/armiya-i-opk/28294901",
   "https://www.rbc.ru/politics/07/11/2026/6aef2c0641e5f9432396d6ba",
-  "title:С космодрома Плесецк успешно осуществлен запуск ракеты-носителя «Союз-2.1б» в интересах Минобороны РФ"
+  "title:С космодрома Плесецк успешно осуществлен запуск ракеты-носителя «Союз-2.1б» в интересах Минобороны РФ",
+  "skip:https://www.rbc.ru/rbcfreenews/6aef1fd2be48d75b70e6fff2",
+  "https://tass.ru/mezhdunarodnaya-panorama/28294947",
+  "title:Федеральное статистическое управление ФРГ зафиксировало рекордный уровень эмиграции из Германии за последние 75 лет",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28294929",
+  "skip:https://www.france24.com/en/france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience",
+  "https://ria.ru/20261107/shestvie-2129977710.html",
+  "title:Во Франции проходят акции протеста против роста цен и митинги движения «желтых жилетов»"
 ]

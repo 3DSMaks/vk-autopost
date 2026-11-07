@@ -1,12 +1,4 @@
 [
-  "title:Владимир Путин подписал указ о мерах поддержки информационных ресурсов и обязал частные ЦОД резервировать мощности",
-  "skip:https://www.rbc.ru/rbcfreenews/6ae8a0667151b7da7a847a4e",
-  "skip:https://www.kommersant.ru/doc/9079229",
-  "skip:https://www.interfax.ru/russia/1126609",
-  "https://ria.ru/20261102/iran-2128728336.html",
-  "title:Владимир Путин и секретарь Совбеза Ирана Мохсен Резаи обсудили по телефону ситуацию на Ближнем Востоке",
-  "skip:https://ria.ru/20261102/hakery-2128740811.html",
-  "https://www.rbc.ru/society/02/11/2026/6ae883c3bf12f080d5fe44bd",
   "title:Кибератака вывела из строя холодильные установки в супермаркетах ряда европейских стран",
   "skip:https://ria.ru/20261102/oi-2036-2128721182.html",
   "https://tass.ru/sport/28279637",
@@ -998,5 +990,13 @@
   "skip:https://ria.ru/20261107/darknet-2129949690.html",
   "skip:https://www.interfax.ru/world/1127566",
   "https://www.aljazeera.com/news/2026/11/7/pro-russian-hackers-leak-italian-foreign-ministers-data-on-dark-web?traffic_source=rss",
-  "title:Глава МИД Италии заявил о публикации его личных данных в даркнете"
+  "title:Глава МИД Италии заявил о публикации его личных данных в даркнете",
+  "skip:https://www.kommersant.ru/doc/9091939",
+  "skip:https://tass.ru/sport/28294759",
+  "skip:https://www.rbc.ru/sport/07/11/2026/6aef0d89ffababcec205e171",
+  "https://www.sport-interfax.ru/1127576",
+  "title:Мишина и Галлямов выиграли этап Гран-при ISU в Китае",
+  "skip:https://www.rbc.ru/politics/07/11/2026/6aef0dbb2fca64e80dfad84d",
+  "https://www.interfax.ru/world/1127578",
+  "title:Премьер Словакии Роберт Фицо заявил о фальсификации референдума о вступлении в ЕС"
 ]

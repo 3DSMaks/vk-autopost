@@ -1,8 +1,4 @@
 [
-  "https://www.playground.ru/call_of_duty_modern_warfare_4/news/problema_gigantskih_patchej_call_of_duty_dobralas_do_nintendo_switch_2_razmer_modern_warfare_4_uvelichilsya_do_91_3_gb-1884849#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Проблема гигантских патчей Call of Duty добралась до Nintendo Switch 2: размер Modern Warfare 4 увеличился до 91,3 ГБ",
-  "https://www.kinonews.ru/news_143830/",
-  "title:Кристен Белл рассказала об озвучивании мультфильма \"Холодное сердце 3\"",
   "https://www.film.ru/news/kassovyy-proval-klary-i-solnca",
   "title:Кассовый провал Клары и Солнца",
   "https://www.film.ru/news/tarantino-pokazal-otryvok-iz-kliffa-buta",
@@ -998,5 +994,9 @@
   "skip:https://www.igromania.ru/news/169789/ed-bun-predlozhil-igrokam-vyibrat-potentsialnoe-nazvanie-novoj-mortal-kombat/",
   "skip:https://www.ign.com/articles/ed-boon-wants-to-know-what-fans-want-the-next-mortal-kombat-game-to-be-called",
   "https://stopgame.ru/newsdata/73416/byvshiy_tehnicheskiy_direktor_rockstar_dopustil_bolee_ranniy_vyhod_gta_vi_na_pk_iz_za_ugrozy_ii_portov",
-  "title:Бывший технический директор Rockstar допустил более ранний выход GTA VI на ПК из-за угрозы ИИ-портов"
+  "title:Бывший технический директор Rockstar допустил более ранний выход GTA VI на ПК из-за угрозы ИИ-портов",
+  "skip:https://stopgame.ru/newsdata/73412/esche_odin_proval_sony_svernula_podderzhku_ratchet_and_clank_ranger_rumble",
+  "skip:https://gamemag.ru/news/202010/oficialno-sony-zakryvaet-arena-shuter-ratchet-clank-ranger-rumble",
+  "https://www.ign.com/articles/god-of-war-ragnarok-tops-list-of-10-highest-grossing-playstation-studios-games-from-the-ps5-generation",
+  "title:God of War Ragnarok Tops List of 10 Highest-Grossing PlayStation Studios Games From the PS5 Generation"
 ]

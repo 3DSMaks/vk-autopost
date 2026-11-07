@@ -1,7 +1,4 @@
 [
-  "title:Дата выхода новых Спасателей Малибу",
-  "skip:https://www.film.ru/news/zvezdy-filma-ot-rezhissera-godzilly-minus-odin",
-  "skip:https://www.film.ru/news/kianu-rivz-vmesto-alana-richsona",
   "skip:https://www.film.ru/news/nekrolog-uoltera-keniga",
   "https://www.film.ru/news/amanda-sayfred-i-strazhi-galaktiki",
   "title:Аманда Сайфред и Стражи Галактики",
@@ -998,5 +995,8 @@
   "https://variety.com/2026/film/news/miky-lee-godmother-k-culture-asian-hall-fame-1236941850/",
   "title:CJ Group’s Miky Lee Hailed as ‘Godmother of K-Culture’ as She Receives Asian Hall of Fame Lifetime Achievement Medal",
   "https://deadline.com/2026/11/box-office-godzilla-minus-zero-cat-in-the-hat-1237215161/",
-  "title:‘Godzilla Minus Zero’ Is A Box Office Hero With $32M Live-Action Foreign-Language Opening Record – Saturday AM Update"
+  "title:‘Godzilla Minus Zero’ Is A Box Office Hero With $32M Live-Action Foreign-Language Opening Record – Saturday AM Update",
+  "skip:https://variety.com/2026/film/box-office/box-office-godzilla-minus-zero-cat-in-the-hat-1236942032/",
+  "https://variety.com/feature/2027-oscars-best-production-design-predictions-1236878514/",
+  "title:Oscar Predictions: Production Design — Could Something as Innovative and Cool as ‘Backrooms’ Find Love?"
 ]

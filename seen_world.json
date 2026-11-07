@@ -1,11 +1,4 @@
 [
-  "title:Дональд Трамп пообещал защитить Илона Маска и снизить цены на бензин в США",
-  "skip:https://tass.ru/obschestvo/28279373",
-  "https://ria.ru/20261102/vydvorenie-2128699070.html",
-  "title:В России вдвое расширят список оснований для выдворения мигрантов",
-  "skip:https://www.rbc.ru/rbcfreenews/6ae8a00d5bdaf3ae58106998",
-  "skip:https://ria.ru/20261102/putin-2128720677.html",
-  "skip:https://www.kommersant.ru/doc/9079235",
   "skip:https://ria.ru/20261102/podkomissiya-2128720118.html",
   "skip:https://ria.ru/20261102/putin-2128719726.html",
   "skip:https://ria.ru/20261102/putin-2128719115.html",
@@ -998,5 +991,12 @@
   "skip:https://www.interfax.ru/business/1127571",
   "skip:https://tass.ru/ekonomika/28294713",
   "https://www.kommersant.ru/doc/9091932",
-  "title:Газпром сообщил о многократном росте поставок трубопроводного газа в Турцию"
+  "title:Газпром сообщил о многократном росте поставок трубопроводного газа в Турцию",
+  "skip:https://www.interfax.ru/russia/1127574",
+  "skip:https://tass.ru/obschestvo/28294761",
+  "https://tass.ru/proisshestviya/28294789",
+  "title:В Донецке из-за крупной аварии более 120 тыс. абонентов остались без света",
+  "skip:https://news.google.com/rss/articles/CBMilwFBVV95cUxNZHBvWlRRd01wR0toUFJoUS1LcHFTbEZkT0doUlpzZlFvYWwxZ2k5QVJSOVluYkZHOFZ2eVpRbXBfWTc4QncyV0cyS2hVNUViQ1ZvaEZzcUtudlFhNTNjb3lKVkRVMk5jaWZTQ3VWSlhlZGVRd2pHSHJOQ3pqeGtMVUFZeWg4WFp3NmRfcHRMN09yOUY2WkZr?oc=5",
+  "https://www.france24.com/en/banking-scandal-topples-paraguay-leader",
+  "title:Президент Парагвая Сантьяго Пенья отправлен под домашний арест после банковского скандала"
 ]

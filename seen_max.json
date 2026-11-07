@@ -1,8 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143826/",
-  "https://www.kinonews.ru/news_143828/",
-  "title:Аманда Сайфред отвергла \"Стражей Галактики\" и не жалеет об этом",
-  "skip:https://www.igromania.ru/news/169524/tomb-raider-legacy-of-atlantis-poluchila-novyij-trejler-k-30-letiyu-serii/",
   "https://www.playground.ru/call_of_duty_modern_warfare_4/news/problema_gigantskih_patchej_call_of_duty_dobralas_do_nintendo_switch_2_razmer_modern_warfare_4_uvelichilsya_do_91_3_gb-1884849#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Проблема гигантских патчей Call of Duty добралась до Nintendo Switch 2: размер Modern Warfare 4 увеличился до 91,3 ГБ",
   "https://www.kinonews.ru/news_143830/",
@@ -998,5 +994,9 @@
   "https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/remejk_the_legend_of_zelda_ocarina_of_time_sozdali_vsego_za_tri_goda-1888537#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Ремейк The Legend of Zelda: Ocarina of Time создали всего за три года",
   "https://www.igromania.ru/news/169785/sozdateli-gears-of-war-e-day-prazdnuyut-20-letie-serii-i-gotovyatsya-k-zapusku-2-go-sezona-1-dekabrya/",
-  "title:Создатели Gears of War: E-Day празднуют 20-летие серии и готовятся к запуску 2-го сезона 1 декабря"
+  "title:Создатели Gears of War: E-Day празднуют 20-летие серии и готовятся к запуску 2-го сезона 1 декабря",
+  "skip:https://www.igromania.ru/news/169789/ed-bun-predlozhil-igrokam-vyibrat-potentsialnoe-nazvanie-novoj-mortal-kombat/",
+  "skip:https://www.ign.com/articles/ed-boon-wants-to-know-what-fans-want-the-next-mortal-kombat-game-to-be-called",
+  "https://stopgame.ru/newsdata/73416/byvshiy_tehnicheskiy_direktor_rockstar_dopustil_bolee_ranniy_vyhod_gta_vi_na_pk_iz_za_ugrozy_ii_portov",
+  "title:Бывший технический директор Rockstar допустил более ранний выход GTA VI на ПК из-за угрозы ИИ-портов"
 ]

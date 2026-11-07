@@ -1,12 +1,4 @@
 [
-  "skip:https://tass.ru/politika/28278617",
-  "https://ria.ru/20261102/putin-2128622704.html",
-  "title:Россия ратифицировала соглашение с Китаем о строительстве ж/д пути и соглашение с Буркина-Фасо",
-  "skip:https://www.interfax.ru/business/1126558",
-  "skip:https://www.rbc.ru/rbcfreenews/6ae85e2c4eabbd5acfd9fe3d",
-  "skip:https://ria.ru/20261102/pensiya-2128620525.html",
-  "https://www.kommersant.ru/doc/9078997",
-  "title:Правительственная комиссия одобрила законопроект о переводе накопительной части пенсий в программу долгосрочных сбережений",
   "skip:https://tass.ru/politika/28278613",
   "skip:https://www.rbc.ru/rbcfreenews/6ae8689c6e7c2beba23d8bdf",
   "skip:https://tass.ru/obschestvo/28278667",
@@ -998,5 +990,13 @@
   "skip:https://www.interfax.ru/russia/1127543",
   "skip:https://www.rbc.ru/politics/07/11/2026/6aeec21fc1c74b39a63143da",
   "https://www.rbc.ru/rbcfreenews/6aeec7da06277efce5edac5d",
-  "title:ВС РФ нанесли массированный удар по военным и энергетическим объектам в Киеве"
+  "title:ВС РФ нанесли массированный удар по военным и энергетическим объектам в Киеве",
+  "skip:https://news.google.com/rss/articles/CBMisgFBVV95cUxOVkpxUWQ1cUFXSEJhbTI5OFNqVGZNOUFIb3ZoY3lZWmdEUHNYMHYwWXowdnNQZ1dlcWJ3dDF5engyV0VaaG1XUEVia2oyTjNJTEgwYUI3VHhCaml6RTdZMEQwbm9YZ1BTcUZjekdhOHhwQ2gwcFI5YkpJcTV2YUQ3WjVWampRdS1SZk5JQXA0WW04OV9ZMzNQcklSTDhIS2IxT3I4OE14VkRBN0huQzhmdktR?oc=5",
+  "skip:https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEJTUU1HSllBRS1hYUxLTGNzSGpQdEwzQVgyUnBnRmdUN1dRdmtUaGxMb2lEVHh2MjBOaUVfQk5Ed0tnaUduaFFxcXhPdnhRa1lCTFNRQjRUWk5URDhJeFVENWNJUUVEUnd4V0J0bDFpY3Z5Y09jc3NpRS0zZk5RVHBHNVlxM0Q0RGFXSExYN1YyRm5CeHdEZ3ZCUFJVV1VT?oc=5",
+  "https://www.france24.com/en/europe/20261107-moscow-strikes-kyiv-as-ukraine-prepares-for-talks-with-russia-and-the-us",
+  "title:Массированный удар нанесен по объектам инфраструктуры в Киеве",
+  "skip:https://www.interfax.ru/russia/1127553",
+  "skip:https://ria.ru/20261107/belgorod-2129906891.html",
+  "https://www.kommersant.ru/doc/9091881",
+  "title:Мирный житель погиб при атаке дрона в Белгородской области"
 ]

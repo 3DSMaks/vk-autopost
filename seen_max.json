@@ -1,15 +1,4 @@
 [
-  "skip:https://www.playground.ru/misc/news/ulichnyj_boets_poteryal_72_sborov_vo_vtoroj_uikend-1884771#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.pcgamer.com/games/mass-effect/save-mass-effect-petition-hits-over-180-000-signatures-within-days-of-biowares-closure/",
-  "https://gamemag.ru/news/201833/new-game-plus-black-flag-resynced-october-2026",
-  "title:Assassin's Creed: Black Flag Resynced уже на следующей неделе получит режим «Новая игра +»",
-  "skip:https://www.igromania.ru/news/169521/zhurnalistyi-nazvali-phantom-blade-zero-pretendentom-na-zvanie-igra-goda-usya-ekshen-poluchil-otlichnyie-otsenki/",
-  "https://stopgame.ru/newsdata/73284/tizer_tomb_raider_legacy_of_atlantis_k_30_letiyu_serii",
-  "title:Тизер Tomb Raider: Legacy of Atlantis к 30-летию серии",
-  "skip:https://stopgame.ru/newsdata/73286/odin_iz_luchshih_relizov_v_tekuschem_pokolenii_chto_pishut_smi_o_phantom_blade_zero",
-  "https://stopgame.ru/newsdata/73285/sonic_x_shadow_generations_razoshlas_tirazhom_v_3_mln_kopiy",
-  "title:Sonic X Shadow Generations разошлась тиражом в 3 млн копий",
-  "skip:https://www.kinonews.ru/news_143827/",
   "skip:https://www.film.ru/news/byudzhet-kolca-eldena",
   "skip:https://kg-portal.ru/comments/135533-klejfejs-stal-liderom-amerikanskogo-prokata-proshlyj-lider-strit-fajter-v-nokaute/",
   "skip:https://www.film.ru/news/glinolikiy-vozglavil-amerikanskiy-prokat",
@@ -998,5 +987,16 @@
   "skip:https://www.pcgamer.com/games/the-elder-scrolls/skyrims-lead-designer-has-2-big-asks-of-the-elder-scrolls-6-sentinel-and-only-one-of-them-is-something-most-players-have-ever-thought-about/",
   "skip:https://gamemag.ru/news/201980/stal-i-koldovstvo-novyy-geympley-lords-of-the-fallen-ii",
   "https://www.ign.com/articles/nier-automata-dev-working-on-fix-patch-that-bloated-game-size-366gb",
-  "title:Nier: Automata Dev Working on Fix for Patch That Accidentally Bloated the Game Size to 366GB on PC"
+  "title:Nier: Automata Dev Working on Fix for Patch That Accidentally Bloated the Game Size to 366GB on PC",
+  "skip:https://www.playground.ru/misc/news/robert_pattinson_mozhet_smenit_supergerojskij_plasch_na_smoking_agenta_007-1888531#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169782/zvezda-sumerek-i-betmena-robert-pattinson-pretenduet-na-rol-dzhejmsa-bonda-thr/",
+  "skip:https://www.igromania.ru/news/169781/svezhie-skrinshotyi-gta-6-sravnivayut-igrovyie-modeli-avtomobilej-s-ih-realnyimi-prototipami/",
+  "skip:https://www.igromania.ru/news/169780/avtoryi-path-of-exile-2-predstavili-novyij-klass-ten-ligu-zavoevateli-reklasta-i-obnovlenie-dlya-poe/",
+  "skip:https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december/",
+  "skip:https://www.pcgamer.com/games/rpg/path-of-exile-2-announces-a-second-new-class-the-shadow-for-its-december-1-0-release/",
+  "skip:https://gamemag.ru/news/202016/capcom-q2-fy2026-financials-dragons-dogma-2-da-selling-slightly-ahead-of-expectations-monster-hunter",
+  "skip:https://gamemag.ru/news/202012/shawn-layden-bloodborne-2-hasnt-happened",
+  "skip:https://stopgame.ru/newsdata/73413/square_enix_ispravit_oshibku_iz_za_kotoroy_nier_automata_v_steam_zatrebovala_366_gb_mesta",
+  "https://gamemag.ru/news/201749/square-enix-on-revelation-final-fantasy-vii-hard-mode-october-2026",
+  "title:Final Fantasy VII Revelation позволит выбрать высокий уровень сложности с самого начала"
 ]

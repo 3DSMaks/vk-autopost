@@ -1,10 +1,4 @@
 [
-  "title:«Один из лучших релизов в текущем поколении» — что пишут СМИ о Phantom Blade Zero",
-  "skip:https://www.igromania.ru/news/169524/tomb-raider-legacy-of-atlantis-poluchila-novyij-trejler-k-30-letiyu-serii/",
-  "skip:https://www.igromania.ru/news/169521/zhurnalistyi-nazvali-phantom-blade-zero-pretendentom-na-zvanie-igra-goda-usya-ekshen-poluchil-otlichnyie-otsenki/",
-  "skip:https://www.ign.com/articles/phantom-blade-zero-review",
-  "https://gamemag.ru/news/201833/new-game-plus-black-flag-resynced-october-2026",
-  "video:2026-10-26:https://gamemag.ru/news/201833/new-game-plus-black-flag-resynced-october-2026",
   "title:Assassin's Creed: Black Flag Resynced уже на следующей неделе получит режим «Новая игра +»",
   "https://www.film.ru/news/rycar-semi-korolevstv-v-roli-zverya",
   "title:Рыцарь Семи Королевств в роли Зверя",
@@ -998,5 +992,11 @@
   "skip:https://www.ign.com/articles/ed-boon-wants-to-know-what-fans-want-the-next-mortal-kombat-game-to-be-called",
   "skip:https://www.pcgamer.com/games/mass-effect/a-public-petition-to-save-bioware-has-drawn-enough-signatures-that-the-canadian-government-will-at-least-have-to-think-about-it-this-is-absolutely-possible-mp-says/",
   "https://www.igromania.ru/news/169788/god-of-war-sons-of-sparta-o-molodyih-kratose-i-dejmose-skoro-vyijdet-na-ps4-datamajning-playstation/",
-  "title:God of War Sons of Sparta о молодых Кратосе и Деймосе скоро выйдет на PS4 — датамайнинг PlayStation"
+  "title:God of War Sons of Sparta о молодых Кратосе и Деймосе скоро выйдет на PS4 — датамайнинг PlayStation",
+  "skip:https://kg-portal.ru/comments/135695-brosok-kobry-s-bredli-kuperom-vyjdet-v-ne-ochen-podhodjaschee-dlja-fantasticheskogo-ekshena-vremja/",
+  "skip:https://www.kinonews.ru/news_144039/",
+  "skip:https://variety.com/2026/film/global/sylvain-chomet-denies-ai-accusations-dior-robert-pattinson-1236941945/",
+  "skip:https://www.film.ru/news/reliz-broska-kobry-s-bredli-kuperom",
+  "https://www.kinonews.ru/news_144037/",
+  "title:Роберт Паттинсон прошел пробы на роль Джеймса Бонда"
 ]

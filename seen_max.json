@@ -1,9 +1,4 @@
 [
-  "https://www.film.ru/news/pervyy-treyler-furii",
-  "title:Первый трейлер Фурии",
-  "skip:https://www.film.ru/news/amanda-sayfred-i-strazhi-galaktiki",
-  "skip:https://www.film.ru/news/kianu-rivz-vmesto-alana-richsona",
-  "skip:https://www.kinonews.ru/news_143835/",
   "skip:https://www.kinonews.ru/news_143834/",
   "https://www.film.ru/news/zvezdy-filma-ot-rezhissera-godzilly-minus-odin",
   "title:Звезды фильма от режиссера Годзиллы: Минус один",
@@ -998,5 +993,10 @@
   "https://variety.com/2026/film/news/james-bond-casting-robert-pattinson-nicholas-hoult-1236941881/",
   "title:James Bond Shocker: Robert Pattinson and Nicholas Hoult Late Contenders for 007 After Auditioning for Denis Villeneuve",
   "https://variety.com/2026/film/box-office/box-office-godzilla-minus-zero-cat-in-the-hat-1236942032/",
-  "title:Box Office: ‘Godzilla Minus Zero’ Dominates With $14.5 Million on Friday as ‘Cat in the Hat’ Follows With $6 Million"
+  "title:Box Office: ‘Godzilla Minus Zero’ Dominates With $14.5 Million on Friday as ‘Cat in the Hat’ Follows With $6 Million",
+  "skip:https://gamemag.ru/news/202011/other-worlds-a-stranger-things-adventure-announcement",
+  "skip:https://www.igromania.ru/news/169784/spin-off-ochen-strannyih-del-poluchil-pervyij-tizer-novyie-geroi-i-zlodei-zhdut-nas-v-2028-godu/",
+  "skip:https://stopgame.ru/newsdata/73414/owlcat_pomenyala_aktera_ozvuchki_dlya_muzhskogo_protagonista_the_expanse_osiris_reborn",
+  "https://www.playground.ru/misc/news/po_dannym_insajdera_ubisoft_razrabatyvaet_dve_novye_assassins_creed_odna_iz_nih_otpravit_igrokov_v_drevnij_rim-1888656#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:По данным инсайдера, Ubisoft разрабатывает две новые Assassin's Creed - одна из них отправит игроков в Древний Рим"
 ]

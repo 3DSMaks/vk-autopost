@@ -1,6 +1,4 @@
 [
-  "skip:https://www.playground.ru/misc/news/amanda_sajfred_obyasnila_otkaz_ot_roli_gamory_v_strazhah_galaktiki_film_kazalsya_ej_riskom_dlya_karery-1884932#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.playground.ru/cyberpunk_2077/news/tretij_sezon_kiberpanka_beguschih_po_krayu_ne_garantirovan_avtory_zhdut_idealnuyu_istoriyu-1884929#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169532/sozdateli-cyberpunk-edgerunners-ne-isklyuchayut-vozmozhnost-vyipuska-tretego-sezona/",
   "skip:https://www.igromania.ru/news/169527/razrabotchiki-overwatch-perezhivali-vo-vremya-testov-fiki-i-hoteli-chtobyi-gejmeryi-pochuvstvovali-to-zhe-bezumie/",
   "skip:https://www.pcgamer.com/games/fps/overwatch-devs-took-one-look-at-jetpack-cat-and-bastions-combo-and-went-oh-thats-a-little-scary/",
@@ -998,5 +996,7 @@
   "https://gamemag.ru/news/202014/final-fantasys-yoshinori-kitase-doesnt-rule-out-more-remakes",
   "title:Новые игры важнее: Square Enix рассказала о своих приоритетах после завершения саги Final Fantasy VII Remake",
   "https://www.film.ru/news/hoakin-feniks-v-reklame-ii-ochkov",
-  "title:Хоакин Феникс в рекламе ИИ-очков"
+  "title:Хоакин Феникс в рекламе ИИ-очков",
+  "https://www.film.ru/news/solnik-meduzy-gorgony",
+  "title:Сольник Медузы Горгоны"
 ]

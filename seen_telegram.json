@@ -1,7 +1,4 @@
 [
-  "title:Начались съемки третьего фильма о героях Простоквашино",
-  "skip:https://www.igromania.ru/news/169530/veroyatnuyu-ispolnitelnitsu-glavnoj-roli-v-gta-6-zavalili-voprosami-ob-igre-na-pryamoj-translyatsii/",
-  "skip:https://www.ign.com/articles/rumored-lucia-actress-goes-viral-after-dodging-swarm-of-gta-6-comments-during-livestream",
   "https://www.ign.com/articles/dragon-ball-xenoverse-2-gets-surprise-10th-anniversary-update-this-week",
   "title:Dragon Ball Xenoverse 2 Gets Surprise 10th Anniversary Update This Week",
   "skip:https://www.playground.ru/phantom_blade_zero/news/asus_nachala_prodazhi_kollektsii_gejmerskogo_zheleza_i_periferii_rog_x_phantom_blade_zero_s_edinoj_mrachnoj_estetikoj-1884902#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +995,8 @@
   "https://deadline.com/2026/11/joel-wilson-eleven-films-jack-thorne-lord-of-the-flies-1237216218/",
   "title:How A Mistake In Warner Bros. Contracts Helped Eleven Film & Jack Thorne Land ‘Lord Of The Flies’ TV Rights — Thessaloniki",
   "https://variety.com/2026/film/news/adam-driver-wont-return-girls-revival-lena-dunham-1236941924/",
-  "title:Adam Driver Won’t Return for ‘Girls’: ‘I Wish Them the Best of Luck’"
+  "title:Adam Driver Won’t Return for ‘Girls’: ‘I Wish Them the Best of Luck’",
+  "skip:https://variety.com/2026/film/news/james-bond-casting-robert-pattinson-nicholas-hoult-1236941881/",
+  "https://deadline.com/2026/11/the-remarried-empress-disney-record-1237216159/",
+  "title:‘The Remarried Empress’ Sets Disney+ Record As Most Viewed Local Original Launch Ever"
 ]

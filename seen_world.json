@@ -1,9 +1,4 @@
 [
-  "skip:https://ria.ru/20261103/tramp-2129008016.html",
-  "skip:https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRFA3Qk9sWVFFclA5aUMzTVlKenJNX25YTU5oenBmQXVqWjlneGxXUWRyZ3FSNE43TmRRcjJnbVEzLXJFazZJTVVMeDVUSE9FRktPQXh6b1FpeWtrbzYyMmFtYThKN3Y2NE9nTUV4a2RQaXpGblMxM2JycTVkTFQ5cG9hV3NObHpnMnFUQ0lxNlVuaHpOR1lUWkxPZ2NZcUctRnNnNjE1NjZEeUZBTWZaYVg4V2lBaDM0?oc=5",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28283239",
-  "skip:https://www.france24.com/en/video/20261103-what-could-happen-if-donald-trump-loses-us-midterm-elections",
-  "https://www.rbc.ru/rbcfreenews/6ae9e5cfd322aa216fc5558f",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28283271",
   "skip:https://ria.ru/20261103/tramp-2128997053.html",
   "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island",
@@ -998,5 +993,10 @@
   "skip:https://www.rbc.ru/rbcfreenews/6aef8629e6803857c9e78ab6",
   "skip:https://ria.ru/20261107/krakov-2130035270.html",
   "https://ria.ru/20261108/krakov-2130039627.html",
-  "title:Новые подробности расследования стрельбы в центре Кракова и состояние пострадавших"
+  "title:Новые подробности расследования стрельбы в центре Кракова и состояние пострадавших",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28295435",
+  "skip:https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white",
+  "skip:https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ2FyWVhVOHdId05JN1ZCTzFidHJyRktaVjg5NkM2WVV2ZFlrLWFrLXlWSHFkQlZ6a1BUSWV2Zzk4cWlmTHdTOFNWc3FpenFDYVpkYnQ1ZXYtdWdLRlFTVldySXU2c0VuTlhvWFZDVDRZenIzOGtNOUdSZWplX3FDaFdjdmpsa2xtLTQtbHFpQ3I4OGFEU1IwRkhsS0Y?oc=5",
+  "https://www.rbc.ru/politics/08/11/2026/6aef9e5f3c02e1f36c5b67fb",
+  "title:Дэйна Уайт отклонил предложение Дональда Трампа занять пост пресс-секретаря Белого дома"
 ]

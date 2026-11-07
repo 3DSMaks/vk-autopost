@@ -1,7 +1,4 @@
 [
-  "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/problema_gigantskih_patchej_call_of_duty_dobralas_do_nintendo_switch_2_razmer_modern_warfare_4_uvelichilsya_do_91_3_gb-1884849#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "https://www.playground.ru/god_of_war_chains_of_olympus/news/god_of_war_chains_of_olympus_poluchila_nativnyj_pk_port_s_crt_filtrom_i_uluchshennymi_teksturami-1884881#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:God of War: Chains of Olympus получила нативный ПК-порт с CRT-фильтром и улучшенными текстурами",
   "skip:https://www.igromania.ru/news/169529/sonic-x-shadow-generations-razoshlas-tirazhom-v-tri-milliona-kopij/",
   "https://www.playground.ru/crimson_desert/news/morskie_chudovischa_abordazhi_i_mnozhestvo_novyh_sekretov_poyavilis_podrobnosti_masshtabnogo_dlc_dlya_crimson_desert-1884861#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Морские чудовища, абордажи и множество новых секретов: появились подробности масштабного DLC для Crimson Desert",
@@ -998,5 +995,8 @@
   "https://www.playground.ru/gta_6/news/mediamarkt_i_saturn_pokazali_dvustoronnij_poster_gta_vi_kotoryj_budut_vydavat_s_predzakazami_igry-1888539#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:MediaMarkt и Saturn показали двусторонний постер GTA VI, который будут выдавать с предзаказами игры",
   "https://www.film.ru/news/hoakin-feniks-v-reklame-ii-ochkov",
-  "title:Хоакин Феникс в рекламе ИИ-очков"
+  "title:Хоакин Феникс в рекламе ИИ-очков",
+  "skip:https://www.film.ru/news/solnik-meduzy-gorgony",
+  "https://www.film.ru/news/cifrovaya-premera-kurera",
+  "title:Цифровая премьера Курьера"
 ]

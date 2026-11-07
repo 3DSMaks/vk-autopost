@@ -1,12 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1126574",
-  "https://tass.ru/proisshestviya/28279051",
-  "title:Силы ПВО сбили 46 беспилотников над Самарской областью",
-  "skip:https://ria.ru/20261102/mchs-2128656404.html",
-  "skip:https://ria.ru/20261102/mchs-2128656074.html",
-  "skip:https://ria.ru/20261102/mchs-2128655834.html",
-  "skip:https://ria.ru/20261102/mchs-2128655741.html",
-  "skip:https://ria.ru/20261102/mchs-2128655553.html",
   "skip:https://ria.ru/20261102/mchs-2128655441.html",
   "https://www.rbc.ru/rbcfreenews/6ae87fea1599c549eb7061cc",
   "title:МЧС устраняет последствия кибератаки и уязвимости в мобильном приложении",
@@ -998,5 +990,13 @@
   "title:В Германии прошли предупредительные забастовки металлургов и электротехников",
   "skip:https://ria.ru/20261107/ukraina-2129918183.html",
   "https://www.rbc.ru/politics/07/11/2026/6aeec595e824b280460c96f8",
-  "title:В Верховной раде заявили, что Украина не видит смысла в участии в саммите G20 без России"
+  "title:В Верховной раде заявили, что Украина не видит смысла в участии в саммите G20 без России",
+  "skip:https://tass.ru/obschestvo/28294633",
+  "skip:https://www.kommersant.ru/doc/9091909",
+  "skip:https://www.kommersant.ru/doc/9091901",
+  "skip:https://tass.ru/obschestvo/28294579",
+  "https://ria.ru/20261107/lidiya-shukshina-2129930528.html",
+  "skip:https://tass.ru/armiya-i-opk/28294547",
+  "https://www.interfax.ru/world/1127565",
+  "title:В восточной части Ормузского пролива загорелся нефтяной танкер"
 ]

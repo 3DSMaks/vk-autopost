@@ -1,11 +1,4 @@
 [
-  "skip:https://www.playground.ru/mass_effect_5/news/petitsiya_za_spasenie_mass_effect_nabrala_200_tysyach_podpisej_vsego_cherez_neskolko_dnej_posle_zakrytiya_bioware-1884790#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://stopgame.ru/newsdata/73284/tizer_tomb_raider_legacy_of_atlantis_k_30_letiyu_serii",
-  "skip:https://www.pcgamer.com/games/mass-effect/save-mass-effect-petition-hits-over-180-000-signatures-within-days-of-biowares-closure/",
-  "skip:https://stopgame.ru/newsdata/73282/smi_a24_vydelila_pochti_s200_mln_na_adaptaciyu_elden_ring",
-  "https://stopgame.ru/newsdata/73285/sonic_x_shadow_generations_razoshlas_tirazhom_v_3_mln_kopiy",
-  "title:Sonic X Shadow Generations разошлась тиражом в 3 млн копий",
-  "https://stopgame.ru/newsdata/73286/odin_iz_luchshih_relizov_v_tekuschem_pokolenii_chto_pishut_smi_o_phantom_blade_zero",
   "title:«Один из лучших релизов в текущем поколении» — что пишут СМИ о Phantom Blade Zero",
   "skip:https://www.igromania.ru/news/169524/tomb-raider-legacy-of-atlantis-poluchila-novyij-trejler-k-30-letiyu-serii/",
   "skip:https://www.igromania.ru/news/169521/zhurnalistyi-nazvali-phantom-blade-zero-pretendentom-na-zvanie-igra-goda-usya-ekshen-poluchil-otlichnyie-otsenki/",
@@ -998,5 +991,12 @@
   "skip:https://stopgame.ru/newsdata/73413/square_enix_ispravit_oshibku_iz_za_kotoroy_nier_automata_v_steam_zatrebovala_366_gb_mesta",
   "https://gamemag.ru/news/201749/square-enix-on-revelation-final-fantasy-vii-hard-mode-october-2026",
   "video:2026-11-07:https://gamemag.ru/news/201749/square-enix-on-revelation-final-fantasy-vii-hard-mode-october-2026",
-  "title:Final Fantasy VII Revelation позволит выбрать высокий уровень сложности с самого начала"
+  "title:Final Fantasy VII Revelation позволит выбрать высокий уровень сложности с самого начала",
+  "skip:https://www.igromania.ru/news/169789/ed-bun-predlozhil-igrokam-vyibrat-potentsialnoe-nazvanie-novoj-mortal-kombat/",
+  "skip:https://www.playground.ru/mass_effect_5/news/fanaty_mass_effect_otpravili_reklamnyj_gruzovik_k_shtab_kvartire_ea_s_prizyvom_spasti_seriyu-1888519#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/ea-hq-graced-with-save-mass-effect-truck-as-n7-day-looms",
+  "skip:https://www.ign.com/articles/ed-boon-wants-to-know-what-fans-want-the-next-mortal-kombat-game-to-be-called",
+  "skip:https://www.pcgamer.com/games/mass-effect/a-public-petition-to-save-bioware-has-drawn-enough-signatures-that-the-canadian-government-will-at-least-have-to-think-about-it-this-is-absolutely-possible-mp-says/",
+  "https://www.igromania.ru/news/169788/god-of-war-sons-of-sparta-o-molodyih-kratose-i-dejmose-skoro-vyijdet-na-ps4-datamajning-playstation/",
+  "title:God of War Sons of Sparta о молодых Кратосе и Деймосе скоро выйдет на PS4 — датамайнинг PlayStation"
 ]

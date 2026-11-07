@@ -1,11 +1,4 @@
 [
-  "skip:https://www.film.ru/news/nekrologa-erika-bauza",
-  "https://variety.com/2026/film/global/apple-cadabra-i-shrunk-epsilon-film-1236931009/",
-  "title:Animated Movie ‘Apple Cadabra – I Shrunk Myself’ Boarded by Epsilon Film (EXCLUSIVE)",
-  "https://variety.com/2026/film/festivals/tokyo-film-fest-opens-sukiyaki-japan-content-goal-1236931066/",
-  "title:Tokyo Film Festival Opens With ‘Sukiyaki’ and a Plea for Peace as Japan’s Government Restates Global Content Ambitions",
-  "skip:https://deadline.com/2026/10/brazil-lula-win-flavio-bolsonaro-1237173038/",
-  "skip:https://variety.com/2026/film/global/lula-election-win-taylor-swift-guillermo-del-toro-fandom-1236931046/",
   "https://www.film.ru/news/pervyy-treyler-furii",
   "title:Первый трейлер Фурии",
   "https://variety.com/2026/film/news/robert-pattinson-soderbergh-batman-2-filming-matt-reeves-exit-1236931146/",
@@ -998,5 +991,12 @@
   "https://www.kinonews.ru/news_144036/",
   "title:Глен Пауэлл ведет переговоры о \"большой роли\" в экранизации комиксов DC",
   "https://deadline.com/2026/11/the-remarried-empress-disney-record-1237216159/",
-  "title:‘The Remarried Empress’ Sets Disney+ Record As Most Viewed Local Original Launch Ever"
+  "title:‘The Remarried Empress’ Sets Disney+ Record As Most Viewed Local Original Launch Ever",
+  "skip:https://kg-portal.ru/comments/135694-zvezdnye-kandidaty-robert-pattinson-i-nikolas-holt-vstupili-v-gonku-za-rol-dzhejmsa-bonda/",
+  "skip:https://deadline.com/2026/11/robert-pattinson-nicholas-hoult-james-bond-1237216183/",
+  "skip:https://variety.com/2026/film/news/james-bond-casting-robert-pattinson-nicholas-hoult-1236941881/",
+  "skip:https://www.film.ru/news/pattinson-probuetsya-na-bonda",
+  "skip:https://www.film.ru/news/umer-sebastyan-lelio",
+  "https://www.film.ru/news/solnik-meduzy-gorgony",
+  "title:Сольник Медузы Горгоны"
 ]

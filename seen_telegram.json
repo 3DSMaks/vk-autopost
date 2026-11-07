@@ -1,11 +1,4 @@
 [
-  "skip:https://variety.com/2026/film/people-news/eric-bauza-dead-looney-tunes-voice-actor-1236930931/",
-  "skip:https://www.film.ru/news/byudzhet-kolca-eldena",
-  "skip:https://kg-portal.ru/comments/135533-klejfejs-stal-liderom-amerikanskogo-prokata-proshlyj-lider-strit-fajter-v-nokaute/",
-  "skip:https://www.kinonews.ru/news_143823/",
-  "https://deadline.com/2026/10/james-gunn-critics-continuity-in-dcu-1237172836/",
-  "title:James Gunn Claps Back At Critics Of Continuity In His DCU",
-  "skip:https://www.ign.com/articles/mass-effects-commander-shepard-actors-destiny-community-help-savemasseffect-petition-cross-200000-signatures",
   "skip:https://www.playground.ru/mass_effect_5/news/petitsiya_za_spasenie_mass_effect_nabrala_200_tysyach_podpisej_vsego_cherez_neskolko_dnej_posle_zakrytiya_bioware-1884790#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://stopgame.ru/newsdata/73284/tizer_tomb_raider_legacy_of_atlantis_k_30_letiyu_serii",
   "skip:https://www.pcgamer.com/games/mass-effect/save-mass-effect-petition-hits-over-180-000-signatures-within-days-of-biowares-closure/",
@@ -998,5 +991,12 @@
   "skip:https://stopgame.ru/newsdata/73416/byvshiy_tehnicheskiy_direktor_rockstar_dopustil_bolee_ranniy_vyhod_gta_vi_na_pk_iz_za_ugrozy_ii_portov",
   "skip:https://gamemag.ru/news/202012/shawn-layden-bloodborne-2-hasnt-happened",
   "https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/remejk_the_legend_of_zelda_ocarina_of_time_sozdali_vsego_za_tri_goda-1888537#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Ремейк The Legend of Zelda: Ocarina of Time создали всего за три года"
+  "title:Ремейк The Legend of Zelda: Ocarina of Time создали всего за три года",
+  "skip:https://www.igromania.ru/news/169781/svezhie-skrinshotyi-gta-6-sravnivayut-igrovyie-modeli-avtomobilej-s-ih-realnyimi-prototipami/",
+  "skip:https://www.playground.ru/legend_of_zelda_majoras_mask_3d/news/v_remejke_the_legend_of_zelda_ocarina_of_time_mogut_soderzhatsya_namyoki_na_vozmozhnyj_remejk_majoras_mask-1888520#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://gamemag.ru/news/202017/no-disc-no-buy-and-ps5-blackout-protests-fail-to-impact-playstation",
+  "skip:https://stopgame.ru/newsdata/73413/square_enix_ispravit_oshibku_iz_za_kotoroy_nier_automata_v_steam_zatrebovala_366_gb_mesta",
+  "https://gamemag.ru/news/201749/square-enix-on-revelation-final-fantasy-vii-hard-mode-october-2026",
+  "video:2026-11-07:https://gamemag.ru/news/201749/square-enix-on-revelation-final-fantasy-vii-hard-mode-october-2026",
+  "title:Final Fantasy VII Revelation позволит выбрать высокий уровень сложности с самого начала"
 ]

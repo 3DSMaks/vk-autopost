@@ -1,15 +1,4 @@
 [
-  "skip:https://ria.ru/20261103/norvegija-2128951218.html",
-  "skip:https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNnE5UmI5TDQzTVRGcmhlazJxd05DSEZ2OEZGOFJkamh5aU9ZWUpvSHJ2MmV3Y1lkUjB3NDhDN3M3c0VBY2N0VlYtZkdhRk1xR05ObUNqVVEySUlRX0x5SnZ1ellKZkx0bWtZbGdWd1M1cV9WYkU0aEtYaW5rOVBDWTZLVFh6Y3Y0V3owV1h2S1oyd0hueXlqYUFzcW5WS21HeFlNd2JEUzdJbUQtYVBDQm9zRU9WX1NjQTRv?oc=5",
-  "https://tass.ru/sport/28282707",
-  "title:Сборная Норвегии по хоккею отказалась играть против России на чемпионате мира 2027 года",
-  "skip:https://news.google.com/rss/articles/CBMirAFBVV95cUxPXzBTeXRWM3ktaW9LQUFHVVg5V2JZMWZ3OG5LaWUtNGpVMmN2bnQ4RTJmaWVVaGctdnJZTkFZeWdjbG9JUUE4NFdFalFyQ2tZRFotZERxRkJQcHVtS1lwUGhVc0xJZnVqYnF4ZllqcDJFUkJxcEd2QTF0RGFERW1oSkFENEV0V3VQMEFabVkwOHcwTV9lVWNRZ3JmbDVDOUQ5aGYwWTJUb0o5RGpK?oc=5",
-  "skip:https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2hIb2RkVE5NOGtSTm13ODFQYkxHZ2FhVEFlNGdidjFJVVpmTy1UekFuX29Xd2xEMTdRNjNzbEFaTzNNcFNqRURrbl9XVXZjdkpsUFgycVJaWXo1SUFJSFFiSGpSUHQ1U1gzTl9IWWhPS3RSd1hsNF9zV2xXYy1ZclBPMk4xd0tJV1dxZms0MWJGU3djMDNEbWFyNUtkZTduX3c2OTgwTWNRSVdGLWRoT3Jn?oc=5",
-  "skip:https://news.google.com/rss/articles/CBMitgFBVV95cUxNQXM5REVmckxkZlNXQmQxV2I3TEJOaTl1SXRfdU8tN0VUUFBiY3F4UDNieGJ2OTY2TDJXVEpJU2d2c0F5WkRBSWFNT1FKZjlCVm5SMWcyMHhaZlZlT3k2X2puajhuV1ptUjQzanhydW5yZXU0M1RFYnBlYkhCS01JOHI5RTlMVUlsZHRib1BSbnFMU09MTkRqY1Z6aE5KSGY2LWJodHNqWXNVMlROTjAtSEl4TENJQQ?oc=5",
-  "https://www.aljazeera.com/news/2026/11/3/polls-open-in-closely-contested-us-midterm-elections-2026?traffic_source=rss",
-  "title:В США начались промежуточные выборы в Конгресс",
-  "skip:https://www.interfax.ru/business/1126787",
-  "https://www.france24.com/en/us-strikes-iran-s-qeshm-island-as-midterm-elections-start",
   "title:США нанесли удары по иранскому острову Кешм, цены на нефть выросли",
   "skip:https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
   "https://www.interfax.ru/world/1126796",
@@ -998,5 +987,16 @@
   "skip:https://www.kommersant.ru/doc/9092008",
   "skip:https://tass.ru/politika/28295249",
   "https://ria.ru/20261107/krakov-2130034019.html",
-  "title:Новые подробности и траур в Польше после стрельбы в центре Кракова"
+  "title:Новые подробности и траур в Польше после стрельбы в центре Кракова",
+  "skip:https://news.google.com/rss/articles/CBMisAFBVV95cUxObzVlZDVLRWxGVlQ1a2V1cTY5NXBjcjlJVzVqbjBKRGpRLUpnWndzNlM5bFpUYjJaUU5UeG1OS2E3c205RVVNMDJaUWxoWFN2ODc1bVhnc096VFlpOFo1N1YwR2JGS2JQYURyQ3NHZEVZaFhvQU5IaWZ1VFZHRjZNTkstbVhiOTUyTDJKTjAySmE0N3FiUzZLUGJKdDdrcGllOTNmMEdHUC1DanlqZ3V5MA?oc=5",
+  "skip:https://ria.ru/20261107/vzryvy-2130035438.html",
+  "skip:https://ria.ru/20261107/keshm-2130034316.html",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28295319",
+  "https://tass.ru/mezhdunarodnaya-panorama/28295361",
+  "title:На иранском острове Кешм и в других городах на юге страны произошли взрывы",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28295333",
+  "skip:https://ria.ru/20261107/ufc-2130034226.html",
+  "skip:https://ria.ru/20261107/tramp-2130028951.html",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28295271",
+  "https://www.rbc.ru/politics/07/11/2026/6aef81c4e1de3648a1ea988a"
 ]

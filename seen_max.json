@@ -1,10 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/gaming-industry/steam-week-in-review-ai-disclosures-enter-the-discourse-again-as-epic-ceo-calls-them-just-as-partisan-as-mandatory-political-essays/",
-  "https://www.playground.ru/misc/news/sluh_rocksteady_otmenila_igru_pro_ligu_spravedlivosti_radi_razrabotki_novoj_chasti_batman-1884935#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Слух: Rocksteady отменила игру про Лигу Справедливости ради разработки новой части Batman",
-  "skip:https://www.playground.ru/stalker_2/news/s_t_a_l_k_e_r_2_poluchil_obnovlenie_2_1_s_uvelichennoj_dalnostyu_otobrazheniya_npc_i_bystrym_peremescheniem-1884937#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "https://www.playground.ru/silent_hill_townfall/news/konami_derzhala_v_sekrete_razrabotku_neskolkih_igr_serii_silent_hill_ot_kazhdoj_iz_studij-1884957#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Konami держала в секрете разработку нескольких игр серии Silent Hill от каждой из студий",
   "https://deadline.com/2026/10/robert-pattinson-says-the-batman-part-ii-is-filming-again-1237173078/",
   "title:Robert Pattinson Says ‘The Batman Part II’ Is Back Up And Running After Production Pause: “I’m Starting In A Couple Of Days”",
   "skip:https://www.playground.ru/misc/news/sboj_v_steam_servis_rabotaet_no_chast_polzovatelej_ne_mozhet_vojti_v_svoi_akkaunty-1884963#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +992,11 @@
   "skip:https://www.playground.ru/world_of_warcraft/news/zapusk_wow_forever_stal_rekordnym_v_istorii_franshizy-1888587#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.ign.com/articles/blizzard-reveals-what-made-it-finally-pull-the-trigger-on-wow-forever",
   "https://www.ign.com/articles/ea-hq-graced-with-save-mass-effect-truck-as-n7-day-looms",
-  "title:EA HQ Graced With 'Save Mass Effect' Truck as N7 Day Looms"
+  "title:EA HQ Graced With 'Save Mass Effect' Truck as N7 Day Looms",
+  "skip:https://www.playground.ru/god_of_war_sons_of_sparta/news/god_of_war_sons_of_sparta_mozhet_vyjti_na_ps4_na_eto_namekayut_nahodki_v_baze_dannyh_psn-1888602#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169788/god-of-war-sons-of-sparta-o-molodyih-kratose-i-dejmose-skoro-vyijdet-na-ps4-datamajning-playstation/",
+  "skip:https://www.ign.com/articles/canadian-politician-petitions-government-to-help-bioware-buy-its-way-from-under-ea",
+  "skip:https://www.pcgamer.com/games/mass-effect/a-public-petition-to-save-bioware-has-drawn-enough-signatures-that-the-canadian-government-will-at-least-have-to-think-about-it-this-is-absolutely-possible-mp-says/",
+  "https://gamemag.ru/reviews/call-of-duty-modern-warfare-4-pc-review",
+  "title:Большая потасовка в маленькой Корее: Обзор Call of Duty: Modern Warfare 4"
 ]

@@ -1,11 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1126563",
-  "https://tass.ru/ekonomika/28278593",
-  "title:Россия ратифицировала соглашение с Китаем о строительстве второго ж/д пути Забайкальск — Маньчжурия",
-  "skip:https://www.rbc.ru/finances/02/11/2026/6ae871c85bdaf3ae5810695d",
-  "https://www.kommersant.ru/doc/9079068",
-  "title:В Сербии задержали владельца банка Alta Bank Давора Мачуру",
-  "skip:https://ria.ru/20261102/bespilotniki-2128657589.html",
   "skip:https://www.interfax.ru/russia/1126574",
   "https://tass.ru/proisshestviya/28279051",
   "title:Силы ПВО сбили 46 беспилотников над Самарской областью",
@@ -998,5 +991,12 @@
   "skip:https://www.interfax.ru/russia/1127559",
   "skip:https://ria.ru/20261107/pvo-2129921446.html",
   "https://www.kommersant.ru/doc/9091896",
-  "title:Минобороны РФ заявило об уничтожении более 900 беспилотников ВСУ за сутки"
+  "title:Минобороны РФ заявило об уничтожении более 900 беспилотников ВСУ за сутки",
+  "skip:https://ria.ru/20261107/blinovskiy-2129915077.html",
+  "skip:https://ria.ru/20261107/evropa-2129910359.html",
+  "https://www.rbc.ru/rbcfreenews/6aeedefef3661cce82967e3c",
+  "title:В Германии прошли предупредительные забастовки металлургов и электротехников",
+  "skip:https://ria.ru/20261107/ukraina-2129918183.html",
+  "https://www.rbc.ru/politics/07/11/2026/6aeec595e824b280460c96f8",
+  "title:В Верховной раде заявили, что Украина не видит смысла в участии в саммите G20 без России"
 ]

@@ -1,13 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1126741",
-  "https://tass.ru/ekonomika/28281821",
-  "title:Суд в Москве оштрафовал компанию Google на 3,8 млн рублей за неудаление запрещенного контента",
-  "skip:https://www.kommersant.ru/doc/9079709",
-  "skip:https://www.rbc.ru/politics/03/11/2026/6ae9a7f93a3fdab5a384f8bf",
-  "skip:https://www.interfax.ru/russia/1126751",
-  "skip:https://www.interfax.ru/russia/1126750",
-  "skip:https://tass.ru/politika/28281939",
-  "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQloyWTF2V2MxV0hvV1IzWmF0YVhrdE9zR1pWZGtodWcxZ19zOVhRcjFfRFlMQjBGQjFxZkx3VFdGVm8yS2d1d25WTFIyRkxXcWtKRXZIUWRrVnpmUzVnbFhYa1IxVGdwYTVaVDNURnl3MVdyNHhhMVhYVURMMmtreTdhd3ZNdkNORUlCRmJTNDEwWGNZdFc4OTRiQl9XMXREVDVnT0l0bVotOUhFVGNnTDlhcm5HS1U?oc=5",
   "title:Переговоры между Россией, США и Украиной пройдут в Абу-Даби 10-11 ноября под руководством Мединского",
   "skip:https://ria.ru/20261103/kiev-2128890472.html",
   "https://www.rbc.ru/society/03/11/2026/6ae9a8ec92e4a72ceaf7ac98",
@@ -998,5 +989,14 @@
   "skip:https://ria.ru/20261107/tramp-2130025868.html",
   "skip:https://news.google.com/rss/articles/CBMingFBVV95cUxPVjlwZUZkRUtqc0VreVlMdGlfcGF6bHZjMUp4TzkwLXJnRWROVENWc2VhNjE3SXhfd0pTbGZLTDJTYzZYdWdBMTFPYVZEczVic1VuQUtnWG9zT1ZhMVFueGp1M1lYLWVrNExtM3B5SFRBM1czYW9DcUVvbkVRcnVCRDBsQS1wWDVWdHpuVXhLdEx0eUtlUUNUUXkxc2U3dw?oc=5",
   "https://tass.ru/mezhdunarodnaya-panorama/28295273",
-  "title:Трамп поручил Минюсту расследовать угрозы импичментом и наказаниями в адрес республиканцев"
+  "title:Трамп поручил Минюсту расследовать угрозы импичментом и наказаниями в адрес республиканцев",
+  "skip:https://tass.ru/obschestvo/28295289",
+  "skip:https://ria.ru/20261107/polsha-2130030399.html",
+  "https://www.rbc.ru/rbcfreenews/6aef7ae73c02e1f36c5b67f0",
+  "title:В Польше объявлен двухдневный траур из-за стрельбы в Кракове",
+  "skip:https://www.kommersant.ru/doc/9092016",
+  "skip:https://www.interfax.ru/russia/1127614",
+  "skip:https://ria.ru/20261107/lnr-2130029612.html",
+  "https://tass.ru/proisshestviya/28295287",
+  "title:Более 300 тысяч абонентов остались без света в ЛНР после атаки БПЛА"
 ]

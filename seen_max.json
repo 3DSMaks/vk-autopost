@@ -1,9 +1,4 @@
 [
-  "skip:https://www.film.ru/news/byudzhet-kolca-eldena",
-  "skip:https://kg-portal.ru/comments/135533-klejfejs-stal-liderom-amerikanskogo-prokata-proshlyj-lider-strit-fajter-v-nokaute/",
-  "skip:https://www.film.ru/news/glinolikiy-vozglavil-amerikanskiy-prokat",
-  "https://www.film.ru/news/rycar-semi-korolevstv-v-roli-zverya",
-  "title:Рыцарь Семи Королевств в роли Зверя",
   "https://deadline.com/2026/10/james-gunn-critics-continuity-in-dcu-1237172836/",
   "title:James Gunn Claps Back At Critics Of Continuity In His DCU",
   "skip:https://www.kinonews.ru/news_143826/",
@@ -998,5 +993,10 @@
   "skip:https://gamemag.ru/news/202012/shawn-layden-bloodborne-2-hasnt-happened",
   "skip:https://stopgame.ru/newsdata/73413/square_enix_ispravit_oshibku_iz_za_kotoroy_nier_automata_v_steam_zatrebovala_366_gb_mesta",
   "https://gamemag.ru/news/201749/square-enix-on-revelation-final-fantasy-vii-hard-mode-october-2026",
-  "title:Final Fantasy VII Revelation позволит выбрать высокий уровень сложности с самого начала"
+  "title:Final Fantasy VII Revelation позволит выбрать высокий уровень сложности с самого начала",
+  "skip:https://www.igromania.ru/news/169786/spasibo-vam-world-of-warcraft-forever-pokazala-samyij-masshtabnyij-zapusk-v-istorii-wow/",
+  "skip:https://www.ign.com/articles/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch",
+  "skip:https://gamemag.ru/news/202017/no-disc-no-buy-and-ps5-blackout-protests-fail-to-impact-playstation",
+  "https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/remejk_the_legend_of_zelda_ocarina_of_time_sozdali_vsego_za_tri_goda-1888537#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Ремейк The Legend of Zelda: Ocarina of Time создали всего за три года"
 ]

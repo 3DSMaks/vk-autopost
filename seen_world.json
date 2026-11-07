@@ -1,10 +1,4 @@
 [
-  "skip:https://tass.ru/politika/28278613",
-  "skip:https://www.rbc.ru/rbcfreenews/6ae8689c6e7c2beba23d8bdf",
-  "skip:https://tass.ru/obschestvo/28278667",
-  "skip:https://ria.ru/20261102/ombudsmen-2128622501.html",
-  "skip:https://ria.ru/20261102/aleshki-2128622017.html",
-  "skip:https://www.interfax.ru/russia/1126559",
   "skip:https://www.interfax.ru/russia/1126557",
   "skip:https://www.interfax.ru/russia/1126556",
   "skip:https://www.rbc.ru/rbcfreenews/6ae86350a88001aafeb6b592",
@@ -998,5 +992,11 @@
   "skip:https://www.interfax.ru/russia/1127553",
   "skip:https://ria.ru/20261107/belgorod-2129906891.html",
   "https://www.kommersant.ru/doc/9091881",
-  "title:Мирный житель погиб при атаке дрона в Белгородской области"
+  "title:Мирный житель погиб при атаке дрона в Белгородской области",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28294503",
+  "https://www.rbc.ru/politics/07/11/2026/6aeee3019a7947193114b3b2",
+  "title:Финляндия рассматривает возможность создания противотанковых заграждений на границе с Россией",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28294525",
+  "https://www.interfax.ru/world/1127557",
+  "title:Катар призвал США и Иран заключить мирное соглашение и опроверг слухи о провале переговоров"
 ]

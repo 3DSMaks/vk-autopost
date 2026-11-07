@@ -1,13 +1,4 @@
 [
-  "skip:https://www.rbc.ru/politics/03/11/2026/6ae8a59d234eac52f49a0b18",
-  "skip:https://www.rbc.ru/politics/03/11/2026/6ae8e0166bb9e5802d392e6e",
-  "https://ria.ru/20261103/golosovanie-2128980940.html",
-  "skip:https://tass.ru/sport/28283073",
-  "skip:https://ria.ru/20261103/khokkey-2128985556.html",
-  "https://www.kommersant.ru/doc/9079927",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28283165",
-  "https://www.kommersant.ru/doc/9079936",
-  "skip:https://www.france24.com/en/video/20261103-us-midterm-elections-a-referendum-on-president-donald-trump",
   "skip:https://ria.ru/20261103/tramp-2129008016.html",
   "skip:https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRFA3Qk9sWVFFclA5aUMzTVlKenJNX25YTU5oenBmQXVqWjlneGxXUWRyZ3FSNE43TmRRcjJnbVEzLXJFazZJTVVMeDVUSE9FRktPQXh6b1FpeWtrbzYyMmFtYThKN3Y2NE9nTUV4a2RQaXpGblMxM2JycTVkTFQ5cG9hV3NObHpnMnFUQ0lxNlVuaHpOR1lUWkxPZ2NZcUctRnNnNjE1NjZEeUZBTWZaYVg4V2lBaDM0?oc=5",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28283239",
@@ -998,5 +989,14 @@
   "skip:https://ria.ru/20261107/krakov-2130037965.html",
   "skip:https://www.rbc.ru/society/07/11/2026/6aef85f99e543f790d79ca23",
   "https://tass.ru/mezhdunarodnaya-panorama/28295389",
-  "title:Полиция сообщила о гибели гражданина Британии при стрельбе в Кракове"
+  "title:Полиция сообщила о гибели гражданина Британии при стрельбе в Кракове",
+  "skip:https://www.interfax.ru/world/1127620",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28295415",
+  "skip:https://www.rbc.ru/rbcfreenews/6aef9319a5387231a9b6ea7d",
+  "skip:https://www.kommersant.ru/doc/9092011",
+  "skip:https://ria.ru/20261107/krakov-2130037360.html",
+  "skip:https://www.rbc.ru/rbcfreenews/6aef8629e6803857c9e78ab6",
+  "skip:https://ria.ru/20261107/krakov-2130035270.html",
+  "https://ria.ru/20261108/krakov-2130039627.html",
+  "title:Новые подробности расследования стрельбы в центре Кракова и состояние пострадавших"
 ]

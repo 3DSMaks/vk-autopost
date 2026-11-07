@@ -1,15 +1,4 @@
 [
-  "https://www.interfax.ru/business/1126734",
-  "title:Росимущество начало отбор организатора продажи пакета акций Совкомфлота",
-  "skip:https://www.kommersant.ru/doc/9079624",
-  "https://www.interfax.ru/business/1126730",
-  "title:ФАС помогла регионам России заключить 146 соглашений о стабилизации цен на топливо",
-  "skip:https://www.rbc.ru/politics/03/11/2026/6ae998f5888dfac2af1b4654",
-  "https://www.kommersant.ru/doc/9079659",
-  "title:Кремль сообщил о работе по организации трехсторонней встречи Путина, Трампа и Си Цзиньпина",
-  "skip:https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeFAtaXBQd0FKN01ZQUFGZFd3YjlPMnNEbDJjazNwZTFQTnplVlJkNzRzNm10WU1XWl91eTVaQVlzVG43R0tfcTZtQkFuSEdqejlZSDc3Y294M2NIZXNmY3puTnpYdmFVdWp3MmNDT3E4TGUzdzVUa2doSTFpU1Q3NnBTYjVzWTl2QVFQakotTFJWVWhUakNpaVpMY1lMV0dLUk56N1JWeS1SalM2V25fN0JOTy0zWkx4OE1NWVhFQmR5UGtFd3g4Uw?oc=5",
-  "https://tass.ru/ekonomika/28281469",
-  "title:Концерн Schaeffler объявил о сокращении более 3,4 тыс. рабочих мест в Европе",
   "skip:https://www.interfax.ru/russia/1126741",
   "https://tass.ru/ekonomika/28281821",
   "title:Суд в Москве оштрафовал компанию Google на 3,8 млн рублей за неудаление запрещенного контента",
@@ -998,5 +987,16 @@
   "skip:https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
   "skip:https://ria.ru/20261107/polsha-2130022281.html",
   "https://www.rbc.ru/society/07/11/2026/6aef6d748575a3c3c097c522",
-  "title:Полиция установила личность и мотивы нападавшего в Кракове, премьер Польши созвал совещание"
+  "title:Полиция установила личность и мотивы нападавшего в Кракове, премьер Польши созвал совещание",
+  "skip:https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWlGRlZPRzhRc1dTV0p6YVhZdFFnR0hjYWZ3NUN1N0FQdkp3RllrU0NoNWtnSkd0eXBWLU9uSjBHR1drSUdyZ3VXUDV2MEpyMGMyOUxVdkRDdE1Ja3gyNkR3QXdlRHd1b3BOQ1NiQkxET0cwRFdRUG5fNzZreV9pU2FRM2FsUlFYNERPdzVxWTFaMnZGMGJCcl9NMU8tZ1hWbGJWQkNFbnVwSjFBcnBfT2FZSHJfQQ?oc=5",
+  "skip:https://www.rbc.ru/politics/07/11/2026/6aef7183c1c74b39a631440b",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28295267",
+  "skip:https://ria.ru/20261107/tramp-2130027877.html",
+  "https://www.kommersant.ru/doc/9092014",
+  "title:Дональд Трамп предложил главе UFC Дэйне Уайту стать пресс-секретарем Белого дома",
+  "skip:https://www.rbc.ru/politics/07/11/2026/6aef7063c74320943ee65c8f",
+  "skip:https://ria.ru/20261107/tramp-2130025868.html",
+  "skip:https://news.google.com/rss/articles/CBMingFBVV95cUxPVjlwZUZkRUtqc0VreVlMdGlfcGF6bHZjMUp4TzkwLXJnRWROVENWc2VhNjE3SXhfd0pTbGZLTDJTYzZYdWdBMTFPYVZEczVic1VuQUtnWG9zT1ZhMVFueGp1M1lYLWVrNExtM3B5SFRBM1czYW9DcUVvbkVRcnVCRDBsQS1wWDVWdHpuVXhLdEx0eUtlUUNUUXkxc2U3dw?oc=5",
+  "https://tass.ru/mezhdunarodnaya-panorama/28295273",
+  "title:Трамп поручил Минюсту расследовать угрозы импичментом и наказаниями в адрес республиканцев"
 ]

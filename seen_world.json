@@ -1,12 +1,4 @@
 [
-  "skip:https://www.interfax.ru/digital/1126596",
-  "https://ria.ru/20261102/kiberataka-2128698737.html",
-  "skip:https://tass.ru/proisshestviya/28279349",
-  "skip:https://www.interfax.ru/world/1126595",
-  "skip:https://news.google.com/rss/articles/CBMiowFBVV95cUxQLTQ5eVVHbDA4NkpVWmNlWmNrc0ZYZGxxSC1wdFphVmljMnVMX3BDWUNVQkl4akdHOU9leWNKTFdJS0xQVWI2X1VOZUUtYkRzOFN5aDlJcXpXeTVWV0EyeWVzS0JON0ZCb0w2bHBua0JfbDQxcHVsYk11ektjbjQyV1hNVzRnNjBlay1KZnpxVEVySlZ5b1FwbURIYll4aXJmRlN3?oc=5",
-  "https://tass.ru/proisshestviya/28279353",
-  "skip:https://ria.ru/20261102/tramp-2128700720.html",
-  "https://www.rbc.ru/politics/02/11/2026/6ae88ce02273f59e1557a633",
   "title:Дональд Трамп пообещал защитить Илона Маска и снизить цены на бензин в США",
   "skip:https://tass.ru/obschestvo/28279373",
   "https://ria.ru/20261102/vydvorenie-2128699070.html",
@@ -998,5 +990,13 @@
   "title:Александра Трусова завоевала серебро на этапе Гран-при ISU в Китае",
   "skip:https://www.kommersant.ru/doc/9091918",
   "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
-  "title:В Новой Зеландии проходят парламентские выборы и подсчет голосов"
+  "title:В Новой Зеландии проходят парламентские выборы и подсчет голосов",
+  "skip:https://www.kommersant.ru/doc/9091926",
+  "skip:https://www.rbc.ru/sport/07/11/2026/6aef042fa5387231a9b6ea21",
+  "https://www.sport-interfax.ru/1127572",
+  "title:Международная федерация хоккея оставила в силе отстранение сборных Белоруссии от чемпионата мира 2027 года",
+  "skip:https://www.interfax.ru/business/1127571",
+  "skip:https://tass.ru/ekonomika/28294713",
+  "https://www.kommersant.ru/doc/9091932",
+  "title:Газпром сообщил о многократном росте поставок трубопроводного газа в Турцию"
 ]

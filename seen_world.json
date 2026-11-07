@@ -1,13 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1126718",
-  "skip:https://www.interfax.ru/russia/1126717",
-  "skip:https://www.interfax.ru/russia/1126716",
-  "https://www.kommersant.ru/doc/9079579",
-  "title:Российские военные нанесли массированный удар по объектам энергетики и портовой инфраструктуре на Украине",
-  "skip:https://www.aljazeera.com/sports/2026/11/3/afc-reschedules-asian-cup-2027-in-saudi-arabia-amid-regional-conflict?traffic_source=rss",
-  "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
-  "title:Кубок Азии 2027 года в Саудовской Аравии перенесли из-за атак хуситов и регионального конфликта",
-  "skip:https://www.kommersant.ru/doc/9079634",
   "https://www.interfax.ru/business/1126734",
   "title:Росимущество начало отбор организатора продажи пакета акций Совкомфлота",
   "skip:https://www.kommersant.ru/doc/9079624",
@@ -998,5 +989,14 @@
   "skip:https://ria.ru/20261107/ranenye-2130018314.html",
   "skip:https://ria.ru/20261107/krakov-2130017706.html",
   "https://ria.ru/20261107/krakov-2130021528.html",
-  "title:В Кракове объявили траур после стрельбы на центральной площади"
+  "title:В Кракове объявили траур после стрельбы на центральной площади",
+  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
+  "skip:https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+  "skip:https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2phS1lmT1dSeWRnSGpVanhOVE5iNGVSbldWSTFDMjdLVFAxSW9FcWNTUkVYX1ppMXJ1aFRLYlF2NDY3STIwZGdTaE9lOEtOOEU3ZFZKd1RXbXhhWDVsZ1ZiRGRZU0pEdkx2LXZHUXBKeGVWOEFrT3RMaUx6UUZnZk1tSG13Tzh6VWlOT01tVQ?oc=5",
+  "https://tass.ru/mezhdunarodnaya-panorama/28295243",
+  "title:Хуситы заявили о гибели более 25 человек в результате авиаударов в Йемене",
+  "skip:https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+  "skip:https://ria.ru/20261107/polsha-2130022281.html",
+  "https://www.rbc.ru/society/07/11/2026/6aef6d748575a3c3c097c522",
+  "title:Полиция установила личность и мотивы нападавшего в Кракове, премьер Польши созвал совещание"
 ]

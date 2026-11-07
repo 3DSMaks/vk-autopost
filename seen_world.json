@@ -1,12 +1,4 @@
 [
-  "skip:https://ria.ru/20261102/kiev-2128751957.html",
-  "https://tass.ru/mezhdunarodnaya-panorama/28279789",
-  "title:Под Киевом обнаружен дом с удерживаемыми людьми, на месте работают силовики",
-  "skip:https://ria.ru/20261102/husity-2128762286.html",
-  "https://tass.ru/mezhdunarodnaya-panorama/28279747",
-  "title:Хуситы заявили об ударах по аэропортам и объектам на юге и востоке Саудовской Аравии",
-  "skip:https://www.kommersant.ru/doc/9079371",
-  "skip:https://tass.ru/ekonomika/28279791",
   "https://www.rbc.ru/politics/02/11/2026/6ae8c3530d6cdd0c34bba9c9",
   "title:В Казахстане приостановили прокачку нефти по нефтепроводу Атырау — Самара из-за атаки беспилотников",
   "skip:https://www.sport-interfax.ru/1126634",
@@ -998,5 +990,13 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28294929",
   "skip:https://www.france24.com/en/france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience",
   "https://ria.ru/20261107/shestvie-2129977710.html",
-  "title:Во Франции проходят акции протеста против роста цен и митинги движения «желтых жилетов»"
+  "title:Во Франции проходят акции протеста против роста цен и митинги движения «желтых жилетов»",
+  "skip:https://tass.ru/armiya-i-opk/28294987",
+  "skip:https://ria.ru/20261107/sukhogruz-2129982131.html",
+  "https://www.interfax.ru/russia/1127594",
+  "title:Минобороны РФ заявило о поражении в Черном море сухогруза с военным имуществом для ВСУ",
+  "skip:https://tass.ru/armiya-i-opk/28294985",
+  "skip:https://ria.ru/20261107/podstantsiya-2129982023.html",
+  "https://www.interfax.ru/russia/1127593",
+  "title:Российские военные нанесли удар по электроподстанции «Северная» в Киевской области"
 ]

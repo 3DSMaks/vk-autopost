@@ -1,13 +1,4 @@
 [
-  "skip:https://ria.ru/20261102/putin-2128605547.html",
-  "skip:https://tass.ru/politika/28278289",
-  "skip:https://tass.ru/politika/28278281",
-  "https://ria.ru/20261102/kreml-2128611961.html",
-  "title:Подготовка к встрече Владимира Путина и Си Цзиньпина на саммите АТЭС",
-  "skip:https://www.france24.com/en/video/20261102-ukraine-and-russia-both-hit-by-cyberattacks-on-emergency-apps",
-  "skip:https://www.kommersant.ru/doc/9078958",
-  "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
-  "title:В России и на Украине сообщили о кибератаках на системы экстренного оповещения",
   "skip:https://tass.ru/politika/28278617",
   "https://ria.ru/20261102/putin-2128622704.html",
   "title:Россия ратифицировала соглашение с Китаем о строительстве ж/д пути и соглашение с Буркина-Фасо",
@@ -998,5 +989,14 @@
   "skip:https://www.france24.com/en/americas/20261106-trump-announces-immigration-hardliner-stephen-miller-as-new-chief-of-staff",
   "skip:https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss",
   "skip:https://www.interfax.ru/world/1127509",
-  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fR2NZenF2RTcyX0t4aDFMZDgyMGhxMllBNFViMWdFRENqWk9KbVg0a2hrOWt4NlM1WElIcWtVOE9iUFJGM2RackwxYjc0aFl0OVVXR1JNRGlnNE1oQ05jOGI1RTVHX1E?oc=5"
+  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fR2NZenF2RTcyX0t4aDFMZDgyMGhxMllBNFViMWdFRENqWk9KbVg0a2hrOWt4NlM1WElIcWtVOE9iUFJGM2RackwxYjc0aFl0OVVXR1JNRGlnNE1oQ05jOGI1RTVHX1E?oc=5",
+  "skip:https://news.google.com/rss/articles/CBMixAFBVV95cUxPckRkTENydGpmMGpDbWpfYVhKemxXQnRLcWVIU05MdHZMS2Nma2Z3UlRONVpMWkg0bFh2N2J5STdSRVRPVUZNdWQ3eTRGWVZoTm90LW9acDZaOUNLYU0xQ2FubkxtbGVDc3NidWtNbkFMM0VOQ1BPS2Nfa2ptLXBGN1NKQXlIZ0F6RE5lSWtjb0dQZHFva3N5SzM2WWZnNWIwOXZlZDhTekpIMy1pQnBpZFpQbFk4VkxOc05IWU40NFR6RS0z?oc=5",
+  "skip:https://www.interfax.ru/russia/1127551",
+  "https://www.rbc.ru/politics/07/11/2026/6aeed7699a79477f480478b8",
+  "title:Кремль раскрыл состав российской делегации на переговорах по Украине в Абу-Даби",
+  "skip:https://www.kommersant.ru/doc/9091856",
+  "skip:https://www.interfax.ru/russia/1127543",
+  "skip:https://www.rbc.ru/politics/07/11/2026/6aeec21fc1c74b39a63143da",
+  "https://www.rbc.ru/rbcfreenews/6aeec7da06277efce5edac5d",
+  "title:ВС РФ нанесли массированный удар по военным и энергетическим объектам в Киеве"
 ]

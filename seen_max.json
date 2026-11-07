@@ -1,8 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169532/sozdateli-cyberpunk-edgerunners-ne-isklyuchayut-vozmozhnost-vyipuska-tretego-sezona/",
-  "skip:https://www.igromania.ru/news/169527/razrabotchiki-overwatch-perezhivali-vo-vremya-testov-fiki-i-hoteli-chtobyi-gejmeryi-pochuvstvovali-to-zhe-bezumie/",
-  "skip:https://www.pcgamer.com/games/fps/overwatch-devs-took-one-look-at-jetpack-cat-and-bastions-combo-and-went-oh-thats-a-little-scary/",
-  "https://gamemag.ru/news/201839/igroki-prosyat-spasti-mass-effect",
   "title:Более 200 тысяч игроков призвали Electronic Arts спасти Mass Effect или передать серию другой студии",
   "skip:https://gamemag.ru/news/201841/geympley-vytyagivaet-vse-poyavilis-pervye-ocenki-phantom-blade-zero",
   "https://www.playground.ru/stalker_2/news/s_t_a_l_k_e_r_2_poluchila_obnovlenie_2_1_s_uvelichennoj_dalnostyu_otobrazheniya_npc_i_bystrym_peremescheniem-1884937#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +994,9 @@
   "https://www.film.ru/news/hoakin-feniks-v-reklame-ii-ochkov",
   "title:Хоакин Феникс в рекламе ИИ-очков",
   "https://www.film.ru/news/solnik-meduzy-gorgony",
-  "title:Сольник Медузы Горгоны"
+  "title:Сольник Медузы Горгоны",
+  "skip:https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/",
+  "skip:https://www.igromania.ru/news/169791/analitiki-sostavili-top-samyih-pribyilnyih-igr-playstation-studios-v-etom-pokolenii-i-ne-tolko/",
+  "https://www.ign.com/articles/gta-6-players-in-germany-can-legally-take-time-off-work-to-play-the-game-on-launch-but-theres-a-catch",
+  "title:GTA 6 Players in Germany Can Legally Take Time Off Work to Play the Game on Launch, But There's a Catch"
 ]

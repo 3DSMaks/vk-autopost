@@ -1,12 +1,4 @@
 [
-  "title:США нанесли удары по иранскому острову Кешм, цены на нефть выросли",
-  "skip:https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
-  "https://www.interfax.ru/world/1126796",
-  "title:В Непале у Эвереста столкнулись два вертолета, есть погибший",
-  "skip:https://www.rbc.ru/politics/03/11/2026/6ae9d69cd54c8a55deca5fea",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28282999",
-  "https://www.kommersant.ru/doc/9079912",
-  "title:Мелания Трамп объявила о планах провести встречу представителей России и Украины в Белом доме 5 ноября",
   "skip:https://www.rbc.ru/politics/03/11/2026/6ae8a59d234eac52f49a0b18",
   "skip:https://www.rbc.ru/politics/03/11/2026/6ae8e0166bb9e5802d392e6e",
   "https://ria.ru/20261103/golosovanie-2128980940.html",
@@ -998,5 +990,13 @@
   "skip:https://ria.ru/20261107/ufc-2130034226.html",
   "skip:https://ria.ru/20261107/tramp-2130028951.html",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28295271",
-  "https://www.rbc.ru/politics/07/11/2026/6aef81c4e1de3648a1ea988a"
+  "https://www.rbc.ru/politics/07/11/2026/6aef81c4e1de3648a1ea988a",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28295391",
+  "skip:https://ria.ru/20261107/krakov-2130037833.html",
+  "https://www.rbc.ru/politics/08/11/2026/6aef9111867e39a5978d25c3",
+  "title:В доме устроившего стрельбу в Кракове нашли еще три тела",
+  "skip:https://ria.ru/20261107/krakov-2130037965.html",
+  "skip:https://www.rbc.ru/society/07/11/2026/6aef85f99e543f790d79ca23",
+  "https://tass.ru/mezhdunarodnaya-panorama/28295389",
+  "title:Полиция сообщила о гибели гражданина Британии при стрельбе в Кракове"
 ]

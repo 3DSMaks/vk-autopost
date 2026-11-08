@@ -1,8 +1,4 @@
 [
-  "skip:https://www.playground.ru/kingdom_come_deliverance_2/news/warhorse_studios_podverglas_kiberatake_razrabotchiki_prokommentirovali_intsident-1885193#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.ign.com/articles/mass-effect-has-been-taken-away-just-when-we-needed-it-most",
-  "skip:https://www.ign.com/articles/silent-hill-remake-coming-2027-cast-details-leaked",
-  "skip:https://stopgame.ru/newsdata/73299/insayd_remeyk_pervoy_silent_hill_namereny_vypustit_v_2027_godu",
   "https://www.playground.ru/gears_of_war_2/news/gears_of_war_2_3_i_judgment_poluchili_nativnye_pk_porty_cherez_staticheskuyu_rekompilyatsiyu_v_cogbox-1885187#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Gears of War 2, 3 и Judgment получили нативные ПК-порты через статическую рекомпиляцию в COGBox",
   "skip:https://www.kinonews.ru/news_143837/",
@@ -998,5 +994,9 @@
   "https://www.playground.ru/gta_6/news/v_set_popala_informatsiya_o_fiz_kopii_gta_6_igra_potrebuet_230_gb_svobodnogo_mesta_i_budet_podderzhivat_onlajn_rezhim-1888830#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:В сеть попала информация о физ.копии GTA 6: игра потребует 230 ГБ свободного места и будет поддерживать онлайн-режим",
   "https://www.playground.ru/state_of_decay_3/news/razrabotchik_state_of_decay_3_rasskazal_o_beta_testah_na_konsolyah_rasshirennoj_mehanike_vyzhivaniya_i_uluchsheniyah_onlajna-1888839#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Разработчик State of Decay 3 рассказал о бета-тестах на консолях, расширенной механике выживания и улучшениях онлайна"
+  "title:Разработчик State of Decay 3 рассказал о бета-тестах на консолях, расширенной механике выживания и улучшениях онлайна",
+  "skip:https://www.film.ru/news/glen-pauell-sygraet-v-kinokomikse",
+  "skip:https://deadline.com/2026/11/tom-rob-smith-west-memphis-three-murder-case-book-1237216655/",
+  "https://deadline.com/2026/11/chang-chen-choi-siwon-kent-tsai-chunghwa-telecom-1237216224/",
+  "title:Taiwan’s Chunghwa Telecom Unveils Investment Slate Headed By ‘Gunshot’ & ‘Call Of Lobster’"
 ]

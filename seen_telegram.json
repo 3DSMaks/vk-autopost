@@ -1,7 +1,4 @@
 [
-  "skip:https://www.film.ru/news/data-vyhoda-novyh-spasateley-malibu",
-  "https://www.film.ru/news/sobachi-zvezdy-i-veriti-v-seti",
-  "title:Собачьи звезды и Верити в Сети",
   "skip:https://stopgame.ru/newsdata/73303/warhorse_studios_podverglas_kiberatake",
   "skip:https://www.igromania.ru/news/169563/sozdateli-kingdom-come-deliverance-podverglis-kiberatake/",
   "skip:https://www.igromania.ru/news/169562/ekshen-rpg-emberville-perenesli-za-den-do-reliza-v-rannem-dostupe/",
@@ -998,5 +995,8 @@
   "skip:https://www.film.ru/news/glen-pauell-sygraet-v-kinokomikse",
   "skip:https://deadline.com/2026/11/tom-rob-smith-west-memphis-three-murder-case-book-1237216655/",
   "https://variety.com/2026/film/markets-festivals/nct-lucas-wong-acting-debut-taiwan-drama-a-time-1236942261/",
-  "title:Former NCT Member Lucas Wong Makes Acting Debut in Taiwanese Folk-Music Drama ‘A Time’ With Jerry Yan, Ning Chang at Taiwan Creative Content Fest"
+  "title:Former NCT Member Lucas Wong Makes Acting Debut in Taiwanese Folk-Music Drama ‘A Time’ With Jerry Yan, Ning Chang at Taiwan Creative Content Fest",
+  "skip:https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/v_remejke_ocarina_of_time_nashli_upominaniya_master_quest_rezhima_s_povyshennoj_slozhnostyu-1888879#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "https://www.playground.ru/mass_effect_trilogy/news/dlya_mass_effect_3_vyshel_masshtabnyj_mod_take_earth_back_2_0_s_pererabotkoj_bitvy_za_zemlyu_i_takticheskim_vyborom_soyuznikov-1888874#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Для Mass Effect 3 вышел масштабный мод Take Earth Back 2.0 с переработкой битвы за Землю и тактическим выбором союзников"
 ]

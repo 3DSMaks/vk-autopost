@@ -1,14 +1,4 @@
 [
-  "skip:https://tass.ru/proisshestviya/28284183",
-  "https://www.kommersant.ru/doc/9080124",
-  "title:Силы ПВО сбили пять беспилотников, летевших на Москву",
-  "skip:https://ria.ru/20261104/tramp-2129089628.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28284265",
-  "skip:https://ria.ru/20261104/tramp-2129089488.html",
-  "skip:https://www.france24.com/en/tv-shows/business/20261103-trump-tariffs-hitting-small-businesses",
-  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine?traffic_source=rss",
-  "skip:https://www.aljazeera.com/news/2026/11/3/texans-vote-in-most-expensive-senate-race-in-us-history?traffic_source=rss",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28284255",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28284253",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28284245",
   "skip:https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoRXFabEpDYThvalh6ektrQXRqYldZRzNvMzFBRTFrZDlablN2aTRvWkdoQi1QdUx2Z0ZMTUVxQ3BFUk1XUFA3LTNGOWtfS1l0N2Nhd25TZlZkZzRiZEE1a0JwV0lNN2M?oc=5",
@@ -998,5 +988,15 @@
   "skip:https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjUxVkw1TWRaU0FNWjdiZlUyUk9KcmFRMjlobjltclhvd2xEMFZic2QyLVJ1U2M4WEtOVWJ0S3J6WHdkT19pcUJwQml5Z3UyLV9PalUtQWV5X1J0dzJVMnFyc2pDQllBWTNKNTh2dVNkUVFMQWZ0OWlnUFp0Tm5LZmt0YXItSUprX09QVE93dElVd082LXpyck04QU0xemMySklEV0xSVDZRcWx5LVdUWA?oc=5",
   "skip:https://www.kommersant.ru/doc/9092200",
   "https://www.france24.com/en/poland-in-shock-after-6-killed-in-krakow-far-right-shooting",
-  "title:Польша расследует стрельбу в Кракове как теракт, состояние раненой россиянки стабильное"
+  "title:Польша расследует стрельбу в Кракове как теракт, состояние раненой россиянки стабильное",
+  "skip:https://ria.ru/20261108/egipet-2130146665.html",
+  "skip:https://ria.ru/20261108/egipet-2130138527.html",
+  "skip:https://tass.ru/proisshestviya/28296329",
+  "https://tass.ru/proisshestviya/28296409",
+  "title:Столкновение поездов в Египте: число погибших возросло до четырех",
+  "skip:https://ria.ru/20261108/sukhogruz-2130138881.html",
+  "skip:https://tass.ru/armiya-i-opk/28296351",
+  "skip:https://ria.ru/20261108/sudno-2130138792.html",
+  "https://www.interfax.ru/russia/1127688",
+  "title:ВС России поразили сухогруз и контейнеровоз с военными грузами"
 ]

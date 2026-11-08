@@ -1,8 +1,4 @@
 [
-  "https://deadline.com/2026/10/harry-potter-series-lily-james-potter-charlie-weasley-1237205917/",
-  "title:‘Harry Potter’ Series Finds Its Lily & James Potter In Jasper Talbot & Hannah Chinn; Harry Gilby To Play Charlie Weasley",
-  "https://www.film.ru/news/nekrolog-uoltera-keniga",
-  "title:Некролог Уолтера Кенига",
   "skip:https://stopgame.ru/newsdata/73303/warhorse_studios_podverglas_kiberatake",
   "skip:https://www.igromania.ru/news/169563/sozdateli-kingdom-come-deliverance-podverglis-kiberatake/",
   "skip:https://www.ign.com/articles/kingdom-come-deliverance-developer-serious-cybersecurity-incident",
@@ -998,5 +994,9 @@
   "title:Taiwan’s Chunghwa Telecom Unveils Investment Slate Headed By ‘Gunshot’ & ‘Call Of Lobster’",
   "skip:https://www.ign.com/articles/i-feel-like-modding-is-kind-of-dying-mass-effect-3-multiplayer-modder-on-ais-impact-on-the-scene",
   "https://www.playground.ru/physint/news/stsenarij_physint_naschityvaet_bolee_150_stranits_kodzima_raskryl_novye_podrobnosti_svoego_shpionskogo_proekta-1888856#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Сценарий PHYSINT насчитывает более 150 страниц: Кодзима раскрыл новые подробности своего шпионского проекта"
+  "title:Сценарий PHYSINT насчитывает более 150 страниц: Кодзима раскрыл новые подробности своего шпионского проекта",
+  "skip:https://www.playground.ru/mass_effect_trilogy/news/dlya_mass_effect_3_vyshel_masshtabnyj_mod_take_earth_back_2_0_s_pererabotkoj_bitvy_za_zemlyu_i_takticheskim_vyborom_soyuznikov-1888874#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://gamemag.ru/news/202015/physint-will-have-8-hours-of-narrative",
+  "https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/v_remejke_ocarina_of_time_nashli_upominaniya_master_quest_rezhima_s_povyshennoj_slozhnostyu-1888879#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:В ремейке Ocarina of Time нашли упоминания Master Quest - режима с повышенной сложностью"
 ]

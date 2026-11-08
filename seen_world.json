@@ -1,15 +1,4 @@
 [
-  "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-  "title:В Европе проверили несколько самолетов и супермаркеты после ложных угроз о бомбах и кибератак на холодильное оборудование",
-  "skip:https://tass.ru/ekonomika/28283869",
-  "skip:https://www.rbc.ru/rbcfreenews/6aea1bc79a9aff5e37370e76",
-  "skip:https://ria.ru/20261103/klichko-2129059897.html",
-  "https://tass.ru/proisshestviya/28283941",
-  "title:В Киеве остановили движение трамваев и троллейбусов из-за сложной ситуации в энергосистеме",
-  "skip:https://www.interfax.ru/russia/1126847",
-  "https://www.kommersant.ru/doc/9080093",
-  "title:Сотрудница ЗАЭС погибла в результате атаки беспилотника",
-  "skip:https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
   "skip:https://tass.ru/obschestvo/28283985",
   "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmcVNqTFVUcUU0YUtCXzQyT0FqMlp1TkhvVldOTGpGLUh5T3c3ZkZaTkpta0hHaXNaU0RsZ2Uxc1JvUG5ET3pSNzVKR2ZMRUpDSVV5N25ubW9oZWUtZ25YVG1ocllBT3h1?oc=5",
   "title:В США проходят промежуточные выборы в Конгресс",
@@ -998,5 +987,16 @@
   "skip:https://ria.ru/20261108/krakov-2130103591.html",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28296163",
   "https://www.kommersant.ru/doc/9092151",
-  "title:Скончалась гражданка России, пострадавшая при стрельбе и теракте в центре Кракова"
+  "title:Скончалась гражданка России, пострадавшая при стрельбе и теракте в центре Кракова",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28296157",
+  "skip:https://ria.ru/20261108/tanker-2130098324.html",
+  "https://www.interfax.ru/world/1127677",
+  "title:В Оманском заливе три нефтяных танкера подверглись атаке и загорелись",
+  "skip:https://www.kommersant.ru/doc/9092160",
+  "skip:https://www.rbc.ru/sport/08/11/2026/6af058fa26c058878afa8f74",
+  "skip:https://tass.ru/sport/28296165",
+  "skip:https://tass.ru/sport/28296117",
+  "skip:https://tass.ru/sport/28296111",
+  "https://tass.ru/sport/28296185",
+  "title:Сборная России по хоккею заменит Норвегию на молодежном чемпионате мира"
 ]

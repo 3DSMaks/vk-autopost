@@ -1,9 +1,4 @@
 [
-  "skip:https://ria.ru/20261104/karapetyan-2129169146.html",
-  "skip:https://tass.ru/proisshestviya/28285727",
-  "https://www.rbc.ru/politics/04/11/2026/6aeb142b6b418975db4430c6",
-  "title:В Армении силовики задержали лидера партии «Сильная Армения» Самвела Карапетяна после обысков",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28285775",
   "skip:https://ria.ru/20261104/iran-2129171196.html",
   "https://www.interfax.ru/world/1126989",
   "title:Дональд Трамп заявил об отсутствии необходимости применять ядерное оружие против Ирана",
@@ -998,5 +993,10 @@
   "skip:https://ria.ru/20261108/vzryv-2130174889.html",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28296661",
   "https://www.kommersant.ru/doc/9092346",
-  "title:На иранском острове Кешм в Ормузском проливе прогремела серия взрывов"
+  "title:На иранском острове Кешм в Ормузском проливе прогремела серия взрывов",
+  "skip:https://www.interfax.ru/russia/1127716",
+  "skip:https://ria.ru/20261109/aeroport-2130181455.html",
+  "skip:https://tass.ru/ekonomika/28296717",
+  "https://www.kommersant.ru/doc/9092362",
+  "title:В московском аэропорту Домодедово ввели временные ограничения на полеты"
 ]

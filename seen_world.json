@@ -1,11 +1,4 @@
 [
-  "title:Сборные нескольких стран по хоккею отказались играть против России на чемпионате мира 2027 года",
-  "skip:https://tass.ru/proisshestviya/28283529",
-  "skip:https://ria.ru/20261103/kiev-2129011845.html",
-  "https://www.rbc.ru/society/03/11/2026/6ae9ecc2130db983efe70278",
-  "title:В Киеве введены экстренные отключения света и прекращена подача воды",
-  "skip:https://www.rbc.ru/politics/03/11/2026/6ae9f2894be8a625cbdb692e",
-  "skip:https://www.france24.com/en/middle-east/20261103-trump-says-us-will-halt-4-billion-in-aid-to-israel-after-end-of-this-year",
   "https://www.kommersant.ru/doc/9080026",
   "skip:https://www.interfax.ru/russia/1126830",
   "skip:https://tass.ru/politika/28283545",
@@ -998,5 +991,12 @@
   "title:Хоккеист Евгений Малкин вошел в топ-20 лучших бомбардиров в истории НХЛ",
   "skip:https://www.kommersant.ru/doc/9092085",
   "https://www.rbc.ru/rbcfreenews/6af0202b5a478a6376ed382d",
-  "title:Компания SpaceX назначила 15-й испытательный пуск ракетной системы Starship на 13 ноября"
+  "title:Компания SpaceX назначила 15-й испытательный пуск ракетной системы Starship на 13 ноября",
+  "skip:https://www.interfax.ru/russia/1127651",
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxORkE4VEFBVF9KWlRaRk9HRmtvVGh4cTlxanVleGY5WXZtVnNVSF9LTEQtd0NvbW9YbnE0TndLS052dU5kaUZtRjJrUzZiMXVhVFdWTlNBT2xGV203cTdOREg1YmZDMGRkM081d1hzbjJJWlR4ZG9tTVpSX19rZkVHdGhhRVVmbHVFRVhfVTJnVWFvRVlSYTdLSGRmTHd2WGxMZm15RTNGQ05DLVRXVm1jMDh1Rms?oc=5",
+  "title:Запорожская АЭС потеряла внешнее электроснабжение",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28295877",
+  "skip:https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
+  "https://tass.ru/mezhdunarodnaya-panorama/28295955",
+  "title:Саудовская Аравия перехватила ракеты хуситов над Эр-Риядом"
 ]

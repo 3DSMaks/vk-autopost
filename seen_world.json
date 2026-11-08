@@ -1,15 +1,4 @@
 [
-  "skip:https://www.france24.com/en/video/20261104-midterms-what-impact-did-redistricting-in-california-and-texas-have",
-  "skip:https://www.rbc.ru/rbcfreenews/6aeae072cf7d1a81ce22ddd1",
-  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/4/we-defeated-goliath-texas-democrat-james-talarico-wins-senate-seat?traffic_source=rss",
-  "skip:https://www.rbc.ru/rbcfreenews/6aeadad391cd0cddcd0405d9",
-  "skip:https://www.france24.com/en/video/20261104-blue-wave-turning-into-a-tsunami-as-democrats-take-control-of-congress",
-  "skip:https://www.rbc.ru/photoslider/6aeadff69a7947e3bfe29ea7",
-  "skip:https://news.google.com/rss/articles/CBMikwFBVV95cUxPSEtETVdDVnpDVFhqVmpJNTdBUURHcFg0YkhsOVdwcFo2YzNqSTl5Q18zUXVZV1Vrck8tLTFtcEYtOEFOX2hMMUo1UXJyMDRPQWp2Qld4Yk9iSWszUEtuMkc0dUo4d003eTN5V0VnRmEwVG9VUjBiMGVxVlc3SWg2TC1YdGFmb0FMMlFuVlVJOE1BalE?oc=5",
-  "skip:https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
-  "skip:https://www.rbc.ru/politics/04/11/2026/6aeaccb2a5497ae345d6fb2d",
-  "skip:https://www.france24.com/en/video/20261104-us-midterms-democrat-james-talarico-wins-senate-race-in-deep-red-texas",
-  "skip:https://www.france24.com/en/video/20261104-talarico-says-power-belongs-to-the-people-as-democrats-win-big-in-texas",
   "skip:https://news.google.com/rss/articles/CBMinwFBVV95cUxNLUxudWs1SWpxeDFHNWctVVdQNXA5N1gwT0N4ZG92R3FoRFdURVBRQ1NrNm1EZ0R0WFNqVl9KUlUtRWFrLVp6cXQzSXlBWHFuUzgwR2xjVVZmNjNzbklqLV9iZU9lMjRrakpHSUhFOHF6M1dneXc4RkpQZm95S1prNnJfckVzbGpoQWFmcmxBekR1MnY4Y1FYZUZtLU1qSUU?oc=5",
   "skip:https://news.google.com/rss/articles/CBMiowFBVV95cUxOZm5GV3N2QVhsbWJweXVxQUlBVEtNNFlGRHNidHo5OTdnaXRudEoxdi1wcG1WaXg5X0dLcHg3MWlQamJaUWRLYWlJci1LNlYxWlQ1d1B3cjZLU0FqUzhUVVFGcC16QjRJT3lxZlg3dDQ1MGFIdllDRnd3UXpWSFk2REx4dDBlLVlWSlJta2R4RnQ4eUQ4RVpDa2l5V25HTzk0Wmxv?oc=5",
   "skip:https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
@@ -998,5 +987,16 @@
   "skip:https://www.rbc.ru/rbcfreenews/6af08c237eaa951f14ecb9d3",
   "skip:https://ria.ru/20261108/elektropodstantsiya--2130149586.html",
   "https://www.interfax.ru/russia/1127689",
-  "title:Три сельских поселения в Ростовской области остались без света после атаки БПЛА"
+  "title:Три сельских поселения в Ростовской области остались без света после атаки БПЛА",
+  "skip:https://tass.ru/proisshestviya/28296527",
+  "skip:https://tass.ru/proisshestviya/28296515",
+  "skip:https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+  "skip:https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city?traffic_source=rss",
+  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/8/four-killed-88-injured-in-train-collision-in-egypt?traffic_source=rss",
+  "skip:https://ria.ru/20261108/egipet-2130160025.html",
+  "https://ria.ru/20261108/rossiyane-2130162693.html",
+  "title:Число жертв столкновения поездов в Египте возросло до семи человек",
+  "skip:https://www.kommersant.ru/doc/9092277",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/8/8-11-clip-eisenkot-address-il?traffic_source=rss",
+  "title:Лидер израильской оппозиции Гади Айзенкотов получил мандат на формирование правительства"
 ]

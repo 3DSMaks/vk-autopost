@@ -1,12 +1,4 @@
 [
-  "skip:https://tass.ru/proisshestviya/28283717",
-  "https://www.rbc.ru/politics/03/11/2026/6aea096cd46b0f3e02d6b32e",
-  "title:СБУ заочно предъявила обвинения в госизмене бывшему пресс-секретарю Зеленского Юлии Мендель",
-  "skip:https://www.france24.com/en/europe/20261103-king-charles-says-he-has-greater-understanding-of-horrors-of-slavery-falls-short-of-apology",
-  "https://www.theguardian.com/politics/live/2026/nov/03/shabana-mahmood-migration-brexit-eu-labour-andy-burnham-kemi-badenoch-king-charles-commonwealth-uk-politics-latest-news",
-  "title:Король Великобритании Карл III назвал роль страны в работорговле позорной на саммите Содружества",
-  "skip:https://ria.ru/20261103/minjust-2129053254.html",
-  "https://www.kommersant.ru/doc/9080048",
   "title:Минюст США впервые направил наблюдателей за выборами во все штаты",
   "skip:https://www.kommersant.ru/doc/9080060",
   "skip:https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdlc5d1FIMl9JRFFnMHlQaW5pLVZrOGFFNzZmYWQ2MS1hcFdjOGd2eUc3a1NQZzlNRjc4azNDSDJURzBCTFJuTUVwZVVJbVlfSDV1aUN2Z1ljZktQRGNLYks3ZUdJOHJ0ZzBDaGl3UFR5YzRMVElIbi16U09uVV96RTVxVS1Odk5sSHhMQTE1eUk1aHNnWTRTZ1E1X1diSnRfNVJnRFkyVWFicWtLaTd0NW9rWmR5TFVnM1NBRVNLVVI?oc=5",
@@ -998,5 +990,13 @@
   "title:Здание Saudi Aramco в Эр-Рияде получило повреждения из-за падения обломков ракеты",
   "skip:https://www.interfax.ru/russia/1127661",
   "https://ria.ru/20261108/mashina-2130087965.html",
-  "title:В Чувашии автомобиль упал с обрыва в реку, погибли пять человек"
+  "title:В Чувашии автомобиль упал с обрыва в реку, погибли пять человек",
+  "skip:https://ria.ru/20261108/rostov-2130092515.html",
+  "skip:https://www.interfax.ru/russia/1127672",
+  "skip:https://tass.ru/obschestvo/28296057",
+  "https://www.rbc.ru/rbcfreenews/6af04aed3c02e1f36c5b6827",
+  "title:В Ростовской области перекрыли трассу к мосту через Миус из-за повреждений после атаки БПЛА",
+  "skip:https://tass.ru/proisshestviya/28296033",
+  "https://www.interfax.ru/russia/1127668",
+  "title:В Белгородской области из-за детонации боеприпаса повреждены жилые дома и инфраструктура"
 ]

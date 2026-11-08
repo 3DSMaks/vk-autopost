@@ -1,12 +1,4 @@
 [
-  "skip:https://ria.ru/20261104/kompjuter-2129153323.html",
-  "https://www.kommersant.ru/doc/9080259",
-  "title:В Армении прошли обыски у лидеров партии «Сильная Армения»",
-  "skip:https://news.google.com/rss/articles/CBMijwFBVV95cUxNSnlWVjhZeXhCME9sTHdmcC1RWTdrNUVIbUhhbE1td2t3Z2VDbzh1SW1kSmJJdWU5aVRSeW8tQ3hweVJwTDdVMGR0XzdtM0UtSGhkRnY1NWN6ZUkxR05xb2NadnJuNjEza3d4cDNOcTRnWXJBT2MzYnJjY2hkbjdHUmxoWjVsWGE0UE5NOUx0QQ?oc=5",
-  "https://tass.ru/ekonomika/28285647",
-  "title:Инфляция в еврозоне в октябре достигла трехлетнего максимума в 4%",
-  "skip:https://www.rbc.ru/sport/04/11/2026/6aeafdae69e9b8afc0ec6620",
-  "skip:https://ria.ru/20261104/khokkey-2129160120.html",
   "https://www.sport-interfax.ru/1126973",
   "title:В Международной федерации хоккея заявили о трудностях из-за допуска сборной России",
   "skip:https://www.france24.com/en/video/20261104-us-midterms-trump-reacts-to-the-democrats-sweeping-victory",
@@ -998,5 +990,13 @@
   "https://www.rbc.ru/sport/08/11/2026/6af0c391a2468d088b8a1d71",
   "title:Мерседес впервые за пять лет выиграл Кубок конструкторов Формулы-1",
   "skip:https://news.google.com/rss/articles/CBMixgFBVV95cUxPM1llUmU5M09hWUtyd3hmdld0SjM1QVRMUWdjdXVmM2tnUExnNUhkNF9tQmQzWEpYaXc0bVhXUEZhNG8yVmJpU0NhREhfWXJpTDh2YWFvZnNMOEFKQ1ZrVVRtZi1uaGpRTzMxTEhwcGpNclozSk1uVEdUR21qQ3pMSzJqQjktLTU3NnpOcnJMREoxWklVTldzZHVLR1FVT1RsUkJWU0lqaUIwS2pKand6VTV6dHFRX1JGeVNNWHhmNWZkaDhIMFE?oc=5",
-  "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+  "skip:https://www.sport-interfax.ru/1127711",
+  "skip:https://news.google.com/rss/articles/CBMilwFBVV95cUxNb25PMWRKNWdTeEo1ZFZjQVJSN2NHMjU3N1FBY0htMkEtbEwyenhsb2lWQkxoSXVHdzNMMnR6dmdhZW1xY1FCc00zam9MdlExUDJsVFdHZVYyOXdjTUxaR2g1WERXakdmQms1bXdaT2FtWHdpSWdsX3MxWkVuYXZBZG5OS0RQekxZYkpaYmI4WHFGa0J4VDQ0?oc=5",
+  "https://www.kommersant.ru/doc/9092344",
+  "title:Команда Mercedes досрочно выиграла Кубок конструкторов Формулы-1 по итогам Гран-при в Бразилии",
+  "skip:https://www.interfax.ru/world/1127704",
+  "skip:https://www.kommersant.ru/doc/9092338",
+  "https://www.rbc.ru/rbcfreenews/6af0be72e5e7b03f39ead198",
+  "title:Дональд Трамп заявил о низкой вероятности возобновления ударов по Ирану и оценил оставшиеся мощности страны"
 ]

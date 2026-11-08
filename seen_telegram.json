@@ -1,8 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169562/ekshen-rpg-emberville-perenesli-za-den-do-reliza-v-rannem-dostupe/",
-  "skip:https://www.pcgamer.com/gaming-industry/kingdom-come-lord-of-the-rings-studio-warhorse-hit-by-a-cyberattack/",
-  "skip:https://www.ign.com/articles/kingdom-come-deliverance-developer-serious-cybersecurity-incident",
-  "skip:https://www.ign.com/articles/silent-hill-remake-coming-2027-cast-details-leaked",
   "skip:https://stopgame.ru/newsdata/73296/zapusk_ranney_versii_emberville_perenesli_na_yanvar",
   "skip:https://www.pcgamer.com/games/rpg/one-day-before-launch-arpg-emberville-gets-delayed-until-2027/",
   "https://www.playground.ru/gears_of_war_e_day/news/sluh_the_coalition_planiruet_syuzhetnoe_dlc_dlya_gears_of_war_e_day_i_proekt_vo_vselennoj_mayatnikovyh_vojn-1885207#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +994,9 @@
   "https://www.playground.ru/mass_effect_trilogy/news/dlya_mass_effect_3_vyshel_masshtabnyj_mod_take_earth_back_2_0_s_pererabotkoj_bitvy_za_zemlyu_i_takticheskim_vyborom_soyuznikov-1888874#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Для Mass Effect 3 вышел масштабный мод Take Earth Back 2.0 с переработкой битвы за Землю и тактическим выбором союзников",
   "https://www.ign.com/articles/epic-reveals-drop-rate-for-fortnites-pirate-token-following-pressure-from-fans",
-  "title:Epic Reveals Drop Rate for Fortnite's Pirate Token Following Pressure From Fans"
+  "title:Epic Reveals Drop Rate for Fortnite's Pirate Token Following Pressure From Fans",
+  "skip:https://deadline.com/2026/11/box-office-global-godzilla-minus-zero-ramayana-rise-of-a-legend-1237216698/",
+  "skip:https://variety.com/2026/film/box-office/godzilla-minus-zero-box-office-opening-weekend-cat-in-the-hat-fizzles-1236942363/",
+  "https://variety.com/2026/film/festivals/palme-dor-winner-fjord-jakarta-world-cinema-audience-award-1236942247/",
+  "title:Cristian Mungiu’s Palme d’Or Winner ‘Fjord’ Takes Jakarta World Cinema Audience Award as Short Film Winners Land Debut Feature Funding"
 ]

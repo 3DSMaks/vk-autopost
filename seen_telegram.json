@@ -1,8 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73296/zapusk_ranney_versii_emberville_perenesli_na_yanvar",
-  "skip:https://www.pcgamer.com/games/rpg/one-day-before-launch-arpg-emberville-gets-delayed-until-2027/",
-  "https://www.playground.ru/gears_of_war_e_day/news/sluh_the_coalition_planiruet_syuzhetnoe_dlc_dlya_gears_of_war_e_day_i_proekt_vo_vselennoj_mayatnikovyh_vojn-1885207#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Слух: The Coalition планирует сюжетное DLC для Gears of War: E-Day и проект во вселенной Маятниковых войн",
   "skip:https://www.film.ru/news/kto-sygraet-roditeley-garri-pottera",
   "https://www.kinonews.ru/news_143838/",
   "title:Билл Найи сыграет в триллере Альфонсо Куарона",
@@ -998,5 +994,9 @@
   "skip:https://deadline.com/2026/11/box-office-global-godzilla-minus-zero-ramayana-rise-of-a-legend-1237216698/",
   "skip:https://variety.com/2026/film/box-office/godzilla-minus-zero-box-office-opening-weekend-cat-in-the-hat-fizzles-1236942363/",
   "https://variety.com/2026/film/festivals/palme-dor-winner-fjord-jakarta-world-cinema-audience-award-1236942247/",
-  "title:Cristian Mungiu’s Palme d’Or Winner ‘Fjord’ Takes Jakarta World Cinema Audience Award as Short Film Winners Land Debut Feature Funding"
+  "title:Cristian Mungiu’s Palme d’Or Winner ‘Fjord’ Takes Jakarta World Cinema Audience Award as Short Film Winners Land Debut Feature Funding",
+  "skip:https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/fanaty_zelda_otbivayut_ataku_revyu_bomberov_na_remejk_ocarina_of_time-1888909#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://stopgame.ru/newsdata/73420/sluhi_ubisoft_gotovit_assassins_creed_pro_drevniy_rim_a_razrabotka_hexe_buksuet",
+  "https://gamemag.ru/news/202032/god-of-war-ragnarok-is-playstations-most-successful-game-this-generation-says-market-analyst-who-pre",
+  "title:Аналитики назвали самую успешную игру Sony в поколении PlayStation 5"
 ]

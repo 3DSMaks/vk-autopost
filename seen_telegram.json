@@ -1,8 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/pokemon-unite-offline-2027-in-game-sales-suspended",
-  "skip:https://www.igromania.ru/news/169554/populyarnaya-moba-s-pokemonami-pokemon-unite-zakroetsya-v-marte-2027-goda-na-vseh-ustrojstvah/",
-  "https://www.playground.ru/resident_evil_code_veronica_x/news/remejk_resident_evil_code_veronica_neskolko_raz_perezapuskali_vo_vremya_razrabotki-1885160#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Ремейк Resident Evil Code: Veronica несколько раз перезапускали во время разработки",
   "https://www.playground.ru/misc/news/tsifrovye_prodazhi_capcom_prevysili_92_na_fone_silnyh_rezultatov_resident_evil_i_monster_hunter-1885176#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Цифровые продажи Capcom превысили 92% на фоне сильных результатов Resident Evil и Monster Hunter",
   "skip:https://deadline.com/2026/10/brett-morgen-david-bowie-immersive-concert-berlin-1237205735/",
@@ -998,5 +994,9 @@
   "video:2026-11-08:https://gamemag.ru/news/202028/the-zelda-ocarina-of-time-remake-has-shot-to-the-top-of-metacritics-best-games-of-2026-so-far-makes",
   "title:The Legend of Zelda: Ocarina of Time для Nintendo Switch 2 стала самой высокооценённой игрой 2026 года",
   "https://www.playground.ru/gta_6/news/v_set_popala_informatsiya_o_fiz_kopii_gta_6_igra_potrebuet_230_gb_svobodnogo_mesta_i_budet_podderzhivat_onlajn_rezhim-1888830#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:В сеть попала информация о физ.копии GTA 6: игра потребует 230 ГБ свободного места и будет поддерживать онлайн-режим"
+  "title:В сеть попала информация о физ.копии GTA 6: игра потребует 230 ГБ свободного места и будет поддерживать онлайн-режим",
+  "skip:https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/trebovanie_na_korobke_remejka_zeldy_rassmeshilo_igrokov_dlya_prohozhdeniya_trebuyutsya_bazovye_navyki_chteniya-1888832#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169796/v-gta-6-budet-55-dostizhenij-na-konsolyah/",
+  "https://www.ign.com/articles/bioware-may-be-dead-but-a-modder-has-rebuilt-mass-effect-3s-multiplayer-into-the-legendary-edition",
+  "title:BioWare May Be Dead, But a Modder Has Rebuilt Mass Effect 3's Multiplayer Into the Legendary Edition"
 ]

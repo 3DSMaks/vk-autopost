@@ -1,6 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73296/zapusk_ranney_versii_emberville_perenesli_na_yanvar",
-  "skip:https://www.pcgamer.com/games/rpg/one-day-before-launch-arpg-emberville-gets-delayed-until-2027/",
   "https://www.ign.com/articles/gta-6-causes-17-spike-in-time-off-requests-on-games-release-date",
   "title:GTA 6 Causes 17% Spike in Time Off Requests on Game's Release Date",
   "https://www.kinonews.ru/news_143838/",
@@ -998,5 +996,7 @@
   "title:Camerimage Opens With Minute Of Silence For Kraków Mass Shooting; Darren Aronofsky Honored & Luca Guadagnino Introduces ‘Artificial’",
   "skip:https://deadline.com/2026/11/druski-elizabeth-holmes-whiteface-dru-can-see-everything-snl-1237216571/",
   "https://deadline.com/2026/11/emmy-rossum-rainn-ambassadorship-sexual-violence-furious-role-1237216377/",
-  "title:Emmy Rossum On RAINN Ambassadorship, “Continuing The Conversation” About Sexual Violence After ‘Furious’ Role"
+  "title:Emmy Rossum On RAINN Ambassadorship, “Continuing The Conversation” About Sexual Violence After ‘Furious’ Role",
+  "https://deadline.com/2026/11/christopher-nolan-dga-holding-studios-account-protecting-ai-1237216368/",
+  "title:Christopher Nolan On DGA “Holding The Studios To Account” In Protecting Copyright From AI, Including Anti-AI Boilerplate In ‘The Odyssey’"
 ]

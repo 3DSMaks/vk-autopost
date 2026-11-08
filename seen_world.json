@@ -1,13 +1,4 @@
 [
-  "skip:https://www.rbc.ru/sport/03/11/2026/6aea360e75e14a3e5c2332d5",
-  "skip:https://ria.ru/20261103/galatasaray-shtutgart-2129070481.html",
-  "skip:https://ria.ru/20261103/shtutgart-2129077698.html",
-  "skip:https://www.kommersant.ru/doc/9080109",
-  "skip:https://ria.ru/20261103/batrakov-2129076687.html",
-  "skip:https://tass.ru/sport/28284117",
-  "skip:https://www.rbc.ru/sport/03/11/2026/6aea214dd7310db3ba6c4b60",
-  "https://tass.ru/sport/28284133",
-  "title:Российский полузащитник Алексей Батраков оформил дубль за «Галатасарай» в матче Лиги чемпионов против «Штутгарта»",
   "skip:https://www.rbc.ru/rbcfreenews/6aea3bbb0d6cdd0c34bbaaa3",
   "skip:https://www.kommersant.ru/doc/9080111",
   "skip:https://www.interfax.ru/russia/1126865",
@@ -998,5 +989,14 @@
   "title:В Ормузском проливе загорелись три нефтяных танкера после атаки",
   "skip:https://www.interfax.ru/russia/1127681",
   "https://www.kommersant.ru/doc/9092191",
-  "title:Более 60 тысяч жителей Владивостока остались без холодного водоснабжения из-за аварии"
+  "title:Более 60 тысяч жителей Владивостока остались без холодного водоснабжения из-за аварии",
+  "skip:https://www.rbc.ru/rbcfreenews/6af073340a246f462992d782",
+  "skip:https://tass.ru/proisshestviya/28296245",
+  "https://ria.ru/20261108/poezd-2130128575.html",
+  "title:Столкновение поездов в Египте: число пострадавших превысило сто человек",
+  "skip:https://www.kommersant.ru/doc/9092193",
+  "skip:https://ria.ru/20261108/mvd-2130115305.html",
+  "skip:https://tass.ru/obschestvo/28296195",
+  "https://www.rbc.ru/rbcfreenews/6af0707ee5e7b03f39ead178",
+  "title:МВД предупредило об угрозе сбора цифрового досье на пользователей через ChatGPT"
 ]

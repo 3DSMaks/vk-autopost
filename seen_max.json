@@ -1,8 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/201853/ubisoft-gotova-rasskazat-o-budushchem-assassins-creed",
-  "skip:https://www.ign.com/articles/assassins-creed-black-flag-resynced-final-major-content-update-coming-this-week",
-  "https://www.playground.ru/sid_meiers_civilization_7/news/firaxis_priznala_chto_s_civilization_vii_poshla_nemnogo_ne_tuda_smelye_izmeneniya_otpugnuli_veteranov_serii-1885111#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Firaxis признала, что с Civilization VII пошла немного не туда: смелые изменения отпугнули ветеранов серии",
   "skip:https://www.igromania.ru/news/169550/predzagruzka-phantom-blade-zero-startovala-igrokov-prosyat-ostavit-ne-menee-300-gb-svobodnogo-mesta/",
   "skip:https://www.ign.com/articles/dead-by-daylight-devs-explain-chuckys-exit-from-stores-and-says-horror-icons-removed-due-to-licenses-have-open-invitation-to-rejoin",
   "skip:https://stopgame.ru/newsdata/73295/dlya_predzagruzki_phantom_blade_zero_na_pk_ponadobitsya_300_gb_svobodnogo_mesta",
@@ -998,5 +994,9 @@
   "skip:https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/glava_moon_studios_raskritikoval_gejmdizajn_remejka_ocarina_of_time_i_otsenki_pressy-1888738#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.ign.com/articles/bioware-may-be-dead-but-a-modder-has-rebuilt-mass-effect-3s-multiplayer-into-the-legendary-edition",
   "https://www.playground.ru/gta_6/news/v_gta_6_budet_55_trofeev_na_relize_vse_oni_prednaznacheny_dlya_odinochnogo_rezhima-1888746#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:В GTA 6 будет 55 трофеев на релизе - все они предназначены для одиночного режима"
+  "title:В GTA 6 будет 55 трофеев на релизе - все они предназначены для одиночного режима",
+  "skip:https://www.kinonews.ru/news_144045/",
+  "skip:https://kg-portal.ru/comments/135707-godzilla-minus-nol-zarabatyvaet-v-amerikanskom-prokate-zametno-bolshe-pervogo-filma/",
+  "https://www.kinonews.ru/news_144046/",
+  "title:Студия Paramount отложила премьеру нового \"Паранормального явления\""
 ]

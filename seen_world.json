@@ -1,11 +1,4 @@
 [
-  "skip:https://ria.ru/20261103/putin-2129044330.html",
-  "skip:https://tass.ru/politika/28283651",
-  "https://www.interfax.ru/russia/1126834",
-  "title:Владимир Путин внес на ратификацию в Госдуму соглашения с Зимбабве и Камбоджей о передаче осужденных лиц",
-  "skip:https://www.interfax.ru/business/1126826",
-  "https://www.kommersant.ru/doc/9080038",
-  "title:Минюст зарегистрировал приказ ФАС и Минэнерго о снижении норматива биржевых продаж авиакеросина до 5%",
   "skip:https://tass.ru/proisshestviya/28283717",
   "https://www.rbc.ru/politics/03/11/2026/6aea096cd46b0f3e02d6b32e",
   "title:СБУ заочно предъявила обвинения в госизмене бывшему пресс-секретарю Зеленского Юлии Мендель",
@@ -998,5 +991,12 @@
   "title:На Солнце зафиксировали рекордную серию вспышек",
   "skip:https://www.rbc.ru/rbcfreenews/6af02ed79e543f790d79ca5a",
   "https://tass.ru/proisshestviya/28295989",
-  "title:В Колумбии при атаке беспилотников на военную базу погибли трое военных"
+  "title:В Колумбии при атаке беспилотников на военную базу погибли трое военных",
+  "skip:https://www.interfax.ru/world/1127665",
+  "skip:https://ria.ru/20261108/saudi--2130083187.html",
+  "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections",
+  "title:Здание Saudi Aramco в Эр-Рияде получило повреждения из-за падения обломков ракеты",
+  "skip:https://www.interfax.ru/russia/1127661",
+  "https://ria.ru/20261108/mashina-2130087965.html",
+  "title:В Чувашии автомобиль упал с обрыва в реку, погибли пять человек"
 ]

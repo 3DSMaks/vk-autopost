@@ -1,6 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169550/predzagruzka-phantom-blade-zero-startovala-igrokov-prosyat-ostavit-ne-menee-300-gb-svobodnogo-mesta/",
-  "skip:https://www.ign.com/articles/dead-by-daylight-devs-explain-chuckys-exit-from-stores-and-says-horror-icons-removed-due-to-licenses-have-open-invitation-to-rejoin",
   "skip:https://stopgame.ru/newsdata/73295/dlya_predzagruzki_phantom_blade_zero_na_pk_ponadobitsya_300_gb_svobodnogo_mesta",
   "skip:https://gamemag.ru/news/201844/krasota-ujasnogo-mira-horror-cronos-the-new-dawn-poluchil-fotorejim",
   "skip:https://gamemag.ru/news/201849/komanda-warhammer-40000-boltgun-i-starship-troopers-ultimate-bug-war-lishilas-chetverti-sotrudnikov",
@@ -998,5 +996,7 @@
   "skip:https://www.kinonews.ru/news_144045/",
   "skip:https://kg-portal.ru/comments/135707-godzilla-minus-nol-zarabatyvaet-v-amerikanskom-prokate-zametno-bolshe-pervogo-filma/",
   "https://www.kinonews.ru/news_144046/",
-  "title:Студия Paramount отложила премьеру нового \"Паранормального явления\""
+  "title:Студия Paramount отложила премьеру нового \"Паранормального явления\"",
+  "https://www.kinonews.ru/news_144047/",
+  "title:Билл Скарсгард предложил снять нового \"Константина\" вместе с режиссером \"Оно\""
 ]

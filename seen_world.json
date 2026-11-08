@@ -1,7 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28285487",
-  "skip:https://www.interfax.ru/world/1126965",
-  "skip:https://news.google.com/rss/articles/CBMipwFBVV95cUxOdGFrbDdpa3A4TmhoRll4NkpfRkZ6OS0tLVFzX3NhVTFiSHVnYmtWaTBQbThRdFc0ZThrLVRYYXVZN0Jod1FMRmlheUpzc1VpMjV2REpiVHgzNGFkbkM5THgtWXRNTUlESEpjcUxKM1AzM3N2dUVIUTYwUm54a2otdVVpSE1MdzVsUW54Ui1oVHQ0XzZ3SWV1NnAzaTNPQkw2bnktelNFNA?oc=5",
   "https://www.rbc.ru/politics/04/11/2026/6aeaeb0691cd0cddcd0405f0",
   "title:Демократическая партия США одержала победу на промежуточных выборах в Конгресс",
   "skip:https://ria.ru/20261104/kompjuter-2129153323.html",
@@ -998,5 +995,8 @@
   "skip:https://tass.ru/sport/28296627",
   "skip:https://tass.ru/sport/28296625",
   "https://ria.ru/20261108/f1-2130172269.html",
-  "title:Ландо Норрис выиграл Гран-при Бразилии «Формулы-1», «Мерседес» завоевал Кубок конструкторов"
+  "title:Ландо Норрис выиграл Гран-при Бразилии «Формулы-1», «Мерседес» завоевал Кубок конструкторов",
+  "skip:https://ria.ru/20261108/f1-2130171366.html",
+  "https://www.rbc.ru/sport/08/11/2026/6af0c391a2468d088b8a1d71",
+  "title:Мерседес впервые за пять лет выиграл Кубок конструкторов Формулы-1"
 ]

@@ -1,10 +1,4 @@
 [
-  "title:В Испании приостановили все футбольные турниры после смерти игрока Хесуса де Мигеля",
-  "skip:https://www.france24.com/en/tv-shows/the-debate/20261103-trickle-or-tsunami-democrats-eye-gains-in-us-midterm-elections",
-  "https://news.google.com/rss/articles/CBMibEFVX3lxTE84eHlvQ0ZfX1A0MXo0QTg0Y285Ym51NzNrdmVYeFhRWHNJZzRHY2k2WlNiRnQ3UjJRQjR0Y1lKV1JsbHdicXN5S01DNFFIOTF0R1YxUVhuamFZOVNNeVlmX3N3MWdHaUxhUVloMQ?oc=5",
-  "skip:https://tass.ru/proisshestviya/28284087",
-  "https://www.rbc.ru/rbcfreenews/6aea321379607c36e215e037",
-  "title:Во Франции вооруженные грабители похитили до 50 кг золота с ювелирной фабрики",
   "skip:https://www.rbc.ru/sport/03/11/2026/6aea360e75e14a3e5c2332d5",
   "skip:https://ria.ru/20261103/galatasaray-shtutgart-2129070481.html",
   "skip:https://ria.ru/20261103/shtutgart-2129077698.html",
@@ -998,5 +992,11 @@
   "title:Франция анонсировала участие представителей Европы в переговорах по Украине в Абу-Даби",
   "skip:https://news.google.com/rss/articles/CBMikgFBVV95cUxQcU9XdjVRRF9UOWhmWGxwbFRrU25JV3pDcVI4T0VGT0dFUGdXWG1UaU4ycmp0MnpTdDNFdzhES3VDUHhzZS1fTUJvOHhIdmNrVDBtMmF1U2laQi1seVZNeEpDbGFUZThFbFBDWjc0NDg0VVI2RkFLOHVhSl8xbFRZeVVtV3U2LVZGdFAzUmZiTEZ6QQ?oc=5",
   "https://www.rbc.ru/rbcfreenews/6af0650906ff112d6db18e94",
-  "title:В Ормузском проливе подорвались на минах и загорелись нефтяные танкеры"
+  "title:В Ормузском проливе подорвались на минах и загорелись нефтяные танкеры",
+  "skip:https://www.kommersant.ru/doc/9092179",
+  "https://tass.ru/mezhdunarodnaya-panorama/28296233",
+  "title:В Ормузском проливе загорелись три нефтяных танкера после атаки",
+  "skip:https://www.interfax.ru/russia/1127681",
+  "https://www.kommersant.ru/doc/9092191",
+  "title:Более 60 тысяч жителей Владивостока остались без холодного водоснабжения из-за аварии"
 ]

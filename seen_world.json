@@ -1,14 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28283271",
-  "skip:https://ria.ru/20261103/tramp-2128997053.html",
-  "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island",
-  "title:США нанесли удары по иранскому острову Кешм и системе ПВО",
-  "skip:https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnAzZzVDS3N1RTJJdnkxYUJPQkl1X3h4d3hZaC1MX0RwXzRHOGRybmM3QjEzR1kybkJIUmNYcnVPbkNPMkt6TFBnTEdOYWFJemJkelBhVXZsRDQ5VG4wc1lSS0Q2dlRlUmV0VHI2Y3YxNWstRWVPUV95Y2pNUVp5TUlES3pCMC1GUzNTTXVfWWlGd1JlQ3p1XzJUWmJmbzlWUmtYTFlXNDFlZw?oc=5",
-  "skip:https://www.kommersant.ru/doc/9079976",
-  "skip:https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss",
-  "https://www.interfax.ru/world/1126813",
-  "title:Дональд Трамп заявил о прекращении финансовой военной помощи Израилю в конце 2026 года",
-  "skip:https://www.rbc.ru/sport/03/11/2026/6ae9eb26d54c8a55deca603b",
   "skip:https://tass.ru/sport/28283403",
   "skip:https://www.kommersant.ru/doc/9079958",
   "skip:https://www.rbc.ru/sport/03/11/2026/6ae9e1d0d54c8a55deca600c",
@@ -998,5 +988,15 @@
   "skip:https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white",
   "skip:https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ2FyWVhVOHdId05JN1ZCTzFidHJyRktaVjg5NkM2WVV2ZFlrLWFrLXlWSHFkQlZ6a1BUSWV2Zzk4cWlmTHdTOFNWc3FpenFDYVpkYnQ1ZXYtdWdLRlFTVldySXU2c0VuTlhvWFZDVDRZenIzOGtNOUdSZWplX3FDaFdjdmpsa2xtLTQtbHFpQ3I4OGFEU1IwRkhsS0Y?oc=5",
   "https://www.rbc.ru/politics/08/11/2026/6aef9e5f3c02e1f36c5b67fb",
-  "title:Дэйна Уайт отклонил предложение Дональда Трампа занять пост пресс-секретаря Белого дома"
+  "title:Дэйна Уайт отклонил предложение Дональда Трампа занять пост пресс-секретаря Белого дома",
+  "skip:https://www.kommersant.ru/doc/9092078",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28295779",
+  "https://www.rbc.ru/rbcfreenews/6af00f79bd043ff61715b2cf",
+  "title:Силы ПВО Саудовской Аравии перехватили две ракеты хуситов над Эр-Риядом",
+  "skip:https://www.interfax.ru/russia/1127649",
+  "skip:https://www.kommersant.ru/doc/9092082",
+  "skip:https://tass.ru/proisshestviya/28295879",
+  "skip:https://ria.ru/20261108/zaes-2130072572.html",
+  "https://ria.ru/20261108/liniya-2130073105.html",
+  "title:Запорожская АЭС потеряла внешнее электроснабжение из-за повреждения линии «Ферросплавная-1»"
 ]

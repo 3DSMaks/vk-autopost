@@ -1,12 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMinwFBVV95cUxNLUxudWs1SWpxeDFHNWctVVdQNXA5N1gwT0N4ZG92R3FoRFdURVBRQ1NrNm1EZ0R0WFNqVl9KUlUtRWFrLVp6cXQzSXlBWHFuUzgwR2xjVVZmNjNzbklqLV9iZU9lMjRrakpHSUhFOHF6M1dneXc4RkpQZm95S1prNnJfckVzbGpoQWFmcmxBekR1MnY4Y1FYZUZtLU1qSUU?oc=5",
-  "skip:https://news.google.com/rss/articles/CBMiowFBVV95cUxOZm5GV3N2QVhsbWJweXVxQUlBVEtNNFlGRHNidHo5OTdnaXRudEoxdi1wcG1WaXg5X0dLcHg3MWlQamJaUWRLYWlJci1LNlYxWlQ1d1B3cjZLU0FqUzhUVVFGcC16QjRJT3lxZlg3dDQ1MGFIdllDRnd3UXpWSFk2REx4dDBlLVlWSlJta2R4RnQ4eUQ4RVpDa2l5V25HTzk0Wmxv?oc=5",
-  "skip:https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
-  "skip:https://www.aljazeera.com/news/2026/11/4/el-sayed-defeats-rogers-to-win-senate-seat-in-michigan?traffic_source=rss",
-  "skip:https://www.rbc.ru/politics/04/11/2026/6aead6f37b64953872caaf19",
-  "skip:https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
-  "skip:https://www.aljazeera.com/news/2026/11/4/democrats-win-the-us-senate-what-does-this-mean?traffic_source=rss",
-  "https://www.rbc.ru/politics/04/11/2026/6aeaddbc69e9b8afc0ec65b2",
   "title:Демократическая партия США победила на промежуточных выборах и получила контроль над Конгрессом",
   "skip:https://tass.ru/armiya-i-opk/28285309",
   "skip:https://ria.ru/20261104/bpla-2129144054.html",
@@ -998,5 +990,13 @@
   "title:Число жертв столкновения поездов в Египте возросло до семи человек",
   "skip:https://www.kommersant.ru/doc/9092277",
   "https://www.aljazeera.com/video/newsfeed/2026/11/8/8-11-clip-eisenkot-address-il?traffic_source=rss",
-  "title:Лидер израильской оппозиции Гади Айзенкотов получил мандат на формирование правительства"
+  "title:Лидер израильской оппозиции Гади Айзенкотов получил мандат на формирование правительства",
+  "skip:https://tass.ru/ekonomika/28296551",
+  "skip:https://ria.ru/20261108/zaes-2130164471.html",
+  "https://www.interfax.ru/russia/1127699",
+  "title:На Запорожской АЭС восстановили внешнее электроснабжение",
+  "skip:https://tass.ru/armiya-i-opk/28296539",
+  "skip:https://ria.ru/20261108/pvo-2130163793.html",
+  "https://www.rbc.ru/rbcfreenews/6af0ae99e4067d36b817dcc6",
+  "title:Силы ПВО за день сбили 50 украинских беспилотников над регионами России"
 ]

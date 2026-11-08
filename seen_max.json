@@ -1,9 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135544-v-blizhajshie-dni-betmen-vozvraschaetsja-na-dezhurstvo-stiven-soderberg-vozobnovil-semki-sikvela/",
-  "skip:https://www.kinonews.ru/news_143836/",
-  "https://kg-portal.ru/comments/135543-rezhisser-godzilly-minus-odin-debjutiruet-v-gollivude-s-mnogoobeschajuschimi-molodymi-akterami-i-polom-dzhamatti/",
-  "title:Режиссёр \"Годзиллы: Минус один\" дебютирует в Голливуде с многообещающими молодыми актёрами и Полом Джаматти",
-  "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/activision_vyskazalas_o_sorevnovatelnom_balanse_i_krossplee_v_call_of_duty_na_nintendo_switch_2-1885133#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.playground.ru/misc/news/dc_studios_dejstvitelno_hochet_zapoluchit_zvezdu_richera_no_poka_ne_opredelilas_s_rolyu-1885124#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.igromania.ru/news/169548/seriya-call-of-duty-zarabotala-40-mlrd-dollarov-rasskazala-glava-xbox-asha-sharma/",
   "title:Серия Call of Duty заработала 40 млрд долларов — рассказала глава Xbox Аша Шарма",
@@ -998,5 +993,10 @@
   "https://www.playground.ru/mass_effect_5/news/fanatskaya_kampaniya_podderzhat_mass_effect_v_den_n7_ne_dobilas_uspeha_igra_sobrala_lish_10_tysyach_igrokov_v_steam-1888769#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Фанатская кампания поддержать Mass Effect в День N7 не добилась успеха: игра собрала лишь 10 тысяч игроков в Steam",
   "https://www.kinonews.ru/news_144048/",
-  "title:Режиссер \"Голодных игр\" предложил снять новый приквел о Плутархе Хевенсби"
+  "title:Режиссер \"Голодных игр\" предложил снять новый приквел о Плутархе Хевенсби",
+  "skip:https://www.film.ru/news/rezhisser-golodnyh-igr-predlozhil-ideyu-dlya-novoy-chasti",
+  "skip:https://www.film.ru/news/disney-razrabatyvaet-igrovoy-film-o-meduze",
+  "skip:https://www.film.ru/news/multfilm-po-sumerkam-poluchit-srazu-dva-sezona",
+  "https://deadline.com/2026/11/emma-stone-joins-druski-snl-debut-opening-monologue-1237216552/",
+  "title:Emma Stone Joins Druski For His ‘SNL’ Debut Opening Monologue While Filming ‘The Catch’ Rom-Com"
 ]

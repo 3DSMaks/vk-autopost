@@ -1,7 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143839/",
-  "https://kg-portal.ru/comments/135544-v-blizhajshie-dni-betmen-vozvraschaetsja-na-dezhurstvo-stiven-soderberg-vozobnovil-semki-sikvela/",
-  "title:В ближайшие дни Бэтмен возвращается на дежурство: Стивен Содерберг возобновил съёмки сиквела",
   "skip:https://variety.com/2026/film/festivals/tokyo-jury-chief-rolf-de-heer-fiapf-new-a-list-1236931842/",
   "https://kg-portal.ru/comments/135545-bitva-motorov-peresekla-otmetku-v-800-mln-rublej-kassovyh-sborov/",
   "title:\"Битва моторов\" пересекла отметку в 800 млн рублей кассовых сборов",
@@ -998,5 +995,8 @@
   "title:Билл Скарсгард предложил снять нового \"Константина\" вместе с режиссером \"Оно\"",
   "skip:https://www.kinonews.ru/news_144048/",
   "https://deadline.com/2026/11/emmy-rossum-rainn-ambassadorship-sexual-violence-furious-role-1237216377/",
-  "title:Emmy Rossum On RAINN Ambassadorship, “Continuing The Conversation” About Sexual Violence After ‘Furious’ Role"
+  "title:Emmy Rossum On RAINN Ambassadorship, “Continuing The Conversation” About Sexual Violence After ‘Furious’ Role",
+  "skip:https://deadline.com/2026/11/our-blues-midnight-diner-taicca-joint-venture-funds-1237216640/",
+  "https://variety.com/2026/film/markets-festivals/indonesian-horror-pabrik-gula-2028-sequel-1236942313/",
+  "title:Indonesian Horror Hit ‘Pabrik Gula’ Gets 2028 Sequel as MD Entertainment Lines Up Three Imax Films"
 ]

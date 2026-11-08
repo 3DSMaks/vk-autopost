@@ -1,12 +1,4 @@
 [
-  "title:Парламент Гренландии одобрил соглашение о безопасности с США",
-  "skip:https://ria.ru/20261103/mid--2129062025.html",
-  "https://tass.ru/politika/28283893",
-  "title:Временного поверенного в делах Норвегии вызвали в МИД России",
-  "skip:https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
-  "skip:https://tass.ru/proisshestviya/28283833",
-  "skip:https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeEp0ZjhzQkM4OXZhWk84akpsUXdZaFFOV0VvOVlWOFRFRWhVLU8xcXl6R0pXNEZscERia2NydnU2NHcwYTFCQXhrUHBmLVJhSnllbjBJSDdMUlVzRWFPdG1tM2xkZlFhcGtoWDcyaXByYlIybnNkYWNwNy12V2tzeE5FVXFfcjM0YWxtY2hsU2x0dVdCLVkxNjRrb0JGem5LOG1BY1hULUx1Zw?oc=5",
-  "skip:https://news.google.com/rss/articles/CBMixgFBVV95cUxOVkQ0YkpOVC13OThlbVFndzBBbUF0S2xvYmdSbzQ0VWY4Q21nRUlFQkh6YTdqNnVEbmNoVEJoQmdIS3ZjM0RMRHVZZzN1SWdUekROY2RqaUdScDlkSHd5dXZGeWFnV19RV0hZb1pZVFROQW1meDBqZXdMZUc5UzJYQjd1VEgwd2dCWTNMVlVIYW94NHRhZXdwWmh1RDhJVkNTLS1RREJHMjZUbWpGNDMyX2UwWmRPdUhHQ0V3dXY0akxpTDVzMVE?oc=5",
   "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
   "title:В Европе проверили несколько самолетов и супермаркеты после ложных угроз о бомбах и кибератак на холодильное оборудование",
   "skip:https://tass.ru/ekonomika/28283869",
@@ -998,5 +990,13 @@
   "skip:https://ria.ru/20261108/pozhar-2130088821.html",
   "skip:https://tass.ru/obschestvo/28296053",
   "https://www.interfax.ru/russia/1127674",
-  "title:В Ростове-на-Дону полностью ликвидировали крупный пожар на складе масел и полимеров"
+  "title:В Ростове-на-Дону полностью ликвидировали крупный пожар на складе масел и полимеров",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28296121",
+  "https://www.rbc.ru/politics/08/11/2026/6af05825e5e7b03f39ead16a",
+  "title:Великобритания и страны Северной Европы создают военно-морской альянс для сдерживания России",
+  "skip:https://www.rbc.ru/society/08/11/2026/6af05aba19ff8d0ea0a992a7",
+  "skip:https://ria.ru/20261108/krakov-2130103591.html",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28296163",
+  "https://www.kommersant.ru/doc/9092151",
+  "title:Скончалась гражданка России, пострадавшая при стрельбе и теракте в центре Кракова"
 ]

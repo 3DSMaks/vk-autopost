@@ -1,12 +1,4 @@
 [
-  "title:Минюст США впервые направил наблюдателей за выборами во все штаты",
-  "skip:https://www.kommersant.ru/doc/9080060",
-  "skip:https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdlc5d1FIMl9JRFFnMHlQaW5pLVZrOGFFNzZmYWQ2MS1hcFdjOGd2eUc3a1NQZzlNRjc4azNDSDJURzBCTFJuTUVwZVVJbVlfSDV1aUN2Z1ljZktQRGNLYks3ZUdJOHJ0ZzBDaGl3UFR5YzRMVElIbi16U09uVV96RTVxVS1Odk5sSHhMQTE1eUk1aHNnWTRTZ1E1X1diSnRfNVJnRFkyVWFicWtLaTd0NW9rWmR5TFVnM1NBRVNLVVI?oc=5",
-  "https://www.rbc.ru/business/03/11/2026/6aea0c660dbbc5bef016522b",
-  "title:Консорциум во главе с Тоддом Боэли готовит сделку по покупке зарубежных активов ЛУКОЙЛа",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28283815",
-  "skip:https://news.google.com/rss/articles/CBMijwFBVV95cUxNc2xpcHg4YnN1aFV0Z180RmhGanA4ajYxVlJENjBqaFVpdjZRMXZZRmNMWlZ5NFdHMHVoZGY1NGFzMVdCZVZDa1gyeTd3Y1FMb1JKRHFLeW14WDQ0UkFvZUFCMFNrZV8yRkJyS2YzWHNBd2VIV1BZTWxEdEdzWXVyMVNrUEhKSDFQa1M3MnlwVQ?oc=5",
-  "https://www.kommersant.ru/doc/9080078",
   "title:Парламент Гренландии одобрил соглашение о безопасности с США",
   "skip:https://ria.ru/20261103/mid--2129062025.html",
   "https://tass.ru/politika/28283893",
@@ -998,5 +990,13 @@
   "title:В Ростовской области перекрыли трассу к мосту через Миус из-за повреждений после атаки БПЛА",
   "skip:https://tass.ru/proisshestviya/28296033",
   "https://www.interfax.ru/russia/1127668",
-  "title:В Белгородской области из-за детонации боеприпаса повреждены жилые дома и инфраструктура"
+  "title:В Белгородской области из-за детонации боеприпаса повреждены жилые дома и инфраструктура",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28296097",
+  "https://ria.ru/20261108/zaes-2130092728.html",
+  "title:Запорожская АЭС полностью потеряла внешнее электроснабжение",
+  "skip:https://www.interfax.ru/russia/1127671",
+  "skip:https://ria.ru/20261108/pozhar-2130088821.html",
+  "skip:https://tass.ru/obschestvo/28296053",
+  "https://www.interfax.ru/russia/1127674",
+  "title:В Ростове-на-Дону полностью ликвидировали крупный пожар на складе масел и полимеров"
 ]

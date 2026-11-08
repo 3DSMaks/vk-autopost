@@ -1,12 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9080253",
-  "title:КСИР заявил о подрыве четырех танкеров в Ормузском проливе",
-  "skip:https://www.rbc.ru/sport/04/11/2026/6aeaf0c26b418975db44307d",
-  "https://www.kommersant.ru/doc/9080260",
-  "title:Skoda пригрозила отказаться от спонсирования чемпионата мира по хоккею в случае допуска сборной России",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28285513",
-  "skip:https://news.google.com/rss/articles/CBMilwFBVV95cUxQYldVVWZMVFEwSkw0RXVnZFhkTGpRUl9rNVpMR25KUW5kaTJLZlVjUjgyZURaUW9XMzdxaVRLNmRsbV9VeERTcjJ6MmhwMDVRdGsxZW9mSnRWNk9DRVYyWVN1Yi1qTVNlTW90M3ZmWi1nQi1KVHBtRmV6QVRmeUNOUmVVNXA0aHRlX0k2anZNX2dGYXBuZjMw?oc=5",
-  "skip:https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28285487",
   "skip:https://www.interfax.ru/world/1126965",
   "skip:https://news.google.com/rss/articles/CBMipwFBVV95cUxOdGFrbDdpa3A4TmhoRll4NkpfRkZ6OS0tLVFzX3NhVTFiSHVnYmtWaTBQbThRdFc0ZThrLVRYYXVZN0Jod1FMRmlheUpzc1VpMjV2REpiVHgzNGFkbkM5THgtWXRNTUlESEpjcUxKM1AzM3N2dUVIUTYwUm54a2otdVVpSE1MdzVsUW54Ui1oVHQ0XzZ3SWV1NnAzaTNPQkw2bnktelNFNA?oc=5",
@@ -998,5 +990,13 @@
   "skip:https://ria.ru/20261108/moldavija-2130167623.html",
   "skip:https://tass.ru/ekonomika/28296521",
   "https://www.kommersant.ru/doc/9092334",
-  "title:Молдавия полностью отказалась от закупок российского газа"
+  "title:Молдавия полностью отказалась от закупок российского газа",
+  "skip:https://ria.ru/20261108/sostav-2130167196.html",
+  "https://www.rbc.ru/politics/08/11/2026/6af0bdefffababcec205e1af",
+  "title:Названы имена членов украинской делегации на переговорах в Абу-Даби",
+  "skip:https://news.google.com/rss/articles/CBMipgFBVV95cUxOTUk1NGtXQ0g4Z3Y5STJtbm1oWFZDWDZiTmZjTFlZaTU0R2R2UG00bl9oNTVZcE5sVHhNQlVkNGg5dE5QWDBqNTdyQVpQSXNNNzhicjF0UzZaYjJ2SGd3ZDlkVzQxYVVzcWJIVWh1eTVPN1R5cWMyOHZRcDhOQ2IxMlJ6elBiUnFrM3lyVzBXZ3B2TmxKc25XQmdUUXNRWUs3UmpRaHhR?oc=5",
+  "skip:https://tass.ru/sport/28296627",
+  "skip:https://tass.ru/sport/28296625",
+  "https://ria.ru/20261108/f1-2130172269.html",
+  "title:Ландо Норрис выиграл Гран-при Бразилии «Формулы-1», «Мерседес» завоевал Кубок конструкторов"
 ]

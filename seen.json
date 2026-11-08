@@ -1,7 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143838/",
-  "https://www.kinonews.ru/news_143840/",
-  "title:Сериал \"Тверская\" стал лидером недели на российском телевидении",
   "skip:https://www.kinonews.ru/news_143839/",
   "https://kg-portal.ru/comments/135544-v-blizhajshie-dni-betmen-vozvraschaetsja-na-dezhurstvo-stiven-soderberg-vozobnovil-semki-sikvela/",
   "title:В ближайшие дни Бэтмен возвращается на дежурство: Стивен Содерберг возобновил съёмки сиквела",
@@ -998,5 +995,8 @@
   "title:Emma Stone Joins Druski For His ‘SNL’ Debut Opening Monologue While Filming ‘The Catch’ Rom-Com",
   "skip:https://deadline.com/2026/11/druski-elizabeth-holmes-whiteface-dru-can-see-everything-snl-1237216571/",
   "https://www.kinonews.ru/news_144047/",
-  "title:Билл Скарсгард предложил снять нового \"Константина\" вместе с режиссером \"Оно\""
+  "title:Билл Скарсгард предложил снять нового \"Константина\" вместе с режиссером \"Оно\"",
+  "skip:https://www.kinonews.ru/news_144048/",
+  "https://deadline.com/2026/11/emmy-rossum-rainn-ambassadorship-sexual-violence-furious-role-1237216377/",
+  "title:Emmy Rossum On RAINN Ambassadorship, “Continuing The Conversation” About Sexual Violence After ‘Furious’ Role"
 ]

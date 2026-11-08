@@ -1,11 +1,4 @@
 [
-  "skip:https://tass.ru/sport/28283403",
-  "skip:https://www.kommersant.ru/doc/9079958",
-  "skip:https://www.rbc.ru/sport/03/11/2026/6ae9e1d0d54c8a55deca600c",
-  "skip:https://ria.ru/20261103/rossija-2129014640.html",
-  "skip:https://ria.ru/20261103/tampere-2129014023.html",
-  "skip:https://www.sport-interfax.ru/1126808",
-  "https://ria.ru/20261103/khokkey-2129025558.html",
   "title:Сборные нескольких стран по хоккею отказались играть против России на чемпионате мира 2027 года",
   "skip:https://tass.ru/proisshestviya/28283529",
   "skip:https://ria.ru/20261103/kiev-2129011845.html",
@@ -998,5 +991,12 @@
   "skip:https://tass.ru/proisshestviya/28295879",
   "skip:https://ria.ru/20261108/zaes-2130072572.html",
   "https://ria.ru/20261108/liniya-2130073105.html",
-  "title:Запорожская АЭС потеряла внешнее электроснабжение из-за повреждения линии «Ферросплавная-1»"
+  "title:Запорожская АЭС потеряла внешнее электроснабжение из-за повреждения линии «Ферросплавная-1»",
+  "skip:https://www.sport-interfax.ru/1127646",
+  "skip:https://www.kommersant.ru/doc/9092074",
+  "https://www.rbc.ru/sport/08/11/2026/6af02d2af07a758c7ac38ac7",
+  "title:Хоккеист Евгений Малкин вошел в топ-20 лучших бомбардиров в истории НХЛ",
+  "skip:https://www.kommersant.ru/doc/9092085",
+  "https://www.rbc.ru/rbcfreenews/6af0202b5a478a6376ed382d",
+  "title:Компания SpaceX назначила 15-й испытательный пуск ракетной системы Starship на 13 ноября"
 ]

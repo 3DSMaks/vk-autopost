@@ -1,7 +1,4 @@
 [
-  "https://www.film.ru/news/kianu-rivz-vmesto-alana-richsona",
-  "title:Киану Ривз вместо Алана Ричсона",
-  "skip:https://www.playground.ru/dead_by_daylight/news/behaviour_interactive_obyasnila_uhod_chaki_iz_dead_by_daylight_i_dopustila_ego_vozvraschenie-1885119#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169550/predzagruzka-phantom-blade-zero-startovala-igrokov-prosyat-ostavit-ne-menee-300-gb-svobodnogo-mesta/",
   "skip:https://www.ign.com/articles/dead-by-daylight-devs-explain-chuckys-exit-from-stores-and-says-horror-icons-removed-due-to-licenses-have-open-invitation-to-rejoin",
   "skip:https://stopgame.ru/newsdata/73295/dlya_predzagruzki_phantom_blade_zero_na_pk_ponadobitsya_300_gb_svobodnogo_mesta",
@@ -998,5 +995,8 @@
   "skip:https://gamemag.ru/news/202024/robert-pattinson-and-nicholas-hoult-late-contenders-for-james-bond-casting",
   "skip:https://gamemag.ru/news/202011/other-worlds-a-stranger-things-adventure-announcement",
   "https://www.playground.ru/gta_6/news/bonusnye_predmety_ultimate_izdaniya_gta_6_budut_otkryvatsya_postepenno_po_hodu_syuzheta-1888751#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Бонусные предметы Ultimate-издания GTA 6 будут открываться постепенно по ходу сюжета"
+  "title:Бонусные предметы Ultimate-издания GTA 6 будут открываться постепенно по ходу сюжета",
+  "skip:https://kg-portal.ru/comments/135707-godzilla-minus-nol-zarabatyvaet-v-amerikanskom-prokate-zametno-bolshe-pervogo-filma/",
+  "https://www.kinonews.ru/news_144047/",
+  "title:Билл Скарсгард предложил снять нового \"Константина\" вместе с режиссером \"Оно\""
 ]

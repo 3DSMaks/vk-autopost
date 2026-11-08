@@ -1,11 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28284253",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28284245",
-  "skip:https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoRXFabEpDYThvalh6ektrQXRqYldZRzNvMzFBRTFrZDlablN2aTRvWkdoQi1QdUx2Z0ZMTUVxQ3BFUk1XUFA3LTNGOWtfS1l0N2Nhd25TZlZkZzRiZEE1a0JwV0lNN2M?oc=5",
-  "skip:https://news.google.com/rss/articles/CBMiogFBVV95cUxPb0VlcDd4VEtEWWtPYUNnck5rekRyWlBCQmc5ZW9odGVWVDlLdDN3NlZzZHRuMXk5TDZ5YjY4QmpKc3RZc2RaTkVGc3hEbEIxb2c4aFRhNGhPM0gtSlRsaDM1Y2V3RWYwbXBVTjVBYlU5TnhLU0hiLVpfTldKbXg3UDZxbzEwMEppSEN0YzM1SDlrb0xETjMzWEtqSnNlMUhUSFE?oc=5",
-  "skip:https://news.google.com/rss/articles/CBMixwFBVV95cUxPbGRoZ2w1TlIydE5odC15MjNOMlpTV3hMcFRwaDBPbmFVUzRBUkp4RXVpUnl3MHZuZmhVVFhXVDRkSFl4ZmUzVWsxczFwRHMzNU43WUhPbWlZTWUyTE1lQ3VzWko2SDBzLUMxc213T3ppaHlfcjl4MVdCNFY2TkZYWnJ2U1VWek9SckwzaG1zTXQwdDZTUmk3blZsQVFqMVdPN3Y0N05rOWU0MFJRc2xER25jcDBUeHp6Unhsd3JDLTJGekRjcTN3?oc=5",
-  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_us-astronauts-vote-from-space-in-2026-elections-031126?traffic_source=rss",
-  "skip:https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTjkyWmJqMU9FSGNlZDU1XzEzZ2IzTUNlZ25OV1BuYmxTREU5NE41R0tldnU4Z3lCclBGYzltRFJySF9jMldXMDZxTTBaaGtYTU4tbHVJcXNCemdqblJfUXY3QTk0alF6VmJtWjBBS3kwaWVZOV9GTzdrM05aVXFRSlpjZTBPcWY2RHlDbnF6b21kRUVQZDNsUk5ZOUpwNnN0VkNENlhzWnBwQzdzTDkycVpyM1hJa3VYRC1SUWdWbGlGdw?oc=5",
   "skip:https://news.google.com/rss/articles/CBMivgFBVV95cUxOUE1lVWRlWlptbUNFLUoxdUxhVDBGQXJaalludXNlLWhxQ05GSlhkaUxSRlZ1OVVHN3Zuam5wNWxZdmFqbjQ5cTlQNllScnpmSDkwVTNkc2NkczBFcnphSTl5MmJsZEV6LS1zeVZyYzVLRHl2SmNlMkc5MWxYSksyWVV2b0NXeGRlWUF4ZTNqa0JMUWhSejk5YkFodmFEdlIwV295NU9PQkdkcnpGbEc3SC0yV1ZldlQ3SXpVd3dB?oc=5",
   "skip:https://www.aljazeera.com/video/newsfeed/2026/11/3/michigan-voters-face-crucial-choice-as-trumps-grip-on-congress-is-tested?traffic_source=rss",
   "https://www.rbc.ru/politics/04/11/2026/6aea574175e14a3e5c2332fb",
@@ -998,5 +991,12 @@
   "skip:https://tass.ru/armiya-i-opk/28296351",
   "skip:https://ria.ru/20261108/sudno-2130138792.html",
   "https://www.interfax.ru/russia/1127688",
-  "title:ВС России поразили сухогруз и контейнеровоз с военными грузами"
+  "title:ВС России поразили сухогруз и контейнеровоз с военными грузами",
+  "skip:https://www.rbc.ru/rbcfreenews/6af08eb13c02e1f36c5b6853",
+  "skip:https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR1pDemVhQ0RJdmhpWXA2akRYZHFLSkpCaXlHdUIwRmZab2JCcHdDMEU0VU5QajU2ODBvc21yUm5TLW9oUlRhWVI0Z2FUX2cta21RZFhYSEJIa3R4TjhDQkpnTWlBS0VvZDRhSnowTGlwdThyODM2UlEwTHlHQnM3N0E5LTR5dWlXZEZDZS02T3NlbnBmQ1ZaSXdhV21nbVJWRmZuTWF6Q3g5MDQ?oc=5",
+  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQTVkajR2S0QtUzdnUVhFVGh6b3JRdjFaOWx1VGVySUdhcjVYck1Sbm54emJiZy1XX3RNbkFDTDdPcDI0UGYyUjZWczVWNW5lOEVKekpLOF9hbkNHWXdmUG5wdFFTODRMSlhLV09LX3Q1d1BMdjZjTVBocUcwdFpYS0ZvWkoyc3lnakN4QXY2N05LbFQzb1JqYy1KWjNWOGIwd3MwbC1PZmgyd0o5NS1ZWmtLU0FaUktSSHRCOWtsaG1mcHc?oc=5",
+  "title:Число погибших при столкновении поездов в Египте увеличилось до четырех",
+  "skip:https://ria.ru/20261108/khusity-2130136399.html",
+  "https://www.interfax.ru/world/1127691",
+  "title:Хуситы сообщили об ударах по энергетическим объектам в Саудовской Аравии"
 ]

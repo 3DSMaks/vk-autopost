@@ -1,11 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ0lOMEdFS2NKSF9XVlZQUnNpWEgyRFN5d3prSnJKUFgyUmFZUEw5SWhQN0h5MEhEZk1GaVlyc1R2SzBsMmlSNjJtVDZ2YXMyN2ZPZGd2ZldGT1ZEQU51OElNNVA2emJPd2RnbFdxdmo0TWFaZHdmUXltbHlveXVnbHRPT21UTUJyX19ySlVNWk1MR0pZZlVzMzdrZTlOTUJKMi1UeWp1Q1BlOVlUaW1zSUxn?oc=5",
-  "https://www.interfax.ru/world/1126940",
-  "title:Демократическая партия США одержала победу на промежуточных выборах и получила контроль над Конгрессом",
-  "skip:https://news.google.com/rss/articles/CBMimwFBVV95cUxOWXlGRjMxNHF4V2dKdm9ZZFJHbXpmZ0ZDVm1MZDJUOHNXTng1YzFOOEtDM0hlN3A2WXpObUhDMnlWT3ZfZXozQXZiQXZvazRNUEFQSFQ4NkNDWlQ2SHBsTk9XLUQ4TjVWYUZDZTVZNklTM2R0NXZ2aHZVRnZETVFmVVROVTItdWNTVWF5NnM4eTNyVnBDTFZKUUpETQ?oc=5",
-  "https://tass.ru/ekonomika/28285251",
-  "title:Прибыль немецкого концерна BMW упала более чем на треть из-за расходов на реструктуризацию",
-  "skip:https://www.rbc.ru/photoreport/04/11/2026/6aead231f0499c07554e9737",
   "skip:https://www.france24.com/en/video/20261104-midterms-what-impact-did-redistricting-in-california-and-texas-have",
   "skip:https://www.rbc.ru/rbcfreenews/6aeae072cf7d1a81ce22ddd1",
   "skip:https://www.aljazeera.com/video/newsfeed/2026/11/4/we-defeated-goliath-texas-democrat-james-talarico-wins-senate-seat?traffic_source=rss",
@@ -998,5 +991,12 @@
   "skip:https://tass.ru/proisshestviya/28296471",
   "skip:https://www.rbc.ru/rbcfreenews/6af084ab41e5f9432396d728",
   "https://ria.ru/20261108/gruppa-2130155983.html",
-  "title:В Берлине задержали троих мужчин за замену флага Германии на палестинский перед Рейхстагом"
+  "title:В Берлине задержали троих мужчин за замену флага Германии на палестинский перед Рейхстагом",
+  "skip:https://ria.ru/20261108/minjust-2130151204.html",
+  "https://tass.ru/mezhdunarodnaya-panorama/28296483",
+  "title:Минюст Германии инициирует проверку для возможного запрета партии АдГ",
+  "skip:https://www.rbc.ru/rbcfreenews/6af08c237eaa951f14ecb9d3",
+  "skip:https://ria.ru/20261108/elektropodstantsiya--2130149586.html",
+  "https://www.interfax.ru/russia/1127689",
+  "title:Три сельских поселения в Ростовской области остались без света после атаки БПЛА"
 ]

@@ -1,11 +1,4 @@
 [
-  "https://www.sport-interfax.ru/1126973",
-  "title:В Международной федерации хоккея заявили о трудностях из-за допуска сборной России",
-  "skip:https://www.france24.com/en/video/20261104-us-midterms-trump-reacts-to-the-democrats-sweeping-victory",
-  "skip:https://news.google.com/rss/articles/CBMirgFBVV95cUxQdEhZMDRMc01fTEZrbktjbG9oNi0xM2hzMjlrTGJweHpHeVl2QmlQbEFQMmJQUVY1XzlNUFJxYVFJRDk0emY3ei1rNW1kbW52X3Z1alJPbHk3NHRyWG5JYnlBdDl3S2J1WnZfc2VyZmlabGFGU1BCUUZqbE1aOGoxVWJJMlAweVRXeU1CbE1vRXE5cFhhdnBJRndjWUNDYzVNc2Vrd1FDcXVqVUw5a1E?oc=5",
-  "skip:https://www.france24.com/en/video/20261104-from-kansas-to-texas-democrats-win-big-in-republican-heartlands",
-  "skip:https://www.france24.com/en/video/20261104-midterms-trump-acknowledges-role-of-iran-war-congratulates-dems",
-  "skip:https://tass.ru/obschestvo/28285741",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28285711",
   "skip:https://www.rbc.ru/politics/04/11/2026/6aeb09ea7a463335564f69a2",
   "skip:https://www.rbc.ru/politics/04/11/2026/6aeb007c69e9b8afc0ec6622",
@@ -998,5 +991,12 @@
   "skip:https://www.interfax.ru/world/1127704",
   "skip:https://www.kommersant.ru/doc/9092338",
   "https://www.rbc.ru/rbcfreenews/6af0be72e5e7b03f39ead198",
-  "title:Дональд Трамп заявил о низкой вероятности возобновления ударов по Ирану и оценил оставшиеся мощности страны"
+  "title:Дональд Трамп заявил о низкой вероятности возобновления ударов по Ирану и оценил оставшиеся мощности страны",
+  "skip:https://www.interfax.ru/russia/1127713",
+  "https://ria.ru/20261109/pvo-2130179299.html",
+  "title:Силы ПВО уничтожили два украинских беспилотника над Тульской областью",
+  "skip:https://www.kommersant.ru/doc/9092345",
+  "skip:https://www.rbc.ru/rbcfreenews/6af0c9466adff985c2ee4d48",
+  "https://ria.ru/20261108/beget-2130178500.html",
+  "title:Провайдер Beget лишен статуса аккредитованного регистратора доменов в зонах .ru и .рф"
 ]

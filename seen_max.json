@@ -1,8 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/composer-austin-wintory-shares-22-minutes-of-music-created-for-biowares-canceled-mass-effect-5",
-  "skip:https://www.pcgamer.com/games/mass-effect/veteran-game-composer-in-talks-to-score-mass-effect-5-shares-20-minutes-of-music-he-wrote-for-the-project-to-even-dream-in-your-sandbox-was-a-privilege/",
-  "skip:https://gamemag.ru/news/201851/silent-hill-remake-targeting-2027",
-  "skip:https://gamemag.ru/news/201855/ostin-uintori-podelilsya-konceptom-saundtreka-dlya-otmenennoy-mass-effect-5-on-mechtal-porabotat",
   "skip:https://gamemag.ru/news/201853/ubisoft-gotova-rasskazat-o-budushchem-assassins-creed",
   "skip:https://www.ign.com/articles/assassins-creed-black-flag-resynced-final-major-content-update-coming-this-week",
   "https://www.playground.ru/sid_meiers_civilization_7/news/firaxis_priznala_chto_s_civilization_vii_poshla_nemnogo_ne_tuda_smelye_izmeneniya_otpugnuli_veteranov_serii-1885111#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +994,9 @@
   "skip:https://www.ign.com/articles/mass-effect-cast-celebrates-n7-day-with-video-asking-fans-to-help-save-the-franchise",
   "skip:https://www.igromania.ru/news/169787/sozdateli-wardogs-posle-neudach-2-go-sezona-gotovyatsya-k-zapusku-3-go-s-12-noyabrya-i-banyat-chiterov/",
   "https://www.playground.ru/mass_effect_trilogy/news/kooperativnyj_multipleer_mass_effect_3_vernulsya_v_legendary_edition_blagodarya_masshtabnomu_modu-1888692#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Кооперативный мультиплеер Mass Effect 3 вернулся в Legendary Edition благодаря масштабному моду"
+  "title:Кооперативный мультиплеер Mass Effect 3 вернулся в Legendary Edition благодаря масштабному моду",
+  "skip:https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/glava_moon_studios_raskritikoval_gejmdizajn_remejka_ocarina_of_time_i_otsenki_pressy-1888738#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/bioware-may-be-dead-but-a-modder-has-rebuilt-mass-effect-3s-multiplayer-into-the-legendary-edition",
+  "https://www.playground.ru/gta_6/news/v_gta_6_budet_55_trofeev_na_relize_vse_oni_prednaznacheny_dlya_odinochnogo_rezhima-1888746#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:В GTA 6 будет 55 трофеев на релизе - все они предназначены для одиночного режима"
 ]

@@ -1,8 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73303/warhorse_studios_podverglas_kiberatake",
-  "skip:https://www.igromania.ru/news/169563/sozdateli-kingdom-come-deliverance-podverglis-kiberatake/",
-  "skip:https://www.ign.com/articles/kingdom-come-deliverance-developer-serious-cybersecurity-incident",
-  "https://gamemag.ru/news/201852/final-fantasy-resonance-pokazala-v-steam-krupneyshiy-start-sredi-vseh-odinochnyh-final-fantasy",
   "title:Final Fantasy Resonance показала крупнейший старт среди одиночных игр серии в Steam — 96 % отзывов положительные",
   "skip:https://www.pcgamer.com/games/call-of-duty/call-of-duty-passes-usd40-billion-in-lifetime-revenue-making-it-one-of-the-most-lucrative-videogame-franchise-ever/",
   "skip:https://www.igromania.ru/news/169562/ekshen-rpg-emberville-perenesli-za-den-do-reliza-v-rannem-dostupe/",
@@ -998,5 +994,9 @@
   "skip:https://www.playground.ru/mass_effect_trilogy/news/dlya_mass_effect_3_vyshel_masshtabnyj_mod_take_earth_back_2_0_s_pererabotkoj_bitvy_za_zemlyu_i_takticheskim_vyborom_soyuznikov-1888874#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://gamemag.ru/news/202015/physint-will-have-8-hours-of-narrative",
   "https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/v_remejke_ocarina_of_time_nashli_upominaniya_master_quest_rezhima_s_povyshennoj_slozhnostyu-1888879#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:В ремейке Ocarina of Time нашли упоминания Master Quest - режима с повышенной сложностью"
+  "title:В ремейке Ocarina of Time нашли упоминания Master Quest - режима с повышенной сложностью",
+  "skip:https://variety.com/2026/film/box-office/godzilla-minus-zero-box-office-opening-weekend-cat-in-the-hat-fizzles-1236942363/",
+  "skip:https://variety.com/2026/film/festivals/palme-dor-winner-fjord-jakarta-world-cinema-audience-award-1236942247/",
+  "https://variety.com/2026/film/festivals/invisible-guest-remake-director-suharto-era-fear-fighting-back-1236942189/",
+  "title:‘The Invisible Guest’ Remake Director Danial Rifki on Suharto-Era Fear and Why His New Thriller Is About ‘How to Fight Back’"
 ]

@@ -1,7 +1,4 @@
 [
-  "skip:https://www.rbc.ru/rbcfreenews/6aea3bbb0d6cdd0c34bbaaa3",
-  "skip:https://www.kommersant.ru/doc/9080111",
-  "skip:https://www.interfax.ru/russia/1126865",
   "https://www.rbc.ru/rbcfreenews/6aea37dd479898568515075f",
   "title:В Краснодаре введены временные ограничения в аэропорту и объявлена тревога из-за атаки беспилотников",
   "skip:https://www.sport-interfax.ru/1126870",
@@ -998,5 +995,8 @@
   "skip:https://ria.ru/20261108/mvd-2130115305.html",
   "skip:https://tass.ru/obschestvo/28296195",
   "https://www.rbc.ru/rbcfreenews/6af0707ee5e7b03f39ead178",
-  "title:МВД предупредило об угрозе сбора цифрового досье на пользователей через ChatGPT"
+  "title:МВД предупредило об угрозе сбора цифрового досье на пользователей через ChatGPT",
+  "skip:https://ria.ru/20261108/egipet-2130131177.html",
+  "https://www.kommersant.ru/doc/9092207",
+  "title:Число пострадавших при сходе вагонов поезда в Египте возросло до 64"
 ]

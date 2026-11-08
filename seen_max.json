@@ -1,7 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169551/rukovodstvo-microsoft-hochet-chtobyi-60-tyisyach-sotrudnikov-uvolilis-dobrovolno/",
-  "skip:https://gamemag.ru/news/201866/bi-microsoft-hochet-zamenit-25-sotrudnikov-na-ii",
-  "skip:https://www.ign.com/articles/hunger-games-director-hopes-you-arent-too-distracted-with-gta-6-to-see-sunrise-on-the-reaping",
   "https://www.playground.ru/call_of_duty_modern_warfare_4/news/v_call_of_duty_modern_warfare_4_nashli_sekretnyj_3d_printer_s_nego_mozhno_poluchit_novoe_oruzhie_pryamo_posredi_matcha-1885115#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:В Call of Duty: Modern Warfare 4 нашли секретный 3D-принтер - с него можно получить новое оружие прямо посреди матча",
   "skip:https://kg-portal.ru/comments/135544-v-blizhajshie-dni-betmen-vozvraschaetsja-na-dezhurstvo-stiven-soderberg-vozobnovil-semki-sikvela/",
@@ -998,5 +995,8 @@
   "skip:https://gamemag.ru/news/202024/robert-pattinson-and-nicholas-hoult-late-contenders-for-james-bond-casting",
   "skip:https://gamemag.ru/news/202018/s-yubileem-gears-of-war-ispolnilos-20-let",
   "https://www.playground.ru/gta_6/news/bonusnye_predmety_ultimate_izdaniya_gta_6_budut_otkryvatsya_postepenno_po_hodu_syuzheta-1888751#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Бонусные предметы Ultimate-издания GTA 6 будут открываться постепенно по ходу сюжета"
+  "title:Бонусные предметы Ultimate-издания GTA 6 будут открываться постепенно по ходу сюжета",
+  "skip:https://www.playground.ru/gears_of_war_e_day/news/legendarnoj_serii_gears_of_war_ispolnilos_20_let_the_coalition_podgotovila_syurprizy_dlya_fanatov-1888740#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "https://www.playground.ru/mass_effect_5/news/fanatskaya_kampaniya_podderzhat_mass_effect_v_den_n7_ne_dobilas_uspeha_igra_sobrala_lish_10_tysyach_igrokov_v_steam-1888769#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Фанатская кампания поддержать Mass Effect в День N7 не добилась успеха: игра собрала лишь 10 тысяч игроков в Steam"
 ]

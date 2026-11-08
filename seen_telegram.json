@@ -1,8 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73295/dlya_predzagruzki_phantom_blade_zero_na_pk_ponadobitsya_300_gb_svobodnogo_mesta",
-  "skip:https://www.ign.com/articles/composer-austin-wintory-shares-22-minutes-of-music-created-for-biowares-canceled-mass-effect-5",
-  "skip:https://www.pcgamer.com/games/mass-effect/veteran-game-composer-in-talks-to-score-mass-effect-5-shares-20-minutes-of-music-he-wrote-for-the-project-to-even-dream-in-your-sandbox-was-a-privilege/",
-  "skip:https://gamemag.ru/news/201855/ostin-uintori-podelilsya-konceptom-saundtreka-dlya-otmenennoy-mass-effect-5-on-mechtal-porabotat",
   "skip:https://www.ign.com/articles/assassins-creed-black-flag-resynced-final-major-content-update-coming-this-week",
   "https://www.igromania.ru/news/169544/silent-hill-remake-planiruyut-vyipustit-v-2027-godu-raskryityi-imena-dvuh-aktris-mp1st/",
   "title:Silent Hill Remake﻿ планируют выпустить в 2027 году, раскрыты имена двух актрис — Mp1st",
@@ -998,5 +994,9 @@
   "https://www.kinonews.ru/news_144047/",
   "title:Билл Скарсгард предложил снять нового \"Константина\" вместе с режиссером \"Оно\"",
   "https://www.kinonews.ru/news_144048/",
-  "title:Режиссер \"Голодных игр\" предложил снять новый приквел о Плутархе Хевенсби"
+  "title:Режиссер \"Голодных игр\" предложил снять новый приквел о Плутархе Хевенсби",
+  "skip:https://www.ign.com/articles/mass-effect-cast-celebrates-n7-day-with-video-asking-fans-to-help-save-the-franchise",
+  "https://gamemag.ru/news/202018/s-yubileem-gears-of-war-ispolnilos-20-let",
+  "video:2026-11-08:https://gamemag.ru/news/202018/s-yubileem-gears-of-war-ispolnilos-20-let",
+  "title:С юбилеем: Gears of War исполнилось 20 лет"
 ]

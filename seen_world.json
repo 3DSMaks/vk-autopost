@@ -1,13 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMivgFBVV95cUxOUE1lVWRlWlptbUNFLUoxdUxhVDBGQXJaalludXNlLWhxQ05GSlhkaUxSRlZ1OVVHN3Zuam5wNWxZdmFqbjQ5cTlQNllScnpmSDkwVTNkc2NkczBFcnphSTl5MmJsZEV6LS1zeVZyYzVLRHl2SmNlMkc5MWxYSksyWVV2b0NXeGRlWUF4ZTNqa0JMUWhSejk5YkFodmFEdlIwV295NU9PQkdkcnpGbEc3SC0yV1ZldlQ3SXpVd3dB?oc=5",
-  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/3/michigan-voters-face-crucial-choice-as-trumps-grip-on-congress-is-tested?traffic_source=rss",
-  "https://www.rbc.ru/politics/04/11/2026/6aea574175e14a3e5c2332fb",
-  "skip:https://ria.ru/20261104/pszh-2129089895.html",
-  "skip:https://tass.ru/sport/28284221",
-  "skip:https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSW5zckd1LTBka2tMQk4xSXZEOXN0dzFDbjQtd2RaNW12NFJSQWR5SUFjVUkyT05POVRPZU9keG1UcVYwY0V4OUoyb0pzYlJrVV9nU1ZtYVlRUDR6cTZyZTJrdF9semtyQWhUeVVZLTRwLThqNGQ0YjViNXMwTUhXeUF2d2xZNV9pS29UaUw3R2FVY0taXzZ6Qms2cVU3MnN3LUo5VERxN2JfTE1HZkRpazRDdkxRV0lyeVdtQ1RSTkhoUQ?oc=5",
-  "https://tass.ru/sport/28284267",
-  "title:ПСЖ разгромил Вильярреал и установил рекорд Лиги чемпионов",
-  "skip:https://ria.ru/20261104/demokraty-2129134607.html",
   "skip:https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ0lOMEdFS2NKSF9XVlZQUnNpWEgyRFN5d3prSnJKUFgyUmFZUEw5SWhQN0h5MEhEZk1GaVlyc1R2SzBsMmlSNjJtVDZ2YXMyN2ZPZGd2ZldGT1ZEQU51OElNNVA2emJPd2RnbFdxdmo0TWFaZHdmUXltbHlveXVnbHRPT21UTUJyX19ySlVNWk1MR0pZZlVzMzdrZTlOTUJKMi1UeWp1Q1BlOVlUaW1zSUxn?oc=5",
   "https://www.interfax.ru/world/1126940",
   "title:Демократическая партия США одержала победу на промежуточных выборах и получила контроль над Конгрессом",
@@ -998,5 +989,14 @@
   "title:Число погибших при столкновении поездов в Египте увеличилось до четырех",
   "skip:https://ria.ru/20261108/khusity-2130136399.html",
   "https://www.interfax.ru/world/1127691",
-  "title:Хуситы сообщили об ударах по энергетическим объектам в Саудовской Аравии"
+  "title:Хуситы сообщили об ударах по энергетическим объектам в Саудовской Аравии",
+  "skip:https://www.interfax.ru/world/1127693",
+  "skip:https://www.rbc.ru/politics/08/11/2026/6af0934b89a0c62217fff403",
+  "skip:https://ria.ru/20261108/izrail-2130152875.html",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28296433",
+  "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRTZQamJuNGFxb015dTdvczZXb3ljanpfZllZZ3lPT3Nwb29OZ3NCUkoxdTZaUGk0X0d4OGJhQkFDU0p3VW9WOXJCcUJHbTM5MU1MNTZ5WDhGTzlCSk9XVmJGWHRuWEJTTThONjllWWExcHVSV0xEblNqVzFRTU5xcGlJLVhyLUYyaV9BVlFwdXZPRVlaZE93?oc=5",
+  "skip:https://tass.ru/proisshestviya/28296471",
+  "skip:https://www.rbc.ru/rbcfreenews/6af084ab41e5f9432396d728",
+  "https://ria.ru/20261108/gruppa-2130155983.html",
+  "title:В Берлине задержали троих мужчин за замену флага Германии на палестинский перед Рейхстагом"
 ]

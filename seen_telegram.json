@@ -1,7 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/201851/silent-hill-remake-targeting-2027",
-  "https://www.igromania.ru/news/169548/seriya-call-of-duty-zarabotala-40-mlrd-dollarov-rasskazala-glava-xbox-asha-sharma/",
-  "title:Серия Call of Duty заработала 40 млрд долларов — рассказала глава Xbox Аша Шарма",
   "skip:https://www.playground.ru/misc/news/dc_studios_dejstvitelno_hochet_zapoluchit_zvezdu_richera_no_poka_ne_opredelilas_s_rolyu-1885124#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://gamemag.ru/news/201848/rockstar-games-nachala-rassylat-press-kopii-grand-theft-auto-vi",
   "https://gamemag.ru/news/201853/ubisoft-gotova-rasskazat-o-budushchem-assassins-creed",
@@ -998,5 +995,8 @@
   "skip:https://www.film.ru/news/disney-razrabatyvaet-igrovoy-film-o-meduze",
   "skip:https://www.film.ru/news/multfilm-po-sumerkam-poluchit-srazu-dva-sezona",
   "https://www.kinonews.ru/news_144046/",
-  "title:Студия Paramount отложила премьеру нового \"Паранормального явления\""
+  "title:Студия Paramount отложила премьеру нового \"Паранормального явления\"",
+  "https://deadline.com/2026/11/emma-stone-joins-druski-snl-debut-opening-monologue-1237216552/",
+  "video:2026-11-08:https://deadline.com/2026/11/emma-stone-joins-druski-snl-debut-opening-monologue-1237216552/",
+  "title:Emma Stone Joins Druski For His ‘SNL’ Debut Opening Monologue While Filming ‘The Catch’ Rom-Com"
 ]

@@ -1,14 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28285711",
-  "skip:https://www.rbc.ru/politics/04/11/2026/6aeb09ea7a463335564f69a2",
-  "skip:https://www.rbc.ru/politics/04/11/2026/6aeb007c69e9b8afc0ec6622",
-  "skip:https://www.france24.com/en/tv-shows/business/20261104-markets-react-with-caution-to-democrats-victory-in-us-midterms",
-  "skip:https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways?traffic_source=rss",
-  "skip:https://ria.ru/20261104/ankara-2129167297.html",
-  "skip:https://www.rbc.ru/politics/04/11/2026/6aeb06249a7947024fa782a0",
-  "skip:https://www.interfax.ru/world/1126972",
-  "https://tass.ru/mezhdunarodnaya-panorama/28285787",
-  "title:Демократическая партия США победила на промежуточных выборах и получила контроль над обеими палатами Конгресса",
   "skip:https://ria.ru/20261104/karapetyan-2129169146.html",
   "skip:https://tass.ru/proisshestviya/28285727",
   "https://www.rbc.ru/politics/04/11/2026/6aeb142b6b418975db4430c6",
@@ -998,5 +988,15 @@
   "skip:https://www.kommersant.ru/doc/9092345",
   "skip:https://www.rbc.ru/rbcfreenews/6af0c9466adff985c2ee4d48",
   "https://ria.ru/20261108/beget-2130178500.html",
-  "title:Провайдер Beget лишен статуса аккредитованного регистратора доменов в зонах .ru и .рф"
+  "title:Провайдер Beget лишен статуса аккредитованного регистратора доменов в зонах .ru и .рф",
+  "skip:https://tass.ru/ekonomika/28296689",
+  "skip:https://ria.ru/20261108/nvidia-2130178955.html",
+  "skip:https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFNRSy1yS0duakdXT1hKbjI2MkFsMVhHeTQ1VVh4QlZYOVdvd0ZKaWVjTzFXT2JCRlR2T2IzSjRKcENSTkNLbVR2VU90Q1VyUHhEZWp0NGZLQUZPRXJ1NlNVNG9OZ0U0T2VwYmJuaURBMWVBYXhHd1hDb00zZU9aUXJGaU10bmFrclgySUZoUE1GX210Q19TQ1pXRjJTVFpoZjN2NG9qblVQMXhHUC1vV3JxaHkxbVJiVkhldEZISHlCdw?oc=5",
+  "skip:https://www.rbc.ru/technology_and_media/08/11/2026/6af0da63e4067d36b817dd06",
+  "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+  "title:Nvidia начала независимое расследование сообщений о связях главы компании Дженсена Хуанга с иностранной разведкой",
+  "skip:https://ria.ru/20261108/vzryv-2130174889.html",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28296661",
+  "https://www.kommersant.ru/doc/9092346",
+  "title:На иранском острове Кешм в Ормузском проливе прогремела серия взрывов"
 ]

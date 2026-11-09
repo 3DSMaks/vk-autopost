@@ -1,13 +1,4 @@
 [
-  "skip:https://ria.ru/20261104/brass-2129187400.html",
-  "https://www.kommersant.ru/doc/9080338",
-  "title:Умер итальянский кинорежиссер Тинто Брасс",
-  "skip:https://news.google.com/rss/articles/CBMiRkFVX3lxTE9BTWtOdGNlc2xxQVVTcnE5b0FuUy1HT056Xy1VWk5pQWJ6TEgwT2pkUnZaN2JIcEE3Z242STNLOGR0VjRIdFE?oc=5",
-  "https://www.kommersant.ru/doc/9080330",
-  "title:В Ереване задержали главу группы «Ташир» Самвела Карапетяна",
-  "skip:https://www.rbc.ru/sport/04/11/2026/6aeb25f67d37fe181e8f9470",
-  "skip:https://news.google.com/rss/articles/CBMimAFBVV95cUxPZDRnb1c0Z2JnaXhxRGMxNTBzX3B0TWFKSDhaWUdhR1VyZUJBcE1qekQ0QnVKNlBwMU9jMWxzVXBEdVlrQmJ3TUstS2FWak1CY1R5RmIxb2lHaEZmZ2wybHpmS0pMYUpxRnNwaXpMZzhudDJnWHhOYjBPSVRNd1FXZEtLQ0NMbzZYZ2MyeWFJdHQ1Tl9MdVJDSw?oc=5",
-  "https://www.aljazeera.com/sports/2026/11/4/tennis-great-rafael-nadal-set-to-join-real-madrid-board?traffic_source=rss",
   "title:Рафаэль Надаль войдет в совет директоров мадридского «Реала»",
   "skip:https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe",
   "skip:https://ria.ru/20261104/krov-2129197270.html",
@@ -998,5 +989,14 @@
   "skip:https://news.google.com/rss/articles/CBMiigFBVV95cUxPT3F0cG9XZEVlN0pBaEFzQTlWdjFka082QUE5eDRWd0RUMEpvQURHTG4zNHVpb0haZ1E4OVFiQmFXaHE2djVpVHhCcHRzSXp4cWF4cmRDcnotMXRlZ3UwNXR4NHprdWZBMDZnMXBTWUFYRnE2QXAwTjJwQXh5eUR3eTlrR3ZsTVNJZ1E?oc=5",
   "skip:https://www.kommersant.ru/doc/9092503",
   "https://tass.ru/proisshestviya/28297955",
-  "title:Устроивший стрельбу в центре Кракова мужчина умер в больнице"
+  "title:Устроивший стрельбу в центре Кракова мужчина умер в больнице",
+  "skip:https://ria.ru/20261109/svo-2130265353.html",
+  "skip:https://tass.ru/armiya-i-opk/28298113",
+  "https://www.rbc.ru/politics/09/11/2026/6af18ad59a794761efe33d23",
+  "title:Российские военнослужащие заняли населенный пункт Васильковое в Запорожской области",
+  "skip:https://www.kommersant.ru/doc/9092634",
+  "skip:https://www.interfax.ru/russia/1127781",
+  "skip:https://ria.ru/20261109/lnr-2130259258.html",
+  "https://ria.ru/20261109/bpla-2130266164.html",
+  "title:При атаке украинских беспилотников на Луганск и города ЛНР погибли два человека"
 ]

@@ -1,12 +1,4 @@
 [
-  "skip:https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-  "skip:https://www.france24.com/en/asia-pacific/20261105-joshua-wong-hong-kong-10-years-jail-foreign-collusion",
-  "skip:https://news.google.com/rss/articles/CBMirwFBVV95cUxNbVJKOWdMTUYyUUxqRVNtLXBGc2hjTTYwa3NQa0FNVXpKb3dnQzFySkJIY2I1MkhmZ0pscjE5SlFaQjEwZUROUjA2TlJlT1RVSjdYVkVycHZXcndMdW5Ic2Jtc1R3VW8wbWdvMm9BR2haOGZQblF6MjloYVFkU0t0ZU1tUTFkb1lVdm1QTl8tY3FFN2tBdGRMN3p6RUlLQ2NyZ184ejJJelYzVzdiNVVV?oc=5",
-  "skip:https://news.google.com/rss/articles/CBMivwFBVV95cUxOQS1XM3FhOUF5Y2FuYlkwYW42emJSbjBOX1NrWWNqMERIWHB3eWJLNzZScXFxLTlzRDVvS3Z0Tnl1bjEtRjBhOWIzT05FSWxpMHlLTGxPM2l5ZWlHNS12c21XLThxdmhianFFNDkzTGEtbVhfaG5RTnR4eEQ1aVk4cHNNMnQxVElkbkpFcGdPS29raGhacW54N1pLOUVDbnVEd0FMdW45MzBaMHFVOFhiTV9fUmxFTHlfb2F2TXNGbw?oc=5",
-  "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
-  "title:Гонконгского активиста Джошуа Вонга приговорили к 10 годам тюрьмы по закону о национальной безопасности",
-  "skip:https://www.interfax.ru/russia/1127076",
-  "skip:https://tass.ru/proisshestviya/28287435",
   "skip:https://ria.ru/20261105/bpla-2129271987.html",
   "skip:https://www.interfax.ru/russia/1127074",
   "https://ria.ru/20261105/bpla-2129273998.html",
@@ -998,5 +990,13 @@
   "skip:https://tass.ru/proisshestviya/28300021",
   "skip:https://news.google.com/rss/articles/CBMiswFBVV95cUxOdW9QcVFUNXlLNjJXVk94TkxESXlGMFZNckt6X2NoMzNVYkl5WFhuQWVYZUEwLS15bFBCRnBVMjNtM0pkRkNYd3RtSmNqSVZ0TEt4UmZHMzhLRENEamlsUENmQi1lM2p5OWtycVJxTzlpMkRDWXJWQ2JMMTJ0d0N0YWVMSGtDS0drOF9WaHdYN3V0czhCMHVXYVVGZ09XNExhSDRKeGwyNzRIWWFPVjJGbGtiMA?oc=5",
   "https://www.rbc.ru/rbcfreenews/6af209dbc19562cb7b4e0c70",
-  "title:Секретная служба США усилила охрану Белого дома после того, как автомобиль врезался в знак"
+  "title:Секретная служба США усилила охрану Белого дома после того, как автомобиль врезался в знак",
+  "skip:https://tass.ru/armiya-i-opk/28300029",
+  "skip:https://ria.ru/20261109/vsu-2130420811.html",
+  "https://www.interfax.ru/russia/1127917",
+  "title:Минобороны РФ сообщило об уничтожении 34 украинских беспилотников за день",
+  "skip:https://www.kommersant.ru/doc/9093197",
+  "skip:https://ria.ru/20261109/ssha-2130423133.html",
+  "https://www.rbc.ru/rbcfreenews/6af20d7b762fc9ab336f2a5b",
+  "title:В Вашингтоне автомобиль врезался в ограждение у Белого дома, есть задержанные"
 ]

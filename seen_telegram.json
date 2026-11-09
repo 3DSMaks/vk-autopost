@@ -1,7 +1,4 @@
 [
-  "skip:https://www.film.ru/news/remeyk-ptic-hichkoka-na-hbo",
-  "skip:https://kg-portal.ru/comments/135560-gorjachij-hokkeist-konnor-storri-zabil-v-vorota-marvel-aktera-mogut-vzjat-v-prizrachnogo-gonschika-s-rajanom-goslingom/",
-  "skip:https://www.film.ru/news/konnor-storri-v-prizrachnom-gonshchike",
   "skip:https://www.kinonews.ru/news_143851/",
   "https://kg-portal.ru/comments/135562-kadry-iz-filma-smertelnyj-devichnik/",
   "title:Лилли Вачовски спродюсирует убойный девичник с непредсказуемым хоррором и чёрным юмором",
@@ -998,5 +995,8 @@
   "skip:https://gamemag.ru/news/202036/dark-outlaw-games-doom-inspired-game",
   "skip:https://www.igromania.ru/news/169812/rolevaya-igra-warhammer-40000-dark-heresy-vyijdet-28-yanvarya-2027-goda/",
   "https://www.playground.ru/warhammer_40000_dark_heresy/news/warhammer_40_000_dark_heresy_poluchila_datu_vyhoda_iskat_eres_v_sektore_kaliksis_mozhno_budet_s_28_yanvarya-1889171#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Warhammer 40,000: Dark Heresy получила дату выхода - искать ересь в секторе Каликсис можно будет с 28 января"
+  "title:Warhammer 40,000: Dark Heresy получила дату выхода - искать ересь в секторе Каликсис можно будет с 28 января",
+  "skip:https://www.film.ru/news/reliz-take-s-pattinsonom-i-vashingtonom",
+  "https://variety.com/2026/tv/news/ariana-grande-tonight-show-stepping-away-public-1236943053/",
+  "title:Ariana Grande Appears on ‘Tonight Show’ After Months Away From Public Eye"
 ]

@@ -1,9 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143850/",
-  "skip:https://kg-portal.ru/comments/135554-bezumie-imperatora-pola-atrejdesa-budet-ostanovleno-vfinalnom-trejlere-epika-djuna-chast-3/",
-  "skip:https://kg-portal.ru/comments/135551-kris-pratt-sdelaet-izhljupika-nastojaschego-muzhika-vtrejlere-filma-put-pacanavoina/",
-  "https://www.film.ru/news/remeyk-ptic-hichkoka-na-hbo",
-  "title:Ремейк Птиц Хичкока на HBO",
   "skip:https://www.kinonews.ru/news_143851/",
   "https://www.film.ru/news/finalnyy-treyler-dyuny-3",
   "title:Финальный трейлер Дюны 3",
@@ -998,5 +993,10 @@
   "skip:https://variety.com/2026/film/global/jeff-goldblum-john-turturro-marrakech-conversations-1236942335/",
   "skip:https://deadline.com/2026/11/somewhere-in-the-south-saga-tccf-pitching-taicca-cnc-1237217100/",
   "https://www.kinonews.ru/news_144063/",
-  "title:Дени Вильнев рассказал о работе над новым фильмом о Джеймсе Бонде"
+  "title:Дени Вильнев рассказал о работе над новым фильмом о Джеймсе Бонде",
+  "skip:https://www.igromania.ru/news/169804/fanatyi-the-elder-scrolls-5-skyrim-sdelali-mod-dlya-prevrascheniya-igryi-v-mmo/",
+  "skip:https://www.pcgamer.com/games/the-elder-scrolls/this-massive-mod-essentially-turns-skyrim-into-a-persistent-mmo-where-player-actions-create-lasting-consequences/",
+  "skip:https://www.igromania.ru/news/169806/predzagruzka-gta-6-startovala-v-novoj-zelandii-na-ps5-s-kazhdyim-chasom-ona-budet-dostupna-vo-vsyo-novyih-regionah/",
+  "https://www.playground.ru/phantom_blade_zero/news/razrabotchiki_phantom_blade_zero_pokazali_kak_zapisyvali_dvizheniya_dlya_igry-1889071#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Разработчики Phantom Blade Zero показали, как записывали движения для игры"
 ]

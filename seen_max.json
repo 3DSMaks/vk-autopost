@@ -1,7 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143851/",
-  "https://www.film.ru/news/finalnyy-treyler-dyuny-3",
-  "title:Финальный трейлер Дюны 3",
   "skip:https://www.playground.ru/world_of_warcraft/news/world_of_warcraft_forever_poluchila_animatsionnyj_trejler_s_vokalistkami_evanescence_i_spiritbox-1885467#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169577/osnovnaya-istoriya-igr-resident-evil-mozhet-zavershitsya-v-techenie-sleduyuschih-10-let/",
   "skip:https://www.igromania.ru/news/169574/ne-bojtes-kontsa-prizyivaet-poslednij-trejler-novoj-dyunyi-s-zendeej-pattinsonom-i-chervyami/",
@@ -998,5 +995,8 @@
   "skip:https://www.pcgamer.com/games/the-elder-scrolls/this-massive-mod-essentially-turns-skyrim-into-a-persistent-mmo-where-player-actions-create-lasting-consequences/",
   "skip:https://www.igromania.ru/news/169806/predzagruzka-gta-6-startovala-v-novoj-zelandii-na-ps5-s-kazhdyim-chasom-ona-budet-dostupna-vo-vsyo-novyih-regionah/",
   "https://www.playground.ru/phantom_blade_zero/news/razrabotchiki_phantom_blade_zero_pokazali_kak_zapisyvali_dvizheniya_dlya_igry-1889071#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Разработчики Phantom Blade Zero показали, как записывали движения для игры"
+  "title:Разработчики Phantom Blade Zero показали, как записывали движения для игры",
+  "skip:https://www.playground.ru/dynasty_warriors_origins/news/playstation_ranshe_vremeni_raskryla_dve_igry_dlya_ps_plus_extra_dragon_quest_3_i_dynasty_warriors_origins-1889086#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "https://www.igromania.ru/news/169807/world-of-warcraft-forever-vyishla-blagodarya-reaktsii-fanatov-na-classic-zayavili-v-blizzard/",
+  "title:World of Warcraft: Forever вышла благодаря реакции фанатов на Classic, заявили в Blizzard"
 ]

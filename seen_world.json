@@ -1,13 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ1JTQW8wbkUxMUxKaEE5Q2VhM1gyNk5pWnZ1R3RtSE1RdGhuemtsdkhOa2RlUHhfZkxEWnBURjNTOWtvNU0yUmFiTE10cUZ2aE5DUFd5VUl6c1lWY256R0RxVVlJdEZ2enR0Ym04cUJQM2FWZ3dfelVyc1dPenZxQi0ydWZueUJwNnkzXzR6WTFpZ0FvbzlEanlVRWVfVEl1MzZIWHFrbS1Pb2hzUGhVUGxnRjBBSUJoblg1VU1mbTNpYUlMNHRN?oc=5",
-  "https://www.interfax.ru/world/1127131",
-  "title:Суд в Финляндии приговорил капитана судна из России к тюремному сроку за повреждение кабелей",
-  "skip:https://www.rbc.ru/rbcfreenews/6aec4b7741011ccc1ecd7f44",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28288257",
-  "skip:https://ria.ru/20261105/peregovory-2129328552.html",
-  "https://ria.ru/20261105/erdogan-2129339272.html",
-  "title:Эрдоган заявил о планах обсудить с Путиным украинский конфликт",
-  "skip:https://www.rbc.ru/rbcfreenews/6aec524ea1d455891c8dec33",
   "https://www.kommersant.ru/doc/9080802",
   "title:Гособвинение потребовало заочно приговорить Жанну Немцову к пяти годам колонии",
   "skip:https://ria.ru/20261105/pasechnik-2129370973.html",
@@ -998,5 +989,14 @@
   "title:Глава «Росатома» Алексей Лихачев заявил о четырех погибших сотрудниках ЗАЭС за две недели",
   "skip:https://www.interfax.ru/world/1127922",
   "https://tass.ru/mezhdunarodnaya-panorama/28300185",
-  "title:Совет ЕС продлил военную миссию на Украине до ноября 2028 года"
+  "title:Совет ЕС продлил военную миссию на Украине до ноября 2028 года",
+  "skip:https://www.rbc.ru/society/09/11/2026/6af21349e0ff693c1d1487f6",
+  "skip:https://ria.ru/20261109/rossijanin-2130425754.html",
+  "https://www.kommersant.ru/doc/9093210",
+  "title:В ЮАР неизвестные застрелили российского туриста при нападении на трассе",
+  "skip:https://www.france24.com/en/americas/20261109-republican-congressman-launches-impeachment-bid-against-pentagon-chief-hegseth",
+  "skip:https://www.interfax.ru/world/1127926",
+  "skip:https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZjJQVDlfd0pOX1hsbURBWTRUQXR0T2VROGp4cmRmTUl0ZnMzYmh0OE9CSTd5STBxaTAxTHU4Ni1GOUQyWTVNbUlUX2hCM2NQOFBVTzdQemFkcWJ6R1N6QmY2Mnl6TmcxR0tiSmdUSUxTS0otcW00cERJbmJuNkRKZ0NiRTJqX2JWLTMxZmtqQnVzaVRVZ290X0YycHpFRFFaQk9WVVB6ZnZSQQ?oc=5",
+  "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+  "title:В США конгрессмен инициировал процедуру импичмента министра обороны Пита Хегсета"
 ]

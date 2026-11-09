@@ -1,12 +1,4 @@
 [
-  "skip:https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
-  "skip:https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ0RKVlY1MlliV3dhVWp3b2FVOGNsTGEyYnZLb1ZENVpINVdLdDVFTnNsazZ5b3FsbmVocktWZUhacFZmRU83cEFLOTNnOVBKZXJ6RUFoTjFncjJsNHB4Z25QMHlVLTNPRnE5TE5KNU9NN2JQQ09rQmo2N1N4dHFGNUEySXhLUVFhZVlJU0ZUd0V6aXhKVy1OT3JIa3lwdUpDT184VXpQYkthTXg1VWc?oc=5",
-  "skip:https://www.france24.com/en/video/20261104-a-look-back-at-how-trump-s-political-decisions-saw-his-approval-rating-plummet",
-  "skip:https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1l2eFV1eVp6bE01NW40RDUtcmU2REdDOUZDRU5JSmdDN0MtNElwaUZXQ3VVUUVqV0tuSFZNb3RaeTBNd2JXanAyRlJ6UUU0S1pPMVdzYjV6OUpyRW1yc1hST1o4SFozN0JZYzU4dldLSXNkc05VeUwyV0E5TXotUC1lYXhEN2FtaTBXN3hOdHR2T1FaSE1Kc2ZHdnExcFZuWUpxVWwxQQ?oc=5",
-  "skip:https://news.google.com/rss/articles/CBMirgFBVV95cUxOVkVUcncxLUJqT2dDRWNjUTNjVUh5cmxVYmVRUUJQZkcydUhDcGNkMWdTT0lYTlBTemFEZHF5Zjc2VERfOTFyT0tIcEhFSFo5QzNvTXZlaTNmUDUxY2J4ZFhKeDN4dXlpZmtJMWJxRkVnYjFXNnJZdEM3WGRoUXg3RVlaUWN1dV9wZDE2WHp2ZGJ6MHZUbXlyZXJzT2JPZUZSZEtFMGRqMF95enlWZ2c?oc=5",
-  "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
-  "skip:https://tass.ru/proisshestviya/28286267",
-  "https://ria.ru/20261104/hakery-2129213265.html",
   "title:Хакеры вывели более 118 миллионов евро из французского банка Crédit Mutuel",
   "skip:https://news.google.com/rss/articles/CBMisAFBVV95cUxQemZtNHA3MndVd0YwZEZjYVZSdXA5NVpnXzhpUnY5Mkp5U2lBTnBtNEV6dVB0LUJZVXBDV2lUNnNHbTczNWFVVEtXUVhFdlUxdm5sOWl6U0JFMjhGXzgzQ19GNXdrNUVJMlB4czlkenlNOUctMGllMmFLRTJrVXl0T1hoQ1ZUcmI4N0xxU18wTEhuQUNHYm5mNFhNc0pVRjJqY0s0clotUW42czd0TTRCNw?oc=5",
   "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-loses-control-of-congress?traffic_source=rss",
@@ -998,5 +990,13 @@
   "skip:https://www.interfax.ru/business/1127787",
   "skip:https://www.kommersant.ru/doc/9092643",
   "https://www.rbc.ru/finances/09/11/2026/6af18724796bc0ae78bf59ab",
-  "title:Эльвира Набиуллина заявила о недопустимости торопливого снижения ключевой ставки"
+  "title:Эльвира Набиуллина заявила о недопустимости торопливого снижения ключевой ставки",
+  "skip:https://www.interfax.ru/world/1127799",
+  "skip:https://www.rbc.ru/technology_and_media/09/11/2026/6af18e76066cbfbb659f5f19",
+  "https://tass.ru/mezhdunarodnaya-panorama/28298269",
+  "title:Китай отверг обвинения в причастности к шпионскому скандалу вокруг гендиректора Nvidia Дженсена Хуанга",
+  "skip:https://www.interfax.ru/russia/1127797",
+  "skip:https://ria.ru/20261109/peskov-2130280779.html",
+  "https://www.rbc.ru/rbcfreenews/6af190da053f4b2aeede3ac9",
+  "title:Москва, Вашингтон и Пекин обсуждают возможную повестку трехсторонней встречи лидеров РФ, США и КНР"
 ]

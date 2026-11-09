@@ -1,7 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143836/",
-  "https://kg-portal.ru/comments/135551-put-pacanavoina-trejler/",
-  "title:Крис Пратт сделает из хлюпика настоящего мужика в трейлере фильма \"Путь Пацана-Воина\"",
   "skip:https://www.film.ru/news/finalnyy-treyler-dyuny-3",
   "https://deadline.com/2026/10/disney-divine-rivals-movie-rebecca-ross-1237206178/",
   "title:‘Divine Rivals’: Feature Take Of Rebecca Ross Fantasy Romance Bestseller Heads To Disney",
@@ -998,5 +995,8 @@
   "skip:https://variety.com/2026/film/global/jeff-goldblum-john-turturro-marrakech-conversations-1236942335/",
   "skip:https://kg-portal.ru/comments/135713-nedelja-kino-na-kg-glavnye-novosti-28-nojabrja/",
   "https://www.kinonews.ru/news_144063/",
-  "title:Дени Вильнев рассказал о работе над новым фильмом о Джеймсе Бонде"
+  "title:Дени Вильнев рассказал о работе над новым фильмом о Джеймсе Бонде",
+  "skip:https://www.film.ru/news/novyy-spisok-smertnikov-s-krisom-prattom",
+  "https://kg-portal.ru/comments/135711-godzilla-minus-nol-i-ramajana-vozrozhdenie-legendy-podelili-kassu-mirovogo-prokata-nikto-ne-proigral/",
+  "title:\"Годзилла: Минус ноль\" и \"Рамаяна. Возрождение легенды\" поделили кассу мирового проката — никто не проиграл"
 ]

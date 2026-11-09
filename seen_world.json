@@ -1,15 +1,4 @@
 [
-  "https://www.interfax.ru/russia/1127026",
-  "title:МИД России обвинил Канаду в политизированном отказе выдать визы российским хоккеистам",
-  "skip:https://news.google.com/rss/articles/CBMioAFBVV95cUxQamVyNmRLVmZvMjhIVURTTEVhWlVBUGJfT216ZUlQU24zT1cyMWwzRXpqR0Y0OWRtdmYzNHB0N1NkZmVOTEV3TUgtUEdUS2FsZVVSYkxON2lRa1hwcTYwTV9JZXVJQlVFMUpqRVk2S1F4a0FLbjBWTWo4LVhWMy1IMTJFT2Q3NmRwZFBqR3ZvV3lsN2VjZlVyeE5OY01Na0to?oc=5",
-  "skip:https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
-  "skip:https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTnJMX1lSSDlPU0otVy01QlBuQzZyUm5LWlpyMDM3QVlGcU5BczEyYUh6LWlJakluTEtTSVdLZFhfUERZQ3JPbEdGc1cyR2dlWlp4dC1wbDdvdXdMbWJjRUdmSDl2Y2VNNkxPS1U1TDB6WjJMZTlRdV9hSy05OWVPTVlfTWRQVC1RbExnWUV1eWl1bmpvVWR6QXgtcHhSbHRoUWNXUjhIb1FpM1RuRm00OFVKLVgtZ1hIS2g2dmdlbl8zdw?oc=5",
-  "https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region?traffic_source=rss",
-  "title:Число погибших в результате удара ВСУ по селу в Запорожской области возросло до 40 человек",
-  "skip:https://www.interfax.ru/russia/1127027",
-  "https://tass.ru/proisshestviya/28286637",
-  "title:Россия выдала Китаю подозреваемого в присвоении миллиардов юаней инвесторов",
-  "skip:https://www.kommersant.ru/doc/9080440",
   "skip:https://tass.ru/proisshestviya/28286609",
   "https://www.rbc.ru/rbcfreenews/6aeb5b9eba1d74490ffce792",
   "title:Суд в Киеве арестовал медработницу по делу о тюрьме для мобилизованных",
@@ -998,5 +987,16 @@
   "title:В Венгрии задержан брат бывшего премьер-министра страны Арон Орбан",
   "skip:https://www.aljazeera.com/video/newsfeed/2026/11/9/china-rejects-baseless-claims-it-spied-on-nvidia-boss?traffic_source=rss",
   "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-  "title:Китай отверг обвинения в причастности к шпионскому скандалу вокруг главы Nvidia"
+  "title:Китай отверг обвинения в причастности к шпионскому скандалу вокруг главы Nvidia",
+  "skip:https://www.interfax.ru/russia/1127867",
+  "skip:https://www.rbc.ru/politics/09/11/2026/6af1cd326dc1ef80af7f913f",
+  "skip:https://ria.ru/20261109/peregovory-2130376108.html",
+  "skip:https://www.kommersant.ru/doc/9092953",
+  "skip:https://tass.ru/politika/28299425",
+  "https://www.kommersant.ru/doc/9092961",
+  "title:Российская делегация вылетела в Абу-Даби на трехсторонние переговоры по Украине",
+  "skip:https://www.interfax.ru/business/1127863",
+  "skip:https://news.google.com/rss/articles/CBMitAFBVV95cUxNRFc5WUJ3anhDSkVZWGVNVnVrcU1QQlFUY2xiX1ZTMV9sYS03MjNoYTMtYU14UVJPT0J4LUVvaERIY1ZveWNFeVVnUllPWG1wWFBscFg5cHJNT2JTeHROY0xHalBURlRoQXowSDlKbVJDSUVuVElSZ1B4amxRUVBKcTYycUw5WTczX3FJMkU5Z01DbEp5eWtYblUwTHhpUlJFZi1WWWtTYnZLeWlxcG9tSWNqaUo?oc=5",
+  "https://www.france24.com/en/france/20261109-french-pm-lecornu-announces-increase-minimum-wage-bid-to-calm-protests",
+  "title:Правительство Франции досрочно повысит МРОТ на 1,6% для успокоения протестов"
 ]

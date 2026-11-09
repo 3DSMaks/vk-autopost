@@ -1,10 +1,4 @@
 [
-  "https://gamemag.ru/news/201872/prigotovte-svoy-klinok-startovala-predzagruzka-phantom-blade-zero",
-  "title:Приготовьте свой клинок: Стартовала предзагрузка Phantom Blade Zero",
-  "skip:https://www.pcgamer.com/games/action/phantom-blade-zero-release-date-launch-times/",
-  "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-is-working-on-a-re-scored-version-of-the-leaked-mass-effect-5-trailer-for-n7-day/",
-  "title:Mass Effect composer Sam Hulick is working on a 're-scored' version of the leaked Mass Effect 5 trailer for N7 Day",
-  "skip:https://www.playground.ru/lost_planet_extreme_condition/news/devid_hejter_rasskazal_o_nesostoyavshemsya_filme_po_lost_planet_kotoryj_otmenili_iz_za_finansovogo_krizisa-1885529#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.ign.com/articles/david-hayter-opens-up-about-his-huge-lost-planet-movie-that-never-got-made",
   "https://gamemag.ru/news/201858/arrowhead-studios-ne-rabotayut-nad-helldivers-3-vse-sily-brosheny-na-podderjku-helldivers-2",
   "title:Helldivers 3 не находится в разработке",
@@ -998,5 +992,11 @@
   "https://www.playground.ru/mass_effect_5/news/mass_effect_5_dolzhna_byla_dopolnit_serial_amazon_byvshij_rukovoditel_bioware_raskryl_svyaz_dvuh_proektov-1889124#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Mass Effect 5 должна была дополнить сериал Amazon - бывший руководитель BioWare раскрыл связь двух проектов",
   "https://kg-portal.ru/comments/135718-kadry-iz-filma-zahvat/",
-  "title:Роберт Паттинсон и Дензел Вашингтон планируют ограбление на первых кадрах триллера \"Захват\""
+  "title:Роберт Паттинсон и Дензел Вашингтон планируют ограбление на первых кадрах триллера \"Захват\"",
+  "skip:https://www.playground.ru/mass_effect_2/news/v_seti_poyavilsya_rannij_trejler_mass_effect_2_kotoryj_ranshe_videli_tolko_razrabotchiki_bioware-1889151#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/internal-mass-effect-2-trailer-gives-us-the-earliest-look-at-the-game-yet",
+  "skip:https://gamemag.ru/news/202043/izmena-i-kitayskaya-razvedchica-glava-nvidia-ugodil-v-shpionskiy-skandal",
+  "skip:https://gamemag.ru/news/202036/dark-outlaw-games-doom-inspired-game",
+  "https://www.playground.ru/gta_6/news/rockstar_ustroit_festival_gta_6_v_majami_s_trevisom_skottom_kardi_bi_i_drugimi_zvyozdami-1889153#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Rockstar устроит фестиваль GTA 6 в Майами с Трэвисом Скоттом, Карди Би и другими звёздами"
 ]

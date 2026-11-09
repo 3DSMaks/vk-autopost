@@ -1,8 +1,4 @@
 [
-  "skip:https://www.film.ru/news/lourens-vernetsya-k-golodnym-igram",
-  "https://deadline.com/2026/10/tracee-ellis-ross-lake-bell-ken-leung-film-blow-the-horn-1237207026/",
-  "title:Tracee Ellis Ross, Lake Bell & Ken Leung Thriller ‘Blow The Horn’ Heads To AFM For Sales",
-  "skip:https://deadline.com/2026/10/peter-medak-dead-1237207019/",
   "https://deadline.com/2026/10/independent-creative-management-serhat-metin-signed-1237207014/",
   "title:Independent Creative Management Signs Serhat Metin",
   "https://deadline.com/2026/10/star-trek-veteran-actors-reunite-for-sci-fi-life-2-0-1237207071/",
@@ -998,5 +994,9 @@
   "skip:https://kg-portal.ru/comments/135723-bolshe-nesuper-dzhems-gann-ipiter-safran-snjaty-srukovodstvadc-studios-vmesto-nih-vzjali-novogo-zaslanca-izmarvel/",
   "skip:https://variety.com/2026/film/news/david-ellison-dc-studios-james-gunn-peter-safran-jeremy-latcham-1236943242/",
   "https://deadline.com/2026/11/daniel-radcliffe-unsure-watch-hbo-harry-potter-series-1237217464/",
-  "title:Daniel Radcliffe Unsure If He’ll Watch HBO’s ‘Harry Potter’ Series: “Eight Hours Is A Lot Of Anything”"
+  "title:Daniel Radcliffe Unsure If He’ll Watch HBO’s ‘Harry Potter’ Series: “Eight Hours Is A Lot Of Anything”",
+  "skip:https://deadline.com/2026/11/james-gunn-dc-studios-1237217532/",
+  "skip:https://variety.com/2026/film/news/david-ellison-dc-studios-james-gunn-peter-safran-1236943242/",
+  "https://deadline.com/2026/11/kristen-bell-frozen-nat-geo-disney-animation-series-1237217388/",
+  "title:Kristen Bell, Idina Menzel, Josh Gad & Jonathan Groff To Reprise ‘Frozen’ Roles In Nat Geo/Disney Animation Series"
 ]

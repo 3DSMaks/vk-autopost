@@ -1,7 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169573/otpravlenie-pribyilo-v-modern-warfare-4-dobavili-odnu-iz-samyih-populyarnyih-kart-call-of-duty/",
-  "skip:https://www.ign.com/articles/resident-evil-executive-producer-says-the-series-story-could-end-in-the-next-10-years",
-  "skip:https://www.ign.com/articles/call-of-duty-modern-warfare-4-adds-series-favorite-map-shipment-to-multiplayer",
   "skip:https://gamemag.ru/news/201873/dune-part-three-final-trailer",
   "https://gamemag.ru/news/201875/gotovte-210-gb-stal-izvesten-razmer-grand-theft-auto-vi-dlya-playstation-5",
   "title:Готовьте 210 ГБ: Стал известен размер Grand Theft Auto VI для PlayStation 5",
@@ -998,5 +995,8 @@
   "title:World of Warcraft: Forever вышла благодаря реакции фанатов на Classic, заявили в Blizzard",
   "skip:https://www.playground.ru/world_of_warcraft/news/world_of_warcraft_forever_poluchila_vazhnoe_obnovlenie_blizzard_uvelichila_opyt_za_prohozhdenie_podzemelij_na_50-1889088#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.igromania.ru/news/169808/remejk-the-legend-of-zelda-ocarina-of-time-smestil-expedition-33-s-mesta-samoj-vyisokootsenyonnoj-igryi-na-metacritic/",
-  "title:Ремейк The Legend of Zelda: Ocarina of Time сместил Expedition 33 с места самой высокооценённой игры на Metacritic"
+  "title:Ремейк The Legend of Zelda: Ocarina of Time сместил Expedition 33 с места самой высокооценённой игры на Metacritic",
+  "skip:https://www.kinonews.ru/news_144062/",
+  "https://www.film.ru/news/finish-semok-cherez-ternii-k-zvezdam",
+  "title:Финиш съемок Через тернии к звездам"
 ]

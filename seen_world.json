@@ -1,13 +1,4 @@
 [
-  "https://tass.ru/mezhdunarodnaya-panorama/28286937",
-  "title:Минфин США ввел санкции против граждан и компаний из Индии, Турции и Сингапура за содействие Ирану",
-  "skip:https://www.interfax.ru/russia/1127043",
-  "skip:https://tass.ru/proisshestviya/28286865",
-  "https://ria.ru/20261104/ataka-2129246929.html",
-  "title:Мирный житель получил ранения при атаке украинского беспилотника в Курской области",
-  "skip:https://ria.ru/20261104/blumstedt-2129254195.html",
-  "skip:https://www.rbc.ru/rbcfreenews/6aeb8596ed1e4669282b9ec0",
-  "https://tass.ru/kultura/28286965",
   "title:Умер шведский дирижер Герберт Блумстедт",
   "skip:https://www.interfax.ru/russia/1127047",
   "skip:https://tass.ru/proisshestviya/28286947",
@@ -998,5 +989,14 @@
   "skip:https://www.kommersant.ru/doc/9093032",
   "skip:https://www.interfax.ru/world/1127883",
   "https://www.rbc.ru/politics/09/11/2026/6af1e1b2a47758f3ea1e853e",
-  "title:Подготовка к трехсторонним переговорам России, США и Украины в Абу-Даби"
+  "title:Подготовка к трехсторонним переговорам России, США и Украины в Абу-Даби",
+  "skip:https://tass.ru/proisshestviya/28299837",
+  "skip:https://www.interfax.ru/world/1127892",
+  "skip:https://www.rbc.ru/rbcfreenews/6af1dc0f6dc1ef80af7f9187",
+  "https://ria.ru/20261109/izmir-2130412510.html",
+  "title:Число погибших при взрыве на металлургическом заводе в Турции возросло до 16",
+  "skip:https://ria.ru/20261109/tramp-2130407773.html",
+  "skip:https://www.rbc.ru/politics/09/11/2026/6af1e607add66be4c91365c2",
+  "https://www.interfax.ru/world/1127899",
+  "title:Дональд Трамп усомнился в честности прошедших промежуточных выборов в США"
 ]

@@ -1,11 +1,4 @@
 [
-  "skip:https://tass.ru/proisshestviya/28286609",
-  "https://www.rbc.ru/rbcfreenews/6aeb5b9eba1d74490ffce792",
-  "title:Суд в Киеве арестовал медработницу по делу о тюрьме для мобилизованных",
-  "skip:https://www.aljazeera.com/news/2026/11/4/presidential-hopeful-vance-appears-to-question-iran-war-after-polls-debacle?traffic_source=rss",
-  "skip:https://www.france24.com/en/video/20261104-us-midterms-iran-s-deputy-parliament-speaker-reacts-to-trump-s-elections-setback-1",
-  "skip:https://www.interfax.ru/world/1127030",
-  "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa013TjNzRzN3VjI3QVg1bEtHRjdHNjFyeVpZTURvOWw1M1cwX2dpZXhKUXVTVEZRUjJTS20tNjBHSUlSS3NnOU4zZENjTmRoTHZmN1lEZE9lS0dRU1ROWWxnaFlhRXNtZUkzTGlHVnZ6YmpfTERySXRfV3FzOEd0bmgzOW5oVlJqa1FONmI3NjVleWVZR2d6LTY1dlZqUURPMnU3ZkpDQQ?oc=5",
   "title:Вице-президент США Джей Ди Вэнс назвал конфликт с Ираном причиной поражения республиканцев на промежуточных выборах",
   "skip:https://ria.ru/20261104/putin-2129237209.html",
   "skip:https://tass.ru/politika/28286741",
@@ -998,5 +991,12 @@
   "skip:https://www.interfax.ru/business/1127863",
   "skip:https://news.google.com/rss/articles/CBMitAFBVV95cUxNRFc5WUJ3anhDSkVZWGVNVnVrcU1QQlFUY2xiX1ZTMV9sYS03MjNoYTMtYU14UVJPT0J4LUVvaERIY1ZveWNFeVVnUllPWG1wWFBscFg5cHJNT2JTeHROY0xHalBURlRoQXowSDlKbVJDSUVuVElSZ1B4amxRUVBKcTYycUw5WTczX3FJMkU5Z01DbEp5eWtYblUwTHhpUlJFZi1WWWtTYnZLeWlxcG9tSWNqaUo?oc=5",
   "https://www.france24.com/en/france/20261109-french-pm-lecornu-announces-increase-minimum-wage-bid-to-calm-protests",
-  "title:Правительство Франции досрочно повысит МРОТ на 1,6% для успокоения протестов"
+  "title:Правительство Франции досрочно повысит МРОТ на 1,6% для успокоения протестов",
+  "skip:https://www.kommersant.ru/doc/9092916",
+  "https://www.rbc.ru/rbcfreenews/6af1cbd9bfc6e1669fdefbd5",
+  "title:Урсула фон дер Ляйен подтвердила участие европейской делегации в переговорах по Украине в Абу-Даби",
+  "skip:https://www.kommersant.ru/doc/9092963",
+  "skip:https://www.interfax.ru/russia/1127860",
+  "https://www.rbc.ru/quote/09/11/2026/6af1cf01e90901c4a98c0019",
+  "title:Владимир Путин предложил поддержать КамАЗ через программу обновления регионального транспорта"
 ]

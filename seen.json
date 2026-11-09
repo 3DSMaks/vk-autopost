@@ -1,7 +1,4 @@
 [
-  "skip:https://www.film.ru/news/nikolay-koster-valdu-v-horror-seriale",
-  "skip:https://www.film.ru/news/treyler-put-malchika-voina",
-  "https://deadline.com/2026/10/klara-and-the-sun-box-office-fail-1237201321/",
   "title:How ‘Klara And The Sun’ Got Blotted Out At the Box Office",
   "https://deadline.com/2026/10/melanie-lynskey-mushroom-murders-australian-drama-series-1237206665/",
   "title:Melanie Lynskey Stars In ‘Mushroom Murders’ Australian True Crime Limited Series Ordered By Paramount+",
@@ -998,5 +995,8 @@
   "title:Скарсград хочет сыграть Константина",
   "skip:https://www.kinonews.ru/news_144062/",
   "https://variety.com/2026/film/news/spy-x-family-season-4-new-theatrical-film-2027-1236942775/",
-  "title:‘Spy x Family’ Season 4 and New Theatrical Film Set for 2027"
+  "title:‘Spy x Family’ Season 4 and New Theatrical Film Set for 2027",
+  "skip:https://kg-portal.ru/comments/135711-godzilla-minus-nol-i-ramajana-vozrozhdenie-legendy-podelili-kassu-mirovogo-prokata-nikto-ne-proigral/",
+  "https://deadline.com/2026/11/nicola-coughlan-i-am-helen-toxic-masculinity-channel-4-1237212975/",
+  "title:Nicola Coughlan Says Society Not Doing Enough To Tackle Toxic Masculinity On Eve Of Launch Of Powerful Channel 4 Drama ‘I Am Helen’"
 ]

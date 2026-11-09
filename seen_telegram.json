@@ -1,10 +1,4 @@
 [
-  "skip:https://www.playground.ru/final_fantasy_7_part_3/news/v_final_fantasy_7_revelation_vpervye_poyavitsya_mat_tify_square_enix_pokazala_fleshbek_iz_detstva_geroini-1885462#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169575/world-of-warcraft-forever-poluchila-epichnyij-animatsionnyij-trejler/",
-  "https://www.igromania.ru/news/169569/gta-6-mozhet-vesit-210-gigabajt-na-ps5/",
-  "title:GTA 6 может весить 210 гигабайт на PS5",
-  "https://www.igromania.ru/news/169565/the-wolf-among-us-poluchila-horoshie-otsenki-kritikov-82-balla-i-100-rekomendatsij/",
-  "title:The Wolf Among Us получила хорошие оценки критиков — 82 балла и 100% рекомендаций",
   "skip:https://www.kinonews.ru/article_143857/",
   "skip:https://www.kinonews.ru/news_143855/",
   "skip:https://www.film.ru/news/treyler-put-malchika-voina",
@@ -998,5 +992,11 @@
   "skip:https://www.igromania.ru/news/169810/nier-automata-vnov-postrojnela-na-pc-minus-300-gb/",
   "https://gamemag.ru/news/202040/capcom-obyasnila-pochemu-ne-nachala-s-remeyka-pervoy-resident-evil",
   "video:2026-11-09:https://gamemag.ru/news/202040/capcom-obyasnila-pochemu-ne-nachala-s-remeyka-pervoy-resident-evil",
-  "title:Capcom побоялась отпугнуть игроков первой Resident Evil — поэтому серию ремейков начали со второй части"
+  "title:Capcom побоялась отпугнуть игроков первой Resident Evil — поэтому серию ремейков начали со второй части",
+  "skip:https://www.playground.ru/gta_6/news/rockstar_ustroit_festival_gta_6_v_majami_s_trevisom_skottom_kardi_bi_i_drugimi_zvyozdami-1889153#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/mass_effect_2/news/v_seti_poyavilsya_rannij_trejler_mass_effect_2_kotoryj_ranshe_videli_tolko_razrabotchiki_bioware-1889151#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169811/rockstar-i-playstation-provedut-muzyikalnyij-festival-v-chest-reliza-gta-6/",
+  "skip:https://www.ign.com/articles/internal-mass-effect-2-trailer-gives-us-the-earliest-look-at-the-game-yet",
+  "https://www.playground.ru/gta_6/news/zavod_v_penze_predostavit_sotrudnikam_vyhodnoj_radi_vyhoda_gta_6_no_est_odno_uslovie-1889155#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Завод в Пензе предоставит сотрудникам выходной ради выхода GTA 6 - но есть одно условие"
 ]

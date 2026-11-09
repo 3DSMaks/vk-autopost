@@ -1,12 +1,4 @@
 [
-  "skip:https://ria.ru/20261105/bpla-2129271987.html",
-  "skip:https://www.interfax.ru/russia/1127074",
-  "https://ria.ru/20261105/bpla-2129273998.html",
-  "title:Около 50 беспилотников уничтожены над Воронежской областью за ночь",
-  "skip:https://ria.ru/20261105/ssha-2129301129.html",
-  "https://www.rbc.ru/politics/05/11/2026/6aec2c01535625f8570d9314",
-  "title:Демократы увеличили преимущество на промежуточных выборах в США",
-  "skip:https://www.rbc.ru/sport/05/11/2026/6aec2681283c4c1a8b63a13f",
   "https://www.sport-interfax.ru/1127118",
   "title:Умер чемпион мира «Формулы-1» 1980 года Алан Джонс",
   "skip:https://www.rbc.ru/politics/05/11/2026/6aec44cb74887e6516fbcd36",
@@ -998,5 +990,13 @@
   "skip:https://www.kommersant.ru/doc/9093197",
   "skip:https://ria.ru/20261109/ssha-2130423133.html",
   "https://www.rbc.ru/rbcfreenews/6af20d7b762fc9ab336f2a5b",
-  "title:В Вашингтоне автомобиль врезался в ограждение у Белого дома, есть задержанные"
+  "title:В Вашингтоне автомобиль врезался в ограждение у Белого дома, есть задержанные",
+  "skip:https://www.rbc.ru/politics/09/11/2026/6af20c41880b9dc931df6def",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28300077",
+  "https://www.kommersant.ru/doc/9093204",
+  "title:Спецпосланники США Уиткофф и Кушнер могут посетить Москву после переговоров в Абу-Даби",
+  "skip:https://www.interfax.ru/russia/1127924",
+  "skip:https://ria.ru/20261109/lihachev-2130426819.html",
+  "https://ria.ru/20261109/kiev-2130427592.html",
+  "title:Глава «Росатома» Алексей Лихачев заявил о четырех погибших сотрудниках ЗАЭС за две недели"
 ]

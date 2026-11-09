@@ -1,8 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/hardware/vr-hardware/half-life-alyx-patch-adds-foveated-rendering-support-a-mere-6-years-after-the-games-release/",
-  "https://www.playground.ru/elder_scrolls_5_skyrim/news/modifikatsiya_delirium_dobavila_v_the_elder_scrolls_5_skyrim_protsedurnuyu_fiziku_padenij_i_popadanij_v_stile_gta_4-1885263#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Модификация Delirium добавила в The Elder Scrolls 5 Skyrim процедурную физику падений и попаданий в стиле GTA 4",
-  "skip:https://www.igromania.ru/news/169568/gta-6-stala-glavnoj-temoj-novogo-zhurnala-edge-novyie-skrinshotyi-i-detali-raskroyut-29-oktyabrya/",
   "skip:https://www.pcgamer.com/games/grand-theft-auto/edge-magazine-went-to-rockstar-to-see-gta-6-and-will-tell-you-all-about-in-lavish-detail-this-thursday-october-29/",
   "skip:https://stopgame.ru/newsdata/73305/obschaya_vyruchka_serii_call_of_duty_pereshagnula_za_s40_mlrd_posle_vyhoda_modern_warfare_4",
   "skip:https://stopgame.ru/newsdata/73304/modern_warfare_4_cyberpunk_2077_i_phantom_blade_zero_tolkayutsya_u_vershiny_charta_prodazh_steam",
@@ -998,5 +994,9 @@
   "skip:https://gamemag.ru/news/202037/dring-oot-remake-is-the-second-biggest-zelda-launch-in-uk-history-easily-biggest-physical-launch-of",
   "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-speedrunners-have-already-found-new-ways-to-break-the-remake",
   "https://gamemag.ru/news/201990/naoki-hamaguti-nazval-final-fantasy-vii-remake-samoy-slojnoy-igroy-v-trilogii",
-  "title:Final Fantasy VII Remake оказалась самой сложной в разработке частью трилогии — Наоки Хамагути объяснил почему"
+  "title:Final Fantasy VII Remake оказалась самой сложной в разработке частью трилогии — Наоки Хамагути объяснил почему",
+  "skip:https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/remejk_the_legend_of_zelda_ocarina_of_time_pokazal_rekordnyj_start_v_velikobritanii-1889028#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169799/remejk-the-legend-of-zelda-ocarina-of-time-oboshyol-novinki-2026-go-po-fizicheskim-prodazham-v-velikobritanii/",
+  "https://www.playground.ru/marvels_spider_man/news/vyhod_novogo_filma_o_cheloveke_pauke_udvoil_prodazhi_igrovoj_serii_marvels_spider_man_ot_insomniac-1889023#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Выход нового фильма о Человеке-пауке удвоил продажи игровой серии Marvel's Spider-Man от Insomniac"
 ]

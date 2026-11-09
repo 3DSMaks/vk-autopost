@@ -1,6 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/article_143857/",
-  "skip:https://www.kinonews.ru/news_143855/",
   "skip:https://www.film.ru/news/treyler-put-malchika-voina",
   "skip:https://kg-portal.ru/comments/135554-bezumie-imperatora-pola-atrejdesa-budet-ostanovleno-vfinalnom-trejlere-epika-djuna-chast-3/",
   "skip:https://kg-portal.ru/comments/135551-kris-pratt-sdelaet-izhljupika-nastojaschego-muzhika-vtrejlere-filma-put-pacanavoina/",
@@ -998,5 +996,7 @@
   "skip:https://www.igromania.ru/news/169811/rockstar-i-playstation-provedut-muzyikalnyij-festival-v-chest-reliza-gta-6/",
   "skip:https://www.ign.com/articles/internal-mass-effect-2-trailer-gives-us-the-earliest-look-at-the-game-yet",
   "https://www.playground.ru/gta_6/news/zavod_v_penze_predostavit_sotrudnikam_vyhodnoj_radi_vyhoda_gta_6_no_est_odno_uslovie-1889155#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Завод в Пензе предоставит сотрудникам выходной ради выхода GTA 6 - но есть одно условие"
+  "title:Завод в Пензе предоставит сотрудникам выходной ради выхода GTA 6 - но есть одно условие",
+  "https://kg-portal.ru/comments/135718-robert-pattinson-idenzel-vashington-planirujut-ograblenie-napervyh-kadrah-trillera-zahvat/",
+  "title:Роберт Паттинсон и Дензел Вашингтон планируют ограбление на первых кадрах триллера \"Захват\""
 ]

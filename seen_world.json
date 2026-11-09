@@ -1,11 +1,4 @@
 [
-  "title:Рафаэль Надаль войдет в совет директоров мадридского «Реала»",
-  "skip:https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe",
-  "skip:https://ria.ru/20261104/krov-2129197270.html",
-  "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeDBfdnUzSGUzellWZVNfdElQclhWWFFORHpKZGJZSnREN1RRNC1SaFdsRmFaTDN6WFJYMGdSc2pOOUFpTnF5cHNsVHVaQl9DOS1ycVphdWh6dnFnbGp6WGhDU2wycWw0SHpqV3VEYzQ3cDhzUDVtZFoxaFF1TVc0SzBGaGF1QmoxN2ZhNUdfYy14em90N2dyUm1zV0tZY0Zmd0xyLWdiUkExNVRtRFozaVhYQzhEcFo1UzRYWGdIYlplSEpocUxVMVNkR2k1cXB3MW5kM0pwM21zRy0x?oc=5",
-  "title:Хакерской атаке подверглись холодильные установки службы крови во Франции",
-  "skip:https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news",
-  "skip:https://www.aljazeera.com/news/2026/11/4/how-big-is-the-republican-midterms-loss-and-is-there-a-silver-lining?traffic_source=rss",
   "skip:https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
   "skip:https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ0RKVlY1MlliV3dhVWp3b2FVOGNsTGEyYnZLb1ZENVpINVdLdDVFTnNsazZ5b3FsbmVocktWZUhacFZmRU83cEFLOTNnOVBKZXJ6RUFoTjFncjJsNHB4Z25QMHlVLTNPRnE5TE5KNU9NN2JQQ09rQmo2N1N4dHFGNUEySXhLUVFhZVlJU0ZUd0V6aXhKVy1OT3JIa3lwdUpDT184VXpQYkthTXg1VWc?oc=5",
   "skip:https://www.france24.com/en/video/20261104-a-look-back-at-how-trump-s-political-decisions-saw-his-approval-rating-plummet",
@@ -998,5 +991,12 @@
   "skip:https://www.interfax.ru/russia/1127781",
   "skip:https://ria.ru/20261109/lnr-2130259258.html",
   "https://ria.ru/20261109/bpla-2130266164.html",
-  "title:При атаке украинских беспилотников на Луганск и города ЛНР погибли два человека"
+  "title:При атаке украинских беспилотников на Луганск и города ЛНР погибли два человека",
+  "skip:https://www.interfax.ru/russia/1127785",
+  "https://www.kommersant.ru/doc/9092658",
+  "title:Российские военные взяли под контроль село Васильковое в Запорожской области",
+  "skip:https://www.interfax.ru/business/1127787",
+  "skip:https://www.kommersant.ru/doc/9092643",
+  "https://www.rbc.ru/finances/09/11/2026/6af18724796bc0ae78bf59ab",
+  "title:Эльвира Набиуллина заявила о недопустимости торопливого снижения ключевой ставки"
 ]

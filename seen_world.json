@@ -1,8 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMipwFBVV95cUxPclJGcGlxMXo0VkRzMWNBTmxQUE9VRjU2MGxGM0h6U1NsVnh1RHVGU0J5Q1BiWllQa2dUTEhGbFBfQm9fVEx5cWpHNUhveTUwUHpnZnRoSzI0ZFBDV3p3RVd6VTZZeXBQYmNiSmVzelpseDJUbEdTeFl0c19PbFI3aGstVmQwTENvODZLbm55ZFVJSlJWdE1PTU9nbmtZUW1KcWJIS1NtUQ?oc=5",
-  "skip:https://ria.ru/20261104/ssha-2129225515.html",
-  "skip:https://www.france24.com/en/us-midterm-elections-maybe-the-best-colour-for-texas-is-purple",
-  "skip:https://www.aljazeera.com/economy/2026/11/4/us-markets-rise-as-democrats-sweep-midterm-elections?traffic_source=rss",
   "skip:https://tass.ru/ekonomika/28286563",
   "skip:https://www.aljazeera.com/video/newsfeed/2026/11/4/we-are-still-red-floridas-first-black-governor-upon-win?traffic_source=rss",
   "skip:https://tass.ru/ekonomika/28286541",
@@ -998,5 +994,9 @@
   "skip:https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZkhPYnFBUDg3bnY3TU4xdnNXMVFhTGl2OFgwQmtyNE8wT1Rqb19FM1RxUXplRnl4RFNuY3JQTkJBbkwtbWdzS3lmcEV5ZnBpY1NMTWVhNVRrTW5JM3dPZnY0alFJeXRBT1MtVnoxWmN6T1d5clZMTkdlckhZMlFXZXpHbFZiaUVMaFVMYi1WVGZxRU5GbUNvQ2tCMTgteHNYMGJ0ZkZDRkFURGtFZEZvbXpJVm51dFREbW90YUFNbTdUaU0?oc=5",
   "skip:https://www.rbc.ru/photoreport/09/11/2026/6af188349a79471c917836c3",
   "https://www.kommersant.ru/doc/9092719",
-  "title:Издание «Новая газета» прекратило свою работу"
+  "title:Издание «Новая газета» прекратило свою работу",
+  "skip:https://www.kommersant.ru/doc/9092755",
+  "skip:https://ria.ru/20261109/turtsija-2130309778.html",
+  "https://www.interfax.ru/world/1127818",
+  "title:Эрдоган заявил о готовности Турции выступить посредником в урегулировании по Украине"
 ]

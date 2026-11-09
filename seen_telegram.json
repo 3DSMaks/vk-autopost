@@ -1,7 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/games/grand-theft-auto/rockstar-will-hold-union-vote-right-on-top-of-grand-theft-auto-6-release/",
-  "skip:https://gamemag.ru/news/201875/gotovte-210-gb-stal-izvesten-razmer-grand-theft-auto-vi-dlya-playstation-5",
-  "skip:https://www.ign.com/articles/call-of-duty-modern-warfare-4-adds-series-favorite-map-shipment-to-multiplayer",
   "skip:https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/",
   "skip:https://www.pcgamer.com/games/action/phantom-blade-zero-vs-onimusha-way-of-the-sword/",
   "skip:https://gamemag.ru/news/201872/prigotovte-svoy-klinok-startovala-predzagruzka-phantom-blade-zero",
@@ -998,5 +995,8 @@
   "skip:https://www.film.ru/news/godzilla-minus-nol-vozglavila-prokat",
   "skip:https://kg-portal.ru/comments/135712-idris-elba-sygraet-i-snimet-veselyj-ekshen-o-proshtrafivshemsja-specialnom-agente/",
   "https://variety.com/2026/film/global/tragedy-man-the-making-of-michael-reeves-cast-1236942016/",
-  "title:Nicholas Denton, Hugh Bonneville and Tim Downie Board Elevated Folk Horror ‘Tragedy Man: The Making of Michael Reeves’ (EXCLUSIVE)"
+  "title:Nicholas Denton, Hugh Bonneville and Tim Downie Board Elevated Folk Horror ‘Tragedy Man: The Making of Michael Reeves’ (EXCLUSIVE)",
+  "skip:https://www.film.ru/news/stiven-spilberg-snimet-pervyy-vestern",
+  "https://www.film.ru/news/finish-semok-cherez-ternii-k-zvezdam",
+  "title:Финиш съемок Через тернии к звездам"
 ]

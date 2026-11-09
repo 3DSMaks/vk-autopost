@@ -1,8 +1,4 @@
 [
-  "skip:https://www.film.ru/news/osnovnoy-treyler-begemota-s-paskalem",
-  "skip:https://variety.com/2026/film/news/jennifer-lawrence-katniss-hunger-games-sunrise-on-the-reaping-1236933329/",
-  "skip:https://kg-portal.ru/comments/135565-begemot-trejler/",
-  "skip:https://www.film.ru/news/novyy-treyler-dzhumandzhi-otkrytyy-mir",
   "skip:https://www.film.ru/news/lourens-vernetsya-k-golodnym-igram",
   "https://deadline.com/2026/10/tracee-ellis-ross-lake-bell-ken-leung-film-blow-the-horn-1237207026/",
   "title:Tracee Ellis Ross, Lake Bell & Ken Leung Thriller ‘Blow The Horn’ Heads To AFM For Sales",
@@ -998,5 +994,9 @@
   "skip:https://www.kinonews.ru/news_144070/",
   "skip:https://deadline.com/2026/11/miles-caton-joins-denzel-washington-thriller-amazon-1237216699/",
   "https://variety.com/2026/film/news/united-talent-agency-signs-alyce-tzue-steps-director-1236940880/",
-  "title:United Talent Agency Signs ‘Steps’ Filmmaker Alyce Tzue (EXCLUSIVE)"
+  "title:United Talent Agency Signs ‘Steps’ Filmmaker Alyce Tzue (EXCLUSIVE)",
+  "skip:https://kg-portal.ru/comments/135723-bolshe-nesuper-dzhems-gann-ipiter-safran-snjaty-srukovodstvadc-studios-vmesto-nih-vzjali-novogo-zaslanca-izmarvel/",
+  "skip:https://variety.com/2026/film/news/david-ellison-dc-studios-james-gunn-peter-safran-jeremy-latcham-1236943242/",
+  "https://deadline.com/2026/11/daniel-radcliffe-unsure-watch-hbo-harry-potter-series-1237217464/",
+  "title:Daniel Radcliffe Unsure If He’ll Watch HBO’s ‘Harry Potter’ Series: “Eight Hours Is A Lot Of Anything”"
 ]

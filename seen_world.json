@@ -1,7 +1,4 @@
 [
-  "https://www.sport-interfax.ru/1127118",
-  "title:Умер чемпион мира «Формулы-1» 1980 года Алан Джонс",
-  "skip:https://www.rbc.ru/politics/05/11/2026/6aec44cb74887e6516fbcd36",
   "skip:https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ1JTQW8wbkUxMUxKaEE5Q2VhM1gyNk5pWnZ1R3RtSE1RdGhuemtsdkhOa2RlUHhfZkxEWnBURjNTOWtvNU0yUmFiTE10cUZ2aE5DUFd5VUl6c1lWY256R0RxVVlJdEZ2enR0Ym04cUJQM2FWZ3dfelVyc1dPenZxQi0ydWZueUJwNnkzXzR6WTFpZ0FvbzlEanlVRWVfVEl1MzZIWHFrbS1Pb2hzUGhVUGxnRjBBSUJoblg1VU1mbTNpYUlMNHRN?oc=5",
   "https://www.interfax.ru/world/1127131",
   "title:Суд в Финляндии приговорил капитана судна из России к тюремному сроку за повреждение кабелей",
@@ -998,5 +995,8 @@
   "skip:https://www.interfax.ru/russia/1127924",
   "skip:https://ria.ru/20261109/lihachev-2130426819.html",
   "https://ria.ru/20261109/kiev-2130427592.html",
-  "title:Глава «Росатома» Алексей Лихачев заявил о четырех погибших сотрудниках ЗАЭС за две недели"
+  "title:Глава «Росатома» Алексей Лихачев заявил о четырех погибших сотрудниках ЗАЭС за две недели",
+  "skip:https://www.interfax.ru/world/1127922",
+  "https://tass.ru/mezhdunarodnaya-panorama/28300185",
+  "title:Совет ЕС продлил военную миссию на Украине до ноября 2028 года"
 ]

@@ -1,14 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28286523",
-  "skip:https://www.rbc.ru/politics/04/11/2026/6aeb373474887e6516fbcc71",
-  "skip:https://news.google.com/rss/articles/CBMijAFBVV95cUxORWpUSjZoNTU2eEkzUGZJbHl4WEdBMWtFNzQ1Q3l1V1VTbVJSeUprOHhmS19STXpBSi1oV2lmanFnT09MZldRd0lyNjJ5WFAycWRWQzd6UFRLSm1YSDNQRGpXdldpRjF1QmlYM3Y3anpjWUVScndXNDQ1VHkxWk9HNDJhTGJtc2V6T3VRTw?oc=5",
-  "skip:https://news.google.com/rss/articles/CBMinwFBVV95cUxOMk5tUl8yRml4eVVXZThHYnhwejMtb3VqUTR6c3lIel9CUjlQYnprMFdJOGRkY1BvcXU5eS0zeEg3Wnc3bHhPTnYyMms5bmpYVmxUVGNpeEJzZGhLUUVWcWY2dDhZTXBOR1pSRldGRUZyeGVkMU5RMkREejBqLUh5Y1IzTklIRTdHeUtweFh0SWVocUZuYlNmNTg5ZGFDa3c?oc=5",
-  "skip:https://www.france24.com/en/is-republican-party-able-to-pivot-away-from-maga-movement-or-will-it-sputter-forward-leaderless",
-  "skip:https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss",
-  "skip:https://www.rbc.ru/quote/04/11/2026/6aeb09e39a7947fafff171b4",
-  "skip:https://www.france24.com/en/video/20261104-us-midterm-elections-gen-z-gives-democrats-their-strongest-support",
-  "skip:https://www.kommersant.ru/doc/9080412",
-  "skip:https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWpBY1VHMFd5a2tJXzM1RFFFQTl5Y09aVDgza095UkJKVzNnQ3F4VW1pMzBEazJKMGhlS21zUEdCLXJPOVhWdXRnZmlLRHliMDdqYmt2b2ZWYk5FeW85VnBSalpRd1E5b3BVSUZDU2VLMUNiQm41YWw1SUgxV2dWaUFZUkI2MllhY0Z5ZkZHcWNuQmdCaHBKbVRhck1meTRz?oc=5",
   "skip:https://www.aljazeera.com/news/2026/11/4/is-trump-really-a-lame-duck-after-losing-both-houses-of-us-congress?traffic_source=rss",
   "skip:https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa19fZ0FrSFljZ2xPQlpBRmJ4NUFwcGZfME5lOGRNYnVKb2dtdldILTNDRHBwM3c1YzRiWVpXVUY1c3NzWVlINHAweEFjTUNaeTZwNjc3Q2swM2U4ZEk3SWJvdHJkVEQ4dUU4WEFnaEhoMDFONGhSd1I3TkthSkRmbWtQUzRBRjRuNGprcEEweUJTb3RXRktwaHZKMVlEM1RyaGZTVUluX3o5dXRlcElQVS1XVVVuTlE2?oc=5",
   "skip:https://www.france24.com/en/video/20261104-how-trump-s-broken-promises-on-war-inflation-handed-democrats-the-midterms",
@@ -998,5 +988,15 @@
   "title:Сотрудники российской «Новой газеты» покинули редакцию в Москве в день прекращения работы",
   "skip:https://www.france24.com/en/france/20261109-french-judo-star-teddy-riner-announces-bid-for-presidency",
   "https://tass.ru/mezhdunarodnaya-panorama/28298809",
-  "title:Десятикратный олимпийский чемпион по дзюдо Тедди Ринер объявил о намерении баллотироваться в президенты Франции"
+  "title:Десятикратный олимпийский чемпион по дзюдо Тедди Ринер объявил о намерении баллотироваться в президенты Франции",
+  "skip:https://www.kommersant.ru/doc/9092806",
+  "skip:https://ria.ru/20261109/vybory-2130328061.html",
+  "https://www.rbc.ru/sport/09/11/2026/6af1ae3ae90901c4a98bff68",
+  "title:Самый титулованный дзюдоист Тедди Ринер намерен баллотироваться в президенты Франции",
+  "skip:https://www.interfax.ru/russia/1127830",
+  "skip:https://www.interfax.ru/russia/1127831",
+  "skip:https://www.rbc.ru/politics/09/11/2026/6af1afa700cbe68dae3d2e42",
+  "skip:https://tass.ru/politika/28298947",
+  "https://tass.ru/politika/28298979",
+  "title:Лавров назвал темы и участников предстоящих трехсторонних переговоров в Абу-Даби"
 ]

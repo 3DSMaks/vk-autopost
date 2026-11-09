@@ -1,8 +1,4 @@
 [
-  "https://deadline.com/2026/10/summer-session-clarence-hammond-microdrama-feature-film-1237206927/",
-  "title:Kristen Brancaccio To Direct Microdrama & Feature Adaptations Of Claren Hammond’s Short Story ‘Summer Session’",
-  "https://www.film.ru/articles/chto-smotret-v-kino-na-etoy-nedele-223",
-  "title:Что смотреть в кино на этой неделе",
   "skip:https://www.film.ru/articles/recenziya-na-film-parshivye-ovcy-sirsha-ronan-ne-spravlyaetsya-s-huliganom",
   "https://www.kinonews.ru/news_143853/",
   "title:Илон Маск представил свою ИИ-версию \"Одиссеи\"",
@@ -998,5 +994,9 @@
   "https://deadline.com/2026/11/jonathan-bailey-bill-nighy-love-story-film-insomniac-city-1237217341/",
   "title:Jonathan Bailey & Bill Nighy To Star In Love Story ‘Insomniac City’ For Director Dominic Cooke — AFM",
   "https://variety.com/2026/film/global/vera-farmiga-supernatural-horror-inferno-1236942799/",
-  "title:Vera Farmiga to Star in Supernatural Horror ‘Inferno’ (EXCLUSIVE)"
+  "title:Vera Farmiga to Star in Supernatural Horror ‘Inferno’ (EXCLUSIVE)",
+  "skip:https://variety.com/2026/film/news/james-gunn-peter-safran-fired-dc-jeremy-latcham-1236943091/",
+  "skip:https://variety.com/2026/film/global/jonathan-bailey-gay-romance-film-insomniac-city-1236943109/",
+  "https://deadline.com/2026/11/dc-studios-james-gunn-peter-safran-leaving-1237217374/",
+  "title:DC Studios Shakeup: James Gunn & Peter Safran Out, Former Marvel Exec Jeremy Latcham In"
 ]

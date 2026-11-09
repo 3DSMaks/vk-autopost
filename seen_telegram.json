@@ -1,10 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/hardware/vr-hardware/half-life-alyx-patch-adds-foveated-rendering-support-a-mere-6-years-after-the-games-release/",
-  "skip:https://www.ign.com/articles/mass-effect-has-been-taken-away-just-when-we-needed-it-most",
-  "skip:https://gamemag.ru/news/201867/smi-sony-uvolnyaet-sotrudnikov-sucker-punch-productions",
-  "https://www.igromania.ru/news/169566/call-of-duty-modern-warfare-4-phantom-blade-zero-i-cyberpunk-2077-voshli-v-top-svezhego-charta-steam/",
-  "title:Call of Duty: Modern Warfare 4, Phantom Blade Zero и Cyberpunk 2077 вошли в топ свежего чарта Steam",
-  "skip:https://www.igromania.ru/news/169568/gta-6-stala-glavnoj-temoj-novogo-zhurnala-edge-novyie-skrinshotyi-i-detali-raskroyut-29-oktyabrya/",
   "skip:https://www.pcgamer.com/games/grand-theft-auto/edge-magazine-went-to-rockstar-to-see-gta-6-and-will-tell-you-all-about-in-lavish-detail-this-thursday-october-29/",
   "skip:https://stopgame.ru/newsdata/73305/obschaya_vyruchka_serii_call_of_duty_pereshagnula_za_s40_mlrd_posle_vyhoda_modern_warfare_4",
   "skip:https://stopgame.ru/newsdata/73304/modern_warfare_4_cyberpunk_2077_i_phantom_blade_zero_tolkayutsya_u_vershiny_charta_prodazh_steam",
@@ -998,5 +992,11 @@
   "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-speedrunners-have-already-found-new-ways-to-break-the-remake",
   "skip:https://gamemag.ru/news/202025/death-stranding-7-years",
   "https://www.playground.ru/gta_6/news/sluh_gta_6_poluchit_versiyu_s_tsenzuroj_dlya_raznyh_stran_iz_igry_mogut_vyrezat_nagotu_i_otkrovennye_stseny-1889011#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Слух: GTA 6 получит версию с цензурой для разных стран - из игры могут вырезать наготу и откровенные сцены"
+  "title:Слух: GTA 6 получит версию с цензурой для разных стран - из игры могут вырезать наготу и откровенные сцены",
+  "skip:https://www.igromania.ru/news/169802/veduschij-dizajner-skyrim-rashvalil-baldurs-gate-3-i-otmetil-vazhnoe-nasledie-oblivion/",
+  "skip:https://www.pcgamer.com/games/the-elder-scrolls/lead-designer-bruce-nesmith-says-skyrim-was-a-hit-because-it-was-built-on-institutional-knowledge-from-oblivion/",
+  "skip:https://www.pcgamer.com/games/the-elder-scrolls/skyrim-lead-designer-bruce-nesmith-loved-that-baldurs-gate-3-closed-off-story-paths-based-on-your-decisions-but-defends-bethesdas-approach-they-were-both-fun-theyre-just-fun-in-different-ways/",
+  "https://gamemag.ru/news/201991/byvshiy-prodyuser-bioware-rasskazal-o-slojnoy-razrabotke-dragon-age-the-veilguard",
+  "video:2026-11-09:https://gamemag.ru/news/201991/byvshiy-prodyuser-bioware-rasskazal-o-slojnoy-razrabotke-dragon-age-the-veilguard",
+  "title:Бывший продюсер BioWare пытался помочь с Dragon Age: The Veilguard, но его рекомендации игнорировали"
 ]

@@ -1,12 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143851/",
-  "https://kg-portal.ru/comments/135562-kadry-iz-filma-smertelnyj-devichnik/",
-  "title:Лилли Вачовски спродюсирует убойный девичник с непредсказуемым хоррором и чёрным юмором",
-  "skip:https://www.playground.ru/kvantovyj_kontrol/news/demo_rossijskogo_shutera_kvantovyj_kontrol_nulevoj_rubezh_vyjdet_10_noyabrya-1885505#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.playground.ru/misc/news/byvshij_prodyuser_halo_teper_budet_otvechat_za_videoigry_po_d_d_i_magic_the_gathering-1885501#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169580/rossijskij-kooperativnyij-shuter-kvantovyij-kontrol-poluchit-demoversiyu-10-noyabrya/",
-  "skip:https://www.pcgamer.com/software/platforms/messages-in-certain-large-public-discord-servers-will-be-searchable-on-the-web-after-december/",
-  "skip:https://www.ign.com/articles/discord-messages-in-discoverable-servers-will-soon-be-searchable-on-google",
   "https://www.playground.ru/ratchet_and_clank_future_a_crack_in_time/news/eksklyuziv_ps3_ratchet_clank_future_a_crack_in_time_poluchil_neofitsialnuyu_pk_versiyu_igru_uzhe_mozhno_projti_tselikom-1885508#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Эксклюзив PS3 Ratchet & Clank Future: A Crack in Time получил неофициальную ПК-версию - игру уже можно пройти целиком",
   "skip:https://www.kinonews.ru/news_143850/",
@@ -998,5 +990,13 @@
   "title:Warhammer 40,000: Dark Heresy получила дату выхода - искать ересь в секторе Каликсис можно будет с 28 января",
   "skip:https://www.film.ru/news/reliz-take-s-pattinsonom-i-vashingtonom",
   "https://variety.com/2026/tv/news/ariana-grande-tonight-show-stepping-away-public-1236943053/",
-  "title:Ariana Grande Appears on ‘Tonight Show’ After Months Away From Public Eye"
+  "title:Ariana Grande Appears on ‘Tonight Show’ After Months Away From Public Eye",
+  "skip:https://gamemag.ru/news/202041/sony-anonsirovala-chernuyu-playstation-portal-s-uvelichennoy-pamyatyu",
+  "skip:https://gamemag.ru/news/202053/sjech-vragov-imperiuma-warhammer-40000-dark-heresy-vyhodit-v-yanvare-2027-goda",
+  "skip:https://www.playground.ru/misc/news/aktsii_nvidia_upali_bolee_chem_na_200_milliardov_dollarov_na_fone_skandala_s_uchastiem_dzhensena_huanga-1889184#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://stopgame.ru/newsdata/73425/v_nvidia_proydet_rassledovanie_iz_za_romana_dzhensena_huanga_s_kitayskoy_shpionkoy",
+  "skip:https://stopgame.ru/newsdata/73423/eksklyuzivno_v_yaponii_vypustyat_playstation_portal_s_bolshim_obemom_vstroennoy_pamyati",
+  "skip:https://stopgame.ru/newsdata/73428/prodazhi_igr_capcom_8_5_mln_kopiy_u_resident_evil_requiem_2_7_mln_u_pragmata",
+  "https://gamemag.ru/news/202052/epoha-uvolneniy-microsoft-otmenila-razrabotku-novoy-age-of-empires",
+  "title:Эпоха увольнений: Microsoft отменила разработку Age of Empires V"
 ]

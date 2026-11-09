@@ -1,11 +1,4 @@
 [
-  "skip:https://tass.ru/ekonomika/28286563",
-  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/4/we-are-still-red-floridas-first-black-governor-upon-win?traffic_source=rss",
-  "skip:https://tass.ru/ekonomika/28286541",
-  "skip:https://www.aljazeera.com/news/2026/11/4/no-regrets-trump-says-iran-war-justified-despite-polls-drubbing?traffic_source=rss",
-  "skip:https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTnZDaGFzNXYwekJoM29EUXZoZFp2b2Voa3Vib2hiMU5jQVpNWGFQZXNuMk5DaWdEUUlvVWNpT3BvNjMxcXN2NDBrX29RUlB2clNoUHhLVEpYM0dDUF9PMWxmSVlsQmZ3MEMzWmU0aWFCUE1YQ3FFMHZvY3B3SVUxOXRIYktUM0ZXSld3bm5ETjlGS0hsYmlTcHlEc0hzVTc3ck9PQ3ZLZTBCVEVybXJzTGI4VXFQZDJ3bjB4YndoeUhkeFk?oc=5",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28286525",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28286515",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28286523",
   "skip:https://www.rbc.ru/politics/04/11/2026/6aeb373474887e6516fbcc71",
   "skip:https://news.google.com/rss/articles/CBMijAFBVV95cUxORWpUSjZoNTU2eEkzUGZJbHl4WEdBMWtFNzQ1Q3l1V1VTbVJSeUprOHhmS19STXpBSi1oV2lmanFnT09MZldRd0lyNjJ5WFAycWRWQzd6UFRLSm1YSDNQRGpXdldpRjF1QmlYM3Y3anpjWUVScndXNDQ1VHkxWk9HNDJhTGJtc2V6T3VRTw?oc=5",
@@ -998,5 +991,12 @@
   "skip:https://www.kommersant.ru/doc/9092755",
   "skip:https://ria.ru/20261109/turtsija-2130309778.html",
   "https://www.interfax.ru/world/1127818",
-  "title:Эрдоган заявил о готовности Турции выступить посредником в урегулировании по Украине"
+  "title:Эрдоган заявил о готовности Турции выступить посредником в урегулировании по Украине",
+  "skip:https://www.france24.com/en/video/20261109-novaya-gazeta-an-independent-russian-newspaper-critical-of-putin-closes",
+  "skip:https://www.rbc.ru/politics/09/11/2026/6af1997a574adeb1ef6b33d7",
+  "https://www.kommersant.ru/doc/9092783",
+  "title:Сотрудники российской «Новой газеты» покинули редакцию в Москве в день прекращения работы",
+  "skip:https://www.france24.com/en/france/20261109-french-judo-star-teddy-riner-announces-bid-for-presidency",
+  "https://tass.ru/mezhdunarodnaya-panorama/28298809",
+  "title:Десятикратный олимпийский чемпион по дзюдо Тедди Ринер объявил о намерении баллотироваться в президенты Франции"
 ]

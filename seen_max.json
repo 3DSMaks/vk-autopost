@@ -1,9 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/article_143857/",
-  "skip:https://www.kinonews.ru/news_143855/",
-  "https://www.film.ru/news/nikolay-koster-valdu-v-horror-seriale",
-  "title:Николай Костер-Вальду в хоррор-сериале",
-  "https://kg-portal.ru/comments/135562-kadry-iz-filma-smertelnyj-devichnik/",
   "title:Лилли Вачовски спродюсирует убойный девичник с непредсказуемым хоррором и чёрным юмором",
   "skip:https://www.playground.ru/misc/news/v_seriale_garri_potter_poyavitsya_brat_rona_kotorogo_vyrezali_iz_filmov_hbo_raskryl_novyh_aktyorov-1885497#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.ign.com/articles/life-is-strange-developer-dont-nod-blasted-by-union-employees-over-illegal-management-practices-as-possible-layoffs-loom",
@@ -998,5 +993,10 @@
   "title:Финиш съемок Через тернии к звездам",
   "skip:https://stopgame.ru/newsdata/73422/obschaya_auditoriya_serii_death_stranding_pereshagnula_za_28_mln_igrokov",
   "https://www.playground.ru/gta_6/news/predzagruzka_gta_6_startovala_v_novoj_zelandii-1889092#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Предзагрузка GTA 6 стартовала в Новой Зеландии"
+  "title:Предзагрузка GTA 6 стартовала в Новой Зеландии",
+  "skip:https://www.playground.ru/gta_6/news/v_chest_gta_6_vypustyat_eksklyuzivnuyu_kurtku_za_2500_funtov_sterlingov-1889102#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/selfridges-gta-6-takeover-varsity-jacket",
+  "skip:https://gamemag.ru/news/202040/capcom-obyasnila-pochemu-ne-nachala-s-remeyka-pervoy-resident-evil",
+  "https://www.playground.ru/gta_6/news/gta_6_mozhet_poluchit_rezhim_120_gts_i_uluchshennuyu_pssr_2_na_playstation_5_pro-1889117#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:GTA 6 может получить режим 120 Гц и улучшенную PSSR 2 на PlayStation 5 Pro"
 ]

@@ -1,11 +1,4 @@
 [
-  "skip:https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
-  "skip:https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france?traffic_source=rss",
-  "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSUllcFZWajRSZE9PZE82Zl9aMHl5SlF6b09IejNjUjdqLTRJb2hKemVORDZGVDdkZkFaUksyV3hxMXNCNXlHZnR2QjY5anN0RkFpeC1UMzBQcjkxRC05S0tBcVhSOTA1dWw5d2s3ZDNkX1FadkI3SGh0Ti1zaWloUFVteWRfNlJNQl9uUkRVY0FyXzNDTEo2dkI5R3NveEd2eVVSeHFTOXhGQ0V3ZjRGOFpfcWJ6dm9VUXR3bGNxXzhrLXYtV29sRkR1NTc?oc=5",
-  "title:Ложные сообщения о минировании самолетов привели к экстренным посадкам в Европе",
-  "skip:https://www.kommersant.ru/doc/9080960",
-  "skip:https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVlZWHk4XzU4N190TEhTREdrcTJFU1R6QjZVRnp1VW9tYVN1OGc1ZUl3dkszbkFxQXN3TjhfbWpycVpIOGpYZXJST2FGRDdrUl9EbDUxeGNBeXpfZEZDT05XdHJoT25Tbkg3elc1ZF91YjFuZURRRV9GSVJSQVo0VmdDR0RucEEyaEN6VUhHWkVOY1U5by1lT0lLM2wwRVBKYU5sa3NvZVZHS1pqMEZUMFNScw?oc=5",
-  "skip:https://tass.ru/info/28288955",
   "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
   "title:Криштиану Роналду объявил о завершении карьеры в сборной Португалии",
   "skip:https://www.sport-interfax.ru/1127204",
@@ -998,5 +991,12 @@
   "skip:https://www.france24.com/en/sexual-predator-russell-brand-jailed-for-10-years-for-rape-assault",
   "skip:https://www.theguardian.com/news/2026/nov/09/jemima-goldsmith-says-ex-partner-russell-brand-physically-assaulted-her",
   "https://www.aljazeera.com/video/newsfeed/2026/11/9/russell-brand-sentenced-to-10-5-years-over-sexual-assault-charges?traffic_source=rss",
-  "title:Британский актер и комик Рассел Брэнд приговорен к 10,5 годам тюрьмы за изнасилование"
+  "title:Британский актер и комик Рассел Брэнд приговорен к 10,5 годам тюрьмы за изнасилование",
+  "skip:https://tass.ru/politika/28300325",
+  "skip:https://www.rbc.ru/politics/09/11/2026/6af22198799fa233b533bf67",
+  "skip:https://ria.ru/20261109/abu-dabi-2130432327.html",
+  "skip:https://www.kommersant.ru/doc/9093213",
+  "skip:https://ria.ru/20261109/spetsbort-2130431975.html",
+  "https://www.rbc.ru/politics/10/11/2026/6aedc5bf0c33dac264352b9e",
+  "title:Российская делегация прибыла в Абу-Даби на трехсторонние переговоры по Украине"
 ]

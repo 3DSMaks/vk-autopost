@@ -1,7 +1,4 @@
 [
-  "skip:https://www.playground.ru/world_of_warcraft/news/world_of_warcraft_forever_poluchila_animatsionnyj_trejler_s_vokalistkami_evanescence_i_spiritbox-1885467#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169577/osnovnaya-istoriya-igr-resident-evil-mozhet-zavershitsya-v-techenie-sleduyuschih-10-let/",
-  "skip:https://www.igromania.ru/news/169574/ne-bojtes-kontsa-prizyivaet-poslednij-trejler-novoj-dyunyi-s-zendeej-pattinsonom-i-chervyami/",
   "skip:https://www.igromania.ru/news/169573/otpravlenie-pribyilo-v-modern-warfare-4-dobavili-odnu-iz-samyih-populyarnyih-kart-call-of-duty/",
   "skip:https://www.ign.com/articles/resident-evil-executive-producer-says-the-series-story-could-end-in-the-next-10-years",
   "skip:https://www.ign.com/articles/call-of-duty-modern-warfare-4-adds-series-favorite-map-shipment-to-multiplayer",
@@ -998,5 +995,8 @@
   "title:Разработчики Phantom Blade Zero показали, как записывали движения для игры",
   "skip:https://www.playground.ru/dynasty_warriors_origins/news/playstation_ranshe_vremeni_raskryla_dve_igry_dlya_ps_plus_extra_dragon_quest_3_i_dynasty_warriors_origins-1889086#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.igromania.ru/news/169807/world-of-warcraft-forever-vyishla-blagodarya-reaktsii-fanatov-na-classic-zayavili-v-blizzard/",
-  "title:World of Warcraft: Forever вышла благодаря реакции фанатов на Classic, заявили в Blizzard"
+  "title:World of Warcraft: Forever вышла благодаря реакции фанатов на Classic, заявили в Blizzard",
+  "skip:https://www.playground.ru/world_of_warcraft/news/world_of_warcraft_forever_poluchila_vazhnoe_obnovlenie_blizzard_uvelichila_opyt_za_prohozhdenie_podzemelij_na_50-1889088#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "https://www.igromania.ru/news/169808/remejk-the-legend-of-zelda-ocarina-of-time-smestil-expedition-33-s-mesta-samoj-vyisokootsenyonnoj-igryi-na-metacritic/",
+  "title:Ремейк The Legend of Zelda: Ocarina of Time сместил Expedition 33 с места самой высокооценённой игры на Metacritic"
 ]

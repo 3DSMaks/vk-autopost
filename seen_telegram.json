@@ -1,7 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169577/osnovnaya-istoriya-igr-resident-evil-mozhet-zavershitsya-v-techenie-sleduyuschih-10-let/",
-  "skip:https://www.igromania.ru/news/169574/ne-bojtes-kontsa-prizyivaet-poslednij-trejler-novoj-dyunyi-s-zendeej-pattinsonom-i-chervyami/",
-  "skip:https://www.igromania.ru/news/169572/garri-potteru-iz-novogo-seriala-nashli-mamu-i-papu-a-ronu-uizli-eschyo-odnogo-brata/",
   "skip:https://gamemag.ru/news/201873/dune-part-three-final-trailer",
   "skip:https://www.ign.com/articles/capcom-celebrates-record-sales-in-first-half-of-2027-fiscal-year-with-overwhelming-majority-being-digital-purchases",
   "skip:https://stopgame.ru/newsdata/73307/don_t_nod_grozyat_massovye_uvolneniya_i_bankrotstvo",
@@ -998,5 +995,8 @@
   "skip:https://www.igromania.ru/news/169808/remejk-the-legend-of-zelda-ocarina-of-time-smestil-expedition-33-s-mesta-samoj-vyisokootsenyonnoj-igryi-na-metacritic/",
   "skip:https://www.ign.com/articles/selfridges-gta-6-takeover-varsity-jacket",
   "https://www.igromania.ru/news/169806/predzagruzka-gta-6-startovala-v-novoj-zelandii-na-ps5-s-kazhdyim-chasom-ona-budet-dostupna-vo-vsyo-novyih-regionah/",
-  "title:Предзагрузка GTA 6 стартовала в Новой Зеландии на PS5 — с каждым часом она будет доступна во всё новых регионах"
+  "title:Предзагрузка GTA 6 стартовала в Новой Зеландии на PS5 — с каждым часом она будет доступна во всё новых регионах",
+  "skip:https://www.ign.com/articles/gta-6-metadata-ray-tracing-improvements-on-ps5-pro",
+  "https://stopgame.ru/newsdata/73422/obschaya_auditoriya_serii_death_stranding_pereshagnula_za_28_mln_igrokov",
+  "title:Общая аудитория серии Death Stranding перешагнула за 28 млн игроков"
 ]

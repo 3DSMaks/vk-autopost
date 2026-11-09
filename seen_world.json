@@ -1,10 +1,4 @@
 [
-  "skip:https://tass.ru/ekonomika/28285871",
-  "skip:https://www.interfax.ru/russia/1126984",
-  "skip:https://ria.ru/20261104/ekaterinburg-2129176367.html",
-  "https://www.interfax.ru/russia/1126990",
-  "title:В аэропорту Екатеринбурга вводились и были сняты временные ограничения на прием и выпуск рейсов",
-  "skip:https://tass.ru/kultura/28285997",
   "skip:https://ria.ru/20261104/brass-2129187400.html",
   "https://www.kommersant.ru/doc/9080338",
   "title:Умер итальянский кинорежиссер Тинто Брасс",
@@ -998,5 +992,11 @@
   "skip:https://tass.ru/politika/28297807",
   "skip:https://ria.ru/20261109/svr-2130240804.html",
   "https://www.rbc.ru/rbcfreenews/6af17d76854a138786920d8c",
-  "title:СВР заявила о планах ЕС добиться возвращения украинских мужчин на родину для восполнения потерь ВСУ"
+  "title:СВР заявила о планах ЕС добиться возвращения украинских мужчин на родину для восполнения потерь ВСУ",
+  "skip:https://www.france24.com/en/europe/20261109-poland-braces-for-tense-week-after-deadly-shooting-deepens-political-divisions",
+  "skip:https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+  "skip:https://news.google.com/rss/articles/CBMiigFBVV95cUxPT3F0cG9XZEVlN0pBaEFzQTlWdjFka082QUE5eDRWd0RUMEpvQURHTG4zNHVpb0haZ1E4OVFiQmFXaHE2djVpVHhCcHRzSXp4cWF4cmRDcnotMXRlZ3UwNXR4NHprdWZBMDZnMXBTWUFYRnE2QXAwTjJwQXh5eUR3eTlrR3ZsTVNJZ1E?oc=5",
+  "skip:https://www.kommersant.ru/doc/9092503",
+  "https://tass.ru/proisshestviya/28297955",
+  "title:Устроивший стрельбу в центре Кракова мужчина умер в больнице"
 ]

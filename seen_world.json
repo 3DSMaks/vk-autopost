@@ -1,11 +1,4 @@
 [
-  "skip:https://ria.ru/20261104/tramp-2129244284.html",
-  "https://ria.ru/20261104/tramp-2129245604.html",
-  "title:Дональд Трамп опроверг слухи о возможной отставке главы Пентагона Пита Хегсета",
-  "skip:https://www.rbc.ru/politics/04/11/2026/6aeb764ba0661a3c59f81bb3",
-  "skip:https://ria.ru/20261104/tramp-2129243937.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28286823",
-  "https://ria.ru/20261104/tramp-2129244934.html",
   "title:Дональд Трамп связал поражение республиканцев на промежуточных выборах с войной против Ирана",
   "skip:https://www.interfax.ru/russia/1127038",
   "https://www.kommersant.ru/doc/9080471",
@@ -998,5 +991,12 @@
   "skip:https://ria.ru/20261109/es-2130390416.html",
   "skip:https://tass.ru/politika/28299573",
   "https://www.interfax.ru/world/1127886",
-  "title:США проведут консультации с Евросоюзом и НАТО перед переговорами по Украине в Абу-Даби"
+  "title:США проведут консультации с Евросоюзом и НАТО перед переговорами по Украине в Абу-Даби",
+  "skip:https://ria.ru/20261109/brend-2130404153.html",
+  "https://www.interfax.ru/world/1127889",
+  "title:Британский актер и комик Рассел Брэнд приговорен к 10,5 года тюрьмы за изнасилование",
+  "skip:https://www.rbc.ru/rbcfreenews/6af1ddd2ffababcec205e249",
+  "skip:https://tass.ru/armiya-i-opk/28299657",
+  "https://www.interfax.ru/russia/1127885",
+  "title:Вооруженные силы России нанесли удар по логистическому центру в порту Одессы"
 ]

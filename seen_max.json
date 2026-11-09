@@ -1,11 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/discord-messages-in-discoverable-servers-will-soon-be-searchable-on-google",
-  "skip:https://stopgame.ru/newsdata/73307/don_t_nod_grozyat_massovye_uvolneniya_i_bankrotstvo",
-  "https://www.ign.com/articles/capcom-celebrates-record-sales-in-first-half-of-2027-fiscal-year-with-overwhelming-majority-being-digital-purchases",
-  "title:Capcom Celebrates Record Sales in First Half of 2027 Fiscal Year, With Overwhelming Majority Being Digital Purchases",
-  "skip:https://www.playground.ru/kvantovyj_kontrol/news/demo_rossijskogo_shutera_kvantovyj_kontrol_nulevoj_rubezh_vyjdet_10_noyabrya-1885505#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169580/rossijskij-kooperativnyij-shuter-kvantovyij-kontrol-poluchit-demoversiyu-10-noyabrya/",
-  "https://www.playground.ru/call_of_duty_modern_warfare_4/news/startovyj_onlajn_call_of_duty_modern_warfare_4_na_xbox_okazalsya_na_32_nizhe_pokazatelej_black_ops_7-1885504#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Стартовый онлайн Call of Duty: Modern Warfare 4 на Xbox оказался на 32% ниже показателей Black Ops 7",
   "skip:https://www.pcgamer.com/games/grand-theft-auto/rockstar-will-hold-union-vote-right-on-top-of-grand-theft-auto-6-release/",
   "https://gamemag.ru/news/201872/prigotovte-svoy-klinok-startovala-predzagruzka-phantom-blade-zero",
@@ -998,5 +991,12 @@
   "skip:https://www.film.ru/news/novyy-spisok-smertnikov-s-krisom-prattom",
   "skip:https://kg-portal.ru/comments/135712-idris-elba-sygraet-i-snimet-veselyj-ekshen-o-proshtrafivshemsja-specialnom-agente/",
   "https://deadline.com/2026/11/dominic-west-a-weekend-in-the-country-afm-1237217129/",
-  "title:Dominic West Joins Irish-Set Drama ‘A Weekend In The Country’ — AFM"
+  "title:Dominic West Joins Irish-Set Drama ‘A Weekend In The Country’ — AFM",
+  "skip:https://www.playground.ru/nier_automata/news/razrabotchiki_ispravili_oshibku_s_razmerom_fajlov_v_pk_versii_nier_automata_posle_obnovleniya_igra_vesila_366_gb-1889135#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169810/nier-automata-vnov-postrojnela-na-pc-minus-300-gb/",
+  "skip:https://www.ign.com/articles/gta-6-metadata-ray-tracing-improvements-on-ps5-pro",
+  "skip:https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-bumps-dungeon-xp-from-monsters-by-50-percent-after-some-community-feedback-i-will-diplomatically-call-passionate/",
+  "skip:https://www.igromania.ru/news/169811/rockstar-i-playstation-provedut-muzyikalnyij-festival-v-chest-reliza-gta-6/",
+  "https://www.playground.ru/mass_effect_5/news/mass_effect_5_dolzhna_byla_dopolnit_serial_amazon_byvshij_rukovoditel_bioware_raskryl_svyaz_dvuh_proektov-1889124#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Mass Effect 5 должна была дополнить сериал Amazon - бывший руководитель BioWare раскрыл связь двух проектов"
 ]

@@ -1,7 +1,4 @@
 [
-  "https://www.playground.ru/fable_2026/news/zatonuvshie_korabli_i_atmosfernye_skrinshoty_avtory_fable_raskryli_detali_mrachnogo_regiona_prizrachnye_topi-1885288#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Затонувшие корабли и атмосферные скриншоты: авторы Fable раскрыли детали мрачного региона Призрачные топи",
-  "skip:https://www.film.ru/news/kto-sygraet-roditeley-garri-pottera",
   "https://deadline.com/2026/10/elden-ring-biggest-movie-on-sale-market-amazon-joins-a24-1237201368/",
   "title:A24’s Fantasy Epic ‘Elden Ring’ Heads To AFM As The Biggest Movie Ever On Sale At A Market; Amazon Joins Pic Starring Kit Connor",
   "skip:https://deadline.com/2026/10/russell-brand-indecent-assault-charge-reduced-trial-continues-1237206104/",
@@ -998,5 +995,8 @@
   "title:Выход нового фильма о Человеке-пауке удвоил продажи игровой серии Marvel's Spider-Man от Insomniac",
   "skip:https://gamemag.ru/news/202025/death-stranding-7-years",
   "https://gamemag.ru/news/201991/byvshiy-prodyuser-bioware-rasskazal-o-slojnoy-razrabotke-dragon-age-the-veilguard",
-  "title:Бывший продюсер BioWare пытался помочь с Dragon Age: The Veilguard, но его рекомендации игнорировали"
+  "title:Бывший продюсер BioWare пытался помочь с Dragon Age: The Veilguard, но его рекомендации игнорировали",
+  "skip:https://www.film.ru/news/skarsgrad-hochet-sygrat-konstantina",
+  "https://www.kinonews.ru/news_144060/",
+  "title:Голлум из \"Властелина колец\" лишил Эди Серкиса сна"
 ]

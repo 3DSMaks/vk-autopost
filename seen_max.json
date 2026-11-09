@@ -1,8 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169591/razrabotchiki-crimson-desert-nazvali-vremya-reliza-dopolneniya-puteshestvie-v-neizvedannoe/",
-  "skip:https://www.pcgamer.com/games/rpg/crimson-desert-charting-the-unknown-dlc-release-date-launch-times/",
-  "skip:https://stopgame.ru/newsdata/73310/datamayner_razmer_zagruzhaemyh_faylov_gta_vi_na_ps5_sostavit_210_gb",
-  "https://www.playground.ru/call_of_duty_modern_warfare_4/news/activision_vypustila_hvalebnyj_trejler_call_of_duty_modern_warfare_4-1885557#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Activision выпустила хвалебный трейлер Call of Duty: Modern Warfare 4",
   "skip:https://www.film.ru/news/novyy-treyler-dzhumandzhi-otkrytyy-mir",
   "skip:https://kg-portal.ru/comments/135564-duejn-dzhonson-vedet-sebja-kak-zhenschina-akaren-gillan-igraet-rol-eesyna-vtrejlere-ekshena-dzhumandzhi-otkrytyj-mir/",
@@ -998,5 +994,9 @@
   "title:Jonathan Bailey & Bill Nighy To Star In Love Story ‘Insomniac City’ For Director Dominic Cooke — AFM",
   "skip:https://www.film.ru/news/reliz-take-s-pattinsonom-i-vashingtonom",
   "https://deadline.com/2026/11/project-hail-mary-composer-daniel-pemberton-interview-1237217010/",
-  "title:‘Project Hail Mary’ Composer Daniel Pemberton Built “A Language From The Ground Up” Using New Instruments – Sound & Screen Film"
+  "title:‘Project Hail Mary’ Composer Daniel Pemberton Built “A Language From The Ground Up” Using New Instruments – Sound & Screen Film",
+  "skip:https://variety.com/2026/film/news/james-gunn-peter-safran-fired-dc-jeremy-latcham-1236943091/",
+  "skip:https://variety.com/2026/film/global/jonathan-bailey-gay-romance-film-insomniac-city-1236943109/",
+  "https://deadline.com/2026/11/dc-studios-james-gunn-peter-safran-leaving-1237217374/",
+  "title:DC Studios Shakeup: James Gunn & Peter Safran Out, Former Marvel Exec Jeremy Latcham In"
 ]

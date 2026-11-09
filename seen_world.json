@@ -1,11 +1,4 @@
 [
-  "skip:https://www.aljazeera.com/news/2026/11/4/is-trump-really-a-lame-duck-after-losing-both-houses-of-us-congress?traffic_source=rss",
-  "skip:https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa19fZ0FrSFljZ2xPQlpBRmJ4NUFwcGZfME5lOGRNYnVKb2dtdldILTNDRHBwM3c1YzRiWVpXVUY1c3NzWVlINHAweEFjTUNaeTZwNjc3Q2swM2U4ZEk3SWJvdHJkVEQ4dUU4WEFnaEhoMDFONGhSd1I3TkthSkRmbWtQUzRBRjRuNGprcEEweUJTb3RXRktwaHZKMVlEM1RyaGZTVUluX3o5dXRlcElQVS1XVVVuTlE2?oc=5",
-  "skip:https://www.france24.com/en/video/20261104-how-trump-s-broken-promises-on-war-inflation-handed-democrats-the-midterms",
-  "https://www.aljazeera.com/video/newsfeed/2026/11/4/democratic-voters-celebrate-el-sayeds-michigan-win-in-election-blue?traffic_source=rss",
-  "skip:https://tass.ru/sport/28286551",
-  "skip:https://www.rbc.ru/sport/04/11/2026/6aeb489cad92f541df16cfeb",
-  "skip:https://ria.ru/20261104/iihf-2129218605.html",
   "skip:https://www.aljazeera.com/sports/2026/11/4/ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia?traffic_source=rss",
   "skip:https://ria.ru/20261104/bolshunov-2129216091.html",
   "https://ria.ru/20261104/vyalbe-2129223305.html",
@@ -998,5 +991,12 @@
   "skip:https://www.rbc.ru/politics/09/11/2026/6af1afa700cbe68dae3d2e42",
   "skip:https://tass.ru/politika/28298947",
   "https://tass.ru/politika/28298979",
-  "title:Лавров назвал темы и участников предстоящих трехсторонних переговоров в Абу-Даби"
+  "title:Лавров назвал темы и участников предстоящих трехсторонних переговоров в Абу-Даби",
+  "skip:https://news.google.com/rss/articles/CBMinwFBVV95cUxNdTU3SXVhdzhXRTl5T3ZvTVlYWGlDZ0NwQk44N1MxbkdaSHN3bTZhbTZCX3Y5Q3NsaTNBX09SRDhLZkU4S1lzaDNkVjFuWElNajVLbkpucUk2ckNnbDdPbDdFNFVzY2VzY2JoUE1IV0VUVkhLS283WDBtT2pPMzBUNzBXZldVN0NkR1otcGYwbVZ3RkhRUzlmRHRmNFIxSGs?oc=5",
+  "https://tass.ru/politika/28299143",
+  "title:Канада объявила о новых санкциях против России",
+  "skip:https://ria.ru/20261109/turtsiya-2130342749.html",
+  "skip:https://news.google.com/rss/articles/CBMiogFBVV95cUxPaklVUVlCdlJqUWJRWHNPMER0X1VWQkhLTkdvU2RhaExRSTFlVHJPVEg2MTBKYzRQN0JtSlQ5VWpyNWxxU0dtQ2NkYURUZ3BYekM3N1VfVkZFTHNkMk5QakVpbi1PckoyeGc1MU9MdnFYc2ZRaE95YVkyOTBrM1VSc1lsdVZub0ZoQXVMdWlObUI3bUFEbFZyQTB3TVRpZjU4MGc?oc=5",
+  "skip:https://www.kommersant.ru/doc/9092807",
+  "https://tass.ru/proisshestviya/28299085"
 ]

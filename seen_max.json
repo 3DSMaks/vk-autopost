@@ -1,7 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/david-hayter-opens-up-about-his-huge-lost-planet-movie-that-never-got-made",
-  "https://gamemag.ru/news/201858/arrowhead-studios-ne-rabotayut-nad-helldivers-3-vse-sily-brosheny-na-podderjku-helldivers-2",
-  "title:Helldivers 3 не находится в разработке",
   "skip:https://www.playground.ru/misc/news/discord_sdelaet_obsuzhdeniya_s_publichnyh_serverov_dostupnymi_v_poiskovyh_sistemah-1885541#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.pcgamer.com/software/platforms/messages-in-certain-large-public-discord-servers-will-be-searchable-on-the-web-after-december/",
   "https://www.playground.ru/crimson_desert/news/dlya_syuzhetnyh_dopolnenij_crimson_desert_potrebuetsya_projti_osnovnuyu_kampaniyu-1885543#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +995,8 @@
   "skip:https://gamemag.ru/news/202043/izmena-i-kitayskaya-razvedchica-glava-nvidia-ugodil-v-shpionskiy-skandal",
   "skip:https://gamemag.ru/news/202036/dark-outlaw-games-doom-inspired-game",
   "https://www.playground.ru/gta_6/news/rockstar_ustroit_festival_gta_6_v_majami_s_trevisom_skottom_kardi_bi_i_drugimi_zvyozdami-1889153#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Rockstar устроит фестиваль GTA 6 в Майами с Трэвисом Скоттом, Карди Би и другими звёздами"
+  "title:Rockstar устроит фестиваль GTA 6 в Майами с Трэвисом Скоттом, Карди Би и другими звёздами",
+  "skip:https://kg-portal.ru/comments/135718-robert-pattinson-idenzel-vashington-planirujut-ograblenie-napervyh-kadrah-trillera-zahvat/",
+  "https://deadline.com/2026/11/ariana-grande-jimmy-fallon-tonight-show-focker-in-law-1237217250/",
+  "title:Ariana Grande Crashes Jimmy Fallon’s Monologue With ‘Focker-In-Law’s Ben Stiller & Robert De Niro"
 ]

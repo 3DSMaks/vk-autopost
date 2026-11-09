@@ -1,6 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/201873/dune-part-three-final-trailer",
-  "skip:https://www.ign.com/articles/capcom-celebrates-record-sales-in-first-half-of-2027-fiscal-year-with-overwhelming-majority-being-digital-purchases",
   "skip:https://stopgame.ru/newsdata/73307/don_t_nod_grozyat_massovye_uvolneniya_i_bankrotstvo",
   "https://gamemag.ru/news/201874/cyberpunk-2-multiplayer-coming",
   "video:2026-10-28:https://gamemag.ru/news/201874/cyberpunk-2-multiplayer-coming",
@@ -998,5 +996,7 @@
   "title:Предзагрузка GTA 6 стартовала в Новой Зеландии на PS5 — с каждым часом она будет доступна во всё новых регионах",
   "skip:https://www.ign.com/articles/gta-6-metadata-ray-tracing-improvements-on-ps5-pro",
   "https://stopgame.ru/newsdata/73422/obschaya_auditoriya_serii_death_stranding_pereshagnula_za_28_mln_igrokov",
-  "title:Общая аудитория серии Death Stranding перешагнула за 28 млн игроков"
+  "title:Общая аудитория серии Death Stranding перешагнула за 28 млн игроков",
+  "https://deadline.com/2026/11/carrie-anne-moss-halsey-replacer-1237217224/",
+  "title:Carrie-Anne Moss Joins Halsey In Psycho-Sexual Horror ‘Replacer’"
 ]

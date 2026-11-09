@@ -1,9 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/",
-  "skip:https://www.pcgamer.com/games/action/phantom-blade-zero-vs-onimusha-way-of-the-sword/",
-  "skip:https://gamemag.ru/news/201872/prigotovte-svoy-klinok-startovala-predzagruzka-phantom-blade-zero",
-  "https://www.ign.com/articles/resident-evil-executive-producer-says-the-series-story-could-end-in-the-next-10-years",
-  "title:Resident Evil Executive Producer Says the Series' Story Could End 'In the Next 10 Years'",
   "skip:https://www.igromania.ru/news/169577/osnovnaya-istoriya-igr-resident-evil-mozhet-zavershitsya-v-techenie-sleduyuschih-10-let/",
   "skip:https://www.igromania.ru/news/169574/ne-bojtes-kontsa-prizyivaet-poslednij-trejler-novoj-dyunyi-s-zendeej-pattinsonom-i-chervyami/",
   "skip:https://www.igromania.ru/news/169572/garri-potteru-iz-novogo-seriala-nashli-mamu-i-papu-a-ronu-uizli-eschyo-odnogo-brata/",
@@ -998,5 +993,10 @@
   "title:Nicholas Denton, Hugh Bonneville and Tim Downie Board Elevated Folk Horror ‘Tragedy Man: The Making of Michael Reeves’ (EXCLUSIVE)",
   "skip:https://www.film.ru/news/stiven-spilberg-snimet-pervyy-vestern",
   "https://www.film.ru/news/finish-semok-cherez-ternii-k-zvezdam",
-  "title:Финиш съемок Через тернии к звездам"
+  "title:Финиш съемок Через тернии к звездам",
+  "skip:https://www.playground.ru/gta_6/news/v_chest_gta_6_vypustyat_eksklyuzivnuyu_kurtku_za_2500_funtov_sterlingov-1889102#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169808/remejk-the-legend-of-zelda-ocarina-of-time-smestil-expedition-33-s-mesta-samoj-vyisokootsenyonnoj-igryi-na-metacritic/",
+  "skip:https://www.ign.com/articles/selfridges-gta-6-takeover-varsity-jacket",
+  "https://www.igromania.ru/news/169806/predzagruzka-gta-6-startovala-v-novoj-zelandii-na-ps5-s-kazhdyim-chasom-ona-budet-dostupna-vo-vsyo-novyih-regionah/",
+  "title:Предзагрузка GTA 6 стартовала в Новой Зеландии на PS5 — с каждым часом она будет доступна во всё новых регионах"
 ]

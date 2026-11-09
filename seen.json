@@ -1,8 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135560-gorjachij-hokkeist-konnor-storri-zabil-v-vorota-marvel-aktera-mogut-vzjat-v-prizrachnogo-gonschika-s-rajanom-goslingom/",
-  "https://www.film.ru/articles/10-glavnyh-serialov-noyabrya-3",
-  "title:10 главных сериалов ноября",
-  "https://variety.com/2026/film/markets-festivals/guitar-wolf-rocks-back-wild-zero-overdrive-tokyo-market-1236932518/",
   "title:Punk Band Guitar Wolf Rocks Back Into Takeuchi Tetsuro’s ‘Wild Zero Overdrive’ at Tokyo Gap-Financing Market",
   "https://variety.com/2026/film/markets-festivals/ancestral-memory-ai-nepali-drama-shirjara-tokyo-market-1236932531/",
   "title:Ancestral Memory Meets AI in Himalayan Drama ‘Shirjara: Song of Grandmother’ at Tokyo Gap-Financing Market",
@@ -998,5 +994,9 @@
   "https://variety.com/2026/film/news/gangs-of-london-director-kim-hong-sun-korean-action-film-hit-list-1236942835/",
   "title:‘Gangs of London’ Director Kim Hong-sun Shoots Korean Martial Arts Action Film ‘The Hit List’ With Jung Woo-sung, ‘Squid Game’ Star Wi Ha-jun",
   "https://www.kinonews.ru/news_144060/",
-  "title:Голлум из \"Властелина колец\" лишил Эди Серкиса сна"
+  "title:Голлум из \"Властелина колец\" лишил Эди Серкиса сна",
+  "skip:https://www.kinonews.ru/news_144063/",
+  "skip:https://www.film.ru/news/drayver-ne-vernetsya-k-devochkam",
+  "https://variety.com/2026/film/news/twice-this-is-for-you-bleecker-street-crosswalk-upcg-1236942090/",
+  "title:K-Pop Concert Film ‘Twice: This Is For… You’ Acquired by Bleecker Street’s Crosswalk and Universal Pictures International"
 ]

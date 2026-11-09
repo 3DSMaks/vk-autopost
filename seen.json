@@ -1,11 +1,4 @@
 [
-  "skip:https://variety.com/2026/film/markets-festivals/horror-land-of-jinn-first-indonesia-kyrgyzstan-co-production-1236932567/",
-  "skip:https://variety.com/2026/film/markets-festivals/acrobatic-pastor-drama-trinity-tokyo-gap-financing-market-1236932480/",
-  "https://deadline.com/2026/10/william-shatner-walter-koenig-death-star-trek-1237206821/",
-  "title:William Shatner Remembers ‘Star Trek’ Co-Star Walter Koenig",
-  "skip:https://www.film.ru/news/remeyk-ptic-hichkoka-na-hbo",
-  "https://www.film.ru/news/spisok-nominantov-gotema-2026",
-  "title:Список номинантов Готэма-2026",
   "skip:https://deadline.com/2026/10/ida-documentary-awards-2026-shortlists-1237206811/",
   "https://deadline.com/2026/10/dancing-with-the-stars-recap-season-35-horror-halloween-1237206671/",
   "title:‘Dancing With The Stars’ Recap: 2 Couples Are Sent Packing On Horror Movie Night After Routines Inspired By ‘Sinners,’ ‘The Omen’ & More",
@@ -998,5 +991,12 @@
   "title:Nicola Coughlan Says Society Not Doing Enough To Tackle Toxic Masculinity On Eve Of Launch Of Powerful Channel 4 Drama ‘I Am Helen’",
   "skip:https://kg-portal.ru/comments/135712-idris-elba-sygraet-i-snimet-veselyj-ekshen-o-proshtrafivshemsja-specialnom-agente/",
   "https://deadline.com/2026/11/itv-the-blame-international-deals-fifth-season-1237215391/",
-  "title:Fifth Season Secures Euro Deals For ITV Drama ‘The Blame’"
+  "title:Fifth Season Secures Euro Deals For ITV Drama ‘The Blame’",
+  "skip:https://deadline.com/2026/11/jeff-goldblum-john-turturro-marrakech-honors-1237215686/",
+  "skip:https://variety.com/2026/film/global/jeff-goldblum-john-turturro-marrakech-conversations-1236942335/",
+  "skip:https://variety.com/2026/film/markets-festivals/anthony-chen-somewhere-in-the-south-taiwan-pitch-award-1236942939/",
+  "skip:https://deadline.com/2026/11/somewhere-in-the-south-saga-tccf-pitching-taicca-cnc-1237217100/",
+  "skip:https://kg-portal.ru/comments/135713-nedelja-kino-na-kg-glavnye-novosti-28-nojabrja/",
+  "https://www.film.ru/news/uvidet-vse-na-premii-vybor-kritikov",
+  "title:Увидеть все на премии Выбор критиков"
 ]

@@ -1,11 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28294503",
-  "https://www.rbc.ru/politics/07/11/2026/6aeee3019a7947193114b3b2",
-  "title:Финляндия рассматривает возможность создания противотанковых заграждений на границе с Россией",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28294525",
-  "https://www.interfax.ru/world/1127557",
-  "title:Катар призвал США и Иран заключить мирное соглашение и опроверг слухи о провале переговоров",
-  "skip:https://tass.ru/obschestvo/28294587",
   "skip:https://tass.ru/info/28294557",
   "skip:https://www.interfax.ru/culture/1127562",
   "skip:https://ria.ru/20261107/fedoseeva-shukshina-2129923996.html",
@@ -998,5 +991,12 @@
   "skip:https://ria.ru/20261110/mid-2130747939.html",
   "skip:https://tass.ru/politika/28304239",
   "https://ria.ru/20261110/mid-2130748998.html",
-  "title:МИД России вызвал посла Молдавии в ответ на объявление сотрудника российского посольства персоной нон грата"
+  "title:МИД России вызвал посла Молдавии в ответ на объявление сотрудника российского посольства персоной нон грата",
+  "skip:https://www.interfax.ru/world/1128140",
+  "https://ria.ru/20261110/pentagon-2130751431.html",
+  "title:Пентагон одобрил строительство постоянной военной базы в Польше",
+  "skip:https://tass.ru/ekonomika/28304249",
+  "skip:https://www.rbc.ru/quote/10/11/2026/6af35216b0e87baaa02b2121",
+  "https://www.kommersant.ru/doc/9094082",
+  "title:Акции Nvidia упали на фоне расследования в отношении гендиректора компании"
 ]

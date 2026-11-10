@@ -1,12 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/phantom-blade-zero-beats-modern-warfare-4-steam-top-selling",
-  "https://www.igromania.ru/news/169609/tirazhi-igr-silent-hill-i-metal-gear-uvelichilis-eschyo-na-14-mln-i-13-mln-kopij-sootvetstvenno/",
-  "title:Тиражи игр Silent Hill и Metal Gear увеличились ещё на 1,4 млн и 1,3 млн копий соответственно",
-  "skip:https://www.playground.ru/misc/news/moshenniki_rasprostranyayut_vredonosnoe_po_pod_vidom_emulyatorov_ps5_dlya_pk-1885925#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.ign.com/articles/scammers-are-taking-advantage-of-hype-for-ps5-emulators-by-tricking-gamers-into-downloading-malware",
-  "https://gamemag.ru/news/201880/cronos-lazarus-release-date-december",
-  "title:Названа дата выхода дополнения Cronos: Lazarus для Cronos: The New Dawn от создателей ремейка Silent Hill 2",
-  "https://deadline.com/2026/10/the-diplomat-renewed-season-5-netflix-1237207664/",
   "title:‘The Diplomat’ Renewed For Season 5 At Netflix",
   "skip:https://www.film.ru/news/mstiteli-sudnyy-den-hit-predprodazh",
   "skip:https://www.film.ru/news/golodnye-igry-rassvet-zhatvy-pokazhet-silnyy-start",
@@ -998,5 +990,13 @@
   "https://www.kinonews.ru/news_144082/",
   "title:Джейсон Момоа рассказал о возрождении Дункана Айдахо в \"Дюне 3\"",
   "https://www.kinonews.ru/news_144083/",
-  "title:Netflix нашел Эдварда и Беллу для новой версии \"Сумерек\""
+  "title:Netflix нашел Эдварда и Беллу для новой версии \"Сумерек\"",
+  "skip:https://www.playground.ru/gta_6/news/vershina_marketinga_igroki_iskali_pashalku_v_novom_mini_trejlere_gta_6_a_nashli_koe_chto_sovsem_drugoe-1889477#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/gta_6/news/novyj_trejler_grand_theft_auto_6_posvyatili_osobennostyam_versii_dlya_playstation_5-1889472#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/i-feel-better-than-ever-waiting-for-gta-6-on-pc-now-rockstar-confirms-its-targeting-30-fps-on-playstation-and-xbox/",
+  "skip:https://stopgame.ru/newsdata/73440/gta_vi_budet_rabotat_na_konsolyah_v_30_fps",
+  "skip:https://www.ign.com/articles/gta-6-preloads-are-now-available-ps5-xbox",
+  "skip:https://www.ign.com/articles/gta-6-will-run-at-30fps-on-all-consoles-features-ray-tracing-improvements-on-ps5-pro",
+  "https://www.playground.ru/marvel_rivals/news/razrabotchiki_marvel_rivals_vypustili_trejler_11_go_sezona_novym_geroem_igry_stanet_nochnoj_zmej-1889480#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Разработчики Marvel Rivals выпустили трейлер 11-го сезона: новым героем игры станет Ночной Змей"
 ]

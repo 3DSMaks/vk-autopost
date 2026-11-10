@@ -1,8 +1,4 @@
 [
-  "title:Helldivers 3 не находится в разработке",
-  "skip:https://www.igromania.ru/news/169589/profsoyuz-rasskazal-o-finansovyih-problemah-razrabotchikov-life-is-strange-vampyr-i-aphelion-sokraschenyi-pochti-vse-krome-rukovoditelej/",
-  "skip:https://www.ign.com/articles/life-is-strange-developer-dont-nod-blasted-by-union-employees-over-illegal-management-practices-as-possible-layoffs-loom",
-  "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-is-working-on-a-re-scored-version-of-the-leaked-mass-effect-5-trailer-for-n7-day/",
   "video:2026-10-28:https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-is-working-on-a-re-scored-version-of-the-leaked-mass-effect-5-trailer-for-n7-day/",
   "title:Mass Effect composer Sam Hulick is working on a 're-scored' version of the leaked Mass Effect 5 trailer for N7 Day",
   "skip:https://www.igromania.ru/news/169590/zvezda-zharkogo-sopernichestva-mozhet-syigrat-antagonista-v-prizrachnom-gonschike-s-rajanom-goslingom/",
@@ -998,5 +994,9 @@
   "skip:https://www.pcgamer.com/games/rpg/warhammer-40k-rogue-trader-follow-up-dark-heresy-will-launch-at-the-end-of-january/",
   "skip:https://www.pcgamer.com/games/grand-theft-auto/take-two-expects-to-make-as-much-as-usd3-5-billion-during-the-gta-6-launch-period/",
   "https://www.playground.ru/cyberpunk_2077/news/pikovyj_onlajn_cyberpunk_2077_v_steam_derzhitsya_vyshe_100_tysyach_igrokov_uzhe_tri_nedeli_podryad-1889323#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Пиковый онлайн Cyberpunk 2077 в Steam держится выше 100 тысяч игроков уже три недели подряд"
+  "title:Пиковый онлайн Cyberpunk 2077 в Steam держится выше 100 тысяч игроков уже три недели подряд",
+  "skip:https://www.kinonews.ru/news_144078/",
+  "skip:https://variety.com/2026/film/box-office/ramayana-godzilla-minus-zero-uk-ireland-box-office-1236943753/",
+  "https://www.film.ru/news/finalnyy-treyler-begushchego-po-lezviyu-2099",
+  "title:Финальный трейлер Бегущего по лезвию 2099"
 ]

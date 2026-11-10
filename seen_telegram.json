@@ -1,10 +1,4 @@
 [
-  "https://www.film.ru/news/na-sozdatelya-ostavlennyh-podali-v-sud",
-  "title:На создателя «Оставленных» подали в суд",
-  "https://www.kinonews.ru/article_143873/",
-  "title:Фильм \"Отступники\". Ирландский напиток 20-летней выдержки",
-  "skip:https://www.playground.ru/phantom_blade_zero/news/dlya_phantom_blade_zero_uzhe_vyshli_pervye_mody_s_podderzhkoj_nvidia_dlss_5_i_nastrojkami_slozhnosti-1885910#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.ign.com/articles/phantom-blade-zero-beats-modern-warfare-4-steam-top-selling",
   "skip:https://www.igromania.ru/news/169611/phantom-blade-zero-v-steam-privlekla-438-000-igrokov-na-pike-v-otzyivah-sporyat-o-slozhnosti/",
   "https://gamemag.ru/news/201891/nearly-1-in-3-u-s-console-and-pc-gamers-plan-to-buy-grand-theft-auto-vi-setting-a-new-industry",
   "video:2026-10-29:https://gamemag.ru/news/201891/nearly-1-in-3-u-s-console-and-pc-gamers-plan-to-buy-grand-theft-auto-vi-setting-a-new-industry",
@@ -998,5 +992,11 @@
   "skip:https://www.ign.com/articles/gta-6-preloads-are-now-available-ps5-xbox",
   "skip:https://www.ign.com/articles/gta-6-will-run-at-30fps-on-all-consoles-features-ray-tracing-improvements-on-ps5-pro",
   "https://www.igromania.ru/news/169845/gta-6-stala-samoj-predzakazyivaemoj-igroj-v-playstation-store-i-microsoft-store/",
-  "title:GTA 6 стала самой предзаказываемой игрой в PlayStation Store и Microsoft Store"
+  "title:GTA 6 стала самой предзаказываемой игрой в PlayStation Store и Microsoft Store",
+  "skip:https://www.playground.ru/gta_6/news/novyj_trejler_grand_theft_auto_6_posvyatili_osobennostyam_versii_dlya_playstation_5-1889472#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/i-feel-better-than-ever-waiting-for-gta-6-on-pc-now-rockstar-confirms-its-targeting-30-fps-on-playstation-and-xbox/",
+  "skip:https://stopgame.ru/newsdata/73440/gta_vi_budet_rabotat_na_konsolyah_v_30_fps",
+  "skip:https://www.igromania.ru/news/169842/pubg-oboshla-call-of-duty-modern-warfare-4-i-phantom-blade-zero-vernuv-sebe-liderstvo-v-chartah-steam/",
+  "https://www.playground.ru/gta_6/news/vershina_marketinga_igroki_iskali_pashalku_v_novom_mini_trejlere_gta_6_a_nashli_koe_chto_sovsem_drugoe-1889477#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Вершина маркетинга: игроки искали пасхалку в новом мини трейлере GTA 6, а нашли кое-что совсем другое"
 ]

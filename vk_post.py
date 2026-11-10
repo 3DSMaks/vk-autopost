@@ -10,6 +10,7 @@ from pathlib import Path
 import re
 import sys
 import time
+from datetime import datetime, timedelta, timezone
 
 import post as news
 import telegram_post as tg
@@ -140,6 +141,17 @@ def stats(pages=3):
         print(f"  {get(p, 'views')} просм., {get(p, 'likes')} лайков: {p.get('text', '')[:70]!r}")
 
 
+MIN_GAP_MINUTES = 80  # пауза между постами: будильник каждые 30 мин, с 10 до 22 выходит ~8 постов в день
+POSTED = 'posted:'     # в истории: posted:<время публикации UTC>
+
+
+def too_soon(seen, now=None):
+    """С прошлого поста прошло меньше MIN_GAP_MINUTES — пропускаем запуск (просьба пользователя: 6–10 постов в день,
+    чтобы авторские клипы не терялись в ленте новостей)."""
+    times = [datetime.fromisoformat(s[len(POSTED):]) for s in seen if s.startswith(POSTED)]
+    return bool(times) and (now or datetime.now(timezone.utc)) - max(times) < timedelta(minutes=MIN_GAP_MINUTES)
+
+
 def main():
     if '--stats' in sys.argv:
         stats()
@@ -149,6 +161,9 @@ def main():
         return
     news.photo_server()  # сначала проверяем право загрузки фото, чтобы не тратить запросы к Gemini
     seen = json.loads(SEEN_FILE.read_text(encoding='utf-8')) if SEEN_FILE.exists() else []
+    if too_soon(seen):
+        print(f'Прошлый пост вышел меньше {MIN_GAP_MINUTES} минут назад — пропускаю запуск')
+        return
     candidates = tg.fresh_for(TOPIC, tg.history_links(seen))
     print('Свежих новостей:', len(candidates))
     if not candidates:
@@ -184,6 +199,7 @@ def main():
     res = news.vk('wall.post', owner_id='-' + news.GROUP_ID, from_group=1, message=message,
                   attachments=','.join(attachments),
                   primary_attachments_mode='carousel' if len(attachments) > 1 else 'grid')
+    seen = seen + [POSTED + datetime.now(timezone.utc).isoformat(timespec='seconds')]
     tg.save_history(SEEN_FILE, seen, pick['link'], skipped, title=pick.get('title'))
     print(f"Опубликовано: https://vk.ru/wall-{news.GROUP_ID}_{res['post_id']} (фото: {len(attachments)})")
 

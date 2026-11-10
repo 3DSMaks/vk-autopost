@@ -65,6 +65,16 @@ class VKPostTests(unittest.TestCase):
         self.assertNotIn('wall.post', [c[0] for c in calls])
         self.assertEqual(seen, ['skip:https://e.com/n'])
 
+    def test_pause_between_posts(self):
+        now = vp.datetime(2026, 11, 10, 12, 0, tzinfo=vp.timezone.utc)
+        self.assertFalse(vp.too_soon([], now))
+        self.assertTrue(vp.too_soon(['posted:2026-11-10T11:00:00+00:00'], now))
+        self.assertFalse(vp.too_soon(['posted:2026-11-10T10:30:00+00:00'], now))
+
+    def test_posted_time_remembered(self):
+        _, seen, _ = self.run_main([b'a'], {'server': 1, 'photo': '[1]', 'hash': 'h'})
+        self.assertTrue(any(s.startswith('posted:') for s in seen))
+
     def test_plain(self):
         self.assertEqual(vp.plain('<b>A &amp; B</b>\n\n<blockquote>— раз</blockquote>'), 'A & B\n\n— раз')
 

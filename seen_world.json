@@ -1,12 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMisgFBVV95cUxOVkpxUWQ1cUFXSEJhbTI5OFNqVGZNOUFIb3ZoY3lZWmdEUHNYMHYwWXowdnNQZ1dlcWJ3dDF5engyV0VaaG1XUEVia2oyTjNJTEgwYUI3VHhCaml6RTdZMEQwbm9YZ1BTcUZjekdhOHhwQ2gwcFI5YkpJcTV2YUQ3WjVWampRdS1SZk5JQXA0WW04OV9ZMzNQcklSTDhIS2IxT3I4OE14VkRBN0huQzhmdktR?oc=5",
-  "skip:https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEJTUU1HSllBRS1hYUxLTGNzSGpQdEwzQVgyUnBnRmdUN1dRdmtUaGxMb2lEVHh2MjBOaUVfQk5Ed0tnaUduaFFxcXhPdnhRa1lCTFNRQjRUWk5URDhJeFVENWNJUUVEUnd4V0J0bDFpY3Z5Y09jc3NpRS0zZk5RVHBHNVlxM0Q0RGFXSExYN1YyRm5CeHdEZ3ZCUFJVV1VT?oc=5",
-  "https://www.france24.com/en/europe/20261107-moscow-strikes-kyiv-as-ukraine-prepares-for-talks-with-russia-and-the-us",
-  "title:Массированный удар нанесен по объектам инфраструктуры в Киеве",
-  "skip:https://www.interfax.ru/russia/1127553",
-  "skip:https://ria.ru/20261107/belgorod-2129906891.html",
-  "https://www.kommersant.ru/doc/9091881",
-  "title:Мирный житель погиб при атаке дрона в Белгородской области",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28294503",
   "https://www.rbc.ru/politics/07/11/2026/6aeee3019a7947193114b3b2",
   "title:Финляндия рассматривает возможность создания противотанковых заграждений на границе с Россией",
@@ -998,5 +990,13 @@
   "title:Инциденты с нефтяными танкерами и судами зафиксированы в Персидском заливе и Ормузском проливе",
   "skip:https://www.kommersant.ru/doc/9094029",
   "https://www.rbc.ru/sport/10/11/2026/6af33c2e420a936dd429993d",
-  "title:Главу ФИФА Джанни Инфантино могут вызвать в Конгресс США из-за связей с Дональдом Трампом"
+  "title:Главу ФИФА Джанни Инфантино могут вызвать в Конгресс США из-за связей с Дональдом Трампом",
+  "skip:https://tass.ru/proisshestviya/28304257",
+  "https://ria.ru/20261110/bespilotniki-2130748888.html",
+  "title:Силы ПВО перехватили 52 украинских беспилотника над российскими регионами",
+  "skip:https://www.rbc.ru/politics/10/11/2026/6af36667d079e0918a676318",
+  "skip:https://ria.ru/20261110/mid-2130747939.html",
+  "skip:https://tass.ru/politika/28304239",
+  "https://ria.ru/20261110/mid-2130748998.html",
+  "title:МИД России вызвал посла Молдавии в ответ на объявление сотрудника российского посольства персоной нон грата"
 ]

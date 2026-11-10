@@ -1,9 +1,4 @@
 [
-  "https://www.playground.ru/gta_6/news/v_set_utekla_pesnya_pusher_iz_saundtreka_gta_6_sovmestnyj_trek_justice_i_gesaffelstein-1885583#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:В сеть утекла песня Pusher из саундтрека GTA 6 - совместный трек Justice и Gesaffelstein",
-  "skip:https://www.film.ru/news/osnovnoy-treyler-begemota-s-paskalem",
-  "skip:https://variety.com/2026/film/news/jennifer-lawrence-katniss-hunger-games-sunrise-on-the-reaping-1236933329/",
-  "skip:https://kg-portal.ru/comments/135565-begemot-trejler/",
   "skip:https://www.film.ru/news/novyy-treyler-dzhumandzhi-otkrytyy-mir",
   "skip:https://www.film.ru/news/lourens-vernetsya-k-golodnym-igram",
   "https://deadline.com/2026/10/star-trek-veteran-actors-reunite-for-sci-fi-life-2-0-1237207071/",
@@ -998,5 +993,10 @@
   "https://www.film.ru/news/redkliff-ne-planiruet-smotret-pottera",
   "title:Рэдклифф не планирует смотреть Поттера",
   "https://www.film.ru/news/vera-farmiga-v-novom-horrore",
-  "title:Вера Фармига в новом хорроре"
+  "title:Вера Фармига в новом хорроре",
+  "skip:https://www.playground.ru/gta_6/news/gta_6_obrushila_servery_playstation_posle_starta_predzagruzki_igroki_massovo_zhaluyutsya_na_sboi_psn-1889378#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169829/finalnyij-trejler-seriala-beguschij-po-lezviyu-2099-ne-pereubedil-skeptikov/",
+  "skip:https://www.ign.com/articles/call-of-duty-facetime-chat-causes-plane-to-be-evacuated",
+  "https://www.playground.ru/silent_hill_2/news/remejk_silent_hill_2_obnovlenie_1_08_zametno_uluchshaet_proizvoditelnost_i_grafiku_na_ps5-1889380#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Ремейк Silent Hill 2: обновление 1.08 заметно улучшает производительность и графику на PS5"
 ]

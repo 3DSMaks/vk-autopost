@@ -1,12 +1,4 @@
 [
-  "skip:https://tass.ru/ekonomika/28293615",
-  "https://ria.ru/20261106/kaluga-2129855559.html",
-  "title:В аэропортах Калуги, Волгограда и Астрахани введены временные ограничения",
-  "skip:https://ria.ru/20261106/rubio-2129854404.html",
-  "skip:https://news.google.com/rss/articles/CBMipgFBVV95cUxNWlZSQm1IUG1uSldQWmZOdmFUOXdETVduVC01clZJSDVjekE1alh2U3YxWGphTkxrTWlBYXlVdjdENWdLR2pldlZmWlpuNXFxclNMQ0R2aXhRc1BjYU8zblhsUFFPMjN0aS1wcjI4MGtzclFoY1NaODhSWHV4WHVYMkVvLWR6dnMya1d1dUItV1hqbXdjNE1EdWt4SXdNM2RZUHIyOHpB?oc=5",
-  "https://tass.ru/mezhdunarodnaya-panorama/28293639",
-  "title:Госсекретарь США Марко Рубио посетит Париж для участия во встрече глав МИД G7",
-  "skip:https://ria.ru/20261106/galaktionov-2129690131.html",
   "skip:https://tass.ru/sport/28293641",
   "skip:https://www.sport-interfax.ru/1127504",
   "skip:https://tass.ru/sport/28293651",
@@ -998,5 +990,13 @@
   "skip:https://tass.ru/proisshestviya/28303955",
   "skip:https://ria.ru/20261110/vsu-2130732813.html",
   "https://www.interfax.ru/russia/1128119",
-  "title:Два человека пострадали при атаке БПЛА на Брянскую область"
+  "title:Два человека пострадали при атаке БПЛА на Брянскую область",
+  "skip:https://www.kommersant.ru/doc/9094000",
+  "skip:https://www.kommersant.ru/doc/9093986",
+  "https://www.theguardian.com/world/2026/nov/10/friedrich-merz-accused-blackmail-ukraine-aid-eu-budget",
+  "title:Премьер Словакии Роберт Фицо обвинил канцлера Германии Фридриха Мерца в шантаже из-за ультиматума по бюджету ЕС и помощи Украине",
+  "skip:https://www.france24.com/en/video/20261110-replay-pentagon-chief-hegseth-holds-news-briefing-amid-impeachment-push",
+  "skip:https://www.france24.com/en/video/20261110-it-s-a-farce-hegseth-slams-impeachment-effort",
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUNXMkxGenZWcWlHclR5OG1zTlBOY1FCaktDemppTUVxd1R6aVdEU0t1Yld1U1h2empESzVJWXJxa0VYREVJenNGbVg4cmdKY3RkYkdwbmdsZGJiWmF2Y280dDYzbjJkcnRWbEp5MjJ3YzlUUEcySW5PcEYydzI4OHJoNWhKSHZvTlhMd3NRMll3VEwxTkpJOWhyUnFQV3dneTVV?oc=5",
+  "title:Глава Пентагона Пит Хегсет назвал попытку объявить ему импичмент политическим фарсом и спектаклем"
 ]

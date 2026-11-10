@@ -1,9 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73320/v_silent_hill_townfall_vveli_promezhutochnyy_uroven_slozhnosti",
-  "skip:https://www.igromania.ru/news/169600/v-silent-hill-townfall-dobavili-novyij-uroven-slozhnosti-i-skorrektirovali-balans-gejmpleya/",
-  "skip:https://www.pcgamer.com/games/action/phantom-blade-zero-quickhand-request-treasure-locations-relics/",
-  "skip:https://www.pcgamer.com/games/action/phantom-blade-zero-four-fierce-axes-walkthrough/",
-  "skip:https://www.pcgamer.com/games/action/phantom-blade-zero-aberrant-three-faced-puppet-triple-threat/",
   "skip:https://www.pcgamer.com/games/action/phantom-blade-zero-crimson-manor-enter/",
   "skip:https://www.pcgamer.com/games/action/phantom-blade-zero-honor-among-thieves-answers-gentle-thief-questions/",
   "skip:https://www.pcgamer.com/games/action/phantom-blade-zero-tips/",
@@ -998,5 +993,10 @@
   "skip:https://www.igromania.ru/news/169829/finalnyij-trejler-seriala-beguschij-po-lezviyu-2099-ne-pereubedil-skeptikov/",
   "skip:https://gamemag.ru/news/202066/oficialno-bandai-namco-zakryvaet-studiyu-vypustivshuyu-unknown-9-awakening",
   "https://www.playground.ru/silent_hill_2/news/remejk_silent_hill_2_obnovlenie_1_08_zametno_uluchshaet_proizvoditelnost_i_grafiku_na_ps5-1889380#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Ремейк Silent Hill 2: обновление 1.08 заметно улучшает производительность и графику на PS5"
+  "title:Ремейк Silent Hill 2: обновление 1.08 заметно улучшает производительность и графику на PS5",
+  "skip:https://www.kinonews.ru/news_144077/",
+  "skip:https://kg-portal.ru/comments/135735-strannye-plany-dzhejmsa-ganna-ne-ustraivali-studiju-sledujuschie-kinokomiksy-po-dc-mozhno-budet-pokazyvat-babushkam-i-dedushkam/",
+  "skip:https://kg-portal.ru/comments/135729-posle-desjatiletnego-pereryva-aleks-projas-otobral-rezhissuru-istoricheskogo-epika-santonio-banderasom-ukakogoto-francuza/",
+  "https://deadline.com/2026/11/matthijs-van-de-sande-bakhuyzen-the-art-of-survival-film-1237218354/",
+  "title:‘The Perfect Lie’ Actor Matthijs Van De Sande Bakhuyzen To Lead AFM-Bound Arctic Thriller ‘The Art Of Survival’"
 ]

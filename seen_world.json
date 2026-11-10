@@ -1,11 +1,4 @@
 [
-  "https://www.rbc.ru/rbcfreenews/6aee1dad2fca64e80dfad819",
-  "title:Умер лауреат премии «Оскар» режиссер Себастьян Лелио",
-  "skip:https://tass.ru/ekonomika/28293649",
-  "skip:https://www.interfax.ru/russia/1127503",
-  "skip:https://ria.ru/20261106/astrahan-2129852588.html",
-  "skip:https://ria.ru/20261106/volgograd-2129852445.html",
-  "skip:https://tass.ru/ekonomika/28293619",
   "skip:https://tass.ru/ekonomika/28293615",
   "https://ria.ru/20261106/kaluga-2129855559.html",
   "title:В аэропортах Калуги, Волгограда и Астрахани введены временные ограничения",
@@ -998,5 +991,12 @@
   "title:В Польше задержали двух граждан Украины по подозрению в шпионаже и поджогах в пользу России",
   "skip:https://www.interfax.ru/business/1128100",
   "https://www.kommersant.ru/doc/9093961",
-  "title:Минфин РФ сообщил, что дефицит федерального бюджета за январь — октябрь составил 5,2 трлн рублей"
+  "title:Минфин РФ сообщил, что дефицит федерального бюджета за январь — октябрь составил 5,2 трлн рублей",
+  "skip:https://www.rbc.ru/politics/10/11/2026/6af337f3b077b4a18bd4fa5e",
+  "https://www.kommersant.ru/doc/9093996",
+  "title:FT: европейские страны готовы обсуждать с Россией вопросы контроля над ракетами",
+  "skip:https://tass.ru/proisshestviya/28303955",
+  "skip:https://ria.ru/20261110/vsu-2130732813.html",
+  "https://www.interfax.ru/russia/1128119",
+  "title:Два человека пострадали при атаке БПЛА на Брянскую область"
 ]

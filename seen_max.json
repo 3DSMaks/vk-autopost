@@ -1,8 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/201881/dead-island-2-i-trilogiya-remasterov-tomb-raider-v-noyabrskoy-podpiske-playstation-plus",
-  "skip:https://gamemag.ru/news/201886/alien-isolation-2-team-confirms-physical-edition-photo-mode-and-new-gameplay-details",
-  "skip:https://www.ign.com/articles/alien-isolation-2-team-confirms-physical-edition-photo-mode-and-new-gameplay-details",
-  "skip:https://stopgame.ru/newsdata/73318/dlc_lazarus_dlya_cronos_the_new_dawn_startuet_3_dekabrya",
   "https://www.igromania.ru/news/169602/alien-isolation-2-napugaet-bolee-umnyim-ksenomorfom-kotoryij-ne-otstanet-ot-vas-dazhe-vne-pomeschenij/",
   "title:Alien: Isolation 2 напугает более умным ксеноморфом, который не отстанет от вас даже вне помещений",
   "skip:https://www.kinonews.ru/news_143879/",
@@ -998,5 +994,9 @@
   "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-times-high-quality-visuals-have-players-second-guessing-decades-of-memories",
   "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-took-away-auto-jump-and-poor-link-is-paying-the-price",
   "https://www.playground.ru/misc/news/glava_take_two_podtverdil_plany_po_vozrozhdeniyu_staryh_igrovyh_franshiz-1889392#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Глава Take-Two подтвердил планы по возрождению старых игровых франшиз"
+  "title:Глава Take-Two подтвердил планы по возрождению старых игровых франшиз",
+  "skip:https://www.kinonews.ru/news_144080/",
+  "skip:https://www.film.ru/news/pervye-otzyvy-na-skrudzha-s-deppom",
+  "https://deadline.com/2026/11/damian-lewis-milly-alcock-arinze-kene-old-vic-1237218376/",
+  "title:Damian Lewis, Milly Alcock & Arinzé Kene Set For Stage Productions At London’s Old Vic"
 ]

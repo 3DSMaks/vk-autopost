@@ -1,8 +1,4 @@
 [
-  "skip:https://www.film.ru/news/novyy-treyler-dzhumandzhi-otkrytyy-mir",
-  "skip:https://www.film.ru/news/lourens-vernetsya-k-golodnym-igram",
-  "https://deadline.com/2026/10/star-trek-veteran-actors-reunite-for-sci-fi-life-2-0-1237207071/",
-  "title:Four ‘Star Trek’ Vets Reunite For Sci-Fi ‘Life 2.0’, OneTwoThree Media Launches AFM Sales; Brit Comedy With Stephen Fry, Jane Horrocks Also On Slate",
   "https://stopgame.ru/newsdata/73309/remedy_pokazala_kak_alan_wake_ii_komichno_lomalas_vo_vremya_razrabotki",
   "title:Remedy показала, как Alan Wake II комично ломалась во время разработки",
   "skip:https://www.film.ru/news/treyler-seriala-gordost-i-predubezhdenie",
@@ -998,5 +994,9 @@
   "skip:https://www.igromania.ru/news/169829/finalnyij-trejler-seriala-beguschij-po-lezviyu-2099-ne-pereubedil-skeptikov/",
   "skip:https://www.ign.com/articles/call-of-duty-facetime-chat-causes-plane-to-be-evacuated",
   "https://www.playground.ru/silent_hill_2/news/remejk_silent_hill_2_obnovlenie_1_08_zametno_uluchshaet_proizvoditelnost_i_grafiku_na_ps5-1889380#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Ремейк Silent Hill 2: обновление 1.08 заметно улучшает производительность и графику на PS5"
+  "title:Ремейк Silent Hill 2: обновление 1.08 заметно улучшает производительность и графику на PS5",
+  "skip:https://www.playground.ru/arc_raiders/news/arc_raiders_razoshlas_tirazhom_17_millionov_kopij_no_prodazhi_igry_zametno_zamedlilis-1889367#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169830/prodazhi-shutera-arc-raiders-prevyisili-17-mln-kopij-v-mae-soobschalos-o-16-mln-kopij/",
+  "https://www.igromania.ru/news/169827/battlefield-6-poluchila-drajvovyij-trejler-sobyitiya-casino-heist/",
+  "title:Battlefield 6 получила драйвовый трейлер события Casino Heist"
 ]

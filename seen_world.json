@@ -1,12 +1,4 @@
 [
-  "skip:https://ria.ru/20261106/putin--2129681114.html",
-  "https://www.interfax.ru/russia/1127410",
-  "title:Владимир Путин провел встречу с секретарем Совбеза Ирана Мохсеном Резаи в Москве",
-  "skip:https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-  "skip:https://www.rbc.ru/rbcfreenews/6aedb22e3eeddcdbc2d938f9",
-  "https://ria.ru/20261106/frantsija-2129709910.html",
-  "title:Во Франции школьный автобус попал в ДТП, погибли два человека",
-  "skip:https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live",
   "skip:https://www.aljazeera.com/news/2026/11/6/hoax-or-bomb-threats-what-we-know-about-flight-disruptions-across-europe?traffic_source=rss",
   "skip:https://tass.ru/proisshestviya/28292453",
   "skip:https://ria.ru/20261106/praga-2129699441.html",
@@ -998,5 +990,13 @@
   "title:В Абу-Даби начались трехсторонние переговоры по Украине с участием России, США и Украины",
   "skip:https://www.kommersant.ru/doc/9093450",
   "https://tass.ru/proisshestviya/28301847",
-  "title:Главный врач частной клиники обнаружена мертвой с признаками насильственной смерти в Новой Москве"
+  "title:Главный врач частной клиники обнаружена мертвой с признаками насильственной смерти в Новой Москве",
+  "skip:https://www.interfax.ru/russia/1128009",
+  "skip:https://www.kommersant.ru/doc/9093534",
+  "skip:https://ria.ru/20261110/svo-2130522480.html",
+  "https://www.rbc.ru/politics/10/11/2026/6af2dfa0bea2f2cdbac37765",
+  "title:Минобороны РФ заявило о взятии под контроль села Никольское в Сумской области",
+  "skip:https://www.kommersant.ru/doc/9093528",
+  "https://tass.ru/mezhdunarodnaya-panorama/28302119",
+  "title:Совет ЕС принял решение впервые разместить миссию по подготовке украинских военных на территории Украины"
 ]

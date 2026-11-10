@@ -1,6 +1,4 @@
 [
-  "skip:https://www.playground.ru/phantom_blade_zero/news/avtory_phantom_blade_zero_sovetuyut_igrokam_otkatit_drajvery_nvidia_svezhaya_versiya_uhudshaet_igrovoj_opyt-1885924#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.pcgamer.com/hardware/phantom-blade-zero-dev-says-dont-get-the-latest-nvidia-drivers/",
   "skip:https://www.ign.com/articles/phantom-blade-zero-beats-modern-warfare-4-steam-top-selling",
   "https://www.igromania.ru/news/169609/tirazhi-igr-silent-hill-i-metal-gear-uvelichilis-eschyo-na-14-mln-i-13-mln-kopij-sootvetstvenno/",
   "title:Тиражи игр Silent Hill и Metal Gear увеличились ещё на 1,4 млн и 1,3 млн копий соответственно",
@@ -998,5 +996,7 @@
   "skip:https://variety.com/2026/film/news/jeremy-latcham-dc-studios-boss-1236943971/",
   "skip:https://variety.com/2026/film/box-office/ramayana-dil-se-indian-cinema-rise-uk-ireland-box-office-1236943778/",
   "https://www.kinonews.ru/news_144082/",
-  "title:Джейсон Момоа рассказал о возрождении Дункана Айдахо в \"Дюне 3\""
+  "title:Джейсон Момоа рассказал о возрождении Дункана Айдахо в \"Дюне 3\"",
+  "https://www.kinonews.ru/news_144083/",
+  "title:Netflix нашел Эдварда и Беллу для новой версии \"Сумерек\""
 ]

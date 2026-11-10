@@ -1,9 +1,4 @@
 [
-  "https://ria.ru/20261107/lidiya-shukshina-2129930528.html",
-  "skip:https://tass.ru/armiya-i-opk/28294547",
-  "https://www.interfax.ru/world/1127565",
-  "title:В восточной части Ормузского пролива загорелся нефтяной танкер",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28294649",
   "skip:https://ria.ru/20261107/iran-2129929136.html",
   "https://www.kommersant.ru/doc/9091915",
   "title:Иран снял ограничения на дальность полета ракет",
@@ -998,5 +993,10 @@
   "title:Лидер французской «Реконкисты» Эрик Земмур объявил об участии в президентских выборах",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28304391",
   "https://ria.ru/20261111/sekretar-2130759761.html",
-  "title:ТАСС и РИА Новости: Дональд Трамп рассматривает Бена Фергюсона на пост пресс-секретаря Белого дома"
+  "title:ТАСС и РИА Новости: Дональд Трамп рассматривает Бена Фергюсона на пост пресс-секретаря Белого дома",
+  "skip:https://www.interfax.ru/russia/1128152",
+  "skip:https://www.rbc.ru/rbcfreenews/6af37f16674754b263b82347",
+  "skip:https://ria.ru/20261110/gintsburg-2130756602.html",
+  "https://www.kommersant.ru/doc/9094100",
+  "title:Владимир Путин присвоил научному руководителю Центра Гамалеи Александру Гинцбургу звание Героя Труда"
 ]

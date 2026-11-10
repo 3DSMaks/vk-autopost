@@ -1,10 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9091568",
-  "title:Совет директоров «Роснефти» рекомендовал промежуточные дивиденды",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28293617",
-  "https://ria.ru/20261106/usa-2129851654.html",
-  "title:Стивен Миллер назначен новым главой аппарата Белого дома",
-  "skip:https://tass.ru/kultura/28293563",
   "https://www.rbc.ru/rbcfreenews/6aee1dad2fca64e80dfad819",
   "title:Умер лауреат премии «Оскар» режиссер Себастьян Лелио",
   "skip:https://tass.ru/ekonomika/28293649",
@@ -998,5 +992,11 @@
   "title:Роберт Фицо ответил на угрозы Фридриха Мерца по вопросу кредита для Украины и бюджета ЕС",
   "skip:https://ria.ru/20261110/sud-2130704422.html",
   "https://www.interfax.ru/russia/1128092",
-  "title:В Крыму суд приговорил мужчину к 20 годам колонии за госизмену и съемку антироссийского фильма"
+  "title:В Крыму суд приговорил мужчину к 20 годам колонии за госизмену и съемку антироссийского фильма",
+  "skip:https://www.rbc.ru/politics/10/11/2026/6af31d5eb5ef8c893e1e2f94",
+  "https://www.aljazeera.com/news/2026/11/10/why-is-india-trying-to-broker-a-russia-ukraine-black-sea-food-corridor?traffic_source=rss",
+  "title:В Польше задержали двух граждан Украины по подозрению в шпионаже и поджогах в пользу России",
+  "skip:https://www.interfax.ru/business/1128100",
+  "https://www.kommersant.ru/doc/9093961",
+  "title:Минфин РФ сообщил, что дефицит федерального бюджета за январь — октябрь составил 5,2 трлн рублей"
 ]

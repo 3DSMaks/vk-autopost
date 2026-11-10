@@ -1,13 +1,4 @@
 [
-  "https://www.rbc.ru/photoreport/07/11/2026/6acf3c8f7a3d6c5b9263699c",
-  "title:Умерла народная артистка РСФСР Лидия Федосеева-Шукшина",
-  "skip:https://www.interfax.ru/russia/1127561",
-  "skip:https://www.interfax.ru/russia/1127559",
-  "skip:https://ria.ru/20261107/pvo-2129921446.html",
-  "https://www.kommersant.ru/doc/9091896",
-  "title:Минобороны РФ заявило об уничтожении более 900 беспилотников ВСУ за сутки",
-  "skip:https://ria.ru/20261107/blinovskiy-2129915077.html",
-  "skip:https://ria.ru/20261107/evropa-2129910359.html",
   "https://www.rbc.ru/rbcfreenews/6aeedefef3661cce82967e3c",
   "title:В Германии прошли предупредительные забастовки металлургов и электротехников",
   "skip:https://ria.ru/20261107/ukraina-2129918183.html",
@@ -998,5 +989,14 @@
   "title:В Британии арестовали военнослужащего США по подозрению в шпионаже в пользу России",
   "skip:https://tass.ru/proisshestviya/28304303",
   "https://www.interfax.ru/world/1128149",
-  "title:В Великобритании задержали американского военнослужащего по подозрению в шпионаже"
+  "title:В Великобритании задержали американского военнослужащего по подозрению в шпионаже",
+  "skip:https://www.rbc.ru/politics/10/11/2026/6af37aa871b128ad26cdc164",
+  "https://www.france24.com/en/europe/20261110-us-soldier-arrested-in-britain-on-suspicion-of-assisting-russian-intelligence",
+  "title:В Великобритании задержали американского военнослужащего по подозрению в шпионаже в пользу России",
+  "skip:https://www.kommersant.ru/doc/9094092",
+  "skip:https://www.interfax.ru/world/1128148",
+  "skip:https://www.rbc.ru/politics/10/11/2026/6af369f9069e041e6b1ac105",
+  "skip:https://ria.ru/20261110/kushner-2130749359.html",
+  "https://ria.ru/20261110/peregovory-2130756215.html",
+  "title:Участники трехсторонних переговоров по Украине в Абу-Даби подвели итоги первого дня"
 ]

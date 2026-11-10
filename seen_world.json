@@ -1,12 +1,4 @@
 [
-  "skip:https://tass.ru/info/28294557",
-  "skip:https://www.interfax.ru/culture/1127562",
-  "skip:https://ria.ru/20261107/fedoseeva-shukshina-2129923996.html",
-  "skip:https://ria.ru/20261107/shukshina-2129923858.html",
-  "skip:https://www.rbc.ru/rbcfreenews/6aeee9ad867e39a5978d25b2",
-  "skip:https://www.kommersant.ru/doc/9091892",
-  "skip:https://tass.ru/kultura/28294551",
-  "skip:https://ria.ru/20261107/shukshina-2129921760.html",
   "https://www.rbc.ru/photoreport/07/11/2026/6acf3c8f7a3d6c5b9263699c",
   "title:Умерла народная артистка РСФСР Лидия Федосеева-Шукшина",
   "skip:https://www.interfax.ru/russia/1127561",
@@ -998,5 +990,13 @@
   "skip:https://tass.ru/ekonomika/28304249",
   "skip:https://www.rbc.ru/quote/10/11/2026/6af35216b0e87baaa02b2121",
   "https://www.kommersant.ru/doc/9094082",
-  "title:Акции Nvidia упали на фоне расследования в отношении гендиректора компании"
+  "title:Акции Nvidia упали на фоне расследования в отношении гендиректора компании",
+  "skip:https://www.theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire",
+  "skip:https://news.google.com/rss/articles/CBMirwFBVV95cUxQT0hNNGY0T0RDZVBLMGZlOW5iREJOMXN2VEt6VGV4aEo4Y2JoejZOa3VJMXJicWRvaUtnNE9pTG5iMzNfbGlpQjZPRVc0SW9zV0xiYjJJLU4wTW9OY25oUE5uMkkwRkxtd2NlOUZrVnJlVUVPX1ozcDdmVlNwbEh2WWxqSmNvRWZvTDF4X25jWURpUzFHUFAxWkNvUUtYbnhuLWdKZFIxMWxLS2tfWUY4?oc=5",
+  "skip:https://news.google.com/rss/articles/CBMimwFBVV95cUxPUE1BdG9yN2hIRmJMbEFZdlEzZi1fUWpETU5WYU44WjJJZEJBTWYxNFF6X1pkSmVQUU1KbnRLWlJuMk9JTjZEd2VScHdHZGMxQTQ0bDgxclBIdmZqWVVPWFlzTjFBM3lUR0lWN04tZ0FfTlY1UTR5eHgya3VRVVQwTy0xZ1h4ZXNpWWI0ZXQ4V0V0WEN3OHlETTE0Zw?oc=5",
+  "https://www.kommersant.ru/doc/9094095",
+  "title:В Британии арестовали военнослужащего США по подозрению в шпионаже в пользу России",
+  "skip:https://tass.ru/proisshestviya/28304303",
+  "https://www.interfax.ru/world/1128149",
+  "title:В Великобритании задержали американского военнослужащего по подозрению в шпионаже"
 ]

@@ -1,8 +1,4 @@
 [
-  "skip:https://deadline.com/2026/10/matsuoka-hiro-toho-godzilla-minus-one-united-states-1237207973/",
-  "https://www.film.ru/news/operator-la-la-lenda-budet-v-marvel",
-  "title:Оператор «Ла-Ла Ленда» будет в Marvel",
-  "skip:https://www.film.ru/news/dzheymi-dornan-rasskazal-o-stresse-iz-za-roli-aragorna",
   "https://www.film.ru/news/na-sozdatelya-ostavlennyh-podali-v-sud",
   "title:На создателя «Оставленных» подали в суд",
   "https://www.kinonews.ru/article_143873/",
@@ -998,5 +994,9 @@
   "skip:https://www.pcgamer.com/hardware/handheld-gaming-pcs/steam-now-lets-you-see-exactly-what-frame-rate-you-should-get-in-games-using-a-steam-deck/",
   "skip:https://stopgame.ru/newsdata/73435/v_eshop_skoro_poyavitsya_vozmozhnost_darit_igry_dlya_switch",
   "https://www.playground.ru/call_of_duty_modern_warfare_4/news/call_of_duty_modern_warfare_4_smestila_phantom_blade_zero_i_vozglavila_chart_prodazh_v_steam-1889457#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Call of Duty: Modern Warfare 4 сместила Phantom Blade Zero и возглавила чарт продаж в Steam"
+  "title:Call of Duty: Modern Warfare 4 сместила Phantom Blade Zero и возглавила чарт продаж в Steam",
+  "skip:https://www.ign.com/articles/gta-6-preloads-are-now-available-ps5-xbox",
+  "skip:https://www.ign.com/articles/gta-6-will-run-at-30fps-on-all-consoles-features-ray-tracing-improvements-on-ps5-pro",
+  "https://www.igromania.ru/news/169845/gta-6-stala-samoj-predzakazyivaemoj-igroj-v-playstation-store-i-microsoft-store/",
+  "title:GTA 6 стала самой предзаказываемой игрой в PlayStation Store и Microsoft Store"
 ]

@@ -1,13 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9091463",
-  "title:Еврокомиссия обвинила TikTok в нарушении закона о цифровых услугах из-за алгоритмов",
-  "skip:https://www.interfax.ru/world/1127465",
-  "skip:https://tass.ru/obschestvo/28293129",
-  "skip:https://www.interfax.ru/russia/1127454",
-  "https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic?traffic_source=rss",
-  "title:Новая волна ложных сообщений об угрозах взрыва нарушила работу транспорта и СМИ в Европе",
-  "skip:https://www.kommersant.ru/doc/9091456",
-  "skip:https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
   "https://tass.ru/proisshestviya/28292855",
   "title:Лидер кенийской секты приговорен к длительному тюремному сроку за массовые убийства",
   "skip:https://tass.ru/proisshestviya/28293255",
@@ -998,5 +989,14 @@
   "title:Глава МИД РФ Сергей Лавров заявил, что Россию не будет исключать Армению из ОДКБ",
   "skip:https://www.rbc.ru/society/10/11/2026/6af2da37880b9dc931df6e38",
   "https://tass.ru/obschestvo/28302917",
-  "title:В Польше прошли памятные мероприятия в связи с жертвами стрельбы в Кракове"
+  "title:В Польше прошли памятные мероприятия в связи с жертвами стрельбы в Кракове",
+  "skip:https://tass.ru/politika/28303085",
+  "skip:https://www.interfax.ru/russia/1128066",
+  "skip:https://ria.ru/20261110/peregovory-2130654334.html",
+  "https://www.rbc.ru/politics/10/11/2026/6af30dfa781136ee0dce158c",
+  "title:Трехсторонние переговоры России, США и Украины в Абу-Даби продолжатся в среду",
+  "skip:https://tass.ru/politika/28303057",
+  "skip:https://ria.ru/20261110/peregovory-2130653976.html",
+  "https://www.rbc.ru/rbcfreenews/6af30db201f4b58c238a2c0b",
+  "title:Делегации России и Украины на переговорах в Абу-Даби общаются на русском языке"
 ]

@@ -1,11 +1,4 @@
 [
-  "skip:https://www.playground.ru/phantom_blade_zero/news/dlya_phantom_blade_zero_vyjdet_patch_pervogo_dnya_obyomom_5_gb_ispravlyayuschij_ryad_problem-1885588#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.ign.com/articles/phantom-blade-zero-looks-like-a-hit-before-its-even-come-out-with-an-estimated-1-million-prelaunch-copies-sold",
-  "skip:https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/",
-  "skip:https://www.pcgamer.com/games/action/phantom-blade-zero-vs-onimusha-way-of-the-sword/",
-  "https://www.playground.ru/gta_6/news/v_set_utekla_pesnya_pusher_iz_saundtreka_gta_6_sovmestnyj_trek_justice_i_gesaffelstein-1885583#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:В сеть утекла песня Pusher из саундтрека GTA 6 - совместный трек Justice и Gesaffelstein",
-  "https://www.kinonews.ru/news_143852/",
   "title:Фильм \"Мстители: Судный день\" заработал десятки миллионов до премьеры",
   "skip:https://www.playground.ru/no_mans_sky/news/no_mans_sky_poluchaet_forsaken_s_zhutkimi_modulyami_korvetov_iz_glubin_kosmosa-1885598#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://stopgame.ru/newsdata/73312/avtory_crimson_desert_nazvali_tochnoe_vremya_reliza_dlc_charting_the_unknown",
@@ -998,5 +991,12 @@
   "skip:https://kg-portal.ru/comments/135723-bolshe-nesuper-dzhems-gann-ipiter-safran-snjaty-srukovodstvadc-studios-vmesto-nih-vzjali-novogo-zaslanca-izmarvel/",
   "skip:https://www.kinonews.ru/news_144070/",
   "https://www.film.ru/news/redkliff-ne-planiruet-smotret-pottera",
-  "title:Рэдклифф не планирует смотреть Поттера"
+  "title:Рэдклифф не планирует смотреть Поттера",
+  "skip:https://www.igromania.ru/news/169822/bandai-namco-likvidiruet-studiyu-avtorov-unknown-9-awakening-ekshena-s-aktrisoj-iz-vedmaka/",
+  "skip:https://www.igromania.ru/news/169820/v-metadannyih-gta-6-nashli-sledyi-multipleernogo-rezhima-propavshego-fajla-i-ne-tolko/",
+  "skip:https://gamemag.ru/news/202055/muzyka-gta-vi-rockstar-games-provedet-muzykalnyy-festival-v-mayami",
+  "skip:https://gamemag.ru/news/202049/startovala-predzagruzka-gta-vi-dlya-ps5",
+  "skip:https://gamemag.ru/news/202054/nakazanie-za-supergerl-djeyms-gann-i-piter-safran-bolshe-ne-vozglavlyayut-dc-studios",
+  "https://www.pcgamer.com/games/grand-theft-auto/take-two-expects-to-make-as-much-as-usd3-5-billion-during-the-gta-6-launch-period/",
+  "title:Take-Two expects to make as much as $3.5 billion during the GTA 6 launch period"
 ]

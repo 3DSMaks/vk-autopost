@@ -1,13 +1,4 @@
 [
-  "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/activision_obvinili_v_tsinichnom_ispolzovanii_kadrov_realnoj_korejskoj_tragedii_v_call_of_duty_modern_warfare_4-1885878#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169610/soosnovatel-bioware-schitaet-pokupku-ea-saudovskimi-investorami-poslednim-gvozdyom-v-kryishku-groba-studii/",
-  "skip:https://www.ign.com/articles/bioware-co-founder-speaks-out-on-studio-closure-mass-effect-cancellation",
-  "skip:https://gamemag.ru/news/201890/bioware-employee-says-company-was-asked-to-remove-lgbtq-flag-from-mass-effect-universe",
-  "skip:https://gamemag.ru/news/201885/ea-morale-hits-a-new-low-amid-ai-push-and-bioware-closure-a-cold-dead-place-thats-slowly-decaying",
-  "https://www.ign.com/articles/a-famous-gta-4-meme-is-now-a-mechanic-in-gta-6",
-  "title:A Famous GTA 4 Meme Is Now a Mechanic in GTA 6",
-  "skip:https://www.film.ru/news/parker-finn-ne-snimet-ulybku-3",
-  "https://www.film.ru/news/operator-la-la-lenda-budet-v-marvel",
   "title:Оператор «Ла-Ла Ленда» будет в Marvel",
   "skip:https://www.film.ru/news/dzheymi-dornan-rasskazal-o-stresse-iz-za-roli-aragorna",
   "https://www.kinonews.ru/news_143880/",
@@ -998,5 +989,14 @@
   "skip:https://www.playground.ru/gta_6/news/rockstar_vypustila_novyj_tizer_gta_6_v_rolike_pokazali_svezhie_kadry_pered_skorym_relizom-1889435#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.playground.ru/gta_6/news/po_otsenke_analitikov_sensor_tower_gta_6_stala_samoj_predzakazyvaemoj_igroj_v_istorii_9_millionov_kopij-1889417#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://stopgame.ru/newsdata/73434/prodazhi_nba_2k27_okazalis_nizhe_ozhidaemyh_iz_za_gta_vi_otchet_take_two",
-  "title:Продажи NBA 2K27 оказались ниже ожидаемых из-за GTA VI — отчёт Take-Two"
+  "title:Продажи NBA 2K27 оказались ниже ожидаемых из-за GTA VI — отчёт Take-Two",
+  "skip:https://stopgame.ru/newsdata/73436/sostoyalsya_reliz_warhammer_survivors_klona_vampire_survivors_ot_avtorov_boltgun",
+  "skip:https://www.pcgamer.com/hardware/handheld-gaming-pcs/steam-now-lets-you-see-exactly-what-frame-rate-you-should-get-in-games-using-a-steam-deck/",
+  "skip:https://gamemag.ru/news/202069/vampirov-zamenili-na-imperum-sostoyalsya-reliz-warhammer-survivors",
+  "skip:https://stopgame.ru/newsdata/73435/v_eshop_skoro_poyavitsya_vozmozhnost_darit_igry_dlya_switch",
+  "skip:https://www.igromania.ru/news/169837/razrabotchiki-stellar-blade-otlozhili-prezentatsiyu-project-spirits-na-2027-god/",
+  "skip:https://www.igromania.ru/news/169834/razrabotchiki-indi-hita-big-walk-priznalis-v-ispolzovanii-ii/",
+  "skip:https://www.igromania.ru/news/169833/warhammer-survivors-vyishla-na-konsolyah-mobilnyih-i-pc/",
+  "https://stopgame.ru/newsdata/73438/v_take_two_gotovy_protivostoyat_tem_kto_popytaetsya_perenesti_gta_vi_na_pk_s_pomoschyu_ii",
+  "title:В Take-Two готовы противостоять тем, кто попытается перенести GTA VI на ПК с помощью ИИ"
 ]

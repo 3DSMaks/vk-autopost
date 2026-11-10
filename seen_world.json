@@ -1,8 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9081110",
-  "skip:https://www.interfax.ru/russia/1127232",
-  "https://www.rbc.ru/rbcfreenews/6aec967594076a0133c11b9b",
-  "title:Владимир Путин провел в Кремле встречу с секретарем Совбеза Ирана Мохсеном Резаи",
   "skip:https://www.rbc.ru/society/05/11/2026/6aec714444645bf351561c4f",
   "skip:https://www.aljazeera.com/sports/2026/11/5/why-has-cristiano-ronaldo-retired-from-international-football?traffic_source=rss",
   "skip:https://www.rbc.ru/sport/05/11/2026/6aec92e51b2b2ead74f0fafa",
@@ -998,5 +994,9 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28300493",
   "skip:https://www.interfax.ru/world/1127937",
   "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMWxSRW95b2hyeC00X2Q5VmF0alVielFMcVhtMVFhdFBfRUNmQlAyM3IwUkthb3JDYldrNmhuX1dVXzRRS21LMWNxX2Q2VHN3WGdOSHRyVkVBSVc1UHpIYmVFYjRvUFlIS292a3VPMkljcW5HWVBYVkdpX1ZKSE1qRWs2T21JRm9pcjZVMzRSR0FVZk1fMUs5QlhCTnBFVXpUczJIbW1n?oc=5",
-  "title:В Конгрессе США инициировали процедуру импичмента министра обороны Пита Хегсета"
+  "title:В Конгрессе США инициировали процедуру импичмента министра обороны Пита Хегсета",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28301059",
+  "skip:https://news.google.com/rss/articles/CBMiswFBVV95cUxPNFRRSTBsbG02aEtlczAwSUpUMTd3ZkFRQUp6emg3SHZpclZSTXZiQUl6TWRMUVJuZ0U5T1MtdFhkblNEYWtiN1B5YnBtNnVaSVFyV1NqTk5Jd1g5SHU5eWFjWk45TWVYLUdJbi0zb2R2c2tZMXlvT2tZMVRaUjd1ek51NTFQcWJ2SXpMMkZqZ29UbkRkTWlyNmpleE5aOTJlZ3FDb21FQVRyNlVoalM3MWVUdw?oc=5",
+  "https://www.kommersant.ru/doc/9093308",
+  "title:США вывели самолеты с британской базы из-за угрозы со стороны Ирана"
 ]

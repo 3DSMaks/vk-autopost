@@ -25,6 +25,7 @@ on:
           - check
           - publish
           - inspect
+          - stats
 
 permissions:
   contents: write
@@ -68,6 +69,12 @@ jobs:
               for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && break; sleep 5; done
             fi
           fi
+      - name: Статистика группы (ничего не публикуется)
+        if: github.event_name == 'workflow_dispatch' && inputs.mode == 'stats'
+        env:
+          VK_TOKEN: ${{ secrets.VK_TOKEN }}
+          VK_PHOTO_TOKEN: ${{ env.VK_PHOTO_TOKEN || secrets.VK_PHOTO_TOKEN }}
+        run: python vk_post.py --stats
       - name: Диагностика последних постов (ничего не публикуется)
         if: github.event_name == 'workflow_dispatch' && inputs.mode == 'inspect'
         env:

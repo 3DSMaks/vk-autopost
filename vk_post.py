@@ -105,7 +105,45 @@ def inspect(count=4):
             print(f"   фото {ph['owner_id']}_{ph['id']}: размеров {len(sizes)}, лучший {best.get('width')}x{best.get('height')}, загрузка: {status}")
 
 
+def stats(pages=3):
+    """Статистика группы для оценки (подписчики, частота постов, просмотры, реакции). Ничего не публикует."""
+    from statistics import mean, median
+    from datetime import datetime, timezone
+    group = news.vk('groups.getById', token=news.photo_token(), group_id=news.GROUP_ID, fields='members_count')['groups'][0]
+    posts = []
+    for page in range(pages):
+        items = news.vk('wall.get', token=news.photo_token(), owner_id='-' + news.GROUP_ID, count=100, offset=page * 100)['items']
+        posts += [p for p in items if not p.get('is_pinned')]
+        if len(items) < 100:
+            break
+    if not posts:
+        print('Постов нет')
+        return
+    get = lambda p, k: (p.get(k) or {}).get('count', 0)
+    days = max(1, (posts[0]['date'] - posts[-1]['date']) / 86400)
+    views = [get(p, 'views') for p in posts]
+    react = [get(p, 'likes') + get(p, 'comments') + get(p, 'reposts') for p in posts]
+    first = datetime.fromtimestamp(posts[-1]['date'], timezone.utc).date()
+    print(f"Группа: {group['name']}, подписчиков: {group.get('members_count')}")
+    print(f'Постов: {len(posts)} с {first} ({len(posts) / days:.1f} в день)')
+    print(f'Просмотры: среднее {mean(views):.0f}, медиана {median(views):.0f}, макс {max(views)}')
+    for k in ('likes', 'comments', 'reposts'):
+        vals = [get(p, k) for p in posts]
+        print(f'{k}: среднее {mean(vals):.1f}, медиана {median(vals):.0f}, всего {sum(vals)}')
+    print(f'ER (реакции / просмотры): {sum(react) / max(1, sum(views)) * 100:.2f}%')
+    print(f"ERR (реакции на пост / подписчики): {mean(react) / max(1, group.get('members_count') or 1) * 100:.2f}%")
+    for label, chunk in (('последние 30 постов', posts[:30]), ('первые 30 постов', posts[-30:])):
+        print(f"  {label}: просмотры в среднем {mean(get(p, 'views') for p in chunk):.0f}, "
+              f"лайки {mean(get(p, 'likes') for p in chunk):.1f}")
+    print('Топ-5 по просмотрам:')
+    for p in sorted(posts, key=lambda p: get(p, 'views'), reverse=True)[:5]:
+        print(f"  {get(p, 'views')} просм., {get(p, 'likes')} лайков: {p.get('text', '')[:70]!r}")
+
+
 def main():
+    if '--stats' in sys.argv:
+        stats()
+        return
     if '--inspect' in sys.argv:
         inspect()
         return

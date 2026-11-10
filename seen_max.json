@@ -1,8 +1,4 @@
 [
-  "title:‘The Diplomat’ Renewed For Season 5 At Netflix",
-  "skip:https://www.film.ru/news/mstiteli-sudnyy-den-hit-predprodazh",
-  "skip:https://www.film.ru/news/golodnye-igry-rassvet-zhatvy-pokazhet-silnyy-start",
-  "https://deadline.com/2026/10/marcus-theatres-record-earnings-spider-man-the-odyssey-1237208075/",
   "title:Marcus Theatres Posts Record Q3 Led By ‘Spider-Man’, ‘The Odyssey’ Amid Box Office Boom",
   "https://variety.com/2026/film/news/dune-3-popcorn-bucket-two-sandworms-1236934104/",
   "title:‘Dune 3’ Popcorn Bucket Has Two Sandworms That ‘Make It Easier to Share’",
@@ -998,5 +994,9 @@
   "skip:https://www.ign.com/articles/gta-6-preloads-are-now-available-ps5-xbox",
   "skip:https://www.ign.com/articles/gta-6-will-run-at-30fps-on-all-consoles-features-ray-tracing-improvements-on-ps5-pro",
   "https://www.playground.ru/marvel_rivals/news/razrabotchiki_marvel_rivals_vypustili_trejler_11_go_sezona_novym_geroem_igry_stanet_nochnoj_zmej-1889480#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Разработчики Marvel Rivals выпустили трейлер 11-го сезона: новым героем игры станет Ночной Змей"
+  "title:Разработчики Marvel Rivals выпустили трейлер 11-го сезона: новым героем игры станет Ночной Змей",
+  "skip:https://www.igromania.ru/news/169845/gta-6-stala-samoj-predzakazyivaemoj-igroj-v-playstation-store-i-microsoft-store/",
+  "skip:https://www.ign.com/articles/sony-confirms-gta-6-is-now-the-most-preordered-game-in-playstation-store-history-issues-official-preload-warning",
+  "https://www.ign.com/articles/gta-6-preload-now-trailer-includes-nearly-30-seconds-of-new-footage-swat-team-nightclub-dancing-and-more",
+  "title:GTA 6 'Preload Now' Trailer Includes Nearly 30 Seconds of New Footage — SWAT Team, Nightclub Dancing, and More"
 ]

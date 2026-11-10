@@ -1,9 +1,4 @@
 [
-  "skip:https://tass.ru/sport/28293641",
-  "skip:https://www.sport-interfax.ru/1127504",
-  "skip:https://tass.ru/sport/28293651",
-  "skip:https://www.rbc.ru/sport/06/11/2026/6aee1bc0bd610e42ee88431b",
-  "skip:https://tass.ru/sport/28293627",
   "skip:https://www.kommersant.ru/doc/9091580",
   "skip:https://www.rbc.ru/sport/24/08/2026/6a8ca6c89a79470ae5977622",
   "skip:https://www.sport-interfax.ru/1127500",
@@ -998,5 +993,10 @@
   "skip:https://www.france24.com/en/video/20261110-replay-pentagon-chief-hegseth-holds-news-briefing-amid-impeachment-push",
   "skip:https://www.france24.com/en/video/20261110-it-s-a-farce-hegseth-slams-impeachment-effort",
   "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUNXMkxGenZWcWlHclR5OG1zTlBOY1FCaktDemppTUVxd1R6aVdEU0t1Yld1U1h2empESzVJWXJxa0VYREVJenNGbVg4cmdKY3RkYkdwbmdsZGJiWmF2Y280dDYzbjJkcnRWbEp5MjJ3YzlUUEcySW5PcEYydzI4OHJoNWhKSHZvTlhMd3NRMll3VEwxTkpJOWhyUnFQV3dneTVV?oc=5",
-  "title:Глава Пентагона Пит Хегсет назвал попытку объявить ему импичмент политическим фарсом и спектаклем"
+  "title:Глава Пентагона Пит Хегсет назвал попытку объявить ему импичмент политическим фарсом и спектаклем",
+  "skip:https://tass.ru/politika/28304109",
+  "skip:https://tass.ru/politika/28304103",
+  "skip:https://tass.ru/politika/28304099",
+  "https://www.rbc.ru/rbcfreenews/6af3541dd079e0918a6762e8",
+  "title:Владимир Путин и Александр Лукашенко провели встречу в Ново-Огарево"
 ]

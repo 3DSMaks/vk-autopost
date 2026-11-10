@@ -1,14 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9091558",
-  "skip:https://www.rbc.ru/rbcfreenews/6aee1168e824b280460c969a",
-  "skip:https://www.interfax.ru/russia/1127496",
-  "skip:https://www.rbc.ru/politics/06/11/2026/6aee0eb06378fd4bafbb625e",
-  "skip:https://tass.ru/ekonomika/28293455",
-  "https://ria.ru/20261106/putin-2129843140.html",
-  "title:Владимир Путин подтвердил проведение трехсторонних переговоров по Украине в Абу-Даби 10 ноября",
-  "skip:https://tass.ru/ekonomika/28293463",
-  "skip:https://www.kommersant.ru/doc/9091550",
-  "skip:https://www.rbc.ru/rbcfreenews/6aee09f8e824b280460c968d",
   "skip:https://ria.ru/20261106/gosduma-2129837694.html",
   "https://www.interfax.ru/russia/1127497",
   "title:Правительство РФ внесло в Госдуму законопроект о конвертации пенсионных накоплений в программу долгосрочных сбережений",
@@ -998,5 +988,15 @@
   "skip:https://www.france24.com/en/americas/20261110-live-pentagon-chief-pete-hegseth-calls-move-to-impeach-him-a-farce",
   "skip:https://www.aljazeera.com/news/2026/11/10/pentagon-chief-hegseth-calls-us-house-impeachment-effort-a-farce?traffic_source=rss",
   "https://ria.ru/20261110/glava-2130686444.html",
-  "title:Министр обороны США Пит Хегсет назвал попытку конгрессменов объявить ему импичмент саботажем и фарсом"
+  "title:Министр обороны США Пит Хегсет назвал попытку конгрессменов объявить ему импичмент саботажем и фарсом",
+  "skip:https://ria.ru/20261110/tramp-2130692115.html",
+  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/10/hegseth-promises-to-defend-warriors-as-he-faces-impeachment?traffic_source=rss",
+  "skip:https://news.google.com/rss/articles/CBMirgFBVV95cUxObVFtR2hnZ2luVDdXU010VVB4UVpubVBIbUtJc0ZkQVkzLUkzaWxMRDJKaVVoTVNUbzRyRGQ4ZFh1dUZIUFhRVDRTVVNyZ3FWQkRIMm5UTVJOY2J0MDJ4bEFZNkh2MjdUZzRnRkVYbXBKSktfNElhWU42SEVRMktOd0JHYTQyU2N4ZUF2eWZicDRpVHBCTHRYUWFYOVRMT3lrVWNuQldMQkV0MVVGYXc?oc=5",
+  "skip:https://ria.ru/20261110/pentagon-2130685136.html",
+  "https://www.kommersant.ru/doc/9093874",
+  "title:Глава Пентагона Пит Хегсет назвал попытку импичмента фарсом и саботажем",
+  "skip:https://www.interfax.ru/world/1128090",
+  "skip:https://ria.ru/20261110/es-2130686031.html",
+  "https://www.kommersant.ru/doc/9093870",
+  "title:Премьер Словакии Роберт Фицо раскритиковал угрозы канцлера Германии Фридриха Мерца заблокировать бюджет ЕС из-за кредита Украине"
 ]

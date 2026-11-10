@@ -1,11 +1,4 @@
 [
-  "skip:https://ria.ru/20261107/ukraina-2129918183.html",
-  "https://www.rbc.ru/politics/07/11/2026/6aeec595e824b280460c96f8",
-  "title:В Верховной раде заявили, что Украина не видит смысла в участии в саммите G20 без России",
-  "skip:https://tass.ru/obschestvo/28294633",
-  "skip:https://www.kommersant.ru/doc/9091909",
-  "skip:https://www.kommersant.ru/doc/9091901",
-  "skip:https://tass.ru/obschestvo/28294579",
   "https://ria.ru/20261107/lidiya-shukshina-2129930528.html",
   "skip:https://tass.ru/armiya-i-opk/28294547",
   "https://www.interfax.ru/world/1127565",
@@ -998,5 +991,12 @@
   "https://ria.ru/20261110/peregovory-2130756215.html",
   "title:Участники трехсторонних переговоров по Украине в Абу-Даби подвели итоги первого дня",
   "skip:https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
-  "https://ria.ru/20261110/britanija-2130757518.html"
+  "https://ria.ru/20261110/britanija-2130757518.html",
+  "skip:https://news.google.com/rss/articles/CBMipAFBVV95cUxPWXNYczJNMzBQMmQ1Q19fN2ctTXRDRWRjSGx3c2ZrVGMzU2Vyek9kdVlTUnpMYnc0a3dsZGUxRGxhQnNvSTVXcmhlNkp5RG1xTk4yeXFvNTEzTmlPMzRrQkRBNC1yaGpTc0F4b2xURmx4SnBKTU9fT2xtcGY3NkdmSVpnQmJOemREUHlrTzZjeWxkX3NWTmxwVUVVZVhIQjB0RmZYMA?oc=5",
+  "skip:https://ria.ru/20261110/zemmur-2130755669.html",
+  "https://tass.ru/mezhdunarodnaya-panorama/28304373",
+  "title:Лидер французской «Реконкисты» Эрик Земмур объявил об участии в президентских выборах",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28304391",
+  "https://ria.ru/20261111/sekretar-2130759761.html",
+  "title:ТАСС и РИА Новости: Дональд Трамп рассматривает Бена Фергюсона на пост пресс-секретаря Белого дома"
 ]

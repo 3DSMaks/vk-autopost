@@ -1,6 +1,4 @@
 [
-  "https://www.rbc.ru/rbcfreenews/6aeedefef3661cce82967e3c",
-  "title:В Германии прошли предупредительные забастовки металлургов и электротехников",
   "skip:https://ria.ru/20261107/ukraina-2129918183.html",
   "https://www.rbc.ru/politics/07/11/2026/6aeec595e824b280460c96f8",
   "title:В Верховной раде заявили, что Украина не видит смысла в участии в саммите G20 без России",
@@ -998,5 +996,7 @@
   "skip:https://www.rbc.ru/politics/10/11/2026/6af369f9069e041e6b1ac105",
   "skip:https://ria.ru/20261110/kushner-2130749359.html",
   "https://ria.ru/20261110/peregovory-2130756215.html",
-  "title:Участники трехсторонних переговоров по Украине в Абу-Даби подвели итоги первого дня"
+  "title:Участники трехсторонних переговоров по Украине в Абу-Даби подвели итоги первого дня",
+  "skip:https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
+  "https://ria.ru/20261110/britanija-2130757518.html"
 ]

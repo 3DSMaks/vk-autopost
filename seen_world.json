@@ -1,12 +1,4 @@
 [
-  "title:Минюст расширил реестр лиц под временными ограничениями, включив в него Бориса Акунина, Юрия Дудя и других",
-  "skip:https://www.kommersant.ru/doc/9091433",
-  "https://tass.ru/mezhdunarodnaya-panorama/28293073",
-  "title:Финляндия разрабатывает новые ограничения на въезд для граждан России",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28293055",
-  "https://www.interfax.ru/world/1127462",
-  "title:КСИР заявил о сбитом американском беспилотнике над островом Кешм",
-  "skip:https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
   "https://www.kommersant.ru/doc/9091463",
   "title:Еврокомиссия обвинила TikTok в нарушении закона о цифровых услугах из-за алгоритмов",
   "skip:https://www.interfax.ru/world/1127465",
@@ -998,5 +990,13 @@
   "skip:https://www.interfax.ru/russia/1128037",
   "skip:https://www.kommersant.ru/doc/9093643",
   "https://www.rbc.ru/politics/10/11/2026/6af2f5fbb84c27b3021f5658",
-  "title:МВД России предложило разобщать мигрантские анклавы и ввести налоги для неработающих членов семей мигрантов"
+  "title:МВД России предложило разобщать мигрантские анклавы и ввести налоги для неработающих членов семей мигрантов",
+  "skip:https://ria.ru/20261110/rossija-2130649597.html",
+  "skip:https://www.interfax.ru/world/1128056",
+  "skip:https://ria.ru/20261110/lavrov-2130628916.html",
+  "https://www.kommersant.ru/doc/9093712",
+  "title:Глава МИД РФ Сергей Лавров заявил, что Россию не будет исключать Армению из ОДКБ",
+  "skip:https://www.rbc.ru/society/10/11/2026/6af2da37880b9dc931df6e38",
+  "https://tass.ru/obschestvo/28302917",
+  "title:В Польше прошли памятные мероприятия в связи с жертвами стрельбы в Кракове"
 ]

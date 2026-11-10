@@ -17,6 +17,19 @@ class TelegramTests(unittest.TestCase):
         self.assertIn('A &lt; B', api.call_args.args[1]['caption'])
         self.assertEqual(api.call_args.args[2], {'photo': b'jpg'})
 
+    def test_host_voice_only_in_vk(self):
+        prompts = []
+        def fake(parts, schema, *a):
+            prompts.append(parts[0]['text'])
+            return {'post': '<b>Заголовок</b>\n\nТекст.'}
+        with patch.object(tg, 'gemini_json', side_effect=fake), patch.object(tg, 'article_text', return_value='src'):
+            tg.tg_format({'link': 'x'}, 'draft', channel='ВКонтакте')
+            tg.tg_format({'link': 'x'}, 'draft', channel='Telegram')
+        self.assertIn('сладость', prompts[0])
+        self.assertIn('мнение ведущего', prompts[0])
+        self.assertNotIn('host-voice.md', prompts[1])
+        self.assertIn('практичный призыв', prompts[1])
+
     def test_album(self):
         with patch.object(tg, 'api') as api:
             tg.publish('@channel', 'Text', 'https://example.com', [b'1', b'2'])

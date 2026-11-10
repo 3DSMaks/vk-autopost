@@ -1,8 +1,4 @@
 [
-  "title:GTA 6's Map Will Open Up Relatively Early and Let You Explore Freely, Developers Are Still Discovering New Parts of the World",
-  "skip:https://www.kinonews.ru/news_143878/",
-  "skip:https://www.kinonews.ru/news_143877/",
-  "skip:https://variety.com/2026/film/news/hunger-games-sunrise-on-the-reaping-first-reactions-1236933573/",
   "skip:https://variety.com/2026/film/news/smile-3-director-writer-1236838500/",
   "https://variety.com/2026/film/news/james-gunn-batman-superman-wonder-woman-dcu-1236933827/",
   "title:James Gunn Calls Batman, Superman and Wonder Woman the DCU’s ‘Diamond Characters,’ Says Krypto, John Stewart and Peacemaker Could ‘Turn Into Diamonds’",
@@ -998,5 +994,9 @@
   "https://variety.com/2026/film/news/ebenezer-first-reactions-johnny-depp-hollywood-comeback-1236941249/",
   "title:‘Ebenezer’ First Reactions: Johnny Depp’s Hollywood Comeback Is a ‘Wickedly Fun Holiday Treat’ That Adds ‘Refreshing New Layers’ to the Christmas Clas",
   "https://www.film.ru/news/vera-farmiga-v-novom-horrore",
-  "title:Вера Фармига в новом хорроре"
+  "title:Вера Фармига в новом хорроре",
+  "skip:https://www.kinonews.ru/news_144075/",
+  "skip:https://kg-portal.ru/comments/135729-posle-desjatiletnego-pereryva-aleks-projas-otobral-rezhissuru-istoricheskogo-epika-s-antonio-banderasom-u-kakogoto-francuza/",
+  "https://variety.com/2026/film/box-office/ramayana-godzilla-minus-zero-uk-ireland-box-office-1236943753/",
+  "title:‘Ramayana’ Makes History as First Indian Film to Top U.K., Ireland Box Office as ‘Godzilla Minus Zero’ Debuts in Third"
 ]

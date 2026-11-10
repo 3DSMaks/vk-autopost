@@ -1,8 +1,4 @@
 [
-  "title:Оператор «Ла-Ла Ленда» будет в Marvel",
-  "skip:https://www.film.ru/news/dzheymi-dornan-rasskazal-o-stresse-iz-za-roli-aragorna",
-  "https://www.kinonews.ru/news_143880/",
-  "title:Новые \"Голодные игры\" покорили критиков и названы лучшей частью франшизы",
   "skip:https://www.playground.ru/phantom_blade_zero/news/avtory_phantom_blade_zero_sovetuyut_igrokam_otkatit_drajvery_nvidia_svezhaya_versiya_uhudshaet_igrovoj_opyt-1885924#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.pcgamer.com/hardware/phantom-blade-zero-dev-says-dont-get-the-latest-nvidia-drivers/",
   "skip:https://www.ign.com/articles/phantom-blade-zero-beats-modern-warfare-4-steam-top-selling",
@@ -998,5 +994,9 @@
   "skip:https://www.igromania.ru/news/169834/razrabotchiki-indi-hita-big-walk-priznalis-v-ispolzovanii-ii/",
   "skip:https://www.igromania.ru/news/169833/warhammer-survivors-vyishla-na-konsolyah-mobilnyih-i-pc/",
   "https://stopgame.ru/newsdata/73438/v_take_two_gotovy_protivostoyat_tem_kto_popytaetsya_perenesti_gta_vi_na_pk_s_pomoschyu_ii",
-  "title:В Take-Two готовы противостоять тем, кто попытается перенести GTA VI на ПК с помощью ИИ"
+  "title:В Take-Two готовы противостоять тем, кто попытается перенести GTA VI на ПК с помощью ИИ",
+  "skip:https://variety.com/2026/film/news/jeremy-latcham-dc-studios-boss-1236943971/",
+  "skip:https://variety.com/2026/film/box-office/ramayana-dil-se-indian-cinema-rise-uk-ireland-box-office-1236943778/",
+  "https://www.kinonews.ru/news_144082/",
+  "title:Джейсон Момоа рассказал о возрождении Дункана Айдахо в \"Дюне 3\""
 ]

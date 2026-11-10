@@ -1,13 +1,4 @@
 [
-  "skip:https://www.aljazeera.com/news/2026/11/6/hoax-or-bomb-threats-what-we-know-about-flight-disruptions-across-europe?traffic_source=rss",
-  "skip:https://tass.ru/proisshestviya/28292453",
-  "skip:https://ria.ru/20261106/praga-2129699441.html",
-  "https://www.rbc.ru/politics/06/11/2026/6aedb59cff2d0771a5715784",
-  "title:Новая волна ложных сообщений об угрозах взрыва на авиарейсах в Европе",
-  "skip:https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM1lNNTd4SjQ5dGlFcG1hdjFVY2lvOXZDMVZCUmZjaTJBSXlFTGZsS1E2aEt2bXhQUXl4R0FrZnNtUlFpdUo5RVJUZ2JISllTV0RFQ0tqLWNSNk5HeVBpU2N1WFJKck9LRHYxSE9nSjJ1cXhpN3VKNlV6TGhTSkVOR3EzT2dtSXBtUTNEU2FkQVVBLUVMckZvU0c2dkhQcmNyVTh6V01CcnF6MmFtV0lfS2pNTU1JSEdMRWxUV1lqblJtanNaRTljQXRPN0hQbEJl?oc=5",
-  "skip:https://ria.ru/20261106/sovbez-2129712178.html",
-  "skip:https://tass.ru/politika/28292535",
-  "skip:https://www.interfax.ru/russia/1127423",
   "https://www.rbc.ru/technology_and_media/06/11/2026/6aedbc4e30e757a9a3262c27",
   "title:Совбез РФ предупредил о дестабилизирующих рисках спутниковых систем Starlink и OneWeb",
   "skip:https://www.interfax.ru/world/1127429",
@@ -998,5 +989,14 @@
   "title:Минобороны РФ заявило о взятии под контроль села Никольское в Сумской области",
   "skip:https://www.kommersant.ru/doc/9093528",
   "https://tass.ru/mezhdunarodnaya-panorama/28302119",
-  "title:Совет ЕС принял решение впервые разместить миссию по подготовке украинских военных на территории Украины"
+  "title:Совет ЕС принял решение впервые разместить миссию по подготовке украинских военных на территории Украины",
+  "skip:https://news.google.com/rss/articles/CBMijwFBVV95cUxPLXl6Tnh3RFoxQXFwUm11YUVVdnZjbkNUVzc0aTVMc1lSZXBIa0RFdXV3cDduUHNMaWw2T3lHd0RhcHFyQU5kX1lEbTlFdDViNEFHNDNVRDdjM1BCb0ZMS2paZzNKeGh5WTV6V3psM1NhZ1BHMm9SUDBKWEtmVVNwZWI2SlpZeTdheV9jbkIzNA?oc=5",
+  "skip:https://www.interfax.ru/world/1128021",
+  "skip:https://ria.ru/20261110/abu-dabi-2130529524.html",
+  "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
+  "title:Участники трехсторонних переговоров в Абу-Даби обсуждают гарантии безопасности и архитектуру Европы",
+  "skip:https://tass.ru/proisshestviya/28302249",
+  "skip:https://ria.ru/20261110/vs-2130529783.html",
+  "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX2tteTF0RUtLTFhyN1lSeUZEa19XYmpNandtUWNPU3BDN24zdUFPbjBaSUhhT3VMMjFuU2tidFlwT1FRT1ZEZU1jUnU5OHZPV25KNXdfOXF5VjdZbi10OEZKRnVwWU9NM0tUZ3lOeXZRQWlUa0U2ZDZRRzJRR3oxTGRsWG1TZjA2ajFzMFItakp6allKeFB4WDl5UkhqYUh1bTNoUDZ1VGlCZzVqVkF5cFBsMFJfZzNuNU5ucmJ2TVJNenk2cXc?oc=5",
+  "title:Российские войска нанесли удары по объектам энергетики и транспорта Украины"
 ]

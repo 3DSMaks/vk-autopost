@@ -1,14 +1,4 @@
 [
-  "skip:https://www.rbc.ru/society/05/11/2026/6aec714444645bf351561c4f",
-  "skip:https://www.aljazeera.com/sports/2026/11/5/why-has-cristiano-ronaldo-retired-from-international-football?traffic_source=rss",
-  "skip:https://www.rbc.ru/sport/05/11/2026/6aec92e51b2b2ead74f0fafa",
-  "https://www.kommersant.ru/doc/9081133",
-  "title:Криштиану Роналду завершил карьеру в сборной Португалии",
-  "skip:https://www.interfax.ru/russia/1127242",
-  "https://www.kommersant.ru/doc/9081158",
-  "title:МИД России рекомендовал гражданам временно воздержаться от поездок в Иран",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28289957",
-  "skip:https://www.rbc.ru/politics/05/11/2026/6aeca3db4cb9bd7ea0d75c44",
   "skip:https://ria.ru/20261105/iran-2129509331.html",
   "skip:https://news.google.com/rss/articles/CBMirAFBVV95cUxQMkR5dEUwb2FoSDZrZ2p1UVF1T3VzbjEwSmhUWFBSeElYM0lHamE3SE0zYVViRHNqZ2piYTBjbWtoZThDU01hQmpYRFlwMHJTTFl3S2MyWnFoZWh1VTRCdEFvckJZcHktYjNpMWxLbU1vOGp3N0k1Yi1FZ0xTMXYzU2I2OHVZeGZrVXdiUmJOZ0phb2dLTjVGTTQ4aGF0WEdOLTVzS2RLQzBYNXR5?oc=5",
   "https://www.kommersant.ru/doc/9081175",
@@ -998,5 +988,15 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28301059",
   "skip:https://news.google.com/rss/articles/CBMiswFBVV95cUxPNFRRSTBsbG02aEtlczAwSUpUMTd3ZkFRQUp6emg3SHZpclZSTXZiQUl6TWRMUVJuZ0U5T1MtdFhkblNEYWtiN1B5YnBtNnVaSVFyV1NqTk5Jd1g5SHU5eWFjWk45TWVYLUdJbi0zb2R2c2tZMXlvT2tZMVRaUjd1ek51NTFQcWJ2SXpMMkZqZ29UbkRkTWlyNmpleE5aOTJlZ3FDb21FQVRyNlVoalM3MWVUdw?oc=5",
   "https://www.kommersant.ru/doc/9093308",
-  "title:США вывели самолеты с британской базы из-за угрозы со стороны Ирана"
+  "title:США вывели самолеты с британской базы из-за угрозы со стороны Ирана",
+  "skip:https://tass.ru/proisshestviya/28301567",
+  "skip:https://tass.ru/proisshestviya/28301461",
+  "skip:https://ria.ru/20261110/kuban-2130480961.html",
+  "https://www.rbc.ru/rbcfreenews/6af2c6e9a160b28289d1b40c",
+  "title:ФСБ задержала агента СБУ на Кубани за подготовку теракта",
+  "skip:https://ria.ru/20261110/ataka-2130481127.html",
+  "skip:https://www.interfax.ru/russia/1127984",
+  "skip:https://www.rbc.ru/politics/10/11/2026/6af2c0ff3bad6acc7ddd7009",
+  "https://www.kommersant.ru/doc/9093434",
+  "title:Промышленный объект и дачные дома повреждены при атаке БПЛА в Новгородской области"
 ]

@@ -1,15 +1,4 @@
 [
-  "skip:https://tass.ru/politika/28293451",
-  "skip:https://tass.ru/politika/28293449",
-  "https://ria.ru/20261106/putin-2129839060.html",
-  "title:Владимир Путин обсудил с Совбезом подготовку к переговорам по Украине в Абу-Даби",
-  "skip:https://news.google.com/rss/articles/CBMinwFBVV95cUxNNHpGTGhqcHRFbVlLRWRncDVhUFJnU25fSGFTclFBam5RNWpJSDBxanJTRkxGVmFaWjU3WFRXaHJQaldNU2ZURXBuRzRXLUhYUmdrR083a3FaaTJEdG84QUVFMzdxNVJ5NmVuYkstV1AwVVg2YmREMzAwRFEzYmlLODhzbGUwZHpTV2YwVzdNekFGZjk1MnEyMXhCTDFaVjg?oc=5",
-  "skip:https://news.google.com/rss/articles/CBMinAFBVV95cUxQX3ZsOHM5bmJFSVZCX3dsS3g1cUIxWEE5SHprTWZubEpyNW1xajlvdnBYZnpvZGlqVnhBRF96NFBKZEhDTXpTNVE0VzVLbGd0dVVFcmVCeUxQenRvdlpEUTA3Q2hYZ2EwcmJRdkppV1JUcE1OQU5vLTU4MFdDNzJyTVFyOHYzZ3BUU05iQVJscG12UzByNDN0WHlKb2Q?oc=5",
-  "skip:https://www.rbc.ru/society/06/11/2026/6aedf5e5e824b280460c9638",
-  "skip:https://www.kommersant.ru/doc/9091518",
-  "skip:https://ria.ru/20261106/usa-2129832176.html",
-  "https://tass.ru/proisshestviya/28293431",
-  "title:ФБР арестовало во Флориде отца Меган Маркл по обвинению в хранении детской порнографии",
   "skip:https://www.kommersant.ru/doc/9091558",
   "skip:https://www.rbc.ru/rbcfreenews/6aee1168e824b280460c969a",
   "skip:https://www.interfax.ru/russia/1127496",
@@ -998,5 +987,16 @@
   "title:В Болгарии объявили траур из-за масштабного ДТП с десятками погибших",
   "skip:https://news.google.com/rss/articles/CBMixwFBVV95cUxPNXZLZlE1TldPUHRna1pNTU91YTJWVHJ5NmxEZERoWGFudjU4WFI1SHlqVXl1TzFmeHBFcjNjZHhOTkNSVTIzcmFsbnktdzR3MDFaY2FYQzVlaHhBc3V5Nm52R3pvZU5vdHJhZndaV3R2LXh1cVZxUkhvcDQ0Z3lMNXA2THdaM05kZVpNOWliNGQ0cHBNOFhYYU44U3hWaVRkYldWNS11ZUtwNUs5YjBJbVdLYjhidklfMnZwYWVwRHpyMGYyMS1Z?oc=5",
   "https://tass.ru/sport/28303427",
-  "title:Ирак запретил посадку самолета со сборной Ирана из-за санкций США"
+  "title:Ирак запретил посадку самолета со сборной Ирана из-за санкций США",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28303559",
+  "skip:https://www.interfax.ru/world/1128085",
+  "skip:https://www.rbc.ru/politics/10/11/2026/6af31fc4f17ffd6e0e2ec43f",
+  "https://ria.ru/20261110/rubio-2130690308.html",
+  "title:Госсекретарь США Марко Рубио назвал продуктивными трехсторонние переговоры по Украине в Абу-Даби",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28303487",
+  "skip:https://www.interfax.ru/world/1128084",
+  "skip:https://www.france24.com/en/americas/20261110-live-pentagon-chief-pete-hegseth-calls-move-to-impeach-him-a-farce",
+  "skip:https://www.aljazeera.com/news/2026/11/10/pentagon-chief-hegseth-calls-us-house-impeachment-effort-a-farce?traffic_source=rss",
+  "https://ria.ru/20261110/glava-2130686444.html",
+  "title:Министр обороны США Пит Хегсет назвал попытку конгрессменов объявить ему импичмент саботажем и фарсом"
 ]

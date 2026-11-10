@@ -1,8 +1,4 @@
 [
-  "title:Gwendoline Christie Signs With CAA",
-  "skip:https://variety.com/2026/film/news/lakeith-stanfield-exit-molepeople-ben-wheatley-director-rob-savage-1236933462/",
-  "skip:https://deadline.com/2026/10/lakeith-stanfield-exits-molepeople-director-replacement-1237207388/",
-  "https://variety.com/2026/film/news/cynthia-erivo-annoyance-ariana-grande-friendship-wicked-1236933585/",
   "title:Cynthia Erivo Calls Out Public’s ‘Annoyance’ Over Ariana Grande Friendship: ‘Why Are They Showing Emotion? How Dare They Cry!’",
   "https://deadline.com/2026/10/amanda-plummer-christopher-chung-tnia-miller-cast-ascension-1237207379/",
   "title:Amanda Plummer, Christopher Chung & T’Nia Miller Join Alfonso Cuarón’s Apple Series ‘Ascension’",
@@ -998,5 +994,9 @@
   "skip:https://www.kinonews.ru/news_144079/",
   "skip:https://deadline.com/2026/11/keira-knightley-fans-quoting-love-actually-1237218199/",
   "https://www.kinonews.ru/news_144075/",
-  "title:Антонио Бандерас сыграет конкистадора Эрнана Кортеса в ИИ-фильме"
+  "title:Антонио Бандерас сыграет конкистадора Эрнана Кортеса в ИИ-фильме",
+  "skip:https://deadline.com/2026/11/julia-garner-madonna-biopic-update-1237218202/",
+  "skip:https://variety.com/2026/film/news/julia-garner-madonna-biopic-status-1236943732/",
+  "https://variety.com/2026/film/box-office/ramayana-godzilla-minus-zero-uk-ireland-box-office-1236943753/",
+  "title:‘Ramayana’ Makes History as First Indian Film to Top U.K., Ireland Box Office as ‘Godzilla Minus Zero’ Debuts in Third"
 ]

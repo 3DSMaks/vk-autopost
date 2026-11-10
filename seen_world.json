@@ -1,12 +1,4 @@
 [
-  "https://www.rbc.ru/technology_and_media/06/11/2026/6aedbc4e30e757a9a3262c27",
-  "title:Совбез РФ предупредил о дестабилизирующих рисках спутниковых систем Starlink и OneWeb",
-  "skip:https://www.interfax.ru/world/1127429",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28292539",
-  "https://www.rbc.ru/politics/06/11/2026/6aedc0eae02016d6a88ac6b6",
-  "title:Суд в Финляндии приостановил новые аресты российских госактивов",
-  "skip:https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM1hGX3FNRUVaMDhGcnI2WkxBSk53bDZLT1A3RDZvZFktR0wyZy05Ym8xc2hsTFlQMDJzT3lHeHZkTl9UMkttb3RocE9KSDB6OGNmNG9iNFY0aFdVelhFeXREVWJ1OUpUNG1zWEFMUnZueUVMdGhXNVVuUFBCY2lhMm1EY0pxUEsweDVveC11eF9ZRmwwSEdVUy1Jbndzdi1GWXd3M282NHdpdkdqeU83T1FRcmtXZ2RGSDRFN2pKRzg?oc=5",
-  "https://www.interfax.ru/world/1127434",
   "title:Мощное землетрясение зафиксировано у восточного побережья Японии",
   "skip:https://news.google.com/rss/articles/CBMixgFBVV95cUxNTDM4YlUwUzVPa0VhbS1wVTlvVXpPbWZ5Y1EwUUFfSG1Cbk5xR1NSeTNLZnhNLU1Lekk0eDVuaWtCQndUSTd0bDRELWNXdGJJYllrYmJUYkRqMkl4b0VwWVRCWF9Tc2doN3lIRm42eV9YQlBha3JfNHByNDFLb1RxV3RkdkZyRFZJRnVsc0VybnBGUzdJRUw5LXVMMl9zMGNrb05EeWFXVm5KYnVnNGYzMTNQd3oxcGJDZVlVUlFDTlJSeHAtUGc?oc=5",
   "https://www.interfax.ru/world/1127428",
@@ -998,5 +990,13 @@
   "skip:https://tass.ru/proisshestviya/28302249",
   "skip:https://ria.ru/20261110/vs-2130529783.html",
   "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX2tteTF0RUtLTFhyN1lSeUZEa19XYmpNandtUWNPU3BDN24zdUFPbjBaSUhhT3VMMjFuU2tidFlwT1FRT1ZEZU1jUnU5OHZPV25KNXdfOXF5VjdZbi10OEZKRnVwWU9NM0tUZ3lOeXZRQWlUa0U2ZDZRRzJRR3oxTGRsWG1TZjA2ajFzMFItakp6allKeFB4WDl5UkhqYUh1bTNoUDZ1VGlCZzVqVkF5cFBsMFJfZzNuNU5ucmJ2TVJNenk2cXc?oc=5",
-  "title:Российские войска нанесли удары по объектам энергетики и транспорта Украины"
+  "title:Российские войска нанесли удары по объектам энергетики и транспорта Украины",
+  "skip:https://www.interfax.ru/world/1128031",
+  "skip:https://www.rbc.ru/rbcfreenews/6af2ed83880b9dc931df6e49",
+  "skip:https://ria.ru/20261110/abu-dabi-2130554478.html",
+  "https://www.kommersant.ru/doc/9093601",
+  "title:Участники трехсторонних переговоров по Украине в Абу-Даби ушли на перерыв",
+  "skip:https://ria.ru/20261110/es-2130545529.html",
+  "https://tass.ru/proisshestviya/28302147",
+  "title:В Испании при взрыве рюкзака погиб полицейский"
 ]

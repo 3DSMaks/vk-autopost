@@ -1,9 +1,4 @@
 [
-  "skip:https://tass.ru/kosmos/28295927",
-  "https://www.interfax.ru/world/1127654",
-  "title:На Солнце зафиксировали рекордную серию вспышек",
-  "skip:https://www.rbc.ru/rbcfreenews/6af02ed79e543f790d79ca5a",
-  "https://tass.ru/proisshestviya/28295989",
   "title:В Колумбии при атаке беспилотников на военную базу погибли трое военных",
   "skip:https://www.interfax.ru/world/1127665",
   "skip:https://ria.ru/20261108/saudi--2130083187.html",
@@ -998,5 +993,10 @@
   "skip:https://www.interfax.ru/russia/1128440",
   "skip:https://tass.ru/politika/28308917",
   "https://ria.ru/20261112/putin-2131000414.html",
-  "title:Владимир Путин встретится в Москве со спецпосланниками США Стивом Уиткоффом и Джаредом Кушнером"
+  "title:Владимир Путин встретится в Москве со спецпосланниками США Стивом Уиткоффом и Джаредом Кушнером",
+  "skip:https://www.interfax.ru/russia/1128446",
+  "skip:https://ria.ru/20261112/bpla-2131005705.html",
+  "skip:https://tass.ru/proisshestviya/28309031",
+  "https://www.kommersant.ru/doc/9095080",
+  "title:Силы ПВО сбили два беспилотника, летевших на Москву"
 ]

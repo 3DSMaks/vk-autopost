@@ -1,14 +1,4 @@
 [
-  "skip:https://tass.ru/sport/28294759",
-  "skip:https://www.rbc.ru/sport/07/11/2026/6aef0d89ffababcec205e171",
-  "https://www.sport-interfax.ru/1127576",
-  "title:Мишина и Галлямов выиграли этап Гран-при ISU в Китае",
-  "skip:https://www.rbc.ru/politics/07/11/2026/6aef0dbb2fca64e80dfad84d",
-  "https://www.interfax.ru/world/1127578",
-  "title:Премьер Словакии Роберт Фицо заявил о фальсификации референдума о вступлении в ЕС",
-  "skip:https://ria.ru/20261107/raketa-2129971499.html",
-  "skip:https://www.interfax.ru/russia/1127588",
-  "skip:https://tass.ru/armiya-i-opk/28294901",
   "https://www.rbc.ru/politics/07/11/2026/6aef2c0641e5f9432396d6ba",
   "title:С космодрома Плесецк успешно осуществлен запуск ракеты-носителя «Союз-2.1б» в интересах Минобороны РФ",
   "skip:https://www.rbc.ru/rbcfreenews/6aef1fd2be48d75b70e6fff2",
@@ -998,5 +988,15 @@
   "skip:https://ria.ru/20261111/frg-2130820845.html",
   "skip:https://www.rbc.ru/society/11/11/2026/6af422bfd9ec4756827cfba0",
   "https://www.kommersant.ru/doc/9094395",
-  "title:Гражданин Германии признался в убийстве главного врача частной клиники в Москве"
+  "title:Гражданин Германии признался в убийстве главного врача частной клиники в Москве",
+  "skip:https://www.interfax.ru/world/1128253",
+  "skip:https://www.interfax.ru/world/1128251",
+  "https://www.rbc.ru/politics/11/11/2026/6af423c0ef12ef30934c619c",
+  "title:В Абу-Даби начался второй день трехсторонних переговоров по Украине",
+  "skip:https://www.rbc.ru/politics/11/11/2026/6af43008f7402bf8db523b19",
+  "skip:https://www.kommersant.ru/doc/9094436",
+  "skip:https://ria.ru/20261111/shilovka-2130832088.html",
+  "skip:https://ria.ru/20261111/voskresenka-2130831591.html",
+  "https://www.interfax.ru/russia/1128256",
+  "title:Минобороны РФ сообщило о взятии под контроль Шиловки в ДНР и Воскресенки в Запорожской области"
 ]

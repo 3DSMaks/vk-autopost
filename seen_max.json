@@ -1,10 +1,4 @@
 [
-  "skip:https://www.film.ru/news/umer-zvezda-lyudey-iks-patrik-styuart",
-  "https://kg-portal.ru/comments/135581-postery-filma-mstiteli-doktor-dum/",
-  "title:Персонаж Роберта Дауни-младшего в самых разных злодейских позах на постерах \"Мстителей: Доктор Дум\"",
-  "skip:https://stopgame.ru/newsdata/73334/netflix_sozdaet_serial_po_motivam_pubg",
-  "skip:https://stopgame.ru/newsdata/73333/moya_mama_stala_kraterom_kodzima_opublikoval_tizer_anime_seriala_death_stranding_isolations",
-  "skip:https://www.igromania.ru/news/169632/igroki-crimson-desert-zhaluyutsya-na-bagi-v-dopolnenii-puteshestvie-v-neizvedannoe/",
   "skip:https://www.igromania.ru/news/169631/moya-mama-prevratilas-v-krater-anime-death-stranding-isolations-poluchilo-pervyij-tizer-trejler/",
   "skip:https://www.igromania.ru/news/169629/umer-legendarnyij-aktyor-patrik-styuart-zvezde-lyudej-iks-i-zvyozdnogo-puti-byilo-86-let/",
   "skip:https://www.pcgamer.com/games/rpg/crimson-desert-how-to-start-charting-the-unknown-dlc/",
@@ -998,5 +992,11 @@
   "skip:https://www.playground.ru/subnautica_2/news/prodazhi_subnautica_2_dostigli_8_9_mln_kopij_vsego_za_devyat_mesyatsev_sikvel_oboshyol_predyduschie_igry_serii-1889645#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169855/krafton-prodala-pochti-9-mln-kopij-igr-serii-subnautica-v-2026-godu/",
   "https://stopgame.ru/newsdata/73453/remeyk_the_legend_of_zelda_ocarina_of_time_kupili_5_2_mln_raz_za_pervye_4_dnya",
-  "title:Ремейк The Legend of Zelda: Ocarina of Time купили 5,2 млн раз за первые 4 дня"
+  "title:Ремейк The Legend of Zelda: Ocarina of Time купили 5,2 млн раз за первые 4 дня",
+  "skip:https://www.playground.ru/misc/news/final_seriala_kvest_vizhna_prigotovil_syurpriz_pered_mstitelyami_sudnyj_den-1889668#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169861/neprostyie-vremena-pokupajte-gta-izdatel-grand-theft-auto-6-schitaet-igru-vyigodnyim-predlozheniem/",
+  "skip:https://gamemag.ru/news/202078/novyy-treyler-gta-vi-posvyashchen-ps5-versii-igra-ustanovila-rekord-na-xbox",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-is-the-most-pre-ordered-game-of-all-time-on-both-xbox-and-playstation/",
+  "https://gamemag.ru/news/202083/resident-evil-veronica-trailer-pushed-back-after-internal-delay-to-fall-2027-rumor",
+  "title:Инсайдер объяснил перенос Resident Evil Veronica на осень 2027 года"
 ]

@@ -1,14 +1,4 @@
 [
-  "title:В Донецке из-за крупной аварии более 120 тыс. абонентов остались без света",
-  "skip:https://news.google.com/rss/articles/CBMilwFBVV95cUxNZHBvWlRRd01wR0toUFJoUS1LcHFTbEZkT0doUlpzZlFvYWwxZ2k5QVJSOVluYkZHOFZ2eVpRbXBfWTc4QncyV0cyS2hVNUViQ1ZvaEZzcUtudlFhNTNjb3lKVkRVMk5jaWZTQ3VWSlhlZGVRd2pHSHJOQ3pqeGtMVUFZeWg4WFp3NmRfcHRMN09yOUY2WkZr?oc=5",
-  "https://www.france24.com/en/banking-scandal-topples-paraguay-leader",
-  "title:Президент Парагвая Сантьяго Пенья отправлен под домашний арест после банковского скандала",
-  "skip:https://news.google.com/rss/articles/CBMiugFBVV95cUxNYWZNYXdzeHF4Ymh3blFVa2M3MlNpVWRUN0FjRXlkcWtVTjdwd0ZWZF9FSXpISWczYURGdmxzWVh1RE9SQ0NvaUhkTFV5dXg2dExMU1lGOVNJYnAyRUFGMUF2U1RMR0dlbFRiT3JmNV92Q3E0LUh6ZHU2Vm1WN2RvMk1hQWZyVTNlbGNCWFEyd3RtSkZaTHlEanRmOWJ3Qk1BQ3BSSDFwamdUb3pGWmVrQ1BWMnQwMW9rTFE?oc=5",
-  "skip:https://ria.ru/20261107/darknet-2129949690.html",
-  "skip:https://www.interfax.ru/world/1127566",
-  "https://www.aljazeera.com/news/2026/11/7/pro-russian-hackers-leak-italian-foreign-ministers-data-on-dark-web?traffic_source=rss",
-  "title:Глава МИД Италии заявил о публикации его личных данных в даркнете",
-  "skip:https://www.kommersant.ru/doc/9091939",
   "skip:https://tass.ru/sport/28294759",
   "skip:https://www.rbc.ru/sport/07/11/2026/6aef0d89ffababcec205e171",
   "https://www.sport-interfax.ru/1127576",
@@ -998,5 +988,15 @@
   "title:Нефтяной танкер загорелся в Ормузском проливе после подрыва на мине",
   "skip:https://ria.ru/20261111/oae-2130816578.html",
   "https://www.kommersant.ru/doc/9094363",
-  "title:Российская делегация прибыла на второй день трехсторонних переговоров в Абу-Даби"
+  "title:Российская делегация прибыла на второй день трехсторонних переговоров в Абу-Даби",
+  "skip:https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
+  "skip:https://www.rbc.ru/politics/11/11/2026/6af3c9ed1312d8d71227d3c0",
+  "skip:https://tass.ru/politika/28305917",
+  "skip:https://ria.ru/20261111/ssha-2130826361.html",
+  "https://www.kommersant.ru/doc/9094407",
+  "title:В Абу-Даби начался второй день трехсторонних переговоров России, США и Украины",
+  "skip:https://ria.ru/20261111/frg-2130820845.html",
+  "skip:https://www.rbc.ru/society/11/11/2026/6af422bfd9ec4756827cfba0",
+  "https://www.kommersant.ru/doc/9094395",
+  "title:Гражданин Германии признался в убийстве главного врача частной клиники в Москве"
 ]

@@ -1,10 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9092011",
-  "skip:https://ria.ru/20261107/krakov-2130037360.html",
-  "skip:https://www.rbc.ru/rbcfreenews/6aef8629e6803857c9e78ab6",
-  "skip:https://ria.ru/20261107/krakov-2130035270.html",
-  "https://ria.ru/20261108/krakov-2130039627.html",
-  "title:Новые подробности расследования стрельбы в центре Кракова и состояние пострадавших",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28295435",
   "skip:https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white",
   "skip:https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ2FyWVhVOHdId05JN1ZCTzFidHJyRktaVjg5NkM2WVV2ZFlrLWFrLXlWSHFkQlZ6a1BUSWV2Zzk4cWlmTHdTOFNWc3FpenFDYVpkYnQ1ZXYtdWdLRlFTVldySXU2c0VuTlhvWFZDVDRZenIzOGtNOUdSZWplX3FDaFdjdmpsa2xtLTQtbHFpQ3I4OGFEU1IwRkhsS0Y?oc=5",
@@ -998,5 +992,11 @@
   "skip:https://tass.ru/proisshestviya/28308781",
   "skip:https://ria.ru/20261111/dtp-2130987644.html",
   "https://www.kommersant.ru/doc/9095051",
-  "title:Семь человек погибли в ДТП в Марий Эл"
+  "title:Семь человек погибли в ДТП в Марий Эл",
+  "skip:https://www.kommersant.ru/doc/9095040",
+  "https://www.rbc.ru/rbcfreenews/6af4bf6a9473a39cc39e14fb",
+  "title:В Венгрии арестовали младшего брата бывшего премьера Виктора Орбана",
+  "skip:https://www.interfax.ru/russia/1128424",
+  "https://www.kommersant.ru/doc/9095049",
+  "title:Космонавты Николай Чуб и Александр Горбунов вошли в экипаж корабля «Союз МС-32»"
 ]

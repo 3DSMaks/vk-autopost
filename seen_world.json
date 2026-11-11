@@ -1,12 +1,4 @@
 [
-  "skip:https://ria.ru/20261107/krakov-2130032364.html",
-  "skip:https://tass.ru/proisshestviya/28295309",
-  "skip:https://ria.ru/20261107/krakov-2130031999.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28295299",
-  "skip:https://www.interfax.ru/world/1127615",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28295275",
-  "skip:https://ria.ru/20261107/krakov-2130028218.html",
-  "skip:https://www.kommersant.ru/doc/9092008",
   "skip:https://tass.ru/politika/28295249",
   "https://ria.ru/20261107/krakov-2130034019.html",
   "title:Новые подробности и траур в Польше после стрельбы в центре Кракова",
@@ -998,5 +990,13 @@
   "skip:https://www.rbc.ru/rbcfreenews/6af492065015b810ee533129",
   "skip:https://www.kommersant.ru/doc/9094946",
   "https://tass.ru/ekonomika/28308449",
-  "title:Силы ПВО отражают атаку украинских беспилотников в Омской области"
+  "title:Силы ПВО отражают атаку украинских беспилотников в Омской области",
+  "skip:https://www.kommersant.ru/doc/9094996",
+  "skip:https://www.rbc.ru/politics/11/11/2026/6af484a9e13f74aae009d4d6",
+  "https://www.kommersant.ru/doc/9095014",
+  "title:Бывшие топ-менеджеры Роснано приговорены к реальным срокам за злоупотребления",
+  "skip:https://tass.ru/sport/28308539",
+  "skip:https://www.rbc.ru/sport/11/11/2026/6af48f77a0636aecebf941d7",
+  "https://www.rbc.ru/sport/11/11/2026/6af49ca4546495018bca950c",
+  "title:Власти Канады отказались выдавать визы российским хоккеистам на молодежный чемпионат мира"
 ]

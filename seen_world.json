@@ -1,12 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28295435",
-  "skip:https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white",
-  "skip:https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ2FyWVhVOHdId05JN1ZCTzFidHJyRktaVjg5NkM2WVV2ZFlrLWFrLXlWSHFkQlZ6a1BUSWV2Zzk4cWlmTHdTOFNWc3FpenFDYVpkYnQ1ZXYtdWdLRlFTVldySXU2c0VuTlhvWFZDVDRZenIzOGtNOUdSZWplX3FDaFdjdmpsa2xtLTQtbHFpQ3I4OGFEU1IwRkhsS0Y?oc=5",
-  "https://www.rbc.ru/politics/08/11/2026/6aef9e5f3c02e1f36c5b67fb",
-  "title:Дэйна Уайт отклонил предложение Дональда Трампа занять пост пресс-секретаря Белого дома",
-  "skip:https://www.kommersant.ru/doc/9092078",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28295779",
-  "https://www.rbc.ru/rbcfreenews/6af00f79bd043ff61715b2cf",
   "title:Силы ПВО Саудовской Аравии перехватили две ракеты хуситов над Эр-Риядом",
   "skip:https://www.interfax.ru/russia/1127649",
   "skip:https://www.kommersant.ru/doc/9092082",
@@ -998,5 +990,13 @@
   "title:В Венгрии арестовали младшего брата бывшего премьера Виктора Орбана",
   "skip:https://www.interfax.ru/russia/1128424",
   "https://www.kommersant.ru/doc/9095049",
-  "title:Космонавты Николай Чуб и Александр Горбунов вошли в экипаж корабля «Союз МС-32»"
+  "title:Космонавты Николай Чуб и Александр Горбунов вошли в экипаж корабля «Союз МС-32»",
+  "skip:https://tass.ru/sport/28308891",
+  "skip:https://www.rbc.ru/sport/11/11/2026/6af4c3315015b810ee533170",
+  "https://ria.ru/20261111/mchm-2130999873.html",
+  "title:Семь федераций отказались утверждать новое расписание молодежного чемпионата мира по хоккею из-за участия сборной России",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28308867",
+  "skip:https://www.interfax.ru/world/1128433",
+  "https://www.kommersant.ru/doc/9095063",
+  "title:США предложили России подготовить соглашение о европейской безопасности"
 ]

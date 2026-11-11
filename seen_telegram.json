@@ -1,9 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73341/simulyator_zhizni_petit_planet_startuet_4_dekabrya",
-  "skip:https://www.playground.ru/petit_planet/news/petit_planet_ot_hoyoverse_vyjdet_4_dekabrya_avtory_genshin_impact_gotovyat_uyutnuyu_alternativu_animal_crossing-1886226#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "https://gamemag.ru/news/201863/fromsoftwares-switch-2-exclusive-the-duskbloods-has-been-delayed-to-2027",
-  "title:The Duskbloods от FromSoftware для Nintendo Switch 2 официально перенесли на 2027 год",
-  "skip:https://stopgame.ru/newsdata/73340/redaktor_personazhey_i_anons_alfa_testirovaniya_hunter_the_reckoning_deathwish",
   "skip:https://www.playground.ru/hunter_the_reckoning_deathwish/news/hunter_the_reckoning_deathwish_pokazyvaet_sozdanie_ohotnika_dlya_vyzhivaniya_v_mire_tmy-1886238#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169623/ekshen-the-duskbloods-avtorov-elden-ring-s-dark-souls-i-bloodborne-perenesli-na-2027-god/",
   "https://www.igromania.ru/news/169638/nekstgen-obnovlenie-dlya-metro-2033-redux-i-metro-last-light-redux-dobralos-do-konsolej/",
@@ -998,5 +993,10 @@
   "skip:https://stopgame.ru/newsdata/73458/remaster_shrek_2_startoval_so_smeshannymi_otzyvami_v_steam",
   "skip:https://www.igromania.ru/news/169849/shrek-eto-lyubov-shrek-eto-zhizn-a-shrek-2-remastered-eto-smeshannyij-rejting-v-steam/",
   "https://stopgame.ru/newsdata/73460/obem_predzakazov_tomb_raider_legacy_of_atlantis_prevzoshel_ozhidaniya_embracer",
-  "title:Объём предзаказов Tomb Raider: Legacy of Atlantis превзошёл ожидания Embracer"
+  "title:Объём предзаказов Tomb Raider: Legacy of Atlantis превзошёл ожидания Embracer",
+  "skip:https://www.pcgamer.com/hardware/ex-tekken-director-savages-xbox-series-s-in-front-of-senior-xbox-staff-feels-like-having-to-do-extra-work-for-a-slightly-weaker-child/",
+  "skip:https://www.igromania.ru/news/169864/phantom-blade-zero-stala-luchshej-igroj-oktyabrya-po-versii-polzovatelej-playstation-blog/",
+  "skip:https://www.ign.com/articles/tekken-legend-katsuhiro-harada-says-he-wishes-hardware-like-the-xbox-series-s-wouldnt-be-released",
+  "https://gamemag.ru/news/202093/fus-ro-da-bethesda-prazdnuet-15-letie-the-elder-scrolls-v-skyrim",
+  "title:Фус Ро Да: Bethesda празднует 15-летие The Elder Scrolls V: Skyrim"
 ]

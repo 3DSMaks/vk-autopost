@@ -1,13 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9092014",
-  "title:Дональд Трамп предложил главе UFC Дэйне Уайту стать пресс-секретарем Белого дома",
-  "skip:https://www.rbc.ru/politics/07/11/2026/6aef7063c74320943ee65c8f",
-  "skip:https://ria.ru/20261107/tramp-2130025868.html",
-  "skip:https://news.google.com/rss/articles/CBMingFBVV95cUxPVjlwZUZkRUtqc0VreVlMdGlfcGF6bHZjMUp4TzkwLXJnRWROVENWc2VhNjE3SXhfd0pTbGZLTDJTYzZYdWdBMTFPYVZEczVic1VuQUtnWG9zT1ZhMVFueGp1M1lYLWVrNExtM3B5SFRBM1czYW9DcUVvbkVRcnVCRDBsQS1wWDVWdHpuVXhLdEx0eUtlUUNUUXkxc2U3dw?oc=5",
-  "https://tass.ru/mezhdunarodnaya-panorama/28295273",
-  "title:Трамп поручил Минюсту расследовать угрозы импичментом и наказаниями в адрес республиканцев",
-  "skip:https://tass.ru/obschestvo/28295289",
-  "skip:https://ria.ru/20261107/polsha-2130030399.html",
   "https://www.rbc.ru/rbcfreenews/6aef7ae73c02e1f36c5b67f0",
   "title:В Польше объявлен двухдневный траур из-за стрельбы в Кракове",
   "skip:https://www.kommersant.ru/doc/9092016",
@@ -998,5 +989,14 @@
   "title:Страны ОДКБ приняли решение лишить Армению права голоса в организации",
   "skip:https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0VablB0SWViZWpCRFg4bC0yX2ZTM19HNmFFVUdqVVlwbWRuRjdpSnNXZ3liU04zeTYyZWJPSlhLeEVRTUlMS0N2SnlPdEpINzVHUTJjRXJjd3RKdEZMLS14czdZSlpjcWlJWm95bFpTNHgxblNSVlFyLWhsQ0JncVFZRGRmQ0p6cDZQRGRtNlh6LWxnVXlLRkJyelFzdTFoM285d2tQZTJvS1BkYkRzLVZwUERKc2pHbVBqOUZDSmFRbGJ4TmpmQVExbnEzOTQ?oc=5",
   "https://tass.ru/proisshestviya/28308177",
-  "title:Силы ПВО Саудовской Аравии перехватили три ракеты хуситов"
+  "title:Силы ПВО Саудовской Аравии перехватили три ракеты хуситов",
+  "skip:https://www.kommersant.ru/doc/9094954",
+  "skip:https://www.rbc.ru/politics/11/11/2026/6af4930250b80520ab29b08d",
+  "skip:https://ria.ru/20261111/darchiev-2130963172.html",
+  "skip:https://tass.ru/politika/28308373",
+  "https://www.interfax.ru/russia/1128402",
+  "title:Скончался посол России в США Александр Дарчиев",
+  "skip:https://www.theguardian.com/education/2026/nov/11/bomb-threats-hoax-schools-scotland-northern-ireland",
+  "https://www.interfax.ru/world/1128404",
+  "title:Тысячи учебных заведений в Италии и Великобритании получили ложные сообщения о минировании"
 ]

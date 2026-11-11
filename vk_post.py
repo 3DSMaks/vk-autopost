@@ -106,6 +106,16 @@ def inspect(count=4):
             print(f"   фото {ph['owner_id']}_{ph['id']}: размеров {len(sizes)}, лучший {best.get('width')}x{best.get('height')}, загрузка: {status}")
 
 
+def recent_texts(count=8):
+    """Тексты последних постов группы (новые первыми) — чтобы ведущий не повторял словечки и концовки."""
+    try:
+        items = news.vk('wall.get', token=news.photo_token(), owner_id='-' + news.GROUP_ID, count=count)['items']
+        return [p.get('text', '') for p in items if not p.get('is_pinned')]
+    except Exception as exc:
+        print('  ! прошлые посты не прочитаны:', type(exc).__name__)
+        return []
+
+
 def stats(pages=3):
     """Статистика группы для оценки (подписчики, частота постов, просмотры, реакции). Ничего не публикует."""
     from statistics import mean, median
@@ -193,7 +203,7 @@ def main():
     else:
         tg.save_history(SEEN_FILE, seen, skipped=skipped)
         raise RuntimeError('ВК не принял фото ни одной из выбранных новостей — пост не опубликован; они пропущены')
-    formatted = tg.tg_format(pick, text, channel='ВКонтакте')
+    formatted = tg.tg_format(pick, text, channel='ВКонтакте', recent=recent_texts())
     body = plain(formatted) if formatted else text.rsplit('\n\nИсточник:', 1)[0]
     message = f"{body}\n\nИсточник: {pick['link']}" if tg.SHOW_SOURCE else body
     res = news.vk('wall.post', owner_id='-' + news.GROUP_ID, from_group=1, message=message,

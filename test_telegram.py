@@ -33,6 +33,16 @@ class TelegramTests(unittest.TestCase):
         self.assertEqual(pick['link'], 'b')
         self.assertEqual(skipped, ['a'])
 
+    def test_host_signature_words_rationed(self):
+        self.assertIn('НЕ используй', tg.host_rules(['Обычный пост', 'Трейлер — сладость', 'ещё']))
+        self.assertNotIn('НЕ используй', tg.host_rules(['раз', 'два', 'три', 'Трейлер — сладость']))
+        self.assertNotIn('НЕ используй', tg.host_rules([]))
+
+    def test_host_rules_list_recent_endings(self):
+        rule = tg.host_rules(['Заголовок\n\nТекст\n\nЛично я жду премьеру.'])
+        self.assertIn('Лично я жду премьеру.', rule)
+        self.assertIn('Тип концовки этого поста', rule)
+
     def test_host_voice_only_in_vk(self):
         prompts = []
         def fake(parts, schema, *a):

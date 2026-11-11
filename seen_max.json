@@ -1,7 +1,4 @@
 [
-  "title:Слух о защите ревью-копий GTA 6 вотермаркой назвали ложным, а меры безопасности Rockstar — безумными",
-  "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/call_of_duty_modern_warfare_4_udalit_realnye_kadry_tragedii_v_seule_posle_kritiki-1886271#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.playground.ru/misc/news/konami_na_podyome_rost_pribyli_na_75_blagodarya_silent_hill_i_metal_gear_solid-1886270#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.ign.com/articles/families-who-lost-loved-ones-in-seoul-halloween-crowd-crush-call-on-activision-to-pull-real-footage-from-call-of-duty-modern-warfare-4",
   "https://www.ign.com/articles/call-of-duty-modern-warfare-4-adds-non-milsim-content-disclaimer-to-halloween-themed-content",
   "title:Call of Duty: Modern Warfare 4 Adds 'Non MilSim Content' Disclaimer to Halloween Themed Content",
@@ -998,5 +995,8 @@
   "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-players-use-in-game-ocarina-to-play-everything-from-linkin-park-titanic-and-japanese-supermarket-themes",
   "skip:https://www.ign.com/articles/we-asked-nintendo-of-americas-nate-bihldorff-about-localizing-ocarina-of-times-most-obscure-secrets",
   "https://stopgame.ru/newsdata/73460/obem_predzakazov_tomb_raider_legacy_of_atlantis_prevzoshel_ozhidaniya_embracer",
-  "title:Объём предзаказов Tomb Raider: Legacy of Atlantis превзошёл ожидания Embracer"
+  "title:Объём предзаказов Tomb Raider: Legacy of Atlantis превзошёл ожидания Embracer",
+  "skip:https://www.film.ru/news/pervyy-treyler-finalnoy-emili-v-parizhe",
+  "https://variety.com/2026/film/news/avengers-endgame-encore-disney-streaming-release-date-1236821013/",
+  "title:‘Avengers: Endgame Encore’ Sets Disney+ Streaming Release Date"
 ]

@@ -1,12 +1,4 @@
 [
-  "skip:https://tass.ru/politika/28295249",
-  "https://ria.ru/20261107/krakov-2130034019.html",
-  "title:Новые подробности и траур в Польше после стрельбы в центре Кракова",
-  "skip:https://news.google.com/rss/articles/CBMisAFBVV95cUxObzVlZDVLRWxGVlQ1a2V1cTY5NXBjcjlJVzVqbjBKRGpRLUpnWndzNlM5bFpUYjJaUU5UeG1OS2E3c205RVVNMDJaUWxoWFN2ODc1bVhnc096VFlpOFo1N1YwR2JGS2JQYURyQ3NHZEVZaFhvQU5IaWZ1VFZHRjZNTkstbVhiOTUyTDJKTjAySmE0N3FiUzZLUGJKdDdrcGllOTNmMEdHUC1DanlqZ3V5MA?oc=5",
-  "skip:https://ria.ru/20261107/vzryvy-2130035438.html",
-  "skip:https://ria.ru/20261107/keshm-2130034316.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28295319",
-  "https://tass.ru/mezhdunarodnaya-panorama/28295361",
   "title:На иранском острове Кешм и в других городах на юге страны произошли взрывы",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28295333",
   "skip:https://ria.ru/20261107/ufc-2130034226.html",
@@ -998,5 +990,13 @@
   "skip:https://tass.ru/sport/28308539",
   "skip:https://www.rbc.ru/sport/11/11/2026/6af48f77a0636aecebf941d7",
   "https://www.rbc.ru/sport/11/11/2026/6af49ca4546495018bca950c",
-  "title:Власти Канады отказались выдавать визы российским хоккеистам на молодежный чемпионат мира"
+  "title:Власти Канады отказались выдавать визы российским хоккеистам на молодежный чемпионат мира",
+  "skip:https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace",
+  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/11/russia-ukraine-talks-in-uae-secure-major-prisoner-exchange-deal?traffic_source=rss",
+  "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+  "title:Переговоры по Украине в Абу-Даби завершились соглашением об обмене пленными и обсуждением европейской безопасности",
+  "skip:https://tass.ru/obschestvo/28308623",
+  "skip:https://ria.ru/20261111/barselona-2130977171.html",
+  "https://tass.ru/mezhdunarodnaya-panorama/28308653",
+  "title:В Мадриде и Барселоне прошли массовые протесты с требованиями доступного жилья и столкновениями с полицией"
 ]

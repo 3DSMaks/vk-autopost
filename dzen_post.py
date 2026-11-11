@@ -64,6 +64,7 @@ def choose(items, recent, exclude=()):
               'дата выхода, перенос, первые оценки критиков, рекорд продаж или провал, утечка с подтверждением, '
               'экранизация AAA-игры. Только если об AAA-играх свежих новостей нет совсем — возьми громкую новость '
               'большой кино- или сериальной франшизы (Marvel, DC, «Звёздные войны», «Дюна» и т.п.). '
+              + tg.BANNED_RULE + ' '
               'Не бери мелкие скидки, рядовые патчи, слухи без источника и политику. Не бери темы, уже разобранные '
               'в канале (список ниже), если нет действительно нового поворота.\n'
               'index — номер выбранной новости; related — номера других новостей о ТОЙ ЖЕ истории (могут '
@@ -291,6 +292,9 @@ def main():
     else:
         tg.save_history(SEEN_FILE, seen, skipped=tried)
         raise RuntimeError('Ни к одной теме не нашлось фото — статья не опубликована')
+    if tg.banned(tg.article_text(pick['link'], 5000)):
+        tg.save_history(SEEN_FILE, seen, skipped=tried + [pick['link']])
+        raise RuntimeError('Выбранная тема — ЛГБТ, статья не опубликована; в следующий раз будет другая тема')
     article = fit(write(pick, related, angle))
     print(f'Статья: {visible(caption(article))} знаков, фото: {len(photos)}\n\n{caption(article, bold=False)}\n')
     if preview:

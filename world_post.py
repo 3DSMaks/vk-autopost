@@ -78,7 +78,7 @@ def fresh_items(seen):
     used = tg.history_links(seen)
     items = []
     for source, url in FEEDS.items():
-        got = [i for i in fetch_feed(source, url, now) if i['link'] not in used]
+        got = [i for i in fetch_feed(source, url, now) if i['link'] not in used and not tg.banned(i['title'], i['summary'])]
         print(f'{source}: {len(got)}')
         items += got
     items.sort(key=lambda i: i['date'], reverse=True)
@@ -112,6 +112,7 @@ def select_prompt(items, recent):
             '- Только события, о которых сообщили минимум два РАЗНЫХ агентства. Если сообщение лишь пересказывает '
             'другое агентство («как сообщает ТАСС», «according to Reuters») — его не считай отдельным источником '
             'и не включай.\n'
+            '- ' + tg.BANNED_RULE + '\n'
             '- Не бери слухи, анонимные «источники в СМИ», заявления без подтверждения, прогнозы, мнения, '
             'колонки, аналитику, обзоры, расписания и прямые трансляции.\n'
             '- Не бери события, которые уже опубликованы (список ниже), если нет существенно нового развития; '
@@ -276,6 +277,9 @@ def group_id():
 
 def publish(event):
     message = write(event)
+    if tg.banned(message):
+        print('Событие на тему ЛГБТ — не публикую:', event['title'])
+        return False
     photos, credit = photos_for(event)
     if credit:
         message += '\n' + credit

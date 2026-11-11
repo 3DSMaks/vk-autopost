@@ -17,6 +17,22 @@ class TelegramTests(unittest.TestCase):
         self.assertIn('A &lt; B', api.call_args.args[1]['caption'])
         self.assertEqual(api.call_args.args[2], {'photo': b'jpg'})
 
+    def test_banned_topic(self):
+        for text in ('ЛГБТ-персонаж в новом сериале', 'Marvel introduces a gay hero', 'трансгендерная героиня',
+                     'однополая пара в финале', 'Pride month special', 'актёр совершил каминг-аут', 'LGBTQ+ creators'):
+            self.assertTrue(tg.banned(text), text)
+        for text in ('Новый геймплей GTA 6', 'Гейб Ньюэлл о Half-Life 3', 'Геймеры ждут релиз', 'Gaynor joins cast',
+                     'Pride and Prejudice remake', 'Транспорт в Cyberpunk 2', 'Трансформеры: новый фильм'):
+            self.assertFalse(tg.banned(text), text)
+
+    def test_banned_news_skipped_by_article_text(self):
+        pool = [{'index': 0, 'link': 'a', 'title': 'Сериал'}, {'index': 1, 'link': 'b', 'title': 'Игра'}]
+        picks = iter([(pool[0], 'Текст'), (pool[1], 'Текст')])
+        with patch.object(tg.news, 'write_post', side_effect=lambda p: next(picks)),              patch.object(tg, 'article_text', side_effect=lambda link, *a: 'ЛГБТ-персонаж' if link == 'a' else 'обычная'),              patch.object(tg, 'pictures', return_value=[b'jpg']), quiet():
+            pick, _, photos, skipped = tg.pick_with_photos(pool)
+        self.assertEqual(pick['link'], 'b')
+        self.assertEqual(skipped, ['a'])
+
     def test_host_voice_only_in_vk(self):
         prompts = []
         def fake(parts, schema, *a):

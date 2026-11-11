@@ -63,6 +63,20 @@ def topic_order(published):
     return ['games', 'cinema'] if published % 2 == 0 else ['cinema', 'games']
 
 
+# Новости на ЛГБТ-тематику не публикуем (решение владельца каналов). Слова — целиком: «гей» не ловит «геймплей».
+BANNED_TOPIC = re.compile(
+    r'(?<!\w)(лгбт\w*|lgbt\w*|гей|геи|геев|геям|геями|гейск\w*|лесби\w*|лесбиян\w*|трансгендер\w*|трансперсон\w*|'
+    r'квир\w*|queer\w*|gay|gays|lesbian\w*|transgender\w*|trans woman|trans man|non-?binary|небинарн\w*|'
+    r'бисексуал\w*|bisexual\w*|гомосексуал\w*|homosexual\w*|однопол\w*|same-sex|каминг-аут\w*|camingout|'
+    r'coming out|pride month|pride parade|гей-парад\w*|drag queen\w*|дрэг-квин\w*|драг-квин\w*)(?!\w)', re.I)
+BANNED_RULE = 'Никогда не выбирай новости на ЛГБТ-тематику (ЛГБТ-персонажи, однополые отношения, трансгендерность, прайды).'
+
+
+def banned(*texts):
+    """Новость на запрещённую тему (ЛГБТ) — по заголовку, анонсу или тексту статьи."""
+    return any(BANNED_TOPIC.search(t or '') for t in texts)
+
+
 def fresh_for(topic, seen, per_feed=None):
     """Свежие новости темы: не больше per_feed с каждой ленты, чтобы плодовитые сайты не забивали выбор."""
     feeds, _ = TOPICS[topic]
@@ -76,7 +90,10 @@ def fresh_for(topic, seen, per_feed=None):
     finally:
         news.FEEDS = saved
     items.sort(key=lambda n: datetime.fromisoformat(n['date']).timestamp() if n.get('date') else 0, reverse=True)
-    items = items[:40]
+    dropped = [n for n in items if banned(n.get('title'), n.get('summary'))]
+    if dropped:
+        print('Отсеяно по теме ЛГБТ:', len(dropped))
+    items = [n for n in items if n not in dropped][:40]
     for i, n in enumerate(items):
         n['index'] = i
     return items
@@ -305,7 +322,7 @@ def tg_format(pick, draft, style=None, channel='Telegram'):
         '2. Текст после заголовка — 150–450 символов. Короткие предложения, между абзацами пустая строка.\n'
         '3. Названия игр, фильмов, сериалов и ключевые факты — <b>жирным</b>. Цитаты — в «ёлочках» с указанием, кто сказал.\n'
         '4. Факты, имена, даты, цифры и цитаты — только из текста источника, ничего не выдумывай. '
-        'Без политики, без кликбейта, без спойлеров.\n'
+        'Без политики, без ЛГБТ-тематики, без кликбейта, без спойлеров.\n'
         + ending
         + '6. Хэштег — не больше одного и только по названию франшизы (например #Warzone), можно без хэштега.\n'
         '7. Разметка — только теги <b>, <i>, <blockquote>. Без ссылок, без HTML-сущностей вроде &amp;.\n\n'
@@ -685,6 +702,13 @@ def pick_with_photos(candidates, attempts=3):
         if not pool:
             break
         pick, text = news.write_post(pool)
+        if banned(text, article_text(pick['link'])):  # тема видна только в тексте статьи
+            print('Новость на тему ЛГБТ — пропускаю:', pick['link'])
+            skipped.append(pick['link'])
+            pool = [c for c in pool if c['link'] != pick['link']]
+            for i, c in enumerate(pool):
+                c['index'] = i
+            continue
         photos = pictures(pick)
         if photos:
             return pick, text, photos, skipped

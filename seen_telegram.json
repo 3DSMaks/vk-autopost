@@ -1,7 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169639/arhitektor-forza-motorsport-pokidaet-microsoft-i-xbox-posle-27-let-rabotyi-the-verge/",
-  "skip:https://gamemag.ru/news/201907/the-verge-prodaji-gears-of-war-e-day-sostavili-vsego-400-tysyach-kopiy",
-  "skip:https://stopgame.ru/newsdata/73337/ubisoft_ne_rabotaet_nad_remeykami_assassin_s_creed_valhalla_poluchit_novuyu_igru",
   "https://www.playground.ru/misc/news/prodazhi_serii_metal_gear_prevysili_67_7_mln_kopij_tirazh_vyros_na_1_3_mln_s_nachala_leta-1886227#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Продажи серии Metal Gear превысили 67,7 млн копий - тираж вырос на 1,3 млн с начала лета",
   "skip:https://www.playground.ru/misc/news/novyj_shuter_sozdatelya_doom_sdelaet_stavku_na_svobodu_issledovaniya_kak_v_zelda_breath_of_the_wild-1886240#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +995,8 @@
   "skip:https://stopgame.ru/newsdata/73453/remeyk_the_legend_of_zelda_ocarina_of_time_kupili_5_2_mln_raz_za_pervye_4_dnya",
   "skip:https://www.igromania.ru/news/169853/double-fine-ne-brosit-kiln-umirat-goncharnyij-fajting-skoro-poluchit-ogromnoe-obnovlenie/",
   "https://stopgame.ru/newsdata/73454/dopolnenie_side_effects_guaranteed_dlya_the_outer_worlds_2_vyydet_2_dekabrya",
-  "title:Дополнение Side Effects Guaranteed для The Outer Worlds 2 выйдет 2 декабря"
+  "title:Дополнение Side Effects Guaranteed для The Outer Worlds 2 выйдет 2 декабря",
+  "skip:https://www.kinonews.ru/news_144084/",
+  "https://deadline.com/2026/11/molly-mccann-hunger-games-sunrise-on-the-reaping-louella-1237216656/",
+  "title:Rising Star Molly McCann On Finding Her Place In Panem For ‘The Hunger Games: Sunrise On The Reaping’"
 ]

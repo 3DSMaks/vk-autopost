@@ -1,8 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/201904/umer-patrik-styuart-zvezda-lyudey-iks-i-zvezdnogo-puti",
-  "skip:https://www.pcgamer.com/movies-tv/patrick-stewart-star-trek-and-shakespeare-legend-has-died/",
-  "skip:https://www.ign.com/articles/pubg-is-getting-a-live-action-series-on-netflix-written-directed-by-and-starring-donald-glover",
-  "skip:https://www.pcgamer.com/movies-tv/donald-glover-is-heading-up-a-pubg-live-action-series-for-netflix/",
   "https://www.igromania.ru/news/169633/hideo-kodzima-i-kojima-productions-rasschedrilis-na-novyij-poster-horrora-od-so-zvezdoj-ono/",
   "title:Хидео Кодзима и Kojima Productions расщедрились на новый постер хоррора OD со звездой «Оно»",
   "https://stopgame.ru/newsdata/73332/smi_xbox_skoro_anonsiruet_the_elder_scrolls_vi_sentinel",
@@ -998,5 +994,9 @@
   "title:Инсайдер объяснил перенос Resident Evil Veronica на осень 2027 года",
   "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-is-a-huge-success-for-nintendo-and-just-broke-a-switch-2-sales-record",
   "https://stopgame.ru/newsdata/73454/dopolnenie_side_effects_guaranteed_dlya_the_outer_worlds_2_vyydet_2_dekabrya",
-  "title:Дополнение Side Effects Guaranteed для The Outer Worlds 2 выйдет 2 декабря"
+  "title:Дополнение Side Effects Guaranteed для The Outer Worlds 2 выйдет 2 декабря",
+  "skip:https://www.film.ru/news/start-vovki-v-tridevyatom-carstve",
+  "skip:https://www.kinonews.ru/news_144101/",
+  "https://www.film.ru/news/novyy-treyler-debyuta-s-dzhuliannoy-mur",
+  "title:Новый трейлер Дебюта с Джулианной Мур"
 ]

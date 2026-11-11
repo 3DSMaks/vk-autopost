@@ -1,9 +1,4 @@
 [
-  "https://www.rbc.ru/rbcfreenews/6aef42b96cbdd46b71b9f586",
-  "title:Стрельба в центре Кракова привела к гибели пяти человек",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28294943",
-  "skip:https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGRyZ1FFOWdNalpDbFdEeHZqc1JMNVVkekpWT3NULUU4N0hXTkN3MTQ5dlNSWjdhaUVCWlVUQVdhbkZrOEdDZ2FlNS1qOENqVnhOWGNYcmgtSU8xN3pHUjIzdDZ5akJZNzhnR3g4U0w5NjR1NUNka204MWRxak1WN056VUQ1MEhpNnpnaWVGSF90RlBMaTBWY1R5NFJDa3Q0SE1rMDhUUHRJZ01EMDJHdkhqMTY5aFU5TGd6WTNsekRoQkcyUkE?oc=5",
-  "https://ria.ru/20261107/usa-2129982221.html",
   "title:США создали рабочую группу для ограничения сухопутных и речных перевозок оружия Ираном",
   "skip:https://www.rbc.ru/rbcfreenews/6aef49c4e1de3648a1ea9854",
   "skip:https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
@@ -998,5 +993,10 @@
   "title:В Абу-Даби завершился второй день трехсторонних переговоров по Украине",
   "skip:https://www.interfax.ru/world/1128267",
   "https://www.kommersant.ru/doc/9094534",
-  "title:Иран уведомил Россию об отказе вывозить обогащенный уран за пределы страны"
+  "title:Иран уведомил Россию об отказе вывозить обогащенный уран за пределы страны",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28306295",
+  "skip:https://www.france24.com/en/spain-s-first-general-strike-in-14-years-3-weeks-before-national-polls",
+  "skip:https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins?traffic_source=rss",
+  "https://ria.ru/20261111/ispanija-2130859429.html",
+  "title:В Испании проходит первая за 14 лет всеобщая забастовка"
 ]

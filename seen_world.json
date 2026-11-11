@@ -1,11 +1,4 @@
 [
-  "title:Минобороны сообщило об уничтожении 28 украинских беспилотников над регионами России",
-  "skip:https://www.rbc.ru/rbcfreenews/6aef5c942fca64e80dfad85d",
-  "skip:https://tass.ru/obschestvo/28295217",
-  "skip:https://www.interfax.ru/world/1127603",
-  "skip:https://www.rbc.ru/rbcfreenews/6aef625a3993aeaad624519d",
-  "skip:https://ria.ru/20261107/krakov-2130018582.html",
-  "skip:https://ria.ru/20261107/ranenye-2130018314.html",
   "skip:https://ria.ru/20261107/krakov-2130017706.html",
   "https://ria.ru/20261107/krakov-2130021528.html",
   "title:В Кракове объявили траур после стрельбы на центральной площади",
@@ -998,5 +991,12 @@
   "skip:https://news.google.com/rss/articles/CBMipwFBVV95cUxPanFkNjRuZFpXd2ZINlZJRWx3RkROMjA5UzZ4RXdWN0MtRWZyc1ZhWDFybWtrRk9ubkVPckRvYTRSLV9mcUxyOUw1WVZwOUVkUU1mRTZtVDBkUGgtZkdCSGhybnFDTkZYaWFZTXQ0c2w2Y0Jwb0xjVS1kVnByd3EzcFIzdHZWbExNOERpdHcwYm4wS2RBMFFBR3JkVnQzeWRpU3VoWElrNA?oc=5",
   "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
   "skip:https://ria.ru/20261111/ispaniya-2130889145.html",
-  "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcmd4bjFKTVdpSHgwbmZibHdXbWJNdzYwYkRDekc0MjNIcm5HV0xHVjYxc1BTdDhWRWZ1UDVkR1ZpTW1seTF4MmpRejhKUGd4NlVUdUNnNTRZUVBYY0JYbEU5cWZvZTRDWkdsZkxFVHJsMVJIVXl2N3pHWFZnQm42RFZlZVR2cDUwRUVJb2o3SnZTcExZQ2R0MGFGUVZaMGF1WF9tY3N5R29HNVRPRVE1dW5QRURKZFhMWHRvS05rTTlvUkRUVHloVjJNMndLNlU?oc=5"
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcmd4bjFKTVdpSHgwbmZibHdXbWJNdzYwYkRDekc0MjNIcm5HV0xHVjYxc1BTdDhWRWZ1UDVkR1ZpTW1seTF4MmpRejhKUGd4NlVUdUNnNTRZUVBYY0JYbEU5cWZvZTRDWkdsZkxFVHJsMVJIVXl2N3pHWFZnQm42RFZlZVR2cDUwRUVJb2o3SnZTcExZQ2R0MGFGUVZaMGF1WF9tY3N5R29HNVRPRVE1dW5QRURKZFhMWHRvS05rTTlvUkRUVHloVjJNMndLNlU?oc=5",
+  "skip:https://www.interfax.ru/world/1128332",
+  "skip:https://www.interfax.ru/world/1128329",
+  "skip:https://www.rbc.ru/politics/11/11/2026/6af45d3433169d4b60c492d2",
+  "https://www.interfax.ru/world/1128337",
+  "skip:https://news.google.com/rss/articles/CBMi4wFBVV95cUxOb0JFd2U5WjhCeFZQTlRBQTBpQng0Mkh4YV95T1FXTDVsNVJVZGdHSEx3Sk1tWlM3akQ3bG41TkVtN05YNlB2WHFrQ3FCcjEwVVJubHhtTEFfckZ3RHMzMTBsTU90S0ZUWExuY1l5V3dwNHUySWk4eUlvWGMxSXVjR3pZWTgtQk92Yl84NFl0aEpnSDFDZjBKT0xzN0ZKbXJyb2dVeTBVOXZRb0Vlb2V2TWFVeUM2V0dQemtjQ0VvckkwbGhSaVZrUmx5SDczNWZ6QVFKdWhpM1N6V0ttZTUxRTlPWQ?oc=5",
+  "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
+  "title:В Кении выписали из больницы последнего пациента с вирусом Эбола"
 ]

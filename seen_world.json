@@ -1,8 +1,4 @@
 [
-  "https://tass.ru/mezhdunarodnaya-panorama/28295955",
-  "title:Саудовская Аравия перехватила ракеты хуситов над Эр-Риядом",
-  "skip:https://tass.ru/kosmos/28295931",
-  "skip:https://ria.ru/20261108/solntse-2130078108.html",
   "skip:https://tass.ru/kosmos/28295927",
   "https://www.interfax.ru/world/1127654",
   "title:На Солнце зафиксировали рекордную серию вспышек",
@@ -998,5 +994,9 @@
   "skip:https://www.interfax.ru/russia/1128437",
   "skip:https://ria.ru/20261111/vsu-2130997942.html",
   "https://www.kommersant.ru/doc/9095064",
-  "title:Число пострадавших при ударе БПЛА по автобусу в ДНР возросло до девяти"
+  "title:Число пострадавших при ударе БПЛА по автобусу в ДНР возросло до девяти",
+  "skip:https://www.interfax.ru/russia/1128440",
+  "skip:https://tass.ru/politika/28308917",
+  "https://ria.ru/20261112/putin-2131000414.html",
+  "title:Владимир Путин встретится в Москве со спецпосланниками США Стивом Уиткоффом и Джаредом Кушнером"
 ]

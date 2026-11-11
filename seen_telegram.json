@@ -1,8 +1,4 @@
 [
-  "https://gamemag.ru/news/201900/the-verge-microsoft-planiruet-anonsirovat-v-noyabre-the-elder-scrolls-vi-sentinel",
-  "title:The Verge: Microsoft планирует анонсировать в ноябре The Elder Scrolls VI: Sentinel",
-  "skip:https://deadline.com/2026/10/demon-slayer-anime-annual-report-japan-tiffcom-1237209296/",
-  "skip:https://variety.com/2026/film/markets-festivals/japan-anime-market-record-28-billion-local-sales-surge-1236934838/",
   "skip:https://www.film.ru/news/novyy-triller-s-dzheymsom-makevoem",
   "https://www.film.ru/news/tizer-multseriala-death-stranding-isolations",
   "title:Тизер мультсериала Death Stranding Isolations",
@@ -998,5 +994,9 @@
   "skip:https://kg-portal.ru/comments/135740-dlja-milli-bobbi-braun-netflix-nashel-scenarij-vydajuschejsja-romanticheskoj-komedii/",
   "skip:https://www.film.ru/news/start-vovki-v-tridevyatom-carstve",
   "https://www.film.ru/news/prichiny-uvolneniya-dzheymsa-ganna-iz-dc",
-  "title:Причины увольнения Джеймса Ганна из DC"
+  "title:Причины увольнения Джеймса Ганна из DC",
+  "skip:https://kg-portal.ru/comments/135741-tolko-chto-uvolivshij-dzhejmsa-ganna-glava-skydance-verit-chto-ii-mozhet-reshit-mnogie-problemy-gollivuda/",
+  "skip:https://www.film.ru/news/remeyk-ulicy-vyazov-v-rabote",
+  "https://www.film.ru/news/novyy-treyler-debyuta-s-dzhuliannoy-mur",
+  "title:Новый трейлер Дебюта с Джулианной Мур"
 ]

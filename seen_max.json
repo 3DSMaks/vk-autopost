@@ -1,8 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/201901/-the-wolf-among-us-remastered-reliznyj-trejler-uzhe-v-prodazhe",
-  "skip:https://www.igromania.ru/news/169622/fanatyi-pohvalili-remaster-the-wolf-among-us-za-sohranenie-stilya-originala-v-pervyih-otzyivah/",
-  "https://www.ign.com/articles/bethesda-pays-tribute-to-patrick-stewart-for-his-role-in-oblivion-fans-remember-his-role-in-games-like-castlevania",
-  "title:Bethesda Pays Tribute to Patrick Stewart for His Role in Oblivion, Fans Remember His Role in Games Like Castlevania",
   "https://kg-portal.ru/comments/135598-majatnik-trejler/",
   "title:Продюсер Даррен Аронофски и сценарист \"Чёрного лебедя\" устроили настоящий кошмар в трейлере ужастика \"Маятник\"",
   "skip:https://stopgame.ru/newsdata/73341/simulyator_zhizni_petit_planet_startuet_4_dekabrya",
@@ -998,5 +994,9 @@
   "skip:https://stopgame.ru/newsdata/73451/avtory_big_walk_priznalis_v_ispolzovanii_ii_pri_razrabotke_igry",
   "skip:https://www.igromania.ru/news/169847/pervoe-syuzhetnoe-dopolnenie-dlya-the-outer-worlds-2-vyijdet-v-nachale-dekabrya/",
   "https://www.ign.com/articles/elder-scrolls-oblivion-remastered-switch-2-physical-edition-in-stock",
-  "title:The Elder Scrolls IV: Oblivion Remastered Physical Edition is Finally Back in Stock for Switch 2"
+  "title:The Elder Scrolls IV: Oblivion Remastered Physical Edition is Finally Back in Stock for Switch 2",
+  "skip:https://www.playground.ru/phantom_blade_zero/news/igroki_playstation_priznali_phantom_blade_zero_luchshej_igroj_oktyabrya-1889754#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169864/phantom-blade-zero-stala-luchshej-igroj-oktyabrya-po-versii-polzovatelej-playstation-blog/",
+  "https://www.ign.com/articles/mass-effect-could-still-be-saved-ex-bioware-developer-suggests-with-clair-obscur-expedition-33-holding-the-key",
+  "title:Mass Effect Could Still Be Saved, Ex-BioWare Developer Suggests, With Clair Obscur: Expedition 33 Holding the Key"
 ]

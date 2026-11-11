@@ -1,12 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9092085",
-  "https://www.rbc.ru/rbcfreenews/6af0202b5a478a6376ed382d",
-  "title:Компания SpaceX назначила 15-й испытательный пуск ракетной системы Starship на 13 ноября",
-  "skip:https://www.interfax.ru/russia/1127651",
-  "https://news.google.com/rss/articles/CBMitAFBVV95cUxORkE4VEFBVF9KWlRaRk9HRmtvVGh4cTlxanVleGY5WXZtVnNVSF9LTEQtd0NvbW9YbnE0TndLS052dU5kaUZtRjJrUzZiMXVhVFdWTlNBT2xGV203cTdOREg1YmZDMGRkM081d1hzbjJJWlR4ZG9tTVpSX19rZkVHdGhhRVVmbHVFRVhfVTJnVWFvRVlSYTdLSGRmTHd2WGxMZm15RTNGQ05DLVRXVm1jMDh1Rms?oc=5",
-  "title:Запорожская АЭС потеряла внешнее электроснабжение",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28295877",
-  "skip:https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
   "https://tass.ru/mezhdunarodnaya-panorama/28295955",
   "title:Саудовская Аравия перехватила ракеты хуситов над Эр-Риядом",
   "skip:https://tass.ru/kosmos/28295931",
@@ -998,5 +990,13 @@
   "skip:https://ria.ru/20261111/ogranichenija-2130997147.html",
   "skip:https://tass.ru/ekonomika/28308871",
   "https://www.interfax.ru/russia/1128441",
-  "title:Аэропорты Домодедово и Жуковский возобновили работу после временных ограничений"
+  "title:Аэропорты Домодедово и Жуковский возобновили работу после временных ограничений",
+  "skip:https://www.aljazeera.com/news/2026/11/11/trumps-white-house-calls-democratic-plans-for-congressional-probes-abuse?traffic_source=rss",
+  "skip:https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkF3VkJLSWtHYzVKNWo1bC1RYmhjSTZLV3lIdjJPSDRudEVXR0tNM0M4VWVtcHJ6VHQ5ME84SGlCVmYyWGRha2NZR1ZZdHQ4dVlsVG1vUXJFdzVoYnIxSlNfZ1NzQ1FWcTNYMFp1RlJEZUx0MkJlZ0pFRGZrX19nNG1QZVYwM1ZrSmtCb1ZPNUFSM28?oc=5",
+  "https://tass.ru/mezhdunarodnaya-panorama/28308975",
+  "title:Белый дом заявил о возможном возбуждении уголовных дел против демократов из-за планов расследований",
+  "skip:https://www.interfax.ru/russia/1128437",
+  "skip:https://ria.ru/20261111/vsu-2130997942.html",
+  "https://www.kommersant.ru/doc/9095064",
+  "title:Число пострадавших при ударе БПЛА по автобусу в ДНР возросло до девяти"
 ]

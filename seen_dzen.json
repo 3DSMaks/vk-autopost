@@ -232,5 +232,9 @@
   "skip:https://www.ign.com/articles/gta-6-was-never-going-to-be-60-frames-per-second-on-consoles",
   "skip:https://www.ign.com/articles/gta-6-fans-are-divided-over-confirmation-of-30fps",
   "https://www.ign.com/articles/sony-confirms-gta-6-is-now-the-most-preordered-game-in-playstation-store-history-issues-official-preload-warning",
-  "title:GTA 6 Now the Most Preordered Game in PlayStation Store and Microsoft Store History, Official Preload Warning Issued"
+  "title:GTA 6 Now the Most Preordered Game in PlayStation Store and Microsoft Store History, Official Preload Warning Issued",
+  "skip:https://www.pcgamer.com/gaming-industry/sony-cancels-another-live-service-game-ahead-of-release-but-at-least-there-wont-be-any-layoffs-this-time/",
+  "skip:https://www.ign.com/articles/playstation-cancels-live-service-heist-shooter-fairgames",
+  "https://stopgame.ru/newsdata/73452/shrayer_sony_otmenila_onlayn_shuter_fairgames",
+  "title:Шрайер: Sony отменила онлайн-шутер Fairgame$"
 ]

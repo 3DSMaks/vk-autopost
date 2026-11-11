@@ -1,15 +1,4 @@
 [
-  "title:Силы ПВО Саудовской Аравии перехватили две ракеты хуситов над Эр-Риядом",
-  "skip:https://www.interfax.ru/russia/1127649",
-  "skip:https://www.kommersant.ru/doc/9092082",
-  "skip:https://tass.ru/proisshestviya/28295879",
-  "skip:https://ria.ru/20261108/zaes-2130072572.html",
-  "https://ria.ru/20261108/liniya-2130073105.html",
-  "title:Запорожская АЭС потеряла внешнее электроснабжение из-за повреждения линии «Ферросплавная-1»",
-  "skip:https://www.sport-interfax.ru/1127646",
-  "skip:https://www.kommersant.ru/doc/9092074",
-  "https://www.rbc.ru/sport/08/11/2026/6af02d2af07a758c7ac38ac7",
-  "title:Хоккеист Евгений Малкин вошел в топ-20 лучших бомбардиров в истории НХЛ",
   "skip:https://www.kommersant.ru/doc/9092085",
   "https://www.rbc.ru/rbcfreenews/6af0202b5a478a6376ed382d",
   "title:Компания SpaceX назначила 15-й испытательный пуск ракетной системы Starship на 13 ноября",
@@ -998,5 +987,16 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28308867",
   "skip:https://www.interfax.ru/world/1128433",
   "https://www.kommersant.ru/doc/9095063",
-  "title:США предложили России подготовить соглашение о европейской безопасности"
+  "title:США предложили России подготовить соглашение о европейской безопасности",
+  "skip:https://www.sport-interfax.ru/1128438",
+  "https://www.kommersant.ru/doc/9095062",
+  "title:Российский боец ММА Усман Нурмагомедов задержан в Абу-Даби после драки",
+  "skip:https://tass.ru/ekonomika/28308943",
+  "skip:https://www.interfax.ru/russia/1128436",
+  "skip:https://tass.ru/obschestvo/28308897",
+  "skip:https://www.interfax.ru/russia/1128434",
+  "skip:https://ria.ru/20261111/ogranichenija-2130997147.html",
+  "skip:https://tass.ru/ekonomika/28308871",
+  "https://www.interfax.ru/russia/1128441",
+  "title:Аэропорты Домодедово и Жуковский возобновили работу после временных ограничений"
 ]

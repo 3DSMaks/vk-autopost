@@ -1,6 +1,4 @@
 [
-  "skip:https://www.film.ru/news/novyy-triller-s-dzheymsom-makevoem",
-  "https://www.film.ru/news/tizer-multseriala-death-stranding-isolations",
   "title:Тизер мультсериала Death Stranding Isolations",
   "skip:https://stopgame.ru/newsdata/73332/smi_xbox_skoro_anonsiruet_the_elder_scrolls_vi_sentinel",
   "https://www.ign.com/articles/assassins-creed-valhalla-is-getting-new-game-six-years-after-release",
@@ -998,5 +996,7 @@
   "skip:https://kg-portal.ru/comments/135741-tolko-chto-uvolivshij-dzhejmsa-ganna-glava-skydance-verit-chto-ii-mozhet-reshit-mnogie-problemy-gollivuda/",
   "skip:https://www.film.ru/news/remeyk-ulicy-vyazov-v-rabote",
   "https://www.film.ru/news/novyy-treyler-debyuta-s-dzhuliannoy-mur",
-  "title:Новый трейлер Дебюта с Джулианной Мур"
+  "title:Новый трейлер Дебюта с Джулианной Мур",
+  "https://www.film.ru/news/pesn-palacha-dzheykoba-elordi",
+  "title:Песнь Палача Джейкоба Элорди"
 ]

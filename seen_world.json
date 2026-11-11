@@ -1,15 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28295391",
-  "skip:https://ria.ru/20261107/krakov-2130037833.html",
-  "https://www.rbc.ru/politics/08/11/2026/6aef9111867e39a5978d25c3",
-  "title:В доме устроившего стрельбу в Кракове нашли еще три тела",
-  "skip:https://ria.ru/20261107/krakov-2130037965.html",
-  "skip:https://www.rbc.ru/society/07/11/2026/6aef85f99e543f790d79ca23",
-  "https://tass.ru/mezhdunarodnaya-panorama/28295389",
-  "title:Полиция сообщила о гибели гражданина Британии при стрельбе в Кракове",
-  "skip:https://www.interfax.ru/world/1127620",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28295415",
-  "skip:https://www.rbc.ru/rbcfreenews/6aef9319a5387231a9b6ea7d",
   "skip:https://www.kommersant.ru/doc/9092011",
   "skip:https://ria.ru/20261107/krakov-2130037360.html",
   "skip:https://www.rbc.ru/rbcfreenews/6aef8629e6803857c9e78ab6",
@@ -998,5 +987,16 @@
   "title:Правительство Канады отказалось выдавать визы российским хоккеистам для участия в молодежном чемпионате мира",
   "skip:https://www.interfax.ru/world/1128420",
   "https://www.rbc.ru/rbcfreenews/6af4b17cba052cb755a71aa7",
-  "title:Президент Армении подписал закон о ратификации соглашения с США по проекту «Маршрут Трампа»"
+  "title:Президент Армении подписал закон о ратификации соглашения с США по проекту «Маршрут Трампа»",
+  "skip:https://www.rbc.ru/rbcfreenews/6af4b918ef2179323398cd0e",
+  "skip:https://www.kommersant.ru/doc/9095041",
+  "skip:https://ria.ru/20261111/darchiev-2130984344.html",
+  "skip:https://tass.ru/obschestvo/28308697",
+  "skip:https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66?traffic_source=rss",
+  "https://ria.ru/20261111/mid-2130990621.html",
+  "skip:https://www.interfax.ru/russia/1128429",
+  "skip:https://tass.ru/proisshestviya/28308781",
+  "skip:https://ria.ru/20261111/dtp-2130987644.html",
+  "https://www.kommersant.ru/doc/9095051",
+  "title:Семь человек погибли в ДТП в Марий Эл"
 ]

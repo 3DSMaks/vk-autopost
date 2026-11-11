@@ -1,7 +1,4 @@
 [
-  "skip:https://www.rbc.ru/politics/07/11/2026/6aef7183c1c74b39a631440b",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28295267",
-  "skip:https://ria.ru/20261107/tramp-2130027877.html",
   "https://www.kommersant.ru/doc/9092014",
   "title:Дональд Трамп предложил главе UFC Дэйне Уайту стать пресс-секретарем Белого дома",
   "skip:https://www.rbc.ru/politics/07/11/2026/6aef7063c74320943ee65c8f",
@@ -998,5 +995,8 @@
   "skip:https://www.kommersant.ru/doc/9094859",
   "skip:https://www.rbc.ru/politics/11/11/2026/6af47b6e4eb570f592a17551",
   "https://ria.ru/20261111/armeniya-2130932542.html",
-  "title:Страны ОДКБ приняли решение лишить Армению права голоса в организации"
+  "title:Страны ОДКБ приняли решение лишить Армению права голоса в организации",
+  "skip:https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0VablB0SWViZWpCRFg4bC0yX2ZTM19HNmFFVUdqVVlwbWRuRjdpSnNXZ3liU04zeTYyZWJPSlhLeEVRTUlMS0N2SnlPdEpINzVHUTJjRXJjd3RKdEZMLS14czdZSlpjcWlJWm95bFpTNHgxblNSVlFyLWhsQ0JncVFZRGRmQ0p6cDZQRGRtNlh6LWxnVXlLRkJyelFzdTFoM285d2tQZTJvS1BkYkRzLVZwUERKc2pHbVBqOUZDSmFRbGJ4TmpmQVExbnEzOTQ?oc=5",
+  "https://tass.ru/proisshestviya/28308177",
+  "title:Силы ПВО Саудовской Аравии перехватили три ракеты хуситов"
 ]

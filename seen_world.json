@@ -1,11 +1,4 @@
 [
-  "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
-  "title:В Новой Зеландии проходят парламентские выборы и подсчет голосов",
-  "skip:https://www.kommersant.ru/doc/9091926",
-  "skip:https://www.rbc.ru/sport/07/11/2026/6aef042fa5387231a9b6ea21",
-  "https://www.sport-interfax.ru/1127572",
-  "title:Международная федерация хоккея оставила в силе отстранение сборных Белоруссии от чемпионата мира 2027 года",
-  "skip:https://www.interfax.ru/business/1127571",
   "skip:https://tass.ru/ekonomika/28294713",
   "https://www.kommersant.ru/doc/9091932",
   "title:Газпром сообщил о многократном росте поставок трубопроводного газа в Турцию",
@@ -998,5 +991,12 @@
   "skip:https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
   "skip:https://www.interfax.ru/world/1128181",
   "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YS3VyaTdRakNsNDN3dW0tREgyWG1YQVBWRkRDUmVhTVhDYTA0UFR3QnBnTGlMM0lmNHJpMG9NZ3FWZVNzZFBKeUJ4WnprWUVxemVfXzA3eFloclFYNEpyaFJ1YTFqVVk?oc=5",
-  "title:Палата представителей США заблокировала попытку импичмента главы Пентагона Пита Хегсета"
+  "title:Палата представителей США заблокировала попытку импичмента главы Пентагона Пита Хегсета",
+  "skip:https://www.interfax.ru/russia/1128217",
+  "skip:https://www.rbc.ru/rbcfreenews/6af410c58e50cc57a4cae4d0",
+  "https://www.kommersant.ru/doc/9094287",
+  "title:Минобороны РФ сообщило об уничтожении 627 украинских беспилотников за ночь",
+  "skip:https://www.interfax.ru/business/1128218",
+  "https://www.kommersant.ru/doc/9094296",
+  "title:Чистая прибыль Сбербанка по РСБУ за 10 месяцев выросла на 17,6%"
 ]

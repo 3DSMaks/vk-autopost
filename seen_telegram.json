@@ -1,12 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73336/crimson_desert_poluchila_dopolnenie_charting_the_unknown",
-  "skip:https://www.igromania.ru/news/169632/igroki-crimson-desert-zhaluyutsya-na-bagi-v-dopolnenii-puteshestvie-v-neizvedannoe/",
-  "skip:https://www.pcgamer.com/games/rpg/crimson-desert-how-to-start-charting-the-unknown-dlc/",
-  "https://www.playground.ru/dark_souls_3/news/servery_dark_souls_2_i_dark_souls_3_vnezapno_otklyuchili_na_vseh_platformah-1886236#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Серверы Dark Souls 2 и Dark Souls 3 внезапно отключили на всех платформах",
-  "skip:https://kg-portal.ru/comments/135596-dzhejms-gann-gotov-kak-ugodno-nagibat-kanon-esli-margo-robbi-vernetsja-k-roli-harli-kvinn/",
-  "https://kg-portal.ru/comments/135581-postery-filma-mstiteli-doktor-dum/",
-  "title:Персонаж Роберта Дауни-младшего в самых разных злодейских позах на постерах \"Мстителей: Доктор Дум\"",
   "https://www.kinonews.ru/news_143897/",
   "title:Джеймс Ганн готовится представить нового Бэтмена для киновселенной DC",
   "skip:https://stopgame.ru/newsdata/73339/grinding_gear_games_opublikovala_tizer_reliznoy_versii_path_of_exile_2",
@@ -998,5 +990,13 @@
   "skip:https://stopgame.ru/newsdata/73455/otgruzki_ps5_dostigli_100_mln_edinic",
   "skip:https://www.igromania.ru/news/169850/uspeh-prodolzhaetsya-capcom-prodala-1-mln-kopij-monster-hunter-stories-3-twisted-reflection/",
   "https://www.playground.ru/max_payne/news/atmosfernyj_nuar_snimok_sema_lejka_podogrel_sluhi_o_skoroj_prezentatsii_remejka_max_payne-1889721#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Атмосферный нуар-снимок Сэма Лейка подогрел слухи о скорой презентации ремейка Max Payne"
+  "title:Атмосферный нуар-снимок Сэма Лейка подогрел слухи о скорой презентации ремейка Max Payne",
+  "skip:https://www.playground.ru/kingdom_come_deliverance_2/news/warhorse_studios_soobschaet_o_progresse_posle_hakerskoj_ataki_razrabotka_igr_ostayotsya_v_prioritete-1889734#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/gta_6/news/na_fone_rosta_tsen_na_benzin_i_produkty_pitaniya_gta_6_za_80_dollarov_eto_vygodnaya_sdelka_schitaet_glava_take_two-1889732#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169863/sozdateli-kingdom-come-deliverance-prokommentirovali-vosstanovlenie-posle-kiberataki/",
+  "skip:https://www.igromania.ru/news/169862/horror-hellraiser-revival-poluchil-demoversiyu-na-ps5-i-xbox-series/",
+  "skip:https://www.igromania.ru/news/169861/neprostyie-vremena-pokupajte-gta-izdatel-grand-theft-auto-6-schitaet-igru-vyigodnyim-predlozheniem/",
+  "skip:https://stopgame.ru/newsdata/73451/avtory_big_walk_priznalis_v_ispolzovanii_ii_pri_razrabotke_igry",
+  "https://www.ign.com/articles/elder-scrolls-oblivion-remastered-switch-2-physical-edition-in-stock",
+  "title:The Elder Scrolls IV: Oblivion Remastered Physical Edition is Finally Back in Stock for Switch 2"
 ]

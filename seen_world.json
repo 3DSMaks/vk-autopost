@@ -1,9 +1,4 @@
 [
-  "skip:https://www.rbc.ru/sport/07/11/2026/6aeef4cc44bd203da2f6797d",
-  "skip:https://tass.ru/sport/28294631",
-  "https://www.sport-interfax.ru/1127570",
-  "title:Александра Трусова завоевала серебро на этапе Гран-при ISU в Китае",
-  "skip:https://www.kommersant.ru/doc/9091918",
   "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
   "title:В Новой Зеландии проходят парламентские выборы и подсчет голосов",
   "skip:https://www.kommersant.ru/doc/9091926",
@@ -998,5 +993,10 @@
   "skip:https://ria.ru/20261111/peregovory-2130760143.html",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28304475",
   "https://www.kommersant.ru/doc/9094116",
-  "title:Владимир Путин и Александр Лукашенко провели переговоры в Ново-Огареве"
+  "title:Владимир Путин и Александр Лукашенко провели переговоры в Ново-Огареве",
+  "skip:https://www.rbc.ru/rbcfreenews/6af3bd3506f27a090bca3d57",
+  "skip:https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+  "skip:https://www.interfax.ru/world/1128181",
+  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YS3VyaTdRakNsNDN3dW0tREgyWG1YQVBWRkRDUmVhTVhDYTA0UFR3QnBnTGlMM0lmNHJpMG9NZ3FWZVNzZFBKeUJ4WnprWUVxemVfXzA3eFloclFYNEpyaFJ1YTFqVVk?oc=5",
+  "title:Палата представителей США заблокировала попытку импичмента главы Пентагона Пита Хегсета"
 ]

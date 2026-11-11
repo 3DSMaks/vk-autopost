@@ -1,7 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169631/moya-mama-prevratilas-v-krater-anime-death-stranding-isolations-poluchilo-pervyij-tizer-trejler/",
-  "skip:https://www.igromania.ru/news/169629/umer-legendarnyij-aktyor-patrik-styuart-zvezde-lyudej-iks-i-zvyozdnogo-puti-byilo-86-let/",
-  "skip:https://www.pcgamer.com/games/rpg/crimson-desert-how-to-start-charting-the-unknown-dlc/",
   "skip:https://gamemag.ru/news/201904/umer-patrik-styuart-zvezda-lyudey-iks-i-zvezdnogo-puti",
   "skip:https://www.pcgamer.com/movies-tv/patrick-stewart-star-trek-and-shakespeare-legend-has-died/",
   "skip:https://www.ign.com/articles/pubg-is-getting-a-live-action-series-on-netflix-written-directed-by-and-starring-donald-glover",
@@ -998,5 +995,8 @@
   "skip:https://gamemag.ru/news/202078/novyy-treyler-gta-vi-posvyashchen-ps5-versii-igra-ustanovila-rekord-na-xbox",
   "skip:https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-is-the-most-pre-ordered-game-of-all-time-on-both-xbox-and-playstation/",
   "https://gamemag.ru/news/202083/resident-evil-veronica-trailer-pushed-back-after-internal-delay-to-fall-2027-rumor",
-  "title:Инсайдер объяснил перенос Resident Evil Veronica на осень 2027 года"
+  "title:Инсайдер объяснил перенос Resident Evil Veronica на осень 2027 года",
+  "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-is-a-huge-success-for-nintendo-and-just-broke-a-switch-2-sales-record",
+  "https://stopgame.ru/newsdata/73454/dopolnenie_side_effects_guaranteed_dlya_the_outer_worlds_2_vyydet_2_dekabrya",
+  "title:Дополнение Side Effects Guaranteed для The Outer Worlds 2 выйдет 2 декабря"
 ]

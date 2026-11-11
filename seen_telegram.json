@@ -1,9 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169636/path-of-exile-2-poluchila-svezhij-tizer-k-polnotsennomu-relizu-novyij-kontent-predstavyat-6-noyabrya/",
-  "skip:https://www.igromania.ru/news/169630/v-buduschem-assassins-creed-poka-net-novyih-remejkov-no-est-proektyi-syurprizyi-i-apdejt-dlya-valhalla/",
-  "skip:https://www.ign.com/articles/ubisoft-shares-cryptic-assassins-creed-codename-hexe-update",
-  "https://www.igromania.ru/news/169627/the-outer-worlds-2-poluchila-tizer-pervogo-syuzhetnogo-dopolneniya-side-effects-guaranteed/",
-  "title:The Outer Worlds 2 получила тизер первого сюжетного дополнения Side Effects Guaranteed",
   "skip:https://stopgame.ru/newsdata/73341/simulyator_zhizni_petit_planet_startuet_4_dekabrya",
   "skip:https://www.playground.ru/petit_planet/news/petit_planet_ot_hoyoverse_vyjdet_4_dekabrya_avtory_genshin_impact_gotovyat_uyutnuyu_alternativu_animal_crossing-1886226#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://gamemag.ru/news/201863/fromsoftwares-switch-2-exclusive-the-duskbloods-has-been-delayed-to-2027",
@@ -998,5 +993,10 @@
   "https://variety.com/2026/film/global/heavens-gate-cult-thriller-the-leader-us-dark-sky-films-1236943712/",
   "title:Heaven’s Gate Cult Thriller ‘The Leader,’ Starring Vera Farmiga, Tim Blake Nelson and Jim Parsons, Bought for U.S. by Dark Sky Films (EXCLUSIVE)",
   "https://variety.com/2026/film/focus/stephen-cognetti-hell-house-llc-director-body-in-the-woods-1236941916/",
-  "title:From a ‘Hell House’ to ‘The Woods,’ Stephen Cognetti Proves His Versatility as a Scary Movie Maestro"
+  "title:From a ‘Hell House’ to ‘The Woods,’ Stephen Cognetti Proves His Versatility as a Scary Movie Maestro",
+  "skip:https://stopgame.ru/newsdata/73464/byvshiy_rukovoditel_serii_tekken_raskritikoval_xbox_series_s",
+  "skip:https://stopgame.ru/newsdata/73458/remaster_shrek_2_startoval_so_smeshannymi_otzyvami_v_steam",
+  "skip:https://www.igromania.ru/news/169849/shrek-eto-lyubov-shrek-eto-zhizn-a-shrek-2-remastered-eto-smeshannyij-rejting-v-steam/",
+  "https://stopgame.ru/newsdata/73460/obem_predzakazov_tomb_raider_legacy_of_atlantis_prevzoshel_ozhidaniya_embracer",
+  "title:Объём предзаказов Tomb Raider: Legacy of Atlantis превзошёл ожидания Embracer"
 ]

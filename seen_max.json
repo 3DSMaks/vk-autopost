@@ -1,9 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73327/fromsoftware_perenesla_reliz_the_duskbloods_na_2027_god",
-  "skip:https://www.playground.ru/duskbloods/news/fromsoftware_perenesla_vyhod_the_duskbloods_eksklyuziva_dlya_switch_2_na_2027_god-1885968#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://stopgame.ru/newsdata/73325/phantom_blade_zero_startovala_s_ochen_polozhitelnymi_otzyvami_v_steam",
-  "skip:https://www.playground.ru/gothic/news/dlya_remejk_gothic_vyshlo_novoe_obnovlenie_dobavleny_fotorezhim_chit_kody_i_novye_varianty_vneshnosti_geroya-1885965#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169617/originalnyij-saundtrek-gta-6-vyijdet-11-dekabrya-v-nego-vojdut-30-trekov-justice/",
   "skip:https://www.ign.com/articles/the-gta-6-original-score-has-a-release-date-and-a-brand-new-track-you-can-listen-to-right-now",
   "skip:https://www.ign.com/articles/phantom-blade-zero-day-one-update-nvidia-driver-warning",
   "https://www.ign.com/articles/fromsoftwares-nintendo-switch-2-exclusive-the-duskbloods-officially-delayed-into-2027",
@@ -998,5 +993,10 @@
   "skip:https://stopgame.ru/newsdata/73445/naytkrouler_pytaetsya_spasti_den_v_trailere_11_sezona_marvel_rivals",
   "skip:https://www.igromania.ru/news/169830/prodazhi-shutera-arc-raiders-prevyisili-17-mln-kopij-v-mae-soobschalos-o-16-mln-kopij/",
   "https://stopgame.ru/newsdata/73442/modern_warfare_4_vernula_liderstvo_v_charte_steam_no_tolko_v_platnom_spiske",
-  "title:Modern Warfare 4 вернула лидерство в чарте Steam, но только в «платном» списке"
+  "title:Modern Warfare 4 вернула лидерство в чарте Steam, но только в «платном» списке",
+  "skip:https://variety.com/2026/film/news/visionquest-elizabeth-olsen-avengers-doomsday-scarlet-witch-1235365599/",
+  "skip:https://www.film.ru/news/remeyk-vam-pismo",
+  "skip:https://kg-portal.ru/comments/135734-klassika-zhanra-romanticheskih-komedij-vam-pismo-poluchit-nikomu-ne-nuzhnyj-remejk/",
+  "https://deadline.com/2026/11/visionquest-teases-avengers-doomsday-character-post-credits-scene-1237220017/",
+  "title:‘VisionQuest’ Teases Surprise ‘Avengers: Doomsday’ Character Return In Post-Credits Scene"
 ]

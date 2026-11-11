@@ -1,10 +1,4 @@
 [
-  "skip:https://tass.ru/ekonomika/28294713",
-  "https://www.kommersant.ru/doc/9091932",
-  "title:Газпром сообщил о многократном росте поставок трубопроводного газа в Турцию",
-  "skip:https://www.interfax.ru/russia/1127574",
-  "skip:https://tass.ru/obschestvo/28294761",
-  "https://tass.ru/proisshestviya/28294789",
   "title:В Донецке из-за крупной аварии более 120 тыс. абонентов остались без света",
   "skip:https://news.google.com/rss/articles/CBMilwFBVV95cUxNZHBvWlRRd01wR0toUFJoUS1LcHFTbEZkT0doUlpzZlFvYWwxZ2k5QVJSOVluYkZHOFZ2eVpRbXBfWTc4QncyV0cyS2hVNUViQ1ZvaEZzcUtudlFhNTNjb3lKVkRVMk5jaWZTQ3VWSlhlZGVRd2pHSHJOQ3pqeGtMVUFZeWg4WFp3NmRfcHRMN09yOUY2WkZr?oc=5",
   "https://www.france24.com/en/banking-scandal-topples-paraguay-leader",
@@ -998,5 +992,11 @@
   "title:Минобороны РФ сообщило об уничтожении 627 украинских беспилотников за ночь",
   "skip:https://www.interfax.ru/business/1128218",
   "https://www.kommersant.ru/doc/9094296",
-  "title:Чистая прибыль Сбербанка по РСБУ за 10 месяцев выросла на 17,6%"
+  "title:Чистая прибыль Сбербанка по РСБУ за 10 месяцев выросла на 17,6%",
+  "skip:https://www.interfax.ru/world/1128234",
+  "https://www.kommersant.ru/doc/9094366",
+  "title:Нефтяной танкер загорелся в Ормузском проливе после подрыва на мине",
+  "skip:https://ria.ru/20261111/oae-2130816578.html",
+  "https://www.kommersant.ru/doc/9094363",
+  "title:Российская делегация прибыла на второй день трехсторонних переговоров в Абу-Даби"
 ]

@@ -1,9 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169629/umer-legendarnyij-aktyor-patrik-styuart-zvezde-lyudej-iks-i-zvyozdnogo-puti-byilo-86-let/",
-  "skip:https://gamemag.ru/news/201904/umer-patrik-styuart-zvezda-lyudey-iks-i-zvezdnogo-puti",
-  "skip:https://www.pcgamer.com/movies-tv/patrick-stewart-star-trek-and-shakespeare-legend-has-died/",
-  "skip:https://www.ign.com/articles/pubg-is-getting-a-live-action-series-on-netflix-written-directed-by-and-starring-donald-glover",
-  "skip:https://www.pcgamer.com/movies-tv/donald-glover-is-heading-up-a-pubg-live-action-series-for-netflix/",
   "https://www.ign.com/articles/gears-of-war-e-day-reportedly-sold-over-400k-copies-across-console-and-pc-a-month-after-day-one-game-pass-launch",
   "title:Gears of War: E-Day Reportedly Sold Over 400K Copies Across Console and PC a Month After Day-One Game Pass Launch",
   "skip:https://gamemag.ru/news/201893/grand-theft-auto-6-new-screenshots-and-south-park-gameplay",
@@ -998,5 +993,10 @@
   "skip:https://www.igromania.ru/news/169859/obyom-prodazh-i-pribyil-square-enix-vyirosli-blagodarya-final-fantasy-vii-rebirth-ffxiv-i-ne-tolko/",
   "https://gamemag.ru/news/202083/resident-evil-veronica-trailer-pushed-back-after-internal-delay-to-fall-2027-rumor",
   "video:2026-11-11:https://gamemag.ru/news/202083/resident-evil-veronica-trailer-pushed-back-after-internal-delay-to-fall-2027-rumor",
-  "title:Инсайдер объяснил перенос Resident Evil Veronica на осень 2027 года"
+  "title:Инсайдер объяснил перенос Resident Evil Veronica на осень 2027 года",
+  "skip:https://www.playground.ru/subnautica_2/news/prodazhi_subnautica_2_dostigli_8_9_mln_kopij_vsego_za_devyat_mesyatsev_sikvel_oboshyol_predyduschie_igry_serii-1889645#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169855/krafton-prodala-pochti-9-mln-kopij-igr-serii-subnautica-v-2026-godu/",
+  "https://www.playground.ru/state_of_decay_3/news/state_of_decay_3_othodit_ot_kooperativnyh_ambitsij_undead_labs_uslyshala_prosby_fanatov_i_pererabotala_osnovu_igry-1889630#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "video:2026-11-11:https://www.playground.ru/state_of_decay_3/news/state_of_decay_3_othodit_ot_kooperativnyh_ambitsij_undead_labs_uslyshala_prosby_fanatov_i_pererabotala_osnovu_igry-1889630#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:State of Decay 3 отходит от кооперативных амбиций - Undead Labs услышала просьбы фанатов и переработала основу игры"
 ]

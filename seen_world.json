@@ -1,13 +1,4 @@
 [
-  "skip:https://ria.ru/20261108/egipet-2130160025.html",
-  "https://ria.ru/20261108/rossiyane-2130162693.html",
-  "title:Число жертв столкновения поездов в Египте возросло до семи человек",
-  "skip:https://www.kommersant.ru/doc/9092277",
-  "https://www.aljazeera.com/video/newsfeed/2026/11/8/8-11-clip-eisenkot-address-il?traffic_source=rss",
-  "title:Лидер израильской оппозиции Гади Айзенкотов получил мандат на формирование правительства",
-  "skip:https://tass.ru/ekonomika/28296551",
-  "skip:https://ria.ru/20261108/zaes-2130164471.html",
-  "https://www.interfax.ru/russia/1127699",
   "title:На Запорожской АЭС восстановили внешнее электроснабжение",
   "skip:https://tass.ru/armiya-i-opk/28296539",
   "skip:https://ria.ru/20261108/pvo-2130163793.html",
@@ -998,5 +989,14 @@
   "skip:https://ria.ru/20261112/kaluga-2131106502.html",
   "skip:https://tass.ru/ekonomika/28311519",
   "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
-  "title:Удар Израиля по больнице в Газе привел к жертвам"
+  "title:Удар Израиля по больнице в Газе привел к жертвам",
+  "skip:https://tass.ru/politika/28311693",
+  "skip:https://www.rbc.ru/politics/12/11/2026/6af4d31278e2a7eab8f07f12",
+  "skip:https://www.interfax.ru/russia/1128594",
+  "https://ria.ru/20261112/putin-2131135421.html",
+  "title:Владимир Путин проводит переговоры с американскими спецпосланниками Стивом Уиткоффом и Джаредом Кушнером в Кремле",
+  "skip:https://www.rbc.ru/politics/12/11/2026/6af5ac3b1a7e32cb3dcd84e7",
+  "skip:https://www.interfax.ru/business/1128598",
+  "https://www.kommersant.ru/doc/9095620",
+  "title:Арбитражный суд Московской области признал обоснованным заявление Сбербанка о банкротстве ПАО «ЕвроТранс»"
 ]

@@ -1,8 +1,4 @@
 [
-  "skip:https://www.playground.ru/project_century/news/stranger_than_heaven_stanet_samoj_tehnologichnoj_igroj_rgg_studio_blagodarya_otkazu_ot_konsolej_proshlogo_pokoleniya-1886529#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169651/sozdateli-soulframe-napomnili-o-starte-otkryityih-prelyudij-s-6-noyabrya-v-novom-trejlere/",
-  "skip:https://www.ign.com/articles/by-skipping-last-gen-systems-stranger-than-heaven-is-allowing-rgg-studio-to-fully-leverage-the-power-of-current-gen-consoles-at-long-last",
-  "skip:https://www.pcgamer.com/games/rpg/soulframe-opens-up-for-everyone-today-as-the-warframe-devs-prepare-the-fantasy-action-rpg-for-one-of-its-biggest-most-violent-updates-ever-next-month/",
   "https://www.igromania.ru/news/169650/telltale-pozvolit-perenesti-v-the-wolf-among-us-2-resheniya-iz-the-wolf-among-us-remastered/",
   "title:Telltale ​позволит перенести в The Wolf Among Us 2﻿ решения из The Wolf Among Us Remastered",
   "https://deadline.com/2026/10/the-celebrity-traitors-finale-draws-record-rating-1237210586/",
@@ -998,5 +994,9 @@
   "skip:https://www.film.ru/news/skydance-mozhet-prodat-dc-radi-sokrashcheniya-dolgov",
   "skip:https://www.kinonews.ru/news_144107/",
   "https://variety.com/2026/film/global/kaylee-hottle-sister-last-movie-1236946065/",
-  "title:Kaylee Hottle’s Sister Will Step in to Complete ‘Godzilla’ Actor’s Last Movie After Her Death at 18 Years Old"
+  "title:Kaylee Hottle’s Sister Will Step in to Complete ‘Godzilla’ Actor’s Last Movie After Her Death at 18 Years Old",
+  "skip:https://www.film.ru/news/kak-ograbit-bank-devida-litcha-razdelil-kritikov",
+  "skip:https://kg-portal.ru/comments/135721-novye-filmy-1622-nojabrja-2026-goda23-nazvanija-i-drugie-novinki-kino/",
+  "https://www.film.ru/news/treyler-multfilma-tri-bogatyrya-i-gusi-lebedi",
+  "title:Трейлер мультфильма «Три богатыря и гуси-лебеди»"
 ]

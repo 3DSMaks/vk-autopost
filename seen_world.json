@@ -1,12 +1,4 @@
 [
-  "skip:https://ria.ru/20261108/elektropodstantsiya--2130149586.html",
-  "https://www.interfax.ru/russia/1127689",
-  "title:Три сельских поселения в Ростовской области остались без света после атаки БПЛА",
-  "skip:https://tass.ru/proisshestviya/28296527",
-  "skip:https://tass.ru/proisshestviya/28296515",
-  "skip:https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
-  "skip:https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city?traffic_source=rss",
-  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/8/four-killed-88-injured-in-train-collision-in-egypt?traffic_source=rss",
   "skip:https://ria.ru/20261108/egipet-2130160025.html",
   "https://ria.ru/20261108/rossiyane-2130162693.html",
   "title:Число жертв столкновения поездов в Египте возросло до семи человек",
@@ -998,5 +990,13 @@
   "title:В Италии школы повторно эвакуировали из-за массовых угроз о минировании",
   "skip:https://www.interfax.ru/world/1128577",
   "https://www.rbc.ru/rbcfreenews/6af59c23f52ceecb6a7b20b1",
-  "title:Угроза взрыва во Франции привела к сбоям в движении поездов между Лондоном и Парижем"
+  "title:Угроза взрыва во Франции привела к сбоям в движении поездов между Лондоном и Парижем",
+  "skip:https://ria.ru/20261112/parizh-2131106803.html",
+  "https://tass.ru/proisshestviya/28311497",
+  "title:В Париже совершено ограбление ювелирного магазина De Beers",
+  "skip:https://ria.ru/20261112/tambov-2131106675.html",
+  "skip:https://ria.ru/20261112/kaluga-2131106502.html",
+  "skip:https://tass.ru/ekonomika/28311519",
+  "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
+  "title:Удар Израиля по больнице в Газе привел к жертвам"
 ]

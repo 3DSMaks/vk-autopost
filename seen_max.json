@@ -1,6 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169644/dzhejson-shrajer-podtverdil-skoryij-anons-star-wars-jedi-3-i-500-milionnyij-byudzhet-gears-of-war-e-day/",
-  "skip:https://gamemag.ru/news/201914/djeyson-shrayer-electronic-arts-skoro-anonsiruet-tretyu-star-wars-jedi-razrabotka-star-wars",
   "skip:https://gamemag.ru/news/201910/od-knock-poster-featuring-sophia-lillis",
   "https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/nintendo_pokazala_novye_mehaniki_i_osobennosti_remejka_zelda_ocarina_of_time_v_svezhem_trejlere-1886473#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Nintendo показала новые механики и особенности ремейка Zelda: Ocarina of Time в свежем трейлере",
@@ -998,5 +996,7 @@
   "skip:https://www.igromania.ru/news/169877/poslednyaya-stadiya-proizvodstva-i-vliyanie-jak-and-daxter-nil-drakmann-pogovoril-ob-intergalactic/",
   "skip:https://www.pcgamer.com/games/the-witcher/cd-projekt-used-ai-to-modify-the-voice-of-geralts-polish-actor-after-a-stroke-left-it-significantly-changed-this-was-a-special-case/",
   "https://www.playground.ru/battlefield_6/news/battlefield_6_stanet_vremenno_besplatnoj_na_vseh_platformah_s_13_noyabrya-1889987#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Battlefield 6 станет временно бесплатной на всех платформах с 13 ноября"
+  "title:Battlefield 6 станет временно бесплатной на всех платформах с 13 ноября",
+  "https://kg-portal.ru/comments/135761-vtoraja-chast-brutalnogo-multfilma-betmen-trilogija-najtfol-smenila-datu-vyhoda/",
+  "title:Вторая часть брутального мультфильма \"Бэтмен: Трилогия Найтфол\" сменила дату выхода"
 ]

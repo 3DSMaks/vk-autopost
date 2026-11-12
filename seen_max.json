@@ -1,7 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169645/neveroyatno-radyi-romero-games-nashla-izdatelya-dlya-novoj-igryi-soavtora-doom-i-quake-dzhona-romero/",
-  "skip:https://www.pcgamer.com/games/rpg/soulframe-opens-up-for-everyone-today-as-the-warframe-devs-prepare-the-fantasy-action-rpg-for-one-of-its-biggest-most-violent-updates-ever-next-month/",
-  "skip:https://www.pcgamer.com/games/fps/romero-games-has-a-new-publisher-for-the-game-xbox-abandoned-but-its-110-person-team-is-now-just-16-devs-i-needed-to-basically-design-a-new-game-that-could-use-as-much-of-that-stuff-as-possible/",
   "skip:https://stopgame.ru/newsdata/73345/dzhon_romero_nashel_izdatelya_dlya_svoego_novogo_shutera",
   "https://www.igromania.ru/news/169650/telltale-pozvolit-perenesti-v-the-wolf-among-us-2-resheniya-iz-the-wolf-among-us-remastered/",
   "title:Telltale ​позволит перенести в The Wolf Among Us 2﻿ решения из The Wolf Among Us Remastered",
@@ -998,5 +995,8 @@
   "https://www.playground.ru/witcher_3_wild_hunt/news/v_cd_projekt_red_priznalis_chto_boyalis_isportit_magiyu_pri_rabote_nad_remasterom_the_witcher_3-1890029#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:В CD Projekt RED признались, что боялись \"испортить магию\" при работе над ремастером The Witcher 3",
   "https://www.igromania.ru/news/169880/gta-v-teorii-mozhet-pokinut-ssha-no-poka-nas-zhdyot-dzhejson-s-pivom-i-ponchikom-svezhie-detali/",
-  "title:GTA в теории может «покинуть» США, но пока нас ждёт «Джейсон с пивом и пончиком» — свежие детали"
+  "title:GTA в теории может «покинуть» США, но пока нас ждёт «Джейсон с пивом и пончиком» — свежие детали",
+  "skip:https://www.film.ru/news/genri-kavill-rasskazal-o-seriale-warhammer-40000",
+  "https://kg-portal.ru/comments/135750-zlodej-imhotep-izpervoj-mumii-vernetsja-vnovom-filme-molodym-izdorovym-votlichie-otbrendana-frejzera-irejchel-vajs/",
+  "title:Злодей Имхотеп из первой \"Мумии\" вернётся в новом фильме молодым и здоровым, в отличие от Брендана Фрейзера и Рэйчел Вайс"
 ]

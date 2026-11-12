@@ -1,13 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73345/dzhon_romero_nashel_izdatelya_dlya_svoego_novogo_shutera",
-  "https://www.igromania.ru/news/169650/telltale-pozvolit-perenesti-v-the-wolf-among-us-2-resheniya-iz-the-wolf-among-us-remastered/",
-  "title:Telltale ​позволит перенести в The Wolf Among Us 2﻿ решения из The Wolf Among Us Remastered",
-  "https://deadline.com/2026/10/beyond-the-gates-wins-multiple-daytime-emmys-1237210503/",
-  "title:‘Beyond The Gates’ Wins Four Daytime Emmys In Its First Year Of Eligibility",
-  "skip:https://www.igromania.ru/news/169652/prihodite-eschyo-igryi-little-nightmares-sobrali-25-millionnuyu-auditoriyu/",
-  "https://www.playground.ru/project_century/news/stranger_than_heaven_stanet_samoj_tehnologichnoj_igroj_rgg_studio_blagodarya_otkazu_ot_konsolej_proshlogo_pokoleniya-1886529#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Stranger Than Heaven станет самой технологичной игрой RGG Studio благодаря отказу от консолей прошлого поколения",
-  "skip:https://deadline.com/2026/10/dubai-faisal-hashmi-spine-drop-pictures-horror-slate-1237210593/",
   "https://deadline.com/2026/10/the-celebrity-traitors-finale-draws-record-rating-1237210586/",
   "title:‘The Celebrity Traitors’ Finale Draws Record Audience To BBC",
   "skip:https://www.ign.com/articles/by-skipping-last-gen-systems-stranger-than-heaven-is-allowing-rgg-studio-to-fully-leverage-the-power-of-current-gen-consoles-at-long-last",
@@ -998,5 +989,14 @@
   "title:GTA в теории может «покинуть» США, но пока нас ждёт «Джейсон с пивом и пончиком» — свежие детали",
   "skip:https://www.film.ru/news/genri-kavill-rasskazal-o-seriale-warhammer-40000",
   "https://kg-portal.ru/comments/135750-zlodej-imhotep-izpervoj-mumii-vernetsja-vnovom-filme-molodym-izdorovym-votlichie-otbrendana-frejzera-irejchel-vajs/",
-  "title:Злодей Имхотеп из первой \"Мумии\" вернётся в новом фильме молодым и здоровым, в отличие от Брендана Фрейзера и Рэйчел Вайс"
+  "title:Злодей Имхотеп из первой \"Мумии\" вернётся в новом фильме молодым и здоровым, в отличие от Брендана Фрейзера и Рэйчел Вайс",
+  "skip:https://www.igromania.ru/news/169883/dzhensena-huanga-uvolili-iz-nvidia-na-fone-skandala-s-kitajskoj-shpionkoj/",
+  "skip:https://www.playground.ru/misc/news/osnovatel_nvidia_dzhensen_huang_ushyol_iz_kompanii_posle_serii_gromkih_skandalov-1890053#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/gta_6/news/kollektsionnoe_izdanie_gta_6_zasvetilos_v_manchestere_na_karte_vidny_novye_lokatsii-1890038#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.pcgamer.com/hardware/if-jensen-huang-goes-who-could-replace-him-heres-who-the-board-might-pick-if-the-nvidia-ceo-is-ousted-in-the-wake-of-affair-scandals/",
+  "skip:https://www.pcgamer.com/hardware/this-would-be-an-apple-firing-steve-jobs-level-of-idiocy-says-tim-sweeney-at-the-idea-of-ousting-jensen-huang-while-elon-musk-says-it-would-be-an-honor-to-hire-the-nvidia-chief/",
+  "skip:https://www.ign.com/articles/new-gta-6-surprise-gameplay-seemingly-released-in-yet-another-viral-marketing-stunt",
+  "skip:https://www.ign.com/articles/gta-6-fans-think-a-beloved-legacy-character-from-a-previous-game-is-hiding-in-the-latest-trailer",
+  "https://www.igromania.ru/news/169878/na-pc-skoro-mogut-vyijti-tes-iii-morrowind-igryi-serii-zvyozdnyie-vojnyi-i-drugaya-klassika-s-og-xbox/",
+  "title:На PC скоро могут выйти TES III: Morrowind, игры серии «Звёздные войны» и другая классика с OG Xbox"
 ]

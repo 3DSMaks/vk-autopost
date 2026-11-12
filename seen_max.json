@@ -1,7 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/crimson-desert-charting-the-unknown-review",
-  "skip:https://www.pcgamer.com/software/ai/sam-altman-argues-that-its-bad-you-want-dram-in-your-computer-and-not-a-data-center-actually/",
-  "skip:https://gamemag.ru/news/201912/bloomberg-ea-pojertvovala-bioware-radi-star-wars-battlefront-iii",
   "skip:https://gamemag.ru/news/201906/puteshestvie-v-neizvedannoe-crimson-desert-poluchila-masshtabnoe-dopolnenie",
   "https://www.pcgamer.com/games/fallout/this-brutal-fallout-4-horror-mod-turns-the-commonwealth-into-silent-hill/",
   "title:This brutal Fallout 4 horror mod turns the Commonwealth into Silent Hill",
@@ -998,5 +995,8 @@
   "skip:https://kg-portal.ru/comments/135762-afera-tomasa-krauna-trejler/",
   "skip:https://www.kinonews.ru/news_144107/",
   "https://variety.com/2026/film/news/star-wars-a-new-hope-cosm-disney-1236945488/",
-  "title:‘Star Wars: A New Hope’ to Premiere in Shared Reality From Cosm and Disney"
+  "title:‘Star Wars: A New Hope’ to Premiere in Shared Reality From Cosm and Disney",
+  "skip:https://www.film.ru/news/skydance-mozhet-prodat-dc-radi-sokrashcheniya-dolgov",
+  "https://www.film.ru/news/kak-ograbit-bank-devida-litcha-razdelil-kritikov",
+  "title:«Как ограбить банк» Дэвида Литча разделил критиков"
 ]

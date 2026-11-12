@@ -1,15 +1,4 @@
 [
-  "skip:https://ria.ru/20261108/egipet-2130138527.html",
-  "skip:https://tass.ru/proisshestviya/28296329",
-  "https://tass.ru/proisshestviya/28296409",
-  "title:Столкновение поездов в Египте: число погибших возросло до четырех",
-  "skip:https://ria.ru/20261108/sukhogruz-2130138881.html",
-  "skip:https://tass.ru/armiya-i-opk/28296351",
-  "skip:https://ria.ru/20261108/sudno-2130138792.html",
-  "https://www.interfax.ru/russia/1127688",
-  "title:ВС России поразили сухогруз и контейнеровоз с военными грузами",
-  "skip:https://www.rbc.ru/rbcfreenews/6af08eb13c02e1f36c5b6853",
-  "skip:https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR1pDemVhQ0RJdmhpWXA2akRYZHFLSkpCaXlHdUIwRmZab2JCcHdDMEU0VU5QajU2ODBvc21yUm5TLW9oUlRhWVI0Z2FUX2cta21RZFhYSEJIa3R4TjhDQkpnTWlBS0VvZDRhSnowTGlwdThyODM2UlEwTHlHQnM3N0E5LTR5dWlXZEZDZS02T3NlbnBmQ1ZaSXdhV21nbVJWRmZuTWF6Q3g5MDQ?oc=5",
   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQTVkajR2S0QtUzdnUVhFVGh6b3JRdjFaOWx1VGVySUdhcjVYck1Sbm54emJiZy1XX3RNbkFDTDdPcDI0UGYyUjZWczVWNW5lOEVKekpLOF9hbkNHWXdmUG5wdFFTODRMSlhLV09LX3Q1d1BMdjZjTVBocUcwdFpYS0ZvWkoyc3lnakN4QXY2N05LbFQzb1JqYy1KWjNWOGIwd3MwbC1PZmgyd0o5NS1ZWmtLU0FaUktSSHRCOWtsaG1mcHc?oc=5",
   "title:Число погибших при столкновении поездов в Египте увеличилось до четырех",
   "skip:https://ria.ru/20261108/khusity-2130136399.html",
@@ -998,5 +987,16 @@
   "title:Удар Израиля по больнице в секторе Газа привел к гибели людей",
   "skip:https://www.interfax.ru/world/1128550",
   "https://www.kommersant.ru/doc/9095397",
-  "title:Евросоюз планирует ввести новые санкции против России 16 ноября"
+  "title:Евросоюз планирует ввести новые санкции против России 16 ноября",
+  "skip:https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+  "skip:https://ria.ru/20261112/peregovory-2131085782.html",
+  "skip:https://www.interfax.ru/russia/1128564",
+  "skip:https://ria.ru/20261112/dmitriev-2131085056.html",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28310953",
+  "https://www.kommersant.ru/doc/9095442",
+  "title:Спецпосланники США Стив Уиткофф и Джаред Кушнер прибыли в Кремль для переговоров с Владимиром Путиным",
+  "skip:https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTjdYZlNPMU1SU1ZhVjBMUHNnaEdIaFNCcWtQTmdiTHE1RVZRdG1BbUVBQkhib2diNDFyeFh2QXBnYTI3Zk9pVHdaWEpldUQydy1IM3NjZ1lwMVVNajFCZDUyamFuVE5aVXVYX0FhYVh3bnlDa0FPTWpFZm9CNTNyclVCLVVWWDNYWUx3NmZwNmVxSnY4ckNqM3U0VlFEbmhrVERHeU9udWVEM2s1cm1zbFpjYjJybU9tNHlDN0FXajdkZVNUQ1ZEWTZ6ZWQ5N0xaWUE?oc=5",
+  "skip:https://www.france24.com/en/europe/20261112-new-systematic-restrictions-starshield-network-kill-more-ukrainians-zelensky-says",
+  "https://ria.ru/20261112/zelenskij-2131087658.html",
+  "title:Владимир Зеленский заявил о сбоях в работе системы спутниковой связи Starshield на Украине"
 ]

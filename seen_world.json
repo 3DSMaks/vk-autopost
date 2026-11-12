@@ -1,14 +1,4 @@
 [
-  "https://ria.ru/20261109/bpla-2130266164.html",
-  "title:При атаке украинских беспилотников на Луганск и города ЛНР погибли два человека",
-  "skip:https://www.interfax.ru/russia/1127785",
-  "https://www.kommersant.ru/doc/9092658",
-  "title:Российские военные взяли под контроль село Васильковое в Запорожской области",
-  "skip:https://www.interfax.ru/business/1127787",
-  "skip:https://www.kommersant.ru/doc/9092643",
-  "https://www.rbc.ru/finances/09/11/2026/6af18724796bc0ae78bf59ab",
-  "title:Эльвира Набиуллина заявила о недопустимости торопливого снижения ключевой ставки",
-  "skip:https://www.interfax.ru/world/1127799",
   "skip:https://www.rbc.ru/technology_and_media/09/11/2026/6af18e76066cbfbb659f5f19",
   "https://tass.ru/mezhdunarodnaya-panorama/28298269",
   "title:Китай отверг обвинения в причастности к шпионскому скандалу вокруг гендиректора Nvidia Дженсена Хуанга",
@@ -998,5 +988,15 @@
   "skip:https://www.rbc.ru/politics/12/11/2026/6af5c89b6d4770d07df513a0",
   "skip:https://ria.ru/20261112/ssha-2131169825.html",
   "https://www.kommersant.ru/doc/9095731",
-  "title:Переговоры Владимира Путина со спецпосланниками США Стивом Уиткоффом и Джаредом Кушнером завершились в Москве"
+  "title:Переговоры Владимира Путина со спецпосланниками США Стивом Уиткоффом и Джаредом Кушнером завершились в Москве",
+  "skip:https://www.interfax.ru/russia/1128664",
+  "skip:https://ria.ru/20261112/moskva-2131183208.html",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28312519",
+  "skip:https://ria.ru/20261112/kortezh-2131181551.html",
+  "https://ria.ru/20261112/dmitriev-2131184798.html",
+  "title:Спецпосланники США Стив Уиткофф и Джаред Кушнер покинули Москву после переговоров",
+  "skip:https://www.interfax.ru/russia/1128653",
+  "skip:https://www.kommersant.ru/doc/9095733",
+  "https://www.rbc.ru/rbcfreenews/6af5cd80cfb683f692e10bee",
+  "title:В Белгородской области при ударе дрона по автомобилю погибла 12-летняя девочка"
 ]

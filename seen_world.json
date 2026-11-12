@@ -1,10 +1,4 @@
 [
-  "skip:https://ria.ru/20261109/es-2130390416.html",
-  "skip:https://tass.ru/politika/28299573",
-  "https://www.interfax.ru/world/1127886",
-  "title:США проведут консультации с Евросоюзом и НАТО перед переговорами по Украине в Абу-Даби",
-  "skip:https://ria.ru/20261109/brend-2130404153.html",
-  "https://www.interfax.ru/world/1127889",
   "title:Британский актер и комик Рассел Брэнд приговорен к 10,5 года тюрьмы за изнасилование",
   "skip:https://www.rbc.ru/rbcfreenews/6af1ddd2ffababcec205e249",
   "skip:https://tass.ru/armiya-i-opk/28299657",
@@ -998,5 +992,11 @@
   "title:Генеральный директор Nvidia Дженсен Хуанг ушел в отставку на фоне сообщений о новых скандалах",
   "skip:https://ria.ru/20261112/ssha-2131229488.html",
   "https://www.rbc.ru/politics/12/11/2026/6af5fdf6e9b99160841b9de1",
-  "title:США уведомили Израиль о необходимости подготовки к возобновлению операций против Ирана"
+  "title:США уведомили Израиль о необходимости подготовки к возобновлению операций против Ирана",
+  "skip:https://www.interfax.ru/russia/1128721",
+  "skip:https://www.interfax.ru/russia/1128717",
+  "skip:https://www.rbc.ru/rbcfreenews/6af618685ee94876bfb0172b",
+  "skip:https://ria.ru/20261112/bespilotniki-2131229385.html",
+  "https://www.kommersant.ru/doc/9095960",
+  "title:Мэр Москвы сообщил о росте числа сбитых за сутки беспилотников до 56"
 ]

@@ -1,11 +1,4 @@
 [
-  "https://deadline.com/2026/10/rules-of-prey-series-regular-cast-peter-outerbridge-1237209131/",
-  "title:‘Rules Of Prey’ Rounds Out Series Regular Cast With Peter Outerbridge, Cody Ray Thompson & David Klein",
-  "skip:https://variety.com/2026/film/news/selma-blair-apologizes-plane-incident-1236935645/",
-  "skip:https://kg-portal.ru/comments/135599-tak-sebe-pohozhdenija-kliffa-buta-imaxkinoteatry-ne-hotjat-brat-film-devida-finchera-s-bredom-pittom/",
-  "skip:https://www.kinonews.ru/news_143900/",
-  "https://variety.com/2026/film/news/martin-scorsese-cleopatra-angelina-jolie-ruined-sony-hack-1236935596/",
-  "title:Martin Scorsese Says His ‘Cleopatra’ Movie With Angelina Jolie Was ‘Ruined’ by Seth Rogen and the Sony Hack: ‘It Was Gonna Be Really Wild’",
   "https://variety.com/2026/film/festivals/keanu-reeves-hidari-ss-rajamouli-1236935934/",
   "title:How Keanu Reeves Landed in Stop-Motion Samurai Epic ‘Hidari’ – and Why S.S. Rajamouli Wanted to Know How It Was Made",
   "skip:https://www.kinonews.ru/news_143909/",
@@ -998,5 +991,12 @@
   "title:Генри Кавилл раскрыл новые подробности сериала \"Warhammer 40,000\"",
   "skip:https://www.kinonews.ru/news_144112/",
   "https://kg-portal.ru/comments/135760-vershina-trejler/",
-  "title:Всеобщий срач на горе в трейлере фильма Юрия Быкова \"Вершина\""
+  "title:Всеобщий срач на горе в трейлере фильма Юрия Быкова \"Вершина\"",
+  "skip:https://www.film.ru/news/vyshel-treyler-vershiny-yuriya-bykova",
+  "skip:https://www.film.ru/news/u-novyh-mstiteley-poyavilas-data-onlayn-reliza",
+  "skip:https://www.film.ru/news/rezhisser-konstantina-ob-uhode-dzheymsa-ganna",
+  "skip:https://kg-portal.ru/comments/135759-kachok-protiv-volshebnikov-makenju-popadet-vpsevdohogvards-vkomedii-magija-imuskuly/",
+  "skip:https://deadline.com/2026/11/elijah-wood-what-it-was-like-playing-frodo-hunt-for-gollum-1237221444/",
+  "https://www.kinonews.ru/news_144106/",
+  "title:Warner Bros. отказалась от фильма о Фредди Крюгере с режиссером \"Мумии\""
 ]

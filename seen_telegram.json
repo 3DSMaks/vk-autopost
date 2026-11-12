@@ -1,12 +1,4 @@
 [
-  "skip:https://www.playground.ru/hunter_the_reckoning_deathwish/news/hunter_the_reckoning_deathwish_pokazyvaet_sozdanie_ohotnika_dlya_vyzhivaniya_v_mire_tmy-1886238#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169623/ekshen-the-duskbloods-avtorov-elden-ring-s-dark-souls-i-bloodborne-perenesli-na-2027-god/",
-  "https://www.igromania.ru/news/169638/nekstgen-obnovlenie-dlya-metro-2033-redux-i-metro-last-light-redux-dobralos-do-konsolej/",
-  "title:Некстген-обновление для​ Metro 2033 Redux и Metro: Last Light Redux добралось до консолей",
-  "skip:https://www.playground.ru/misc/news/u_konami_rekordnye_pokazateli_pribyli_blagodarya_novym_vypuskam_igr_serij_silent_hill_i_metal_gear_solid-1886272#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/call_of_duty_modern_warfare_4_udalit_realnye_kadry_tragedii_v_seule_posle_kritiki-1886271#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.playground.ru/misc/news/konami_na_podyome_rost_pribyli_na_75_blagodarya_silent_hill_i_metal_gear_solid-1886270#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.ign.com/articles/families-who-lost-loved-ones-in-seoul-halloween-crowd-crush-call-on-activision-to-pull-real-footage-from-call-of-duty-modern-warfare-4",
   "https://gamemag.ru/news/201911/mama-stala-kraterom-disney-pokazala-tizer-anime-death-stranding-isolations",
   "title:Мама стала кратером: Disney показала тизер аниме Death Stranding Isolations",
   "https://kg-portal.ru/comments/135598-majatnik-trejler/",
@@ -998,5 +990,13 @@
   "skip:https://www.igromania.ru/news/169864/phantom-blade-zero-stala-luchshej-igroj-oktyabrya-po-versii-polzovatelej-playstation-blog/",
   "skip:https://www.ign.com/articles/tekken-legend-katsuhiro-harada-says-he-wishes-hardware-like-the-xbox-series-s-wouldnt-be-released",
   "https://gamemag.ru/news/202093/fus-ro-da-bethesda-prazdnuet-15-letie-the-elder-scrolls-v-skyrim",
-  "title:Фус Ро Да: Bethesda празднует 15-летие The Elder Scrolls V: Skyrim"
+  "title:Фус Ро Да: Bethesda празднует 15-летие The Elder Scrolls V: Skyrim",
+  "skip:https://www.igromania.ru/news/169873/konan-otkliknulsya-na-zov-tyomnoj-piramidyi-anonsirovan-rolevoj-ekshen-conan-the-black-pyramid/",
+  "skip:https://www.pcgamer.com/games/the-witcher/cd-projekt-used-ai-to-modify-the-voice-of-geralts-polish-actor-after-a-stroke-left-it-significantly-changed-this-was-a-special-case/",
+  "skip:https://gamemag.ru/news/202097/proklyatie-emi-hennig-insayder-soobshchil-ob-otmene-marvel-1943-rise-of-hydra",
+  "skip:https://www.ign.com/articles/new-gta-6-surprise-gameplay-seemingly-released-in-yet-another-viral-marketing-stunt",
+  "skip:https://stopgame.ru/newsdata/73468/anonsirovana_conan_the_black_pyramid_brutalnyy_ekshen_rouglayt_pro_velikogo_voina",
+  "skip:https://gamemag.ru/news/202095/ray-ne-na-zemle-the-outer-worlds-2-poluchit-pervoe-dlc-v-dekabre",
+  "https://www.playground.ru/final_fantasy_7_part_3/news/avtory_final_fantasy_7_revelation_ne_stanut_podstraivat_final_trilogii_pod_ozhidaniya_fanatov-1889946#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Авторы Final Fantasy 7 Revelation не станут подстраивать финал трилогии под ожидания фанатов"
 ]

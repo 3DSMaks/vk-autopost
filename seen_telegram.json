@@ -1,11 +1,4 @@
 [
-  "title:How Keanu Reeves Landed in Stop-Motion Samurai Epic ‘Hidari’ – and Why S.S. Rajamouli Wanted to Know How It Was Made",
-  "https://www.kinonews.ru/news_143909/",
-  "title:Мартин Скорсезе объяснил хакерами отмену фильма о Клеопатре с Анджелиной Джоли",
-  "https://www.ign.com/articles/final-fantasy-xiv-evercold-delayed-new-release-date-announced-at-ffxiv-fan-fest",
-  "title:Final Fantasy XIV Evercold Delayed, New Release Date Announced at FFXIV Fan Fest",
-  "https://stopgame.ru/newsdata/73346/smi_odin_iz_sozdateley_forza_motorsport_uhodit_iz_xbox",
-  "title:СМИ: один из создателей Forza Motorsport уходит из XBOX",
   "skip:https://www.igromania.ru/news/169652/prihodite-eschyo-igryi-little-nightmares-sobrali-25-millionnuyu-auditoriyu/",
   "https://www.pcgamer.com/games/fallout/this-brutal-fallout-4-horror-mod-turns-the-commonwealth-into-silent-hill/",
   "title:This brutal Fallout 4 horror mod turns the Commonwealth into Silent Hill",
@@ -998,5 +991,12 @@
   "skip:https://www.playground.ru/intergalactic_the_heretic_prophet/news/nil_drakmann_rasskazal_kak_jak_and_daxter_povliyala_na_razrabotku_intergalactic_the_heretic_prophet-1889998#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169877/poslednyaya-stadiya-proizvodstva-i-vliyanie-jak-and-daxter-nil-drakmann-pogovoril-ob-intergalactic/",
   "https://www.playground.ru/gta_6/news/gta_6_edva_ne_zapretili_v_yuzhnoj_koree_iz_za_slishkom_chastoj_demonstratsii_muzhskih_genitalij-1890020#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:GTA 6 едва не запретили в Южной Корее из-за слишком частой демонстрации мужских гениталий"
+  "title:GTA 6 едва не запретили в Южной Корее из-за слишком частой демонстрации мужских гениталий",
+  "skip:https://www.film.ru/news/genri-kavill-rasskazal-o-seriale-warhammer-40000",
+  "skip:https://www.film.ru/news/rezhisser-konstantina-ob-uhode-dzheymsa-ganna",
+  "skip:https://www.kinonews.ru/news_144110/",
+  "skip:https://kg-portal.ru/comments/135749-rezhisser-konstantina-s-kianu-rivzom-schitaet-chto-uvolnenie-dzhejmsa-ganna-pomozhet-snjat-sikvel/",
+  "skip:https://deadline.com/2026/11/elijah-wood-what-it-was-like-playing-frodo-hunt-for-gollum-1237221444/",
+  "https://www.film.ru/news/u-novyh-mstiteley-poyavilas-data-onlayn-reliza",
+  "title:У новых «Мстителей» появилась дата онлайн релиза"
 ]

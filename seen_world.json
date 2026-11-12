@@ -1,15 +1,4 @@
 [
-  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQTVkajR2S0QtUzdnUVhFVGh6b3JRdjFaOWx1VGVySUdhcjVYck1Sbm54emJiZy1XX3RNbkFDTDdPcDI0UGYyUjZWczVWNW5lOEVKekpLOF9hbkNHWXdmUG5wdFFTODRMSlhLV09LX3Q1d1BMdjZjTVBocUcwdFpYS0ZvWkoyc3lnakN4QXY2N05LbFQzb1JqYy1KWjNWOGIwd3MwbC1PZmgyd0o5NS1ZWmtLU0FaUktSSHRCOWtsaG1mcHc?oc=5",
-  "title:Число погибших при столкновении поездов в Египте увеличилось до четырех",
-  "skip:https://ria.ru/20261108/khusity-2130136399.html",
-  "https://www.interfax.ru/world/1127691",
-  "title:Хуситы сообщили об ударах по энергетическим объектам в Саудовской Аравии",
-  "skip:https://www.interfax.ru/world/1127693",
-  "skip:https://www.rbc.ru/politics/08/11/2026/6af0934b89a0c62217fff403",
-  "skip:https://ria.ru/20261108/izrail-2130152875.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28296433",
-  "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRTZQamJuNGFxb015dTdvczZXb3ljanpfZllZZ3lPT3Nwb29OZ3NCUkoxdTZaUGk0X0d4OGJhQkFDU0p3VW9WOXJCcUJHbTM5MU1MNTZ5WDhGTzlCSk9XVmJGWHRuWEJTTThONjllWWExcHVSV0xEblNqVzFRTU5xcGlJLVhyLUYyaV9BVlFwdXZPRVlaZE93?oc=5",
-  "skip:https://tass.ru/proisshestviya/28296471",
   "skip:https://www.rbc.ru/rbcfreenews/6af084ab41e5f9432396d728",
   "https://ria.ru/20261108/gruppa-2130155983.html",
   "title:В Берлине задержали троих мужчин за замену флага Германии на палестинский перед Рейхстагом",
@@ -998,5 +987,16 @@
   "skip:https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTjdYZlNPMU1SU1ZhVjBMUHNnaEdIaFNCcWtQTmdiTHE1RVZRdG1BbUVBQkhib2diNDFyeFh2QXBnYTI3Zk9pVHdaWEpldUQydy1IM3NjZ1lwMVVNajFCZDUyamFuVE5aVXVYX0FhYVh3bnlDa0FPTWpFZm9CNTNyclVCLVVWWDNYWUx3NmZwNmVxSnY4ckNqM3U0VlFEbmhrVERHeU9udWVEM2s1cm1zbFpjYjJybU9tNHlDN0FXajdkZVNUQ1ZEWTZ6ZWQ5N0xaWUE?oc=5",
   "skip:https://www.france24.com/en/europe/20261112-new-systematic-restrictions-starshield-network-kill-more-ukrainians-zelensky-says",
   "https://ria.ru/20261112/zelenskij-2131087658.html",
-  "title:Владимир Зеленский заявил о сбоях в работе системы спутниковой связи Starshield на Украине"
+  "title:Владимир Зеленский заявил о сбоях в работе системы спутниковой связи Starshield на Украине",
+  "skip:https://www.rbc.ru/sport/12/11/2026/6af58a11c440ee8a9f27cfed",
+  "skip:https://www.sport-interfax.ru/1128575",
+  "skip:https://www.kommersant.ru/doc/9095487",
+  "skip:https://ria.ru/20261112/karrik-2131096440.html",
+  "skip:https://tass.ru/sport/28311141",
+  "skip:https://www.aljazeera.com/news/2026/11/12/manchester-united-sack-michael-carrick-as-manager?traffic_source=rss",
+  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQnljYk4zSGJ0TXZ5Szg1ZzRXY2hyWm8tZnozRFQzX3RrMmtJYWJqbkNHQWtKYTduMnBKbFpZRVdVOUhyOEhLSjNYUDdQUzNLTUk1QlhEdUJTN1ZtMHFMVUZZYzVqTktGdWVWT01ha3lpb2ZiTm40S3RVVlhDeGR4R2RoUHNwVzU4UXhnQlFHZzA2emZmSmZlTUs1bFMzY29jOGJSdVI3ZkFTU3U3Y0pxZ2RRcTdCZ042ekFxR0tLdl8xQQ?oc=5",
+  "title:Майкл Каррик уволен с поста главного тренера «Манчестер Юнайтед»",
+  "skip:https://www.rbc.ru/rbcfreenews/6af5940fc369c65c006e169e",
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZmt6UHdOZDdabzZ0UzRqNkdFaUlRZGF6VVBXLXVDdlNTZjFHZlJHNkE2bnhvd3FrV3F3Z1FEcGVoZ2pfR0lfSTVEZEdUWHhfZTBjWDVPSS1BRHNjUGhYckxNNFgwRk1VZFRyNjR3UjhhV290S2dkaHVqNERMSER4eHhyWWJ6c2EtY2l0QVg2RWJUQWZ0U1E?oc=5",
+  "title:Спецпосланники США Стив Уиткофф и Джаред Кушнер прибыли в Москву для переговоров"
 ]

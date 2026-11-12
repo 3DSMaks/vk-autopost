@@ -1,15 +1,4 @@
 [
-  "https://www.rbc.ru/rbcfreenews/6af0707ee5e7b03f39ead178",
-  "title:МВД предупредило об угрозе сбора цифрового досье на пользователей через ChatGPT",
-  "skip:https://ria.ru/20261108/egipet-2130131177.html",
-  "https://www.kommersant.ru/doc/9092207",
-  "title:Число пострадавших при сходе вагонов поезда в Египте возросло до 64",
-  "skip:https://www.rbc.ru/rbcfreenews/6af0831fe5e7b03f39ead17f",
-  "skip:https://www.interfax.ru/russia/1127687",
-  "skip:https://tass.ru/armiya-i-opk/28296353",
-  "skip:https://ria.ru/20261108/elektropodstantsiya-2130138700.html",
-  "https://www.kommersant.ru/doc/9092225",
-  "title:Минобороны РФ сообщило об ударе по электроподстанции «Каменская» в Днепропетровской области",
   "skip:https://www.france24.com/en/mourning-in-poland-after-mass-shooting",
   "skip:https://www.interfax.ru/world/1127684",
   "skip:https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjUxVkw1TWRaU0FNWjdiZlUyUk9KcmFRMjlobjltclhvd2xEMFZic2QyLVJ1U2M4WEtOVWJ0S3J6WHdkT19pcUJwQml5Z3UyLV9PalUtQWV5X1J0dzJVMnFyc2pDQllBWTNKNTh2dVNkUVFMQWZ0OWlnUFp0Tm5LZmt0YXItSUprX09QVE93dElVd082LXpyck04QU0xemMySklEV0xSVDZRcWx5LVdUWA?oc=5",
@@ -998,5 +987,16 @@
   "skip:https://www.rbc.ru/rbcfreenews/6af5746fe1865c62f9b53bbb",
   "skip:https://www.interfax.ru/russia/1128519",
   "https://www.rbc.ru/politics/12/11/2026/6af55d438b84ac51605686a9",
-  "title:В порту Усть-Луга локализовали пожар после атаки беспилотников"
+  "title:В порту Усть-Луга локализовали пожар после атаки беспилотников",
+  "skip:https://www.rbc.ru/rbcfreenews/6af5851e93c4d094b9832280",
+  "skip:https://www.kommersant.ru/doc/9095381",
+  "skip:https://tass.ru/politika/28310645",
+  "skip:https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
+  "skip:https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss",
+  "https://tass.ru/mezhdunarodnaya-panorama/28310733",
+  "title:Спецпосланники США Стив Уиткофф и Джаред Кушнер прибыли в Москву для переговоров с Владимиром Путиным",
+  "skip:https://www.france24.com/en/europe/20261112-live-us-envoys-to-meet-putin-and-zelensky-after-abu-dhabi-talks",
+  "skip:https://www.rbc.ru/politics/12/11/2026/6af572b00b703b00c791129d",
+  "https://tass.ru/mezhdunarodnaya-panorama/28310717",
+  "title:Владимир Зеленский заявил о сбоях в работе системы Starshield на Украине"
 ]

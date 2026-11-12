@@ -1,10 +1,4 @@
 [
-  "title:Final Fantasy XIV Evercold Delayed, New Release Date Announced at FFXIV Fan Fest",
-  "skip:https://www.ign.com/articles/stranger-than-heaven-features-optional-cheats-to-make-its-combat-easier",
-  "https://www.ign.com/articles/xboxs-doom-wolfenstein-developers-working-more-closely-than-ever-following-xbox-reset-layoffs",
-  "title:Xbox's Doom, Wolfenstein Developers Working 'More Closely Than Ever' Following Xbox 'Reset' Layoffs",
-  "skip:https://stopgame.ru/newsdata/73348/soosnovatel_bioware_nazval_prodazhu_ea_poslednim_gvozdem_v_kryshku_groba_studii",
-  "skip:https://www.igromania.ru/news/169646/takoe-sebe-realistichnoe-pogruzhenie-iz-call-of-duty-modern-warfare-4-udalyat-kadryi-davki-v-seule/",
   "skip:https://www.ign.com/articles/crimson-desert-charting-the-unknown-review",
   "skip:https://www.pcgamer.com/software/ai/sam-altman-argues-that-its-bad-you-want-dram-in-your-computer-and-not-a-data-center-actually/",
   "skip:https://gamemag.ru/news/201912/bloomberg-ea-pojertvovala-bioware-radi-star-wars-battlefront-iii",
@@ -998,5 +992,11 @@
   "skip:https://www.playground.ru/misc/news/pocketpair_ustroila_srochnuyu_komandirovku_v_vajs_siti_vsem_sotrudnikam_dali_pyatidnevnyj_otpusk_na_reliz_gta_6-1890054#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169882/ne-otdyih-v-gta-6-a-biznes-poezdka-avtorov-palworld-otpravyat-v-otpusk-radi-prohozhdeniya/",
   "https://www.ign.com/articles/gta-6-was-almost-refused-rating-in-south-korea",
-  "title:GTA 6 Was Almost Refused a Rating in South Korea Due to 'Genital Nudity'"
+  "title:GTA 6 Was Almost Refused a Rating in South Korea Due to 'Genital Nudity'",
+  "skip:https://deadline.com/2026/11/thomas-crown-affair-trailer-michael-b-jordan-1237006350/",
+  "skip:https://www.film.ru/news/vyshel-treyler-remeyka-afery-tomasa-krauna",
+  "skip:https://kg-portal.ru/comments/135762-afera-tomasa-krauna-trejler/",
+  "skip:https://www.kinonews.ru/news_144107/",
+  "https://variety.com/2026/film/news/star-wars-a-new-hope-cosm-disney-1236945488/",
+  "title:‘Star Wars: A New Hope’ to Premiere in Shared Reality From Cosm and Disney"
 ]

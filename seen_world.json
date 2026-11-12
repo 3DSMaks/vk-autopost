@@ -1,12 +1,4 @@
 [
-  "title:Более 60 тысяч жителей Владивостока остались без холодного водоснабжения из-за аварии",
-  "skip:https://www.rbc.ru/rbcfreenews/6af073340a246f462992d782",
-  "skip:https://tass.ru/proisshestviya/28296245",
-  "https://ria.ru/20261108/poezd-2130128575.html",
-  "title:Столкновение поездов в Египте: число пострадавших превысило сто человек",
-  "skip:https://www.kommersant.ru/doc/9092193",
-  "skip:https://ria.ru/20261108/mvd-2130115305.html",
-  "skip:https://tass.ru/obschestvo/28296195",
   "https://www.rbc.ru/rbcfreenews/6af0707ee5e7b03f39ead178",
   "title:МВД предупредило об угрозе сбора цифрового досье на пользователей через ChatGPT",
   "skip:https://ria.ru/20261108/egipet-2130131177.html",
@@ -998,5 +990,13 @@
   "skip:https://www.interfax.ru/russia/1128521",
   "skip:https://ria.ru/20261112/sud-2131053950.html",
   "https://www.rbc.ru/rbcfreenews/6af57897e1865c62f9b53bd1",
-  "title:Верховный суд России признал украинскую организацию «Желтая лента» экстремистской"
+  "title:Верховный суд России признал украинскую организацию «Желтая лента» экстремистской",
+  "skip:https://news.google.com/rss/articles/CBMisAFBVV95cUxQc2RQOV84TlcyTFFmRzdkcjdsLUFVcGZSdGZRRjJkZk1mdEZNNW5pa25vYmsxVVRaNG81bzlEdzQ2MmM3RUhCRkhzYmxHazNHRUJhT09tT3p2OGYtaE1wb3ZNcWptc05uTy03NVRvVkVta3JrNkk2NXRCejNhNThieU1EZXVJSDlHZGNVNDZIYUg0RTJkRlhUSzF4QnR3OXczR1V1UzRrZHRUYmZMU0UzVg?oc=5",
+  "https://www.rbc.ru/business/12/11/2026/6af572dace0682034bb311a8",
+  "title:Совет директоров Nvidia обсуждает увольнение Дженсена Хуанга на фоне нового скандала",
+  "skip:https://www.kommersant.ru/doc/9095323",
+  "skip:https://www.rbc.ru/rbcfreenews/6af5746fe1865c62f9b53bbb",
+  "skip:https://www.interfax.ru/russia/1128519",
+  "https://www.rbc.ru/politics/12/11/2026/6af55d438b84ac51605686a9",
+  "title:В порту Усть-Луга локализовали пожар после атаки беспилотников"
 ]

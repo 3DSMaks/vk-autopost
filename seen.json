@@ -1,9 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143896/",
-  "https://www.film.ru/news/korotkometrazhnyy-horror-karri-barkera",
-  "title:Короткометражный хоррор Карри Баркера",
-  "skip:https://www.kinonews.ru/news_143897/",
-  "https://variety.com/2026/film/news/ishab-shetty-shivaji-epic-pride-of-bharat-t-series-1236934634/",
   "title:Rishab Shetty’s Chhatrapati Shivaji Maharaj Epic ‘The Pride of Bharat’ Lands T-Series, Set as Two-Part Saga (EXCLUSIVE)",
   "skip:https://www.film.ru/news/serial-po-motivam-igry-pubg",
   "https://www.film.ru/news/osnovnoy-treyler-seriala-ayda",
@@ -998,5 +993,10 @@
   "title:Tom Holland Says Starring in ‘The Odyssey’ Has Given Him an ‘Ambition to See What Else is Out There For Me’",
   "posted:2026-11-12T14:04:32+00:00",
   "https://kg-portal.ru/comments/135762-afera-tomasa-krauna-trejler/",
-  "title:Месть становится произведением искусства в трейлере \"Аферы Томаса Крауна\" Майкла Б. Джордана"
+  "title:Месть становится произведением искусства в трейлере \"Аферы Томаса Крауна\" Майкла Б. Джордана",
+  "posted:2026-11-12T15:35:49+00:00",
+  "skip:https://www.film.ru/news/vyshel-treyler-remeyka-afery-tomasa-krauna",
+  "skip:https://kg-portal.ru/comments/135750-zlodej-imhotep-izpervoj-mumii-vernetsja-vnovom-filme-molodym-izdorovym-votlichie-otbrendana-frejzera-irejchel-vajs/",
+  "https://www.film.ru/news/skydance-mozhet-prodat-dc-radi-sokrashcheniya-dolgov",
+  "title:Skydance может продать DC ради сокращения долгов"
 ]

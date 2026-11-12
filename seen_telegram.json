@@ -1,8 +1,4 @@
 [
-  "https://www.film.ru/articles/chto-posmotret-na-hellouin-avtory-filmru-sovetuyut-uzhastiki-i-ne-tolko",
-  "title:Что посмотреть на Хэллоуин? Авторы FILM.ru советуют ужастики (и не только!)",
-  "skip:https://variety.com/2026/film/box-office/box-office-you-can-see-everything-clayface-1236936071/",
-  "https://variety.com/2026/film/obituaries-people-news/sanjay-gupta-dead-kaante-zinda-1236935973/",
   "video:2026-10-31:https://variety.com/2026/film/obituaries-people-news/sanjay-gupta-dead-kaante-zinda-1236935973/",
   "title:Sanjay Gupta, Indian Director of ‘Kaante’ and ‘Zinda,’ Dies at 59",
   "https://gamemag.ru/news/201918/physint-scropt-sculpture-shown",
@@ -998,5 +994,9 @@
   "skip:https://www.ign.com/articles/pocketpair-gives-employees-five-days-leave-to-play-gta-6",
   "skip:https://www.igromania.ru/news/169882/ne-otdyih-v-gta-6-a-biznes-poezdka-avtorov-palworld-otpravyat-v-otpusk-radi-prohozhdeniya/",
   "https://stopgame.ru/newsdata/73479/cdpr_primenila_ii_v_polskoy_versii_ballad_proshlogo_chtoby_podpravit_izmenivshiysya_golos_aktera",
-  "title:CDPR применила ИИ в польской версии «Баллад прошлого», чтобы подправить изменившийся голос актёра"
+  "title:CDPR применила ИИ в польской версии «Баллад прошлого», чтобы подправить изменившийся голос актёра",
+  "skip:https://www.igromania.ru/news/169885/polskij-golos-geralta-iz-vedmaka-raskryil-etichnyij-sposob-ispolzovat-ii-v-ozvuchke/",
+  "skip:https://stopgame.ru/newsdata/73477/dzhensen_huang_uhodit_v_otstavku_nvidia_ischet_novogo_generalnogo_direktora",
+  "https://stopgame.ru/newsdata/73473/intergalactic_the_heretic_prophet_pereshla_na_finalnyy_etap_proizvodstva",
+  "title:Intergalactic: The Heretic Prophet перешла на финальный этап производства"
 ]

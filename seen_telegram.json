@@ -1,7 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169652/prihodite-eschyo-igryi-little-nightmares-sobrali-25-millionnuyu-auditoriyu/",
-  "https://www.pcgamer.com/games/fallout/this-brutal-fallout-4-horror-mod-turns-the-commonwealth-into-silent-hill/",
-  "title:This brutal Fallout 4 horror mod turns the Commonwealth into Silent Hill",
   "skip:https://kg-portal.ru/comments/135599-tak-sebe-pohozhdenija-kliffa-buta-imaxkinoteatry-ne-hotjat-brat-film-devida-finchera-s-bredom-pittom/",
   "https://www.kinonews.ru/news_143898/",
   "title:Продюсер \"Рамаяны\" намерен превзойти Marvel, DC и \"Звездные войны\"",
@@ -998,5 +995,8 @@
   "skip:https://kg-portal.ru/comments/135749-rezhisser-konstantina-s-kianu-rivzom-schitaet-chto-uvolnenie-dzhejmsa-ganna-pomozhet-snjat-sikvel/",
   "skip:https://deadline.com/2026/11/elijah-wood-what-it-was-like-playing-frodo-hunt-for-gollum-1237221444/",
   "https://www.film.ru/news/u-novyh-mstiteley-poyavilas-data-onlayn-reliza",
-  "title:У новых «Мстителей» появилась дата онлайн релиза"
+  "title:У новых «Мстителей» появилась дата онлайн релиза",
+  "skip:https://variety.com/2026/film/global/claes-bang-vicky-krieps-emma-mackey-marrakech-jury-1236945556/",
+  "https://kg-portal.ru/comments/135750-zlodej-imhotep-izpervoj-mumii-vernetsja-vnovom-filme-molodym-izdorovym-votlichie-otbrendana-frejzera-irejchel-vajs/",
+  "title:Злодей Имхотеп из первой \"Мумии\" вернётся в новом фильме молодым и здоровым, в отличие от Брендана Фрейзера и Рэйчел Вайс"
 ]

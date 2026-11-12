@@ -1,12 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9092346",
-  "title:На иранском острове Кешм в Ормузском проливе прогремела серия взрывов",
-  "skip:https://www.interfax.ru/russia/1127716",
-  "skip:https://ria.ru/20261109/aeroport-2130181455.html",
-  "skip:https://tass.ru/ekonomika/28296717",
-  "https://www.kommersant.ru/doc/9092362",
-  "title:В московском аэропорту Домодедово ввели временные ограничения на полеты",
-  "skip:https://www.rbc.ru/politics/09/11/2026/6af1776f68d985650a6b0c73",
   "skip:https://tass.ru/proisshestviya/28297787",
   "skip:https://ria.ru/20261109/vsu-2130237173.html",
   "skip:https://www.interfax.ru/russia/1127774",
@@ -998,5 +990,13 @@
   "skip:https://www.interfax.ru/world/1128607",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28311733",
   "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSzJwLS0tdmxjdGp1T3RFY29PR2JyaXRQVkVUREtlUkYzSWVfZ3ZwYlV0anNiTGc2VDlvQ2Y2UC1WZ1ZiTC1zOHJqYjRRcE9rVG0wSXpEUTZlN1E2Q0F3WmZsX1dDdG82NmtHYVpCNXJTTklFd05kMldLRGg0YktvX200bmZxSjJWZWVlUURielBYU0wtTTBRVjBKNEx4dWhrUjRndEQ2eHB0R2xvTmdZZQ?oc=5",
-  "title:Дональд Трамп пригрозил Мексике удвоением пошлин из-за мигрантов"
+  "title:Дональд Трамп пригрозил Мексике удвоением пошлин из-за мигрантов",
+  "skip:https://www.interfax.ru/world/1128637",
+  "https://tass.ru/ekonomika/28312157",
+  "title:Великобритания ввела санкции против СИБУРа и других российских компаний",
+  "skip:https://ria.ru/20261112/it-2131160681.html",
+  "skip:https://tass.ru/ekonomika/28312133",
+  "skip:https://www.rbc.ru/business/12/11/2026/6af5c425e76a205052e8e498",
+  "https://www.kommersant.ru/doc/9095701",
+  "title:Дженсен Хуанг ушел в отставку с поста генерального директора Nvidia"
 ]

@@ -1,11 +1,4 @@
 [
-  "title:В Колумбии при атаке беспилотников на военную базу погибли трое военных",
-  "skip:https://www.interfax.ru/world/1127665",
-  "skip:https://ria.ru/20261108/saudi--2130083187.html",
-  "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections",
-  "title:Здание Saudi Aramco в Эр-Рияде получило повреждения из-за падения обломков ракеты",
-  "skip:https://www.interfax.ru/russia/1127661",
-  "https://ria.ru/20261108/mashina-2130087965.html",
   "title:В Чувашии автомобиль упал с обрыва в реку, погибли пять человек",
   "skip:https://ria.ru/20261108/rostov-2130092515.html",
   "skip:https://www.interfax.ru/russia/1127672",
@@ -998,5 +991,12 @@
   "skip:https://ria.ru/20261112/bpla-2131005705.html",
   "skip:https://tass.ru/proisshestviya/28309031",
   "https://www.kommersant.ru/doc/9095080",
-  "title:Силы ПВО сбили два беспилотника, летевших на Москву"
+  "title:Силы ПВО сбили два беспилотника, летевших на Москву",
+  "skip:https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+  "skip:https://www.france24.com/en/americas/20261111-democrat-scott-colom-wins-historic-senate-race-in-mississippi",
+  "skip:https://news.google.com/rss/articles/CBMioAFBVV95cUxQVVhWcG5USS14S1FTbUdWOGtpYjRXSWdoUlJ4Ym95VXFGdnQtdVgyY3pMcjFScHpQc0c3a202TWJVcHp6YjFobDFfRl9Ga01PSGdaTEhZREZXRmtKUFBQY1JWQ0NmTHM2aVZnUVdNS3lPZG5RbDVVdHZFZnBkNmlwNU1Sc21GV1RvY0dwVHlyekd0UFg5aUZlNU1nYkJQZE1Y?oc=5",
+  "skip:https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss",
+  "skip:https://news.google.com/rss/articles/CBMipgFBVV95cUxObGNuUXNneXVWaFk1SjdDUnJmcVM1TjFDc2FQckV3NmZMUDZPUndHdjEybjJwUktLbE9qMkdmRjc5UzJ3QkhWNHRIREQ1UkpJbjdQeEhaNzFLamE2ZlhtQUp2cmdFYkZ4eUpKcnc2a2Q4NXlKdjc3azhSbmUwbEhSamM2d0wtVVNDZURqWWtnY1ZmV2FlRVhRUENLcGJDaUFTUFBjVEd3?oc=5",
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTRFXzVMOVNIM2JnNFFkTzlrSmVYYnV5NTJlNDVVY1FhTXVBR1QybjdUd3JoVWpvZ3NRdFVGY0FkNlRmcW96d2VTR0tYei15dnp4eEhibFF4cGhwUnJnX3gwSHU0TEU4MUx2dE40V1BBSTZQYXVqOV9Nd0pkNXk0T3JQeFJ5emx3azFxMm5kLU5FLTJVcDJ5cmhURG9RYjBMVE1vbVJ6aEJiM3otQVFtVk5Cdw?oc=5",
+  "title:Демократ Скотт Колом победил на выборах в Сенат США от штата Миссисипи"
 ]

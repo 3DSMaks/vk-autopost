@@ -1,10 +1,4 @@
 [
-  "skip:https://variety.com/2026/film/markets-festivals/japan-new-2027-anime-award-spotlight-creators-industry-leaders-1236935947/",
-  "https://variety.com/2026/film/awards/georgia-guria-best-film-asia-pacific-screen-awards-1236935931/",
-  "title:Georgia’s ‘Guria’ Wins Best Film at Asia Pacific Screen Awards as Thailand’s Sompot Chidgasornpongse Takes Director Prize",
-  "skip:https://gamemag.ru/news/201916/fatekeeper-oficialno-pereveli-na-russkiy-yazyk",
-  "skip:https://www.playground.ru/meowfactory/news/simulyator_proizvodstva_s_kotami_rabotnikami_murzavod_vyjdet_27_noyabrya-1886591#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169642/fentezijnyij-ekshen-fatekeeper-poluchil-tekstovyij-perevod-na-russkij-yazyik/",
   "skip:https://www.igromania.ru/news/169641/sozdateli-rusov-protiv-yascherov-vyipustyat-novyij-simulyator-murzavod-v-kontse-noyabrya/",
   "https://gamemag.ru/news/201918/physint-scropt-sculpture-shown",
   "title:Хидео Кодзима показал 150-страничный сценарий PHYSINT, главного героя в пяти образах и загадочные машины",
@@ -998,5 +992,11 @@
   "skip:https://gamemag.ru/news/202110/kurtku-povesili-na-gvozd-nvidia-obyavila-ob-ostavke-djensena-huanga",
   "skip:https://www.pcgamer.com/hardware/live/news/nvidia-jen-hsun-scandal/",
   "https://stopgame.ru/newsdata/73473/intergalactic_the_heretic_prophet_pereshla_na_finalnyy_etap_proizvodstva",
-  "title:Intergalactic: The Heretic Prophet перешла на финальный этап производства"
+  "title:Intergalactic: The Heretic Prophet перешла на финальный этап производства",
+  "skip:https://www.playground.ru/misc/news/pc_gaming_show_2026_most_wanted_projdyot_3_dekabrya_organizatory_obeschayut_pokazat_bolee_70_igr-1890103#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.pcgamer.com/gaming-industry/events-conferences/award-winning-presenter-frankie-ward-returns-to-bring-you-this-years-pc-gaming-show-most-wanted/",
+  "skip:https://www.pcgamer.com/gaming-industry/events-conferences/every-nominee-for-the-pc-gaming-show-most-wanteds-top-20-upcoming-games/",
+  "skip:https://www.ign.com/articles/intergalactic-the-heretic-prophet-in-last-stages-of-production-neil-druckmann-calls-it-a-mash-up-of-jak-and-daxter-uncharted-and-the-last-of-us",
+  "https://stopgame.ru/newsdata/73474/stanovlenie_kapitanom_v_novom_geympleynom_trailere_the_expanse_osiris_reborn",
+  "title:Становление капитаном в новом геймплейном трейлере The Expanse: Osiris Reborn"
 ]

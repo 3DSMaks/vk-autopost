@@ -1,9 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169641/sozdateli-rusov-protiv-yascherov-vyipustyat-novyij-simulyator-murzavod-v-kontse-noyabrya/",
-  "https://gamemag.ru/news/201918/physint-scropt-sculpture-shown",
-  "title:Хидео Кодзима показал 150-страничный сценарий PHYSINT, главного героя в пяти образах и загадочные машины",
-  "skip:https://deadline.com/2026/10/sanjay-gupta-dead-1237210607/",
-  "https://variety.com/2026/film/box-office/box-office-you-can-see-everything-clayface-1236936071/",
   "title:Box Office: ‘You Can See Everything’ Fends Off ‘Clayface’ for Top Spot on Friday With $3.56 Million",
   "https://www.film.ru/news/specvypusk-dobro-pozhalovat-v-derri",
   "title:Спецвыпуск Добро пожаловать в Дерри",
@@ -998,5 +993,10 @@
   "skip:https://www.pcgamer.com/gaming-industry/events-conferences/every-nominee-for-the-pc-gaming-show-most-wanteds-top-20-upcoming-games/",
   "skip:https://www.ign.com/articles/intergalactic-the-heretic-prophet-in-last-stages-of-production-neil-druckmann-calls-it-a-mash-up-of-jak-and-daxter-uncharted-and-the-last-of-us",
   "https://stopgame.ru/newsdata/73474/stanovlenie_kapitanom_v_novom_geympleynom_trailere_the_expanse_osiris_reborn",
-  "title:Становление капитаном в новом геймплейном трейлере The Expanse: Osiris Reborn"
+  "title:Становление капитаном в новом геймплейном трейлере The Expanse: Osiris Reborn",
+  "skip:https://www.igromania.ru/news/169887/penisyi-mogli-stat-prichinoj-otmenyi-vyihoda-gta-6-v-yuzhnoj-koree-vinovata-utechka-gejmpleya/",
+  "skip:https://www.igromania.ru/news/169884/stsenarist-baldurs-gate-3-prisoedinilsya-k-sozdaniyu-onlajn-igryi-po-vedmaku/",
+  "skip:https://www.ign.com/articles/pocketpair-gives-employees-five-days-leave-to-play-gta-6",
+  "https://www.playground.ru/world_of_warcraft/news/veduschie_razrabotchiki_world_of_warcraft_publichno_priznali_tvorcheskij_tupik_aktualnoj_versii_igry-1890126#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Ведущие разработчики World of Warcraft публично признали творческий тупик актуальной версии игры"
 ]

@@ -1,8 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28296163",
-  "https://www.kommersant.ru/doc/9092151",
-  "title:Скончалась гражданка России, пострадавшая при стрельбе и теракте в центре Кракова",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28296157",
   "skip:https://ria.ru/20261108/tanker-2130098324.html",
   "https://www.interfax.ru/world/1127677",
   "title:В Оманском заливе три нефтяных танкера подверглись атаке и загорелись",
@@ -998,5 +994,9 @@
   "skip:https://tass.ru/ekonomika/28309025",
   "skip:https://news.google.com/rss/articles/CBMivwFBVV95cUxPXy1fOVpHcXRPaFFyMFU2MWdFOGRRZXNHSFpoT2Nva18wc1FqNFN6SzVDU1BNRFZyYVNJVVFzMUN4MG5aZlRIeFBpUzVneVNQMVdkcEVoWTBXS2FQZkJtMFZHSkZhLWRYU2o1aUh4Ym1uUzFmYk56d2FRWVJuTDFpSE94QURFZmllME9IVk1ZWGxCbEpuRjB2bzN4VzhWREhCVzg0Nnc1UE5qX2NsT0Joenp1bm51UkFEdm5VRmQxcw?oc=5",
   "https://ria.ru/20261112/nvidia-2131009714.html",
-  "title:Совет директоров Nvidia рассматривает вопрос об отстранении гендиректора Дженсена Хуанга"
+  "title:Совет директоров Nvidia рассматривает вопрос об отстранении гендиректора Дженсена Хуанга",
+  "skip:https://www.kommersant.ru/doc/9095087",
+  "skip:https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ1RYYVlNcjVQeGNHTUREclhvOXJQaEtpd2N5UmU2em9ZSTRQdTFJTjZlTGVBQTlSUGJuanhhXzV1cXNoVFBYbDk1aHNWeGpPcl9Hd2ZCM0w2YW95T1c3dFJUX0Z2WVF5cEZRNVBWaXNTRF9nOElKbnFuN3g1R0lXdTViRXpQclFxR2dyR0hpVlIxSk81?oc=5",
+  "https://www.kommersant.ru/doc/9095095",
+  "title:Совет директоров Nvidia готовится отстранить генерального директора Дженсена Хуанга"
 ]

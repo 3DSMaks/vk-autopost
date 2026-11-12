@@ -1,9 +1,4 @@
 [
-  "skip:https://www.rbc.ru/politics/09/11/2026/6af1c948e9db5f5975a7a0dc",
-  "skip:https://www.interfax.ru/world/1127890",
-  "skip:https://www.rbc.ru/politics/09/11/2026/6af1ca3b088c29e35824c238",
-  "skip:https://www.kommersant.ru/doc/9093032",
-  "skip:https://www.interfax.ru/world/1127883",
   "https://www.rbc.ru/politics/09/11/2026/6af1e1b2a47758f3ea1e853e",
   "title:Подготовка к трехсторонним переговорам России, США и Украины в Абу-Даби",
   "skip:https://tass.ru/proisshestviya/28299837",
@@ -998,5 +993,10 @@
   "skip:https://ria.ru/20261112/norvegija-2131235701.html",
   "skip:https://www.interfax.ru/world/1128725",
   "https://www.rbc.ru/sport/13/11/2026/6af620c4f575de2e6f5a5727",
-  "title:Норвегия ввела запрет на въезд для российских и белорусских спортсменов"
+  "title:Норвегия ввела запрет на въезд для российских и белорусских спортсменов",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28313663",
+  "skip:https://www.rbc.ru/politics/13/11/2026/6af6338382e454aa3a84cc90",
+  "skip:https://www.kommersant.ru/doc/9095976",
+  "https://www.kommersant.ru/doc/9095987",
+  "title:Спецпосланники США Стив Уиткофф и Джаред Кушнер встретились с Владимиром Зеленским в Дублине"
 ]

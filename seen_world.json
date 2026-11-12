@@ -1,13 +1,4 @@
 [
-  "skip:https://www.france24.com/en/europe/20261109-russell-brand-sentenced-to-10-years-6-months-for-rape-and-sexual-assault",
-  "skip:https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates",
-  "skip:https://www.aljazeera.com/news/2026/11/9/uk-court-hands-comedian-russel-brand-10-5-years-for-rape-sexual-assault?traffic_source=rss",
-  "skip:https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbmk4dlVnT1E1bFJGb01tRkZvLVFXSkt0bTRsY2t4RzMzRDVGb2RzLUJTblJPQ1EwZFhlSUZXOTR3VlF2UTU0V29tVjd5dWwtOFZpUGNxSE1uRW5JNF94a0RmRV9SRWgyZ3dCaDNJZmR2M05ZRHMzam9EVkF0OUJ3bnloSGdkNVZZU3QyODdKei14dU9nalBDSmwxOFpCNUJHUDFTbnFLTVp2UTJfaGlPQ1htNGxvbjRB?oc=5",
-  "skip:https://www.theguardian.com/news/2026/nov/09/russell-brand-sentenced-rape-sexual-assault",
-  "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa3k5bUZCVzZ3bmpKMWtIVlVJM3YxWHRkUFpyQ0hjNE1WNWpUUkhwNldwZ0tkSmZxLWFUNzlZSzFSUjdIallGc3hDazdfMkUteWhyUFFhdmVFUTJscWNNQXJfMk5KRmdfN0Z5RTJ1anNrYWl2RXVpWlljR3AzMnhnc1FGVHd2elp2UW93Zkh6VDJvOTBDRWF2MERMclFObmJtNUdQdkk0VVJEVzFVWEZTdHJOVQ?oc=5",
-  "title:Британский комик Рассел Брэнд приговорен к 10,5 годам тюрьмы за изнасилование",
-  "skip:https://www.interfax.ru/world/1127880",
-  "skip:https://www.rbc.ru/politics/09/11/2026/6af1d74f6d19c47cd5c72e0e",
   "skip:https://ria.ru/20261109/es-2130390416.html",
   "skip:https://tass.ru/politika/28299573",
   "https://www.interfax.ru/world/1127886",
@@ -998,5 +989,14 @@
   "skip:https://www.rbc.ru/rbcfreenews/6af606a0f7c3fa5278955509",
   "skip:https://tass.ru/proisshestviya/28313313",
   "https://www.kommersant.ru/doc/9095950",
-  "title:Силы ПВО отразили массированную атаку украинских беспилотников, летевших на Москву"
+  "title:Силы ПВО отразили массированную атаку украинских беспилотников, летевших на Москву",
+  "skip:https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3otVnY4ZXphd1g5Q0REOVlqY3c1WXBMSmMtNThTbGlaRGVkVkZXZml1RHlEN3djZXRMT0pSTnJ6c3JiZ0tOdVRRekpJUlBfRV92ZEFEUU9GVU5XZHBYVmotRjFpcExuaER3S1BUaF90UWFaRnVBcFlHazgzOXBSWXJfN1RMSFNrcWY2TVRkQmVTYkNHUUhMeHAyM1huRXItSVhKZU95Q2wyTmg1MnlZcGduR01vdzFBcmpiVA?oc=5",
+  "skip:https://www.rbc.ru/business/12/11/2026/6af6142ae0b7ef777dac39ec",
+  "skip:https://news.google.com/rss/articles/CBMitAFBVV95cUxNVmE5NnFhVTJwdTM3SGR0LWZQaHhWTzRGQnhqel9JbWN0WmFlV2xwbGhhSFkwaXFKVnRBZTlObmNRSmxmV3ZaV0h4MEpxWnBfVTRfMjRnNHFDSHFlWlJBTzl1a1Bua3c0WHJucFF4RnFKSXRKZWttay1mRzE2b2pXZkRFa3JGdHZtT2M4ZEQ1NmV1VEVCdG1mTGpiQXZfb29IMy1INzlJbnpORDNEcndQSEtULUY?oc=5",
+  "skip:https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTDc4NU9Ycko1b01GTVdRT1lMVzJWaEhrLS1OSU92el9GTTRMSEhyTW5VbThOZEhoVGNCbHNBU19EZS1UUlNiTW0wVU41RUdBVkJpQlNRazBvaHJFQ2VnT2FJU183NE9ub1RKQU5wMFp6N1luX3lrMFZubFVIaHJ0TWhZRVkyUzhJVjBsaDRlMEpKNUFLeWtITVhLRVhqOERFMzh0azNJeVlqVzI0ZUowcnV4Z3VYMUdXcFY0?oc=5",
+  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05U3FyS01QSjEyaFdHdGhmbUpiai04UThQcEZhWnlmeGticEYxcmh1ZVFrZk5UbVBULWUxaGRrVTVzQ1B1d1RfUVByYnNkMi1idzVKNlNkV3pFVTA3?oc=5",
+  "title:Генеральный директор Nvidia Дженсен Хуанг ушел в отставку на фоне сообщений о новых скандалах",
+  "skip:https://ria.ru/20261112/ssha-2131229488.html",
+  "https://www.rbc.ru/politics/12/11/2026/6af5fdf6e9b99160841b9de1",
+  "title:США уведомили Израиль о необходимости подготовки к возобновлению операций против Ирана"
 ]

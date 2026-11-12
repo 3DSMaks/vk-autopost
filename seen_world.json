@@ -1,10 +1,4 @@
 [
-  "title:Британский актер и комик Рассел Брэнд приговорен к 10,5 года тюрьмы за изнасилование",
-  "skip:https://www.rbc.ru/rbcfreenews/6af1ddd2ffababcec205e249",
-  "skip:https://tass.ru/armiya-i-opk/28299657",
-  "https://www.interfax.ru/russia/1127885",
-  "title:Вооруженные силы России нанесли удар по логистическому центру в порту Одессы",
-  "skip:https://www.kommersant.ru/doc/9093069",
   "skip:https://www.france24.com/en/video/20261109-nvidia-ceo-probed-over-alleged-china-spy-who-exactly-is-jensen-huang",
   "skip:https://www.rbc.ru/business/09/11/2026/6af1a07c2823b23704c5e86a",
   "skip:https://www.rbc.ru/rbcfreenews/6af1da7775e895b707a109ce",
@@ -998,5 +992,11 @@
   "skip:https://www.rbc.ru/rbcfreenews/6af618685ee94876bfb0172b",
   "skip:https://ria.ru/20261112/bespilotniki-2131229385.html",
   "https://www.kommersant.ru/doc/9095960",
-  "title:Мэр Москвы сообщил о росте числа сбитых за сутки беспилотников до 56"
+  "title:Мэр Москвы сообщил о росте числа сбитых за сутки беспилотников до 56",
+  "skip:https://tass.ru/proisshestviya/28313505",
+  "https://www.rbc.ru/politics/12/11/2026/6af62368135c08efeb4532d4",
+  "title:Хакерской атаке подвергся производитель БПЛА для ВСУ Quantum Systems на фоне проблем со Starshield",
+  "skip:https://www.rbc.ru/technology_and_media/12/11/2026/6af6102a695dacaedbae4ec3",
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQWpWeUZnbllhcFk4WktZS0s3T1N6T3k3Vnhhd3pfSE9SWF9iRmRIQUljdHZXN0UtWS1uZS1rbUNZSlVPd1NXLXRtVUVtc3NQNTgxMVFMWjVnT3pPb09EX1g1YUx3WkF2VHk0bUMwWlhkRHdpT0JFRE5SQ3pQRkdmSnpUOHNXLUo1dXNSY3lFdkpSdU5laDdwSlhWRDVnNjBFcUh2Y0FwMXNldE8tSFpPaw?oc=5",
+  "title:В работе сервисов Microsoft 365 и Outlook произошел глобальный сбой"
 ]

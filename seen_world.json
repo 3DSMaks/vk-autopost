@@ -1,11 +1,4 @@
 [
-  "skip:https://www.rbc.ru/rbcfreenews/6af084ab41e5f9432396d728",
-  "https://ria.ru/20261108/gruppa-2130155983.html",
-  "title:В Берлине задержали троих мужчин за замену флага Германии на палестинский перед Рейхстагом",
-  "skip:https://ria.ru/20261108/minjust-2130151204.html",
-  "https://tass.ru/mezhdunarodnaya-panorama/28296483",
-  "title:Минюст Германии инициирует проверку для возможного запрета партии АдГ",
-  "skip:https://www.rbc.ru/rbcfreenews/6af08c237eaa951f14ecb9d3",
   "skip:https://ria.ru/20261108/elektropodstantsiya--2130149586.html",
   "https://www.interfax.ru/russia/1127689",
   "title:Три сельских поселения в Ростовской области остались без света после атаки БПЛА",
@@ -998,5 +991,12 @@
   "title:Майкл Каррик уволен с поста главного тренера «Манчестер Юнайтед»",
   "skip:https://www.rbc.ru/rbcfreenews/6af5940fc369c65c006e169e",
   "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZmt6UHdOZDdabzZ0UzRqNkdFaUlRZGF6VVBXLXVDdlNTZjFHZlJHNkE2bnhvd3FrV3F3Z1FEcGVoZ2pfR0lfSTVEZEdUWHhfZTBjWDVPSS1BRHNjUGhYckxNNFgwRk1VZFRyNjR3UjhhV290S2dkaHVqNERMSER4eHhyWWJ6c2EtY2l0QVg2RWJUQWZ0U1E?oc=5",
-  "title:Спецпосланники США Стив Уиткофф и Джаред Кушнер прибыли в Москву для переговоров"
+  "title:Спецпосланники США Стив Уиткофф и Джаред Кушнер прибыли в Москву для переговоров",
+  "skip:https://www.france24.com/en/video/20261112-thousands-of-schools-evacuated-in-italy-as-bomb-threats-spread-across-europe",
+  "skip:https://news.google.com/rss/articles/CBMiqwFBVV95cUxOakpadHhXVldnanZIX2xXQ3JXbWxPektyeTRZMlRxMm9reDIzVVFmTjZPVnN1NlRQLXhyQ3loTVdoM28yRVp5RkpKUXJfQ1lWQl84RlBfUVBRRVNfNWNTOEhnMURGMk1tUGpacXJ1MkZESWVEdFVOdVE0OVFKWGRWTGJGMVd0NEF1SkFqMHhQdFQ0YWpTZWNzSGlwcDRhcEZydjdCOEJ6OEdCelk?oc=5",
+  "https://tass.ru/mezhdunarodnaya-panorama/28311355",
+  "title:В Италии школы повторно эвакуировали из-за массовых угроз о минировании",
+  "skip:https://www.interfax.ru/world/1128577",
+  "https://www.rbc.ru/rbcfreenews/6af59c23f52ceecb6a7b20b1",
+  "title:Угроза взрыва во Франции привела к сбоям в движении поездов между Лондоном и Парижем"
 ]

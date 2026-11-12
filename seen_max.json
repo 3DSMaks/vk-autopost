@@ -1,7 +1,4 @@
 [
-  "title:Star Wars Voices And Sounds Made Available To Gamers And Creators By Tech Firm Voicemod",
-  "skip:https://stopgame.ru/newsdata/73344/shrayer_ea_zakryla_bioware_chtoby_sosredotochitsya_na_menee_riskovannyh_zvezdnyh_voynah",
-  "https://www.playground.ru/star_wars_jedi_3/news/dzhejson_shrajer_podtverdil_chto_ofitsialnyj_anons_star_wars_jedi_3_sostoitsya_v_blizhajshee_vremya-1886334#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Джейсон Шрайер подтвердил, что официальный анонс Star Wars Jedi 3 состоится в ближайшее время",
   "https://variety.com/2026/film/news/dune-return-theaters-imax-dune-3-sneak-peek-1236935288/",
   "title:‘Dune’ Movies Returning to Imax Theaters With ‘Dune 3’ Sneak Peek",
@@ -998,5 +995,8 @@
   "https://deadline.com/2026/11/denis-villeneuve-update-james-bond-casting-1237221346/",
   "title:Denis Villeneuve Shares Update On James Bond Casting: “I Am Pushing The Gas”",
   "https://www.film.ru/news/start-tretih-kolec-vlasti",
-  "title:Старт третьих Колец власти"
+  "title:Старт третьих Колец власти",
+  "skip:https://variety.com/2026/film/global/barbara-broccoli-national-film-and-television-school-1236945943/",
+  "https://www.kinonews.ru/news_144110/",
+  "title:Генри Кавилл раскрыл новые подробности сериала \"Warhammer 40,000\""
 ]

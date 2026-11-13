@@ -1,11 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9093420",
-  "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-  "title:Акционеры Nvidia подали в суд на компанию и главу Дженсена Хуанга из-за скандала со связями с предполагаемым китайским агентом",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28301935",
-  "skip:https://www.kommersant.ru/doc/9093502",
-  "skip:https://www.interfax.ru/world/1128007",
-  "skip:https://ria.ru/20261110/ukraina-2130517034.html",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28301895",
   "skip:https://ria.ru/20261110/ssha-2130515690.html",
   "skip:https://tass.ru/politika/28301877",
@@ -998,5 +991,12 @@
   "title:Сборная России заняла третье место в медальном зачете на юношеской Олимпиаде в Дакаре",
   "skip:https://www.interfax.ru/business/1128871",
   "https://www.rbc.ru/business/13/11/2026/6af6bbf15d33761ec7ccb674",
-  "title:Mercedes-Benz заморозил новые инвестиции в заводы в Германии"
+  "title:Mercedes-Benz заморозил новые инвестиции в заводы в Германии",
+  "skip:https://www.rbc.ru/technology_and_media/13/11/2026/6af6d9cd6e6bd5856c94e4ed",
+  "skip:https://www.kommersant.ru/doc/9109017",
+  "skip:https://www.rbc.ru/technology_and_media/13/11/2026/6af711b2f9a100afa8dd7cdf",
+  "https://tass.ru/ekonomika/28316121",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28316131",
+  "https://www.kommersant.ru/doc/9109040",
+  "title:Вице-президент США Джей Ди Вэнс задумался об отказе от участия в выборах 2028 года"
 ]

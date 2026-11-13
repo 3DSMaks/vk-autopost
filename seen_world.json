@@ -1,14 +1,4 @@
 [
-  "skip:https://tass.ru/proisshestviya/28301461",
-  "skip:https://ria.ru/20261110/kuban-2130480961.html",
-  "https://www.rbc.ru/rbcfreenews/6af2c6e9a160b28289d1b40c",
-  "title:ФСБ задержала агента СБУ на Кубани за подготовку теракта",
-  "skip:https://ria.ru/20261110/ataka-2130481127.html",
-  "skip:https://www.interfax.ru/russia/1127984",
-  "skip:https://www.rbc.ru/politics/10/11/2026/6af2c0ff3bad6acc7ddd7009",
-  "https://www.kommersant.ru/doc/9093434",
-  "title:Промышленный объект и дачные дома повреждены при атаке БПЛА в Новгородской области",
-  "skip:https://www.rbc.ru/politics/10/11/2026/6af2d421e89fc253d4779268",
   "skip:https://www.interfax.ru/world/1128000",
   "skip:https://ria.ru/20261110/peregovory-2130507879.html",
   "skip:https://www.rbc.ru/photoslider/6af2d4a2e0ff693c1d148850",
@@ -998,5 +988,15 @@
   "skip:https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users?traffic_source=rss",
   "skip:https://www.france24.com/en/video/20261113-microsoft-faces-a-major-outlook-outage-no-signs-of-a-cyberattack",
   "skip:https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYWY5MnRXdTRCaHJZT3BKRWs4TzQxdUR3NEZzQ3ZsTmxCLW9wcFJJMzFaLS1pVGhtb3BabWdhN3pvQUhPU0FNbDJMV2I0a3BWaGtuQWpxVVNxRTZIUGhNS3c5RG5oVHNGaGg3XzJDdkE1V0RBWFJKVzMzTFVnN3otc0xZNWhCWWducmlfS2dXZ3lGcUtWcFJQWkxnejVqWjFxTlZKbENDamJfUQ?oc=5",
-  "https://tass.ru/ekonomika/28315719"
+  "https://tass.ru/ekonomika/28315719",
+  "skip:https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcnZIWjJsdGFZd21hcHZROGNCeTRaOFpXYVNNTXhuYUREaFY0MG9QMkpmZjJkUkdmMzlYZDBGaTN6MXBlTHQ3SXlNZGZTTjh0WldjNFcyR3IxWlE1WnhzWGFMMEZ0WlN2UWI5Xy10RXFkSC1DUkthbXlIRUJPbnpzQ2JPODk1ampHX1U2MWp4T3Y4VzBudHFUTlplSFRtUHZ2b1ZTVXV4RmppUQ?oc=5",
+  "skip:https://www.sport-interfax.ru/1128849",
+  "skip:https://ria.ru/20261113/manchester-2131364048.html",
+  "skip:https://tass.ru/sport/28315785",
+  "skip:https://www.rbc.ru/sport/13/11/2026/6af591d2e9b99160841b9d4f",
+  "https://www.kommersant.ru/doc/9108919",
+  "title:Маурисио Почеттино назначен главным тренером «Манчестер Юнайтед»",
+  "skip:https://www.rbc.ru/quote/13/11/2026/6af6f13215af3f780c4a6a1d",
+  "https://www.interfax.ru/business/1128850",
+  "title:Московская биржа запускает торги фьючерсами на сою и кукурузу"
 ]

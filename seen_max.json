@@ -1,11 +1,4 @@
 [
-  "skip:https://deadline.com/2026/11/michael-mann-injured-weapon-discharges-filmmaker-ok-1237210846/",
-  "https://www.film.ru/news/kinoteatry-otkazalis-pokazyvat-kliffa-buta",
-  "title:Кинотеатры отказались показывать «Клиффа Бута»",
-  "skip:https://www.playground.ru/misc/news/syomki_betmena_2_ostanovili_posle_togo_kak_betmobil_yakoby_sbil_odnogo_iz_aktyorov-1886867#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "https://gamemag.ru/news/201928/avtor-fable-piter-muline-vstal-na-zashchitu-iskusstvennogo-intellektaschitaet-chto-on-perevernet",
-  "title:Отец Fable Питер Мулинье встал на защиту ИИ — считает, что он перевернет индустрию",
-  "skip:https://www.kinonews.ru/news_143930/",
   "skip:https://deadline.com/2026/11/dave-bautista-kratos-weight-gain-1237211049/",
   "skip:https://www.film.ru/news/maykl-mann-vystrelil-sebe-v-nogu",
   "skip:https://www.film.ru/news/400-mln-obiteli-zla",
@@ -998,5 +991,12 @@
   "title:Рецензия на мультсериал «Аватар: Семь убежищ» — бойкое и смелое фэнтези сразу о двух повелительницах стихий",
   "skip:https://variety.com/2026/film/obituaries-people-news/christian-cousins-dead-kindergarten-cop-child-star-1236947014/",
   "https://www.film.ru/articles/vyshla-rasshirennaya-versiya-mstiteli-final-encore-vot-chto-dobavili-v-film",
-  "title:Вышла расширенная версия «Мстители: Финал Encore»: вот, что добавили в фильм"
+  "title:Вышла расширенная версия «Мстители: Финал Encore»: вот, что добавили в фильм",
+  "skip:https://www.playground.ru/fable_2026/news/novyj_trejler_fable_stolknulsya_s_volnoj_dizlajkov_i_sravneniyami_s_dragon_age_the_veilguard-1890405#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169924/apskel-qssr-dlya-vseh-vladeltsev-playstation-5-doberyotsya-do-control-resonant-i-ne-tolko/",
+  "skip:https://stopgame.ru/newsdata/73497/apskeyler_qssr_dlya_ps5_zarabotaet_v_control_resonant_arc_raiders_no_mans_sky_i_ne_tolko",
+  "skip:https://www.ign.com/articles/it-looks-like-wolfenstein-3-is-putting-nazis-where-they-belong-jail",
+  "skip:https://stopgame.ru/newsdata/73493/avtory_warhammer_40k_dawn_of_war_iv_podelilis_sistemnymi_trebovaniyami",
+  "https://www.playground.ru/gta_6/news/glava_take_two_ne_hochet_prodavat_kompaniyu_po_primeru_ea_uspehi_gta_6_pozvolyayut_ostavatsya_nezavisimymi-1890388#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Глава Take-Two не хочет продавать компанию по примеру EA - успехи GTA 6 позволяют оставаться независимыми"
 ]

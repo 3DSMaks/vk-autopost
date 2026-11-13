@@ -1,10 +1,4 @@
 [
-  "title:FromSoftware temporarily shuts down Dark Souls 2 and 3 multiplayer over 'server issue'",
-  "skip:https://www.igromania.ru/news/169661/vozmozhnyij-gejmplej-remejka-pervoj-persona-pokazali-v-seti/",
-  "skip:https://gamemag.ru/news/201926/v-seti-poyavilis-predpolagaemye-kadry-remeyka-pervoy-persona",
-  "https://www.igromania.ru/news/169654/razrabotchiki-lords-of-the-fallen-2-vzyali-kredit-pochti-v-30-mln-evro-na-zapusk-igryi/",
-  "title:Разработчики Lords of the Fallen 2 взяли кредит почти в 30 млн евро на запуск игры",
-  "https://www.film.ru/news/serial-o-garri-pottere-novye-aktery",
   "title:Сериал о «Гарри Поттере» новые актеры",
   "skip:https://www.pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt/",
   "https://www.playground.ru/bayonetta_3/news/eksklyuziv_nintendo_switch_bayonetta_3_poluchil_neofitsialnyj_port_na_pk_cherez_proekt_witch_time-1886779#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +992,11 @@
   "skip:https://www.ign.com/articles/doom-developer-id-software-confirms-work-on-new-game-will-be-directed-by-hugo-martin",
   "skip:https://www.pcgamer.com/games/grand-theft-auto/south-korean-game-rating-board-almost-blocked-gta-6s-release-fearing-its-out-of-context-genital-nudity-would-disrupt-social-order/",
   "https://stopgame.ru/newsdata/73488/dlya_halo_campaign_evolved_anonsirovali_kontentnoe_obnovlenie_firefight",
-  "title:Для Halo: Campaign Evolved анонсировали контентное обновление Firefight"
+  "title:Для Halo: Campaign Evolved анонсировали контентное обновление Firefight",
+  "skip:https://www.pcgamer.com/software/security/microsoft-says-there-is-no-evidence-of-malicious-activity-being-the-cause-of-the-global-service-outage-affecting-governments-and-organisations-around-the-world/",
+  "skip:https://stopgame.ru/newsdata/73491/v_warhammer_40_000_darktide_dobavyat_sestru_poslushnicu",
+  "skip:https://www.ign.com/articles/halo-campaign-evolved-to-get-firefight-as-a-free-update",
+  "skip:https://www.pcgamer.com/games/fps/darktides-getting-a-sisters-of-battle-class-on-december-7/",
+  "https://www.playground.ru/witcher_4/news/the_witcher_4_mozhet_vyjti_v_mae_2028_goda_na_eto_ukazyvaet_novaya_vakansiya_cd_projekt_red-1890321#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:The Witcher 4 может выйти в мае 2028 года - на это указывает новая вакансия CD Projekt RED"
 ]

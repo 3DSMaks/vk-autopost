@@ -1,11 +1,4 @@
 [
-  "title:Секретная служба США усилила охрану Белого дома после того, как автомобиль врезался в знак",
-  "skip:https://tass.ru/armiya-i-opk/28300029",
-  "skip:https://ria.ru/20261109/vsu-2130420811.html",
-  "https://www.interfax.ru/russia/1127917",
-  "title:Минобороны РФ сообщило об уничтожении 34 украинских беспилотников за день",
-  "skip:https://www.kommersant.ru/doc/9093197",
-  "skip:https://ria.ru/20261109/ssha-2130423133.html",
   "https://www.rbc.ru/rbcfreenews/6af20d7b762fc9ab336f2a5b",
   "title:В Вашингтоне автомобиль врезался в ограждение у Белого дома, есть задержанные",
   "skip:https://www.rbc.ru/politics/09/11/2026/6af20c41880b9dc931df6def",
@@ -998,5 +991,12 @@
   "skip:https://ria.ru/20261113/pvo-2131264697.html",
   "skip:https://tass.ru/armiya-i-opk/28314289",
   "https://tass.ru/armiya-i-opk/28314323",
-  "title:Минобороны РФ сообщило о перехвате почти 1,2 тыс. украинских беспилотников за ночь"
+  "title:Минобороны РФ сообщило о перехвате почти 1,2 тыс. украинских беспилотников за ночь",
+  "skip:https://www.interfax.ru/russia/1128785",
+  "skip:https://www.rbc.ru/politics/13/11/2026/6af6a8985d33761ec7ccb5f2",
+  "https://www.kommersant.ru/doc/9096100",
+  "title:Четыре человека погибли при атаке беспилотников на Волгоград",
+  "skip:https://www.interfax.ru/russia/1128789",
+  "https://www.rbc.ru/rbcfreenews/6af6b58b5d33761ec7ccb64e",
+  "title:Астраханскую область атаковали 30 беспилотников"
 ]

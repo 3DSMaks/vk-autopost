@@ -1,11 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28300461",
-  "skip:https://ria.ru/20261110/tramp-2130442324.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28300459",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28300439",
-  "https://ria.ru/20261110/dogovorennosti-2130445746.html",
-  "title:США и Иран обсуждают возможные договоренности по урегулированию конфликта",
-  "skip:https://www.france24.com/en/us-defense-secretary-hegseth-faces-expected-impeachment-vote-this-week",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28300493",
   "skip:https://www.interfax.ru/world/1127937",
   "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMWxSRW95b2hyeC00X2Q5VmF0alVielFMcVhtMVFhdFBfRUNmQlAyM3IwUkthb3JDYldrNmhuX1dVXzRRS21LMWNxX2Q2VHN3WGdOSHRyVkVBSVc1UHpIYmVFYjRvUFlIS292a3VPMkljcW5HWVBYVkdpX1ZKSE1qRWs2T21JRm9pcjZVMzRSR0FVZk1fMUs5QlhCTnBFVXpUczJIbW1n?oc=5",
@@ -998,5 +991,12 @@
   "skip:https://www.kommersant.ru/doc/9108750",
   "skip:https://www.interfax.ru/moscow/1128814",
   "https://www.kommersant.ru/doc/9108774",
-  "title:СКР подтвердил информацию о покушении на экс-советника Азарова Сергея Заворотного в Москве"
+  "title:СКР подтвердил информацию о покушении на экс-советника Азарова Сергея Заворотного в Москве",
+  "skip:https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+  "https://www.france24.com/en/video/20261113-us-ukraine-say-europe-to-join-peace-talks-as-putin-sticks-to-hardline-stance",
+  "title:Европа присоединится к следующему раунду переговоров по Украине",
+  "skip:https://tass.ru/proisshestviya/28315403",
+  "skip:https://ria.ru/20261113/pasechnik-2131336405.html",
+  "https://www.interfax.ru/russia/1128838",
+  "title:В Луганске в результате удара беспилотника по остановке погибла женщина"
 ]

@@ -1,7 +1,4 @@
 [
-  "skip:https://variety.com/2026/film/box-office/you-can-see-everything-clayface-battle-for-no-1-box-office-1236936664/",
-  "skip:https://deadline.com/2026/11/box-office-you-can-see-everything-clayface-halloween-1237209579/",
-  "skip:https://variety.com/2026/film/news/michael-mann-shot-himself-gun-range-accident-1236936667/",
   "skip:https://deadline.com/2026/11/michael-mann-injured-weapon-discharges-filmmaker-ok-1237210846/",
   "https://www.film.ru/news/kinoteatry-otkazalis-pokazyvat-kliffa-buta",
   "title:Кинотеатры отказались показывать «Клиффа Бута»",
@@ -998,5 +995,8 @@
   "https://variety.com/2026/film/global/jon-hamm-andrew-koji-takashi-miike-tokyo-bullfrog-mk2-1236946806/",
   "title:Jon Hamm, Andrew Koji to Star in Takashi Miike’s Tokyo-Set Psychological Thriller ‘Bullfrog’ as Mk2 Films Boards Sales (EXCLUSIVE)",
   "https://www.film.ru/articles/recenziya-na-multserial-avatar-sem-ubezhishch-boykoe-i-smeloe-fentezi-srazu-o-dvuh",
-  "title:Рецензия на мультсериал «Аватар: Семь убежищ» — бойкое и смелое фэнтези сразу о двух повелительницах стихий"
+  "title:Рецензия на мультсериал «Аватар: Семь убежищ» — бойкое и смелое фэнтези сразу о двух повелительницах стихий",
+  "skip:https://variety.com/2026/film/obituaries-people-news/christian-cousins-dead-kindergarten-cop-child-star-1236947014/",
+  "https://www.film.ru/articles/vyshla-rasshirennaya-versiya-mstiteli-final-encore-vot-chto-dobavili-v-film",
+  "title:Вышла расширенная версия «Мстители: Финал Encore»: вот, что добавили в фильм"
 ]

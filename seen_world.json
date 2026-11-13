@@ -1,14 +1,4 @@
 [
-  "title:В Болгарии объявили траур из-за масштабного ДТП с десятками погибших",
-  "skip:https://news.google.com/rss/articles/CBMixwFBVV95cUxPNXZLZlE1TldPUHRna1pNTU91YTJWVHJ5NmxEZERoWGFudjU4WFI1SHlqVXl1TzFmeHBFcjNjZHhOTkNSVTIzcmFsbnktdzR3MDFaY2FYQzVlaHhBc3V5Nm52R3pvZU5vdHJhZndaV3R2LXh1cVZxUkhvcDQ0Z3lMNXA2THdaM05kZVpNOWliNGQ0cHBNOFhYYU44U3hWaVRkYldWNS11ZUtwNUs5YjBJbVdLYjhidklfMnZwYWVwRHpyMGYyMS1Z?oc=5",
-  "https://tass.ru/sport/28303427",
-  "title:Ирак запретил посадку самолета со сборной Ирана из-за санкций США",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28303559",
-  "skip:https://www.interfax.ru/world/1128085",
-  "skip:https://www.rbc.ru/politics/10/11/2026/6af31fc4f17ffd6e0e2ec43f",
-  "https://ria.ru/20261110/rubio-2130690308.html",
-  "title:Госсекретарь США Марко Рубио назвал продуктивными трехсторонние переговоры по Украине в Абу-Даби",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28303487",
   "skip:https://www.interfax.ru/world/1128084",
   "skip:https://www.france24.com/en/americas/20261110-live-pentagon-chief-pete-hegseth-calls-move-to-impeach-him-a-farce",
   "skip:https://www.aljazeera.com/news/2026/11/10/pentagon-chief-hegseth-calls-us-house-impeachment-effort-a-farce?traffic_source=rss",
@@ -998,5 +988,15 @@
   "skip:https://news.google.com/rss/articles/CBMivwFBVV95cUxPTTdvYllmb0pHUXVJVGNLUmFZb2I0WXpjZENubU52NW1nQlFJa1E4c3ZNTGhseUdiUzl0ZXJWa0pOSnR1ZDlRQk9FTHZlaWkyT0hLM1J3OW5tVUhIb0o4OWN5bDVVakF5T3lIanR1SVVMSkctSDlpb2loMWI2MENuWEIxTmhTcy1kZXdqSlRrdi1NMHlFSGtPRWEzdUFrMWR1c2wwNk9rRUUwOGpzajM0N1h2MndWVU9MYngyMVdudw?oc=5",
   "skip:https://ria.ru/20261114/ssha-2131474850.html",
   "https://tass.ru/proisshestviya/28316917",
-  "title:В США ввели общенациональный запрет на вылеты из-за сбоя оборудования"
+  "title:В США ввели общенациональный запрет на вылеты из-за сбоя оборудования",
+  "skip:https://www.kommersant.ru/doc/9109493",
+  "skip:https://www.rbc.ru/rbcfreenews/6af78201b03dd80b38f535ef",
+  "skip:https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
+  "skip:https://ria.ru/20261114/ssha-2131476517.html",
+  "skip:https://www.france24.com/en/americas/20261113-us-flight-authority-orders-national-ground-stop-over-air-traffic-control-communication-issue",
+  "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFBta25Rakd3c0VBM0NUWjJzbmV2ajZwTWRtUFVTcTVzZ2otRGo0cXZSWWV0MzNBSXdmMXNzdm9SU1d1blBBNnktRlNqQmcwVUVxQzhCNERGel9ETDBHZjJwb29IYmhGX2VPNm8xeGwwU0VNajFzZnpIM19lejBOVTZrRVVjb2t4SDh3emhSZHI?oc=5",
+  "skip:https://ria.ru/20261114/ataka-2131476286.html",
+  "skip:https://tass.ru/proisshestviya/28316921",
+  "https://www.interfax.ru/russia/1128945",
+  "title:В Белгородской области в результате удара беспилотника погиб человек"
 ]

@@ -1,10 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/201924/oficialno-v-little-nightmares-iii-sygralo-bolee-2-mln-chelovek",
-  "https://www.playground.ru/gta_6/news/bukmekery_i_trejdery_otsenili_shansy_gta_6_na_metacritic_v_istoricheskij_rekord_nikto_ne_verit-1886711#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Букмекеры и трейдеры оценили шансы GTA 6 на Metacritic: в исторический рекорд никто не верит",
-  "skip:https://www.playground.ru/physint/news/v_set_popali_pervye_dizajny_physint_novoj_shpionskoj_igry_hideo_kodzimy-1886704#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "https://www.playground.ru/elder_scrolls_5_skyrim/news/entuziast_perenes_rendering_the_elder_scrolls_5_skyrim_na_dvizhok_unreal_engine_5_s_sohraneniem_podderzhki_modov-1886715#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Энтузиаст перенес рендеринг The Elder Scrolls 5: Skyrim на движок Unreal Engine 5 с сохранением поддержки модов",
   "skip:https://deadline.com/2026/10/snl-pays-tribute-patrick-stewart-1237210812/",
   "skip:https://variety.com/2026/film/news/green-room-director-patrick-stewart-1236936405/",
   "skip:https://www.film.ru/articles/o-kapitan-moy-kapitan-kakim-my-zapomnim-patrika-styuarta-ispolnitelya-roley-zhan-lyuka",
@@ -998,5 +992,11 @@
   "title:Новый трейлер Детей крови и костей",
   "skip:https://www.film.ru/news/treyler-gatto-pixar",
   "https://www.kinonews.ru/news_144133/",
-  "title:Световой меч Дарта Вейдера продали за рекордную сумму"
+  "title:Световой меч Дарта Вейдера продали за рекордную сумму",
+  "skip:https://stopgame.ru/newsdata/73485/machinegames_anonsirovala_wolfenstein_3",
+  "skip:https://www.pcgamer.com/games/fps/wolfenstein-3-is-in-production-at-machinegames/",
+  "skip:https://www.ign.com/articles/wolfenstein-3-confirmed-to-be-in-development-at-machinegames",
+  "skip:https://gamemag.ru/news/202113/nil-drakmann-raskryl-status-proizvodstva-intergalactic-the-heretic-prophet",
+  "https://stopgame.ru/newsdata/73487/avtory_novoy_fable_pokazali_otryvok_osnovnogo_kvesta",
+  "title:Авторы новой Fable показали отрывок основного квеста"
 ]

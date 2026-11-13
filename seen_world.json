@@ -1,11 +1,4 @@
 [
-  "skip:https://www.france24.com/en/americas/20261109-republican-congressman-launches-impeachment-bid-against-pentagon-chief-hegseth",
-  "skip:https://www.interfax.ru/world/1127926",
-  "skip:https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZjJQVDlfd0pOX1hsbURBWTRUQXR0T2VROGp4cmRmTUl0ZnMzYmh0OE9CSTd5STBxaTAxTHU4Ni1GOUQyWTVNbUlUX2hCM2NQOFBVTzdQemFkcWJ6R1N6QmY2Mnl6TmcxR0tiSmdUSUxTS0otcW00cERJbmJuNkRKZ0NiRTJqX2JWLTMxZmtqQnVzaVRVZ290X0YycHpFRFFaQk9WVVB6ZnZSQQ?oc=5",
-  "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-  "title:В США конгрессмен инициировал процедуру импичмента министра обороны Пита Хегсета",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28300253",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28300247",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28300243",
   "https://www.kommersant.ru/doc/9093219",
   "title:СМИ сообщили о возможном соглашении между США и Ираном по снижению уровня обогащения урана и разморозке активов",
@@ -998,5 +991,12 @@
   "title:Под Новосибирском трех подростков обвинили в госизмене за попытку поджога",
   "skip:https://www.interfax.ru/russia/1128800",
   "https://ria.ru/20261113/opasnost-2131286866.html",
-  "title:В Челябинской области объявили режим беспилотной опасности"
+  "title:В Челябинской области объявили режим беспилотной опасности",
+  "skip:https://www.interfax.ru/world/1128804",
+  "skip:https://www.interfax.ru/russia/1128802",
+  "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcEw4cVpnMkIxMTVtZEJlQmN3OHlsLUxxZnQxMWlfV3VfWTBYeHA2VEpBVWxpZk9TejdSaDgzazdlQUlMZy00aEhmZS1GYnhpVmU1bzdQTWM2VUJqd2dOWWowa1VQSWppQVdYSi1PVm0zX2J1b1hFU1QwaGs5N3lDZkJ3bEY5OG9Tai15M3VoRXVycFVBWjYwWjQ5dUhDcEJ4SWFHSXZxNDg5b2k2OG1DUVBoTHBDWE84dmVfZXc4WQ?oc=5",
+  "title:МАГАТЭ выразило обеспокоенность ситуацией вокруг иранского урана",
+  "skip:https://www.kommersant.ru/doc/9096248",
+  "https://www.rbc.ru/rbcfreenews/6af6d1194494191a47982c46",
+  "title:СКР возбудил уголовное дело о теракте после атаки БПЛА на Волгоградскую область"
 ]

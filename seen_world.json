@@ -1,15 +1,4 @@
 [
-  "https://www.rbc.ru/rbcfreenews/6af20d7b762fc9ab336f2a5b",
-  "title:В Вашингтоне автомобиль врезался в ограждение у Белого дома, есть задержанные",
-  "skip:https://www.rbc.ru/politics/09/11/2026/6af20c41880b9dc931df6def",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28300077",
-  "https://www.kommersant.ru/doc/9093204",
-  "title:Спецпосланники США Уиткофф и Кушнер могут посетить Москву после переговоров в Абу-Даби",
-  "skip:https://www.interfax.ru/russia/1127924",
-  "skip:https://ria.ru/20261109/lihachev-2130426819.html",
-  "https://ria.ru/20261109/kiev-2130427592.html",
-  "title:Глава «Росатома» Алексей Лихачев заявил о четырех погибших сотрудниках ЗАЭС за две недели",
-  "skip:https://www.interfax.ru/world/1127922",
   "https://tass.ru/mezhdunarodnaya-panorama/28300185",
   "title:Совет ЕС продлил военную миссию на Украине до ноября 2028 года",
   "skip:https://www.rbc.ru/society/09/11/2026/6af21349e0ff693c1d1487f6",
@@ -998,5 +987,16 @@
   "title:Четыре человека погибли при атаке беспилотников на Волгоград",
   "skip:https://www.interfax.ru/russia/1128789",
   "https://www.rbc.ru/rbcfreenews/6af6b58b5d33761ec7ccb64e",
-  "title:Астраханскую область атаковали 30 беспилотников"
+  "title:Астраханскую область атаковали 30 беспилотников",
+  "skip:https://www.interfax.ru/moscow/1128801",
+  "skip:https://tass.ru/proisshestviya/28314727",
+  "skip:https://ria.ru/20261113/moskva-2131287664.html",
+  "skip:https://tass.ru/proisshestviya/28314723",
+  "skip:https://www.rbc.ru/society/13/11/2026/6af6c0c97bbc26597e6d3d6e",
+  "skip:https://www.kommersant.ru/doc/9096201",
+  "https://www.kommersant.ru/doc/9096236",
+  "title:В Москве на юге города взорвался автомобиль, есть пострадавший",
+  "skip:https://www.kommersant.ru/doc/9096183",
+  "https://www.rbc.ru/rbcfreenews/6af6ba8c83f2da2dcf009d1d",
+  "title:В Забайкальском крае подросток с топором проник в школу и заперся в кабинете"
 ]

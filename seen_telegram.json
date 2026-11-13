@@ -1,7 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135604-tajka-vajtiti-ne-sterpel-postanovschik-nabrosilsja-na-kritikov-svoego-poslednego-provalnogo-filma-s-dzhennoj-ortegoj/",
-  "skip:https://deadline.com/2026/10/taika-waititi-calls-klara-and-the-sun-critics-irrelevant-1237210687/",
-  "https://www.film.ru/news/kinoteatry-otkazalis-pokazyvat-kliffa-buta",
   "title:Кинотеатры отказались показывать «Клиффа Бута»",
   "https://deadline.com/2026/10/harry-potter-paapa-essiedu-defends-casting-trans-rights-1237210681/",
   "title:‘Harry Potter’s Paapa Essiedu Defends Role After Advocating For Trans Rights: “People Have A Lot Of Feelings About This”",
@@ -998,5 +995,8 @@
   "skip:https://gamemag.ru/news/202121/doom-the-dark-ages-jdet-boynya-treyler-novogo-rejima-dlya-shutera-id-software",
   "skip:https://stopgame.ru/newsdata/73494/gta_vi_chut_ne_otkazali_v_sertifikacii_v_koree_iz_za_izbytochnoy_nagoty",
   "https://www.playground.ru/gta_6/news/rockstar_dobavila_v_gta_6_polnotsennyj_multserial_kotoryj_mozhno_budet_posmotret_tolko_vnutri_igry-1890361#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Rockstar добавила в GTA 6 полноценный мультсериал, который можно будет посмотреть только внутри игры"
+  "title:Rockstar добавила в GTA 6 полноценный мультсериал, который можно будет посмотреть только внутри игры",
+  "skip:https://www.film.ru/news/novaya-pyatnica-13-e-v-rabote",
+  "https://variety.com/2026/film/global/jon-hamm-andrew-koji-takashi-miike-tokyo-bullfrog-mk2-1236946806/",
+  "title:Jon Hamm, Andrew Koji to Star in Takashi Miike’s Tokyo-Set Psychological Thriller ‘Bullfrog’ as Mk2 Films Boards Sales (EXCLUSIVE)"
 ]

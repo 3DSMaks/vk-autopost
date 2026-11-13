@@ -1,7 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73351/reliz_dopolneniya_evercold_dlya_final_fantasy_xiv_pereehal_na_23_fevralya",
-  "skip:https://www.playground.ru/physint/news/hideo_kodzima_pokazal_novyj_poster_shpionskogo_ekshena_physint_s_billom_skarsgardom-1886708#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-evercold-delayed-to-february-preorders-start-next-week/",
   "skip:https://gamemag.ru/news/201924/oficialno-v-little-nightmares-iii-sygralo-bolee-2-mln-chelovek",
   "https://www.playground.ru/gta_6/news/bukmekery_i_trejdery_otsenili_shansy_gta_6_na_metacritic_v_istoricheskij_rekord_nikto_ne_verit-1886711#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Букмекеры и трейдеры оценили шансы GTA 6 на Metacritic: в исторический рекорд никто не верит",
@@ -998,5 +995,8 @@
   "skip:https://www.kinonews.ru/news_144126/",
   "skip:https://kg-portal.ru/comments/135764-jarkij-animacionnyj-nuar-rej-gann-raskryvaet-svoj-mir-vnovom-trejlere/",
   "https://www.film.ru/news/novyy-treyler-detey-krovi-i-kostey",
-  "title:Новый трейлер Детей крови и костей"
+  "title:Новый трейлер Детей крови и костей",
+  "skip:https://www.film.ru/news/treyler-gatto-pixar",
+  "https://www.kinonews.ru/news_144133/",
+  "title:Световой меч Дарта Вейдера продали за рекордную сумму"
 ]

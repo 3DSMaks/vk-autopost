@@ -1,11 +1,4 @@
 [
-  "https://www.playground.ru/misc/news/fromsoftware_sozdavshaya_novyj_podzhanr_igr_otmechaet_40_letie-1886809#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:FromSoftware, создавшая новый поджанр игр, отмечает 40-летие",
-  "https://www.playground.ru/mass_effect_5/news/veteran_bioware_obyasnil_pochemu_mass_effect_tsennee_dragon_age_dlya_potentsialnyh_pokupatelej-1886839#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Ветеран BioWare объяснил, почему Mass Effect ценнее Dragon Age для потенциальных покупателей",
-  "skip:https://gamemag.ru/news/201931/sluh-novaya-igra-avtorov-days-gone-iz-bend-studio-vyydet-uje-v-sleduyushchem-godu",
-  "skip:https://www.igromania.ru/news/169655/sleduyuschaya-igra-sozdatelej-days-gone-mozhet-byit-kooperativom-ot-tretego-litsa/",
-  "skip:https://www.ign.com/articles/save-mass-effect-graffiti-reportedly-spray-painted-outside-ea-building",
   "https://www.playground.ru/crimson_desert/news/eschyo_odna_zaplatka_dlya_crimson_desert_vyshel_patch_2_04_05_on_ustranyaet_vylet_v_boyu_s_ravokom_i_oshibki_zadanij-1886847#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Ещё одна заплатка - для Crimson Desert вышел патч 2.04.05: он устраняет вылет в бою с Равоком и ошибки заданий",
   "https://www.playground.ru/phantom_blade_zero/news/phantom_blade_zero_lider_sredi_odnopolzovatelskih_igr_po_onlajnu_v_steam_v_2026_godu-1886861#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +991,12 @@
   "skip:https://www.film.ru/news/novaya-pyatnica-13-e-v-rabote",
   "skip:https://www.kinonews.ru/news_144125/",
   "https://deadline.com/2026/11/project-hail-mary-greig-fraser-ryan-gosling-camerimage-1237221490/",
-  "title:‘Project Hail Mary’ Cinematographer Greig Fraser On Bringing 1980s Pop Culture Influences To Ryan Gosling Sci-Fi Hit — ToruńCamerimage"
+  "title:‘Project Hail Mary’ Cinematographer Greig Fraser On Bringing 1980s Pop Culture Influences To Ryan Gosling Sci-Fi Hit — ToruńCamerimage",
+  "skip:https://www.igromania.ru/news/169922/stranger-than-heaven-poluchila-syuzhetnyij-trejler-vtorogo-akta-1929-god-draki-kriminal/",
+  "skip:https://www.playground.ru/project_century/news/sega_pokazala_novyj_syuzhetnyj_trejler_stranger_than_heaven_geroj_vstupaet_v_ryady_yakudza-1890360#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://gamemag.ru/news/202121/doom-the-dark-ages-jdet-boynya-treyler-novogo-rejima-dlya-shutera-id-software",
+  "skip:https://gamemag.ru/news/202118/gatto-trailer",
+  "skip:https://stopgame.ru/newsdata/73494/gta_vi_chut_ne_otkazali_v_sertifikacii_v_koree_iz_za_izbytochnoy_nagoty",
+  "https://gamemag.ru/news/202120/voyna-ne-zakonchena-microsoft-oficialno-anonsirovala-novuyu-wolfensteinnad-igroy-rabotaet-studiya",
+  "title:Война не окончена: Microsoft официально подтвердила разработку Wolfenstein 3 от MachineGames"
 ]

@@ -1,10 +1,4 @@
 [
-  "skip:https://tass.ru/politika/28303085",
-  "skip:https://www.interfax.ru/russia/1128066",
-  "skip:https://ria.ru/20261110/peregovory-2130654334.html",
-  "https://www.rbc.ru/politics/10/11/2026/6af30dfa781136ee0dce158c",
-  "title:Трехсторонние переговоры России, США и Украины в Абу-Даби продолжатся в среду",
-  "skip:https://tass.ru/politika/28303057",
   "skip:https://ria.ru/20261110/peregovory-2130653976.html",
   "https://www.rbc.ru/rbcfreenews/6af30db201f4b58c238a2c0b",
   "title:Делегации России и Украины на переговорах в Абу-Даби общаются на русском языке",
@@ -998,5 +992,11 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28316767",
   "skip:https://news.google.com/rss/articles/CBMipgFBVV95cUxPcVdRenJGM1FSSmFKOEszNHdLNFhPeDlwRlRHNjE5QUNHMTVsWWJVM0xsZ0p6NlZ6SHY3YTdIaHVGZU9BcDN5TFhBZXZfSzI0OHZ4Q0djcXk5RkY1dVV2akR2UHZkbU8yT1V5RkZnLWI2cnRRQnpGSjRrRG9ad1FhVTBCc2V1M2gteDBZaGc1cWpZWkVwZmNSTndzZVR6S2ZKVEJIRHV3?oc=5",
   "https://www.kommersant.ru/doc/9109201",
-  "title:Правительство Нидерландов избежало отставки после экстренных переговоров"
+  "title:Правительство Нидерландов избежало отставки после экстренных переговоров",
+  "skip:https://ria.ru/20261113/polsha-2131466696.html",
+  "https://www.kommersant.ru/doc/9109216",
+  "title:Польша приостановила финансирование закупок вооружений США для Украины",
+  "skip:https://ria.ru/20261113/ukraina-2131470329.html",
+  "https://www.rbc.ru/rbcfreenews/6af76635582a06d4178f7d35",
+  "title:BMW отзовет более 720 тыс. автомобилей в США из-за риска возгорания"
 ]

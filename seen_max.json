@@ -1,8 +1,4 @@
 [
-  "https://deadline.com/2026/10/vision-quest-paul-bettany-blew-10-blood-vessels-eye-1237210698/",
-  "title:‘Vision Quest’s Paul Bettany On How He Blew 10 Blood Vessels In His Eye While “Wildly Overacting”: “A Lesson In Less Is More”",
-  "https://www.playground.ru/witcher_4/news/cdpr_prodolzhaet_usilivatsya_v_komandu_the_witcher_4_pereshyol_eschyo_odin_spetsialist_rabotavshij_nad_kingdom_come_2-1886829#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:CDPR продолжает усиливаться - в команду The Witcher 4 перешёл ещё один специалист, работавший над Kingdom Come 2",
   "https://www.playground.ru/misc/news/fromsoftware_sozdavshaya_novyj_podzhanr_igr_otmechaet_40_letie-1886809#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:FromSoftware, создавшая новый поджанр игр, отмечает 40-летие",
   "https://www.playground.ru/mass_effect_5/news/veteran_bioware_obyasnil_pochemu_mass_effect_tsennee_dragon_age_dlya_potentsialnyh_pokupatelej-1886839#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +994,9 @@
   "https://www.kinonews.ru/news_144132/",
   "title:Джеймс Ганн может потерять контроль над сиквелом \"Супермена\"",
   "https://www.kinonews.ru/news_144139/",
-  "title:Майкл Б. Джордан соблазняет Адрию Архону в трейлере \"Афера Томаса Крауна\""
+  "title:Майкл Б. Джордан соблазняет Адрию Архону в трейлере \"Афера Томаса Крауна\"",
+  "skip:https://www.film.ru/news/novaya-pyatnica-13-e-v-rabote",
+  "skip:https://www.kinonews.ru/news_144125/",
+  "https://deadline.com/2026/11/project-hail-mary-greig-fraser-ryan-gosling-camerimage-1237221490/",
+  "title:‘Project Hail Mary’ Cinematographer Greig Fraser On Bringing 1980s Pop Culture Influences To Ryan Gosling Sci-Fi Hit — ToruńCamerimage"
 ]

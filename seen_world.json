@@ -1,12 +1,4 @@
 [
-  "https://www.rbc.ru/politics/10/11/2026/6aedc5bf0c33dac264352b9e",
-  "title:Российская делегация прибыла в Абу-Даби на трехсторонние переговоры по Украине",
-  "skip:https://www.interfax.ru/world/1127941",
-  "skip:https://www.interfax.ru/world/1127942",
-  "skip:https://www.interfax.ru/world/1127940",
-  "skip:https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28300477",
-  "skip:https://news.google.com/rss/articles/CBMiiwFBVV95cUxOelU0dnZ5Y2ROMkdrZXlYYURIcnJocXdKbWx1eTlPcENLMk1vX3ctTC1ycGlfQ0dlemFiX2pHRzRvSkd4NTZ3aEdxU3h5OW5ZeUo3cU50YTVPODlxb2lZMVBwRFU4bXlmYlJiTmdHSHcxUUdQMFptNG43Y1hsanUzbTJHMHc5eTlVeVlz?oc=5",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28300461",
   "skip:https://ria.ru/20261110/tramp-2130442324.html",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28300459",
@@ -998,5 +990,13 @@
   "skip:https://ria.ru/20261113/samara-2131320391.html",
   "skip:https://ria.ru/20261113/vsu-2131319232.html",
   "https://www.kommersant.ru/doc/9108746",
-  "title:Четыре человека погибли при атаке беспилотника на промышленное предприятие в Самарской области"
+  "title:Четыре человека погибли при атаке беспилотника на промышленное предприятие в Самарской области",
+  "skip:https://www.kommersant.ru/doc/9108760",
+  "skip:https://www.rbc.ru/politics/13/11/2026/6af6e0183dab237472e4024b",
+  "https://www.interfax.ru/russia/1128820",
+  "title:Минобороны РФ сообщило о взятии под контроль села Котовка в Харьковской области",
+  "skip:https://www.kommersant.ru/doc/9108750",
+  "skip:https://www.interfax.ru/moscow/1128814",
+  "https://www.kommersant.ru/doc/9108774",
+  "title:СКР подтвердил информацию о покушении на экс-советника Азарова Сергея Заворотного в Москве"
 ]

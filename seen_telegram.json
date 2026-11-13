@@ -1,7 +1,4 @@
 [
-  "https://www.kinonews.ru/news_143918/",
-  "title:Кристофер Ллойд жалеет об одном невыполненном трюке в \"Назад в будущее 3\"",
-  "https://gamemag.ru/news/201921/blomberg-microsoft-deystvitelno-potratila-na-gears-of-war-e-day-500-mln-dollarov",
   "title:Blomberg: Microsoft действительно потратила на Gears of War: E-Day 500 млн долларов",
   "https://gamemag.ru/news/201925/intergalactic-the-heretic-prophet-ashley-johnson-playing",
   "video:2026-11-01:https://gamemag.ru/news/201925/intergalactic-the-heretic-prophet-ashley-johnson-playing",
@@ -998,5 +995,8 @@
   "title:DLC Revelations для DOOM: The Dark Ages получит режим «Бойня» уже на следующей неделе",
   "skip:https://www.kinonews.ru/news_144125/",
   "https://deadline.com/2026/11/chalamet-dune-part-three-prank-bbc-children-in-need-1237222621/",
-  "title:‘Dune: Part 3’ Stars Set For Very Childish BBC Prank Tonight"
+  "title:‘Dune: Part 3’ Stars Set For Very Childish BBC Prank Tonight",
+  "skip:https://kg-portal.ru/comments/135772-bred-pitt-stanet-legendoj-rabochego-klassa-v-filme-rezhissera-zvuka-metalla/",
+  "https://www.kinonews.ru/news_144132/",
+  "title:Джеймс Ганн может потерять контроль над сиквелом \"Супермена\""
 ]

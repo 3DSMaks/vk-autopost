@@ -1,11 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9093468",
-  "https://www.rbc.ru/politics/10/11/2026/6af2d7c5aa95ce292fb3dcaa",
-  "title:В Абу-Даби начались трехсторонние переговоры по Украине с участием России, США и Украины",
-  "skip:https://www.kommersant.ru/doc/9093450",
-  "https://tass.ru/proisshestviya/28301847",
-  "title:Главный врач частной клиники обнаружена мертвой с признаками насильственной смерти в Новой Москве",
-  "skip:https://www.interfax.ru/russia/1128009",
   "skip:https://www.kommersant.ru/doc/9093534",
   "skip:https://ria.ru/20261110/svo-2130522480.html",
   "https://www.rbc.ru/politics/10/11/2026/6af2dfa0bea2f2cdbac37765",
@@ -998,5 +991,12 @@
   "skip:https://tass.ru/obschestvo/28316447",
   "skip:https://tass.ru/obschestvo/28316431",
   "https://www.rbc.ru/society/13/11/2026/6af72fe5570f5714069fc217",
-  "title:Рособрнадзор объявил о переходе ЕГЭ на отечественное ПО к 2027 году"
+  "title:Рособрнадзор объявил о переходе ЕГЭ на отечественное ПО к 2027 году",
+  "skip:https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss",
+  "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTGE3d2YwNy1ONlliXzNCVDNiZU01WlB3YUdPMEZwOHJpNS1UWEtvZ3hhM1hWOGN2REsxbEw1SzNERlk3eTVfUTdlOEFJYVAwNXVjT25jczJDRE9iTE5DYjlxNnQ3UlJRVDlRdU1UeHhNZ1NUWnBVU2w2TjZLWTg5emhUZ2RVVXowVWZuMnBiTlhtWlhxUDkxODkzNVlfeGlGbVlYV0todlRQc1JZSXIyVXpsVU1WRDFFU2QxTA?oc=5",
+  "title:Турция и Катар подписали соглашение о взаимной обороне",
+  "skip:https://www.kommersant.ru/doc/9109102",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28316443",
+  "https://tass.ru/mezhdunarodnaya-panorama/28316539",
+  "title:Спецпосланники США обсудили с Европой итоги переговоров по урегулированию на Украине"
 ]

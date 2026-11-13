@@ -1,10 +1,4 @@
 [
-  "skip:https://ria.ru/20261110/peregovory-2130653976.html",
-  "https://www.rbc.ru/rbcfreenews/6af30db201f4b58c238a2c0b",
-  "title:Делегации России и Украины на переговорах в Абу-Даби общаются на русском языке",
-  "skip:https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-  "skip:https://www.interfax.ru/business/1128065",
-  "skip:https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUtnS210c1pKNVpEZXJ1V1JpdUdyZ0h5OGh2SzVCXzJaVGRwaDZnb0NQZUxFS0ZFWmxwbU53ZlJtdlBkOWplZHdaNkloU0xwV3hvdlpjNnh0R1FISXdMOExfc09JckJqTWxjSWlZSjZpN0RWR1kyRUF6YUlXN0dqSm5XQU5TUmFmbWpFbGlzT3FZRllaMGU4cld0cDlsaFVYY0IzV2ZNYmwxYW0yd1FDaw?oc=5",
   "https://www.kommersant.ru/doc/9093778",
   "title:Разработчик чат-бота Claude компания Anthropic планирует привлечь миллиарды долларов в ходе IPO",
   "skip:https://www.interfax.ru/digital/1128060",
@@ -998,5 +992,11 @@
   "title:Польша приостановила финансирование закупок вооружений США для Украины",
   "skip:https://ria.ru/20261113/ukraina-2131470329.html",
   "https://www.rbc.ru/rbcfreenews/6af76635582a06d4178f7d35",
-  "title:BMW отзовет более 720 тыс. автомобилей в США из-за риска возгорания"
+  "title:BMW отзовет более 720 тыс. автомобилей в США из-за риска возгорания",
+  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
+  "https://ria.ru/20261113/ormuz-2131473916.html",
+  "title:В Ормузском проливе два танкера подорвались на минах",
+  "skip:https://tass.ru/proisshestviya/28316855",
+  "https://ria.ru/20261113/ssha-2131474197.html",
+  "title:В США танкер врезался в речной круизный лайнер"
 ]

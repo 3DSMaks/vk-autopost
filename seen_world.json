@@ -1,13 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9093449",
-  "skip:https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-  "skip:https://www.rbc.ru/politics/10/11/2026/6af2c537964899c939c9580a",
-  "skip:https://ria.ru/20261110/lavrov-2130492998.html",
-  "skip:https://www.kommersant.ru/doc/9093443",
-  "skip:https://ria.ru/20261110/peregovory-2130492767.html",
-  "skip:https://www.rbc.ru/politics/10/11/2026/6af2cb2dbea2f2cdbac376db",
-  "https://ria.ru/20261110/rossiya-2130509482.html",
-  "title:Трехсторонние переговоры России, США и Украины начались в Абу-Даби",
   "skip:https://www.kommersant.ru/doc/9093420",
   "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
   "title:Акционеры Nvidia подали в суд на компанию и главу Дженсена Хуанга из-за скандала со связями с предполагаемым китайским агентом",
@@ -998,5 +989,14 @@
   "title:Российский боец Усман Нурмагомедов приговорен к тюремному сроку в ОАЭ за драку",
   "skip:https://www.rbc.ru/rbcfreenews/6af7020a8c5183ec0a3ac728",
   "https://ria.ru/20261113/berlin-2131386300.html",
-  "title:В Берлине неизвестные подожгли автомобиль главного редактора издания NIUS Юлиана Райхельта"
+  "title:В Берлине неизвестные подожгли автомобиль главного редактора издания NIUS Юлиана Райхельта",
+  "skip:https://ria.ru/20261113/degtyarev-2131398316.html",
+  "skip:https://tass.ru/sport/28316127",
+  "skip:https://www.rbc.ru/sport/30/10/2026/6ae4bb2dfb9cecf45c7ca3e8",
+  "skip:https://ria.ru/20261113/rossijane-2131381640.html",
+  "https://ria.ru/20261113/sbornaja-2131398826.html",
+  "title:Сборная России заняла третье место в медальном зачете на юношеской Олимпиаде в Дакаре",
+  "skip:https://www.interfax.ru/business/1128871",
+  "https://www.rbc.ru/business/13/11/2026/6af6bbf15d33761ec7ccb674",
+  "title:Mercedes-Benz заморозил новые инвестиции в заводы в Германии"
 ]

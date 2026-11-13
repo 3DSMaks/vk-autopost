@@ -1,12 +1,4 @@
 [
-  "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX2tteTF0RUtLTFhyN1lSeUZEa19XYmpNandtUWNPU3BDN24zdUFPbjBaSUhhT3VMMjFuU2tidFlwT1FRT1ZEZU1jUnU5OHZPV25KNXdfOXF5VjdZbi10OEZKRnVwWU9NM0tUZ3lOeXZRQWlUa0U2ZDZRRzJRR3oxTGRsWG1TZjA2ajFzMFItakp6allKeFB4WDl5UkhqYUh1bTNoUDZ1VGlCZzVqVkF5cFBsMFJfZzNuNU5ucmJ2TVJNenk2cXc?oc=5",
-  "title:Российские войска нанесли удары по объектам энергетики и транспорта Украины",
-  "skip:https://www.interfax.ru/world/1128031",
-  "skip:https://www.rbc.ru/rbcfreenews/6af2ed83880b9dc931df6e49",
-  "skip:https://ria.ru/20261110/abu-dabi-2130554478.html",
-  "https://www.kommersant.ru/doc/9093601",
-  "title:Участники трехсторонних переговоров по Украине в Абу-Даби ушли на перерыв",
-  "skip:https://ria.ru/20261110/es-2130545529.html",
   "https://tass.ru/proisshestviya/28302147",
   "title:В Испании при взрыве рюкзака погиб полицейский",
   "skip:https://www.interfax.ru/world/1128038",
@@ -998,5 +990,13 @@
   "skip:https://www.interfax.ru/russia/1128914",
   "skip:https://tass.ru/obschestvo/28316557",
   "https://ria.ru/20261113/lnr-2131448914.html",
-  "title:В ЛНР ограничили ночные междугородние пассажирские перевозки из-за атак беспилотников"
+  "title:В ЛНР ограничили ночные междугородние пассажирские перевозки из-за атак беспилотников",
+  "skip:https://www.interfax.ru/russia/1128916",
+  "skip:https://www.interfax.ru/russia/1128915",
+  "https://tass.ru/proisshestviya/28316701",
+  "title:Суд отправил под домашний арест замглавы Росмолодежи Дениса Аширова",
+  "skip:https://www.rbc.ru/politics/13/11/2026/6af74362d09c06b2eb22c9d1",
+  "skip:https://www.interfax.ru/world/1128919",
+  "https://tass.ru/mezhdunarodnaya-panorama/28316707",
+  "title:ЕС утвердил переговорную группу для контактов по Украине"
 ]

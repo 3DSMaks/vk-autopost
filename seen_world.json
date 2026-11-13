@@ -1,10 +1,4 @@
 [
-  "skip:https://www.interfax.ru/world/1128000",
-  "skip:https://ria.ru/20261110/peregovory-2130507879.html",
-  "skip:https://www.rbc.ru/photoslider/6af2d4a2e0ff693c1d148850",
-  "skip:https://www.rbc.ru/politics/10/11/2026/6af2c65eadd66be4c913666c",
-  "skip:https://tass.ru/politika/28301457",
-  "skip:https://tass.ru/politika/28301755",
   "skip:https://www.rbc.ru/politics/10/11/2026/6af1bc2500cbe68dae3d2e88",
   "skip:https://tass.ru/politika/28301731",
   "skip:https://www.kommersant.ru/doc/9093469",
@@ -998,5 +992,11 @@
   "title:Маурисио Почеттино назначен главным тренером «Манчестер Юнайтед»",
   "skip:https://www.rbc.ru/quote/13/11/2026/6af6f13215af3f780c4a6a1d",
   "https://www.interfax.ru/business/1128850",
-  "title:Московская биржа запускает торги фьючерсами на сою и кукурузу"
+  "title:Московская биржа запускает торги фьючерсами на сою и кукурузу",
+  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-microsoft-global-outage?traffic_source=rss",
+  "skip:https://www.interfax.ru/world/1128847",
+  "https://tass.ru/mezhdunarodnaya-panorama/28315945",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28315947",
+  "https://ria.ru/20261113/bundestag-2131379188.html",
+  "title:Бундестаг одобрил законопроект о расширении полномочий германских спецслужб"
 ]

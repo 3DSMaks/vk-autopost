@@ -1,7 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28300493",
-  "skip:https://www.interfax.ru/world/1127937",
-  "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMWxSRW95b2hyeC00X2Q5VmF0alVielFMcVhtMVFhdFBfRUNmQlAyM3IwUkthb3JDYldrNmhuX1dVXzRRS21LMWNxX2Q2VHN3WGdOSHRyVkVBSVc1UHpIYmVFYjRvUFlIS292a3VPMkljcW5HWVBYVkdpX1ZKSE1qRWs2T21JRm9pcjZVMzRSR0FVZk1fMUs5QlhCTnBFVXpUczJIbW1n?oc=5",
   "title:В Конгрессе США инициировали процедуру импичмента министра обороны Пита Хегсета",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28301059",
   "skip:https://news.google.com/rss/articles/CBMiswFBVV95cUxPNFRRSTBsbG02aEtlczAwSUpUMTd3ZkFRQUp6emg3SHZpclZSTXZiQUl6TWRMUVJuZ0U5T1MtdFhkblNEYWtiN1B5YnBtNnVaSVFyV1NqTk5Jd1g5SHU5eWFjWk45TWVYLUdJbi0zb2R2c2tZMXlvT2tZMVRaUjd1ek51NTFQcWJ2SXpMMkZqZ29UbkRkTWlyNmpleE5aOTJlZ3FDb21FQVRyNlVoalM3MWVUdw?oc=5",
@@ -998,5 +995,8 @@
   "skip:https://tass.ru/proisshestviya/28315403",
   "skip:https://ria.ru/20261113/pasechnik-2131336405.html",
   "https://www.interfax.ru/russia/1128838",
-  "title:В Луганске в результате удара беспилотника по остановке погибла женщина"
+  "title:В Луганске в результате удара беспилотника по остановке погибла женщина",
+  "skip:https://ria.ru/20261113/transport-2131349642.html",
+  "https://tass.ru/obschestvo/28315619",
+  "title:Правительство России внесло в Госдуму законопроект об эксплуатации беспилотного транспорта"
 ]

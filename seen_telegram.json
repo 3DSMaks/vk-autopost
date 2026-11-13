@@ -1,6 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169664/prodazhi-simulyatora-magazina-probably-stolen-dostigli-otmetki-v-polmilliona-kopij/",
-  "skip:https://stopgame.ru/newsdata/73349/kiberpankovyy_simulyator_lavochnika_probably_stolen_kupili_500_tysyach_raz",
   "https://www.pcgamer.com/games/dark-souls/fromsoftware-temporarily-shuts-down-dark-souls-2-and-3-multiplayer-over-server-issue/",
   "title:FromSoftware temporarily shuts down Dark Souls 2 and 3 multiplayer over 'server issue'",
   "https://deadline.com/2026/10/vision-quest-paul-bettany-blew-10-blood-vessels-eye-1237210698/",
@@ -998,5 +996,7 @@
   "https://www.film.ru/news/pochetnyy-sezar-nikol-kidman",
   "title:Почетный Сезар Николь Кидман",
   "https://kg-portal.ru/comments/135773-rezhisser-podarivshij-dzhejsonu-vurhizu-vse-znamenitye-prichindaly-snimet-novuju-pjatnicu-13e/",
-  "title:Режиссёр, подаривший Джейсону Вурхизу все знаменитые причиндалы, снимет новую \"Пятницу, 13-е\""
+  "title:Режиссёр, подаривший Джейсону Вурхизу все знаменитые причиндалы, снимет новую \"Пятницу, 13-е\"",
+  "https://www.kinonews.ru/news_144139/",
+  "title:Майкл Б. Джордан соблазняет Адрию Архону в трейлере \"Афера Томаса Крауна\""
 ]

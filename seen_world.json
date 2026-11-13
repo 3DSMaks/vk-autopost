@@ -1,12 +1,4 @@
 [
-  "skip:https://ria.ru/20261110/kushner-2130511451.html",
-  "skip:https://ria.ru/20261110/abu-dabi-2130511274.html",
-  "skip:https://www.interfax.ru/world/1128002",
-  "skip:https://ria.ru/20261110/medinskiy-2130511067.html",
-  "skip:https://ria.ru/20261110/medinskiy-2130510743.html",
-  "skip:https://ria.ru/20261110/ssha-2130510518.html",
-  "skip:https://ria.ru/20261110/kushner-2130510236.html",
-  "skip:https://ria.ru/20261110/peregovory-2130510020.html",
   "skip:https://www.kommersant.ru/doc/9093468",
   "https://www.rbc.ru/politics/10/11/2026/6af2d7c5aa95ce292fb3dcaa",
   "title:В Абу-Даби начались трехсторонние переговоры по Украине с участием России, США и Украины",
@@ -998,5 +990,13 @@
   "skip:https://ria.ru/20261113/elektropodstantsii-2131432985.html",
   "skip:https://tass.ru/armiya-i-opk/28316381",
   "https://www.interfax.ru/russia/1128897",
-  "title:Российские военные нанесли удары по двум электроподстанциям в Сумской области"
+  "title:Российские военные нанесли удары по двум электроподстанциям в Сумской области",
+  "skip:https://www.kommersant.ru/doc/9109103",
+  "https://www.interfax.ru/russia/1128894",
+  "title:Замглавы Росмолодежи Денис Аширов задержан по делу о мошенничестве",
+  "skip:https://ria.ru/20261113/ege-2131438113.html",
+  "skip:https://tass.ru/obschestvo/28316447",
+  "skip:https://tass.ru/obschestvo/28316431",
+  "https://www.rbc.ru/society/13/11/2026/6af72fe5570f5714069fc217",
+  "title:Рособрнадзор объявил о переходе ЕГЭ на отечественное ПО к 2027 году"
 ]

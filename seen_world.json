@@ -1,11 +1,4 @@
 [
-  "skip:https://www.rbc.ru/rbcfreenews/6af1f3c4b8df4b32dffa2fc5",
-  "https://www.interfax.ru/world/1127915",
-  "skip:https://ria.ru/20261109/ssha-2130421928.html",
-  "skip:https://www.interfax.ru/world/1127914",
-  "skip:https://tass.ru/proisshestviya/28300021",
-  "skip:https://news.google.com/rss/articles/CBMiswFBVV95cUxOdW9QcVFUNXlLNjJXVk94TkxESXlGMFZNckt6X2NoMzNVYkl5WFhuQWVYZUEwLS15bFBCRnBVMjNtM0pkRkNYd3RtSmNqSVZ0TEt4UmZHMzhLRENEamlsUENmQi1lM2p5OWtycVJxTzlpMkRDWXJWQ2JMMTJ0d0N0YWVMSGtDS0drOF9WaHdYN3V0czhCMHVXYVVGZ09XNExhSDRKeGwyNzRIWWFPVjJGbGtiMA?oc=5",
-  "https://www.rbc.ru/rbcfreenews/6af209dbc19562cb7b4e0c70",
   "title:Секретная служба США усилила охрану Белого дома после того, как автомобиль врезался в знак",
   "skip:https://tass.ru/armiya-i-opk/28300029",
   "skip:https://ria.ru/20261109/vsu-2130420811.html",
@@ -998,5 +991,12 @@
   "skip:https://www.interfax.ru/world/1128759",
   "skip:https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjhnZVFHWnV4RHpscnFyUjFWOEl5VndNZ0Y4MFdEVlpueUNaeHRPMVdCbjA4Mmktc0tYWnFsZWdZSkd4dFNvTmszUHFWdC15S0pja2ozaTg0R0dOdEY3aDJtenZwREh5dmRvTGVTUkxVUDNjN3huQU1TRTU1bEVBampuYzdsTjJJZ2tBUXQwal85QnRsWDU4OWNvbDVzN0VUR1R0clNkZmpkaXZMaWh5dExSNHRCUQ?oc=5",
   "https://www.kommersant.ru/doc/9096011",
-  "title:КСИР заявил о нанесении удара по радару США в Бахрейне"
+  "title:КСИР заявил о нанесении удара по радару США в Бахрейне",
+  "skip:https://www.rbc.ru/rbcfreenews/6af6a8f4efa060b593895fe5",
+  "skip:https://www.kommersant.ru/doc/9096091",
+  "skip:https://www.interfax.ru/russia/1128783",
+  "skip:https://ria.ru/20261113/pvo-2131264697.html",
+  "skip:https://tass.ru/armiya-i-opk/28314289",
+  "https://tass.ru/armiya-i-opk/28314323",
+  "title:Минобороны РФ сообщило о перехвате почти 1,2 тыс. украинских беспилотников за ночь"
 ]

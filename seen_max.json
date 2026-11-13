@@ -1,8 +1,4 @@
 [
-  "https://www.playground.ru/bayonetta_3/news/eksklyuziv_nintendo_switch_bayonetta_3_poluchil_neofitsialnyj_port_na_pk_cherez_proekt_witch_time-1886779#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Эксклюзив Nintendo Switch Bayonetta 3 получил неофициальный порт на ПК через проект Witch Time",
-  "https://gamemag.ru/news/201747/nintendo-on-zelda-40-th-anniversary-october-2026",
-  "title:«Это мировой феномен»: Nintendo извинилась за нехватку консолей Switch 2 в стиле The Legend of Zelda: Ocarina of Time",
   "skip:https://www.igromania.ru/news/169664/prodazhi-simulyatora-magazina-probably-stolen-dostigli-otmetki-v-polmilliona-kopij/",
   "skip:https://stopgame.ru/newsdata/73349/kiberpankovyy_simulyator_lavochnika_probably_stolen_kupili_500_tysyach_raz",
   "https://www.igromania.ru/news/169663/sozdateli-skyblivion-rasskazali-o-yuridicheskih-problemah-iz-za-koda-byivshego-razrabotchika/",
@@ -998,5 +994,9 @@
   "https://www.playground.ru/witcher_4/news/the_witcher_4_mozhet_vyjti_v_mae_2028_goda_na_eto_ukazyvaet_novaya_vakansiya_cd_projekt_red-1890321#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:The Witcher 4 может выйти в мае 2028 года - на это указывает новая вакансия CD Projekt RED",
   "https://kg-portal.ru/comments/135771-zataivshijsja-arnold-shvarcenegger-i-pishuschie-scenaristy-sikvelov-kommandos-hischnika-i-konana/",
-  "title:Затаившийся Арнольд Шварценеггер и пишущие сценаристы сиквелов \"Коммандос\", \"Хищника\" и \"Конана\""
+  "title:Затаившийся Арнольд Шварценеггер и пишущие сценаристы сиквелов \"Коммандос\", \"Хищника\" и \"Конана\"",
+  "skip:https://www.playground.ru/overwatch/news/dzheff_kaplan_rasskazal_o_regulyarnyh_konfliktah_s_rukovodstvom_blizzard_za_neskolko_let_do_svoego_uhoda-1890319#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169915/dzheff-kalpan-raskritikoval-blizzard-za-podhod-k-anonsu-overwatch-2/",
+  "https://stopgame.ru/newsdata/73486/dlc_revelations_dlya_doom_the_dark_ages_poluchit_rezhim_boynya_uzhe_na_sleduyuschey_nedele",
+  "title:DLC Revelations для DOOM: The Dark Ages получит режим «Бойня» уже на следующей неделе"
 ]

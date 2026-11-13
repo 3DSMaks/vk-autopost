@@ -1,10 +1,4 @@
 [
-  "https://tass.ru/mezhdunarodnaya-panorama/28302413",
-  "title:Инвесторы подали коллективный иск к Nvidia и ее главе Дженсену Хуангу на фоне скандала",
-  "skip:https://www.interfax.ru/world/1128043",
-  "skip:https://www.rbc.ru/politics/10/11/2026/6af2fc2d4a9856aa9ac14ce6",
-  "skip:https://ria.ru/20261110/odkb-2130590608.html",
-  "https://ria.ru/20261110/armeniya-2130600086.html",
   "title:Главы МИД стран ОДКБ предложили лишить Армению права голоса из-за долгов по взносам",
   "skip:https://tass.ru/obschestvo/28302723",
   "skip:https://tass.ru/obschestvo/28302555",
@@ -998,5 +992,11 @@
   "skip:https://www.kommersant.ru/doc/9109181",
   "skip:https://news.google.com/rss/articles/CBMivwFBVV95cUxQMW5kZ01Wbk9TVFVaV1BrRXYwZEs0RmNORjJySnlqTDR5V2E2dlcwcVFFdHBVbG9nQjBPaXFWUjFpX2ZpR0gwUWE0N1ZBODl0VjFWdVBYLUJUYkFWZThNRmJEenhjbnVKTzA4Tkt6T1lPN1NzcTJPTFVDRFV2VFNrWWJ3ei14Q2JPQmZKd19jSUo2MHlIdVZhR3plaWtnNERYdG0yTi1XZThxLTZoZ0xzZUJ0dmN3OHJERlRuN0ZXSQ?oc=5",
   "https://www.rbc.ru/business/13/11/2026/6af75045c86601e34aaeb4c7",
-  "title:СМИ сообщили об обращении совета директоров Nvidia к гендиректору Arm Рене Хаасу с предложением возглавить компанию"
+  "title:СМИ сообщили об обращении совета директоров Nvidia к гендиректору Arm Рене Хаасу с предложением возглавить компанию",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28316793",
+  "https://www.kommersant.ru/doc/9109206",
+  "title:Bloomberg назвал страны-участницы новой делегации на переговорах по Украине",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28316759",
+  "https://www.interfax.ru/world/1128939",
+  "title:Польша приостановила финансирование закупок оружия для Украины"
 ]

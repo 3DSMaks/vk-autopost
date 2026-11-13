@@ -1,8 +1,4 @@
 [
-  "https://www.rbc.ru/politics/09/11/2026/6af1e1b2a47758f3ea1e853e",
-  "title:Подготовка к трехсторонним переговорам России, США и Украины в Абу-Даби",
-  "skip:https://tass.ru/proisshestviya/28299837",
-  "skip:https://www.interfax.ru/world/1127892",
   "skip:https://www.rbc.ru/rbcfreenews/6af1dc0f6dc1ef80af7f9187",
   "https://ria.ru/20261109/izmir-2130412510.html",
   "title:Число погибших при взрыве на металлургическом заводе в Турции возросло до 16",
@@ -998,5 +994,9 @@
   "skip:https://www.rbc.ru/politics/13/11/2026/6af6338382e454aa3a84cc90",
   "skip:https://www.kommersant.ru/doc/9095976",
   "https://www.kommersant.ru/doc/9095987",
-  "title:Спецпосланники США Стив Уиткофф и Джаред Кушнер встретились с Владимиром Зеленским в Дублине"
+  "title:Спецпосланники США Стив Уиткофф и Джаред Кушнер встретились с Владимиром Зеленским в Дублине",
+  "skip:https://www.interfax.ru/russia/1128743",
+  "skip:https://www.interfax.ru/russia/1128739",
+  "https://www.kommersant.ru/doc/9095995",
+  "title:Силы ПВО за ночь сбили 47 беспилотников, летевших на Москву"
 ]

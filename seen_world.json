@@ -1,10 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28301895",
-  "skip:https://ria.ru/20261110/ssha-2130515690.html",
-  "skip:https://tass.ru/politika/28301877",
-  "skip:https://www.rbc.ru/politics/10/11/2026/6af2d8cf069e041e6b1abfdf",
-  "skip:https://ria.ru/20261110/nato-2130514860.html",
-  "skip:https://ria.ru/20261110/peregovory-2130514547.html",
   "skip:https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWFsNkFITi02Z1V3NGtpMndYU1JJZ1RKOUNYWW9tbWJvcHRpdDAwNGJzQlg1bURIS2pzMXA0UWRNRF9WY25QM1ppRTR0T1lqRzNRSTlzanQyeUY2WC1uOFJWQ3Mwd3pyMVFQcl8zTkZZeERfSTJQQ0g4WXFlWmpvdlI5RzNFeDNnVUUtdnZsVURBN2JPMmpYSEJUa2pXOWM?oc=5",
   "skip:https://ria.ru/20261110/miroshnik-2130512268.html",
   "skip:https://ria.ru/20261110/peregovory-2130513578.html",
@@ -998,5 +992,11 @@
   "https://tass.ru/ekonomika/28316121",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28316131",
   "https://www.kommersant.ru/doc/9109040",
-  "title:Вице-президент США Джей Ди Вэнс задумался об отказе от участия в выборах 2028 года"
+  "title:Вице-президент США Джей Ди Вэнс задумался об отказе от участия в выборах 2028 года",
+  "skip:https://ria.ru/20261113/ssha-2131403784.html",
+  "https://www.interfax.ru/world/1128887",
+  "title:США опровергли заявления Ирана об ударе по РЛС в Бахрейне и сообщили о перехвате дронов",
+  "skip:https://tass.ru/proisshestviya/28316257",
+  "https://ria.ru/20261113/indija-2131415034.html",
+  "title:В Индии в ДТП с участием автобуса и грузовика погибли более 20 человек"
 ]

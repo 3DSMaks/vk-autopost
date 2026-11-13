@@ -1,8 +1,4 @@
 [
-  "title:Переговоры между Россией, США и Украиной в Абу-Даби возобновились после перерыва",
-  "skip:https://www.rbc.ru/society/10/11/2026/6af2f556b84c27b3021f5654",
-  "skip:https://ria.ru/20261110/nvidia-2130570187.html",
-  "skip:https://www.kommersant.ru/doc/9093604",
   "https://tass.ru/mezhdunarodnaya-panorama/28302413",
   "title:Инвесторы подали коллективный иск к Nvidia и ее главе Дженсену Хуангу на фоне скандала",
   "skip:https://www.interfax.ru/world/1128043",
@@ -998,5 +994,9 @@
   "title:Глава Евросовета раскрыл состав европейской делегации на переговорах по Украине",
   "skip:https://ria.ru/20261113/huang-2131458013.html",
   "https://tass.ru/ekonomika/28316733",
-  "title:BMW отзовет в США более 720 тыс. автомобилей из-за риска возгорания"
+  "title:BMW отзовет в США более 720 тыс. автомобилей из-за риска возгорания",
+  "skip:https://www.kommersant.ru/doc/9109181",
+  "skip:https://news.google.com/rss/articles/CBMivwFBVV95cUxQMW5kZ01Wbk9TVFVaV1BrRXYwZEs0RmNORjJySnlqTDR5V2E2dlcwcVFFdHBVbG9nQjBPaXFWUjFpX2ZpR0gwUWE0N1ZBODl0VjFWdVBYLUJUYkFWZThNRmJEenhjbnVKTzA4Tkt6T1lPN1NzcTJPTFVDRFV2VFNrWWJ3ei14Q2JPQmZKd19jSUo2MHlIdVZhR3plaWtnNERYdG0yTi1XZThxLTZoZ0xzZUJ0dmN3OHJERlRuN0ZXSQ?oc=5",
+  "https://www.rbc.ru/business/13/11/2026/6af75045c86601e34aaeb4c7",
+  "title:СМИ сообщили об обращении совета директоров Nvidia к гендиректору Arm Рене Хаасу с предложением возглавить компанию"
 ]

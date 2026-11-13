@@ -1,13 +1,4 @@
 [
-  "skip:https://www.playground.ru/forza_horizon_6/news/soosnovatel_serii_forza_den_grinuolt_pokidaet_microsoft-1886727#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169656/dopolnenie-evercold-dlya-final-fantasy-xiv-vyijdet-23-fevralya-2027-goda/",
-  "skip:https://stopgame.ru/newsdata/73350/utechka_v_set_popal_vozmozhnyy_geympley_remeyka_pervoy_persona_no_est_nyuansy",
-  "skip:https://www.pcgamer.com/games/racing/forza-co-creator-dan-greenawalt-is-reportedly-leaving-microsoft/",
-  "skip:https://www.pcgamer.com/games/horror/after-almost-a-decade-of-work-alien-isolation-mod-tools-hit-1-0-with-support-for-full-custom-maps-missions-modes-characters-weapons-animations-sounds-models-textures-and-more/",
-  "skip:https://www.ign.com/articles/persona-1-remake-footage-seemingly-leaks-online",
-  "skip:https://stopgame.ru/newsdata/73347/mina_the_hollower_obespechila_yacht_club_games_finansovuyu_stabilnost_poka_chto",
-  "https://www.ign.com/articles/input-lag-is-so-bad-in-call-of-duty-modern-warfare-4-on-nintendo-switch-2-that-players-suffer-from-a-competitive-disadvantage",
-  "title:Input Lag Is So Bad in Call of Duty: Modern Warfare 4 on Nintendo Switch 2 That Players Suffer From a 'Competitive Disadvantage'",
   "https://gamemag.ru/news/201925/intergalactic-the-heretic-prophet-ashley-johnson-playing",
   "title:Похоже, PS5-эксклюзив Intergalactic: The Heretic Prophet уже находится в играбельном состоянии",
   "skip:https://www.kinonews.ru/news_143917/",
@@ -998,5 +989,14 @@
   "https://variety.com/2026/film/global/freya-allan-horror-movie-system-joachim-ronning-1236946732/",
   "title:‘The Witcher’ Star Freya Allan to Lead Joachim Rønning’s Horror Movie ‘System’ (EXCLUSIVE)",
   "https://kg-portal.ru/comments/135766-devjat-zhiznej-kota-nerona-trejler/",
-  "title:Итальянского котика постоянно убивают в трейлере мультфильма \"Девять жизней кота Нерона\""
+  "title:Итальянского котика постоянно убивают в трейлере мультфильма \"Девять жизней кота Нерона\"",
+  "skip:https://www.playground.ru/company_of_heroes_3/news/company_of_heroes_3_stala_vremenno_besplatnoj_v_steam_v_chest_20_letiya_serii-1890309#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/gta_6/news/gta_6_prevraschaet_burger_shot_v_realnost_set_restoranov_vo_floride_zapustit_menyu_po_motivam_igry-1890306#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/valheim/news/valheim_poluchit_sobstvennuyu_seriyu_komiksov_nad_istoriyami_o_vikingah_rabotayut_avtory_marvel_i_dc-1890291#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/gta-6s-burger-shot-restaurant-is-expanding-across-florida-with-real-meals-inspired-by-the-game",
+  "skip:https://www.pcgamer.com/games/rpg/new-4-minute-fable-gameplay-trailer-shows-a-game-that-doesnt-look-much-like-fable/",
+  "skip:https://www.ign.com/articles/valheim-is-getting-a-comic-book-series-and-it-looks-badass",
+  "skip:https://www.ign.com/articles/fable-drops-four-minutes-of-new-gameplay",
+  "https://www.playground.ru/gta_6/news/po_sluham_predzakazy_gta_6_prevysili_11_mln_kopij_posle_starta_predzagruzki_igra_prodaetsya_po_millionu_kopij_v_den-1890289#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:По слухам, предзаказы GTA 6 превысили 11 млн копий - после старта предзагрузки игра продается по миллиону копий в день"
 ]

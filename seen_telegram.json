@@ -1,12 +1,4 @@
 [
-  "skip:https://variety.com/2026/film/news/green-room-director-patrick-stewart-1236936405/",
-  "skip:https://www.film.ru/articles/o-kapitan-moy-kapitan-kakim-my-zapomnim-patrika-styuarta-ispolnitelya-roley-zhan-lyuka",
-  "https://www.kinonews.ru/news_143911/",
-  "title:Для сериала \"Гарри Поттер\" нашли Распределяющую Шляпу и призраков",
-  "https://deadline.com/2026/10/robert-downey-jr-pedro-pascal-mcu-role-reversal-halloween-1237210827/",
-  "title:Robert Downey Jr. & Pedro Pascal Serve MCU Role Reversal For Halloween: “Costume Swap!”",
-  "skip:https://www.playground.ru/forza_horizon_6/news/soosnovatel_serii_forza_den_grinuolt_pokidaet_microsoft-1886727#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169656/dopolnenie-evercold-dlya-final-fantasy-xiv-vyijdet-23-fevralya-2027-goda/",
   "skip:https://stopgame.ru/newsdata/73351/reliz_dopolneniya_evercold_dlya_final_fantasy_xiv_pereehal_na_23_fevralya",
   "skip:https://www.pcgamer.com/games/racing/forza-co-creator-dan-greenawalt-is-reportedly-leaving-microsoft/",
   "skip:https://www.ign.com/articles/save-mass-effect-graffiti-reportedly-spray-painted-outside-ea-building",
@@ -998,5 +990,13 @@
   "https://deadline.com/2026/11/the-spot-release-date-claire-danes-ewan-mcgregor-hulu-photo-1237222480/",
   "title:Hulu Series ‘The Spot’ Starring Claire Danes & Ewan McGregor Gets Release Date, First-Look Photos",
   "https://kg-portal.ru/comments/135771-zataivshijsja-arnold-shvarcenegger-i-pishuschie-scenaristy-sikvelov-kommandos-hischnika-i-konana/",
-  "title:Затаившийся Арнольд Шварценеггер и пишущие сценаристы сиквелов \"Коммандос\", \"Хищника\" и \"Конана\""
+  "title:Затаившийся Арнольд Шварценеггер и пишущие сценаристы сиквелов \"Коммандос\", \"Хищника\" и \"Конана\"",
+  "skip:https://stopgame.ru/newsdata/73485/machinegames_anonsirovala_wolfenstein_3",
+  "skip:https://www.pcgamer.com/games/fps/wolfenstein-3-is-in-production-at-machinegames/",
+  "skip:https://www.ign.com/articles/wolfenstein-3-confirmed-to-be-in-development-at-machinegames",
+  "skip:https://www.pcgamer.com/games/rpg/new-4-minute-fable-gameplay-trailer-shows-a-game-that-doesnt-look-much-like-fable/",
+  "skip:https://gamemag.ru/news/202116/chem-glubje-v-les-microsoft-pokazala-novyy-geympley-fable",
+  "skip:https://www.ign.com/articles/fable-drops-four-minutes-of-new-gameplay",
+  "https://stopgame.ru/newsdata/73487/avtory_novoy_fable_pokazali_otryvok_osnovnogo_kvesta",
+  "title:Авторы новой Fable показали отрывок основного квеста"
 ]

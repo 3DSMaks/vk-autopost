@@ -1,11 +1,4 @@
 [
-  "title:Blomberg: Microsoft действительно потратила на Gears of War: E-Day 500 млн долларов",
-  "https://gamemag.ru/news/201925/intergalactic-the-heretic-prophet-ashley-johnson-playing",
-  "video:2026-11-01:https://gamemag.ru/news/201925/intergalactic-the-heretic-prophet-ashley-johnson-playing",
-  "title:Похоже, PS5-эксклюзив Intergalactic: The Heretic Prophet уже находится в играбельном состоянии",
-  "skip:https://www.igromania.ru/news/169663/sozdateli-skyblivion-rasskazali-o-yuridicheskih-problemah-iz-za-koda-byivshego-razrabotchika/",
-  "skip:https://www.pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt/",
-  "https://www.playground.ru/assassins_creed/news/kon_iz_cheloveka_razrabotchiki_pervoj_assassins_creed_rasskazali_o_bezumnoj_hitrosti_s_animatsiej_loshadej-1886790#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Конь из человека: разработчики первой Assassin's Creed рассказали о безумной хитрости с анимацией лошадей",
   "https://gamemag.ru/news/201747/nintendo-on-zelda-40-th-anniversary-october-2026",
   "video:2026-11-01:https://gamemag.ru/news/201747/nintendo-on-zelda-40-th-anniversary-october-2026",
@@ -998,5 +991,12 @@
   "title:‘Dune: Part 3’ Stars Set For Very Childish BBC Prank Tonight",
   "skip:https://kg-portal.ru/comments/135772-bred-pitt-stanet-legendoj-rabochego-klassa-v-filme-rezhissera-zvuka-metalla/",
   "https://www.kinonews.ru/news_144132/",
-  "title:Джеймс Ганн может потерять контроль над сиквелом \"Супермена\""
+  "title:Джеймс Ганн может потерять контроль над сиквелом \"Супермена\"",
+  "skip:https://www.igromania.ru/news/169917/massovyij-sboj-v-rabote-microsoft-udaril-po-servisam-po-vsemu-miru/",
+  "skip:https://stopgame.ru/newsdata/73492/v_id_software_podtverdili_chto_rabotayut_nad_novoy_igroy",
+  "skip:https://www.pcgamer.com/software/security/microsoft-says-there-is-no-evidence-of-malicious-activity-being-the-cause-of-the-global-service-outage-affecting-governments-and-organisations-around-the-world/",
+  "skip:https://www.pcgamer.com/games/fps/doom-studio-id-software-confirms-its-working-on-a-new-game/",
+  "skip:https://www.ign.com/articles/doom-developer-id-software-confirms-work-on-new-game-will-be-directed-by-hugo-martin",
+  "https://stopgame.ru/newsdata/73488/dlya_halo_campaign_evolved_anonsirovali_kontentnoe_obnovlenie_firefight",
+  "title:Для Halo: Campaign Evolved анонсировали контентное обновление Firefight"
 ]

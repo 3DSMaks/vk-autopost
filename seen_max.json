@@ -1,8 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169664/prodazhi-simulyatora-magazina-probably-stolen-dostigli-otmetki-v-polmilliona-kopij/",
-  "skip:https://stopgame.ru/newsdata/73349/kiberpankovyy_simulyator_lavochnika_probably_stolen_kupili_500_tysyach_raz",
-  "https://www.igromania.ru/news/169663/sozdateli-skyblivion-rasskazali-o-yuridicheskih-problemah-iz-za-koda-byivshego-razrabotchika/",
-  "title:Создатели Skyblivion рассказали о юридических проблемах из-за кода бывшего разработчика",
   "https://www.film.ru/news/dzheyms-gann-predstavit-novogo-betmena",
   "title:Джеймс Ганн представит нового Бэтмена",
   "https://kg-portal.ru/comments/135603-postery-filma-skrudzh/",
@@ -998,5 +994,9 @@
   "skip:https://www.playground.ru/overwatch/news/dzheff_kaplan_rasskazal_o_regulyarnyh_konfliktah_s_rukovodstvom_blizzard_za_neskolko_let_do_svoego_uhoda-1890319#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169915/dzheff-kalpan-raskritikoval-blizzard-za-podhod-k-anonsu-overwatch-2/",
   "https://stopgame.ru/newsdata/73486/dlc_revelations_dlya_doom_the_dark_ages_poluchit_rezhim_boynya_uzhe_na_sleduyuschey_nedele",
-  "title:DLC Revelations для DOOM: The Dark Ages получит режим «Бойня» уже на следующей неделе"
+  "title:DLC Revelations для DOOM: The Dark Ages получит режим «Бойня» уже на следующей неделе",
+  "skip:https://deadline.com/2026/11/new-friday-the-13th-movie-steve-miner-1237220585/",
+  "skip:https://variety.com/2026/film/news/heartland-review-jessica-chastain-1236946587/",
+  "https://kg-portal.ru/comments/135773-rezhisser-podarivshij-dzhejsonu-vurhizu-vse-znamenitye-prichindaly-snimet-novuju-pjatnicu-13e/",
+  "title:Режиссёр, подаривший Джейсону Вурхизу все знаменитые причиндалы, снимет новую \"Пятницу, 13-е\""
 ]

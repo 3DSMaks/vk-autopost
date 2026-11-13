@@ -1,10 +1,4 @@
 [
-  "https://tass.ru/mezhdunarodnaya-panorama/28300185",
-  "title:Совет ЕС продлил военную миссию на Украине до ноября 2028 года",
-  "skip:https://www.rbc.ru/society/09/11/2026/6af21349e0ff693c1d1487f6",
-  "skip:https://ria.ru/20261109/rossijanin-2130425754.html",
-  "https://www.kommersant.ru/doc/9093210",
-  "title:В ЮАР неизвестные застрелили российского туриста при нападении на трассе",
   "skip:https://www.france24.com/en/americas/20261109-republican-congressman-launches-impeachment-bid-against-pentagon-chief-hegseth",
   "skip:https://www.interfax.ru/world/1127926",
   "skip:https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZjJQVDlfd0pOX1hsbURBWTRUQXR0T2VROGp4cmRmTUl0ZnMzYmh0OE9CSTd5STBxaTAxTHU4Ni1GOUQyWTVNbUlUX2hCM2NQOFBVTzdQemFkcWJ6R1N6QmY2Mnl6TmcxR0tiSmdUSUxTS0otcW00cERJbmJuNkRKZ0NiRTJqX2JWLTMxZmtqQnVzaVRVZ290X0YycHpFRFFaQk9WVVB6ZnZSQQ?oc=5",
@@ -998,5 +992,11 @@
   "title:В Москве на юге города взорвался автомобиль, есть пострадавший",
   "skip:https://www.kommersant.ru/doc/9096183",
   "https://www.rbc.ru/rbcfreenews/6af6ba8c83f2da2dcf009d1d",
-  "title:В Забайкальском крае подросток с топором проник в школу и заперся в кабинете"
+  "title:В Забайкальском крае подросток с топором проник в школу и заперся в кабинете",
+  "skip:https://ria.ru/20261113/novosibirsk-2131286644.html",
+  "https://tass.ru/proisshestviya/28314839",
+  "title:Под Новосибирском трех подростков обвинили в госизмене за попытку поджога",
+  "skip:https://www.interfax.ru/russia/1128800",
+  "https://ria.ru/20261113/opasnost-2131286866.html",
+  "title:В Челябинской области объявили режим беспилотной опасности"
 ]

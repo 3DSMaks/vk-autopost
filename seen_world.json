@@ -1,12 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWFsNkFITi02Z1V3NGtpMndYU1JJZ1RKOUNYWW9tbWJvcHRpdDAwNGJzQlg1bURIS2pzMXA0UWRNRF9WY25QM1ppRTR0T1lqRzNRSTlzanQyeUY2WC1uOFJWQ3Mwd3pyMVFQcl8zTkZZeERfSTJQQ0g4WXFlWmpvdlI5RzNFeDNnVUUtdnZsVURBN2JPMmpYSEJUa2pXOWM?oc=5",
-  "skip:https://ria.ru/20261110/miroshnik-2130512268.html",
-  "skip:https://ria.ru/20261110/peregovory-2130513578.html",
-  "skip:https://www.interfax.ru/world/1128005",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28301851",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28301841",
-  "skip:https://www.rbc.ru/politics/10/11/2026/6af2d6fee89fc253d477927e",
-  "skip:https://ria.ru/20261110/abu-dabi-2130512115.html",
   "skip:https://ria.ru/20261110/kushner-2130511451.html",
   "skip:https://ria.ru/20261110/abu-dabi-2130511274.html",
   "skip:https://www.interfax.ru/world/1128002",
@@ -998,5 +990,13 @@
   "title:США опровергли заявления Ирана об ударе по РЛС в Бахрейне и сообщили о перехвате дронов",
   "skip:https://tass.ru/proisshestviya/28316257",
   "https://ria.ru/20261113/indija-2131415034.html",
-  "title:В Индии в ДТП с участием автобуса и грузовика погибли более 20 человек"
+  "title:В Индии в ДТП с участием автобуса и грузовика погибли более 20 человек",
+  "skip:https://tass.ru/armiya-i-opk/28316391",
+  "skip:https://ria.ru/20261113/vsu-2131433081.html",
+  "https://www.interfax.ru/russia/1128899",
+  "title:Минобороны РФ заявило об ударе по морскому судну с военными грузами для Украины",
+  "skip:https://ria.ru/20261113/elektropodstantsii-2131432985.html",
+  "skip:https://tass.ru/armiya-i-opk/28316381",
+  "https://www.interfax.ru/russia/1128897",
+  "title:Российские военные нанесли удары по двум электроподстанциям в Сумской области"
 ]

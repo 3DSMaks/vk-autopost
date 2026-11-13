@@ -1,7 +1,4 @@
 [
-  "skip:https://ria.ru/20261109/merts-2130417163.html",
-  "skip:https://www.rbc.ru/politics/09/11/2026/6af1e99438ce267c1b5f39f8",
-  "https://tass.ru/mezhdunarodnaya-panorama/28299993",
   "title:Канцлер ФРГ Фридрих Мерц пригрозил заблокировать бюджет ЕС из-за разногласий по финансированию Украины",
   "skip:https://ria.ru/20261109/serbija-2130419638.html",
   "https://www.rbc.ru/politics/09/11/2026/6af1f0e9a85e74272494f8e3",
@@ -998,5 +995,8 @@
   "skip:https://www.kommersant.ru/doc/9095992",
   "skip:https://ria.ru/20261113/senator-2131251455.html",
   "https://www.rbc.ru/rbcfreenews/6af666418146c92f135f5b4b",
-  "title:Экс-глава Nvidia Дженсен Хуанг вызван в конгресс США после сообщений о новых связях"
+  "title:Экс-глава Nvidia Дженсен Хуанг вызван в конгресс США после сообщений о новых связях",
+  "skip:https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ0x3UHpOT2FfZW9tc1Zia0F3NmNsZzUzUUJqd25Kcl9JdUFlOVhOMEFXR2ctazRoVXlkMFF4V1hIbGlLdnNQc3ZMRlBTeGZBVmxwSGx6a2cxVXgtZDhFUE80WFkxLUhfRjNMRmhtcGZvaGxlWjItSXpibmVXSkxrT1N4eWI4U3JzRDJnTXQ0SzBTMkFTYnBKT3JBWEQ1V0RMNzFoRDR6ckdvSTVRekw1SlU5SQ?oc=5",
+  "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries",
+  "title:Глобальный сбой в работе сервисов Microsoft затронул пользователей в десятках стран"
 ]

@@ -1,13 +1,4 @@
 [
-  "skip:https://www.rbc.ru/politics/10/11/2026/6af1bc2500cbe68dae3d2e88",
-  "skip:https://tass.ru/politika/28301731",
-  "skip:https://www.kommersant.ru/doc/9093469",
-  "skip:https://ria.ru/20261110/abu-dabi-2130500992.html",
-  "skip:https://ria.ru/20261110/abu-dabi-2130500304.html",
-  "skip:https://tass.ru/politika/28301705",
-  "skip:https://www.rbc.ru/politics/10/11/2026/6af2cabebea2f2cdbac376d8",
-  "skip:https://www.interfax.ru/russia/1127994",
-  "skip:https://www.rbc.ru/politics/10/11/2026/6af2cee0bea2f2cdbac37701",
   "skip:https://www.kommersant.ru/doc/9093449",
   "skip:https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
   "skip:https://www.rbc.ru/politics/10/11/2026/6af2c537964899c939c9580a",
@@ -998,5 +989,14 @@
   "https://tass.ru/mezhdunarodnaya-panorama/28315945",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28315947",
   "https://ria.ru/20261113/bundestag-2131379188.html",
-  "title:Бундестаг одобрил законопроект о расширении полномочий германских спецслужб"
+  "title:Бундестаг одобрил законопроект о расширении полномочий германских спецслужб",
+  "skip:https://tass.ru/sport/28316045",
+  "skip:https://www.sport-interfax.ru/1128868",
+  "skip:https://www.kommersant.ru/doc/9108959",
+  "skip:https://www.rbc.ru/sport/13/11/2026/6af6ffbf7c432f4cb5769e78",
+  "https://www.rbc.ru/sport/13/11/2026/6af70be72da76eb8482a79f6",
+  "title:Российский боец Усман Нурмагомедов приговорен к тюремному сроку в ОАЭ за драку",
+  "skip:https://www.rbc.ru/rbcfreenews/6af7020a8c5183ec0a3ac728",
+  "https://ria.ru/20261113/berlin-2131386300.html",
+  "title:В Берлине неизвестные подожгли автомобиль главного редактора издания NIUS Юлиана Райхельта"
 ]

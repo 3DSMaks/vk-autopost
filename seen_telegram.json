@@ -1,9 +1,4 @@
 [
-  "title:Конь из человека: разработчики первой Assassin's Creed рассказали о безумной хитрости с анимацией лошадей",
-  "https://gamemag.ru/news/201747/nintendo-on-zelda-40-th-anniversary-october-2026",
-  "video:2026-11-01:https://gamemag.ru/news/201747/nintendo-on-zelda-40-th-anniversary-october-2026",
-  "title:«Это мировой феномен»: Nintendo извинилась за нехватку консолей Switch 2 в стиле The Legend of Zelda: Ocarina of Time",
-  "skip:https://www.film.ru/news/serial-o-garri-pottere-novye-aktery",
   "https://www.film.ru/news/dzheyms-gann-predstavit-novogo-betmena",
   "title:Джеймс Ганн представит нового Бэтмена",
   "skip:https://www.igromania.ru/news/169664/prodazhi-simulyatora-magazina-probably-stolen-dostigli-otmetki-v-polmilliona-kopij/",
@@ -998,5 +993,10 @@
   "skip:https://www.pcgamer.com/games/fps/doom-studio-id-software-confirms-its-working-on-a-new-game/",
   "skip:https://www.ign.com/articles/doom-developer-id-software-confirms-work-on-new-game-will-be-directed-by-hugo-martin",
   "https://stopgame.ru/newsdata/73488/dlya_halo_campaign_evolved_anonsirovali_kontentnoe_obnovlenie_firefight",
-  "title:Для Halo: Campaign Evolved анонсировали контентное обновление Firefight"
+  "title:Для Halo: Campaign Evolved анонсировали контентное обновление Firefight",
+  "skip:https://www.film.ru/articles/dzhessika-chesteyn-ubivaet-recenziya-na-horror-chuzhaya-mama",
+  "skip:https://variety.com/2026/film/news/heartland-review-jessica-chastain-1236946587/",
+  "skip:https://deadline.com/2026/11/new-friday-the-13th-movie-steve-miner-1237220585/",
+  "https://www.film.ru/news/pochetnyy-sezar-nikol-kidman",
+  "title:Почетный Сезар Николь Кидман"
 ]

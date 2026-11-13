@@ -1,8 +1,4 @@
 [
-  "skip:https://deadline.com/2026/10/snl-pays-tribute-patrick-stewart-1237210812/",
-  "skip:https://variety.com/2026/film/news/green-room-director-patrick-stewart-1236936405/",
-  "skip:https://www.film.ru/articles/o-kapitan-moy-kapitan-kakim-my-zapomnim-patrika-styuarta-ispolnitelya-roley-zhan-lyuka",
-  "https://deadline.com/2026/10/robert-downey-jr-pedro-pascal-mcu-role-reversal-halloween-1237210827/",
   "title:Robert Downey Jr. & Pedro Pascal Serve MCU Role Reversal For Halloween: “Costume Swap!”",
   "skip:https://www.igromania.ru/news/169657/razrabotchiki-wolfenstein-i-doom-posle-sokraschenij-v-xbox-stali-sotrudnichat-eschyo-tesnee/",
   "skip:https://www.playground.ru/forza_horizon_6/news/soosnovatel_serii_forza_den_grinuolt_pokidaet_microsoft-1886727#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +994,9 @@
   "skip:https://www.ign.com/articles/wolfenstein-3-confirmed-to-be-in-development-at-machinegames",
   "skip:https://gamemag.ru/news/202113/nil-drakmann-raskryl-status-proizvodstva-intergalactic-the-heretic-prophet",
   "https://stopgame.ru/newsdata/73487/avtory_novoy_fable_pokazali_otryvok_osnovnogo_kvesta",
-  "title:Авторы новой Fable показали отрывок основного квеста"
+  "title:Авторы новой Fable показали отрывок основного квеста",
+  "skip:https://deadline.com/2026/11/the-spot-release-date-claire-danes-ewan-mcgregor-hulu-photo-1237222480/",
+  "skip:https://www.kinonews.ru/news_144135/",
+  "https://variety.com/2026/film/global/freya-allan-horror-movie-system-joachim-ronning-1236946732/",
+  "title:‘The Witcher’ Star Freya Allan to Lead Joachim Rønning’s Horror Movie ‘System’ (EXCLUSIVE)"
 ]

@@ -1,15 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9093778",
-  "title:Разработчик чат-бота Claude компания Anthropic планирует привлечь миллиарды долларов в ходе IPO",
-  "skip:https://www.interfax.ru/digital/1128060",
-  "skip:https://www.rbc.ru/politics/10/11/2026/6af302f4286191e6ebe0729b",
-  "https://www.kommersant.ru/doc/9093773",
-  "title:«Яндекс» восстановил доступ к большей части данных клиентов Yandex Cloud после кибератак",
-  "skip:https://tass.ru/proisshestviya/28303273",
-  "skip:https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYlFFZTl0aVRsZGZUcGswcDE0ZVdyZGsxV0pqeXg2Z2xUUDl3dDNBS2tNX3RuVUs5ZkFKaGFMbW5sV3A0SEpYMWFoQ0sxYV9Qb21uM0pmZ25xYmNKdHh2aDgyRnhDZEdNSmx0UEFDVDJSYXp6WFk1TldsMEI5Y1J6SG1BUEdKNFBD?oc=5",
-  "skip:https://www.aljazeera.com/news/2026/11/10/at-least-12-people-killed-in-motorway-crash-in-southeastern-bulgaria?traffic_source=rss",
-  "skip:https://news.google.com/rss/articles/CBMipAFBVV95cUxPdnRWdDhDckJnaVVHY0JXRkl6cnNEZkE4NjV3SGtGX3ZMWEItN2J1ZW5NVHc4YVZVWDdob0M0ckJaTW0tNTBKOXg0MmlVYUppeEpzUzlWN0NjYUtZYndhNHozblVVd1JYSU1DYWpVVVlXYW41RDF4RERoUVFLZ3d1dnp5c3NwN3J5a2lPMVRFY1ItelFoMlZZdjNzM1dXVk5ycW9Dcw?oc=5",
-  "https://tass.ru/mezhdunarodnaya-panorama/28303415",
   "title:В Болгарии объявили траур из-за масштабного ДТП с десятками погибших",
   "skip:https://news.google.com/rss/articles/CBMixwFBVV95cUxPNXZLZlE1TldPUHRna1pNTU91YTJWVHJ5NmxEZERoWGFudjU4WFI1SHlqVXl1TzFmeHBFcjNjZHhOTkNSVTIzcmFsbnktdzR3MDFaY2FYQzVlaHhBc3V5Nm52R3pvZU5vdHJhZndaV3R2LXh1cVZxUkhvcDQ0Z3lMNXA2THdaM05kZVpNOWliNGQ0cHBNOFhYYU44U3hWaVRkYldWNS11ZUtwNUs5YjBJbVdLYjhidklfMnZwYWVwRHpyMGYyMS1Z?oc=5",
   "https://tass.ru/sport/28303427",
@@ -998,5 +987,16 @@
   "title:В Ормузском проливе два танкера подорвались на минах",
   "skip:https://tass.ru/proisshestviya/28316855",
   "https://ria.ru/20261113/ssha-2131474197.html",
-  "title:В США танкер врезался в речной круизный лайнер"
+  "title:В США танкер врезался в речной круизный лайнер",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28316903",
+  "skip:https://www.theguardian.com/uk-news/2026/nov/13/us-air-force-responds-to-suspected-drone-activity-at-raf-lakenheath",
+  "skip:https://www.rbc.ru/politics/13/11/2026/6af778d90189ce094ad0b0a1",
+  "skip:https://ria.ru/20261113/drony-2131473341.html",
+  "https://www.kommersant.ru/doc/9109492",
+  "title:На авиабазе США в Великобритании зафиксировали неопознанные дроны",
+  "skip:https://www.rbc.ru/politics/14/11/2026/6af77cf540887869aaf286eb",
+  "skip:https://news.google.com/rss/articles/CBMivwFBVV95cUxPTTdvYllmb0pHUXVJVGNLUmFZb2I0WXpjZENubU52NW1nQlFJa1E4c3ZNTGhseUdiUzl0ZXJWa0pOSnR1ZDlRQk9FTHZlaWkyT0hLM1J3OW5tVUhIb0o4OWN5bDVVakF5T3lIanR1SVVMSkctSDlpb2loMWI2MENuWEIxTmhTcy1kZXdqSlRrdi1NMHlFSGtPRWEzdUFrMWR1c2wwNk9rRUUwOGpzajM0N1h2MndWVU9MYngyMVdudw?oc=5",
+  "skip:https://ria.ru/20261114/ssha-2131474850.html",
+  "https://tass.ru/proisshestviya/28316917",
+  "title:В США ввели общенациональный запрет на вылеты из-за сбоя оборудования"
 ]

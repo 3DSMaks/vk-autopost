@@ -1,10 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1128292",
-  "skip:https://ria.ru/20261111/kushner-2130873156.html",
-  "skip:https://www.rbc.ru/rbcfreenews/6af44ff9d9ec4756827cfc94",
-  "skip:https://ria.ru/20261111/medinskij-2130872522.html",
-  "skip:https://www.rbc.ru/politics/11/11/2026/6af4518d3f645d74b5281744",
-  "skip:https://www.interfax.ru/russia/1128293",
   "skip:https://www.rbc.ru/politics/11/11/2026/6af451b5f7402bf8db523ba9",
   "skip:https://www.rbc.ru/rbcfreenews/6af4513e2d53b30e427b4aa6",
   "skip:https://www.interfax.ru/russia/1128290",
@@ -998,5 +992,11 @@
   "skip:https://ria.ru/20261114/frantsiya-2131575245.html",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28317975",
   "https://ria.ru/20261114/parizh-2131575893.html",
-  "title:В Париже прошла массовая акция протеста против роста цен"
+  "title:В Париже прошла массовая акция протеста против роста цен",
+  "skip:https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVFmcHRvNGEzVXRKbU5Kc0JhSDV4R2o0bnpXSUJMZnRMc1E2ckNCRzBaWDhzY2xObHVtNmtiWmdoX3g4NlVsYkc1bzFDbVB0T016LWczNHJ6bGx2ZXlQeDZPUGNjeXJPaWZ3Wm5DdU9za21PMXFlZVVDckh5Q1I0QnROcElOTnA2bGMzczBMbFJweW1ISkkwWUgzNXJpTU95N0NR?oc=5",
+  "https://tass.ru/ekonomika/28318049",
+  "title:Итальянский регулятор оштрафовал компанию Meta на сумму более €800 млн",
+  "skip:https://tass.ru/sport/28317979",
+  "https://www.rbc.ru/sport/14/11/2026/6af8629d8e6e5c52e0f928f4",
+  "title:Международная федерация хоккея подала апелляцию в CAS на решение о допуске россиян"
 ]

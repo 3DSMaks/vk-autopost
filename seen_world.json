@@ -1,11 +1,4 @@
 [
-  "title:В Абу-Даби начался второй день трехсторонних переговоров России, США и Украины",
-  "skip:https://ria.ru/20261111/frg-2130820845.html",
-  "skip:https://www.rbc.ru/society/11/11/2026/6af422bfd9ec4756827cfba0",
-  "https://www.kommersant.ru/doc/9094395",
-  "title:Гражданин Германии признался в убийстве главного врача частной клиники в Москве",
-  "skip:https://www.interfax.ru/world/1128253",
-  "skip:https://www.interfax.ru/world/1128251",
   "https://www.rbc.ru/politics/11/11/2026/6af423c0ef12ef30934c619c",
   "title:В Абу-Даби начался второй день трехсторонних переговоров по Украине",
   "skip:https://www.rbc.ru/politics/11/11/2026/6af43008f7402bf8db523b19",
@@ -998,5 +991,12 @@
   "skip:https://tass.ru/sport/28317723",
   "skip:https://www.kommersant.ru/doc/9109578",
   "https://www.rbc.ru/sport/14/11/2026/6af82ba0a0f3d54666c4d137",
-  "title:Международная федерация хоккея (IIHF) оспорила решение о допуске сборной России к турнирам"
+  "title:Международная федерация хоккея (IIHF) оспорила решение о допуске сборной России к турнирам",
+  "skip:https://tass.ru/ekonomika/28317735",
+  "skip:https://ria.ru/20261114/binance-2131531660.html",
+  "https://www.rbc.ru/rbcfreenews/6af8306c40887869aaf28728",
+  "title:Binance пообещала восстановить вывод средств во всех сетях к концу следующей недели",
+  "skip:https://ria.ru/20261114/welt-2131532964.html",
+  "https://tass.ru/ekonomika/28317751",
+  "title:Экономисты предупредили об угрозе масштабного бюджетного кризиса в Германии"
 ]

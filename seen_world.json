@@ -1,12 +1,4 @@
 [
-  "skip:https://ria.ru/20261110/zemmur-2130755669.html",
-  "https://tass.ru/mezhdunarodnaya-panorama/28304373",
-  "title:Лидер французской «Реконкисты» Эрик Земмур объявил об участии в президентских выборах",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28304391",
-  "https://ria.ru/20261111/sekretar-2130759761.html",
-  "title:ТАСС и РИА Новости: Дональд Трамп рассматривает Бена Фергюсона на пост пресс-секретаря Белого дома",
-  "skip:https://www.interfax.ru/russia/1128152",
-  "skip:https://www.rbc.ru/rbcfreenews/6af37f16674754b263b82347",
   "skip:https://ria.ru/20261110/gintsburg-2130756602.html",
   "https://www.kommersant.ru/doc/9094100",
   "title:Владимир Путин присвоил научному руководителю Центра Гамалеи Александру Гинцбургу звание Героя Труда",
@@ -998,5 +990,13 @@
   "skip:https://tass.ru/proisshestviya/28317559",
   "skip:https://ria.ru/20261114/evakuatsiya-2131511870.html",
   "https://www.rbc.ru/rbcfreenews/6af80f82630e0ea0deef43dc",
-  "title:В штате Иллинойс объявили эвакуацию из-за угрозы взрыва на спиртзаводе"
+  "title:В штате Иллинойс объявили эвакуацию из-за угрозы взрыва на спиртзаводе",
+  "skip:https://news.google.com/rss/articles/CBMie0FVX3lxTFBVMkIybm5QSXNTdnRac3FBOEVCdUNDc0o1ZVZyd2M3eGg4bTFzbk03bG1OalZBdW05UjE2NG5sejluR1hUdElyOFNIOTRmSk5reGtkZHNmWGNHRi16Ylo4RUNieTVUa0pOd09qXy1iMlhsdUZfMTlHYm5YTQ?oc=5",
+  "https://www.rbc.ru/rbcfreenews/6af817028cf1f15c6404b6a7",
+  "title:В Новом Орлеане танкер столкнулся с пассажирским судном на реке Миссисипи",
+  "skip:https://www.rbc.ru/technology_and_media/14/11/2026/6af808300189ce094ad0b0ae",
+  "skip:https://ria.ru/20261114/mintsifry-2131514982.html",
+  "skip:https://tass.ru/ekonomika/28317547",
+  "https://www.interfax.ru/russia/1128991",
+  "title:Операторы сотовой связи и крупнейшие банки договорились о маркировке входящих звонков"
 ]

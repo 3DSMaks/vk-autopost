@@ -1,6 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135617-umka-trejler/",
-  "skip:https://www.film.ru/news/treyler-umki",
   "https://www.kinonews.ru/news_143938/",
   "title:Скайуокеры вернутся в десятом эпизоде \"Звездных войн\"",
   "skip:https://stopgame.ru/newsdata/73354/oficialno_studiya_sozdatelya_yakuza_zakrylas",
@@ -998,5 +996,7 @@
   "title:Режиссер \"Хищника\" Дэн Трактенберг может снять сольный фильм о Росомахе",
   "skip:https://variety.com/2026/film/news/fatherland-la-bola-negra-european-film-awards-nominations-1236947619/",
   "https://www.film.ru/news/novyy-treyler-oruzheynogo-barona-2",
-  "title:Новый трейлер Оружейного барона 2"
+  "title:Новый трейлер Оружейного барона 2",
+  "https://www.film.ru/news/chelovek-pauk-vydvigaetsya-na-oskar",
+  "title:Человек-паук выдвигается на Оскар"
 ]

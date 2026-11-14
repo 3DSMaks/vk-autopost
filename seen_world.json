@@ -1,7 +1,4 @@
 [
-  "skip:https://www.rbc.ru/politics/11/11/2026/6af435f14c555142422af398",
-  "skip:https://www.kommersant.ru/doc/9094477",
-  "skip:https://www.rbc.ru/politics/11/11/2026/6af432aed9ec4756827cfbe8",
   "skip:https://ria.ru/20261111/peregovory-2130838440.html",
   "https://tass.ru/ekonomika/28306167",
   "title:В Кремле заявили об отсутствии контактов делегации РФ с европейцами на трехсторонних переговорах в Абу-Даби",
@@ -998,5 +995,8 @@
   "skip:https://ria.ru/20261114/darchiev-2131534983.html",
   "skip:https://ria.ru/20261114/darchiev-2131534848.html",
   "skip:https://ria.ru/20261114/darchiev-2131534391.html",
-  "https://www.rbc.ru/photoslider/6af83e18c8a1bac0e8b2a06d"
+  "https://www.rbc.ru/photoslider/6af83e18c8a1bac0e8b2a06d",
+  "skip:https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5",
+  "https://www.interfax.ru/world/1129006",
+  "title:В Оманском заливе танкер подорвался на мине"
 ]

@@ -1,15 +1,4 @@
 [
-  "skip:https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs",
-  "https://tass.ru/obschestvo/28307779",
-  "title:В Испании проходит первая за 14 лет всеобщая забастовка из-за роста цен на жилье",
-  "skip:https://tass.ru/politika/28307867",
-  "skip:https://www.kommersant.ru/doc/9094859",
-  "skip:https://www.rbc.ru/politics/11/11/2026/6af47b6e4eb570f592a17551",
-  "https://ria.ru/20261111/armeniya-2130932542.html",
-  "title:Страны ОДКБ приняли решение лишить Армению права голоса в организации",
-  "skip:https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0VablB0SWViZWpCRFg4bC0yX2ZTM19HNmFFVUdqVVlwbWRuRjdpSnNXZ3liU04zeTYyZWJPSlhLeEVRTUlMS0N2SnlPdEpINzVHUTJjRXJjd3RKdEZMLS14czdZSlpjcWlJWm95bFpTNHgxblNSVlFyLWhsQ0JncVFZRGRmQ0p6cDZQRGRtNlh6LWxnVXlLRkJyelFzdTFoM285d2tQZTJvS1BkYkRzLVZwUERKc2pHbVBqOUZDSmFRbGJ4TmpmQVExbnEzOTQ?oc=5",
-  "https://tass.ru/proisshestviya/28308177",
-  "title:Силы ПВО Саудовской Аравии перехватили три ракеты хуситов",
   "skip:https://www.kommersant.ru/doc/9094954",
   "skip:https://www.rbc.ru/politics/11/11/2026/6af4930250b80520ab29b08d",
   "skip:https://ria.ru/20261111/darchiev-2130963172.html",
@@ -998,5 +987,16 @@
   "title:Массовые протесты против роста цен прошли в Париже и других городах Франции",
   "skip:https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss",
   "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-  "title:Итальянский регулятор оштрафовал Meta на сумму более 800 млн евро"
+  "title:Итальянский регулятор оштрафовал Meta на сумму более 800 млн евро",
+  "skip:https://ria.ru/20261114/politsija-2131595005.html",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28318235",
+  "skip:https://ria.ru/20261114/frantsiya-2131589597.html",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28318171",
+  "https://ria.ru/20261114/frantsija-2131598266.html",
+  "title:Во Франции прошли массовые протесты против роста цен",
+  "skip:https://www.interfax.ru/russia/1129031",
+  "skip:https://ria.ru/20261114/chernomorsk-2131587853.html",
+  "skip:https://tass.ru/armiya-i-opk/28318185",
+  "https://www.rbc.ru/rbcfreenews/6af88784c8a1bac0e8b2a0c9",
+  "title:Минобороны РФ заявило о поражении сухогруза с военным имуществом в порту Черноморска"
 ]

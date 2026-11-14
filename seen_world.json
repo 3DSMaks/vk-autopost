@@ -1,7 +1,4 @@
 [
-  "skip:https://www.rbc.ru/politics/10/11/2026/6af36667d079e0918a676318",
-  "skip:https://ria.ru/20261110/mid-2130747939.html",
-  "skip:https://tass.ru/politika/28304239",
   "https://ria.ru/20261110/mid-2130748998.html",
   "title:МИД России вызвал посла Молдавии в ответ на объявление сотрудника российского посольства персоной нон грата",
   "skip:https://www.interfax.ru/world/1128140",
@@ -998,5 +995,8 @@
   "skip:https://tass.ru/ekonomika/28317117",
   "skip:https://ria.ru/20261114/ssha-2131484849.html",
   "https://ria.ru/20261114/ssha-2131488567.html",
-  "title:В США возобновлены полеты после масштабного сбоя системы авиадиспетчеров"
+  "title:В США возобновлены полеты после масштабного сбоя системы авиадиспетчеров",
+  "skip:https://ria.ru/20261114/aeroport-2131485610.html",
+  "https://www.interfax.ru/russia/1128958",
+  "title:В аэропорту Геленджика введены временные ограничения"
 ]

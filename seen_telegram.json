@@ -1,11 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143924/",
-  "https://www.kinonews.ru/news_143930/",
-  "title:Дэйв Батиста похвастался набранной массой для сериала \"Бог войны\"",
-  "skip:https://deadline.com/2026/11/dave-bautista-kratos-weight-gain-1237211049/",
-  "skip:https://www.film.ru/news/uvidet-vse-vozglavil-prokat",
-  "https://www.film.ru/news/ekranizaciya-igry-mouthwashing",
-  "title:Экранизация игры Mouthwashing",
   "skip:https://www.igromania.ru/news/169667/studiya-sozdatelya-like-a-dragonyakuza-zakryilas-sudba-ekshena-gang-of-dragon-neizvestna/",
   "skip:https://www.igromania.ru/news/169666/phantom-blade-zero-razoshlas-tirazhom-v-chetyire-milliona-kopij-za-72-chasa/",
   "skip:https://gamemag.ru/news/201936/nagoshi-studio-shuts-down",
@@ -998,5 +991,12 @@
   "skip:https://kg-portal.ru/comments/135776-roberta-pattinsona-s-bolshim-trudom-ugovorili-na-tri-filma-o-dzhejmse-bonde-oficialno-on-poluchit-rol-pod-rozhdestvo/",
   "skip:https://www.kinonews.ru/news_144146/",
   "https://www.film.ru/news/rekord-finalnoy-serii-kvesta-vizhna",
-  "title:Рекорд финальной серии Квеста Вижна"
+  "title:Рекорд финальной серии Квеста Вижна",
+  "skip:https://www.igromania.ru/news/169942/v-seti-pokazali-trek-list-gta-vi-the-album-trevis-skott-dzhenni-dua-lipa-rina-savayama-i-drugie/",
+  "skip:https://www.playground.ru/gta_6/news/v_seti_poyavilis_izobrazheniya_s_predpolagaemym_polnym_spiskom_pesen_iz_gta_vi_the_album_nezadolgo_do_ofitsialnogo_reliza-1890559#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169934/sozdateli-the-blood-of-dawnwalker-predstavili-obnovlenie-s-novoj-igroj-reliz-na-seduyuschej-nedele/",
+  "skip:https://stopgame.ru/newsdata/73501/the_blood_of_dawnwalker_popolnitsya_novoy_igroy_na_sleduyuschey_nedele",
+  "https://gamemag.ru/news/202134/rainbow-six-vegas-3",
+  "video:2026-11-14:https://gamemag.ru/news/202134/rainbow-six-vegas-3",
+  "title:Ubisoft одобрила создание новой Rainbow Six: Vegas — СМИ"
 ]

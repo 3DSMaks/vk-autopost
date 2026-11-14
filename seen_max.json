@@ -1,12 +1,4 @@
 [
-  "skip:https://www.film.ru/articles/derzhi-lico-recenziya-na-film-kleyfeys-bodi-horror-o-protivnike-betmena",
-  "https://kg-portal.ru/comments/135621-chelovek-s-meshkom-trejler/",
-  "title:Арнольд Шварценеггер и Алан Ричсон спасают Рождество в трейлере фильма \"Человек с мешком\"",
-  "skip:https://www.igromania.ru/news/169683/avtoryi-path-of-exile-pokazali-tizer-obnovleniya-kovenyi-umbrii-ono-vyijdet-13-noyabrya/",
-  "skip:https://stopgame.ru/newsdata/73356/pervaya_path_of_exile_poluchit_rasshirenie_koveny_umbrii_uzhe_13_noyabrya",
-  "skip:https://gamemag.ru/news/201935/dragon-age-could-have-had-its-baldurs-gate-3-moment-former-lead-says-but-bioware-chose-simpler-rpgs",
-  "https://gamemag.ru/news/201927/razrabotchiki-novyh-chastey-silent-hill-rabotali-v-polnoy-izolyacii-drug-ot-drugakonami-derjala",
-  "title:Разработчики трёх новых Silent Hill не знали о существовании игр друг друга",
   "skip:https://deadline.com/2026/11/newsom-ca-film-tv-tax-incentive-hike-1-billion-1237211227/",
   "skip:https://variety.com/2026/film/news/gavin-newsom-california-movie-tv-tax-credit-billion-dollars-1236937395/",
   "skip:https://deadline.com/2026/11/hollywood-music-in-media-awards-2026-nominations-1237209973/",
@@ -998,5 +990,13 @@
   "skip:https://www.playground.ru/gta_6/news/na_twitch_poyavilas_kampaniya_gta_6_s_nagradami_za_prosmotr_translyatsij_start_18_noyabrya_no_bonusov_dlya_igry_ne_budet-1890594#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169928/nominantov-the-game-awards-2026-nazovut-vecherom-17-noyabrya/",
   "https://www.playground.ru/gta_6/news/gta_6_vpervye_v_istorii_serii_pozvolit_igrokam_proyavlyat_sochuvstvie_i_izbegat_bessmyslennyh_prestuplenij-1890598#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:GTA 6 впервые в истории серии позволит игрокам проявлять сочувствие и избегать бессмысленных преступлений"
+  "title:GTA 6 впервые в истории серии позволит игрокам проявлять сочувствие и избегать бессмысленных преступлений",
+  "skip:https://www.playground.ru/gta_6/news/igroki_pytayutsya_obojti_ogranichenie_v_30_fps_v_gta_6_na_konsolyah_s_pomoschyu_programmy_veyra-1890616#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/gta_6/news/twitch_ustroit_masshtabnuyu_razdachu_gta_6_ultimate_edition_s_19_po_30_noyabrya_kompaniya_nameknula_na_bolee_10_000_kopij-1890609#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169937/potentsialnaya-problema-s-diskami-gta-6-zachem-gejmeryi-svetyat-fonarikom-na-korobki-s-igroj/",
+  "skip:https://www.ign.com/articles/some-of-these-gta-6-clips-look-so-good-that-i-dont-care-if-its-running-at-30-fps",
+  "skip:https://www.pcgamer.com/games/fps/a-survival-game-we-once-called-stalker-and-tarkovs-alien-baby-is-closing-down-less-than-a-year-after-launch/",
+  "skip:https://www.igromania.ru/news/169927/shuter-pioner-zakryivaetsya-igra-tak-i-ne-vyishla-iz-rannego-dostupa/",
+  "https://www.playground.ru/gta_6/news/v_gta_6_nelzya_budet_srazu_vzyatsya_za_krupnye_ogrableniya_rockstar_obyasnila_progressiyu_geroev-1890597#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:В GTA 6 нельзя будет сразу взяться за крупные ограбления - Rockstar объяснила прогрессию героев"
 ]

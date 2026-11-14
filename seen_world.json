@@ -1,14 +1,4 @@
 [
-  "skip:https://www.rbc.ru/politics/11/11/2026/6af45d3433169d4b60c492d2",
-  "https://www.interfax.ru/world/1128337",
-  "skip:https://news.google.com/rss/articles/CBMi4wFBVV95cUxOb0JFd2U5WjhCeFZQTlRBQTBpQng0Mkh4YV95T1FXTDVsNVJVZGdHSEx3Sk1tWlM3akQ3bG41TkVtN05YNlB2WHFrQ3FCcjEwVVJubHhtTEFfckZ3RHMzMTBsTU90S0ZUWExuY1l5V3dwNHUySWk4eUlvWGMxSXVjR3pZWTgtQk92Yl84NFl0aEpnSDFDZjBKT0xzN0ZKbXJyb2dVeTBVOXZRb0Vlb2V2TWFVeUM2V0dQemtjQ0VvckkwbGhSaVZrUmx5SDczNWZ6QVFKdWhpM1N6V0ttZTUxRTlPWQ?oc=5",
-  "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
-  "title:В Кении выписали из больницы последнего пациента с вирусом Эбола",
-  "skip:https://www.interfax.ru/business/1128352",
-  "skip:https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement?traffic_source=rss",
-  "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZGJLX21sUk93S0w1eDdOMEtDdC1ETk4zZ0E4d1dna2xHaWxFSXIxdGFFYVV0Wm5pWlc1Uk5YczNsa09FcGJtMHpKU1VnTkVJejR2YTJxR0ZFQXE3dndEcS0teGNKbHJBS3R1N1lHbUxuR3hOQ3hyZ2s5elFlbkFBVTJMNmE3TW1vN2x5dDl2VzBvWWpiWU5WRGxBLWJTNVZBUUE?oc=5",
-  "title:Переговоры по Украине в Абу-Даби завершились соглашением об обмене пленными",
-  "skip:https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
   "skip:https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs",
   "https://tass.ru/obschestvo/28307779",
   "title:В Испании проходит первая за 14 лет всеобщая забастовка из-за роста цен на жилье",
@@ -998,5 +988,15 @@
   "skip:https://tass.ru/ekonomika/28318119",
   "skip:https://www.aljazeera.com/economy/2026/11/14/when-tech-founders-leave-what-happens-to-their-companies?traffic_source=rss",
   "https://ria.ru/20261114/nvidia-2131585147.html",
-  "title:Илон Маск заявил о риске срыва сделок Nvidia после ухода Дженсена Хуанга"
+  "title:Илон Маск заявил о риске срыва сделок Nvidia после ухода Дженсена Хуанга",
+  "skip:https://ria.ru/20261114/parizh-2131594134.html",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28318223",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28318221",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28318201",
+  "skip:https://ria.ru/20261114/parizh-2131588729.html",
+  "https://www.kommersant.ru/doc/9109707",
+  "title:Массовые протесты против роста цен прошли в Париже и других городах Франции",
+  "skip:https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss",
+  "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+  "title:Итальянский регулятор оштрафовал Meta на сумму более 800 млн евро"
 ]

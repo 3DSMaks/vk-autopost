@@ -1,12 +1,4 @@
 [
-  "skip:https://ria.ru/20261111/putin-2130963276.html",
-  "https://www.kommersant.ru/doc/9094993",
-  "title:Владимир Путин провел переговоры с президентом Киргизии Садыром Жапаровым в Кремле",
-  "skip:https://www.interfax.ru/russia/1128409",
-  "skip:https://ria.ru/20261111/bpla-2130969688.html",
-  "skip:https://tass.ru/proisshestviya/28308409",
-  "skip:https://www.rbc.ru/rbcfreenews/6af492065015b810ee533129",
-  "skip:https://www.kommersant.ru/doc/9094946",
   "https://tass.ru/ekonomika/28308449",
   "title:Силы ПВО отражают атаку украинских беспилотников в Омской области",
   "skip:https://www.kommersant.ru/doc/9094996",
@@ -998,5 +990,13 @@
   "skip:https://tass.ru/proisshestviya/28318211",
   "skip:https://www.kommersant.ru/doc/9109702",
   "https://www.kommersant.ru/doc/9109711",
-  "title:В Махачкале застрелили призера чемпионата России по самбо Вацилова Давудова"
+  "title:В Махачкале застрелили призера чемпионата России по самбо Вацилова Давудова",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28318297",
+  "skip:https://www.rbc.ru/politics/14/11/2026/6af89d9ac8a1bac0e8b2a0d5",
+  "https://www.kommersant.ru/doc/9109713",
+  "title:Пентагон планирует сократить численность войск в Европе на 5 тысяч человек",
+  "skip:https://ria.ru/20261114/frantsija-2131603363.html",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28318275",
+  "https://www.rbc.ru/politics/14/11/2026/6af899f3b7fee5529b31248a",
+  "title:Во Франции прошли массовые протесты против роста цен, задержаны более 120 человек"
 ]

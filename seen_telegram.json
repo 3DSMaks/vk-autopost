@@ -1,7 +1,4 @@
 [
-  "https://www.playground.ru/shin_megami_tensei_persona_5/news/novyj_rekord_atlus_prodazhi_persona_5_i_eyo_spin_offov_dostigli_15_5_mln-1887054#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Новый рекорд Atlus: продажи Persona 5 и её спин-оффов достигли 15,5 млн",
-  "skip:https://www.ign.com/articles/phantom-blade-zero-sells-4-million-copies-in-72-hours",
   "https://gamemag.ru/news/201930/klassicheskaya-call-of-duty-modern-warfare-2-skoro-mojet-poluchit-pereizdanie-dlya-sovremennyh",
   "video:2026-11-02:https://gamemag.ru/news/201930/klassicheskaya-call-of-duty-modern-warfare-2-skoro-mojet-poluchit-pereizdanie-dlya-sovremennyh",
   "title:Оригинальную Call of Duty: Modern Warfare 2 могут перевыпустить на современных платформах",
@@ -998,5 +995,8 @@
   "skip:https://www.igromania.ru/news/169936/ej-pomnite-tu-igru-s-myasnyim-parnem-sostoyalsya-anons-novoj-super-meat-boy-again/",
   "https://gamemag.ru/news/202130/god-of-war-sons-of-sparta-coming-to-ps4",
   "video:2026-11-14:https://gamemag.ru/news/202130/god-of-war-sons-of-sparta-coming-to-ps4",
-  "title:2D-Кратос перебирается на прошлое поколение: Датирован релиз God of War: Sons of Sparta для PlayStation 4"
+  "title:2D-Кратос перебирается на прошлое поколение: Датирован релиз God of War: Sons of Sparta для PlayStation 4",
+  "skip:https://deadline.com/2026/11/dc-studios-movie-tv-list-jeremy-latcham-1237217689/",
+  "https://www.kinonews.ru/news_144149/",
+  "title:Режиссер \"Хищника\" Дэн Трактенберг может снять сольный фильм о Росомахе"
 ]

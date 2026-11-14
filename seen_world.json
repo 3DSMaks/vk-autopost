@@ -1,12 +1,4 @@
 [
-  "https://ria.ru/20261111/mchm-2130999873.html",
-  "title:Семь федераций отказались утверждать новое расписание молодежного чемпионата мира по хоккею из-за участия сборной России",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28308867",
-  "skip:https://www.interfax.ru/world/1128433",
-  "https://www.kommersant.ru/doc/9095063",
-  "title:США предложили России подготовить соглашение о европейской безопасности",
-  "skip:https://www.sport-interfax.ru/1128438",
-  "https://www.kommersant.ru/doc/9095062",
   "title:Российский боец ММА Усман Нурмагомедов задержан в Абу-Даби после драки",
   "skip:https://tass.ru/ekonomika/28308943",
   "skip:https://www.interfax.ru/russia/1128436",
@@ -998,5 +990,13 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28318369",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28318367",
   "https://www.kommersant.ru/doc/9109721",
-  "title:Спецпосланник США Джаред Кушнер заявил о новых идеях и готовности сторон к компромиссам по Украине"
+  "title:Спецпосланник США Джаред Кушнер заявил о новых идеях и готовности сторон к компромиссам по Украине",
+  "skip:https://ria.ru/20261114/edinoborstva-2131613424.html",
+  "skip:https://tass.ru/sport/28318399",
+  "https://ria.ru/20261115/nemkov-bilostennyy-pfl-2131602809.html",
+  "title:ММА: Сергей Билостенный победил Вадима Немкова на турнире PFL",
+  "skip:https://ria.ru/20261115/stoimost-2131614329.html",
+  "skip:https://tass.ru/ekonomika/28318401",
+  "https://www.rbc.ru/economics/15/11/2026/6af8ce1c8e6e5c52e0f92941",
+  "title:Стоимость биткоина опустилась ниже $65 тысяч"
 ]

@@ -1,10 +1,4 @@
 [
-  "title:Власти Канады отказались выдавать визы российским хоккеистам на молодежный чемпионат мира",
-  "skip:https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace",
-  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/11/russia-ukraine-talks-in-uae-secure-major-prisoner-exchange-deal?traffic_source=rss",
-  "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-  "title:Переговоры по Украине в Абу-Даби завершились соглашением об обмене пленными и обсуждением европейской безопасности",
-  "skip:https://tass.ru/obschestvo/28308623",
   "skip:https://ria.ru/20261111/barselona-2130977171.html",
   "https://tass.ru/mezhdunarodnaya-panorama/28308653",
   "title:В Мадриде и Барселоне прошли массовые протесты с требованиями доступного жилья и столкновениями с полицией",
@@ -998,5 +992,11 @@
   "title:Силы ПВО за день сбили 39 украинских беспилотников над российскими регионами",
   "skip:https://tass.ru/proisshestviya/28318309",
   "https://ria.ru/20261114/frg-2131606205.html",
-  "title:В Германии 15 человек отравились хлором в бассейне из-за сбоя Microsoft"
+  "title:В Германии 15 человек отравились хлором в бассейне из-за сбоя Microsoft",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28318341",
+  "https://ria.ru/20261114/dnepropetrovsk-2131607892.html",
+  "title:Серия взрывов прогремела в Днепропетровске",
+  "skip:https://www.rbc.ru/rbcfreenews/6af88d7be2d1daf1e27db652",
+  "https://www.kommersant.ru/doc/9109715",
+  "title:Принц Саудовской Аравии прибыл с визитом в Чечню и посетил район имени Путина"
 ]

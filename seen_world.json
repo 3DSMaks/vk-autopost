@@ -1,13 +1,4 @@
 [
-  "skip:https://www.interfax.ru/world/1128275",
-  "skip:https://ria.ru/20261111/rossiya-2130852502.html",
-  "skip:https://www.rbc.ru/politics/11/11/2026/6af3fcb764a8ad982d26f6cf",
-  "skip:https://tass.ru/politika/28306483",
-  "skip:https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdEZkalllTkswSW1lWVlXanFsVFBfVnBSUmE0U1VNWTJ4c3BrS3dzTDZWQUhwM3NfOTFMdjVuaHBqZVRTVFBYU2JEOWtpX2VoR1ZtUzZVcDlTN0tKVzVtczFhYThSSHpDTjJXSHV4U1Rqc0doRElpcW1WTGQwdmF6bE1VN3BpU2J4U3V1Rld3S25XNXZxWkVVNVlRZDAzLWpIVGFHWG9Bd2M?oc=5",
-  "https://www.kommersant.ru/doc/9094546",
-  "title:В Абу-Даби завершился второй день трехсторонних переговоров по Украине",
-  "skip:https://www.interfax.ru/world/1128267",
-  "https://www.kommersant.ru/doc/9094534",
   "title:Иран уведомил Россию об отказе вывозить обогащенный уран за пределы страны",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28306295",
   "skip:https://www.france24.com/en/spain-s-first-general-strike-in-14-years-3-weeks-before-national-polls",
@@ -998,5 +989,14 @@
   "skip:https://www.interfax.ru/moscow/1129005",
   "skip:https://tass.ru/ekonomika/28317865",
   "https://www.interfax.ru/moscow/1129010",
-  "title:В московском аэропорту Домодедово ввели и сняли временные ограничения на полеты"
+  "title:В московском аэропорту Домодедово ввели и сняли временные ограничения на полеты",
+  "skip:https://www.rbc.ru/politics/14/11/2026/6af843bbe48b802d2e4be8bd",
+  "skip:https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUy1QYS1aemtYbV8xczk0cmRVeHl2ZGNLTlFwVE1SUUZ3OHctZGRnZlpTMi1DRTFkbWlXMWRaVGliVk8xU1N1MGZ6dVdNTTJHd1BMaTVnT2JQaTAwdm1QWWh4aElDM1JlMVJvcjJNQ2pIUWlHd09qUXNuc2Q1Qnd6ZVJGTlIta3dkaHlMcWRYZC1KX0tneTJKVkNSaVdZQXlFX2Y2Z0Vwa1VmNGRzZjZYVDRRdDBNLTNF?oc=5",
+  "title:Зеленский заявил о предложении США уступить Донбасс в обмен на членство в НАТО",
+  "skip:https://www.rbc.ru/politics/14/11/2026/6af8431042b9ce85733198d7",
+  "skip:https://www.interfax.ru/world/1129009",
+  "skip:https://ria.ru/20261114/bolgarija-2131553731.html",
+  "https://tass.ru/mezhdunarodnaya-panorama/28317955",
+  "title:Болгария приостановила поставки оружия и финансовую помощь Украине"
 ]

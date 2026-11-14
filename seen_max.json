@@ -1,9 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/gaming-industry/yakuza-creators-studio-and-the-game-it-was-working-on-are-now-officially-gone/",
-  "skip:https://www.igromania.ru/news/169684/remaster-kultovogo-stels-ekshena-thief-the-dark-project-vyijdet-3-dekabrya/",
-  "skip:https://stopgame.ru/newsdata/73360/remaster_thief_the_dark_project_vyydet_3_dekabrya",
-  "skip:https://stopgame.ru/newsdata/73354/oficialno_studiya_sozdatelya_yakuza_zakrylas",
-  "https://gamemag.ru/news/201939/the-witcher-3-wild-hunts-expansion-pricing-was-about-providing-quality-at-a-good-value",
   "title:Новое дополнение для «Ведьмака 3» точно будет стоить своих денег — CD Projekt RED обещает не разочаровать",
   "skip:https://deadline.com/2026/11/johnny-depp-reprising-pirates-of-the-caribbean-role-1237211975/",
   "skip:https://www.film.ru/news/treyler-cheloveka-s-meshkom",
@@ -998,5 +993,10 @@
   "skip:https://www.pcgamer.com/games/grand-theft-auto/new-grand-theft-auto-6-trailer-is-for-a-tv-show-that-exists-within-grand-theft-auto-6/",
   "skip:https://www.igromania.ru/news/169926/gta-6-poluchila-pervyij-patch-do-reliza-i-tizer-multseriala-s-televideniya-vajs-siti/",
   "https://www.playground.ru/elder_scrolls_5_skyrim/news/sozdatel_skyrim_spustya_gody_priznalsya_v_odnoj_iz_svoih_glavnyh_oshibok_igroki_hoteli_sovsem_drugogo-1890618#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Создатель Skyrim спустя годы признался в одной из своих главных ошибок - игроки хотели совсем другого"
+  "title:Создатель Skyrim спустя годы признался в одной из своих главных ошибок - игроки хотели совсем другого",
+  "skip:https://deadline.com/2026/11/european-film-awards-2026-nominations-1237223704/",
+  "skip:https://variety.com/2026/film/news/fatherland-la-bola-negra-european-film-awards-nominations-1236947619/",
+  "skip:https://www.film.ru/news/novyy-treyler-oruzheynogo-barona-2",
+  "https://www.film.ru/news/premera-ocharovannyh",
+  "title:Премьера Очарованных"
 ]

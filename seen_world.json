@@ -1,15 +1,4 @@
 [
-  "skip:https://www.rbc.ru/rbcfreenews/6af3bd3506f27a090bca3d57",
-  "skip:https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-  "skip:https://www.interfax.ru/world/1128181",
-  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YS3VyaTdRakNsNDN3dW0tREgyWG1YQVBWRkRDUmVhTVhDYTA0UFR3QnBnTGlMM0lmNHJpMG9NZ3FWZVNzZFBKeUJ4WnprWUVxemVfXzA3eFloclFYNEpyaFJ1YTFqVVk?oc=5",
-  "title:Палата представителей США заблокировала попытку импичмента главы Пентагона Пита Хегсета",
-  "skip:https://www.interfax.ru/russia/1128217",
-  "skip:https://www.rbc.ru/rbcfreenews/6af410c58e50cc57a4cae4d0",
-  "https://www.kommersant.ru/doc/9094287",
-  "title:Минобороны РФ сообщило об уничтожении 627 украинских беспилотников за ночь",
-  "skip:https://www.interfax.ru/business/1128218",
-  "https://www.kommersant.ru/doc/9094296",
   "title:Чистая прибыль Сбербанка по РСБУ за 10 месяцев выросла на 17,6%",
   "skip:https://www.interfax.ru/world/1128234",
   "https://www.kommersant.ru/doc/9094366",
@@ -998,5 +987,16 @@
   "skip:https://ria.ru/20261114/darchiev-2131523340.html",
   "skip:https://ria.ru/20261114/darchiev-2131523499.html",
   "https://www.kommersant.ru/doc/9109584",
-  "title:В Москве прошла церемония прощания с послом России в США Александром Дарчиевым"
+  "title:В Москве прошла церемония прощания с послом России в США Александром Дарчиевым",
+  "skip:https://ria.ru/20261114/tersyanka-2131530448.html",
+  "skip:https://tass.ru/armiya-i-opk/28317715",
+  "skip:https://tass.ru/armiya-i-opk/28317713",
+  "skip:https://www.kommersant.ru/doc/9109592",
+  "skip:https://www.interfax.ru/russia/1128999",
+  "https://tass.ru/armiya-i-opk/28317745",
+  "title:Минобороны РФ заявило о переходе под контроль села Терсянка в Запорожской области",
+  "skip:https://www.interfax.ru/russia/1129001",
+  "skip:https://tass.ru/armiya-i-opk/28317689",
+  "https://ria.ru/20261114/infrastruktura-2131531380.html",
+  "title:ВС РФ нанесли удары по объектам энергетики и транспорта Украины"
 ]

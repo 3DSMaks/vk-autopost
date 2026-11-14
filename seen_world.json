@@ -1,15 +1,4 @@
 [
-  "title:Владимир Путин и Александр Лукашенко провели встречу в Ново-Огарево",
-  "skip:https://www.interfax.ru/russia/1128137",
-  "skip:https://ria.ru/20261110/putin-2130743757.html",
-  "skip:https://www.interfax.ru/russia/1128134",
-  "skip:https://tass.ru/politika/28304153",
-  "skip:https://ria.ru/20261110/putin-2130743411.html",
-  "skip:https://tass.ru/politika/28304151",
-  "skip:https://ria.ru/20261110/putin-2130743010.html",
-  "skip:https://ria.ru/20261110/putin-2130742850.html",
-  "skip:https://tass.ru/ekonomika/28304145",
-  "skip:https://ria.ru/20261110/lukashenko-2130742593.html",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28304147",
   "skip:https://tass.ru/politika/28304139",
   "skip:https://tass.ru/politika/28304127",
@@ -998,5 +987,16 @@
   "title:В Новом Орлеане танкер столкнулся с пассажирским судном, есть пострадавшие",
   "skip:https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY3N6bWdWdGxvUENqRDUxcTVlaUFva2xhRTVoSk90VUtXSmxHX1p6dl8zcWRFM3dVa2VmaEFlMzRJNkYzZk1sUmpVeDk1amo5WmJtLUtvaE5PMDFYRThDYXNzVGNtcnZXWURuSGxQckozMmc2OFBQN3J4RUxpVkwwdTczZmE3T0ExOEtjdGc2QTh1RkZCVGlUZ0d2TTlPckVncHpEak8zUWlZejNRa2VlRVFvMDhRU085?oc=5",
   "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry",
-  "title:В Венгрии антикоррупционное ведомство изъяло миллионы долларов наличными в ходе расследования"
+  "title:В Венгрии антикоррупционное ведомство изъяло миллионы долларов наличными в ходе расследования",
+  "skip:https://news.google.com/rss/articles/CBMilAFBVV95cUxPX1dzUndCOE42aUFUazd4SFcxMFVWUTl6VmRVOE5QR0ZjNWRXY19qWTVuRUthUXhDS3UybmZnQmFHSHVRV20wdXJwTUlKUTlGVU42N1B4bkVwSjI4bkdJeG94aFpxX01NUTdyWUJOUVZHSHlXZkxGZXlsTWhjSmUwRXoyRklMekIycXlEUk1pM1NpNjJp?oc=5",
+  "skip:https://ria.ru/20261114/ssha-2131485762.html",
+  "skip:https://www.interfax.ru/world/1128959",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28317053",
+  "https://www.kommersant.ru/doc/9109498",
+  "title:Белый дом анонсировал встречу Дональда Трампа с Владимиром Путиным и Си Цзиньпином в Китае",
+  "skip:https://ria.ru/20261114/spacex-2131485422.html",
+  "skip:https://tass.ru/kosmos/28317055",
+  "skip:https://news.google.com/rss/articles/CBMilwFBVV95cUxPbEJSd3lrcThXUUdyRWY1M1JSVzRrdG9OcFVQTUVRRXItcjlnN19uSFdqV1BJdEVFelI3anBNZm9lZkpsREYyTXNUVG5ndU5tZmlGY0ZtaGs5RHpQX0pVSllTV0M4RnlMeTFubXBydjVqN0k1V3VpeEZ1SEtVSUwtVkNIOWw5RDU4bWpJWmdwaHR2R2s0a0hR?oc=5",
+  "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+  "title:SpaceX не удалось поймать ускоритель ракеты Starship при попытке захвата"
 ]

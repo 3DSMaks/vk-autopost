@@ -1,12 +1,4 @@
 [
-  "skip:https://ria.ru/20261111/ushakov-2130881445.html",
-  "skip:https://tass.ru/politika/28307067",
-  "skip:https://www.interfax.ru/world/1128300",
-  "skip:https://www.interfax.ru/russia/1128298",
-  "skip:https://tass.ru/politika/28306977",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28306975",
-  "skip:https://tass.ru/politika/28306959",
-  "skip:https://tass.ru/politika/28306955",
   "skip:https://www.interfax.ru/russia/1128292",
   "skip:https://ria.ru/20261111/kushner-2130873156.html",
   "skip:https://www.rbc.ru/rbcfreenews/6af44ff9d9ec4756827cfc94",
@@ -998,5 +990,13 @@
   "title:Песков заявил, что Москва не намерена ставить условия по составу европейской переговорной группы",
   "skip:https://ria.ru/20261114/tanker-2131563919.html",
   "https://www.rbc.ru/rbcfreenews/6af85693df54b1d2041793e9",
-  "title:Два танкера загорелись после подрыва на минах в районе Ормузского пролива"
+  "title:Два танкера загорелись после подрыва на минах в районе Ормузского пролива",
+  "skip:https://ria.ru/20261114/vengrija-2131576990.html",
+  "skip:https://www.kommersant.ru/doc/9109675",
+  "https://www.rbc.ru/rbcfreenews/6af85dcf0189ce094ad0b0ed",
+  "title:В Венгрии изъяли миллионы евро и долларов по делу экс-министра Миклоша Шестака",
+  "skip:https://ria.ru/20261114/frantsiya-2131575245.html",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28317975",
+  "https://ria.ru/20261114/parizh-2131575893.html",
+  "title:В Париже прошла массовая акция протеста против роста цен"
 ]

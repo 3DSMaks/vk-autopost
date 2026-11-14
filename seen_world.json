@@ -1,7 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9094617",
-  "title:Итоги переговоров в Абу-Даби: РФ и Украина договорились о масштабном обмене пленными",
-  "skip:https://ria.ru/20261111/ushakov-2130882448.html",
   "skip:https://ria.ru/20261111/ushakov-2130881445.html",
   "skip:https://tass.ru/politika/28307067",
   "skip:https://www.interfax.ru/world/1128300",
@@ -998,5 +995,8 @@
   "skip:https://ria.ru/20261114/peskov-2131561128.html",
   "skip:https://ria.ru/20261114/peskov-2131560537.html",
   "https://www.kommersant.ru/doc/9109660",
-  "title:Песков заявил, что Москва не намерена ставить условия по составу европейской переговорной группы"
+  "title:Песков заявил, что Москва не намерена ставить условия по составу европейской переговорной группы",
+  "skip:https://ria.ru/20261114/tanker-2131563919.html",
+  "https://www.rbc.ru/rbcfreenews/6af85693df54b1d2041793e9",
+  "title:Два танкера загорелись после подрыва на минах в районе Ормузского пролива"
 ]

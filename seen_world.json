@@ -1,10 +1,4 @@
 [
-  "skip:https://ria.ru/20261111/peregovory-2130883919.html",
-  "skip:https://www.interfax.ru/world/1128308",
-  "https://tass.ru/mezhdunarodnaya-panorama/28307153",
-  "title:Спецпосланник США Джаред Кушнер подвел итоги переговоров в Абу-Даби и анонсировал поездку в Москву",
-  "skip:https://tass.ru/politika/28307241",
-  "skip:https://tass.ru/politika/28306971",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28307061",
   "skip:https://ria.ru/20261111/gensek-2130891233.html",
   "skip:https://ria.ru/20261111/guterresh-2130890919.html",
@@ -998,5 +992,11 @@
   "title:Встреча Путина, Си Цзиньпина и Трампа состоится 19 ноября в Шэньчжэне",
   "skip:https://www.rbc.ru/economics/14/11/2026/6af859f48cf1f15c6404b6e0",
   "https://tass.ru/ekonomika/28318103",
-  "title:Минэкономики Германии предложило задействовать резервные угольные электростанции из-за дефицита газа"
+  "title:Минэкономики Германии предложило задействовать резервные угольные электростанции из-за дефицита газа",
+  "skip:https://www.rbc.ru/finances/14/11/2026/6af878ee40887869aaf2875e",
+  "https://www.kommersant.ru/doc/9109700",
+  "title:Стоимость биткоина опустилась ниже $66 тыс.",
+  "skip:https://www.interfax.ru/russia/1129029",
+  "https://ria.ru/20261114/penza-2131587943.html",
+  "title:В аэропортах Пензы и Саратова ввели временные ограничения на полеты"
 ]

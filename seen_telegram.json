@@ -1,7 +1,4 @@
 [
-  "https://www.kinonews.ru/news_143938/",
-  "title:Скайуокеры вернутся в десятом эпизоде \"Звездных войн\"",
-  "skip:https://stopgame.ru/newsdata/73354/oficialno_studiya_sozdatelya_yakuza_zakrylas",
   "skip:https://gamemag.ru/news/201932/square-enix-nazvala-tochnuyu-datu-vyhoda-dopolneniya-evercold-dlya-final-fantasy-xiv-predstavlen",
   "https://www.pcgamer.com/games/mass-effect/heres-one-bit-of-good-news-for-mass-effect-modders-are-bringing-the-multiplayer-mode-to-mass-effect-legendary-edition/",
   "title:Here's one bit of good news for Mass Effect: modders are bringing the multiplayer mode to Mass Effect Legendary Edition",
@@ -998,5 +995,8 @@
   "https://www.film.ru/news/novyy-treyler-oruzheynogo-barona-2",
   "title:Новый трейлер Оружейного барона 2",
   "https://www.film.ru/news/chelovek-pauk-vydvigaetsya-na-oskar",
-  "title:Человек-паук выдвигается на Оскар"
+  "title:Человек-паук выдвигается на Оскар",
+  "skip:https://www.igromania.ru/news/169932/ubisoft-vernyot-rainbow-six-vegas-s-novoj-polnotsennyij-chastyu-insajder/",
+  "https://www.playground.ru/gta_6/news/igroki_pytayutsya_obojti_ogranichenie_v_30_fps_v_gta_6_na_konsolyah_s_pomoschyu_programmy_veyra-1890616#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Игроки пытаются обойти ограничение в 30 FPS в GTA 6 на консолях с помощью программы Veyra"
 ]

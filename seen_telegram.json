@@ -1,9 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169671/obitel-zla-zaka-kreggera-zarabotala-400-mln-dollarov/",
-  "https://www.playground.ru/fable_2026/news/razrabotchiki_fable_predstavili_muzykalnuyu_temu_samoj_zagadochnoj_i_pugayuschej_lokatsii_albiona-1887069#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Разработчики Fable представили музыкальную тему самой загадочной и пугающей локации Альбиона",
-  "skip:https://www.ign.com/articles/zelda-ocarina-of-time-google-easter-egg",
-  "skip:https://www.igromania.ru/news/169675/inside-sayonara-wild-hearts-i-balatro-voshli-v-spisok-igr-udivivshih-glav-vnutrennih-studij-sony/",
   "https://gamemag.ru/news/201927/razrabotchiki-novyh-chastey-silent-hill-rabotali-v-polnoy-izolyacii-drug-ot-drugakonami-derjala",
   "video:2026-11-02:https://gamemag.ru/news/201927/razrabotchiki-novyh-chastey-silent-hill-rabotali-v-polnoy-izolyacii-drug-ot-drugakonami-derjala",
   "title:Разработчики трёх новых Silent Hill не знали о существовании игр друг друга",
@@ -998,5 +993,10 @@
   "skip:https://www.playground.ru/crimson_desert/news/fanaty_crimson_desert_v_yarosti_eschyo_ni_odna_studiya_ne_lgala_igrokam_nastolko_naglo-1890617#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.pcgamer.com/software/ai/dont-like-ai-in-games-crimson-desert-studio-pearl-abyss-aint-care-its-expanding-ai-use-throughout-our-entire-development-pipeline/",
   "https://www.ign.com/articles/ps5-qssr-updates-revealed-for-marvels-spider-man-2-arc-raiders-and-more",
-  "title:PS5 QSSR Updates Revealed for Marvel's Spider-Man 2, Arc Raiders, and More"
+  "title:PS5 QSSR Updates Revealed for Marvel's Spider-Man 2, Arc Raiders, and More",
+  "skip:https://kg-portal.ru/comments/135785-dzhejms-gann-oproverg-sluhi-o-potere-tvorcheskogo-kontrolja-nad-prodolzheniem-supermena-studija-dazhe-ne-uspela-posmotret-film/",
+  "skip:https://www.film.ru/news/nominanty-na-evropeyskiy-oskar-2027",
+  "skip:https://deadline.com/2026/11/european-film-awards-2026-nominations-1237223704/",
+  "https://kg-portal.ru/comments/135784-zelenogo-fonarja-aarona-pera-ponizjat-do-voditelja-taksi-v-boevike-ot-rezhissera-dzhona-rembo/",
+  "title:Зелёного Фонаря Аарона Пьера понизят до водителя такси в боевике от режиссёра \"Джона Рэмбо\""
 ]

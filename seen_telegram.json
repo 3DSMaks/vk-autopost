@@ -1,8 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169667/studiya-sozdatelya-like-a-dragonyakuza-zakryilas-sudba-ekshena-gang-of-dragon-neizvestna/",
-  "skip:https://www.igromania.ru/news/169666/phantom-blade-zero-razoshlas-tirazhom-v-chetyire-milliona-kopij-za-72-chasa/",
-  "skip:https://gamemag.ru/news/201936/nagoshi-studio-shuts-down",
-  "skip:https://gamemag.ru/news/201934/phantom-blade-zero-ccu-fw",
   "https://www.playground.ru/gta_6/news/v_rockstar_games_rasskazali_ob_integratsii_elementov_rpg_i_simulyatora_zhizni_v_gta_6-1887002#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:В Rockstar Games рассказали об интеграции элементов RPG и симулятора жизни в GTA 6",
   "https://www.playground.ru/final_fantasy_7_part_3/news/rezhissyor_final_fantasy_7_revelation_zaveril_chto_multiplatformennyj_reliz_ne_skazhetsya_na_kachestve_igry-1886996#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +994,9 @@
   "skip:https://stopgame.ru/newsdata/73501/the_blood_of_dawnwalker_popolnitsya_novoy_igroy_na_sleduyuschey_nedele",
   "https://gamemag.ru/news/202134/rainbow-six-vegas-3",
   "video:2026-11-14:https://gamemag.ru/news/202134/rainbow-six-vegas-3",
-  "title:Ubisoft одобрила создание новой Rainbow Six: Vegas — СМИ"
+  "title:Ubisoft одобрила создание новой Rainbow Six: Vegas — СМИ",
+  "skip:https://www.kinonews.ru/news_144148/",
+  "skip:https://www.film.ru/news/margo-robbi-u-rezhissera-dramy",
+  "https://www.kinonews.ru/news_144150/",
+  "title:Кевин Файги объяснил возвращение первых Людей Икс в \"Мстители: Судный день\""
 ]

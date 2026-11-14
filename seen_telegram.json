@@ -1,10 +1,4 @@
 [
-  "https://www.playground.ru/final_fantasy_7_part_3/news/rezhissyor_final_fantasy_7_revelation_zaveril_chto_multiplatformennyj_reliz_ne_skazhetsya_na_kachestve_igry-1886996#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Режиссёр Final Fantasy 7 Revelation заверил, что мультиплатформенный релиз не скажется на качестве игры",
-  "skip:https://stopgame.ru/newsdata/73353/prodazhi_phantom_blade_zero_dostigli_4_mln_kopiy_za_3_dnya",
-  "https://www.pcgamer.com/games/rpg/footage-of-what-sure-looks-like-a-persona-1-remake-has-leaked/",
-  "title:Footage of what sure looks like a Persona 1 remake has leaked",
-  "skip:https://www.igromania.ru/news/169673/dejv-batista-pokazal-podgotovku-k-roli-kratosa-v-seriale-god-of-war/",
   "https://www.playground.ru/shin_megami_tensei_persona_5/news/novyj_rekord_atlus_prodazhi_persona_5_i_eyo_spin_offov_dostigli_15_5_mln-1887054#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Новый рекорд Atlus: продажи Persona 5 и её спин-оффов достигли 15,5 млн",
   "skip:https://www.ign.com/articles/phantom-blade-zero-sells-4-million-copies-in-72-hours",
@@ -998,5 +992,11 @@
   "https://www.kinonews.ru/news_144150/",
   "title:Кевин Файги объяснил возвращение первых Людей Икс в \"Мстители: Судный день\"",
   "https://www.ign.com/articles/some-of-these-gta-6-clips-look-so-good-that-i-dont-care-if-its-running-at-30-fps",
-  "title:Some of These GTA 6 Clips Look So Good That I Don't Care if It's Running at 30fps"
+  "title:Some of These GTA 6 Clips Look So Good That I Don't Care if It's Running at 30fps",
+  "skip:https://www.igromania.ru/news/169943/dlya-forza-horizon-6-predstavili-plan-razvitiya-igryi-na-konets-2026-goda-i-gryaduschij-2027-j/",
+  "skip:https://stopgame.ru/newsdata/73508/anons_super_meat_boy_again_remastera_super_meat_boy_s_novym_kontentom",
+  "skip:https://www.igromania.ru/news/169936/ej-pomnite-tu-igru-s-myasnyim-parnem-sostoyalsya-anons-novoj-super-meat-boy-again/",
+  "https://gamemag.ru/news/202130/god-of-war-sons-of-sparta-coming-to-ps4",
+  "video:2026-11-14:https://gamemag.ru/news/202130/god-of-war-sons-of-sparta-coming-to-ps4",
+  "title:2D-Кратос перебирается на прошлое поколение: Датирован релиз God of War: Sons of Sparta для PlayStation 4"
 ]

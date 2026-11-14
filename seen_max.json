@@ -1,7 +1,4 @@
 [
-  "skip:https://www.film.ru/news/treyler-cheloveka-s-meshkom",
-  "skip:https://www.film.ru/news/depp-o-shestyh-piratah",
-  "skip:https://www.film.ru/news/novyy-chelovek-led-iz-lyudey-iks",
   "skip:https://kg-portal.ru/comments/135623-karatepacan-k-mutacii-prishel-esche-odnogo-junogo-aktera-berut-v-perezapusk-ljudej-iks/",
   "https://www.kinonews.ru/news_143955/",
   "title:Брайан Тайри Генри может стать Двуликим в \"Бэтмене 2\"",
@@ -998,5 +995,8 @@
   "https://www.film.ru/news/premera-ocharovannyh",
   "title:Премьера Очарованных",
   "https://kg-portal.ru/comments/135777-dzhonni-depp-vernulsja-v-amerikanskie-kinoteatry-so-skazkoj-skrudzh-na-reklamu-filma-potratili-bolshe-chem-na-ego-proizvodstvo/",
-  "title:Джонни Депп вернулся в американские кинотеатры со сказкой \"Скрудж\" — на рекламу фильма потратили больше, чем на его производство"
+  "title:Джонни Депп вернулся в американские кинотеатры со сказкой \"Скрудж\" — на рекламу фильма потратили больше, чем на его производство",
+  "skip:https://gamemag.ru/news/202140/zvezda-resident-evil-requiem-hotelaby-uvidet-prodoljenie-istorii-greys-eshkroft",
+  "https://gamemag.ru/news/202146/oficialno-id-software-rabotaet-nad-novoy-igroy",
+  "title:Официально: id Software работает над новой игрой"
 ]

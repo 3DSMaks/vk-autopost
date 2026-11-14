@@ -1,12 +1,4 @@
 [
-  "https://www.interfax.ru/world/1128142",
-  "title:Инциденты с нефтяными танкерами и судами зафиксированы в Персидском заливе и Ормузском проливе",
-  "skip:https://www.kommersant.ru/doc/9094029",
-  "https://www.rbc.ru/sport/10/11/2026/6af33c2e420a936dd429993d",
-  "title:Главу ФИФА Джанни Инфантино могут вызвать в Конгресс США из-за связей с Дональдом Трампом",
-  "skip:https://tass.ru/proisshestviya/28304257",
-  "https://ria.ru/20261110/bespilotniki-2130748888.html",
-  "title:Силы ПВО перехватили 52 украинских беспилотника над российскими регионами",
   "skip:https://www.rbc.ru/politics/10/11/2026/6af36667d079e0918a676318",
   "skip:https://ria.ru/20261110/mid-2130747939.html",
   "skip:https://tass.ru/politika/28304239",
@@ -998,5 +990,13 @@
   "title:Масштабный телекоммуникационный сбой привел к приостановке полетов в США",
   "skip:https://tass.ru/obschestvo/28317121",
   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNmxORmhpLU9PVHl1bVFzT1A5QVhUVU5FWTM5Uzl3WDRJeWFvUXJVNWJxcmp1T3A5T2Z3MmlTMjJLUmVuZVRxa1VFWVFPbFZ2TnFBRlpNU3ZqOUpzczBTTzBkRXVaZ01oZEU5WGM4SzQ1ZTlBeFh0YnlMbzgzNHN4VFpTc3BiYXJMVEdkUHdFWFZKYV9vZzhHMUV4MjV6WGZjRndHSFlUczFvV2FIcFdPeHpYSQ?oc=5",
-  "title:США лишились статуса страны, ликвидировавшей корь"
+  "title:США лишились статуса страны, ликвидировавшей корь",
+  "skip:https://tass.ru/obschestvo/28317161",
+  "skip:https://www.rbc.ru/rbcfreenews/6af7b180eac7a7bfa1343ac4",
+  "skip:https://tass.ru/obschestvo/28317145",
+  "skip:https://www.interfax.ru/world/1128962",
+  "skip:https://tass.ru/ekonomika/28317117",
+  "skip:https://ria.ru/20261114/ssha-2131484849.html",
+  "https://ria.ru/20261114/ssha-2131488567.html",
+  "title:В США возобновлены полеты после масштабного сбоя системы авиадиспетчеров"
 ]

@@ -1,8 +1,4 @@
 [
-  "https://www.film.ru/news/specvypusk-dobro-pozhalovat-v-derri",
-  "title:Спецвыпуск Добро пожаловать в Дерри",
-  "https://www.film.ru/articles/o-kapitan-moy-kapitan-kakim-my-zapomnim-patrika-styuarta-ispolnitelya-roley-zhan-lyuka",
-  "title:«О капитан! Мой капитан!»: каким мы запомним Патрика Стюарта — исполнителя ролей Жан-Люка Пикара и Чарльза Ксавьера",
   "skip:https://www.kinonews.ru/article_143899/",
   "skip:https://www.film.ru/articles/recenziya-na-multfilm-malenkie-demony-puteshestvuyut-na-zapad-kitayskiy-hit-pro-nelepuyu",
   "https://variety.com/2026/biz/news/will-packer-vote-florida-am-university-hbcus-1236935935/",
@@ -998,5 +994,9 @@
   "skip:https://kg-portal.ru/comments/135785-dzhejms-gann-oproverg-sluhi-o-potere-tvorcheskogo-kontrolja-nad-prodolzheniem-supermena-studija-dazhe-ne-uspela-posmotret-film/",
   "skip:https://www.film.ru/news/premera-ocharovannyh",
   "https://deadline.com/2026/11/dc-studios-movie-tv-list-jeremy-latcham-1237217689/",
-  "title:DC Studios To-Do List: Here’s What Incoming Boss Jeremy Latcham Will Sort Through From The Gunn-Safran Era"
+  "title:DC Studios To-Do List: Here’s What Incoming Boss Jeremy Latcham Will Sort Through From The Gunn-Safran Era",
+  "posted:2026-11-14T15:31:10+00:00",
+  "skip:https://variety.com/2026/film/news/james-gunn-skydance-superman-man-of-tomorrow-dc-exit-1236947669/",
+  "https://kg-portal.ru/comments/135782-nominant-naoskar-jura-borisov-igraet-akteraneudachnika-vkomedii-kulik/",
+  "title:Номинант на \"Оскар\" Юра Борисов играет актёра-неудачника в комедии \"Кулик\""
 ]

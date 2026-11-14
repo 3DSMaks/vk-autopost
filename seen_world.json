@@ -1,10 +1,4 @@
 [
-  "skip:https://www.rbc.ru/politics/11/11/2026/6af451b5f7402bf8db523ba9",
-  "skip:https://www.rbc.ru/rbcfreenews/6af4513e2d53b30e427b4aa6",
-  "skip:https://www.interfax.ru/russia/1128290",
-  "skip:https://www.interfax.ru/russia/1128287",
-  "https://www.rbc.ru/politics/11/11/2026/6af454d437bab74ce50eabc6",
-  "title:Итоги и перспективы трехсторонних переговоров по Украине в Абу-Даби",
   "skip:https://www.interfax.ru/russia/1128295",
   "skip:https://www.rbc.ru/society/11/11/2026/6af426814c555142422af366",
   "https://ria.ru/20261111/abyzov-2130874269.html",
@@ -998,5 +992,11 @@
   "title:Итальянский регулятор оштрафовал компанию Meta на сумму более €800 млн",
   "skip:https://tass.ru/sport/28317979",
   "https://www.rbc.ru/sport/14/11/2026/6af8629d8e6e5c52e0f928f4",
-  "title:Международная федерация хоккея подала апелляцию в CAS на решение о допуске россиян"
+  "title:Международная федерация хоккея подала апелляцию в CAS на решение о допуске россиян",
+  "skip:https://tass.ru/proisshestviya/28318105",
+  "https://ria.ru/20261114/nant-2131582269.html",
+  "title:В Нанте полиция применила слезоточивый газ против участников протестной акции",
+  "skip:https://ria.ru/20261114/rumynija-2131579920.html",
+  "https://tass.ru/proisshestviya/28318065",
+  "title:В территориальных водах Румынии в Черном море зафиксирована атака дрона на судно"
 ]

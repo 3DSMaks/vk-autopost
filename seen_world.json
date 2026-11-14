@@ -1,14 +1,4 @@
 [
-  "title:Российский боец ММА Усман Нурмагомедов задержан в Абу-Даби после драки",
-  "skip:https://tass.ru/ekonomika/28308943",
-  "skip:https://www.interfax.ru/russia/1128436",
-  "skip:https://tass.ru/obschestvo/28308897",
-  "skip:https://www.interfax.ru/russia/1128434",
-  "skip:https://ria.ru/20261111/ogranichenija-2130997147.html",
-  "skip:https://tass.ru/ekonomika/28308871",
-  "https://www.interfax.ru/russia/1128441",
-  "title:Аэропорты Домодедово и Жуковский возобновили работу после временных ограничений",
-  "skip:https://www.aljazeera.com/news/2026/11/11/trumps-white-house-calls-democratic-plans-for-congressional-probes-abuse?traffic_source=rss",
   "skip:https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkF3VkJLSWtHYzVKNWo1bC1RYmhjSTZLV3lIdjJPSDRudEVXR0tNM0M4VWVtcHJ6VHQ5ME84SGlCVmYyWGRha2NZR1ZZdHQ4dVlsVG1vUXJFdzVoYnIxSlNfZ1NzQ1FWcTNYMFp1RlJEZUx0MkJlZ0pFRGZrX19nNG1QZVYwM1ZrSmtCb1ZPNUFSM28?oc=5",
   "https://tass.ru/mezhdunarodnaya-panorama/28308975",
   "title:Белый дом заявил о возможном возбуждении уголовных дел против демократов из-за планов расследований",
@@ -998,5 +988,15 @@
   "skip:https://ria.ru/20261115/stoimost-2131614329.html",
   "skip:https://tass.ru/ekonomika/28318401",
   "https://www.rbc.ru/economics/15/11/2026/6af8ce1c8e6e5c52e0f92941",
-  "title:Стоимость биткоина опустилась ниже $65 тысяч"
+  "title:Стоимость биткоина опустилась ниже $65 тысяч",
+  "skip:https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3BNak83bkJ3N2NOejJudW5NdDlHQl9tTmZ1OUFSak9iRTZmMlo1OFAyWVJnU25GdjRLbVNOSllnekdvdm1tcFlxbnJRY2RnRks4WG4ybjZlX3dnNE1HQ3E5S0dpVGxwNDZqLTVwM3JlLWJmMDYtNjhZVXgycFJjbzFPME50Z0ViRHNWTDhYSmdfeW80UDl4NlduZGdLR0R5ZmpIa05B?oc=5",
+  "skip:https://news.google.com/rss/articles/CBMilwFBVV95cUxNOERhUktkSjNrXzRTU1BmN20xXzk4WE9HT2V1ek5MeHZGYW1KU2tOMzdLbm8xc2J1NXBSWi03S0Rudld0amJUdHkwWVQ1YnZfRVhhMGhaV0FzSWJMR2Nfc3FWVXlZWUtieWRPaUlwSTUzUTBKZ3d4bF9VYThwR0RvQmlaQzJsTmowems1aHJSUGFpTEpsbjRn?oc=5",
+  "skip:https://www.interfax.ru/world/1129050",
+  "skip:https://tass.ru/kosmos/28318443",
+  "skip:https://www.france24.com/en/spacex-starship-set-for-return-to-earth-after-failed-booster-catch",
+  "https://ria.ru/20261115/starship-2131616733.html",
+  "title:Космический корабль Starship впервые успешно совершил посадку с захватом манипуляторами",
+  "skip:https://ria.ru/20261115/kndr-2131616213.html",
+  "https://www.rbc.ru/rbcfreenews/6af8d563b1a0ed265a78649c",
+  "title:Делегация КНДР прибыла с официальным визитом в Москву"
 ]

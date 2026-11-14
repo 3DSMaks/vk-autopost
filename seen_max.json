@@ -1,6 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/201936/nagoshi-studio-shuts-down",
-  "skip:https://gamemag.ru/news/201934/phantom-blade-zero-ccu-fw",
   "https://www.playground.ru/final_fantasy_7_part_3/news/rezhissyor_final_fantasy_7_revelation_zaveril_chto_multiplatformennyj_reliz_ne_skazhetsya_na_kachestve_igry-1886996#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Режиссёр Final Fantasy 7 Revelation заверил, что мультиплатформенный релиз не скажется на качестве игры",
   "https://variety.com/2026/film/global/simon-pegg-mark-duplass-haley-joey-osment-my-phone-died-1236935755/",
@@ -998,5 +996,7 @@
   "skip:https://www.igromania.ru/news/169929/star-wars-galactic-racer-privlekla-uzhe-bolee-15-mln-igrokov/",
   "skip:https://stopgame.ru/newsdata/73503/henderson_ubisoft_vozrodit_podseriyu_rainbow_six_vegas",
   "https://www.playground.ru/forza_horizon_6/news/razrabotchiki_forza_horizon_6_raskryli_plany_po_razvitiyu_igry_na_blizhajshie_mesyatsy-1890531#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Разработчики Forza Horizon 6 раскрыли планы по развитию игры на ближайшие месяцы"
+  "title:Разработчики Forza Horizon 6 раскрыли планы по развитию игры на ближайшие месяцы",
+  "https://gamemag.ru/news/202130/god-of-war-sons-of-sparta-coming-to-ps4",
+  "title:2D-Кратос перебирается на прошлое поколение: Датирован релиз God of War: Sons of Sparta для PlayStation 4"
 ]

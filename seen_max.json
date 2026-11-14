@@ -1,8 +1,4 @@
 [
-  "skip:https://www.playground.ru/misc/news/igroki_sdelali_svoj_vybor_geforce_rtx_3060_snova_lidiruet_v_steam_a_dolya_linux_priblizilas_k_4-1887058#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://gamemag.ru/news/201932/square-enix-nazvala-tochnuyu-datu-vyhoda-dopolneniya-evercold-dlya-final-fantasy-xiv-predstavlen",
-  "https://gamemag.ru/news/201930/klassicheskaya-call-of-duty-modern-warfare-2-skoro-mojet-poluchit-pereizdanie-dlya-sovremennyh",
-  "title:Оригинальную Call of Duty: Modern Warfare 2 могут перевыпустить на современных платформах",
   "skip:https://kg-portal.ru/comments/135617-umka-trejler/",
   "skip:https://www.film.ru/news/treyler-umki",
   "https://deadline.com/2026/11/mike-flanagan-carrie-warhammer-40000-interview-1237171623/",
@@ -998,5 +994,9 @@
   "skip:https://www.film.ru/news/margo-robbi-u-rezhissera-dramy",
   "skip:https://www.kinonews.ru/news_144146/",
   "https://www.kinonews.ru/news_144150/",
-  "title:Кевин Файги объяснил возвращение первых Людей Икс в \"Мстители: Судный день\""
+  "title:Кевин Файги объяснил возвращение первых Людей Икс в \"Мстители: Судный день\"",
+  "skip:https://www.igromania.ru/news/169942/v-seti-pokazali-trek-list-gta-vi-the-album-trevis-skott-dzhenni-dua-lipa-rina-savayama-i-drugie/",
+  "skip:https://www.playground.ru/gta_6/news/v_seti_poyavilis_izobrazheniya_s_predpolagaemym_polnym_spiskom_pesen_iz_gta_vi_the_album_nezadolgo_do_ofitsialnogo_reliza-1890559#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "https://gamemag.ru/news/202133/final-fantasy-7-rebirth-and-other-jrpg-hits-help-square-enix-to-a-21-9-percent-sales",
+  "title:Ставка на мультиплатформенность оправдывается: Square Enix сообщила о резком росте прибыли и выручки"
 ]

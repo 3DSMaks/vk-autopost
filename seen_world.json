@@ -1,11 +1,4 @@
 [
-  "skip:https://ria.ru/20261111/barselona-2130977171.html",
-  "https://tass.ru/mezhdunarodnaya-panorama/28308653",
-  "title:В Мадриде и Барселоне прошли массовые протесты с требованиями доступного жилья и столкновениями с полицией",
-  "skip:https://www.sport-interfax.ru/1128416",
-  "https://www.kommersant.ru/doc/9095031",
-  "title:Правительство Канады отказалось выдавать визы российским хоккеистам для участия в молодежном чемпионате мира",
-  "skip:https://www.interfax.ru/world/1128420",
   "https://www.rbc.ru/rbcfreenews/6af4b17cba052cb755a71aa7",
   "title:Президент Армении подписал закон о ратификации соглашения с США по проекту «Маршрут Трампа»",
   "skip:https://www.rbc.ru/rbcfreenews/6af4b918ef2179323398cd0e",
@@ -998,5 +991,12 @@
   "title:Серия взрывов прогремела в Днепропетровске",
   "skip:https://www.rbc.ru/rbcfreenews/6af88d7be2d1daf1e27db652",
   "https://www.kommersant.ru/doc/9109715",
-  "title:Принц Саудовской Аравии прибыл с визитом в Чечню и посетил район имени Путина"
+  "title:Принц Саудовской Аравии прибыл с визитом в Чечню и посетил район имени Путина",
+  "skip:https://www.interfax.ru/world/1129039",
+  "https://www.rbc.ru/rbcfreenews/6af8b111e2d1daf1e27db68f",
+  "title:Во Франции прошли массовые протесты против роста цен, полиция задержала более 200 человек",
+  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/14/us-blames-outdated-technology-for-nationwide-flight-disruption?traffic_source=rss",
+  "skip:https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LdnRjdWlaM1Z6ZmVXZ3diTzZpS2ZqMFptZzE5YXFPZ21fQmhxajYwNVM4amEwNHpKV09JVThMbVF6aVg1TzR2WDF4eGNjRkNjNWZ0NnpoOWFOR0dlZUhtSVl2Tl8xdms?oc=5",
+  "skip:https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss",
+  "https://www.interfax.ru/world/1129040"
 ]

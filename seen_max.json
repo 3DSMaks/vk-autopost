@@ -1,7 +1,4 @@
 [
-  "skip:https://www.playground.ru/misc/news/hideo_kodzima_ostalsya_dovolen_filmom_glinolikij_i_sravnil_ego_s_klassikoj_nauchnoj_fantastiki-1887086#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "https://www.playground.ru/gran_turismo_7/news/gran_turismo_7_uzhe_zapuskaetsya_na_pk_cherez_rekompilyatsiyu_ps4_versii_okolo_55_fps_na_geforce_rtx_4060-1887090#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Gran Turismo 7 уже запускается на ПК через рекомпиляцию PS4-версии - около 55 FPS на GeForce RTX 4060",
   "skip:https://www.playground.ru/gta_6/news/gta_6_teper_trebuet_proshivku_ps5_versii_14_22_eto_snizhaet_veroyatnost_emulyatsii_igry_na_pk_v_den_eyo_vyhoda-1887106#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.ign.com/articles/sony-issues-yet-another-ps5-firmware-update-as-jailbreak-whac-a-mole-continues-ahead-of-gta-6-release",
   "https://www.playground.ru/until_dawn_2/news/rejting_until_dawn_2_v_singapure_raskryvaet_podrobnosti_zhestokih_stsen_smerti_i_syuzhetnye_detali-1887107#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +995,8 @@
   "skip:https://www.igromania.ru/news/169936/ej-pomnite-tu-igru-s-myasnyim-parnem-sostoyalsya-anons-novoj-super-meat-boy-again/",
   "skip:https://stopgame.ru/newsdata/73505/novyy_syuzhetnyy_trailer_stranger_than_heaven_posvyatili_gorodu_kure",
   "https://www.igromania.ru/news/169944/otnosheniya-s-leonom-i-materinskaya-rol-aktrisa-iz-resident-evil-requiem-o-vozmozhnom-buduschem-grejs/",
-  "title:Отношения с Леоном и материнская роль — актриса из Resident Evil Requiem о возможном будущем Грейс"
+  "title:Отношения с Леоном и материнская роль — актриса из Resident Evil Requiem о возможном будущем Грейс",
+  "skip:https://deadline.com/2026/11/dc-studios-movie-tv-list-jeremy-latcham-1237217689/",
+  "https://www.kinonews.ru/news_144149/",
+  "title:Режиссер \"Хищника\" Дэн Трактенберг может снять сольный фильм о Росомахе"
 ]

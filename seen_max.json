@@ -1,9 +1,4 @@
 [
-  "https://variety.com/2026/film/global/simon-pegg-mark-duplass-haley-joey-osment-my-phone-died-1236935755/",
-  "title:Simon Pegg, Mark Duplass and Haley Joel Osment Team for Dark Comedy ‘My Phone Died,’ Hyde Park Boards Sales (EXCLUSIVE)",
-  "skip:https://stopgame.ru/newsdata/73353/prodazhi_phantom_blade_zero_dostigli_4_mln_kopiy_za_3_dnya",
-  "https://www.playground.ru/gta_6/news/v_rockstar_games_rasskazali_ob_integratsii_elementov_rpg_i_simulyatora_zhizni_v_gta_6-1887002#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:В Rockstar Games рассказали об интеграции элементов RPG и симулятора жизни в GTA 6",
   "skip:https://kg-portal.ru/comments/135604-tajka-vajtiti-ne-sterpel-postanovschik-nabrosilsja-na-kritikov-svoego-poslednego-provalnogo-filma-s-dzhennoj-ortegoj/",
   "https://variety.com/2026/film/news/jack-lowden-responds-james-bond-rumors-1236937276/",
   "title:Jack Lowden Plays Coy About James Bond Rumors: ‘It’s All Very Flattering’ but I’m Not ‘Going to Add to the Noise’",
@@ -998,5 +993,10 @@
   "https://gamemag.ru/news/202130/god-of-war-sons-of-sparta-coming-to-ps4",
   "title:2D-Кратос перебирается на прошлое поколение: Датирован релиз God of War: Sons of Sparta для PlayStation 4",
   "https://www.film.ru/news/pattinson-v-favoritah-bondiany",
-  "title:Паттинсон в фаворитах бондианы"
+  "title:Паттинсон в фаворитах бондианы",
+  "skip:https://variety.com/2026/film/news/michael-mann-new-regency-heat-screenplay-lawsuit-1236947532/",
+  "skip:https://kg-portal.ru/comments/135776-roberta-pattinsona-s-bolshim-trudom-ugovorili-na-tri-filma-o-dzhejmse-bonde-oficialno-on-poluchit-rol-pod-rozhdestvo/",
+  "skip:https://www.kinonews.ru/news_144145/",
+  "https://www.film.ru/news/rekord-finalnoy-serii-kvesta-vizhna",
+  "title:Рекорд финальной серии Квеста Вижна"
 ]

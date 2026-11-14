@@ -1,12 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/201931/sluh-novaya-igra-avtorov-days-gone-iz-bend-studio-vyydet-uje-v-sleduyushchem-godu",
-  "skip:https://www.igromania.ru/news/169655/sleduyuschaya-igra-sozdatelej-days-gone-mozhet-byit-kooperativom-ot-tretego-litsa/",
-  "https://www.playground.ru/phantom_blade_zero/news/phantom_blade_zero_lider_sredi_odnopolzovatelskih_igr_po_onlajnu_v_steam_v_2026_godu-1886861#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Phantom Blade Zero - лидер среди однопользовательских игр по онлайну в Steam в 2026 году",
-  "https://www.playground.ru/tomb_raider_1996/news/crystal_dynamics_zavershila_mesyats_yubileya_tomb_raider_slovami_blagodarnosti_fanatam-1886858#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Crystal Dynamics завершила месяц юбилея Tomb Raider словами благодарности фанатам",
-  "skip:https://www.kinonews.ru/news_143934/",
-  "skip:https://www.film.ru/news/maykl-mann-vystrelil-sebe-v-nogu",
   "skip:https://www.kinonews.ru/news_143924/",
   "https://www.kinonews.ru/news_143930/",
   "title:Дэйв Батиста похвастался набранной массой для сериала \"Бог войны\"",
@@ -998,5 +990,13 @@
   "skip:https://www.pcgamer.com/games/grand-theft-auto/new-grand-theft-auto-6-trailer-is-for-a-tv-show-that-exists-within-grand-theft-auto-6/",
   "skip:https://stopgame.ru/newsdata/73503/henderson_ubisoft_vozrodit_podseriyu_rainbow_six_vegas",
   "https://www.playground.ru/forza_horizon_6/news/razrabotchiki_forza_horizon_6_raskryli_plany_po_razvitiyu_igry_na_blizhajshie_mesyatsy-1890531#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Разработчики Forza Horizon 6 раскрыли планы по развитию игры на ближайшие месяцы"
+  "title:Разработчики Forza Horizon 6 раскрыли планы по развитию игры на ближайшие месяцы",
+  "skip:https://deadline.com/2026/11/michael-mann-lawsuit-heat-rights-1237223655/",
+  "skip:https://variety.com/2026/film/news/michael-mann-new-regency-heat-screenplay-lawsuit-1236947532/",
+  "skip:https://www.film.ru/news/pattinson-v-favoritah-bondiany",
+  "skip:https://kg-portal.ru/comments/135777-dzhonni-depp-vernulsja-v-amerikanskie-kinoteatry-so-skazkoj-skrudzh-na-reklamu-filma-potratili-bolshe-chem-na-ego-proizvodstvo/",
+  "skip:https://kg-portal.ru/comments/135776-roberta-pattinsona-s-bolshim-trudom-ugovorili-na-tri-filma-o-dzhejmse-bonde-oficialno-on-poluchit-rol-pod-rozhdestvo/",
+  "skip:https://www.kinonews.ru/news_144146/",
+  "https://www.film.ru/news/rekord-finalnoy-serii-kvesta-vizhna",
+  "title:Рекорд финальной серии Квеста Вижна"
 ]

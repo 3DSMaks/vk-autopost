@@ -1,12 +1,4 @@
 [
-  "skip:https://www.interfax.ru/world/1128148",
-  "skip:https://www.rbc.ru/politics/10/11/2026/6af369f9069e041e6b1ac105",
-  "skip:https://ria.ru/20261110/kushner-2130749359.html",
-  "https://ria.ru/20261110/peregovory-2130756215.html",
-  "title:Участники трехсторонних переговоров по Украине в Абу-Даби подвели итоги первого дня",
-  "skip:https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
-  "https://ria.ru/20261110/britanija-2130757518.html",
-  "skip:https://news.google.com/rss/articles/CBMipAFBVV95cUxPWXNYczJNMzBQMmQ1Q19fN2ctTXRDRWRjSGx3c2ZrVGMzU2Vyek9kdVlTUnpMYnc0a3dsZGUxRGxhQnNvSTVXcmhlNkp5RG1xTk4yeXFvNTEzTmlPMzRrQkRBNC1yaGpTc0F4b2xURmx4SnBKTU9fT2xtcGY3NkdmSVpnQmJOemREUHlrTzZjeWxkX3NWTmxwVUVVZVhIQjB0RmZYMA?oc=5",
   "skip:https://ria.ru/20261110/zemmur-2130755669.html",
   "https://tass.ru/mezhdunarodnaya-panorama/28304373",
   "title:Лидер французской «Реконкисты» Эрик Земмур объявил об участии в президентских выборах",
@@ -998,5 +990,13 @@
   "skip:https://ria.ru/20261114/raketa-2131489233.html",
   "skip:https://tass.ru/kosmos/28317175",
   "https://ria.ru/20261114/roskosmos-2131494302.html",
-  "title:С космодрома Восточный впервые запустили ракету с частными спутниками на борту"
+  "title:С космодрома Восточный впервые запустили ракету с частными спутниками на борту",
+  "skip:https://www.interfax.ru/russia/1128992",
+  "skip:https://tass.ru/kosmos/28317595",
+  "https://www.kommersant.ru/doc/9109570",
+  "title:Запущенные с космодрома Восточный спутники «КОЭН» и «Киноспутник» выведены на орбиту",
+  "skip:https://tass.ru/proisshestviya/28317559",
+  "skip:https://ria.ru/20261114/evakuatsiya-2131511870.html",
+  "https://www.rbc.ru/rbcfreenews/6af80f82630e0ea0deef43dc",
+  "title:В штате Иллинойс объявили эвакуацию из-за угрозы взрыва на спиртзаводе"
 ]

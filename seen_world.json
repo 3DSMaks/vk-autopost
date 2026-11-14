@@ -1,15 +1,4 @@
 [
-  "https://www.rbc.ru/politics/11/11/2026/6af423c0ef12ef30934c619c",
-  "title:В Абу-Даби начался второй день трехсторонних переговоров по Украине",
-  "skip:https://www.rbc.ru/politics/11/11/2026/6af43008f7402bf8db523b19",
-  "skip:https://www.kommersant.ru/doc/9094436",
-  "skip:https://ria.ru/20261111/shilovka-2130832088.html",
-  "skip:https://ria.ru/20261111/voskresenka-2130831591.html",
-  "https://www.interfax.ru/russia/1128256",
-  "title:Минобороны РФ сообщило о взятии под контроль Шиловки в ДНР и Воскресенки в Запорожской области",
-  "skip:https://www.kommersant.ru/doc/9094506",
-  "skip:https://www.interfax.ru/russia/1128265",
-  "skip:https://www.kommersant.ru/doc/9094498",
   "skip:https://www.rbc.ru/politics/11/11/2026/6af435f14c555142422af398",
   "skip:https://www.kommersant.ru/doc/9094477",
   "skip:https://www.rbc.ru/politics/11/11/2026/6af432aed9ec4756827cfbe8",
@@ -998,5 +987,16 @@
   "title:Binance пообещала восстановить вывод средств во всех сетях к концу следующей недели",
   "skip:https://ria.ru/20261114/welt-2131532964.html",
   "https://tass.ru/ekonomika/28317751",
-  "title:Экономисты предупредили об угрозе масштабного бюджетного кризиса в Германии"
+  "title:Экономисты предупредили об угрозе масштабного бюджетного кризиса в Германии",
+  "skip:https://ria.ru/20261114/zelenskiy-2131540643.html",
+  "skip:https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+  "skip:https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership",
+  "https://www.rbc.ru/politics/14/11/2026/6af82ffcb653ce235592820d",
+  "title:Зеленский заявил о предложении США уступить Донбасс в обмен на членство Украины в НАТО",
+  "skip:https://ria.ru/20261114/darchiev-2131537552.html",
+  "skip:https://tass.ru/politika/28317811",
+  "skip:https://ria.ru/20261114/darchiev-2131534983.html",
+  "skip:https://ria.ru/20261114/darchiev-2131534848.html",
+  "skip:https://ria.ru/20261114/darchiev-2131534391.html",
+  "https://www.rbc.ru/photoslider/6af83e18c8a1bac0e8b2a06d"
 ]

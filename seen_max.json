@@ -1,7 +1,4 @@
 [
-  "skip:https://deadline.com/2026/11/newsom-ca-film-tv-tax-incentive-hike-1-billion-1237211227/",
-  "skip:https://variety.com/2026/film/news/gavin-newsom-california-movie-tv-tax-credit-billion-dollars-1236937395/",
-  "skip:https://deadline.com/2026/11/hollywood-music-in-media-awards-2026-nominations-1237209973/",
   "https://variety.com/2026/film/global/dominic-west-john-cleese-trudie-stylers-the-reception-1236937454/",
   "title:Dominic West, John Cleese, Portia de Rossi Join Jeff Daniels in Trudie Styler’s Comedy ‘The Reception’ (EXCLUSIVE)",
   "https://variety.com/2026/music/news/hunger-games-album-jennifer-lawrence-ella-langley-1236937594/",
@@ -998,5 +995,8 @@
   "skip:https://www.pcgamer.com/games/fps/a-survival-game-we-once-called-stalker-and-tarkovs-alien-baby-is-closing-down-less-than-a-year-after-launch/",
   "skip:https://www.igromania.ru/news/169927/shuter-pioner-zakryivaetsya-igra-tak-i-ne-vyishla-iz-rannego-dostupa/",
   "https://www.playground.ru/gta_6/news/v_gta_6_nelzya_budet_srazu_vzyatsya_za_krupnye_ogrableniya_rockstar_obyasnila_progressiyu_geroev-1890597#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:В GTA 6 нельзя будет сразу взяться за крупные ограбления - Rockstar объяснила прогрессию героев"
+  "title:В GTA 6 нельзя будет сразу взяться за крупные ограбления - Rockstar объяснила прогрессию героев",
+  "skip:https://kg-portal.ru/comments/135785-dzhejms-gann-oproverg-sluhi-o-potere-tvorcheskogo-kontrolja-nad-prodolzheniem-supermena-studija-dazhe-ne-uspela-posmotret-film/",
+  "https://www.film.ru/news/chelovek-pauk-vydvigaetsya-na-oskar",
+  "title:Человек-паук выдвигается на Оскар"
 ]

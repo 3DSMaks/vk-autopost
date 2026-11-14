@@ -1,8 +1,4 @@
 [
-  "https://www.playground.ru/until_dawn_2/news/rejting_until_dawn_2_v_singapure_raskryvaet_podrobnosti_zhestokih_stsen_smerti_i_syuzhetnye_detali-1887107#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Рейтинг Until Dawn 2 в Сингапуре раскрывает подробности жестоких сцен смерти и сюжетные детали",
-  "skip:https://www.film.ru/news/data-vtorogo-sezona-kak-priruchit-lisu",
-  "skip:https://www.film.ru/news/dzhek-lauden-o-potencialnom-bonde",
   "skip:https://www.film.ru/articles/derzhi-lico-recenziya-na-film-kleyfeys-bodi-horror-o-protivnike-betmena",
   "https://kg-portal.ru/comments/135621-chelovek-s-meshkom-trejler/",
   "title:Арнольд Шварценеггер и Алан Ричсон спасают Рождество в трейлере фильма \"Человек с мешком\"",
@@ -998,5 +994,9 @@
   "https://www.kinonews.ru/news_144149/",
   "title:Режиссер \"Хищника\" Дэн Трактенберг может снять сольный фильм о Росомахе",
   "https://deadline.com/2026/11/michael-mann-lawsuit-heat-rights-1237223655/",
-  "title:The ‘Heat’ Is On! Michael Mann & New Regency Clash In Ownership Battle Over Al Pacino & Robert De Niro 1995 Crime Classic"
+  "title:The ‘Heat’ Is On! Michael Mann & New Regency Clash In Ownership Battle Over Al Pacino & Robert De Niro 1995 Crime Classic",
+  "skip:https://www.playground.ru/gta_6/news/na_twitch_poyavilas_kampaniya_gta_6_s_nagradami_za_prosmotr_translyatsij_start_18_noyabrya_no_bonusov_dlya_igry_ne_budet-1890594#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169928/nominantov-the-game-awards-2026-nazovut-vecherom-17-noyabrya/",
+  "https://www.playground.ru/gta_6/news/gta_6_vpervye_v_istorii_serii_pozvolit_igrokam_proyavlyat_sochuvstvie_i_izbegat_bessmyslennyh_prestuplenij-1890598#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:GTA 6 впервые в истории серии позволит игрокам проявлять сочувствие и избегать бессмысленных преступлений"
 ]

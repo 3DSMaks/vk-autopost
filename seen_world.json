@@ -1,11 +1,4 @@
 [
-  "https://www.rbc.ru/rbcfreenews/6af4b17cba052cb755a71aa7",
-  "title:Президент Армении подписал закон о ратификации соглашения с США по проекту «Маршрут Трампа»",
-  "skip:https://www.rbc.ru/rbcfreenews/6af4b918ef2179323398cd0e",
-  "skip:https://www.kommersant.ru/doc/9095041",
-  "skip:https://ria.ru/20261111/darchiev-2130984344.html",
-  "skip:https://tass.ru/obschestvo/28308697",
-  "skip:https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66?traffic_source=rss",
   "https://ria.ru/20261111/mid-2130990621.html",
   "skip:https://www.interfax.ru/russia/1128429",
   "skip:https://tass.ru/proisshestviya/28308781",
@@ -998,5 +991,12 @@
   "skip:https://www.aljazeera.com/video/newsfeed/2026/11/14/us-blames-outdated-technology-for-nationwide-flight-disruption?traffic_source=rss",
   "skip:https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LdnRjdWlaM1Z6ZmVXZ3diTzZpS2ZqMFptZzE5YXFPZ21fQmhxajYwNVM4amEwNHpKV09JVThMbVF6aVg1TzR2WDF4eGNjRkNjNWZ0NnpoOWFOR0dlZUhtSVl2Tl8xdms?oc=5",
   "skip:https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss",
-  "https://www.interfax.ru/world/1129040"
+  "https://www.interfax.ru/world/1129040",
+  "skip:https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ25xZHF6NVM2ekhIVmRFejZfdVZ4MVRwMTQ1QjBFeFFQQkN2LTh6eHRVeDF2QzhxMmlzdFg2M1drVm9Sc0lCeWJBZDhwUjV1Vm91TzF4ZzgxczY4RlppNGc0WVJxU0t4dFV3OHIyNWJoREpaWGNweGVoY25XNzBzQWUxUk13RDJkSDZzZXVtVVRKU09admlYMmt0RGFyV3ljbHl3elp5TV9NMmo0ZEVMUENvQTFSTkh0ZHF6U2c2LVpWdE05YlJ4Xw?oc=5",
+  "https://www.interfax.ru/world/1129042",
+  "title:Космический корабль Starship готовится к испытательной посадке",
+  "skip:https://news.google.com/rss/articles/CBMingFBVV95cUxNMGI0LUs2ZHhTRmxJSTdMQzBKdV9FVkstVzBZRGh4RDN5WXI4Q2VYUXNWX19KemtyZlVHQmRHd20zM09GTjRFSGlyVk1wMW00bkRiWFVWRXR1ajlvek4zYjVPbC1aZXdMOGdNelc5TjZ4c2V4TzUxclZ5QTMxU05oeFp3b3FRZFItZTU3Y21JbWQ0aVdsb1hibGVIV3FhZw?oc=5",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28318307",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss",
+  "title:При взрыве автомобиля в пригороде Дамаска погибли два человека"
 ]

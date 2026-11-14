@@ -1,12 +1,4 @@
 [
-  "title:CDPR продолжает усиливаться - в команду The Witcher 4 перешёл ещё один специалист, работавший над Kingdom Come 2",
-  "skip:https://variety.com/2026/film/box-office/you-can-see-everything-clayface-battle-for-no-1-box-office-1236936664/",
-  "skip:https://deadline.com/2026/11/box-office-you-can-see-everything-clayface-halloween-1237209579/",
-  "skip:https://deadline.com/2026/11/michael-mann-injured-weapon-discharges-filmmaker-ok-1237210846/",
-  "https://variety.com/2026/film/news/michael-mann-shot-himself-gun-range-accident-1236936667/",
-  "title:Michael Mann Hospitalized After Accidentally Shooting Himself in the Leg at Los Angeles Gun Range",
-  "https://variety.com/2026/film/global/frank-miller-comic-book-movies-lucca-1236936369/",
-  "title:Frank Miller on Why He’s Relieved There Are Fewer Comic Book Adaptations Now: They Were ‘Really in Danger of Losing Their Souls’",
   "skip:https://gamemag.ru/news/201931/sluh-novaya-igra-avtorov-days-gone-iz-bend-studio-vyydet-uje-v-sleduyushchem-godu",
   "skip:https://www.igromania.ru/news/169655/sleduyuschaya-igra-sozdatelej-days-gone-mozhet-byit-kooperativom-ot-tretego-litsa/",
   "https://www.playground.ru/phantom_blade_zero/news/phantom_blade_zero_lider_sredi_odnopolzovatelskih_igr_po_onlajnu_v_steam_v_2026_godu-1886861#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +990,13 @@
   "title:‘Ebenezer’ Counts $1.5M In Previews On Thursday; Johnny Depp Pic Hopes For $40M WW Opening",
   "skip:https://www.film.ru/articles/vyshla-rasshirennaya-versiya-mstiteli-final-encore-vot-chto-dobavili-v-film",
   "https://www.kinonews.ru/news_144145/",
-  "title:Роберт Паттинсон стал главным претендентом на роль Джеймса Бонда"
+  "title:Роберт Паттинсон стал главным претендентом на роль Джеймса Бонда",
+  "skip:https://www.igromania.ru/news/169940/psychonauts-2-stala-psihonavtami-2-dlya-igryi-vyipustili-neofitsialnuyu-russkuyu-lokalizatsiyu/",
+  "skip:https://www.playground.ru/psychonauts_2/news/polnaya_russkaya_lokalizatsiya_psychonauts_2_dozhdalas_chasa_svoego_reliza-1890550#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://gamemag.ru/news/202132/marvels-spider-man-2-obzavelas-podderjkoy-quick-spectral-super-resolution-na-ps5",
+  "skip:https://www.ign.com/articles/rainbow-six-vegas-reportedly-returning-with-new-installment",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/new-grand-theft-auto-6-trailer-is-for-a-tv-show-that-exists-within-grand-theft-auto-6/",
+  "skip:https://stopgame.ru/newsdata/73503/henderson_ubisoft_vozrodit_podseriyu_rainbow_six_vegas",
+  "https://www.playground.ru/forza_horizon_6/news/razrabotchiki_forza_horizon_6_raskryli_plany_po_razvitiyu_igry_na_blizhajshie_mesyatsy-1890531#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Разработчики Forza Horizon 6 раскрыли планы по развитию игры на ближайшие месяцы"
 ]

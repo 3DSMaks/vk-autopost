@@ -273,5 +273,9 @@
   "https://www.playground.ru/blade_runner/news/vladeltsy_franshizy_beguschij_po_lezviyu_obsuzhdayut_sozdanie_aaa_igry_po_kultovoj_fantasticheskoj_vselennoj-1890518#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Владельцы франшизы \"Бегущий по лезвию\" обсуждают создание AAA-игры по культовой фантастической вселенной",
   "https://gamemag.ru/news/202121/doom-the-dark-ages-jdet-boynya-treyler-novogo-rejima-dlya-shutera-id-software",
-  "title:DOOM: The Dark Ages ждёт «Бойня»: Трейлер нового режима для шутера id Software"
+  "title:DOOM: The Dark Ages ждёт «Бойня»: Трейлер нового режима для шутера id Software",
+  "skip:https://www.igromania.ru/news/169937/potentsialnaya-problema-s-diskami-gta-6-zachem-gejmeryi-svetyat-fonarikom-na-korobki-s-igroj/",
+  "skip:https://www.ign.com/articles/some-of-these-gta-6-clips-look-so-good-that-i-dont-care-if-its-running-at-30-fps",
+  "https://www.playground.ru/gta_6/news/igroki_pytayutsya_obojti_ogranichenie_v_30_fps_v_gta_6_na_konsolyah_s_pomoschyu_programmy_veyra-1890616#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Игроки пытаются обойти ограничение в 30 FPS в GTA 6 на консолях с помощью программы Veyra"
 ]

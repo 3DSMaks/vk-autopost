@@ -1,9 +1,4 @@
 [
-  "https://www.playground.ru/witcher_3_wild_hunt/news/cdpr_obyasnila_dlya_chego_v_remaster_the_witcher_3_dobavili_optsii_dostupnosti_pozvolyayuschie_sdelat_prohozhdenie_komfortnee-1887404#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:CDPR объяснила, для чего в ремастер The Witcher 3 добавили опции доступности, позволяющие сделать прохождение комфортнее",
-  "https://www.kinonews.ru/news_143951/",
-  "title:Звезда \"Голодных игр\" Бен Ван может сыграть Айсберга в \"Людях Икс\"",
-  "skip:https://stopgame.ru/newsdata/73363/posle_vyhoda_control_resonant_vyruchka_remedy_podskochila_na_226",
   "skip:https://www.igromania.ru/news/169705/control-resonant-uluchshila-finansovyie-pokazateli-remedy-remejk-max-payne-1-and-2-v-aktivnom-proizvodstve/",
   "https://gamemag.ru/news/201954/control-resonant-remedy-revenue-leaps",
   "title:Remedy Entertainment вернулась к прибыльности благодаря Control Resonant",
@@ -998,5 +993,10 @@
   "title:Nickelodeon Kids’ Choice Awards: BTS, ‘Stranger Things’ & ‘KPop Demon Hunters’ Among Winners",
   "skip:https://www.film.ru/news/novyy-otryvok-iz-garri-pottera",
   "https://deadline.com/2026/11/hbo-surprise-harry-potter-clip-hogwarts-banquet-1237224436/",
-  "title:HBO Releases Surprise ‘Harry Potter’ Clip Of Hogwarts Banquet"
+  "title:HBO Releases Surprise ‘Harry Potter’ Clip Of Hogwarts Banquet",
+  "skip:https://www.pcgamer.com/games/strategy/chronicles-medieval-developer-declared-bankruptcy-on-the-day-it-announced-it-was-in-trouble-but-development-will-continue-after-a-usd5-million-reprieve-from-coffee-stain/",
+  "skip:https://www.igromania.ru/news/169952/serial-garri-potter-poluchil-rolik-s-pirom-v-hogvartse/",
+  "skip:https://www.ign.com/articles/league-of-legends-new-dawn-unveiled-with-debut-trailer-riot-announces-major-overhaul-coming-in-2027",
+  "https://www.playground.ru/dragons_dogma_2/news/dlya_dragons_dogma_2_vyshel_masshtabnyj_12_gigabajtnyj_mod_s_4k_teksturami_uluchshayuschij_okruzhenie_i_detalizatsiyu_mira-1890838#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Для Dragon's Dogma 2 вышел масштабный 12-гигабайтный мод с 4K-текстурами, улучшающий окружение и детализацию мира"
 ]

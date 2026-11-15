@@ -1,12 +1,4 @@
 [
-  "skip:https://www.rbc.ru/politics/12/11/2026/6af5ac3b1a7e32cb3dcd84e7",
-  "skip:https://www.interfax.ru/business/1128598",
-  "https://www.kommersant.ru/doc/9095620",
-  "title:Арбитражный суд Московской области признал обоснованным заявление Сбербанка о банкротстве ПАО «ЕвроТранс»",
-  "skip:https://tass.ru/politika/28311801",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28311839",
-  "skip:https://ria.ru/20261112/putin-2131142828.html",
-  "skip:https://ria.ru/20261112/putin-2131142591.html",
   "skip:https://tass.ru/politika/28311829",
   "skip:https://ria.ru/20261112/putin-2131141891.html",
   "skip:https://www.rbc.ru/rbcfreenews/6af5b60e01070f6cc172f71c",
@@ -998,5 +990,13 @@
   "skip:https://tass.ru/proisshestviya/28319117",
   "skip:https://ria.ru/20261115/kursk-2131667457.html",
   "https://www.interfax.ru/russia/1129112",
-  "title:Несколько человек пострадали при атаке беспилотников в Курске и области"
+  "title:Несколько человек пострадали при атаке беспилотников в Курске и области",
+  "skip:https://www.interfax.ru/russia/1129119",
+  "skip:https://tass.ru/proisshestviya/28319187",
+  "https://www.kommersant.ru/doc/9109869",
+  "title:Шесть человек пострадали при атаке беспилотников на промзону в Нижнекамске",
+  "skip:https://news.google.com/rss/articles/CBMisgFBVV95cUxOSW5qZzl5QmYwRkpOaUNfQlVXU1FOdEhVX0RUWEtsYjU5a3ZfWEJGS3R4MjVRYlVha3ZrcWpnQVV1SHQ0c09qY0V2U2RscnZUNjlaVjUwYW1GN2pfMjNHNE1LemRjUEZTSGlQY3JhcUNFTjhOYlNDZkVQTzFVbHZ1elgzX01md3BoRG0tam4zVEFha2tnUjU5TlllRmtrb09PMHFQVFZmNXNWSm9wTVRPYUFn?oc=5",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28319151",
+  "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+  "title:В Иордании приговорили к смертной казни троих обвиняемых в теракте в церкви"
 ]

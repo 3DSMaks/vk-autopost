@@ -1,13 +1,4 @@
 [
-  "skip:https://ria.ru/20261112/putin-2131136756.html",
-  "skip:https://www.rbc.ru/politics/12/11/2026/6af5b1235af4761bc9e4fbe8",
-  "skip:https://tass.ru/armiya-i-opk/28311735",
-  "skip:https://ria.ru/20261112/putin-2131136469.html",
-  "skip:https://ria.ru/20261112/putin-2131136326.html",
-  "skip:https://tass.ru/politika/28311731",
-  "skip:https://tass.ru/politika/28311729",
-  "skip:https://tass.ru/politika/28311727",
-  "skip:https://ria.ru/20261112/putin-2131136192.html",
   "skip:https://ria.ru/20261112/putin-2131136031.html",
   "skip:https://tass.ru/politika/28311723",
   "skip:https://www.kommersant.ru/doc/9095621",
@@ -998,5 +989,14 @@
   "skip:https://www.kommersant.ru/doc/9109913",
   "skip:https://www.aljazeera.com/sports/2026/11/15/kayla-%e2%81%a0%e2%81%a0harrison-defeats-amanda-nunes-to-retain-ufc-bantamweight-belt?traffic_source=rss",
   "https://ria.ru/20261115/gagauziya-2131696139.html",
-  "title:Француз Сириль Ган отстоял титул чемпиона UFC"
+  "title:Француз Сириль Ган отстоял титул чемпиона UFC",
+  "skip:https://www.interfax.ru/world/1129129",
+  "https://ria.ru/20261115/sily-2131701774.html",
+  "title:Силы ПВО Ирана перехватили беспилотник на западе страны",
+  "skip:https://www.kommersant.ru/doc/9109924",
+  "skip:https://ria.ru/20261115/gagauziya-2131701935.html",
+  "skip:https://ria.ru/20261115/gagauziya-2131700353.html",
+  "skip:https://ria.ru/20261115/gagauz-2131689722.html",
+  "https://tass.ru/mezhdunarodnaya-panorama/28319303",
+  "title:В Гагаузии прошли выборы главы региона и депутатов Народного собрания"
 ]

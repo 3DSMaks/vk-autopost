@@ -1,11 +1,4 @@
 [
-  "skip:https://ria.ru/20261112/putin-2131137787.html",
-  "skip:https://www.kommersant.ru/doc/9095630",
-  "skip:https://tass.ru/politika/28311749",
-  "skip:https://ria.ru/20261112/putin-2131137415.html",
-  "skip:https://www.rbc.ru/rbcfreenews/6af5af20740567e57189b6ed",
-  "skip:https://ria.ru/20261112/putin-2131136980.html",
-  "skip:https://ria.ru/20261112/putin-2131136860.html",
   "skip:https://ria.ru/20261112/putin-2131136756.html",
   "skip:https://www.rbc.ru/politics/12/11/2026/6af5b1235af4761bc9e4fbe8",
   "skip:https://tass.ru/armiya-i-opk/28311735",
@@ -998,5 +991,12 @@
   "title:ЕС анонсировал новые антироссийские санкции против банков и нефтеперевозок",
   "skip:https://ria.ru/20261115/kallas--2131692354.html",
   "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWEpyZzYwM3Y0YzMtU0h3LXZXb1RBQ00yS3lLZklVczJEOUVtcFU0MWYzRlNIMWxKN1RlMkZrSXZ3eFJkdjV4cTJuQVJBbVZob3JfYjdEbFotQ21iQzFQSHJYUE5VNUJDRDA0aV9OYy1qQTRVQ0EtOXJlSWQzWDV2VnpCRXdkQUpWSEhzUHVFWGstd2t4anhiMnZ4RHdVOHl4UjkxYjdWVmI0LTF3b2x1UTZJdGotUGU5bXkwVUF6N2IwY3g4S2lxbVNvM0kyZVBoTmR5YQ?oc=5",
-  "title:Три судна подверглись атаке дронов в Черном море близ Румынии"
+  "title:Три судна подверглись атаке дронов в Черном море близ Румынии",
+  "skip:https://www.interfax.ru/russia/1129127",
+  "https://www.rbc.ru/rbcfreenews/6af9b2e1783d9d339b477282",
+  "title:Инфраструктура хостинг-провайдера Beget подверглась масштабной DDoS-атаке",
+  "skip:https://www.kommersant.ru/doc/9109913",
+  "skip:https://www.aljazeera.com/sports/2026/11/15/kayla-%e2%81%a0%e2%81%a0harrison-defeats-amanda-nunes-to-retain-ufc-bantamweight-belt?traffic_source=rss",
+  "https://ria.ru/20261115/gagauziya-2131696139.html",
+  "title:Француз Сириль Ган отстоял титул чемпиона UFC"
 ]

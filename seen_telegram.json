@@ -1,7 +1,4 @@
 [
-  "skip:https://www.film.ru/news/depp-o-shestyh-piratah",
-  "https://www.kinonews.ru/news_143955/",
-  "title:Брайан Тайри Генри может стать Двуликим в \"Бэтмене 2\"",
   "skip:https://www.playground.ru/witcher_3_wild_hunt/news/cdpr_obyasnila_dlya_chego_v_remaster_the_witcher_3_dobavili_optsii_dostupnosti_pozvolyayuschie_sdelat_prohozhdenie_komfortnee-1887404#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.ign.com/articles/terminally-ill-gta-6-fan-dies-three-weeks-before-games-launch-fans-pay-their-respects",
   "https://www.playground.ru/gears_of_war_e_day/news/gears_of_war_poluchila_obnovlenie_pered_startom_prazdnovaniya_20_letiya_serii_ispravleny_bagi_i_problemy_so_stabilnostyu-1887412#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +995,8 @@
   "https://www.igromania.ru/news/169957/remejk-the-legend-of-zelda-majoras-mask-tochno-vyijdet-schitayut-byivshie-sotrudniki-nintendo/",
   "title:Ремейк The Legend of Zelda: Majoraʼs Mask точно выйдет, считают бывшие сотрудники Nintendo",
   "https://www.playground.ru/resident_evil_survivor/news/resident_evil_survivor_perenesli_s_ps1_na_pk_upravlenie_myshyu_podderzhka_shirokogo_ekrana_i_grafika_v_vysokom_razreshenii-1890903#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Resident Evil Survivor перенесли с PS1 на ПК: управление мышью, поддержка широкого экрана и графика в высоком разрешении"
+  "title:Resident Evil Survivor перенесли с PS1 на ПК: управление мышью, поддержка широкого экрана и графика в высоком разрешении",
+  "skip:https://www.film.ru/news/kogda-nachnutsya-semki-shvatki-2",
+  "https://www.film.ru/news/svetovoy-mech-darta-veydera-prodali",
+  "title:Световой меч Дарта Вейдера продали"
 ]

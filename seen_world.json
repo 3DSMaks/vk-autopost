@@ -1,15 +1,4 @@
 [
-  "skip:https://tass.ru/ekonomika/28312133",
-  "skip:https://www.rbc.ru/business/12/11/2026/6af5c425e76a205052e8e498",
-  "https://www.kommersant.ru/doc/9095701",
-  "title:Дженсен Хуанг ушел в отставку с поста генерального директора Nvidia",
-  "skip:https://tass.ru/ekonomika/28312205",
-  "skip:https://www.france24.com/en/asia-pacific/20261112-nvidia-ceo-jensen-huang-to-step-down-after-affair",
-  "skip:https://www.interfax.ru/business/1128643",
-  "skip:https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEFwN0FWdjB6blNtR0RZaTBWZXZDaWVwYkhXREttY2FaYVNNVC1qNEFHYm9Yd1pDODBDN2tvNzhnMTY4cmxWYTg1WVFidzFlNVFEdlZNb3IyZG1nS2FKcHAzUERhQW9EdG9oOER6YmwydXZOd0t1VHRub1BCdFdoR1V4dktlUVUydjZWeU53aVdKMGwtOGFtZmd2T3VhODF3eXhPazVtbV81b0hpUi1vcw?oc=5",
-  "skip:https://www.aljazeera.com/news/2026/11/12/ai-titan-jensen-huang-out-as-nvidia-ceo?traffic_source=rss",
-  "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSktocy1OY2dwRlRpZnRkZ3V0d2hRdmgxRzM2bzlRVW1wdVd6a05PTGRUeTZDY3lwVkN4RFBDQUFrcmVBWmdnOVpkSVNlaVluTndndG1aeE1RQnBHY2NDcWVyeWg0VHhNQlBqejBSeXp0T0RBaTlUQS1rZ19kWEp4THhJa1cxWXhkSUl2Nm1YRG1xbmNMeV95S0NJMzl6M3c?oc=5",
-  "title:Генеральный директор Nvidia Дженсен Хуанг ушел в отставку на фоне скандала",
   "skip:https://www.rbc.ru/rbcfreenews/6af5c2a1070c7d8eaa096883",
   "skip:https://ria.ru/20261112/peregovory-2131163952.html",
   "skip:https://tass.ru/politika/28312187",
@@ -998,5 +987,16 @@
   "skip:https://www.kommersant.ru/doc/9109934",
   "skip:https://news.google.com/rss/articles/CBMipAFBVV95cUxOR3hsQmM3QjN3aXVLQ0UzaF9LcVJMb2xHd0JsYXY5WTNtd2tZT1VFX3pydVprLTdiaktwelM0dlkyZldVR19yT3cwMlhGbk4wemc2ajU1NzBPd01PQi1zMkZFNVRKdnpUTE13X3RtYy04ZGduR00tb1NSMHFoWWFTeDdzT1RNd2FLZWtTYmNmbThmQ0FxdGxScWRYREJQRDUxN1FGSA?oc=5",
   "https://www.france24.com/en/video/20261115-canaries-urge-government-action-after-2-200-migrants-reach-the-islands-in-48h-1",
-  "title:На Канарские острова за два дня прибыли около 2,2 тыс. нелегальных мигрантов"
+  "title:На Канарские острова за два дня прибыли около 2,2 тыс. нелегальных мигрантов",
+  "skip:https://www.rbc.ru/politics/15/11/2026/6af9cebb288c43bfcc422092",
+  "skip:https://ria.ru/20261115/estoniya-2131709348.html",
+  "skip:https://www.rbc.ru/politics/15/11/2026/6af9c09757f4f7d7736e14a1",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28319411",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28319401",
+  "https://www.kommersant.ru/doc/9109982",
+  "title:Эстония объявила о планах полностью закрыть границу с Россией с 1 декабря",
+  "skip:https://tass.ru/proisshestviya/28319413",
+  "skip:https://ria.ru/20261115/sk-2131708618.html",
+  "https://www.rbc.ru/rbcfreenews/6af9cdb98ca78b70d168929d",
+  "title:СК возбудил уголовное дело после угрозы пассажира захватить самолет в Волгограде"
 ]

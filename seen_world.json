@@ -1,11 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9095095",
-  "title:Совет директоров Nvidia готовится отстранить генерального директора Дженсена Хуанга",
-  "skip:https://www.interfax.ru/world/1128505",
-  "https://www.rbc.ru/politics/12/11/2026/6af566cbc440ee8a9f27cfb4",
-  "title:В Казахстане задержаны главы госфонда «Самрук-Казына» и компании КТЖ",
-  "skip:https://tass.ru/proisshestviya/28310139",
-  "skip:https://ria.ru/20261112/majkop-2131052714.html",
   "skip:https://ria.ru/20261112/omsk-2131052224.html",
   "skip:https://ria.ru/20261112/donetsk-2131050222.html",
   "skip:https://tass.ru/proisshestviya/28310057",
@@ -998,5 +991,12 @@
   "https://www.rbc.ru/politics/15/11/2026/6af8fc0fe2d1daf1e27db6ab",
   "title:«Моссад» предупредил ЦРУ о планах Ирана совершить покушение на Трампа",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28318485",
-  "https://www.kommersant.ru/doc/9109725"
+  "https://www.kommersant.ru/doc/9109725",
+  "skip:https://tass.ru/obschestvo/28318549",
+  "skip:https://ria.ru/20261115/most-2131622819.html",
+  "https://www.rbc.ru/rbcfreenews/6af901e16c82f846196cd7ed",
+  "title:На Крымском мосту временно перекрыли движение транспорта",
+  "skip:https://www.kommersant.ru/doc/9109726",
+  "https://www.interfax.ru/world/1129059",
+  "title:Эмманюэль Макрон заявил о необходимости вступления Украины в НАТО"
 ]

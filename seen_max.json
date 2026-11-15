@@ -1,8 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169714/predzagruzka-gta-6-nachnyotsya10-noyabrya/",
-  "skip:https://www.playground.ru/elder_scrolls_6/news/the_elder_scrolls_6_ofitsialno_poluchila_podzagolovok_sentinel_bethesda_pokazala_logotip_igry-1887451#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169713/the-elder-scrolls-6-dejstvitelno-nosit-podzagolovok-sentinel/",
-  "https://www.playground.ru/hogwarts_legacy/news/hogwarts_legacy_poluchit_dlss_5_uzhe_5_noyabrya_nvidia_pokazala_uluchshennoe_osveschenie_i_materialy_v_novom_trejlere-1887460#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Hogwarts Legacy получит DLSS 5 уже 5 ноября - NVIDIA показала улучшенное освещение и материалы в новом трейлере",
   "skip:https://www.playground.ru/stronghold_4/news/stronghold_4_perenesli_na_aprel_2027_goda_radi_dopolnitelnogo_kontenta_i_dorabotki_igry-1887470#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.playground.ru/elder_scrolls_6/news/dzhejson_shrajer_soobschaet_chto_do_vyhoda_the_elder_scrolls_6_sentinel_eschyo_bolee_dvuh_let-1887469#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +994,9 @@
   "https://www.igromania.ru/news/169949/rainbow-six-siege-poluchila-trejleryi-sezona-operation-vital-signal-i-kollaboratsii-s-doom/",
   "title:Rainbow Six Siege получила трейлеры сезона Operation Vital Signal и коллаборации с DOOM",
   "https://www.film.ru/news/dzhon-hemm-sygraet-u-takasi-miike",
-  "title:Джон Хэмм сыграет у Такаси Миике"
+  "title:Джон Хэмм сыграет у Такаси Миике",
+  "skip:https://gamemag.ru/news/202165/motyga-sudby-netflix-pokazal-tizer-multseriala-mirohodec",
+  "skip:https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/",
+  "https://www.ign.com/articles/gta-6-leak-seemingly-reveals-full-track-list-days-before-launch",
+  "title:GTA 6 Leak Seemingly Reveals Official Album's Full Track List Days Before Launch"
 ]

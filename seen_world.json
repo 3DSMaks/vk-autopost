@@ -1,8 +1,4 @@
 [
-  "title:Совет директоров Nvidia обсуждает увольнение Дженсена Хуанга на фоне нового скандала",
-  "skip:https://www.kommersant.ru/doc/9095323",
-  "skip:https://www.rbc.ru/rbcfreenews/6af5746fe1865c62f9b53bbb",
-  "skip:https://www.interfax.ru/russia/1128519",
   "https://www.rbc.ru/politics/12/11/2026/6af55d438b84ac51605686a9",
   "title:В порту Усть-Луга локализовали пожар после атаки беспилотников",
   "skip:https://www.rbc.ru/rbcfreenews/6af5851e93c4d094b9832280",
@@ -998,5 +994,9 @@
   "skip:https://news.google.com/rss/articles/CBMirwFBVV95cUxPcDhtdGs0TVotWFJLMGVMMXVlLU9vZjdFTVAzU21kUThuSmdwWmNrckFkSGVTVTJKcHVCVzRHNzA0Ui1tQnlOME9pbWZkRTVuUmtzSUJwUzdwdmIzOUpfYlRKdzJFbWN2NUkzdXROUng0eGxiTnlraVJvNzR5SmJ3WkRuUTRlWVBNSnRDWE9mUDBoS0NHWVhNSUQyQ0JJUlZGRG5GTGR4X3JmNXktdVZz?oc=5",
   "skip:https://news.google.com/rss/articles/CBMisgFBVV95cUxOSWFjODE3SE95MjcyaDJrR2tkNFlTX3VjMWE0aEUxN21aQUotWDdsdWlTd3pCRDdGMHRmejk0Q1M2UzJUdXE3MkRTQnlNRU95QkJYMmk4UThqSHI3djNtdGxnRmlpeTRwelFyeEpZUVVMZG0taUQzREdMQzlFS25wT1dnUXg4QTVtVlY3Sk5KTHpUN1E0OHdkTU42ZGNWTkZkbEJ3bXo5TG5YLWtIakc2RWRB?oc=5",
   "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-  "title:Суд временно заблокировал планы Трампа по реконструкции поля для гольфа в Вашингтоне"
+  "title:Суд временно заблокировал планы Трампа по реконструкции поля для гольфа в Вашингтоне",
+  "skip:https://ria.ru/20261115/aeroport-2131627151.html",
+  "skip:https://www.interfax.ru/russia/1129062",
+  "https://ria.ru/20261115/aeroporty-2131627853.html",
+  "title:В российских аэропортах ввели новые временные ограничения на полеты"
 ]

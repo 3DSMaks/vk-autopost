@@ -1,9 +1,4 @@
 [
-  "https://variety.com/2026/film/global/pierce-brosnan-callum-turner-james-bond-1236938354/",
-  "title:Pierce Brosnan Approves of Callum Turner as James Bond: He’s ‘So Strong’ and I’m ‘Eager to See’ Who Becomes the Next 007",
-  "https://variety.com/2026/film/global/jason-statham-guy-ritchie-dogfight-netflix-action-film-1236938327/",
-  "title:Jason Statham and Guy Ritchie Reunite — Again — for Netflix Revenge Action Movie ‘Dogfight’",
-  "skip:https://www.playground.ru/gta_6/news/rockstar_raskryla_datu_predzagruzki_gta_6_i_trebovaniya_k_svobodnomu_mestu-1887459#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://gamemag.ru/news/201956/podojdem-eshche-8-let-todd-govard-oficialno-predstavil-the-elder-scrolls-vi-sentinel",
   "skip:https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-sentinel-is-finally-made-official/",
   "skip:https://www.igromania.ru/news/169714/predzagruzka-gta-6-nachnyotsya10-noyabrya/",
@@ -998,5 +993,10 @@
   "https://deadline.com/2026/11/danny-boyle-interview-ink-more-28-years-later-1237224197/",
   "title:Danny Boyle Talks ‘Ink’, The Common Architecture Of His Movies And More ‘28 Years Later’ As He Receives The Deadline Legend Award",
   "https://www.film.ru/news/svetovoy-mech-darta-veydera-prodali",
-  "title:Световой меч Дарта Вейдера продали"
+  "title:Световой меч Дарта Вейдера продали",
+  "skip:https://gamemag.ru/news/202161/novaya-zarya-riot-games-anonsirovala-proekt-league-of-legends-new-dawn",
+  "skip:https://www.igromania.ru/news/169950/masshtabnoe-obnovlenie-league-of-legends-novaya-zarya-poluchilo-epichnyij-pervyij-tizer/",
+  "skip:https://www.pcgamer.com/games/survival-crafting/former-survival-mmo-dune-awakening-can-now-be-played-without-requiring-an-internet-connection-at-any-point-as-its-much-requested-offline-mode-arrives/",
+  "https://www.igromania.ru/news/169949/rainbow-six-siege-poluchila-trejleryi-sezona-operation-vital-signal-i-kollaboratsii-s-doom/",
+  "title:Rainbow Six Siege получила трейлеры сезона Operation Vital Signal и коллаборации с DOOM"
 ]

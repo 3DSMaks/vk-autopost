@@ -1,13 +1,4 @@
 [
-  "skip:https://ria.ru/20261112/rossija-2131204065.html",
-  "skip:https://ria.ru/20261112/putin-2131203760.html",
-  "skip:https://www.rbc.ru/politics/12/11/2026/6af5ee005ee94876bfb016f1",
-  "skip:https://ria.ru/20261112/ushakov-2131203270.html",
-  "skip:https://ria.ru/20261112/finljandija-2131202903.html",
-  "skip:https://ria.ru/20261112/ushakov-2131202446.html",
-  "skip:https://www.rbc.ru/rbcfreenews/6af5ed5c2b90a9de3da80d70",
-  "skip:https://ria.ru/20261112/putin-2131201898.html",
-  "skip:https://ria.ru/20261112/ushakov-2131201734.html",
   "skip:https://www.france24.com/en/video/20261112-russia-s-vladimir-putin-suggests-no-ukraine-compromise-in-meeting-with-us-envoys",
   "skip:https://ria.ru/20261112/evropa-2131201398.html",
   "skip:https://ria.ru/20261112/ushakov-2131201220.html",
@@ -998,5 +989,14 @@
   "skip:https://news.google.com/rss/articles/CBMisgFBVV95cUxPMkxDRkFmbXRVd1h3dV84NTF3cDZadjRjYUtqUHpkWXlVVXIzX3lvVXI5Z25BUkR6c0lJLVJpZkQxSzhEWmNZS2RFX1pJZWxkOXMxcHUxVUZvdGZvZDR1SUtMOUNKM2g4RTdEaWJtaE4wX0RacU55SndhaEoxWG1VNGVybFpvMVdwelU2TzhxWHNxbTZYOFlIbGo1QkM4c3c2aVVFWmtudXFxYnhObkYyb05B?oc=5",
   "skip:https://www.sport-interfax.ru/1129158",
   "https://tass.ru/sport/28319605",
-  "title:Международная федерация хоккея подтвердила недопуск сборной России до молодежного чемпионата мира"
+  "title:Международная федерация хоккея подтвердила недопуск сборной России до молодежного чемпионата мира",
+  "skip:https://www.kommersant.ru/doc/9110028",
+  "skip:https://ria.ru/20261115/pvo-2131723086.html",
+  "skip:https://ria.ru/20261115/pvo-2131721912.html",
+  "https://www.interfax.ru/russia/1129160",
+  "title:Силы ПВО сбили около 60 беспилотников на подлете к Москве",
+  "skip:https://tass.ru/politika/28319633",
+  "skip:https://ria.ru/20261115/estoniya-2131727061.html",
+  "https://www.rbc.ru/politics/15/11/2026/6afa066f4e7f19f04f524949",
+  "title:МИД России проверит информацию о планах Эстонии закрыть границу"
 ]

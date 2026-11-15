@@ -1,14 +1,4 @@
 [
-  "skip:https://ria.ru/20261112/moskva-2131220130.html",
-  "skip:https://www.kommersant.ru/doc/9095936",
-  "skip:https://www.rbc.ru/rbcfreenews/6af606a0f7c3fa5278955509",
-  "skip:https://tass.ru/proisshestviya/28313313",
-  "https://www.kommersant.ru/doc/9095950",
-  "title:Силы ПВО отразили массированную атаку украинских беспилотников, летевших на Москву",
-  "skip:https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3otVnY4ZXphd1g5Q0REOVlqY3c1WXBMSmMtNThTbGlaRGVkVkZXZml1RHlEN3djZXRMT0pSTnJ6c3JiZ0tOdVRRekpJUlBfRV92ZEFEUU9GVU5XZHBYVmotRjFpcExuaER3S1BUaF90UWFaRnVBcFlHazgzOXBSWXJfN1RMSFNrcWY2TVRkQmVTYkNHUUhMeHAyM1huRXItSVhKZU95Q2wyTmg1MnlZcGduR01vdzFBcmpiVA?oc=5",
-  "skip:https://www.rbc.ru/business/12/11/2026/6af6142ae0b7ef777dac39ec",
-  "skip:https://news.google.com/rss/articles/CBMitAFBVV95cUxNVmE5NnFhVTJwdTM3SGR0LWZQaHhWTzRGQnhqel9JbWN0WmFlV2xwbGhhSFkwaXFKVnRBZTlObmNRSmxmV3ZaV0h4MEpxWnBfVTRfMjRnNHFDSHFlWlJBTzl1a1Bua3c0WHJucFF4RnFKSXRKZWttay1mRzE2b2pXZkRFa3JGdHZtT2M4ZEQ1NmV1VEVCdG1mTGpiQXZfb29IMy1INzlJbnpORDNEcndQSEtULUY?oc=5",
-  "skip:https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTDc4NU9Ycko1b01GTVdRT1lMVzJWaEhrLS1OSU92el9GTTRMSEhyTW5VbThOZEhoVGNCbHNBU19EZS1UUlNiTW0wVU41RUdBVkJpQlNRazBvaHJFQ2VnT2FJU183NE9ub1RKQU5wMFp6N1luX3lrMFZubFVIaHJ0TWhZRVkyUzhJVjBsaDRlMEpKNUFLeWtITVhLRVhqOERFMzh0azNJeVlqVzI0ZUowcnV4Z3VYMUdXcFY0?oc=5",
   "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05U3FyS01QSjEyaFdHdGhmbUpiai04UThQcEZhWnlmeGticEYxcmh1ZVFrZk5UbVBULWUxaGRrVTVzQ1B1d1RfUVByYnNkMi1idzVKNlNkV3pFVTA3?oc=5",
   "title:Генеральный директор Nvidia Дженсен Хуанг ушел в отставку на фоне сообщений о новых скандалах",
   "skip:https://ria.ru/20261112/ssha-2131229488.html",
@@ -998,5 +988,15 @@
   "skip:https://www.kommersant.ru/doc/9110045",
   "skip:https://www.interfax.ru/russia/1129166",
   "https://ria.ru/20261115/moskva-2131736410.html",
-  "title:Силы ПВО сбили еще несколько десятков беспилотников на подлете к Москве"
+  "title:Силы ПВО сбили еще несколько десятков беспилотников на подлете к Москве",
+  "skip:https://ria.ru/20261116/vybory-2131735886.html",
+  "skip:https://www.kommersant.ru/doc/9110050",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28319743",
+  "skip:https://ria.ru/20261115/gagauziya-2131735256.html",
+  "https://ria.ru/20261116/gagauziya-2131738073.html",
+  "title:На выборах главы Гагаузии лидируют Александр Стояногло и Федор Гагауз",
+  "skip:https://tass.ru/sport/28319707",
+  "skip:https://ria.ru/20261115/izrail-2131734613.html",
+  "https://tass.ru/sport/28319755",
+  "title:Международная федерация хоккея объяснила решение не допустить сборную России до молодежного чемпионата мира"
 ]

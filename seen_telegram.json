@@ -1,7 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73363/posle_vyhoda_control_resonant_vyruchka_remedy_podskochila_na_226",
-  "skip:https://www.igromania.ru/news/169705/control-resonant-uluchshila-finansovyie-pokazateli-remedy-remejk-max-payne-1-and-2-v-aktivnom-proizvodstve/",
-  "https://www.igromania.ru/news/169707/chyornaya-pyatnitsa-v-ps-store-nachnyotsya-zavtra-so-skidkami-na-silent-hill-townfall-i-rasshirennoe-izdanie-marvels-wolverine/",
   "title:«Чёрная пятница» в PS Store начнётся завтра со скидками на Silent Hill: Townfall и расширенное издание Marvelʼs Wolverine",
   "skip:https://kg-portal.ru/comments/135631-sokolinyj-glaz-budet-spasat-poterjannogo-v-okeane-tanosa-v-trillere-po-realnoj-istorii/",
   "skip:https://www.film.ru/news/depp-o-shestyh-piratah",
@@ -998,5 +995,8 @@
   "skip:https://gamemag.ru/news/202165/motyga-sudby-netflix-pokazal-tizer-multseriala-mirohodec",
   "skip:https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/",
   "https://www.playground.ru/minecraft/news/minecraft_poluchit_metatelnyj_disk_i_vtoruyu_ruku_v_bedrock_v_pervom_obnovlenii_2027_goda-1890882#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Minecraft получит метательный диск и вторую руку в Bedrock в первом обновлении 2027 года"
+  "title:Minecraft получит метательный диск и вторую руку в Bedrock в первом обновлении 2027 года",
+  "skip:https://www.playground.ru/gta_6/news/tom_henderson_raskryl_prodolzhitelnost_syuzheta_gta_6_okolo_50_chasov_pochti_100_missij_i_pyat_otdelnyh_glav-1890888#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "https://www.igromania.ru/news/169957/remejk-the-legend-of-zelda-majoras-mask-tochno-vyijdet-schitayut-byivshie-sotrudniki-nintendo/",
+  "title:Ремейк The Legend of Zelda: Majoraʼs Mask точно выйдет, считают бывшие сотрудники Nintendo"
 ]

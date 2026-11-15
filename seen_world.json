@@ -1,11 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1128600",
-  "skip:https://www.rbc.ru/rbcfreenews/6af5adec6d4770d07df51349",
-  "skip:https://www.rbc.ru/rbcfreenews/6af5ae75ce0682034bb312d1",
-  "skip:https://www.interfax.ru/russia/1128597",
-  "skip:https://www.kommersant.ru/doc/9095586",
-  "https://www.rbc.ru/rbcfreenews/6af5b839070c7d8eaa096835",
-  "skip:https://www.interfax.ru/world/1128607",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28311733",
   "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSzJwLS0tdmxjdGp1T3RFY29PR2JyaXRQVkVUREtlUkYzSWVfZ3ZwYlV0anNiTGc2VDlvQ2Y2UC1WZ1ZiTC1zOHJqYjRRcE9rVG0wSXpEUTZlN1E2Q0F3WmZsX1dDdG82NmtHYVpCNXJTTklFd05kMldLRGg0YktvX200bmZxSjJWZWVlUURielBYU0wtTTBRVjBKNEx4dWhrUjRndEQ2eHB0R2xvTmdZZQ?oc=5",
   "title:Дональд Трамп пригрозил Мексике удвоением пошлин из-за мигрантов",
@@ -998,5 +991,12 @@
   "skip:https://ria.ru/20261115/bespilotniki-2131703773.html",
   "skip:https://tass.ru/proisshestviya/28319357",
   "https://ria.ru/20261115/ataki-2131704878.html",
-  "title:Четыре человека пострадали при атаках беспилотников в Брянской области"
+  "title:Четыре человека пострадали при атаках беспилотников в Брянской области",
+  "skip:https://www.kommersant.ru/doc/9109950",
+  "skip:https://www.interfax.ru/world/1129131",
+  "https://www.interfax.ru/world/1129135",
+  "title:В Эстонии арестовали пять человек после попытки поджога оборонного предприятия",
+  "skip:https://www.interfax.ru/world/1129134",
+  "https://www.kommersant.ru/doc/9109964",
+  "title:Йеменские хуситы объявили об освобождении 600 военнопленных"
 ]

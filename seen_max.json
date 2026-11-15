@@ -1,8 +1,4 @@
 [
-  "skip:https://deadline.com/2026/11/british-independent-film-awards-elsinore-2026-1237211788/",
-  "skip:https://www.kinonews.ru/news_143957/",
-  "https://www.film.ru/news/treyler-tretego-persi-dzheksona",
-  "title:Трейлер третьего Перси Джексона",
   "skip:https://www.playground.ru/misc/news/majk_flanagan_raskryl_novye_detali_seriala_warhammer_40k_ot_amazon_my_nashli_neozhidannyj_sposob_vojti_vo_vselennuyu-1887364#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://gamemag.ru/news/201950/otpravlyaemsya-na-hadjin-microsoft-pokazala-novuyu-versiyu-call-of-duty-warzone",
   "title:Отправляемся в Хаджин: Microsoft показала новую версию Call of Duty: Warzone",
@@ -998,5 +994,9 @@
   "title:Chris Pratt Says He ‘Would Love’ James Gunn to Direct a Fourth ‘Guardians of the Galaxy’ Film After DC Exit",
   "skip:https://www.kinonews.ru/news_144160/",
   "https://kg-portal.ru/comments/135793-polina-guhman-ijurij-kolokolnikov-sygrajut-vskazke-rusalochka-urezhissera-spjaschej-krasavicy/",
-  "title:Полина Гухман и Юрий Колокольников сыграют в сказке \"Русалочка\" у режиссёра \"Спящей красавицы\""
+  "title:Полина Гухман и Юрий Колокольников сыграют в сказке \"Русалочка\" у режиссёра \"Спящей красавицы\"",
+  "skip:https://www.kinonews.ru/news_144162/",
+  "skip:https://kg-portal.ru/comments/135782-nominant-naoskar-jura-borisov-igraet-akteraneudachnika-vkomedii-kulik/",
+  "https://deadline.com/2026/11/amanda-seyfried-host-saturday-night-live-1237224388/",
+  "title:Amanda Seyfried To Host ‘Saturday Night Live’"
 ]

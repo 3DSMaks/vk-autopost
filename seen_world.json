@@ -1,12 +1,4 @@
 [
-  "title:Норвегия ввела запрет на въезд для российских и белорусских спортсменов",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28313663",
-  "skip:https://www.rbc.ru/politics/13/11/2026/6af6338382e454aa3a84cc90",
-  "skip:https://www.kommersant.ru/doc/9095976",
-  "https://www.kommersant.ru/doc/9095987",
-  "title:Спецпосланники США Стив Уиткофф и Джаред Кушнер встретились с Владимиром Зеленским в Дублине",
-  "skip:https://www.interfax.ru/russia/1128743",
-  "skip:https://www.interfax.ru/russia/1128739",
   "https://www.kommersant.ru/doc/9095995",
   "title:Силы ПВО за ночь сбили 47 беспилотников, летевших на Москву",
   "skip:https://www.kommersant.ru/doc/9095999",
@@ -998,5 +990,13 @@
   "skip:https://tass.ru/sport/28319779",
   "skip:https://www.sport-interfax.ru/1129168",
   "https://tass.ru/sport/28319799",
-  "title:Российская теннисистка Мирра Андреева выиграла Итоговый турнир WTA"
+  "title:Российская теннисистка Мирра Андреева выиграла Итоговый турнир WTA",
+  "skip:https://tass.ru/proisshestviya/28319849",
+  "https://ria.ru/20261116/moskva-2131743610.html",
+  "title:Силы ПВО сбили еще 15 беспилотников, летевших к Москве",
+  "skip:https://www.rbc.ru/sport/16/11/2026/6afa20ae57f4f7d7736e14de",
+  "skip:https://ria.ru/20261116/futbol-2131740354.html",
+  "skip:https://tass.ru/sport/28319763",
+  "https://www.sport-interfax.ru/1129175",
+  "title:Сборная Англии по футболу победила Испанию и прервала ее 43-матчевую беспроигрышную серию"
 ]

@@ -1,9 +1,4 @@
 [
-  "skip:https://www.film.ru/news/pikovyy-valet-i-netflix",
-  "https://kg-portal.ru/comments/135624-dzhonni-depp-gotov-vernutsja-k-roli-kapitana-dzheka-vorobja-chtoby-krasivo-zavershit-piratov-karibskogo-morja/",
-  "title:Джонни Депп готов вернуться к роли капитана Джека Воробья, чтобы красиво завершить \"Пиратов Карибского моря\"",
-  "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-global-release-times",
-  "https://www.playground.ru/cyberpunk_2077/news/shouranner_edgerunners_2_soobschil_chto_cdpr_ne_sobiraetsya_vybirat_odnu_kanonichnuyu_kontsovku_dlya_cyberpunk_2077-1887377#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Шоураннер Edgerunners 2 сообщил, что CDPR не собирается выбирать одну каноничную концовку для Cyberpunk 2077",
   "skip:https://www.igromania.ru/news/169706/byivshij-top-menedzher-xbox-helen-chang-oprovergla-sluhi-o-svoyom-uhode-iz-kompanii/",
   "skip:https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/stalo_izvestno_kogda_mozhno_budet_nachat_igrat_v_the_legend_of_zelda_ocarina_of_time_na_switch_2-1887382#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +993,10 @@
   "title:В Indiana Jones and the Great Circle могли добавить систему «звёзд» из серии GTA",
   "skip:https://www.pcgamer.com/games/strategy/chronicles-medieval-developer-declared-bankruptcy-on-the-day-it-announced-it-was-in-trouble-but-development-will-continue-after-a-usd5-million-reprieve-from-coffee-stain/",
   "https://www.playground.ru/call_of_duty_4_modern_warfare/news/zabytaya_vojna_mezhdu_cod_4_i_mw3_raskryty_detali_masshtabnogo_moda_call_of_duty_echoes-1890850#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Забытая война между CoD 4 и MW3: раскрыты детали масштабного мода Call of Duty: ECHOES"
+  "title:Забытая война между CoD 4 и MW3: раскрыты детали масштабного мода Call of Duty: ECHOES",
+  "skip:https://deadline.com/2026/11/hbo-surprise-harry-potter-clip-hogwarts-banquet-1237224436/",
+  "skip:https://www.film.ru/news/novyy-otryvok-iz-garri-pottera",
+  "skip:https://www.film.ru/news/sluh-marvel-tayno-snimaet-zheleznogo-cheloveka-4",
+  "https://kg-portal.ru/comments/135792-provalivshijsja-v-prokate-strit-fajter-vyjdet-na-cifrovyh-ploschadkah-v-pervyh-chislah-dekabrja/",
+  "title:Провалившийся в прокате \"Стрит Файтер\" выйдет на цифровых площадках в первых числах декабря"
 ]

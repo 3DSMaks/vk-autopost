@@ -1,8 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/201943/until-dawn-2-poluchila-vozrastnoy-reyting-v-singapure",
-  "https://gamemag.ru/news/201939/the-witcher-3-wild-hunts-expansion-pricing-was-about-providing-quality-at-a-good-value",
-  "video:2026-11-03:https://gamemag.ru/news/201939/the-witcher-3-wild-hunts-expansion-pricing-was-about-providing-quality-at-a-good-value",
-  "title:Новое дополнение для «Ведьмака 3» точно будет стоить своих денег — CD Projekt RED обещает не разочаровать",
   "skip:https://gamemag.ru/reviews/gears-of-war-e-day-xbox-review",
   "https://www.playground.ru/tom_clancys_the_division_2/news/avtory_the_division_2_raskryli_etapy_vnedreniya_krosspleya_mezhdu_pk_i_konsolyami-1887359#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Авторы The Division 2 раскрыли этапы внедрения кроссплея между ПК и консолями",
@@ -998,5 +994,9 @@
   "https://deadline.com/2026/11/alexander-skarsgard-wicker-interview-1237224217/",
   "title:‘Wicker’ Star Alexander Skarsgård Appreciated “Social Commentary” Of Feminist Romantasy Film Without It Being “Too Preachy” – Contenders L.A.",
   "https://www.film.ru/news/dzheyms-gann-ne-izmenit-cheloveka-zavtrashnego-dnya",
-  "title:Джеймс Ганн не изменит «Человека завтрашнего дня»"
+  "title:Джеймс Ганн не изменит «Человека завтрашнего дня»",
+  "skip:https://www.playground.ru/misc/news/dzhejms_gann_oproverg_sluhi_o_vmeshatelstve_skydance_v_rabotu_nad_filmom_chelovek_zavtrashnego_dnya-1890802#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169945/predzakazyi-gta-6-perevalili-za-otmetku-v-12-mln-kopij/",
+  "https://www.igromania.ru/news/169949/rainbow-six-siege-poluchila-trejleryi-sezona-operation-vital-signal-i-kollaboratsii-s-doom/",
+  "title:Rainbow Six Siege получила трейлеры сезона Operation Vital Signal и коллаборации с DOOM"
 ]

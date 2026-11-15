@@ -1,7 +1,4 @@
 [
-  "skip:https://www.film.ru/news/dzhek-lauden-o-potencialnom-bonde",
-  "https://variety.com/2026/film/awards/netflix-joel-coen-jack-of-spades-josh-oconnor-2027-1236936906/",
-  "title:Joel Coen’s ‘Jack of Spades,’ With Josh O’Connor and Patsy Ferran, Lands at Netflix for Fall 2027",
   "skip:https://www.igromania.ru/news/169696/polovoe-vozderzhanie-ili-otkaz-ot-pitomtsa-opros-pokazal-na-kakie-zhertvyi-gotovyi-gejmeryi-radi-gta-6/",
   "skip:https://www.igromania.ru/news/169694/xbox-ne-stoilo-davat-deneg-na-south-of-midnight-schitaet-tvorcheskij-direktor-igryi/",
   "skip:https://www.igromania.ru/news/169691/dzhejson-shrajer-obyasnil-igrovoj-byudzhet-500-mln-dollarov-na-fone-sporov-vokrug-gears-of-war-e-day/",
@@ -998,5 +995,8 @@
   "skip:https://kg-portal.ru/comments/135790-skrudzh-s-dzhonni-deppom-legko-raspravilsja-s-konkurentami-ekshenom-prizrachnyj-soldat-i-kriminalnym-trillerom-kak-ograbit-bank/",
   "skip:https://www.kinonews.ru/news_144157/",
   "https://variety.com/2026/film/news/chris-pratt-james-gunn-guardians-of-the-galaxy-4-dc-exit-1236947808/",
-  "title:Chris Pratt Says He ‘Would Love’ James Gunn to Direct a Fourth ‘Guardians of the Galaxy’ Film After DC Exit"
+  "title:Chris Pratt Says He ‘Would Love’ James Gunn to Direct a Fourth ‘Guardians of the Galaxy’ Film After DC Exit",
+  "skip:https://variety.com/2026/tv/news/skip-hinnant-dead-electric-company-fritz-the-cat-bakshi-1236947741/",
+  "https://www.kinonews.ru/news_144159/",
+  "title:Джеймс Ганн опроверг слухи о недовольстве новым фильмом о Супермене"
 ]

@@ -1,10 +1,4 @@
 [
-  "skip:https://tass.ru/ekonomika/28309025",
-  "skip:https://news.google.com/rss/articles/CBMivwFBVV95cUxPXy1fOVpHcXRPaFFyMFU2MWdFOGRRZXNHSFpoT2Nva18wc1FqNFN6SzVDU1BNRFZyYVNJVVFzMUN4MG5aZlRIeFBpUzVneVNQMVdkcEVoWTBXS2FQZkJtMFZHSkZhLWRYU2o1aUh4Ym1uUzFmYk56d2FRWVJuTDFpSE94QURFZmllME9IVk1ZWGxCbEpuRjB2bzN4VzhWREhCVzg0Nnc1UE5qX2NsT0Joenp1bm51UkFEdm5VRmQxcw?oc=5",
-  "https://ria.ru/20261112/nvidia-2131009714.html",
-  "title:Совет директоров Nvidia рассматривает вопрос об отстранении гендиректора Дженсена Хуанга",
-  "skip:https://www.kommersant.ru/doc/9095087",
-  "skip:https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ1RYYVlNcjVQeGNHTUREclhvOXJQaEtpd2N5UmU2em9ZSTRQdTFJTjZlTGVBQTlSUGJuanhhXzV1cXNoVFBYbDk1aHNWeGpPcl9Hd2ZCM0w2YW95T1c3dFJUX0Z2WVF5cEZRNVBWaXNTRF9nOElKbnFuN3g1R0lXdTViRXpQclFxR2dyR0hpVlIxSk81?oc=5",
   "https://www.kommersant.ru/doc/9095095",
   "title:Совет директоров Nvidia готовится отстранить генерального директора Дженсена Хуанга",
   "skip:https://www.interfax.ru/world/1128505",
@@ -998,5 +992,11 @@
   "title:Два танкера подорвались на минах в Ормузском проливе",
   "skip:https://tass.ru/politika/28318511",
   "https://www.rbc.ru/politics/15/11/2026/6af8f24357f4f7d7736e1444",
-  "title:Песков заявил, что европейские переговорщики пока не выходили на связь с Москвой"
+  "title:Песков заявил, что европейские переговорщики пока не выходили на связь с Москвой",
+  "skip:https://www.kommersant.ru/doc/9109728",
+  "skip:https://www.interfax.ru/world/1129057",
+  "https://www.rbc.ru/politics/15/11/2026/6af8fc0fe2d1daf1e27db6ab",
+  "title:«Моссад» предупредил ЦРУ о планах Ирана совершить покушение на Трампа",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28318485",
+  "https://www.kommersant.ru/doc/9109725"
 ]

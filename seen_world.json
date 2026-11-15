@@ -1,12 +1,4 @@
 [
-  "title:В Италии школы повторно эвакуировали из-за массовых угроз о минировании",
-  "skip:https://www.interfax.ru/world/1128577",
-  "https://www.rbc.ru/rbcfreenews/6af59c23f52ceecb6a7b20b1",
-  "title:Угроза взрыва во Франции привела к сбоям в движении поездов между Лондоном и Парижем",
-  "skip:https://ria.ru/20261112/parizh-2131106803.html",
-  "https://tass.ru/proisshestviya/28311497",
-  "title:В Париже совершено ограбление ювелирного магазина De Beers",
-  "skip:https://ria.ru/20261112/tambov-2131106675.html",
   "skip:https://ria.ru/20261112/kaluga-2131106502.html",
   "skip:https://tass.ru/ekonomika/28311519",
   "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
@@ -998,5 +990,13 @@
   "skip:https://tass.ru/politika/28319035",
   "skip:https://tass.ru/politika/28319037",
   "https://ria.ru/20261115/lavrov-2131666251.html",
-  "title:Сергей Лавров заявил, что переговорная линия России по Украине нацелена на достижение целей СВО"
+  "title:Сергей Лавров заявил, что переговорная линия России по Украине нацелена на достижение целей СВО",
+  "skip:https://www.france24.com/en/middle-east/20261115-iran-claims-attack-on-us-military-airbase-in-bahrain",
+  "skip:https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss",
+  "skip:https://www.interfax.ru/world/1129098",
+  "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
+  "title:Силы ПВО Бахрейна перехватили иранские беспилотники, атаковавшие военную базу",
+  "skip:https://www.rbc.ru/rbcfreenews/6af97d3a50aa0db81cd830b2",
+  "https://www.kommersant.ru/doc/9109844",
+  "title:Индия сформирует специальные подразделения коммандос на границе с Китаем"
 ]

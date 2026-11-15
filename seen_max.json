@@ -1,7 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169705/control-resonant-uluchshila-finansovyie-pokazateli-remedy-remejk-max-payne-1-and-2-v-aktivnom-proizvodstve/",
-  "https://gamemag.ru/news/201954/control-resonant-remedy-revenue-leaps",
-  "title:Remedy Entertainment вернулась к прибыльности благодаря Control Resonant",
   "skip:https://www.pcgamer.com/movies-tv/mike-flanagan-thinks-warhammer-is-a-fascinating-world-but-cant-tell-us-anything-else-about-the-upcoming-warhammer-40-000-project-because-henry-cavill-would-be-furious/",
   "https://stopgame.ru/newsdata/73366/franshiza_borderlands_preodolela_otmetku_v_100_mln_prodannyh_kopiy",
   "title:Франшиза Borderlands преодолела отметку в 100 млн проданных копий",
@@ -998,5 +995,8 @@
   "skip:https://www.igromania.ru/news/169952/serial-garri-potter-poluchil-rolik-s-pirom-v-hogvartse/",
   "skip:https://www.ign.com/articles/league-of-legends-new-dawn-unveiled-with-debut-trailer-riot-announces-major-overhaul-coming-in-2027",
   "https://www.playground.ru/dragons_dogma_2/news/dlya_dragons_dogma_2_vyshel_masshtabnyj_12_gigabajtnyj_mod_s_4k_teksturami_uluchshayuschij_okruzhenie_i_detalizatsiyu_mira-1890838#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Для Dragon's Dogma 2 вышел масштабный 12-гигабайтный мод с 4K-текстурами, улучшающий окружение и детализацию мира"
+  "title:Для Dragon's Dogma 2 вышел масштабный 12-гигабайтный мод с 4K-текстурами, улучшающий окружение и детализацию мира",
+  "skip:https://www.film.ru/news/sluh-marvel-tayno-snimaet-zheleznogo-cheloveka-4",
+  "https://kg-portal.ru/comments/135792-provalivshijsja-v-prokate-strit-fajter-vyjdet-na-cifrovyh-ploschadkah-v-pervyh-chislah-dekabrja/",
+  "title:Провалившийся в прокате \"Стрит Файтер\" выйдет на цифровых площадках в первых числах декабря"
 ]

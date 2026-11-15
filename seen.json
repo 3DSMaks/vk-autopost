@@ -1,10 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143917/",
-  "https://www.kinonews.ru/news_143918/",
-  "title:Кристофер Ллойд жалеет об одном невыполненном трюке в \"Назад в будущее 3\"",
-  "https://www.film.ru/articles/sobachi-zvezdy-serdce-zverya-i-eshche-5-filmov-kotorye-ponravyatsya-sobachnikam",
-  "title:«Собачьи звезды», «Сердце зверя» и еще 5 фильмов, которые понравятся собачникам",
-  "https://deadline.com/2026/10/milwaukee-brewers-weekend-update-after-world-series-1237210800/",
   "title:Milwaukee Brewers Make Surprise “Weekend Update” Appearance After World Series Win With Returning ‘SNL’ Alum Bobby Moynihan",
   "skip:https://www.film.ru/news/serial-o-garri-pottere-novye-aktery",
   "https://www.film.ru/news/dzheyms-gann-predstavit-novogo-betmena",
@@ -998,5 +992,11 @@
   "title:Полина Гухман и Юрий Колокольников сыграют в сказке \"Русалочка\" у режиссёра \"Спящей красавицы\"",
   "posted:2026-11-15T11:01:26+00:00",
   "https://www.film.ru/news/novyy-otryvok-iz-garri-pottera",
-  "title:Новый отрывок из «Гарри Поттера»"
+  "title:Новый отрывок из «Гарри Поттера»",
+  "posted:2026-11-15T12:32:23+00:00",
+  "skip:https://deadline.com/2026/11/hbo-surprise-harry-potter-clip-hogwarts-banquet-1237224436/",
+  "skip:https://www.film.ru/news/sluh-marvel-tayno-snimaet-zheleznogo-cheloveka-4",
+  "skip:https://www.kinonews.ru/news_144162/",
+  "https://variety.com/2026/film/global/woman-unknown-mathilde-arcel-venice-award-1236947990/",
+  "title:‘Woman Unknown’ Breakout Mathilde Arcel on Her Venice Award-Winning Performance and Life After Her Lido Triumph: ‘Everything Is Open’"
 ]

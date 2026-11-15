@@ -1,12 +1,4 @@
 [
-  "skip:https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-  "skip:https://tass.ru/ekonomika/28312197",
-  "skip:https://news.google.com/rss/articles/CBMifkFVX3lxTE9iVGpMRjc5bWtrOEVDaXVUSzVvcmVIcGJMTmh3dDN4Qnc0SHBIOGxmanVZa2dBZnNTZHpPTnBhV2V6X2o0cWlmVEQ5NE5WMEtTMHFDdmszc2ZZVHg0dlVXU1ZQS0U4YzlGcHlYOVFKbVJST1IwaFF4VjlDNzFtdw?oc=5",
-  "skip:https://ria.ru/20261112/nvidia-2131171301.html",
-  "https://www.rbc.ru/quote/12/11/2026/6af5c7872499a1388167c7f2",
-  "title:Генеральный директор Nvidia Дженсен Хуанг ушел в отставку, акции компании упали",
-  "skip:https://www.kommersant.ru/doc/9095753",
-  "skip:https://ria.ru/20261112/putin-2131176365.html",
   "skip:https://www.interfax.ru/russia/1128657",
   "skip:https://www.rbc.ru/politics/12/11/2026/6af5c0f81ecc864838c61242",
   "skip:https://tass.ru/politika/28312419",
@@ -998,5 +990,13 @@
   "skip:https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWotSHY0d2pGeVpPN3VPNk4wbzJ6a3VZSVBFSWRpdm0yRG1DZ1IyUlhfOVVzeWxmWjVzeWlEYnZ3TzIyWkY2ejNKOFRLY010dWdGSVJiYkhaUXl6OWRDcDMzRXRGaDl1UW1mN0kxRmY2eFRONHVZSk51cEhGVXNlX2IxSEUwQ2FOVGQ3d014TURKMlBlUWp3?oc=5",
   "skip:https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV0pRaS1YQ3ZuYW42YldaYWdvWTBoN19GMFBGaXJBbGtSLWNtc3ZRRGoydDRzM3EyV0pPNjhEODV5Q3dRSXVtaTNwVzlBa2huUGR1SHNBUER4Z2RQaFlORENfUkdRMHFvcVRCWngxUTJiTnVXZGVRQzc1Tm9SQjNIQk5YYkFHZFdHbUtwa3czQ1YxVTA3QWdMd1BYNHY0cVpqZ1c2LXc4ODNrWFpRbVhUX2RpUkV6NTdJWVFDeW9idW9xUQ?oc=5",
   "https://tass.ru/obschestvo/28319469",
-  "title:В Праге прошли массовые протесты против реформы финансирования общественных СМИ"
+  "title:В Праге прошли массовые протесты против реформы финансирования общественных СМИ",
+  "skip:https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
+  "skip:https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+  "skip:https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss",
+  "skip:https://ria.ru/20261115/praga-2131709739.html",
+  "https://www.kommersant.ru/doc/9110003",
+  "skip:https://news.google.com/rss/articles/CBMilwFBVV95cUxONDVUOVFiV056QUJfZWlDWjFEUUM4WGl2a3U1Y2JNYkcxUGdxdGdwX1VabUxUMEFhLXlXbllfRGd1SE9GTl9td3pZOTVoclpDR2RBMXVpNGxPOHNjYmc5ekhYdm4xZnZ6RmFKT1RrdDdYd3lJWXJvLWV6S25BX0lpcWo3ZC1qMEFMaFlaenNCY2pwck9NeHB3?oc=5",
+  "https://www.kommersant.ru/doc/9110004",
+  "title:SpaceX впервые вернула с орбиты корабль Starship манипуляторами стартовой башни"
 ]

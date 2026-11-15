@@ -1,8 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/zelda-ocarina-of-time-remake-foil-cover-preorders-sold-out-amazon",
-  "https://www.playground.ru/gears_of_war/news/ekranizatsiya_gears_of_war_postepenno_prodvigaetsya_avtory_zakonchili_rabotu_nad_stsenariem-1887383#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Экранизация Gears of War постепенно продвигается: авторы закончили работу над сценарием",
-  "skip:https://www.playground.ru/alyonkiny_istorii/news/alyonkiny_istorii_priznali_luchshej_igroj_na_kazhdyj_den_na_premii_rustore_2026-1887392#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://stopgame.ru/newsdata/73363/posle_vyhoda_control_resonant_vyruchka_remedy_podskochila_na_226",
   "skip:https://www.igromania.ru/news/169705/control-resonant-uluchshila-finansovyie-pokazateli-remedy-remejk-max-payne-1-and-2-v-aktivnom-proizvodstve/",
   "https://www.igromania.ru/news/169707/chyornaya-pyatnitsa-v-ps-store-nachnyotsya-zavtra-so-skidkami-na-silent-hill-townfall-i-rasshirennoe-izdanie-marvels-wolverine/",
@@ -998,5 +994,9 @@
   "https://www.playground.ru/gta_6/news/soglasno_insajderu_tomu_hendersonu_poluchenie_platiny_v_gta_6_zajmet_v_srednem_bolee_200_chasov-1890868#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Согласно инсайдеру Тому Хендерсону, получение платины в GTA 6 займет в среднем более 200 часов",
   "https://www.film.ru/news/dzhon-hemm-sygraet-u-takasi-miike",
-  "title:Джон Хэмм сыграет у Такаси Миике"
+  "title:Джон Хэмм сыграет у Такаси Миике",
+  "skip:https://gamemag.ru/news/202165/motyga-sudby-netflix-pokazal-tizer-multseriala-mirohodec",
+  "skip:https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/",
+  "https://www.playground.ru/minecraft/news/minecraft_poluchit_metatelnyj_disk_i_vtoruyu_ruku_v_bedrock_v_pervom_obnovlenii_2027_goda-1890882#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Minecraft получит метательный диск и вторую руку в Bedrock в первом обновлении 2027 года"
 ]

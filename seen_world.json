@@ -1,11 +1,4 @@
 [
-  "skip:https://www.france24.com/en/video/20261112-russia-s-vladimir-putin-suggests-no-ukraine-compromise-in-meeting-with-us-envoys",
-  "skip:https://ria.ru/20261112/evropa-2131201398.html",
-  "skip:https://ria.ru/20261112/ushakov-2131201220.html",
-  "skip:https://ria.ru/20261112/putin-2131208197.html",
-  "skip:https://www.interfax.ru/world/1128682",
-  "skip:https://www.interfax.ru/russia/1128681",
-  "skip:https://www.interfax.ru/world/1128679",
   "skip:https://www.rbc.ru/quote/12/11/2026/6af5e4f1c440ee8a9f27d06a",
   "https://www.rbc.ru/rbcfreenews/6af5f3d32b90a9de3da80d84",
   "title:Итоги визита спецпосланников США в Москву и планы по урегулированию на Украине",
@@ -998,5 +991,12 @@
   "skip:https://tass.ru/politika/28319633",
   "skip:https://ria.ru/20261115/estoniya-2131727061.html",
   "https://www.rbc.ru/politics/15/11/2026/6afa066f4e7f19f04f524949",
-  "title:МИД России проверит информацию о планах Эстонии закрыть границу"
+  "title:МИД России проверит информацию о планах Эстонии закрыть границу",
+  "skip:https://www.rbc.ru/rbcfreenews/6af9fdb6b18dd4bb640ed557",
+  "https://www.interfax.ru/world/1129161",
+  "skip:https://www.kommersant.ru/doc/9110040",
+  "skip:https://www.rbc.ru/business/15/11/2026/6afa072242b21c4491aa0fdc",
+  "skip:https://news.google.com/rss/articles/CBMiswFBVV95cUxOMjJiT3lpV1Ezamlva2NQWFNtWlB6VnRkdXhSOVBselpmQUk5Y2x0RGUyajctclFfY19VMW0wc1Z1VFBhZkdUM2QyUHE3ZC15MUUxVkk4VkJJM25jTFhlM2RaTkFZaGF0UXNUTlp3aFBfckxCaURVUWZMNVBIQ0hZU2FxWThpQldRUjM2RERqalRRNFhGaWJlZFkzWFZkRnFDRzBHamc3ZDZFLWtVdGFuZDEwUQ?oc=5",
+  "https://ria.ru/20261115/khuang-2131732255.html",
+  "title:СМИ сообщили о возможном возвращении Дженсена Хуанга на пост главы Nvidia"
 ]

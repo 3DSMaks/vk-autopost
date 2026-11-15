@@ -1,11 +1,4 @@
 [
-  "skip:https://tass.ru/politika/28311829",
-  "skip:https://ria.ru/20261112/putin-2131141891.html",
-  "skip:https://www.rbc.ru/rbcfreenews/6af5b60e01070f6cc172f71c",
-  "skip:https://www.interfax.ru/russia/1128610",
-  "skip:https://www.kommersant.ru/doc/9095634",
-  "skip:https://ria.ru/20261112/putin-2131141257.html",
-  "skip:https://ria.ru/20261112/putin-2131141150.html",
   "skip:https://tass.ru/politika/28311809",
   "skip:https://tass.ru/politika/28311805",
   "skip:https://tass.ru/obschestvo/28311799",
@@ -998,5 +991,12 @@
   "skip:https://news.google.com/rss/articles/CBMisgFBVV95cUxOSW5qZzl5QmYwRkpOaUNfQlVXU1FOdEhVX0RUWEtsYjU5a3ZfWEJGS3R4MjVRYlVha3ZrcWpnQVV1SHQ0c09qY0V2U2RscnZUNjlaVjUwYW1GN2pfMjNHNE1LemRjUEZTSGlQY3JhcUNFTjhOYlNDZkVQTzFVbHZ1elgzX01md3BoRG0tam4zVEFha2tnUjU5TlllRmtrb09PMHFQVFZmNXNWSm9wTVRPYUFn?oc=5",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28319151",
   "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
-  "title:В Иордании приговорили к смертной казни троих обвиняемых в теракте в церкви"
+  "title:В Иордании приговорили к смертной казни троих обвиняемых в теракте в церкви",
+  "skip:https://ria.ru/20261115/volgograd-2131679522.html",
+  "skip:https://tass.ru/proisshestviya/28319143",
+  "https://www.rbc.ru/rbcfreenews/6af989cc5ebc0a0ca1f3315e",
+  "title:В Волгограде арестовали пассажира, угрожавшего захватить самолет",
+  "skip:https://www.rbc.ru/politics/15/11/2026/6af975fd10835517270a8d6f",
+  "https://www.kommersant.ru/doc/9109882",
+  "title:Лавров назвал тупиковым условие Евросоюза об урегулировании на Украине"
 ]

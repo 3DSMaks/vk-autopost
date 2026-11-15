@@ -1,11 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28311733",
-  "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSzJwLS0tdmxjdGp1T3RFY29PR2JyaXRQVkVUREtlUkYzSWVfZ3ZwYlV0anNiTGc2VDlvQ2Y2UC1WZ1ZiTC1zOHJqYjRRcE9rVG0wSXpEUTZlN1E2Q0F3WmZsX1dDdG82NmtHYVpCNXJTTklFd05kMldLRGg0YktvX200bmZxSjJWZWVlUURielBYU0wtTTBRVjBKNEx4dWhrUjRndEQ2eHB0R2xvTmdZZQ?oc=5",
-  "title:Дональд Трамп пригрозил Мексике удвоением пошлин из-за мигрантов",
-  "skip:https://www.interfax.ru/world/1128637",
-  "https://tass.ru/ekonomika/28312157",
-  "title:Великобритания ввела санкции против СИБУРа и других российских компаний",
-  "skip:https://ria.ru/20261112/it-2131160681.html",
   "skip:https://tass.ru/ekonomika/28312133",
   "skip:https://www.rbc.ru/business/12/11/2026/6af5c425e76a205052e8e498",
   "https://www.kommersant.ru/doc/9095701",
@@ -998,5 +991,12 @@
   "title:В Эстонии арестовали пять человек после попытки поджога оборонного предприятия",
   "skip:https://www.interfax.ru/world/1129134",
   "https://www.kommersant.ru/doc/9109964",
-  "title:Йеменские хуситы объявили об освобождении 600 военнопленных"
+  "title:Йеменские хуситы объявили об освобождении 600 военнопленных",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28319371",
+  "https://www.kommersant.ru/doc/9109976",
+  "title:НАТО отменит запланированный саммит в Албании в 2027 году",
+  "skip:https://www.kommersant.ru/doc/9109934",
+  "skip:https://news.google.com/rss/articles/CBMipAFBVV95cUxOR3hsQmM3QjN3aXVLQ0UzaF9LcVJMb2xHd0JsYXY5WTNtd2tZT1VFX3pydVprLTdiaktwelM0dlkyZldVR19yT3cwMlhGbk4wemc2ajU1NzBPd01PQi1zMkZFNVRKdnpUTE13X3RtYy04ZGduR00tb1NSMHFoWWFTeDdzT1RNd2FLZWtTYmNmbThmQ0FxdGxScWRYREJQRDUxN1FGSA?oc=5",
+  "https://www.france24.com/en/video/20261115-canaries-urge-government-action-after-2-200-migrants-reach-the-islands-in-48h-1",
+  "title:На Канарские острова за два дня прибыли около 2,2 тыс. нелегальных мигрантов"
 ]

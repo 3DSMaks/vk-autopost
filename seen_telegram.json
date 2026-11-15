@@ -1,7 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169696/polovoe-vozderzhanie-ili-otkaz-ot-pitomtsa-opros-pokazal-na-kakie-zhertvyi-gotovyi-gejmeryi-radi-gta-6/",
-  "skip:https://www.igromania.ru/news/169694/xbox-ne-stoilo-davat-deneg-na-south-of-midnight-schitaet-tvorcheskij-direktor-igryi/",
-  "skip:https://www.igromania.ru/news/169691/dzhejson-shrajer-obyasnil-igrovoj-byudzhet-500-mln-dollarov-na-fone-sporov-vokrug-gears-of-war-e-day/",
   "skip:https://www.ign.com/articles/a-concerning-amount-of-gta-fans-would-give-up-their-pets-to-play-gta-6-early",
   "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-added-fast-travel-before-devs-decided-it-never-needed-it-in-the-first-place",
   "skip:https://gamemag.ru/news/201949/south-of-midnight-creative-director-says-he-would-not-have-funded-the-game-if-he-were-xbox",
@@ -998,5 +995,8 @@
   "title:Chris Pratt Says He ‘Would Love’ James Gunn to Direct a Fourth ‘Guardians of the Galaxy’ Film After DC Exit",
   "skip:https://variety.com/2026/tv/news/skip-hinnant-dead-electric-company-fritz-the-cat-bakshi-1236947741/",
   "https://www.kinonews.ru/news_144159/",
-  "title:Джеймс Ганн опроверг слухи о недовольстве новым фильмом о Супермене"
+  "title:Джеймс Ганн опроверг слухи о недовольстве новым фильмом о Супермене",
+  "skip:https://www.kinonews.ru/news_144160/",
+  "https://kg-portal.ru/comments/135793-polina-guhman-ijurij-kolokolnikov-sygrajut-vskazke-rusalochka-urezhissera-spjaschej-krasavicy/",
+  "title:Полина Гухман и Юрий Колокольников сыграют в сказке \"Русалочка\" у режиссёра \"Спящей красавицы\""
 ]

@@ -1,15 +1,4 @@
 [
-  "skip:https://www.rbc.ru/politics/12/11/2026/6af572b00b703b00c791129d",
-  "https://tass.ru/mezhdunarodnaya-panorama/28310717",
-  "title:Владимир Зеленский заявил о сбоях в работе системы Starshield на Украине",
-  "skip:https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-  "skip:https://news.google.com/rss/articles/CBMiowFBVV95cUxNU3ZJQlhjSko5MDVzS25JNzdQaWprR1pORklBMUI1Qlg0T3Zkc2J1eV8yUTE1S2RMdHlLcjdDbXNrNERFdDNtYTFleFlkNHZyeXBfQ25lcS05S29hd3YtT3ZWMXE2eUs2RXpuZXV2Z01OcklJeXdKT2FzR1dqZVRHRE9Ncl9QUzVSTkVod1V6RnFjMWNIcFBkWXBWU0FWWTM3TGJj?oc=5",
-  "https://www.interfax.ru/world/1128558",
-  "title:Удар Израиля по больнице в секторе Газа привел к гибели людей",
-  "skip:https://www.interfax.ru/world/1128550",
-  "https://www.kommersant.ru/doc/9095397",
-  "title:Евросоюз планирует ввести новые санкции против России 16 ноября",
-  "skip:https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
   "skip:https://ria.ru/20261112/peregovory-2131085782.html",
   "skip:https://www.interfax.ru/russia/1128564",
   "skip:https://ria.ru/20261112/dmitriev-2131085056.html",
@@ -998,5 +987,16 @@
   "skip:https://www.interfax.ru/world/1129093",
   "skip:https://www.kommersant.ru/doc/9109777",
   "https://tass.ru/mezhdunarodnaya-panorama/28318957",
-  "title:Корпус стражей исламской революции Ирана атаковал американскую РЛС в Бахрейне"
+  "title:Корпус стражей исламской революции Ирана атаковал американскую РЛС в Бахрейне",
+  "skip:https://tass.ru/obschestvo/28318999",
+  "skip:https://www.kommersant.ru/doc/9109799",
+  "skip:https://tass.ru/proisshestviya/28318987",
+  "skip:https://www.interfax.ru/russia/1129088",
+  "https://www.interfax.ru/russia/1129097",
+  "title:В Таганроге введен локальный режим ЧС после атаки беспилотников",
+  "skip:https://www.kommersant.ru/doc/9109784",
+  "skip:https://www.interfax.ru/russia/1129090",
+  "skip:https://ria.ru/20261115/bespilotniki-2131651795.html",
+  "https://www.rbc.ru/rbcfreenews/6af9561bacb2a01a5c8b4262",
+  "title:Три человека пострадали при атаке беспилотников на Татарстан"
 ]

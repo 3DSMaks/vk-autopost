@@ -1,7 +1,4 @@
 [
-  "title:Авторы The Division 2 раскрыли этапы внедрения кроссплея между ПК и консолями",
-  "skip:https://kg-portal.ru/comments/135627-ne-v-pervyj-raz-netflix-stanet-kinoprokatchikom-sovmestnogo-filma-bratev-koenov/",
-  "skip:https://www.film.ru/news/treyler-cheloveka-s-meshkom",
   "skip:https://www.film.ru/news/pikovyy-valet-i-netflix",
   "https://kg-portal.ru/comments/135624-dzhonni-depp-gotov-vernutsja-k-roli-kapitana-dzheka-vorobja-chtoby-krasivo-zavershit-piratov-karibskogo-morja/",
   "title:Джонни Депп готов вернуться к роли капитана Джека Воробья, чтобы красиво завершить \"Пиратов Карибского моря\"",
@@ -998,5 +995,8 @@
   "https://www.igromania.ru/news/169949/rainbow-six-siege-poluchila-trejleryi-sezona-operation-vital-signal-i-kollaboratsii-s-doom/",
   "title:Rainbow Six Siege получила трейлеры сезона Operation Vital Signal и коллаборации с DOOM",
   "https://www.igromania.ru/news/169953/v-indiana-jones-and-the-great-circle-mogli-dobavit-sistemu-zvyozd-iz-serii-gta/",
-  "title:В Indiana Jones and the Great Circle могли добавить систему «звёзд» из серии GTA"
+  "title:В Indiana Jones and the Great Circle могли добавить систему «звёзд» из серии GTA",
+  "skip:https://www.pcgamer.com/games/strategy/chronicles-medieval-developer-declared-bankruptcy-on-the-day-it-announced-it-was-in-trouble-but-development-will-continue-after-a-usd5-million-reprieve-from-coffee-stain/",
+  "https://www.playground.ru/call_of_duty_4_modern_warfare/news/zabytaya_vojna_mezhdu_cod_4_i_mw3_raskryty_detali_masshtabnogo_moda_call_of_duty_echoes-1890850#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Забытая война между CoD 4 и MW3: раскрыты детали масштабного мода Call of Duty: ECHOES"
 ]

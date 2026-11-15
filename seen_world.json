@@ -1,13 +1,4 @@
 [
-  "skip:https://ria.ru/20261112/ushakov-2131052465.html",
-  "https://ria.ru/20261112/peregovory-2131060526.html",
-  "title:Владимир Путин проводит переговоры со спецпосланниками США Стивом Уиткоффом и Джаредом Кушнером в Москве",
-  "skip:https://www.interfax.ru/russia/1128521",
-  "skip:https://ria.ru/20261112/sud-2131053950.html",
-  "https://www.rbc.ru/rbcfreenews/6af57897e1865c62f9b53bd1",
-  "title:Верховный суд России признал украинскую организацию «Желтая лента» экстремистской",
-  "skip:https://news.google.com/rss/articles/CBMisAFBVV95cUxQc2RQOV84TlcyTFFmRzdkcjdsLUFVcGZSdGZRRjJkZk1mdEZNNW5pa25vYmsxVVRaNG81bzlEdzQ2MmM3RUhCRkhzYmxHazNHRUJhT09tT3p2OGYtaE1wb3ZNcWptc05uTy03NVRvVkVta3JrNkk2NXRCejNhNThieU1EZXVJSDlHZGNVNDZIYUg0RTJkRlhUSzF4QnR3OXczR1V1UzRrZHRUYmZMU0UzVg?oc=5",
-  "https://www.rbc.ru/business/12/11/2026/6af572dace0682034bb311a8",
   "title:Совет директоров Nvidia обсуждает увольнение Дженсена Хуанга на фоне нового скандала",
   "skip:https://www.kommersant.ru/doc/9095323",
   "skip:https://www.rbc.ru/rbcfreenews/6af5746fe1865c62f9b53bbb",
@@ -998,5 +989,14 @@
   "skip:https://www.interfax.ru/world/1129058",
   "skip:https://news.google.com/rss/articles/CBMivwFBVV95cUxPYUhZd1pxN2d0N3pmR2RCbjhCQk9teURKLThfYzR0bC1rVWJpVGUwNkpJelBNeVNLY3hxS1B0c0p2bTk5VmhCeFVGUWpHSFVNdHFKZjcydUdYNDEyMThuQ3hTRmFNSTQ0Z05ZSWRSd1A3QnM3eTRjWkNJbkN2Z2E5M1FQaUdrdUtaYzVNcWtVMC1LOU1yUkpoUk82d0ZQejM5cDR3YXVqcE5xMlJkTVU2dGduMDdsUWp2UG5ERFZUZw?oc=5",
   "https://www.rbc.ru/politics/15/11/2026/6af90894ca9d0c69e2e2187b",
-  "title:Армия Израиля нанесла удар по командиру бригады ХАМАС в секторе Газа"
+  "title:Армия Израиля нанесла удар по командиру бригады ХАМАС в секторе Газа",
+  "skip:https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
+  "skip:https://news.google.com/rss/articles/CBMizAFBVV95cUxOemlqVE1TdmREQ0t3TjczWnBWVGZ3TkxTc0ZPVC1fZFlrUDJCZC1KV0liZGdUTHBXZEZpWG9SNkJJSlBYSjVPbE1aUnNtWHl2eE1FbzlURGRwckdIT3R2NG9rVm1oX1V0VEZoWmYxM1dSbmhNc1BidnFLX19YRVU3Q2tzR1F5Vk1QX3dDNXVCeXZ6bmVES0lZNTBlR3E0Z1hJcXFyYXpMam80TGRWbURod1NsUXBwZldjdHFVejFwaWtmVmo3ZWYzYW5QMzk?oc=5",
+  "skip:https://ria.ru/20261115/aravija-2131625655.html",
+  "https://ria.ru/20261115/araviya-2131631300.html",
+  "title:Арабская коалиция перехватила ракеты и беспилотники хуситов над Эр-Риядом",
+  "skip:https://news.google.com/rss/articles/CBMirwFBVV95cUxPcDhtdGs0TVotWFJLMGVMMXVlLU9vZjdFTVAzU21kUThuSmdwWmNrckFkSGVTVTJKcHVCVzRHNzA0Ui1tQnlOME9pbWZkRTVuUmtzSUJwUzdwdmIzOUpfYlRKdzJFbWN2NUkzdXROUng0eGxiTnlraVJvNzR5SmJ3WkRuUTRlWVBNSnRDWE9mUDBoS0NHWVhNSUQyQ0JJUlZGRG5GTGR4X3JmNXktdVZz?oc=5",
+  "skip:https://news.google.com/rss/articles/CBMisgFBVV95cUxOSWFjODE3SE95MjcyaDJrR2tkNFlTX3VjMWE0aEUxN21aQUotWDdsdWlTd3pCRDdGMHRmejk0Q1M2UzJUdXE3MkRTQnlNRU95QkJYMmk4UThqSHI3djNtdGxnRmlpeTRwelFyeEpZUVVMZG0taUQzREdMQzlFS25wT1dnUXg4QTVtVlY3Sk5KTHpUN1E0OHdkTU42ZGNWTkZkbEJ3bXo5TG5YLWtIakc2RWRB?oc=5",
+  "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+  "title:Суд временно заблокировал планы Трампа по реконструкции поля для гольфа в Вашингтоне"
 ]

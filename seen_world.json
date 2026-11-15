@@ -1,11 +1,4 @@
 [
-  "skip:https://ria.ru/20261112/peregovory-2131085782.html",
-  "skip:https://www.interfax.ru/russia/1128564",
-  "skip:https://ria.ru/20261112/dmitriev-2131085056.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28310953",
-  "https://www.kommersant.ru/doc/9095442",
-  "title:Спецпосланники США Стив Уиткофф и Джаред Кушнер прибыли в Кремль для переговоров с Владимиром Путиным",
-  "skip:https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTjdYZlNPMU1SU1ZhVjBMUHNnaEdIaFNCcWtQTmdiTHE1RVZRdG1BbUVBQkhib2diNDFyeFh2QXBnYTI3Zk9pVHdaWEpldUQydy1IM3NjZ1lwMVVNajFCZDUyamFuVE5aVXVYX0FhYVh3bnlDa0FPTWpFZm9CNTNyclVCLVVWWDNYWUx3NmZwNmVxSnY4ckNqM3U0VlFEbmhrVERHeU9udWVEM2s1cm1zbFpjYjJybU9tNHlDN0FXajdkZVNUQ1ZEWTZ6ZWQ5N0xaWUE?oc=5",
   "skip:https://www.france24.com/en/europe/20261112-new-systematic-restrictions-starshield-network-kill-more-ukrainians-zelensky-says",
   "https://ria.ru/20261112/zelenskij-2131087658.html",
   "title:Владимир Зеленский заявил о сбоях в работе системы спутниковой связи Starshield на Украине",
@@ -998,5 +991,12 @@
   "skip:https://www.interfax.ru/russia/1129090",
   "skip:https://ria.ru/20261115/bespilotniki-2131651795.html",
   "https://www.rbc.ru/rbcfreenews/6af9561bacb2a01a5c8b4262",
-  "title:Три человека пострадали при атаке беспилотников на Татарстан"
+  "title:Три человека пострадали при атаке беспилотников на Татарстан",
+  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss",
+  "https://ria.ru/20261115/mvd-2131657150.html",
+  "title:Массовые протесты против роста цен прошли в Португалии и Франции",
+  "skip:https://www.rbc.ru/politics/15/11/2026/6af95ed942b21c4491aa0f69",
+  "skip:https://www.kommersant.ru/doc/9109811",
+  "https://ria.ru/20261115/bayden-2131653629.html",
+  "title:Джо Байден выпустил мемуары с критикой Владимира Зеленского"
 ]

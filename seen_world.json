@@ -1,14 +1,4 @@
 [
-  "https://www.rbc.ru/politics/12/11/2026/6af55d438b84ac51605686a9",
-  "title:В порту Усть-Луга локализовали пожар после атаки беспилотников",
-  "skip:https://www.rbc.ru/rbcfreenews/6af5851e93c4d094b9832280",
-  "skip:https://www.kommersant.ru/doc/9095381",
-  "skip:https://tass.ru/politika/28310645",
-  "skip:https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
-  "skip:https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss",
-  "https://tass.ru/mezhdunarodnaya-panorama/28310733",
-  "title:Спецпосланники США Стив Уиткофф и Джаред Кушнер прибыли в Москву для переговоров с Владимиром Путиным",
-  "skip:https://www.france24.com/en/europe/20261112-live-us-envoys-to-meet-putin-and-zelensky-after-abu-dhabi-talks",
   "skip:https://www.rbc.ru/politics/12/11/2026/6af572b00b703b00c791129d",
   "https://tass.ru/mezhdunarodnaya-panorama/28310717",
   "title:Владимир Зеленский заявил о сбоях в работе системы Starshield на Украине",
@@ -998,5 +988,15 @@
   "skip:https://ria.ru/20261115/aeroport-2131627151.html",
   "skip:https://www.interfax.ru/russia/1129062",
   "https://ria.ru/20261115/aeroporty-2131627853.html",
-  "title:В российских аэропортах ввели новые временные ограничения на полеты"
+  "title:В российских аэропортах ввели новые временные ограничения на полеты",
+  "skip:https://www.rbc.ru/rbcfreenews/6af9601d938cd0f57ef524a9",
+  "skip:https://www.interfax.ru/russia/1129087",
+  "skip:https://ria.ru/20261115/ranenie-2131649635.html",
+  "skip:https://tass.ru/proisshestviya/28318859",
+  "https://www.kommersant.ru/doc/9109794",
+  "title:Число пострадавших при атаке БПЛА на Ростовскую область увеличилось до пяти",
+  "skip:https://www.interfax.ru/world/1129093",
+  "skip:https://www.kommersant.ru/doc/9109777",
+  "https://tass.ru/mezhdunarodnaya-panorama/28318957",
+  "title:Корпус стражей исламской революции Ирана атаковал американскую РЛС в Бахрейне"
 ]

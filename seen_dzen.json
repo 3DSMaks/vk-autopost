@@ -285,5 +285,9 @@
   "https://www.playground.ru/dark_souls/news/sovokupnye_prodazhi_serii_dark_souls_dostigli_41_8_milliona_kopij-1890691#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Совокупные продажи серии Dark Souls достигли 41,8 миллиона копий",
   "https://gamemag.ru/news/202148/the-game-awards-2026-nominees-to-be-revealed-on-17th-november",
-  "title:Номинантов The Game Awards 2026 назовут 17 ноября — Джефф Кейли готовит самое масштабное шоу в истории премии"
+  "title:Номинантов The Game Awards 2026 назовут 17 ноября — Джефф Кейли готовит самое масштабное шоу в истории премии",
+  "skip:https://www.ign.com/articles/gta-6-leak-seemingly-reveals-full-track-list-days-before-launch",
+  "skip:https://www.igromania.ru/news/169942/v-seti-pokazali-trek-list-gta-vi-the-album-trevis-skott-dzhenni-dua-lipa-rina-savayama-i-drugie/",
+  "https://www.playground.ru/gta_6/news/v_set_utek_polnyj_spisok_pesen_iz_saundtreka_gta_6_za_neskolko_dnej_do_reliza-1890762#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:В сеть утек полный список песен из саундтрека GTA 6 за несколько дней до релиза"
 ]

@@ -1,14 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1128657",
-  "skip:https://www.rbc.ru/politics/12/11/2026/6af5c0f81ecc864838c61242",
-  "skip:https://tass.ru/politika/28312419",
-  "skip:https://www.rbc.ru/politics/12/11/2026/6af5c89b6d4770d07df513a0",
-  "skip:https://ria.ru/20261112/ssha-2131169825.html",
-  "https://www.kommersant.ru/doc/9095731",
-  "title:Переговоры Владимира Путина со спецпосланниками США Стивом Уиткоффом и Джаредом Кушнером завершились в Москве",
-  "skip:https://www.interfax.ru/russia/1128664",
-  "skip:https://ria.ru/20261112/moskva-2131183208.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28312519",
   "skip:https://ria.ru/20261112/kortezh-2131181551.html",
   "https://ria.ru/20261112/dmitriev-2131184798.html",
   "title:Спецпосланники США Стив Уиткофф и Джаред Кушнер покинули Москву после переговоров",
@@ -998,5 +988,15 @@
   "https://www.kommersant.ru/doc/9110003",
   "skip:https://news.google.com/rss/articles/CBMilwFBVV95cUxONDVUOVFiV056QUJfZWlDWjFEUUM4WGl2a3U1Y2JNYkcxUGdxdGdwX1VabUxUMEFhLXlXbllfRGd1SE9GTl9td3pZOTVoclpDR2RBMXVpNGxPOHNjYmc5ekhYdm4xZnZ6RmFKT1RrdDdYd3lJWXJvLWV6S25BX0lpcWo3ZC1qMEFMaFlaenNCY2pwck9NeHB3?oc=5",
   "https://www.kommersant.ru/doc/9110004",
-  "title:SpaceX впервые вернула с орбиты корабль Starship манипуляторами стартовой башни"
+  "title:SpaceX впервые вернула с орбиты корабль Starship манипуляторами стартовой башни",
+  "skip:https://ria.ru/20261115/pvo-2131718537.html",
+  "skip:https://tass.ru/armiya-i-opk/28319511",
+  "https://www.interfax.ru/russia/1129152",
+  "title:Минобороны РФ заявило о перехвате 230 беспилотников за сутки",
+  "skip:https://www.interfax.ru/moscow/1129150",
+  "skip:https://www.rbc.ru/rbcfreenews/6af9e72db18dd4bb640ed540",
+  "skip:https://ria.ru/20261115/pvo-2131718226.html",
+  "skip:https://tass.ru/proisshestviya/28319503",
+  "https://www.kommersant.ru/doc/9110010",
+  "title:Силы ПВО сбили четыре беспилотника на подлете к Москве"
 ]

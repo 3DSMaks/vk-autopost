@@ -1,7 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-global-release-times",
-  "skip:https://gamemag.ru/reviews/gears-of-war-e-day-xbox-review",
-  "skip:https://www.ign.com/articles/call-of-duty-warzone-is-adding-a-weather-system-this-week",
   "https://www.playground.ru/witcher_3_wild_hunt/news/cdpr_obyasnila_dlya_chego_v_remaster_the_witcher_3_dobavili_optsii_dostupnosti_pozvolyayuschie_sdelat_prohozhdenie_komfortnee-1887404#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:CDPR объяснила, для чего в ремастер The Witcher 3 добавили опции доступности, позволяющие сделать прохождение комфортнее",
   "https://www.kinonews.ru/news_143951/",
@@ -998,5 +995,8 @@
   "skip:https://www.film.ru/news/dzheyms-gann-ne-izmenit-cheloveka-zavtrashnego-dnya",
   "skip:https://deadline.com/2026/11/chris-pratt-would-love-james-gunn-another-guardians-galaxy-1237224237/",
   "https://deadline.com/2026/11/nickelodeon-kids-choice-awards-winners-1237223740/",
-  "title:Nickelodeon Kids’ Choice Awards: BTS, ‘Stranger Things’ & ‘KPop Demon Hunters’ Among Winners"
+  "title:Nickelodeon Kids’ Choice Awards: BTS, ‘Stranger Things’ & ‘KPop Demon Hunters’ Among Winners",
+  "skip:https://www.film.ru/news/novyy-otryvok-iz-garri-pottera",
+  "https://deadline.com/2026/11/hbo-surprise-harry-potter-clip-hogwarts-banquet-1237224436/",
+  "title:HBO Releases Surprise ‘Harry Potter’ Clip Of Hogwarts Banquet"
 ]

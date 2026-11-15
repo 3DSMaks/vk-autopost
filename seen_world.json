@@ -1,15 +1,4 @@
 [
-  "skip:https://ria.ru/20261112/putin-2131225280.html",
-  "skip:https://ria.ru/20261112/putin-2131225164.html",
-  "skip:https://ria.ru/20261112/putin-2131224797.html",
-  "skip:https://tass.ru/politika/28313343",
-  "skip:https://www.rbc.ru/politics/12/11/2026/6af5dce101070f6cc172f74d",
-  "https://tass.ru/politika/28313413",
-  "title:Владимир Путин провел совещание с Совбезом по итогам переговоров с представителями США в Абу-Диби",
-  "skip:https://ria.ru/20261112/bespilotniki-2131224235.html",
-  "skip:https://ria.ru/20261112/bespilotniki-2131222246.html",
-  "skip:https://ria.ru/20261112/bespilotniki-2131221401.html",
-  "skip:https://www.interfax.ru/moscow/1128712",
   "skip:https://ria.ru/20261112/moskva-2131220130.html",
   "skip:https://www.kommersant.ru/doc/9095936",
   "skip:https://www.rbc.ru/rbcfreenews/6af606a0f7c3fa5278955509",
@@ -998,5 +987,16 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28319627",
   "skip:https://news.google.com/rss/articles/CBMimAFBVV95cUxQaVlzWjFtblBHOU9keDYzSkExSzFVWUFwNDlIR01OYmFYakhQUTBUYnBPN0ZNcV9ORWhXNnBvVnUxZzJHU04tYjZ5VmR6ZTkxQl9HZ3cxWUJndmtIWUU3TVh6VHJoRTVVZlJJXzhmdTBncjVGTmlQVUh3WEVCS3lxQS1xcFktWVVVZm0wM1VHQmdWUk84TTVTbg?oc=5",
   "https://www.interfax.ru/world/1129165",
-  "title:В Гагаузии завершилось голосование на выборах главы автономии"
+  "title:В Гагаузии завершилось голосование на выборах главы автономии",
+  "skip:https://www.interfax.ru/russia/1129163",
+  "skip:https://tass.ru/sport/28319661",
+  "skip:https://tass.ru/sport/28319643",
+  "skip:https://ria.ru/20261115/degtyar-2131731665.html",
+  "skip:https://tass.ru/sport/28319629",
+  "https://www.kommersant.ru/doc/9110044",
+  "title:Олимпийский комитет России обратится в МОК из-за недопуска сборной до молодежного чемпионата мира",
+  "skip:https://www.kommersant.ru/doc/9110045",
+  "skip:https://www.interfax.ru/russia/1129166",
+  "https://ria.ru/20261115/moskva-2131736410.html",
+  "title:Силы ПВО сбили еще несколько десятков беспилотников на подлете к Москве"
 ]

@@ -1,7 +1,4 @@
 [
-  "title:Hogwarts Legacy получит DLSS 5 уже 5 ноября - NVIDIA показала улучшенное освещение и материалы в новом трейлере",
-  "skip:https://www.playground.ru/stronghold_4/news/stronghold_4_perenesli_na_aprel_2027_goda_radi_dopolnitelnogo_kontenta_i_dorabotki_igry-1887470#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.playground.ru/elder_scrolls_6/news/dzhejson_shrajer_soobschaet_chto_do_vyhoda_the_elder_scrolls_6_sentinel_eschyo_bolee_dvuh_let-1887469#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169715/rannij-dostup-stronghold-4-perenesli-na-20-aprelya/",
   "skip:https://stopgame.ru/newsdata/73370/teper_oficialno_the_elder_scrolls_vi_nosit_podzagolovok_sentinel",
   "https://stopgame.ru/newsdata/73369/predzagruzka_grand_theft_auto_vi_startuet_10_noyabrya",
@@ -998,5 +995,8 @@
   "skip:https://gamemag.ru/news/202165/motyga-sudby-netflix-pokazal-tizer-multseriala-mirohodec",
   "skip:https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/",
   "https://www.ign.com/articles/gta-6-leak-seemingly-reveals-full-track-list-days-before-launch",
-  "title:GTA 6 Leak Seemingly Reveals Official Album's Full Track List Days Before Launch"
+  "title:GTA 6 Leak Seemingly Reveals Official Album's Full Track List Days Before Launch",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/",
+  "https://www.igromania.ru/news/169951/treyarch-otprazdnovala-30-letie-prazdnichnyim-rolikom/",
+  "title:Treyarch отпраздновала 30-летие праздничным роликом"
 ]

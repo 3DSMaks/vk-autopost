@@ -1,8 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143950/",
-  "https://kg-portal.ru/comments/135628-gena-shapokljak-ushastik-iego-semja-nanovom-postere-filma-cheburashka-3/",
-  "title:Гена, Шапокляк, Ушастик и его семья на новом постере фильма \"Чебурашка 3\"",
-  "skip:https://www.playground.ru/alyonkiny_istorii/news/alyonkiny_istorii_priznali_luchshej_igroj_na_kazhdyj_den_na_premii_rustore_2026-1887392#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-global-release-times",
   "skip:https://gamemag.ru/reviews/gears-of-war-e-day-xbox-review",
   "skip:https://www.ign.com/articles/call-of-duty-warzone-is-adding-a-weather-system-this-week",
@@ -998,5 +994,9 @@
   "skip:https://gamemag.ru/news/202148/the-game-awards-2026-nominees-to-be-revealed-on-17th-november",
   "skip:https://www.ign.com/articles/gta-6-will-do-something-the-franchise-has-never-done-before-encourage-empathy",
   "https://www.igromania.ru/news/169953/v-indiana-jones-and-the-great-circle-mogli-dobavit-sistemu-zvyozd-iz-serii-gta/",
-  "title:В Indiana Jones and the Great Circle могли добавить систему «звёзд» из серии GTA"
+  "title:В Indiana Jones and the Great Circle могли добавить систему «звёзд» из серии GTA",
+  "skip:https://www.film.ru/news/dzheyms-gann-ne-izmenit-cheloveka-zavtrashnego-dnya",
+  "skip:https://deadline.com/2026/11/chris-pratt-would-love-james-gunn-another-guardians-galaxy-1237224237/",
+  "https://deadline.com/2026/11/nickelodeon-kids-choice-awards-winners-1237223740/",
+  "title:Nickelodeon Kids’ Choice Awards: BTS, ‘Stranger Things’ & ‘KPop Demon Hunters’ Among Winners"
 ]

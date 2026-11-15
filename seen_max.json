@@ -1,8 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169715/rannij-dostup-stronghold-4-perenesli-na-20-aprelya/",
-  "skip:https://stopgame.ru/newsdata/73370/teper_oficialno_the_elder_scrolls_vi_nosit_podzagolovok_sentinel",
-  "https://stopgame.ru/newsdata/73369/predzagruzka_grand_theft_auto_vi_startuet_10_noyabrya",
-  "title:Предзагрузка Grand Theft Auto VI стартует 10 ноября",
   "skip:https://www.ign.com/articles/gta-6-preload-times-and-install-size-confirmed-rockstar-announces-physical-cover-art-poster-and-map-of-leonida",
   "https://www.ign.com/articles/the-elder-scrolls-6-sentinel-name-logo-officially-revealed-as-bethesda-marks-40th-anniversary",
   "title:The Elder Scrolls 6: Sentinel Name, Logo, Officially Revealed as Bethesda Marks 40th Anniversary",
@@ -998,5 +994,9 @@
   "title:GTA 6 Leak Seemingly Reveals Official Album's Full Track List Days Before Launch",
   "skip:https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/",
   "https://www.igromania.ru/news/169951/treyarch-otprazdnovala-30-letie-prazdnichnyim-rolikom/",
-  "title:Treyarch отпраздновала 30-летие праздничным роликом"
+  "title:Treyarch отпраздновала 30-летие праздничным роликом",
+  "skip:https://variety.com/2026/film/box-office/ebenezer-box-office-johnny-depp-opening-weekend-how-to-rob-a-bank-1236948055/",
+  "skip:https://www.kinonews.ru/news_144166/",
+  "https://www.film.ru/news/kogda-nachnutsya-semki-shvatki-2",
+  "title:Когда начнутся съемки «Схватки 2»"
 ]

@@ -1,11 +1,4 @@
 [
-  "skip:https://ria.ru/20261112/putin-2131136031.html",
-  "skip:https://tass.ru/politika/28311723",
-  "skip:https://www.kommersant.ru/doc/9095621",
-  "skip:https://www.rbc.ru/politics/12/11/2026/6af5b14a1ecc864838c611ce",
-  "skip:https://ria.ru/20261112/putin-2131135298.html",
-  "skip:https://ria.ru/20261112/putin-2131135070.html",
-  "skip:https://ria.ru/20261112/kushner-2131130587.html",
   "skip:https://www.interfax.ru/russia/1128600",
   "skip:https://www.rbc.ru/rbcfreenews/6af5adec6d4770d07df51349",
   "skip:https://www.rbc.ru/rbcfreenews/6af5ae75ce0682034bb312d1",
@@ -998,5 +991,12 @@
   "skip:https://ria.ru/20261115/gagauziya-2131700353.html",
   "skip:https://ria.ru/20261115/gagauz-2131689722.html",
   "https://tass.ru/mezhdunarodnaya-panorama/28319303",
-  "title:В Гагаузии прошли выборы главы региона и депутатов Народного собрания"
+  "title:В Гагаузии прошли выборы главы региона и депутатов Народного собрания",
+  "skip:https://tass.ru/proisshestviya/28319333",
+  "https://ria.ru/20261115/indoneziya-2131704493.html",
+  "title:Мощный ураган в Индонезии повредил сотни зданий",
+  "skip:https://ria.ru/20261115/bespilotniki-2131703773.html",
+  "skip:https://tass.ru/proisshestviya/28319357",
+  "https://ria.ru/20261115/ataki-2131704878.html",
+  "title:Четыре человека пострадали при атаках беспилотников в Брянской области"
 ]

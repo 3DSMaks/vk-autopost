@@ -1,6 +1,4 @@
 [
-  "skip:https://www.playground.ru/witcher_3_wild_hunt/news/cdpr_obyasnila_dlya_chego_v_remaster_the_witcher_3_dobavili_optsii_dostupnosti_pozvolyayuschie_sdelat_prohozhdenie_komfortnee-1887404#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.ign.com/articles/terminally-ill-gta-6-fan-dies-three-weeks-before-games-launch-fans-pay-their-respects",
   "https://www.playground.ru/gears_of_war_e_day/news/gears_of_war_poluchila_obnovlenie_pered_startom_prazdnovaniya_20_letiya_serii_ispravleny_bagi_i_problemy_so_stabilnostyu-1887412#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Gears of War получила обновление перед стартом празднования 20-летия серии - исправлены баги и проблемы со стабильностью",
   "https://gamemag.ru/news/201954/control-resonant-remedy-revenue-leaps",
@@ -998,5 +996,7 @@
   "title:Resident Evil Survivor перенесли с PS1 на ПК: управление мышью, поддержка широкого экрана и графика в высоком разрешении",
   "skip:https://www.film.ru/news/kogda-nachnutsya-semki-shvatki-2",
   "https://www.film.ru/news/svetovoy-mech-darta-veydera-prodali",
-  "title:Световой меч Дарта Вейдера продали"
+  "title:Световой меч Дарта Вейдера продали",
+  "https://www.kinonews.ru/news_144166/",
+  "title:Джонни Депп вернулся в большой прокат и вывел \"Скруджа\" на первое место"
 ]

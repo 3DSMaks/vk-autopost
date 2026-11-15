@@ -1,15 +1,4 @@
 [
-  "skip:https://ria.ru/20261112/omsk-2131052224.html",
-  "skip:https://ria.ru/20261112/donetsk-2131050222.html",
-  "skip:https://tass.ru/proisshestviya/28310057",
-  "https://www.kommersant.ru/doc/9095233",
-  "title:ФСБ сообщила о задержании агентов украинских спецслужб в нескольких регионах России",
-  "skip:https://www.rbc.ru/politics/12/11/2026/6af5766737afb644006b1f58",
-  "skip:https://tass.ru/politika/28310303",
-  "skip:https://www.kommersant.ru/doc/9095303",
-  "skip:https://www.kommersant.ru/doc/9095288",
-  "skip:https://www.rbc.ru/politics/12/11/2026/6af5709393c4d094b98321e1",
-  "skip:https://www.interfax.ru/russia/1128514",
   "skip:https://ria.ru/20261112/ushakov-2131052465.html",
   "https://ria.ru/20261112/peregovory-2131060526.html",
   "title:Владимир Путин проводит переговоры со спецпосланниками США Стивом Уиткоффом и Джаредом Кушнером в Москве",
@@ -998,5 +987,16 @@
   "title:На Крымском мосту временно перекрыли движение транспорта",
   "skip:https://www.kommersant.ru/doc/9109726",
   "https://www.interfax.ru/world/1129059",
-  "title:Эмманюэль Макрон заявил о необходимости вступления Украины в НАТО"
+  "title:Эмманюэль Макрон заявил о необходимости вступления Украины в НАТО",
+  "skip:https://www.kommersant.ru/doc/9109731",
+  "skip:https://tass.ru/proisshestviya/28318555",
+  "skip:https://www.interfax.ru/russia/1129060",
+  "https://www.rbc.ru/rbcfreenews/6af905aba0f3d54666c4d1fc",
+  "title:Над Таганрогом сбили несколько украинских беспилотников",
+  "skip:https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
+  "skip:https://ria.ru/20261115/izrail-2131622983.html",
+  "skip:https://www.interfax.ru/world/1129058",
+  "skip:https://news.google.com/rss/articles/CBMivwFBVV95cUxPYUhZd1pxN2d0N3pmR2RCbjhCQk9teURKLThfYzR0bC1rVWJpVGUwNkpJelBNeVNLY3hxS1B0c0p2bTk5VmhCeFVGUWpHSFVNdHFKZjcydUdYNDEyMThuQ3hTRmFNSTQ0Z05ZSWRSd1A3QnM3eTRjWkNJbkN2Z2E5M1FQaUdrdUtaYzVNcWtVMC1LOU1yUkpoUk82d0ZQejM5cDR3YXVqcE5xMlJkTVU2dGduMDdsUWp2UG5ERFZUZw?oc=5",
+  "https://www.rbc.ru/politics/15/11/2026/6af90894ca9d0c69e2e2187b",
+  "title:Армия Израиля нанесла удар по командиру бригады ХАМАС в секторе Газа"
 ]

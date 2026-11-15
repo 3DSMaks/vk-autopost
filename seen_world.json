@@ -1,15 +1,4 @@
 [
-  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05U3FyS01QSjEyaFdHdGhmbUpiai04UThQcEZhWnlmeGticEYxcmh1ZVFrZk5UbVBULWUxaGRrVTVzQ1B1d1RfUVByYnNkMi1idzVKNlNkV3pFVTA3?oc=5",
-  "title:Генеральный директор Nvidia Дженсен Хуанг ушел в отставку на фоне сообщений о новых скандалах",
-  "skip:https://ria.ru/20261112/ssha-2131229488.html",
-  "https://www.rbc.ru/politics/12/11/2026/6af5fdf6e9b99160841b9de1",
-  "title:США уведомили Израиль о необходимости подготовки к возобновлению операций против Ирана",
-  "skip:https://www.interfax.ru/russia/1128721",
-  "skip:https://www.interfax.ru/russia/1128717",
-  "skip:https://www.rbc.ru/rbcfreenews/6af618685ee94876bfb0172b",
-  "skip:https://ria.ru/20261112/bespilotniki-2131229385.html",
-  "https://www.kommersant.ru/doc/9095960",
-  "title:Мэр Москвы сообщил о росте числа сбитых за сутки беспилотников до 56",
   "skip:https://tass.ru/proisshestviya/28313505",
   "https://www.rbc.ru/politics/12/11/2026/6af62368135c08efeb4532d4",
   "title:Хакерской атаке подвергся производитель БПЛА для ВСУ Quantum Systems на фоне проблем со Starshield",
@@ -998,5 +987,16 @@
   "skip:https://tass.ru/sport/28319707",
   "skip:https://ria.ru/20261115/izrail-2131734613.html",
   "https://tass.ru/sport/28319755",
-  "title:Международная федерация хоккея объяснила решение не допустить сборную России до молодежного чемпионата мира"
+  "title:Международная федерация хоккея объяснила решение не допустить сборную России до молодежного чемпионата мира",
+  "skip:https://ria.ru/20261115/tanker-2131735082.html",
+  "https://tass.ru/mezhdunarodnaya-panorama/28319705",
+  "title:В Ормузском проливе танкер загорелся после подрыва на мине",
+  "skip:https://www.rbc.ru/politics/16/11/2026/6afa1efb42b21c4491aa0fe3",
+  "skip:https://tass.ru/proisshestviya/28319703",
+  "skip:https://www.kommersant.ru/doc/9110043",
+  "skip:https://tass.ru/proisshestviya/28319675",
+  "skip:https://ria.ru/20261115/mina-2131733965.html",
+  "skip:https://tass.ru/proisshestviya/28319679",
+  "https://tass.ru/obschestvo/28319749",
+  "title:Два человека пострадали в Рыльске при подрыве мин, сброшенных с беспилотников"
 ]

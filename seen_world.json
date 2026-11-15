@@ -1,10 +1,4 @@
 [
-  "skip:https://tass.ru/politika/28311809",
-  "skip:https://tass.ru/politika/28311805",
-  "skip:https://tass.ru/obschestvo/28311799",
-  "skip:https://ria.ru/20261112/tramp-2131140412.html",
-  "skip:https://ria.ru/20261112/ssha-2131140292.html",
-  "skip:https://tass.ru/politika/28311783",
   "skip:https://ria.ru/20261112/putin-2131139687.html",
   "skip:https://ria.ru/20261112/putin-2131139341.html",
   "skip:https://tass.ru/politika/28311077",
@@ -998,5 +992,11 @@
   "title:В Волгограде арестовали пассажира, угрожавшего захватить самолет",
   "skip:https://www.rbc.ru/politics/15/11/2026/6af975fd10835517270a8d6f",
   "https://www.kommersant.ru/doc/9109882",
-  "title:Лавров назвал тупиковым условие Евросоюза об урегулировании на Украине"
+  "title:Лавров назвал тупиковым условие Евросоюза об урегулировании на Украине",
+  "skip:https://ria.ru/20261115/nizhnekamsk-2131680185.html",
+  "https://www.rbc.ru/rbcfreenews/6af99fcb8e6e5c52e0f92965",
+  "title:В Нижнекамске ликвидировали возгорание после атаки беспилотников",
+  "skip:https://www.interfax.ru/world/1129121",
+  "https://www.kommersant.ru/doc/9109893",
+  "title:В Средиземном море и Персидском заливании произошли инциденты с танкерами"
 ]

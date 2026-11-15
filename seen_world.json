@@ -1,12 +1,4 @@
 [
-  "skip:https://ria.ru/20261112/ushakov-2131206842.html",
-  "skip:https://tass.ru/politika/28313031",
-  "skip:https://tass.ru/politika/28313021",
-  "skip:https://tass.ru/politika/28313003",
-  "skip:https://www.rbc.ru/politics/12/11/2026/6af5eff32b90a9de3da80d77",
-  "skip:https://ria.ru/20261112/rossija-2131206198.html",
-  "skip:https://tass.ru/politika/28313013",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28313007",
   "skip:https://ria.ru/20261112/parametry-2131205765.html",
   "skip:https://www.interfax.ru/russia/1128685",
   "skip:https://www.interfax.ru/world/1128684",
@@ -998,5 +990,13 @@
   "skip:https://www.interfax.ru/moscow/1129154",
   "skip:https://ria.ru/20261115/pvo-2131719079.html",
   "https://www.interfax.ru/moscow/1129156",
-  "title:Количество сбитых на подлете к Москве беспилотников увеличилось до 25"
+  "title:Количество сбитых на подлете к Москве беспилотников увеличилось до 25",
+  "skip:https://www.kommersant.ru/doc/9110030",
+  "skip:https://tass.ru/politika/28319583",
+  "https://tass.ru/politika/28319577",
+  "title:Сергей Шойгу прибыл с визитом в ОАЭ для переговоров",
+  "skip:https://ria.ru/20261115/khusity-2131721589.html",
+  "skip:https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ2NSdXVjeDlTU0lLeTAtMGs5RmdHaW0wTVhVbzUwempOYUdlNVB3NXprMGZqYksyVjhLUU1OV250QlczemJOT2tXcVFIZEJYb0dwblVCblExbnFmZkVyeGZnZ0NJY3Z3a3NTcmxUQ21tR0ZsQVdhTTNRNWJaZW5pOEk4RDNEMXN3aExOaEE0QVNzaXV3UTM3ZjlNa2hDenRtajR2aGVGT3RQR0NOSnY1VHQ3czdCSkJWSUgxaFFYNThEUlBBMVpn?oc=5",
+  "https://tass.ru/mezhdunarodnaya-panorama/28319563",
+  "title:Йеменские хуситы заявили об ударе по аэропорту и финансовому центру в Эр-Рияде"
 ]

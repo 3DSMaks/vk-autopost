@@ -1,13 +1,4 @@
 [
-  "skip:https://www.rbc.ru/rbcfreenews/6af5c2a1070c7d8eaa096883",
-  "skip:https://ria.ru/20261112/peregovory-2131163952.html",
-  "skip:https://tass.ru/politika/28312187",
-  "skip:https://www.interfax.ru/world/1128640",
-  "skip:https://www.interfax.ru/world/1128642",
-  "skip:https://www.interfax.ru/world/1128641",
-  "skip:https://www.rbc.ru/photoslider/6af5bfa7112bf7a63b24c5bf",
-  "https://www.rbc.ru/rbcfreenews/6af5c8a4f0d28cda77e2e6b7",
-  "skip:https://www.kommersant.ru/doc/9095715",
   "skip:https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
   "skip:https://tass.ru/ekonomika/28312197",
   "skip:https://news.google.com/rss/articles/CBMifkFVX3lxTE9iVGpMRjc5bWtrOEVDaXVUSzVvcmVIcGJMTmh3dDN4Qnc0SHBIOGxmanVZa2dBZnNTZHpPTnBhV2V6X2o0cWlmVEQ5NE5WMEtTMHFDdmszc2ZZVHg0dlVXU1ZQS0U4YzlGcHlYOVFKbVJST1IwaFF4VjlDNzFtdw?oc=5",
@@ -998,5 +989,14 @@
   "skip:https://tass.ru/proisshestviya/28319413",
   "skip:https://ria.ru/20261115/sk-2131708618.html",
   "https://www.rbc.ru/rbcfreenews/6af9cdb98ca78b70d168929d",
-  "title:СК возбудил уголовное дело после угрозы пассажира захватить самолет в Волгограде"
+  "title:СК возбудил уголовное дело после угрозы пассажира захватить самолет в Волгограде",
+  "skip:https://ria.ru/20261115/nvidia-2131711367.html",
+  "skip:https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGladEJOQmtqRldzTHdlQ25Fb3pCREJuYmthQTgzclB5Snl6WWFmaXdtWU1KU1NqVGhTZzIyakttSVpxR0p3MVlGU1pBcjhjRjVkVl9wNGU5OS1kOUJkeXRobzlOSjlMUkVPTWkxbmdib3Bna3ZoRVRoM1RybkQ2NE92ZWZTMjBuNF80a1lhVENxQUhTU2hkY0QzaTU0NGc?oc=5",
+  "skip:https://tass.ru/ekonomika/28319445",
+  "https://ria.ru/20261115/nvidia-2131714351.html",
+  "title:Министр финансов США призвал Nvidia искать нового руководителя вне компании",
+  "skip:https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWotSHY0d2pGeVpPN3VPNk4wbzJ6a3VZSVBFSWRpdm0yRG1DZ1IyUlhfOVVzeWxmWjVzeWlEYnZ3TzIyWkY2ejNKOFRLY010dWdGSVJiYkhaUXl6OWRDcDMzRXRGaDl1UW1mN0kxRmY2eFRONHVZSk51cEhGVXNlX2IxSEUwQ2FOVGQ3d014TURKMlBlUWp3?oc=5",
+  "skip:https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV0pRaS1YQ3ZuYW42YldaYWdvWTBoN19GMFBGaXJBbGtSLWNtc3ZRRGoydDRzM3EyV0pPNjhEODV5Q3dRSXVtaTNwVzlBa2huUGR1SHNBUER4Z2RQaFlORENfUkdRMHFvcVRCWngxUTJiTnVXZGVRQzc1Tm9SQjNIQk5YYkFHZFdHbUtwa3czQ1YxVTA3QWdMd1BYNHY0cVpqZ1c2LXc4ODNrWFpRbVhUX2RpUkV6NTdJWVFDeW9idW9xUQ?oc=5",
+  "https://tass.ru/obschestvo/28319469",
+  "title:В Праге прошли массовые протесты против реформы финансирования общественных СМИ"
 ]

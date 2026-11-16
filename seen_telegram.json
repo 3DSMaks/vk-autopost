@@ -1,8 +1,4 @@
 [
-  "https://www.igromania.ru/news/169727/gta-6-na-predzakazah-zarabotala-svyishe-750-mln-dollarov-zayavili-analitiki/",
-  "title:​GTA 6 на предзаказах заработала свыше 750 млн долларов, заявили аналитики",
-  "skip:https://deadline.com/2026/11/sister-brother-manhole-cover-tokyo-film-festival-awards-1237212894/",
-  "skip:https://variety.com/2026/film/news/quentin-tarantino-letting-down-brad-pitt-cliff-booth-sequel-1236939103/",
   "https://www.kinonews.ru/news_143981/",
   "title:Объявлена дата премьеры второго сезона аниме \"Голубоглазый самурай\"",
   "skip:https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/shedevr_remejk_the_legend_of_zelda_ocarina_of_time_dlya_switch_2_poluchil_96_ballov_na_metacritic-1887723#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +994,9 @@
   "skip:https://www.pcgamer.com/hardware/processors/intel-hit-with-class-action-alleging-it-misled-investors-companys-recent-downturn-due-in-part-to-how-darn-expensive-pcs-are-right-now/",
   "https://gamemag.ru/news/202170/razrabotchiki-tomb-raider-legacy-of-atlantis-skorrektirovali-sistemnye-trebovaniya",
   "video:2026-11-16:https://gamemag.ru/news/202170/razrabotchiki-tomb-raider-legacy-of-atlantis-skorrektirovali-sistemnye-trebovaniya",
-  "title:Разработчики Tomb Raider: Legacy of Atlantis скорректировали системные требования"
+  "title:Разработчики Tomb Raider: Legacy of Atlantis скорректировали системные требования",
+  "skip:https://kg-portal.ru/comments/135807-lichnost-dzhejmsa-bonda-raskryta-vpervom-tizere-robert-pattinson/",
+  "skip:https://www.film.ru/news/obyavlen-novyy-dzheyms-bond",
+  "https://www.film.ru/news/operativnoe-prodlenie-medlennyh-loshadey",
+  "title:Оперативное продление Медленных лошадей"
 ]

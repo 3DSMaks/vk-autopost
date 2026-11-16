@@ -1,8 +1,4 @@
 [
-  "title:Минобороны РФ сообщило о перехвате почти 1,2 тыс. украинских беспилотников за ночь",
-  "skip:https://www.interfax.ru/russia/1128785",
-  "skip:https://www.rbc.ru/politics/13/11/2026/6af6a8985d33761ec7ccb5f2",
-  "https://www.kommersant.ru/doc/9096100",
   "title:Четыре человека погибли при атаке беспилотников на Волгоград",
   "skip:https://www.interfax.ru/russia/1128789",
   "https://www.rbc.ru/rbcfreenews/6af6b58b5d33761ec7ccb64e",
@@ -998,5 +994,9 @@
   "title:SpaceX успешно вернула верхнюю ступень корабля Starship",
   "skip:https://www.interfax.ru/world/1129186",
   "https://tass.ru/mezhdunarodnaya-panorama/28319935",
-  "title:Американский авианосец USS Theodore Roosevelt прибыл на Ближний Восток"
+  "title:Американский авианосец USS Theodore Roosevelt прибыл на Ближний Восток",
+  "skip:https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison?traffic_source=rss",
+  "skip:https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+  "https://www.rbc.ru/rbcfreenews/6afa5994ca9d0c69e2e21883",
+  "title:В Мексике скончался 80-летний наркобарон Мигель Анхель Феликс Гальярдо"
 ]

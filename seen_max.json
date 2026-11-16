@@ -1,9 +1,4 @@
 [
-  "skip:https://www.film.ru/news/niv-kempbell-v-krike-8",
-  "skip:https://www.film.ru/news/kosmicheskiy-horror-pola-us-andersona",
-  "https://deadline.com/2026/11/itv-gone-season-2-keeley-hawes-eve-myles-george-kay-1237212082/",
-  "title:‘The Assassin’ Star Keeley Hawes Joins Season 2 Of George Kay’s ITV Thriller ‘Gone’",
-  "skip:https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/shedevr_remejk_the_legend_of_zelda_ocarina_of_time_dlya_switch_2_poluchil_96_ballov_na_metacritic-1887723#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169729/remejk-the-legend-of-zelda-ocarina-of-time-poluchaet-otlichnyie-otsenki-kritikov/",
   "skip:https://stopgame.ru/newsdata/73378/darkest_dungeon_ii_poluchit_dopolnenie_the_butcher_s_asylum_v_2027_m",
   "skip:https://www.igromania.ru/news/169724/darkest-dungeon-2-poluchit-dopolnenie-butchers-asylum-v-2027-godu/",
@@ -998,5 +993,10 @@
   "skip:https://www.playground.ru/call_of_duty_world_at_war/news/odin_iz_sozdatelej_zombi_rezhima_call_of_duty_pokinul_studiyu_treyarch_posle_20_let_raboty-1891132#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169963/sozdatelya-rezhima-zombi-v-call-of-duty-uvolili-spustya-pochti-20-let-rabotyi-v-treyarch/",
   "https://www.playground.ru/gta_6/news/po_otsenkam_analitikov_predzakazy_gta_6_dostigli_15_millionov_kopij-1891138#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:По оценкам аналитиков, предзаказы GTA 6 достигли 15 миллионов копий"
+  "title:По оценкам аналитиков, предзаказы GTA 6 достигли 15 миллионов копий",
+  "skip:https://www.igromania.ru/news/169971/dark-souls-poluchila-mod-s-trassirovkoj-puti-no-ne-vse-gejmeryi-zametili-raznitsu/",
+  "skip:https://www.playground.ru/dark_souls/news/originalnaya_dark_souls_poluchila_rtx_remix_s_trassirovkoj_putej_uluchshennymi_teksturami_effektami_i_podderzhkoj_dlss_5-1891127#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://gamemag.ru/news/202172/ft-djensen-huang-mojet-vernutsya-na-post-glavy-nvidia",
+  "https://www.ign.com/articles/marvels-wolverine-ps5-black-friday-deal",
+  "title:Marvel’s Wolverine Drops to $50 on PS5 for Black Friday in First Sale Since Launch"
 ]

@@ -1,7 +1,4 @@
 [
-  "title:В Берлине неизвестные подожгли автомобиль главного редактора издания NIUS Юлиана Райхельта",
-  "skip:https://ria.ru/20261113/degtyarev-2131398316.html",
-  "skip:https://tass.ru/sport/28316127",
   "skip:https://www.rbc.ru/sport/30/10/2026/6ae4bb2dfb9cecf45c7ca3e8",
   "skip:https://ria.ru/20261113/rossijane-2131381640.html",
   "https://ria.ru/20261113/sbornaja-2131398826.html",
@@ -998,5 +995,8 @@
   "skip:https://www.interfax.ru/business/1129311",
   "skip:https://www.interfax.ru/world/1129309",
   "https://www.kommersant.ru/doc/9110671",
-  "title:Европейский союз ввел новый пакет санкций против российских компаний и нефтяного сектора"
+  "title:Европейский союз ввел новый пакет санкций против российских компаний и нефтяного сектора",
+  "skip:https://www.kommersant.ru/doc/9110716",
+  "https://tass.ru/ekonomika/28322527",
+  "title:Президент Литвы допустил закрытие границ с Россией по примеру Эстонии"
 ]

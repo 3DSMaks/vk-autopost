@@ -1,7 +1,4 @@
 [
-  "https://variety.com/2026/film/markets-festivals/jessica-rothe-sxsw-sci-fi-thriller-imposters-us-distribution-1236938971/",
-  "title:Jessica Rothe SXSW Sci-Fi Thriller ‘Imposters’ Sells to Brainstorm Media for U.S., Racks Up International Deals Ahead of AFM (EXCLUSIVE)",
-  "skip:https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/the_legend_of_zelda_ocarina_of_time_igra_s_samym_vysokim_rejtingom_2026_goda_na_metacritic-1887770#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.playground.ru/misc/news/amd_mozhet_vpervye_v_istorii_obojti_intel_po_kvartalnoj_vyruchke_prognoz_kompanii_na_konets_goda_dostigaet_17_mlrd-1887764#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://gamemag.ru/news/201973/ocharovyvaet-igrokov-poyavilis-pervye-ocenki-remeyka-the-legend-of-zelda-ocarina-of-time",
   "skip:https://stopgame.ru/newsdata/73379/pressa_s_vostorgom_vstretila_remeyk_the_legend_of_zelda_ocarina_of_time",
@@ -998,5 +995,8 @@
   "skip:https://deadline.com/2026/11/robert-pattinson-james-bond-role-amazon-mgm-studios-1237225184/",
   "skip:https://www.film.ru/news/operativnoe-prodlenie-medlennyh-loshadey",
   "https://www.film.ru/news/treyler-seriala-arsenev",
-  "title:Трейлер сериала Арсеньев"
+  "title:Трейлер сериала Арсеньев",
+  "skip:https://kg-portal.ru/comments/135804-u-denni-bojla-est-vse-chtoby-snjat-tretju-chast-zombihorrora-28-let-spustja-no-deneg-ne-dajut/",
+  "https://kg-portal.ru/comments/135807-lichnost-dzhejmsa-bonda-raskryta-vpervom-tizere-robert-pattinson/",
+  "title:Личность Джеймса Бонда раскрыта в первом тизере: Роберт Паттинсон"
 ]

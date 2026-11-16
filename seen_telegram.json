@@ -1,10 +1,4 @@
 [
-  "title:Саундтрек Клиффа Бута",
-  "skip:https://stopgame.ru/newsdata/73378/darkest_dungeon_ii_poluchit_dopolnenie_the_butcher_s_asylum_v_2027_m",
-  "skip:https://www.igromania.ru/news/169724/darkest-dungeon-2-poluchit-dopolnenie-butchers-asylum-v-2027-godu/",
-  "skip:https://www.ign.com/articles/witcher-3-songs-of-the-past-dlc-details",
-  "skip:https://www.pcgamer.com/games/action/control-resonant-is-remedys-fastest-selling-game-to-date-tripling-the-studios-quarterly-revenue/",
-  "skip:https://gamemag.ru/news/201963/netflix-zavershila-rabotu-nad-scenariem-gears-of-war",
   "https://www.igromania.ru/news/169727/gta-6-na-predzakazah-zarabotala-svyishe-750-mln-dollarov-zayavili-analitiki/",
   "title:​GTA 6 на предзаказах заработала свыше 750 млн долларов, заявили аналитики",
   "skip:https://deadline.com/2026/11/sister-brother-manhole-cover-tokyo-film-festival-awards-1237212894/",
@@ -998,5 +992,11 @@
   "https://www.playground.ru/final_fantasy_7_part_3/news/rejting_final_fantasy_7_revelation_v_singapure_raskryvaet_nalichie_podvodnyh_srazhenij_i_rezhima_nastrojki_personazhej-1891181#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Рейтинг Final Fantasy 7 Revelation в Сингапуре раскрывает наличие подводных сражений и режима настройки персонажей",
   "https://www.ign.com/articles/cyberpunk-2077-mod-adds-3d-rain-effects",
-  "title:Cool New Cyberpunk 2077 Mod Adds 3D Rain Effects That Catch the Light and Blow in the Wind"
+  "title:Cool New Cyberpunk 2077 Mod Adds 3D Rain Effects That Catch the Light and Blow in the Wind",
+  "skip:https://www.playground.ru/misc/news/intel_stolknulas_s_sudebnym_iskom_iz_za_umolchaniya_o_problemah_na_rynke_pk_pered_padeniem_aktsij-1891217#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169976/core-keeper-i-dave-the-diver-poluchat-dvuhstoronnij-krossover-s-novyim-kontentom/",
+  "skip:https://www.pcgamer.com/hardware/processors/intel-hit-with-class-action-alleging-it-misled-investors-companys-recent-downturn-due-in-part-to-how-darn-expensive-pcs-are-right-now/",
+  "https://gamemag.ru/news/202170/razrabotchiki-tomb-raider-legacy-of-atlantis-skorrektirovali-sistemnye-trebovaniya",
+  "video:2026-11-16:https://gamemag.ru/news/202170/razrabotchiki-tomb-raider-legacy-of-atlantis-skorrektirovali-sistemnye-trebovaniya",
+  "title:Разработчики Tomb Raider: Legacy of Atlantis скорректировали системные требования"
 ]

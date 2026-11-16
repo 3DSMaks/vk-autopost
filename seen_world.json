@@ -1,13 +1,4 @@
 [
-  "skip:https://www.rbc.ru/sport/30/10/2026/6ae4bb2dfb9cecf45c7ca3e8",
-  "skip:https://ria.ru/20261113/rossijane-2131381640.html",
-  "https://ria.ru/20261113/sbornaja-2131398826.html",
-  "title:Сборная России заняла третье место в медальном зачете на юношеской Олимпиаде в Дакаре",
-  "skip:https://www.interfax.ru/business/1128871",
-  "https://www.rbc.ru/business/13/11/2026/6af6bbf15d33761ec7ccb674",
-  "title:Mercedes-Benz заморозил новые инвестиции в заводы в Германии",
-  "skip:https://www.rbc.ru/technology_and_media/13/11/2026/6af6d9cd6e6bd5856c94e4ed",
-  "skip:https://www.kommersant.ru/doc/9109017",
   "skip:https://www.rbc.ru/technology_and_media/13/11/2026/6af711b2f9a100afa8dd7cdf",
   "https://tass.ru/ekonomika/28316121",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28316131",
@@ -998,5 +989,14 @@
   "title:Европейский союз ввел новый пакет санкций против российских компаний и нефтяного сектора",
   "skip:https://www.kommersant.ru/doc/9110716",
   "https://tass.ru/ekonomika/28322527",
-  "title:Президент Литвы допустил закрытие границ с Россией по примеру Эстонии"
+  "title:Президент Литвы допустил закрытие границ с Россией по примеру Эстонии",
+  "skip:https://www.interfax.ru/world/1129346",
+  "skip:https://www.interfax.ru/world/1129351",
+  "skip:https://tass.ru/politika/28322749",
+  "https://www.theguardian.com/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china",
+  "title:Встреча Владимира Путина, Дональда Трампа и Си Цзиньпина назначена на 19 ноября в Шэньчжэне",
+  "skip:https://www.interfax.ru/moscow/1129343",
+  "skip:https://www.rbc.ru/politics/16/11/2026/6afb0675aae4a7f2fc7a46aa",
+  "https://www.kommersant.ru/doc/9110760",
+  "title:В Москве задержали подозреваемую по делу о подрыве автомобиля экс-советника Азарова"
 ]

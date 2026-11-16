@@ -1,10 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73379/pressa_s_vostorgom_vstretila_remeyk_the_legend_of_zelda_ocarina_of_time",
-  "skip:https://www.pcgamer.com/hardware/processors/amd-says-its-going-to-beat-intel-in-total-revenue-for-the-very-first-time-by-the-end-of-2026/",
-  "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-how-long-to-beat",
-  "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-review-remake",
-  "skip:https://www.ign.com/articles/the-elder-scrolls-6-sentinel-timeline",
-  "https://www.igromania.ru/news/169732/sozdateli-the-elder-scrolls-5-skyrim-dejstvitelno-pyitalis-rastyanut-put-k-vyisokomu-hrotgaru-na-7000-shagov/",
   "title:Создатели The Elder Scrolls 5: Skyrim действительно пытались растянуть путь к Высокому Хротгару на 7000 шагов",
   "skip:https://deadline.com/2026/11/london-film-festival-la-bola-negra-audience-award-2026-1237212998/",
   "https://deadline.com/2026/11/trinity-release-date-netflix-photos-trailer-1237212652/",
@@ -998,5 +992,11 @@
   "https://kg-portal.ru/comments/135807-lichnost-dzhejmsa-bonda-raskryta-vpervom-tizere-robert-pattinson/",
   "title:Личность Джеймса Бонда раскрыта в первом тизере: Роберт Паттинсон",
   "https://www.film.ru/news/treyler-bayopika-stalin",
-  "title:Трейлер байопика Сталин"
+  "title:Трейлер байопика Сталин",
+  "skip:https://www.igromania.ru/news/169976/core-keeper-i-dave-the-diver-poluchat-dvuhstoronnij-krossover-s-novyim-kontentom/",
+  "skip:https://stopgame.ru/newsdata/73519/dave_the_diver_poluchit_kollaboraciyu_s_core_keeper",
+  "skip:https://gamemag.ru/news/202182/oficialno-robert-pattinson-stanet-sleduyushchim-djeymsom-bondom",
+  "skip:https://www.igromania.ru/news/169975/novyim-dzhejmsom-bondom-v-kino-stal-zvezda-betmena-robert-pattinson/",
+  "https://stopgame.ru/newsdata/73521/treyarch_uvolila_veduschego_scenarista_call_of_duty_kreyga_hyustona_posle_20_let_raboty",
+  "title:Treyarch уволила ведущего сценариста Call of Duty Крейга Хьюстона после 20 лет работы"
 ]

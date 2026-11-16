@@ -1,7 +1,4 @@
 [
-  "https://www.france24.com/en/video/20261113-one-of-the-biggest-outages-ever-disruption-to-microsoft-services-enters-second-day",
-  "title:Глобальный сбой в работе сервисов Microsoft затронул пользователей по всему миру",
-  "skip:https://tass.ru/proisshestviya/28315091",
   "skip:https://www.rbc.ru/politics/13/11/2026/6af6dd2f7bbc26597e6d3dc0",
   "skip:https://ria.ru/20261113/samara-2131320391.html",
   "skip:https://ria.ru/20261113/vsu-2131319232.html",
@@ -998,5 +995,8 @@
   "skip:https://www.interfax.ru/russia/1129249",
   "skip:https://www.kommersant.ru/doc/9110341",
   "https://ria.ru/20261116/most-2131819972.html",
-  "title:Движение по Крымскому мосту временно приостановлено после атаки беспилотников"
+  "title:Движение по Крымскому мосту временно приостановлено после атаки беспилотников",
+  "skip:https://www.interfax.ru/world/1129260",
+  "https://www.kommersant.ru/doc/9110227",
+  "title:Еврокомиссия предложит выделить Украине кредит на 45 млрд евро"
 ]

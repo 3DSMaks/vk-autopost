@@ -1,10 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMirgFBVV95cUxPbGJQd2ZPVXZtMTIxS2dDR2ZOWjU5bVpGSGNXXzY4OFNEWWFTTDV0c0k3cjM5QWF3MVRqaU1RaWhja3YwZzVJOHNHYV9jWkNUR3NrWXRCUl9XSG9QODZNMHhkeUloNVI5a1U5Skg0TzhubXl0ZFZGc3JkdDkzRmstR3pPZi1USEdLTW9rRkdVOXdRakxSX1QwOVBsUEZsWTVFMHE1SkpNV19qMzM5UVE?oc=5",
-  "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNlM1d3RDejItNTdSdk9KWU9PaWZPanZTQmNHd3JRY1BPTGJOYWRkaWYweVVqSzUyVkFadl84SmdVT3pyVVk2RzJYZmxMZFBPazVhQ2RKbklvSnlKZHQtWnZuM0xROU1fSDlSZVAtdzg2Y1BKS3VBWlAwMGllM3pLUFkyT1lwcWgxa3YtS0hCYW5NNGFtcGNlT3AtS2YwZnJZbWowSWlXSUhCM0dJSkE?oc=5",
-  "title:В Новом Орлеане танкер врезался в речной круизный лайнер",
-  "skip:https://news.google.com/rss/articles/CBMivwFBVV95cUxPTkFnODI2ZmFiRTJzS3N4eXI5TzJqbXpFV3lUM29neFFnSFJJOVlQcDNZR3B3MmczQWlTNDA4ZE13bXpQcm9yQXdROXIzWjBCRnZHNzhwQkxldWtuREJ2Q1BvOFEzcTZRN2tpQkxwb3dCLUtvdzZiUEsxbGNvXzVmWTUzMTVvdHl5cjZBX2Y1VTJzZlFjUnZrMjFrVWZXTWltM1hoSkxDMThmdDdEckQ1NVJMbTE0dXFQYXJMM3NEVQ?oc=5",
-  "skip:https://news.google.com/rss/articles/CBMijgFBVV95cUxOZkE5dDF0akNzS0JidGwzRmdWcjg0UVVPWEV6a1hYbHc3bEtmOHcycUx4SGkySmFLOW9ManU2RV96WVhlVWZiUk1XR3Q2VGlHNWxYZHp1RUR0cllnSTBGeDIxNkM4RWhzaWVTNmhvc1FGWWRFNTdOcW9CbVE2Z24xWmIwMXNWQ2dIZ0VTb1hn?oc=5",
-  "https://tass.ru/mezhdunarodnaya-panorama/28316985",
   "title:Минобороны Великобритании расследует инцидент с дронами над американской авиабазой",
   "skip:https://ria.ru/20261114/ssha-2131483193.html",
   "skip:https://ria.ru/20261114/ssha-2131482502.html",
@@ -998,5 +992,11 @@
   "title:Генпрокуратура Калифорнии подала иск против OpenAI из-за разработки опасных моделей ИИ",
   "skip:https://tass.ru/sport/28323937",
   "https://ria.ru/20261117/liga-natsiy-2131996987.html",
-  "title:Сборная Германии разгромила команду Нидерландов в матче Лиги наций со счетом 5:0"
+  "title:Сборная Германии разгромила команду Нидерландов в матче Лиги наций со счетом 5:0",
+  "skip:https://tass.ru/sport/28323947",
+  "https://www.aljazeera.com/sports/2026/11/16/germany-thrash-netherlands-to-book-quarterfinal-spot?traffic_source=rss",
+  "title:Сборная Германии разгромила команду Нидерландов в матче Лиги наций",
+  "skip:https://www.france24.com/en/tv-shows/truth-or-fake/20261116-november-17-blackout-hoax-how-a-conspiracy-theory-went-viral-around-the-world",
+  "https://ria.ru/20261117/ssha-2132000246.html",
+  "title:Власти США опровергли слухи о грядущем всемирном блэкауте"
 ]

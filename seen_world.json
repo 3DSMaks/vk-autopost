@@ -1,14 +1,4 @@
 [
-  "skip:https://www.rbc.ru/politics/13/11/2026/6af6dd2f7bbc26597e6d3dc0",
-  "skip:https://ria.ru/20261113/samara-2131320391.html",
-  "skip:https://ria.ru/20261113/vsu-2131319232.html",
-  "https://www.kommersant.ru/doc/9108746",
-  "title:Четыре человека погибли при атаке беспилотника на промышленное предприятие в Самарской области",
-  "skip:https://www.kommersant.ru/doc/9108760",
-  "skip:https://www.rbc.ru/politics/13/11/2026/6af6e0183dab237472e4024b",
-  "https://www.interfax.ru/russia/1128820",
-  "title:Минобороны РФ сообщило о взятии под контроль села Котовка в Харьковской области",
-  "skip:https://www.kommersant.ru/doc/9108750",
   "skip:https://www.interfax.ru/moscow/1128814",
   "https://www.kommersant.ru/doc/9108774",
   "title:СКР подтвердил информацию о покушении на экс-советника Азарова Сергея Заворотного в Москве",
@@ -998,5 +988,15 @@
   "title:Движение по Крымскому мосту временно приостановлено после атаки беспилотников",
   "skip:https://www.interfax.ru/world/1129260",
   "https://www.kommersant.ru/doc/9110227",
-  "title:Еврокомиссия предложит выделить Украине кредит на 45 млрд евро"
+  "title:Еврокомиссия предложит выделить Украине кредит на 45 млрд евро",
+  "skip:https://ria.ru/20261116/most-2131842591.html",
+  "skip:https://tass.ru/proisshestviya/28321341",
+  "skip:https://ria.ru/20261116/most-2131835858.html",
+  "skip:https://www.rbc.ru/politics/16/11/2026/6afacb605260b135d5bcf023",
+  "https://www.kommersant.ru/doc/9110486",
+  "title:Власти оценивают повреждения Крымского моста после атаки беспилотников",
+  "skip:https://www.interfax.ru/russia/1129267",
+  "skip:https://www.rbc.ru/rbcfreenews/6afac63f718592b07b3fdfd6",
+  "https://www.kommersant.ru/doc/9110469",
+  "title:У Крымского моста со стороны Кубани развернули пункты обогрева"
 ]

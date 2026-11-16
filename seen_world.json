@@ -1,7 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjhnZVFHWnV4RHpscnFyUjFWOEl5VndNZ0Y4MFdEVlpueUNaeHRPMVdCbjA4Mmktc0tYWnFsZWdZSkd4dFNvTmszUHFWdC15S0pja2ozaTg0R0dOdEY3aDJtenZwREh5dmRvTGVTUkxVUDNjN3huQU1TRTU1bEVBampuYzdsTjJJZ2tBUXQwal85QnRsWDU4OWNvbDVzN0VUR1R0clNkZmpkaXZMaWh5dExSNHRCUQ?oc=5",
-  "https://www.kommersant.ru/doc/9096011",
-  "title:КСИР заявил о нанесении удара по радару США в Бахрейне",
   "skip:https://www.rbc.ru/rbcfreenews/6af6a8f4efa060b593895fe5",
   "skip:https://www.kommersant.ru/doc/9096091",
   "skip:https://www.interfax.ru/russia/1128783",
@@ -998,5 +995,8 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28319835",
   "skip:https://ria.ru/20261116/gagauziya-2131742236.html",
   "https://www.interfax.ru/world/1129182",
-  "title:Во второй тур выборов главы Гагаузии вышли Стояногло и Гагауз"
+  "title:Во второй тур выборов главы Гагаузии вышли Стояногло и Гагауз",
+  "skip:https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SWHR1Qms0YTg1R1hwU2JCYkFEZTJnQnRuQmFRdEVzZm9UWDNrVFNod0JUbEFVckhrTmQ1UUVWX0dqWFJzTFVYQXRsNA?oc=5",
+  "https://www.rbc.ru/rbcfreenews/6afa28cac8301203b4865999",
+  "title:Ракета-носитель не смогла вывести на орбиту спутники Amazon из-за сбоя"
 ]

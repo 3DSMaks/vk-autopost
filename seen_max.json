@@ -1,8 +1,4 @@
 [
-  "https://www.igromania.ru/news/169727/gta-6-na-predzakazah-zarabotala-svyishe-750-mln-dollarov-zayavili-analitiki/",
-  "title:​GTA 6 на предзаказах заработала свыше 750 млн долларов, заявили аналитики",
-  "skip:https://variety.com/2026/film/news/quentin-tarantino-letting-down-brad-pitt-cliff-booth-sequel-1236939103/",
-  "skip:https://www.kinonews.ru/news_143976/",
   "skip:https://www.film.ru/news/onlayn-reliz-kleyfeysa",
   "https://deadline.com/2026/11/jean-claude-van-damme-returning-martial-arts-roots-katana-1237212968/",
   "title:Jean-Claude Van Damme Returning To Martial Arts Roots In Yakuza Action Pic ‘Katana’ For Jeremy Zag & The Veterans — AFM",
@@ -998,5 +994,9 @@
   "title:Marvel’s Wolverine Drops to $50 on PS5 for Black Friday in First Sale Since Launch",
   "skip:https://www.igromania.ru/news/169972/prodazhi-gta-6-po-predzakazam-priblizilis-k-15-millionam-kopij-analitiki/",
   "https://www.ign.com/articles/fable-reveals-first-look-at-bowerstones-new-map-and-its-huge",
-  "title:Fable Reveals First Look At Bowerstone's New Map, And It's Huge"
+  "title:Fable Reveals First Look At Bowerstone's New Map, And It's Huge",
+  "skip:https://deadline.com/2026/11/14th-trailer-ava-duvernay-documentary-1237224975/",
+  "skip:https://variety.com/2026/film/news/14th-trailer-netflix-ava-duvernay-1236948187/",
+  "https://www.kinonews.ru/news_144175/",
+  "title:\"Мстители: Судный день\" обгоняет \"Дюну. Часть три\" в десять раз"
 ]

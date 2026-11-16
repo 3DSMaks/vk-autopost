@@ -1,12 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ2lneWN6TzV1ZXctMUFVUlJSbVVDUG1vOWNYM1d2Z25QV1ZlSHdjSFVmblhtX1UzNEQySEYwdjZNZGw3VnZPc00yOTEtSWFsY25CRTRhaGZJM2tFamQ3cDl6YTEwbmJLQ1VmdHo2Y2hjVThnNjdiQTNfai1xTDhFcmFITF9WblV6Rlk1M0FnbDRFWXJjdXA5R19ERUZ2WjdyZmg4bUxPQ2RZcmhaUzZxRjIwQk5jTWw1cUwxVw?oc=5",
-  "skip:https://ria.ru/20261113/tramp-2131464988.html",
-  "https://www.kommersant.ru/doc/9109209",
-  "title:США продлили действие закона Джонса для морских перевозок еще на 90 дней",
-  "skip:https://tass.ru/obschestvo/28316827",
-  "skip:https://tass.ru/politika/28316819",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28316815",
-  "https://www.kommersant.ru/doc/9109215",
   "title:ТАСС исключили из Европейского альянса информационных агентств",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28316767",
   "skip:https://news.google.com/rss/articles/CBMipgFBVV95cUxPcVdRenJGM1FSSmFKOEszNHdLNFhPeDlwRlRHNjE5QUNHMTVsWWJVM0xsZ0p6NlZ6SHY3YTdIaHVGZU9BcDN5TFhBZXZfSzI0OHZ4Q0djcXk5RkY1dVV2akR2UHZkbU8yT1V5RkZnLWI2cnRRQnpGSjRrRG9ad1FhVTBCc2V1M2gteDBZaGc1cWpZWkVwZmNSTndzZVR6S2ZKVEJIRHV3?oc=5",
@@ -998,5 +990,13 @@
   "skip:https://ria.ru/20261116/kiev-2131972387.html",
   "skip:https://www.interfax.ru/world/1129385",
   "https://tass.ru/mezhdunarodnaya-panorama/28323421",
-  "title:Марин Ле Пен заявила о намерении прекратить финансовую помощь Украине в случае избрания президентом"
+  "title:Марин Ле Пен заявила о намерении прекратить финансовую помощь Украине в случае избрания президентом",
+  "skip:https://www.interfax.ru/world/1129394",
+  "skip:https://www.interfax.ru/world/1129397",
+  "https://www.kommersant.ru/doc/9111108",
+  "title:Спецпосланники США Кушнер и Уиткофф обсудили с помощником президента России Ушаковым подготовку к переговорам по Украине",
+  "skip:https://www.rbc.ru/technology_and_media/16/11/2026/6afb51093f52ccac338ad3bf",
+  "skip:https://ria.ru/20261116/banki-2131976827.html",
+  "https://tass.ru/ekonomika/28323647",
+  "title:Клиенты крупнейших банков США сообщили о массовых сбоях в работе"
 ]

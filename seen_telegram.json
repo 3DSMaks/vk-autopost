@@ -1,7 +1,4 @@
 [
-  "video:2026-11-03:https://gamemag.ru/news/201957/final-fantasy-7-remake-and-rebirth-currently-have-huge-price-drops-on-the-switch-2-eshop",
-  "title:Подготовка к Final Fantasy VII Revelation: Final Fantasy VII Remake и Final Fantasy VII Rebirth для Switch 2 отдают за бесценок",
-  "skip:https://deadline.com/2026/11/pierce-brosnan-callum-turner-james-bond-josh-oconnor-casting-1237212659/",
   "skip:https://www.kinonews.ru/news_143971/",
   "https://variety.com/2026/artisans/news/dune-3-spaceship-55-tons-1236937875/",
   "video:2026-11-04:https://variety.com/2026/artisans/news/dune-3-spaceship-55-tons-1236937875/",
@@ -998,5 +995,8 @@
   "skip:https://variety.com/2026/film/global/gerard-depardieu-drops-appeal-in-sexual-assault-case-1236948679/",
   "skip:https://www.film.ru/news/razdacha-pochetnyh-oskarov",
   "https://www.film.ru/news/treyler-seriala-arsenev",
-  "title:Трейлер сериала Арсеньев"
+  "title:Трейлер сериала Арсеньев",
+  "skip:https://www.film.ru/news/nehvatka-deneg-na-trikvel-28-let-spustya",
+  "https://kg-portal.ru/comments/135804-u-denni-bojla-est-vse-chtoby-snjat-tretju-chast-zombihorrora-28-let-spustja-no-deneg-ne-dajut/",
+  "title:У Дэнни Бойла есть всё, чтобы снять третью часть зомби-хоррора \"28 лет спустя\", но денег не дают"
 ]

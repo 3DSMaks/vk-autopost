@@ -1,15 +1,4 @@
 [
-  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
-  "https://ria.ru/20261113/ormuz-2131473916.html",
-  "title:В Ормузском проливе два танкера подорвались на минах",
-  "skip:https://tass.ru/proisshestviya/28316855",
-  "https://ria.ru/20261113/ssha-2131474197.html",
-  "title:В США танкер врезался в речной круизный лайнер",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28316903",
-  "skip:https://www.theguardian.com/uk-news/2026/nov/13/us-air-force-responds-to-suspected-drone-activity-at-raf-lakenheath",
-  "skip:https://www.rbc.ru/politics/13/11/2026/6af778d90189ce094ad0b0a1",
-  "skip:https://ria.ru/20261113/drony-2131473341.html",
-  "https://www.kommersant.ru/doc/9109492",
   "title:На авиабазе США в Великобритании зафиксировали неопознанные дроны",
   "skip:https://www.rbc.ru/politics/14/11/2026/6af77cf540887869aaf286eb",
   "skip:https://news.google.com/rss/articles/CBMivwFBVV95cUxPTTdvYllmb0pHUXVJVGNLUmFZb2I0WXpjZENubU52NW1nQlFJa1E4c3ZNTGhseUdiUzl0ZXJWa0pOSnR1ZDlRQk9FTHZlaWkyT0hLM1J3OW5tVUhIb0o4OWN5bDVVakF5T3lIanR1SVVMSkctSDlpb2loMWI2MENuWEIxTmhTcy1kZXdqSlRrdi1NMHlFSGtPRWEzdUFrMWR1c2wwNk9rRUUwOGpzajM0N1h2MndWVU9MYngyMVdudw?oc=5",
@@ -998,5 +987,16 @@
   "skip:https://www.kommersant.ru/doc/9111099",
   "skip:https://www.rbc.ru/politics/16/11/2026/6afb4d38dc023dc409ee64b0",
   "https://www.rbc.ru/rbcfreenews/6afb5db1090591f58e85c1a8",
-  "title:Спецпосланник США Кушнер заявил о прогрессе в урегулировании на Украине и необходимости гарантий безопасности"
+  "title:Спецпосланник США Кушнер заявил о прогрессе в урегулировании на Украине и необходимости гарантий безопасности",
+  "skip:https://www.kommersant.ru/doc/9111128",
+  "skip:https://www.interfax.ru/moscow/1129406",
+  "skip:https://tass.ru/proisshestviya/28323803",
+  "skip:https://ria.ru/20261116/pvo-2131987390.html",
+  "skip:https://www.interfax.ru/moscow/1129395",
+  "https://ria.ru/20261116/pvo-2131989395.html",
+  "title:Силы ПВО отразили массированную атаку сотен беспилотников, летевших на Москву",
+  "skip:https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2I5X1NCMDRQZURDMlVFTTY4TmJ1TFVCeUIyWFRuenhhUmV4QTd5ZW9ydEdUaUFXb0dGTVFjR3VubUxvaExsZ3pfWUd2dUw1dEdFbDg5TWhkbEFxNEJydHNtaTgxRnJ1VXRNdjJQY25GSU1NdEZRcG9wUlN0NTJlRHk4QW5WbHk1eV9XOTROU2M3M3N4ZU0wbkxBSTY?oc=5",
+  "skip:https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmhqb0E4Q3hTMkFoVnU5d2Ffby1IUFhtMEROZ2pRZ2xva3dxZTVabklKVnJhRk9XWmxxX0hfM2ZIV1JjQ01yNXJCLXpaaXZmTmV6QkkycXcwV1pNbF91OXptLTA1QjZVM1RhOTN5WHUwTFRtRmNlbkkxc2Nod1oydmFJeV9TZkZfdjBqb1l5TWJXeUVkRVZDdjNzbW10dW80?oc=5",
+  "https://tass.ru/ekonomika/28323841",
+  "title:Клиенты крупнейших банков США сообщили о массовых сбоях в работе сервисов"
 ]

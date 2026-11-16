@@ -1,11 +1,4 @@
 [
-  "https://www.interfax.ru/business/1128850",
-  "title:Московская биржа запускает торги фьючерсами на сою и кукурузу",
-  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-microsoft-global-outage?traffic_source=rss",
-  "skip:https://www.interfax.ru/world/1128847",
-  "https://tass.ru/mezhdunarodnaya-panorama/28315945",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28315947",
-  "https://ria.ru/20261113/bundestag-2131379188.html",
   "title:Бундестаг одобрил законопроект о расширении полномочий германских спецслужб",
   "skip:https://tass.ru/sport/28316045",
   "skip:https://www.sport-interfax.ru/1128868",
@@ -998,5 +991,12 @@
   "skip:https://www.interfax.ru/moscow/1129299",
   "skip:https://www.kommersant.ru/doc/9110590",
   "https://www.rbc.ru/rbcfreenews/6afae2b6442b05518a96b99e",
-  "title:На западе Москвы произошел крупный пожар в спорткомплексе на Крылатской улице"
+  "title:На западе Москвы произошел крупный пожар в спорткомплексе на Крылатской улице",
+  "skip:https://www.interfax.ru/world/1129317",
+  "skip:https://www.france24.com/en/video/20261116-estonia-to-close-russian-border-crossings-after-attempted-arson-attack-on-drone-maker",
+  "https://www.rbc.ru/rbcfreenews/6afae84550aa0db81cd83106",
+  "title:Эстония объявила о закрытии пограничных переходов с Россией",
+  "skip:https://ria.ru/20261116/bolgarija-2131881047.html",
+  "https://tass.ru/proisshestviya/28322233",
+  "title:У берегов Болгарии дроны атаковали сухогруз"
 ]

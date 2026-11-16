@@ -1,7 +1,4 @@
 [
-  "title:Четыре человека погибли при атаке беспилотников на Волгоград",
-  "skip:https://www.interfax.ru/russia/1128789",
-  "https://www.rbc.ru/rbcfreenews/6af6b58b5d33761ec7ccb64e",
   "title:Астраханскую область атаковали 30 беспилотников",
   "skip:https://www.interfax.ru/moscow/1128801",
   "skip:https://tass.ru/proisshestviya/28314727",
@@ -998,5 +995,8 @@
   "skip:https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison?traffic_source=rss",
   "skip:https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
   "https://www.rbc.ru/rbcfreenews/6afa5994ca9d0c69e2e21883",
-  "title:В Мексике скончался 80-летний наркобарон Мигель Анхель Феликс Гальярдо"
+  "title:В Мексике скончался 80-летний наркобарон Мигель Анхель Феликс Гальярдо",
+  "skip:https://ria.ru/20261116/tszinpin-2131750741.html",
+  "https://www.interfax.ru/world/1129190",
+  "title:МИД Китая подтвердил проведение трехсторонней встречи Путина, Си Цзиньпина и Трампа"
 ]

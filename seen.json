@@ -1,8 +1,4 @@
 [
-  "skip:https://variety.com/2026/film/box-office/china-box-office-resident-evil-john-wick-1236937189/",
-  "skip:https://www.film.ru/news/maykl-mann-vystrelil-sebe-v-nogu",
-  "skip:https://www.film.ru/news/400-mln-obiteli-zla",
-  "skip:https://www.kinonews.ru/news_143930/",
   "https://deadline.com/2026/11/dave-bautista-kratos-weight-gain-1237211049/",
   "title:Dave Bautista Packs On 20 Pounds & Looks A Lot More Like Kratos",
   "skip:https://kg-portal.ru/comments/135609-nedelja-kino-na-kg-glavnye-novosti-26-oktjabrja-1-nojabrja/",
@@ -998,5 +994,9 @@
   "posted:2026-11-16T13:01:56+00:00",
   "skip:https://kg-portal.ru/comments/135804-u-denni-bojla-est-vse-chtoby-snjat-tretju-chast-zombihorrora-28-let-spustja-no-deneg-ne-dajut/",
   "https://www.kinonews.ru/news_144175/",
-  "title:\"Мстители: Судный день\" обгоняет \"Дюну. Часть три\" в десять раз"
+  "title:\"Мстители: Судный день\" обгоняет \"Дюну. Часть три\" в десять раз",
+  "posted:2026-11-16T14:31:25+00:00",
+  "skip:https://variety.com/2026/film/news/14th-trailer-netflix-ava-duvernay-1236948187/",
+  "https://www.film.ru/news/treyler-seriala-arsenev",
+  "title:Трейлер сериала Арсеньев"
 ]

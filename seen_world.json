@@ -1,15 +1,4 @@
 [
-  "skip:https://www.interfax.ru/world/1128804",
-  "skip:https://www.interfax.ru/russia/1128802",
-  "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcEw4cVpnMkIxMTVtZEJlQmN3OHlsLUxxZnQxMWlfV3VfWTBYeHA2VEpBVWxpZk9TejdSaDgzazdlQUlMZy00aEhmZS1GYnhpVmU1bzdQTWM2VUJqd2dOWWowa1VQSWppQVdYSi1PVm0zX2J1b1hFU1QwaGs5N3lDZkJ3bEY5OG9Tai15M3VoRXVycFVBWjYwWjQ5dUhDcEJ4SWFHSXZxNDg5b2k2OG1DUVBoTHBDWE84dmVfZXc4WQ?oc=5",
-  "title:МАГАТЭ выразило обеспокоенность ситуацией вокруг иранского урана",
-  "skip:https://www.kommersant.ru/doc/9096248",
-  "https://www.rbc.ru/rbcfreenews/6af6d1194494191a47982c46",
-  "title:СКР возбудил уголовное дело о теракте после атаки БПЛА на Волгоградскую область",
-  "skip:https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-  "skip:https://tass.ru/ekonomika/28315029",
-  "skip:https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why?traffic_source=rss",
-  "skip:https://tass.ru/ekonomika/28315001",
   "https://www.france24.com/en/video/20261113-one-of-the-biggest-outages-ever-disruption-to-microsoft-services-enters-second-day",
   "title:Глобальный сбой в работе сервисов Microsoft затронул пользователей по всему миру",
   "skip:https://tass.ru/proisshestviya/28315091",
@@ -998,5 +987,16 @@
   "skip:https://tass.ru/obschestvo/28320877",
   "skip:https://ria.ru/20261116/obmen-2131805111.html",
   "https://www.interfax.ru/russia/1129251",
-  "title:Россия и Украина ведут подготовку к масштабному обмену пленными"
+  "title:Россия и Украина ведут подготовку к масштабному обмену пленными",
+  "skip:https://www.interfax.ru/world/1129248",
+  "https://www.france24.com/en/asia-pacific/20261116-xi-trump-putin-discuss-world-peace-shenzhen-summit-china-says",
+  "title:Лидеры КНР, США и России обсудят вопросы стратегической стабильности на встрече в Шэньчжэне",
+  "skip:https://tass.ru/obschestvo/28321089",
+  "skip:https://tass.ru/obschestvo/28321047",
+  "skip:https://www.rbc.ru/rbcfreenews/6afabc8c5260b135d5bcefd2",
+  "skip:https://www.rbc.ru/politics/16/11/2026/6afabc7893479244f8770721",
+  "skip:https://www.interfax.ru/russia/1129249",
+  "skip:https://www.kommersant.ru/doc/9110341",
+  "https://ria.ru/20261116/most-2131819972.html",
+  "title:Движение по Крымскому мосту временно приостановлено после атаки беспилотников"
 ]

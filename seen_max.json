@@ -1,11 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/gaming-industry/ubisoft-reportedly-wants-to-buy-arkane-from-xbox/",
-  "skip:https://stopgame.ru/newsdata/73377/shrayer_ubisoft_odin_iz_potencialnyh_pokupateley_arkane",
-  "skip:https://www.pcgamer.com/games/action/control-resonant-is-remedys-fastest-selling-game-to-date-tripling-the-studios-quarterly-revenue/",
-  "skip:https://www.ign.com/articles/ubisoft-among-suitors-trying-to-buy-marvels-blade-dishonored-studio-arkane-lyon-from-xbox",
-  "skip:https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-still-a-long-way-off-bethesda-warns-itll-be-some-time-before-were-ready-to-share-more/",
-  "https://www.playground.ru/gta_6/news/playstation_france_mogla_sluchajno_raskryt_uluchsheniya_gta_6_dlya_ps5_pro_upominayutsya_pssr_i_prodvinutyj_rejtrejsing-1887694#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:PlayStation France могла случайно раскрыть улучшения GTA 6 для PS5 Pro - упоминаются PSSR и продвинутый рейтрейсинг",
   "skip:https://www.playground.ru/misc/news/google_postavila_shkoly_ssha_pered_vyborom_prinyat_ii_ili_lishitsya_google_search_cherez_uchenicheskie_akkaunty-1887688#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.pcgamer.com/software/ai/google-criticized-by-nyc-mayor-zohran-mamdani-following-ai-policy-change-google-is-trying-to-use-its-monopoly-power-to-force-ai-into-our-public-schools/",
   "skip:https://stopgame.ru/newsdata/73376/game_pass_v_noyabre_chast_1_warhammer_survivors_toxic_commando_void_breaker",
@@ -998,5 +991,12 @@
   "https://www.playground.ru/cyberpunk_2077/news/dlya_cyberpunk_2077_vyshla_pervaya_publichnaya_beta_cybermp_multipleer_sobstvennye_servery_gonki_i_rezhimy_ot_igrokov-1891088#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Для Cyberpunk 2077 вышла первая публичная бета CyberMP: мультиплеер, собственные серверы, гонки и режимы от игроков",
   "https://www.film.ru/news/medlennye-loshadi-mogut-zakonchitsya",
-  "title:Медленные лошади могут закончиться"
+  "title:Медленные лошади могут закончиться",
+  "skip:https://www.igromania.ru/news/169968/gta-6-poluchila-vtoroj-doreliznyij-patch/",
+  "skip:https://www.playground.ru/gta_6/news/dlya_gta_6_vyshel_esche_odin_nebolshoj_patch_razmerom_602_mb_do_reliza_igry_ostayotsya_neskolko_dnej-1891112#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/gta_6/news/byvshij_issledovatel_rockstar_rasskazal_kak_razrabotchiki_gta_vnedryalis_v_bandy_radi_realizma-1891111#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/rockstars-real-life-grand-theft-auto-research",
+  "skip:https://www.igromania.ru/news/169962/skrudzh-s-vernuvshimsya-posle-otmenyi-dzhonni-deppom-sobral-42-mln-za-pervyij-uikend-prokata/",
+  "https://www.playground.ru/monster_hunter_wilds/news/capcom_potratila_god_na_ispravlenie_monster_hunter_wilds_no_bez_re_engine_eto_zanyalo_by_gorazdo_bolshe_vremeni-1891122#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Capcom потратила год на исправление Monster Hunter Wilds, но без RE Engine это заняло бы гораздо больше времени"
 ]

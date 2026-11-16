@@ -1,8 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73369/predzagruzka_grand_theft_auto_vi_startuet_10_noyabrya",
-  "skip:https://www.ign.com/articles/gta-6-preload-times-and-install-size-confirmed-rockstar-announces-physical-cover-art-poster-and-map-of-leonida",
-  "skip:https://www.ign.com/articles/the-elder-scrolls-6-sentinel-name-logo-officially-revealed-as-bethesda-marks-40th-anniversary",
-  "https://gamemag.ru/news/201957/final-fantasy-7-remake-and-rebirth-currently-have-huge-price-drops-on-the-switch-2-eshop",
   "video:2026-11-03:https://gamemag.ru/news/201957/final-fantasy-7-remake-and-rebirth-currently-have-huge-price-drops-on-the-switch-2-eshop",
   "title:Подготовка к Final Fantasy VII Revelation: Final Fantasy VII Remake и Final Fantasy VII Rebirth для Switch 2 отдают за бесценок",
   "skip:https://deadline.com/2026/11/pierce-brosnan-callum-turner-james-bond-josh-oconnor-casting-1237212659/",
@@ -998,5 +994,9 @@
   "title:Final Fantasy VII Revelation превратит \"Хайвинд\" в полноценную летающую базу с возможностью кастомизации",
   "skip:https://www.playground.ru/gta_6/news/dlya_gta_6_vyshel_esche_odin_nebolshoj_patch_razmerom_602_mb_do_reliza_igry_ostayotsya_neskolko_dnej-1891112#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.playground.ru/fable_2026/news/playground_games_podrobnee_rasskazala_o_personazhah_arden_i_izabel_boevoj_sisteme_i_regione_dipvud_v_fable-1891104#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Playground Games подробнее рассказала о персонажах Арден и Изабель, боевой системе и регионе Дипвуд в Fable"
+  "title:Playground Games подробнее рассказала о персонажах Арден и Изабель, боевой системе и регионе Дипвуд в Fable",
+  "skip:https://variety.com/2026/film/global/gerard-depardieu-drops-appeal-in-sexual-assault-case-1236948679/",
+  "skip:https://www.film.ru/news/razdacha-pochetnyh-oskarov",
+  "https://www.film.ru/news/treyler-seriala-arsenev",
+  "title:Трейлер сериала Арсеньев"
 ]

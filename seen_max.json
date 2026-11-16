@@ -1,6 +1,4 @@
 [
-  "skip:https://www.playground.ru/misc/news/amd_mozhet_vpervye_v_istorii_obojti_intel_po_kvartalnoj_vyruchke_prognoz_kompanii_na_konets_goda_dostigaet_17_mlrd-1887764#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://gamemag.ru/news/201973/ocharovyvaet-igrokov-poyavilis-pervye-ocenki-remeyka-the-legend-of-zelda-ocarina-of-time",
   "skip:https://stopgame.ru/newsdata/73379/pressa_s_vostorgom_vstretila_remeyk_the_legend_of_zelda_ocarina_of_time",
   "skip:https://www.pcgamer.com/hardware/processors/amd-says-its-going-to-beat-intel-in-total-revenue-for-the-very-first-time-by-the-end-of-2026/",
   "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-how-long-to-beat",
@@ -998,5 +996,7 @@
   "title:Трейлер сериала Арсеньев",
   "skip:https://kg-portal.ru/comments/135804-u-denni-bojla-est-vse-chtoby-snjat-tretju-chast-zombihorrora-28-let-spustja-no-deneg-ne-dajut/",
   "https://kg-portal.ru/comments/135807-lichnost-dzhejmsa-bonda-raskryta-vpervom-tizere-robert-pattinson/",
-  "title:Личность Джеймса Бонда раскрыта в первом тизере: Роберт Паттинсон"
+  "title:Личность Джеймса Бонда раскрыта в первом тизере: Роберт Паттинсон",
+  "https://www.film.ru/news/treyler-bayopika-stalin",
+  "title:Трейлер байопика Сталин"
 ]

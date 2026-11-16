@@ -1,6 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143975/",
-  "skip:https://www.film.ru/news/steytem-i-richi-dlya-netflix",
   "skip:https://www.film.ru/news/naruto-oficialno-v-razrabotke",
   "skip:https://www.kinonews.ru/news_143971/",
   "skip:https://kg-portal.ru/comments/135629-russkij-trejler-novyh-pohozhdenij-kliffa-buta/",
@@ -998,5 +996,7 @@
   "skip:https://gamemag.ru/news/202162/v-bodycam-poyavilsya-kooperativnyy-zombi-rejim",
   "skip:https://www.igromania.ru/news/169956/realistichnyij-shuter-bodycam-poluchil-obnovlenie-s-kooperativnyim-zombi-rezhimom/",
   "https://www.ign.com/articles/gta-6s-jason-and-lucia-will-start-as-small-time-criminals-who-have-to-work-up-to-high-value-jobs",
-  "title:GTA 6's Jason and Lucia Will Start as Small-Time Criminals Who Have to Work Up to High-Value Jobs"
+  "title:GTA 6's Jason and Lucia Will Start as Small-Time Criminals Who Have to Work Up to High-Value Jobs",
+  "https://www.ign.com/articles/ea-adds-dont-delete-message-to-madden-nfl-27-in-bid-to-keep-players-from-making-room-ahead-of-gta-6",
+  "title:EA Adds 'Don't Delete' Message to Madden NFL 27 in Bid to Keep Players From Making Room Ahead of GTA 6"
 ]

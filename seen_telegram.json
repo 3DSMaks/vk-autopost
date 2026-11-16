@@ -1,7 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135643-gonochnyj-blokbaster-bitva-motorov-peresek-chertu-v1-mlrd-rublej-kassovyh-sborov/",
-  "https://www.film.ru/news/onlayn-reliz-kleyfeysa",
-  "title:Онлайн-релиз Клэйфейса",
   "skip:https://gamemag.ru/news/201972/obed-ot-capcom-v-dragons-dogma-2-poyavilis-geroi-anime-podzemele-vkusnostey",
   "skip:https://gamemag.ru/news/201971/yavlenie-temnogo-messii-ubisoft-planiruet-vykupit-studiyu-arkane-lyon",
   "skip:https://www.igromania.ru/news/169721/ubisoft-mozhet-kupit-studiyu-arkane-zayavil-dzhejson-shrajer/",
@@ -998,5 +995,8 @@
   "skip:https://www.igromania.ru/news/169971/dark-souls-poluchila-mod-s-trassirovkoj-puti-no-ne-vse-gejmeryi-zametili-raznitsu/",
   "skip:https://www.playground.ru/dark_souls/news/originalnaya_dark_souls_poluchila_rtx_remix_s_trassirovkoj_putej_uluchshennymi_teksturami_effektami_i_podderzhkoj_dlss_5-1891127#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.ign.com/articles/marvels-wolverine-ps5-black-friday-deal",
-  "title:Marvel’s Wolverine Drops to $50 on PS5 for Black Friday in First Sale Since Launch"
+  "title:Marvel’s Wolverine Drops to $50 on PS5 for Black Friday in First Sale Since Launch",
+  "skip:https://gamemag.ru/news/202172/ft-djensen-huang-mojet-vernutsya-na-post-glavy-nvidia",
+  "https://www.playground.ru/gta_6/news/po_otsenkam_analitikov_predzakazy_gta_6_dostigli_15_millionov_kopij-1891138#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:По оценкам аналитиков, предзаказы GTA 6 достигли 15 миллионов копий"
 ]

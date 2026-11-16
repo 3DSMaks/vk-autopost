@@ -1,7 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143959/",
-  "skip:https://www.film.ru/articles/vlastelin-kolec-ohota-na-golluma-vse-chto-izvestno-o-novom-filme-po-motivam-knig-dzhona-rr",
-  "https://variety.com/2026/film/news/josh-oconnor-james-bond-casting-rumors-1236938475/",
   "title:Josh O’Connor Describes Bond Rumors as ‘Incredibly Bizarre Pinch Me Moment’: ‘To Be Considered Is Extraordinary’",
   "https://www.film.ru/news/treyler-tretego-persi-dzheksona",
   "title:Трейлер третьего Перси Джексона",
@@ -998,5 +995,8 @@
   "skip:https://www.pcgamer.com/games/rts/this-rts-inspired-by-star-wars-empire-at-war-promises-colossal-space-encounters-and-planetary-battles-with-hundreds-of-thousands-of-units/",
   "skip:https://gamemag.ru/news/202161/novaya-zarya-riot-games-anonsirovala-proekt-league-of-legends-new-dawn",
   "https://www.ign.com/articles/gta-6s-jason-and-lucia-will-start-as-small-time-criminals-who-have-to-work-up-to-high-value-jobs",
-  "title:GTA 6's Jason and Lucia Will Start as Small-Time Criminals Who Have to Work Up to High-Value Jobs"
+  "title:GTA 6's Jason and Lucia Will Start as Small-Time Criminals Who Have to Work Up to High-Value Jobs",
+  "skip:https://www.igromania.ru/news/169966/gejmdirektor-overwatch-zastupilsya-za-novogo-geroya-iz-shestogo-sezona/",
+  "https://www.playground.ru/cyberpunk_2077/news/dlya_cyberpunk_2077_vyshla_pervaya_publichnaya_beta_cybermp_multipleer_sobstvennye_servery_gonki_i_rezhimy_ot_igrokov-1891088#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Для Cyberpunk 2077 вышла первая публичная бета CyberMP: мультиплеер, собственные серверы, гонки и режимы от игроков"
 ]

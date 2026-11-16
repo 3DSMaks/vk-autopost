@@ -1,9 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/201972/obed-ot-capcom-v-dragons-dogma-2-poyavilis-geroi-anime-podzemele-vkusnostey",
-  "skip:https://gamemag.ru/news/201971/yavlenie-temnogo-messii-ubisoft-planiruet-vykupit-studiyu-arkane-lyon",
-  "skip:https://www.igromania.ru/news/169721/ubisoft-mozhet-kupit-studiyu-arkane-zayavil-dzhejson-shrajer/",
-  "skip:https://www.igromania.ru/news/169720/dragons-dogma-2-poluchila-kollaboratsiyu-s-anime-podzemele-vkusnostej/",
-  "skip:https://www.pcgamer.com/software/ai/google-criticized-by-nyc-mayor-zohran-mamdani-following-ai-policy-change-google-is-trying-to-use-its-monopoly-power-to-force-ai-into-our-public-schools/",
   "skip:https://www.pcgamer.com/gaming-industry/ubisoft-reportedly-wants-to-buy-arkane-from-xbox/",
   "skip:https://stopgame.ru/newsdata/73377/shrayer_ubisoft_odin_iz_potencialnyh_pokupateley_arkane",
   "skip:https://www.ign.com/articles/ubisoft-among-suitors-trying-to-buy-marvels-blade-dishonored-studio-arkane-lyon-from-xbox",
@@ -998,5 +993,10 @@
   "title:Marvel’s Wolverine Drops to $50 on PS5 for Black Friday in First Sale Since Launch",
   "skip:https://gamemag.ru/news/202172/ft-djensen-huang-mojet-vernutsya-na-post-glavy-nvidia",
   "https://www.playground.ru/gta_6/news/po_otsenkam_analitikov_predzakazy_gta_6_dostigli_15_millionov_kopij-1891138#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:По оценкам аналитиков, предзаказы GTA 6 достигли 15 миллионов копий"
+  "title:По оценкам аналитиков, предзаказы GTA 6 достигли 15 миллионов копий",
+  "skip:https://www.igromania.ru/news/169972/prodazhi-gta-6-po-predzakazam-priblizilis-k-15-millionam-kopij-analitiki/",
+  "skip:https://www.pcgamer.com/games/fps/game-dev-isnt-always-straightforward-overwatchs-director-responds-to-players-upset-about-season-6s-hero-being-a-dps/",
+  "skip:https://www.ign.com/articles/gta-6-gets-another-day-one-patch-bigger-on-xbox",
+  "https://www.ign.com/articles/fable-reveals-first-look-at-bowerstones-new-map-and-its-huge",
+  "title:Fable Reveals First Look At Bowerstone's New Map, And It's Huge"
 ]

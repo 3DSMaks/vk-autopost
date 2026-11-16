@@ -1,11 +1,4 @@
 [
-  "title:Масштабный сбой в работе авиадиспетчерской системы в США привел к приостановке вылетов и отмене тысяч рейсов",
-  "skip:https://www.interfax.ru/russia/1128948",
-  "skip:https://ria.ru/20261114/moskva-2131478988.html",
-  "skip:https://tass.ru/proisshestviya/28316957",
-  "https://www.rbc.ru/rbcfreenews/6af78aefe48b802d2e4be80b",
-  "title:Силы ПВО перехватили три беспилотника, летевших в направлении Москвы",
-  "skip:https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss",
   "skip:https://news.google.com/rss/articles/CBMirgFBVV95cUxPbGJQd2ZPVXZtMTIxS2dDR2ZOWjU5bVpGSGNXXzY4OFNEWWFTTDV0c0k3cjM5QWF3MVRqaU1RaWhja3YwZzVJOHNHYV9jWkNUR3NrWXRCUl9XSG9QODZNMHhkeUloNVI5a1U5Skg0TzhubXl0ZFZGc3JkdDkzRmstR3pPZi1USEdLTW9rRkdVOXdRakxSX1QwOVBsUEZsWTVFMHE1SkpNV19qMzM5UVE?oc=5",
   "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNlM1d3RDejItNTdSdk9KWU9PaWZPanZTQmNHd3JRY1BPTGJOYWRkaWYweVVqSzUyVkFadl84SmdVT3pyVVk2RzJYZmxMZFBPazVhQ2RKbklvSnlKZHQtWnZuM0xROU1fSDlSZVAtdzg2Y1BKS3VBWlAwMGllM3pLUFkyT1lwcWgxa3YtS0hCYW5NNGFtcGNlT3AtS2YwZnJZbWowSWlXSUhCM0dJSkE?oc=5",
   "title:В Новом Орлеане танкер врезался в речной круизный лайнер",
@@ -998,5 +991,12 @@
   "skip:https://ria.ru/20261116/penza-2131989712.html",
   "skip:https://ria.ru/20261116/aeroporty-2131989023.html",
   "https://www.interfax.ru/russia/1129414",
-  "title:В российских аэропортах ввели временные ограничения на прием и выпуск самолетов"
+  "title:В российских аэропортах ввели временные ограничения на прием и выпуск самолетов",
+  "skip:https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss",
+  "skip:https://www.france24.com/en/tv-shows/business/20261116-rogue-ai-california-sues-openai-over-hugging-face-and-other-cyberattacks",
+  "https://ria.ru/20261117/ssha-2131997342.html",
+  "title:Генпрокуратура Калифорнии подала иск против OpenAI из-за разработки опасных моделей ИИ",
+  "skip:https://tass.ru/sport/28323937",
+  "https://ria.ru/20261117/liga-natsiy-2131996987.html",
+  "title:Сборная Германии разгромила команду Нидерландов в матче Лиги наций со счетом 5:0"
 ]

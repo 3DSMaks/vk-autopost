@@ -1,6 +1,4 @@
 [
-  "skip:https://www.playground.ru/misc/news/google_postavila_shkoly_ssha_pered_vyborom_prinyat_ii_ili_lishitsya_google_search_cherez_uchenicheskie_akkaunty-1887688#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.pcgamer.com/software/ai/google-criticized-by-nyc-mayor-zohran-mamdani-following-ai-policy-change-google-is-trying-to-use-its-monopoly-power-to-force-ai-into-our-public-schools/",
   "skip:https://stopgame.ru/newsdata/73376/game_pass_v_noyabre_chast_1_warhammer_survivors_toxic_commando_void_breaker",
   "skip:https://www.igromania.ru/news/169718/warhammer-survivors-toxic-commando-i-football-manager-2027-vojdut-v-xbox-game-pass-do-17-noyabrya/",
   "skip:https://www.pcgamer.com/software/ai/just-deleted-a-couple-terabytes-of-ai-slop-itch-io-pushes-back-against-the-flood-of-ai-on-its-storefront/",
@@ -998,5 +996,7 @@
   "skip:https://www.ign.com/articles/rockstars-real-life-grand-theft-auto-research",
   "skip:https://www.igromania.ru/news/169962/skrudzh-s-vernuvshimsya-posle-otmenyi-dzhonni-deppom-sobral-42-mln-za-pervyij-uikend-prokata/",
   "https://www.playground.ru/monster_hunter_wilds/news/capcom_potratila_god_na_ispravlenie_monster_hunter_wilds_no_bez_re_engine_eto_zanyalo_by_gorazdo_bolshe_vremeni-1891122#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Capcom потратила год на исправление Monster Hunter Wilds, но без RE Engine это заняло бы гораздо больше времени"
+  "title:Capcom потратила год на исправление Monster Hunter Wilds, но без RE Engine это заняло бы гораздо больше времени",
+  "https://www.playground.ru/fable_2026/news/avtory_novoj_fable_raskryli_kartu_i_masshtab_pererozhdennogo_bauerstouna-1891130#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Авторы новой Fable раскрыли карту и масштаб перерожденного Бауэрстоуна"
 ]

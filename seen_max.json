@@ -1,6 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169722/gejmplej-zhdyom-cherez-15-let-igroki-vstretili-trejler-the-elder-scrolls-vi-sentinel-skepsisom-i-shutkami/",
-  "skip:https://www.igromania.ru/news/169721/ubisoft-mozhet-kupit-studiyu-arkane-zayavil-dzhejson-shrajer/",
   "skip:https://www.igromania.ru/news/169720/dragons-dogma-2-poluchila-kollaboratsiyu-s-anime-podzemele-vkusnostej/",
   "skip:https://www.ign.com/articles/witcher-3-songs-of-the-past-dlc-details",
   "skip:https://www.pcgamer.com/gaming-industry/ubisoft-reportedly-wants-to-buy-arkane-from-xbox/",
@@ -998,5 +996,7 @@
   "https://www.kinonews.ru/news_144169/",
   "title:Съемки \"Бэтмена 2\" с Робертом Паттинсоном вновь затягиваются",
   "https://kg-portal.ru/comments/135802-juel-kinnaman-stanet-strashnym-mutantom-radi-nauki-v-novom-horrortrillere/",
-  "title:Юэль Киннаман станет страшным мутантом ради науки в новом хоррор-триллере"
+  "title:Юэль Киннаман станет страшным мутантом ради науки в новом хоррор-триллере",
+  "https://www.playground.ru/cyberpunk_2077/news/dlya_cyberpunk_2077_vyshla_pervaya_publichnaya_beta_cybermp_multipleer_sobstvennye_servery_gonki_i_rezhimy_ot_igrokov-1891088#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Для Cyberpunk 2077 вышла первая публичная бета CyberMP: мультиплеер, собственные серверы, гонки и режимы от игроков"
 ]

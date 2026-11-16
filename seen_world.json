@@ -1,14 +1,4 @@
 [
-  "title:В Москве на юге города взорвался автомобиль, есть пострадавший",
-  "skip:https://www.kommersant.ru/doc/9096183",
-  "https://www.rbc.ru/rbcfreenews/6af6ba8c83f2da2dcf009d1d",
-  "title:В Забайкальском крае подросток с топором проник в школу и заперся в кабинете",
-  "skip:https://ria.ru/20261113/novosibirsk-2131286644.html",
-  "https://tass.ru/proisshestviya/28314839",
-  "title:Под Новосибирском трех подростков обвинили в госизмене за попытку поджога",
-  "skip:https://www.interfax.ru/russia/1128800",
-  "https://ria.ru/20261113/opasnost-2131286866.html",
-  "title:В Челябинской области объявили режим беспилотной опасности",
   "skip:https://www.interfax.ru/world/1128804",
   "skip:https://www.interfax.ru/russia/1128802",
   "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcEw4cVpnMkIxMTVtZEJlQmN3OHlsLUxxZnQxMWlfV3VfWTBYeHA2VEpBVWxpZk9TejdSaDgzazdlQUlMZy00aEhmZS1GYnhpVmU1bzdQTWM2VUJqd2dOWWowa1VQSWppQVdYSi1PVm0zX2J1b1hFU1QwaGs5N3lDZkJ3bEY5OG9Tai15M3VoRXVycFVBWjYwWjQ5dUhDcEJ4SWFHSXZxNDg5b2k2OG1DUVBoTHBDWE84dmVfZXc4WQ?oc=5",
@@ -998,5 +988,15 @@
   "skip:https://www.kommersant.ru/doc/9110290",
   "skip:https://ria.ru/20261116/bespilotnik-2131794813.html",
   "https://www.interfax.ru/russia/1129241",
-  "title:В Запорожской области при атаке беспилотника на рейсовый автобус пострадали три человека"
+  "title:В Запорожской области при атаке беспилотника на рейсовый автобус пострадали три человека",
+  "skip:https://www.interfax.ru/business/1129252",
+  "skip:https://www.kommersant.ru/doc/9110345",
+  "skip:https://tass.ru/ekonomika/28320899",
+  "https://www.rbc.ru/quote/16/11/2026/6afabaac2da76eb8482a7a42",
+  "title:Мосбиржа объявила о делистинге акций «Евротранса» с 30 декабря",
+  "skip:https://www.rbc.ru/rbcfreenews/6afab9e670f56e3ad543cb49",
+  "skip:https://tass.ru/obschestvo/28320877",
+  "skip:https://ria.ru/20261116/obmen-2131805111.html",
+  "https://www.interfax.ru/russia/1129251",
+  "title:Россия и Украина ведут подготовку к масштабному обмену пленными"
 ]

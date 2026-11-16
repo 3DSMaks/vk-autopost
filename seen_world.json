@@ -1,11 +1,4 @@
 [
-  "title:Минобороны РФ заявило об ударе по морскому судну с военными грузами для Украины",
-  "skip:https://ria.ru/20261113/elektropodstantsii-2131432985.html",
-  "skip:https://tass.ru/armiya-i-opk/28316381",
-  "https://www.interfax.ru/russia/1128897",
-  "title:Российские военные нанесли удары по двум электроподстанциям в Сумской области",
-  "skip:https://www.kommersant.ru/doc/9109103",
-  "https://www.interfax.ru/russia/1128894",
   "title:Замглавы Росмолодежи Денис Аширов задержан по делу о мошенничестве",
   "skip:https://ria.ru/20261113/ege-2131438113.html",
   "skip:https://tass.ru/obschestvo/28316447",
@@ -998,5 +991,12 @@
   "skip:https://www.kommersant.ru/doc/9110824",
   "skip:https://www.interfax.ru/world/1129354",
   "https://tass.ru/mezhdunarodnaya-panorama/28323041",
-  "title:Дональд Трамп допустил встречу с Ким Чен Ыном в Китае"
+  "title:Дональд Трамп допустил встречу с Ким Чен Ыном в Китае",
+  "skip:https://www.interfax.ru/world/1129360",
+  "https://www.kommersant.ru/doc/9110881",
+  "title:Трамп назвал темы предстоящих переговоров с Путиным и Си Цзиньпином",
+  "skip:https://www.kommersant.ru/doc/9110832",
+  "skip:https://www.interfax.ru/world/1129358",
+  "https://ria.ru/20261116/tramp-2131951914.html",
+  "title:Трамп заявил, что Россия проявляет сдержанность на Украине"
 ]

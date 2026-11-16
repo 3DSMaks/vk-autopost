@@ -1,8 +1,4 @@
 [
-  "https://www.kinonews.ru/news_143981/",
-  "title:Объявлена дата премьеры второго сезона аниме \"Голубоглазый самурай\"",
-  "skip:https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/shedevr_remejk_the_legend_of_zelda_ocarina_of_time_dlya_switch_2_poluchil_96_ballov_na_metacritic-1887723#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.playground.ru/elder_scrolls_6/news/fanaty_nashli_v_tizere_the_elder_scrolls_6_namyok_na_datu_sobytij_i_vozmozhnoe_vozvraschenie_drakonov-1887721#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169729/remejk-the-legend-of-zelda-ocarina-of-time-poluchaet-otlichnyie-otsenki-kritikov/",
   "skip:https://www.igromania.ru/news/169728/silent-hill-townfall-the-blood-of-dawnwalker-marvels-wolverine-i-drugie-vyigodnyie-predlozheniya-na-rasprodazhe-v-ps-store/",
   "https://gamemag.ru/news/201958/blizzard-nameknula-na-konsolnuyu-versiyu-world-of-warcraftlegendarnaya-mmo-mojet-vyyti-na-xbox",
@@ -998,5 +994,9 @@
   "skip:https://kg-portal.ru/comments/135807-lichnost-dzhejmsa-bonda-raskryta-vpervom-tizere-robert-pattinson/",
   "skip:https://www.film.ru/news/obyavlen-novyy-dzheyms-bond",
   "https://www.film.ru/news/operativnoe-prodlenie-medlennyh-loshadey",
-  "title:Оперативное продление Медленных лошадей"
+  "title:Оперативное продление Медленных лошадей",
+  "skip:https://www.film.ru/news/medlennye-loshadi-mogut-zakonchitsya",
+  "https://variety.com/2026/artisans/news/the-odyssey-hoyte-van-hoytema-thunderstorm-imax-1236948974/",
+  "video:2026-11-16:https://variety.com/2026/artisans/news/the-odyssey-hoyte-van-hoytema-thunderstorm-imax-1236948974/",
+  "title:‘The Odyssey’ Cinematographer Hoyte Van Hoytema Breaks Down Filming Climactic Thunderstorm Scene in Imax"
 ]

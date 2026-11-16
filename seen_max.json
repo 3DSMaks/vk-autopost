@@ -1,8 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73374/magazin_itchio_dobavil_filtr_dlya_skrytiya_igr_s_ii_kontentom",
-  "https://gamemag.ru/news/201958/blizzard-nameknula-na-konsolnuyu-versiyu-world-of-warcraftlegendarnaya-mmo-mojet-vyyti-na-xbox",
-  "title:Blizzard намекнула на консольную версию World of Warcraft — легендарная MMO может выйти на Xbox",
-  "skip:https://deadline.com/2026/11/sister-brother-manhole-cover-tokyo-film-festival-awards-1237212894/",
   "skip:https://www.film.ru/news/niv-kempbell-v-krike-8",
   "skip:https://www.film.ru/news/kosmicheskiy-horror-pola-us-andersona",
   "https://deadline.com/2026/11/itv-gone-season-2-keeley-hawes-eve-myles-george-kay-1237212082/",
@@ -998,5 +994,9 @@
   "title:Авторы новой Fable раскрыли карту и масштаб перерожденного Бауэрстоуна",
   "skip:https://variety.com/2026/film/global/gerard-depardieu-drops-appeal-in-sexual-assault-case-1236948679/",
   "https://www.film.ru/news/razdacha-pochetnyh-oskarov",
-  "title:Раздача почетных Оскаров"
+  "title:Раздача почетных Оскаров",
+  "skip:https://www.playground.ru/call_of_duty_world_at_war/news/odin_iz_sozdatelej_zombi_rezhima_call_of_duty_pokinul_studiyu_treyarch_posle_20_let_raboty-1891132#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/169963/sozdatelya-rezhima-zombi-v-call-of-duty-uvolili-spustya-pochti-20-let-rabotyi-v-treyarch/",
+  "https://www.playground.ru/gta_6/news/po_otsenkam_analitikov_predzakazy_gta_6_dostigli_15_millionov_kopij-1891138#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:По оценкам аналитиков, предзаказы GTA 6 достигли 15 миллионов копий"
 ]

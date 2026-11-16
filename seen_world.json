@@ -1,12 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcnZIWjJsdGFZd21hcHZROGNCeTRaOFpXYVNNTXhuYUREaFY0MG9QMkpmZjJkUkdmMzlYZDBGaTN6MXBlTHQ3SXlNZGZTTjh0WldjNFcyR3IxWlE1WnhzWGFMMEZ0WlN2UWI5Xy10RXFkSC1DUkthbXlIRUJPbnpzQ2JPODk1ampHX1U2MWp4T3Y4VzBudHFUTlplSFRtUHZ2b1ZTVXV4RmppUQ?oc=5",
-  "skip:https://www.sport-interfax.ru/1128849",
-  "skip:https://ria.ru/20261113/manchester-2131364048.html",
-  "skip:https://tass.ru/sport/28315785",
-  "skip:https://www.rbc.ru/sport/13/11/2026/6af591d2e9b99160841b9d4f",
-  "https://www.kommersant.ru/doc/9108919",
-  "title:Маурисио Почеттино назначен главным тренером «Манчестер Юнайтед»",
-  "skip:https://www.rbc.ru/quote/13/11/2026/6af6f13215af3f780c4a6a1d",
   "https://www.interfax.ru/business/1128850",
   "title:Московская биржа запускает торги фьючерсами на сою и кукурузу",
   "skip:https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-microsoft-global-outage?traffic_source=rss",
@@ -998,5 +990,13 @@
   "title:Совет Евросоюза одобрил выделение Украине финансовой помощи на 8 млрд евро",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28321777",
   "https://www.rbc.ru/politics/16/11/2026/6afae7a6aae4a7f2fc7a45f7",
-  "title:ЕС ввел санкции против ряда российских банков, предприятий и платежных систем"
+  "title:ЕС ввел санкции против ряда российских банков, предприятий и платежных систем",
+  "skip:https://www.kommersant.ru/doc/9110599",
+  "skip:https://www.interfax.ru/world/1129298",
+  "https://ria.ru/20261116/sanktsii-2131887750.html",
+  "title:Евросоюз ввел санкции против более чем 40 российских кредитных организаций",
+  "skip:https://www.interfax.ru/moscow/1129299",
+  "skip:https://www.kommersant.ru/doc/9110590",
+  "https://www.rbc.ru/rbcfreenews/6afae2b6442b05518a96b99e",
+  "title:На западе Москвы произошел крупный пожар в спорткомплексе на Крылатской улице"
 ]

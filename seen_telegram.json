@@ -1,7 +1,4 @@
 [
-  "skip:https://www.playground.ru/gta_6/news/rockstar_raskryla_datu_predzagruzki_gta_6_i_trebovaniya_k_svobodnomu_mestu-1887459#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://gamemag.ru/news/201956/podojdem-eshche-8-let-todd-govard-oficialno-predstavil-the-elder-scrolls-vi-sentinel",
-  "skip:https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-sentinel-is-finally-made-official/",
   "skip:https://www.igromania.ru/news/169714/predzagruzka-gta-6-nachnyotsya10-noyabrya/",
   "skip:https://www.playground.ru/elder_scrolls_6/news/the_elder_scrolls_6_ofitsialno_poluchila_podzagolovok_sentinel_bethesda_pokazala_logotip_igry-1887451#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169713/the-elder-scrolls-6-dejstvitelno-nosit-podzagolovok-sentinel/",
@@ -998,5 +995,8 @@
   "skip:https://kg-portal.ru/comments/135800-skrudzh-s-dzhonni-deppom-pobedil-novinki-i-dazhe-nedavnjuju-godzillu/",
   "skip:https://www.film.ru/news/skrudzh-s-dzhonni-deppom-pokoril-prokat",
   "https://www.kinonews.ru/news_144170/",
-  "title:Энтони Маки сравнил Сэма Уилсона с Человеком-пауком"
+  "title:Энтони Маки сравнил Сэма Уилсона с Человеком-пауком",
+  "skip:https://variety.com/2026/film/box-office/johnny-depp-ebenezer-ramayana-godzilla-minus-zero-global-box-office-1236948618/",
+  "https://www.kinonews.ru/news_144172/",
+  "title:Фрагмент сериала \"Гарри Поттер\" разделил поклонников и вызвал споры о качестве графики"
 ]

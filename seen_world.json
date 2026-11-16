@@ -1,11 +1,4 @@
 [
-  "title:На авиабазе США в Великобритании зафиксировали неопознанные дроны",
-  "skip:https://www.rbc.ru/politics/14/11/2026/6af77cf540887869aaf286eb",
-  "skip:https://news.google.com/rss/articles/CBMivwFBVV95cUxPTTdvYllmb0pHUXVJVGNLUmFZb2I0WXpjZENubU52NW1nQlFJa1E4c3ZNTGhseUdiUzl0ZXJWa0pOSnR1ZDlRQk9FTHZlaWkyT0hLM1J3OW5tVUhIb0o4OWN5bDVVakF5T3lIanR1SVVMSkctSDlpb2loMWI2MENuWEIxTmhTcy1kZXdqSlRrdi1NMHlFSGtPRWEzdUFrMWR1c2wwNk9rRUUwOGpzajM0N1h2MndWVU9MYngyMVdudw?oc=5",
-  "skip:https://ria.ru/20261114/ssha-2131474850.html",
-  "https://tass.ru/proisshestviya/28316917",
-  "title:В США ввели общенациональный запрет на вылеты из-за сбоя оборудования",
-  "skip:https://www.kommersant.ru/doc/9109493",
   "skip:https://www.rbc.ru/rbcfreenews/6af78201b03dd80b38f535ef",
   "skip:https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
   "skip:https://ria.ru/20261114/ssha-2131476517.html",
@@ -998,5 +991,12 @@
   "skip:https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2I5X1NCMDRQZURDMlVFTTY4TmJ1TFVCeUIyWFRuenhhUmV4QTd5ZW9ydEdUaUFXb0dGTVFjR3VubUxvaExsZ3pfWUd2dUw1dEdFbDg5TWhkbEFxNEJydHNtaTgxRnJ1VXRNdjJQY25GSU1NdEZRcG9wUlN0NTJlRHk4QW5WbHk1eV9XOTROU2M3M3N4ZU0wbkxBSTY?oc=5",
   "skip:https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmhqb0E4Q3hTMkFoVnU5d2Ffby1IUFhtMEROZ2pRZ2xva3dxZTVabklKVnJhRk9XWmxxX0hfM2ZIV1JjQ01yNXJCLXpaaXZmTmV6QkkycXcwV1pNbF91OXptLTA1QjZVM1RhOTN5WHUwTFRtRmNlbkkxc2Nod1oydmFJeV9TZkZfdjBqb1l5TWJXeUVkRVZDdjNzbW10dW80?oc=5",
   "https://tass.ru/ekonomika/28323841",
-  "title:Клиенты крупнейших банков США сообщили о массовых сбоях в работе сервисов"
+  "title:Клиенты крупнейших банков США сообщили о массовых сбоях в работе сервисов",
+  "skip:https://www.sport-interfax.ru/1129407",
+  "skip:https://www.rbc.ru/sport/16/11/2026/6afb4f29090591f58e85c19d",
+  "https://www.kommersant.ru/doc/9111102",
+  "title:Норвегия ограничила въезд для российских и белорусских спортсменов",
+  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/16/uefa-backs-diallo-to-challenge-infantino-for-fifa-presidency?traffic_source=rss",
+  "https://www.france24.com/en/uefa-backs-france-s-diallo-to-stand-against-infantino-in-fifa-election",
+  "title:УЕФА поддержал кандидатуру Филиппа Диалло на пост главы ФИФА"
 ]

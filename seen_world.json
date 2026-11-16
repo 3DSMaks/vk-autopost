@@ -1,10 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28315681",
-  "skip:https://ria.ru/20261113/microsoft--2131349385.html",
-  "skip:https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users?traffic_source=rss",
-  "skip:https://www.france24.com/en/video/20261113-microsoft-faces-a-major-outlook-outage-no-signs-of-a-cyberattack",
-  "skip:https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYWY5MnRXdTRCaHJZT3BKRWs4TzQxdUR3NEZzQ3ZsTmxCLW9wcFJJMzFaLS1pVGhtb3BabWdhN3pvQUhPU0FNbDJMV2I0a3BWaGtuQWpxVVNxRTZIUGhNS3c5RG5oVHNGaGg3XzJDdkE1V0RBWFJKVzMzTFVnN3otc0xZNWhCWWducmlfS2dXZ3lGcUtWcFJQWkxnejVqWjFxTlZKbENDamJfUQ?oc=5",
-  "https://tass.ru/ekonomika/28315719",
   "skip:https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcnZIWjJsdGFZd21hcHZROGNCeTRaOFpXYVNNTXhuYUREaFY0MG9QMkpmZjJkUkdmMzlYZDBGaTN6MXBlTHQ3SXlNZGZTTjh0WldjNFcyR3IxWlE1WnhzWGFMMEZ0WlN2UWI5Xy10RXFkSC1DUkthbXlIRUJPbnpzQ2JPODk1ampHX1U2MWp4T3Y4VzBudHFUTlplSFRtUHZ2b1ZTVXV4RmppUQ?oc=5",
   "skip:https://www.sport-interfax.ru/1128849",
   "skip:https://ria.ru/20261113/manchester-2131364048.html",
@@ -998,5 +992,11 @@
   "skip:https://www.kommersant.ru/doc/9110549",
   "skip:https://www.rbc.ru/rbcfreenews/6afadb073f52ccac338ad342",
   "https://ria.ru/20261116/poltoranin-2131866357.html",
-  "title:Умер бывший вице-премьер России Михаил Полторанин"
+  "title:Умер бывший вице-премьер России Михаил Полторанин",
+  "skip:https://www.kommersant.ru/doc/9110572",
+  "https://www.rbc.ru/rbcfreenews/6afadb524518d0548ab5bbc1",
+  "title:Совет Евросоюза одобрил выделение Украине финансовой помощи на 8 млрд евро",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28321777",
+  "https://www.rbc.ru/politics/16/11/2026/6afae7a6aae4a7f2fc7a45f7",
+  "title:ЕС ввел санкции против ряда российских банков, предприятий и платежных систем"
 ]

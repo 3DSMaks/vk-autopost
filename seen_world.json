@@ -1,13 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9095992",
-  "skip:https://ria.ru/20261113/senator-2131251455.html",
-  "https://www.rbc.ru/rbcfreenews/6af666418146c92f135f5b4b",
-  "title:Экс-глава Nvidia Дженсен Хуанг вызван в конгресс США после сообщений о новых связях",
-  "skip:https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ0x3UHpOT2FfZW9tc1Zia0F3NmNsZzUzUUJqd25Kcl9JdUFlOVhOMEFXR2ctazRoVXlkMFF4V1hIbGlLdnNQc3ZMRlBTeGZBVmxwSGx6a2cxVXgtZDhFUE80WFkxLUhfRjNMRmhtcGZvaGxlWjItSXpibmVXSkxrT1N4eWI4U3JzRDJnTXQ0SzBTMkFTYnBKT3JBWEQ1V0RMNzFoRDR6ckdvSTVRekw1SlU5SQ?oc=5",
-  "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries",
-  "title:Глобальный сбой в работе сервисов Microsoft затронул пользователей в десятках стран",
-  "skip:https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain?traffic_source=rss",
-  "skip:https://www.interfax.ru/world/1128759",
   "skip:https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjhnZVFHWnV4RHpscnFyUjFWOEl5VndNZ0Y4MFdEVlpueUNaeHRPMVdCbjA4Mmktc0tYWnFsZWdZSkd4dFNvTmszUHFWdC15S0pja2ozaTg0R0dOdEY3aDJtenZwREh5dmRvTGVTUkxVUDNjN3huQU1TRTU1bEVBampuYzdsTjJJZ2tBUXQwal85QnRsWDU4OWNvbDVzN0VUR1R0clNkZmpkaXZMaWh5dExSNHRCUQ?oc=5",
   "https://www.kommersant.ru/doc/9096011",
   "title:КСИР заявил о нанесении удара по радару США в Бахрейне",
@@ -998,5 +989,14 @@
   "skip:https://www.rbc.ru/rbcfreenews/6afa2fa0e6a766084d395239",
   "skip:https://tass.ru/obschestvo/28319785",
   "https://ria.ru/20261116/bespilotniki-2131744888.html",
-  "title:Над Ярославской областью сбили беспилотники и ввели ограничения в аэропорту"
+  "title:Над Ярославской областью сбили беспилотники и ввели ограничения в аэропорту",
+  "skip:https://www.rbc.ru/rbcfreenews/6afa3caae6cd301ac78f4bfc",
+  "skip:https://www.interfax.ru/moscow/1129181",
+  "skip:https://www.kommersant.ru/doc/9110075",
+  "https://ria.ru/20261116/moskva-2131746377.html",
+  "title:Силы ПВО сбили новые десятки беспилотников на подлете к Москве",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28319835",
+  "skip:https://ria.ru/20261116/gagauziya-2131742236.html",
+  "https://www.interfax.ru/world/1129182",
+  "title:Во второй тур выборов главы Гагаузии вышли Стояногло и Гагауз"
 ]

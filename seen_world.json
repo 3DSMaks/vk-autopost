@@ -1,13 +1,4 @@
 [
-  "title:Bloomberg назвал страны-участницы новой делегации на переговорах по Украине",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28316759",
-  "https://www.interfax.ru/world/1128939",
-  "title:Польша приостановила финансирование закупок оружия для Украины",
-  "skip:https://ria.ru/20261113/microsoft-2131466127.html",
-  "skip:https://ria.ru/20261113/microsoft-2131465901.html",
-  "skip:https://www.rbc.ru/technology_and_media/13/11/2026/6af757e3ea9aa962aa7bf6bb",
-  "https://ria.ru/20261113/microsoft-2131466216.html",
-  "title:Microsoft устранила причины глобального сбоя в работе сервисов",
   "skip:https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ2lneWN6TzV1ZXctMUFVUlJSbVVDUG1vOWNYM1d2Z25QV1ZlSHdjSFVmblhtX1UzNEQySEYwdjZNZGw3VnZPc00yOTEtSWFsY25CRTRhaGZJM2tFamQ3cDl6YTEwbmJLQ1VmdHo2Y2hjVThnNjdiQTNfai1xTDhFcmFITF9WblV6Rlk1M0FnbDRFWXJjdXA5R19ERUZ2WjdyZmg4bUxPQ2RZcmhaUzZxRjIwQk5jTWw1cUwxVw?oc=5",
   "skip:https://ria.ru/20261113/tramp-2131464988.html",
   "https://www.kommersant.ru/doc/9109209",
@@ -998,5 +989,14 @@
   "skip:https://ria.ru/20261116/ataka-2131972214.html",
   "skip:https://ria.ru/20261116/pvo-2131969604.html",
   "https://www.rbc.ru/rbcfreenews/6afb473346b23bd6b11f61ab",
-  "title:Силы ПВО сбили более 70 беспилотников на подлете к Москве"
+  "title:Силы ПВО сбили более 70 беспилотников на подлете к Москве",
+  "skip:https://ria.ru/20261116/sobyanin-2131976325.html",
+  "skip:https://tass.ru/proisshestviya/28323617",
+  "skip:https://www.interfax.ru/moscow/1129392",
+  "https://www.kommersant.ru/doc/9111109",
+  "title:Силы ПВО отразили массированный налет беспилотников на Москву",
+  "skip:https://ria.ru/20261116/kiev-2131972387.html",
+  "skip:https://www.interfax.ru/world/1129385",
+  "https://tass.ru/mezhdunarodnaya-panorama/28323421",
+  "title:Марин Ле Пен заявила о намерении прекратить финансовую помощь Украине в случае избрания президентом"
 ]

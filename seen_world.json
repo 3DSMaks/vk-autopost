@@ -1,13 +1,4 @@
 [
-  "skip:https://www.interfax.ru/moscow/1128814",
-  "https://www.kommersant.ru/doc/9108774",
-  "title:СКР подтвердил информацию о покушении на экс-советника Азарова Сергея Заворотного в Москве",
-  "skip:https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-  "https://www.france24.com/en/video/20261113-us-ukraine-say-europe-to-join-peace-talks-as-putin-sticks-to-hardline-stance",
-  "title:Европа присоединится к следующему раунду переговоров по Украине",
-  "skip:https://tass.ru/proisshestviya/28315403",
-  "skip:https://ria.ru/20261113/pasechnik-2131336405.html",
-  "https://www.interfax.ru/russia/1128838",
   "title:В Луганске в результате удара беспилотника по остановке погибла женщина",
   "skip:https://ria.ru/20261113/transport-2131349642.html",
   "https://tass.ru/obschestvo/28315619",
@@ -998,5 +989,14 @@
   "skip:https://www.interfax.ru/russia/1129267",
   "skip:https://www.rbc.ru/rbcfreenews/6afac63f718592b07b3fdfd6",
   "https://www.kommersant.ru/doc/9110469",
-  "title:У Крымского моста со стороны Кубани развернули пункты обогрева"
+  "title:У Крымского моста со стороны Кубани развернули пункты обогрева",
+  "skip:https://www.interfax.ru/world/1129281",
+  "skip:https://www.interfax.ru/world/1129276",
+  "skip:https://tass.ru/ekonomika/28321451",
+  "skip:https://www.kommersant.ru/doc/9110402",
+  "https://www.kommersant.ru/doc/9110526",
+  "title:ЕС ввел санкции против Татьяны Ким и 145 физических и юридических лиц из России",
+  "skip:https://www.interfax.ru/russia/1129279",
+  "https://tass.ru/obschestvo/28321567",
+  "title:Умер бывший вице-премьер РФ и экс-министр печати Михаил Полторанин"
 ]

@@ -1,9 +1,4 @@
 [
-  "skip:https://www.film.ru/news/naruto-oficialno-v-razrabotke",
-  "skip:https://www.kinonews.ru/news_143971/",
-  "skip:https://kg-portal.ru/comments/135629-russkij-trejler-novyh-pohozhdenij-kliffa-buta/",
-  "https://www.kinonews.ru/news_143982/",
-  "title:Объявлен хронометраж фильма \"Дюна: Часть третья\"",
   "skip:https://www.film.ru/news/milliard-bitvy-motorov",
   "skip:https://kg-portal.ru/comments/135643-gonochnyj-blokbaster-bitva-motorov-peresek-chertu-v1-mlrd-rublej-kassovyh-sborov/",
   "https://www.kinonews.ru/news_143981/",
@@ -998,5 +993,10 @@
   "https://www.ign.com/articles/gta-6s-jason-and-lucia-will-start-as-small-time-criminals-who-have-to-work-up-to-high-value-jobs",
   "title:GTA 6's Jason and Lucia Will Start as Small-Time Criminals Who Have to Work Up to High-Value Jobs",
   "https://www.ign.com/articles/ea-adds-dont-delete-message-to-madden-nfl-27-in-bid-to-keep-players-from-making-room-ahead-of-gta-6",
-  "title:EA Adds 'Don't Delete' Message to Madden NFL 27 in Bid to Keep Players From Making Room Ahead of GTA 6"
+  "title:EA Adds 'Don't Delete' Message to Madden NFL 27 in Bid to Keep Players From Making Room Ahead of GTA 6",
+  "skip:https://www.kinonews.ru/news_144172/",
+  "skip:https://kg-portal.ru/comments/135800-skrudzh-s-dzhonni-deppom-pobedil-novinki-i-dazhe-nedavnjuju-godzillu/",
+  "skip:https://www.film.ru/news/skrudzh-s-dzhonni-deppom-pokoril-prokat",
+  "https://www.kinonews.ru/news_144170/",
+  "title:Энтони Маки сравнил Сэма Уилсона с Человеком-пауком"
 ]

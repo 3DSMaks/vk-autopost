@@ -1,8 +1,4 @@
 [
-  "title:В Луганске в результате удара беспилотника по остановке погибла женщина",
-  "skip:https://ria.ru/20261113/transport-2131349642.html",
-  "https://tass.ru/obschestvo/28315619",
-  "title:Правительство России внесло в Госдуму законопроект об эксплуатации беспилотного транспорта",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28315681",
   "skip:https://ria.ru/20261113/microsoft--2131349385.html",
   "skip:https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users?traffic_source=rss",
@@ -998,5 +994,9 @@
   "title:ЕС ввел санкции против Татьяны Ким и 145 физических и юридических лиц из России",
   "skip:https://www.interfax.ru/russia/1129279",
   "https://tass.ru/obschestvo/28321567",
-  "title:Умер бывший вице-премьер РФ и экс-министр печати Михаил Полторанин"
+  "title:Умер бывший вице-премьер РФ и экс-министр печати Михаил Полторанин",
+  "skip:https://www.kommersant.ru/doc/9110549",
+  "skip:https://www.rbc.ru/rbcfreenews/6afadb073f52ccac338ad342",
+  "https://ria.ru/20261116/poltoranin-2131866357.html",
+  "title:Умер бывший вице-премьер России Михаил Полторанин"
 ]

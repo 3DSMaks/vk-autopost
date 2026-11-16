@@ -1,13 +1,4 @@
 [
-  "title:Бундестаг одобрил законопроект о расширении полномочий германских спецслужб",
-  "skip:https://tass.ru/sport/28316045",
-  "skip:https://www.sport-interfax.ru/1128868",
-  "skip:https://www.kommersant.ru/doc/9108959",
-  "skip:https://www.rbc.ru/sport/13/11/2026/6af6ffbf7c432f4cb5769e78",
-  "https://www.rbc.ru/sport/13/11/2026/6af70be72da76eb8482a79f6",
-  "title:Российский боец Усман Нурмагомедов приговорен к тюремному сроку в ОАЭ за драку",
-  "skip:https://www.rbc.ru/rbcfreenews/6af7020a8c5183ec0a3ac728",
-  "https://ria.ru/20261113/berlin-2131386300.html",
   "title:В Берлине неизвестные подожгли автомобиль главного редактора издания NIUS Юлиана Райхельта",
   "skip:https://ria.ru/20261113/degtyarev-2131398316.html",
   "skip:https://tass.ru/sport/28316127",
@@ -998,5 +989,14 @@
   "title:Эстония объявила о закрытии пограничных переходов с Россией",
   "skip:https://ria.ru/20261116/bolgarija-2131881047.html",
   "https://tass.ru/proisshestviya/28322233",
-  "title:У берегов Болгарии дроны атаковали сухогруз"
+  "title:У берегов Болгарии дроны атаковали сухогруз",
+  "skip:https://www.interfax.ru/business/1129324",
+  "skip:https://news.google.com/rss/articles/CBMipgFBVV95cUxPdUw2SG5ZR1g0ZTJkTU5RUlBsaHlHS3NoSFJEMWVweWQ4eXY2N19JVEF2Q2loSDVjdTRNSW9sQjE0OUtfVWM4bzdQOWNRWnVidXRRTlNLX0NrQjJaWld1b1ptT1N0dEg4YnhDSTRxejh0RTQ4R1dOZ0FPUFNJTGxUU2kzWmRkdzl1YzA0RU9UUEgtQkFQRm5vQ2JPSnJkSDh6NVdKdFdn?oc=5",
+  "https://www.kommersant.ru/doc/9110658",
+  "title:Еврокомиссия одобрила покупку немецкого банка Commerzbank итальянским UniCredit",
+  "skip:https://www.interfax.ru/russia/1129314",
+  "skip:https://www.interfax.ru/business/1129311",
+  "skip:https://www.interfax.ru/world/1129309",
+  "https://www.kommersant.ru/doc/9110671",
+  "title:Европейский союз ввел новый пакет санкций против российских компаний и нефтяного сектора"
 ]

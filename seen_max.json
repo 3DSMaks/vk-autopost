@@ -1,7 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73376/game_pass_v_noyabre_chast_1_warhammer_survivors_toxic_commando_void_breaker",
-  "skip:https://www.igromania.ru/news/169718/warhammer-survivors-toxic-commando-i-football-manager-2027-vojdut-v-xbox-game-pass-do-17-noyabrya/",
-  "skip:https://www.pcgamer.com/software/ai/just-deleted-a-couple-terabytes-of-ai-slop-itch-io-pushes-back-against-the-flood-of-ai-on-its-storefront/",
   "skip:https://stopgame.ru/newsdata/73374/magazin_itchio_dobavil_filtr_dlya_skrytiya_igr_s_ii_kontentom",
   "https://gamemag.ru/news/201958/blizzard-nameknula-na-konsolnuyu-versiyu-world-of-warcraftlegendarnaya-mmo-mojet-vyyti-na-xbox",
   "title:Blizzard намекнула на консольную версию World of Warcraft — легендарная MMO может выйти на Xbox",
@@ -998,5 +995,8 @@
   "https://www.playground.ru/monster_hunter_wilds/news/capcom_potratila_god_na_ispravlenie_monster_hunter_wilds_no_bez_re_engine_eto_zanyalo_by_gorazdo_bolshe_vremeni-1891122#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Capcom потратила год на исправление Monster Hunter Wilds, но без RE Engine это заняло бы гораздо больше времени",
   "https://www.playground.ru/fable_2026/news/avtory_novoj_fable_raskryli_kartu_i_masshtab_pererozhdennogo_bauerstouna-1891130#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Авторы новой Fable раскрыли карту и масштаб перерожденного Бауэрстоуна"
+  "title:Авторы новой Fable раскрыли карту и масштаб перерожденного Бауэрстоуна",
+  "skip:https://variety.com/2026/film/global/gerard-depardieu-drops-appeal-in-sexual-assault-case-1236948679/",
+  "https://www.film.ru/news/razdacha-pochetnyh-oskarov",
+  "title:Раздача почетных Оскаров"
 ]

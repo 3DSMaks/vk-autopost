@@ -1,10 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1128996",
-  "skip:https://tass.ru/politika/28317659",
-  "skip:https://ria.ru/20261114/darchiev-2131523340.html",
-  "skip:https://ria.ru/20261114/darchiev-2131523499.html",
-  "https://www.kommersant.ru/doc/9109584",
-  "title:В Москве прошла церемония прощания с послом России в США Александром Дарчиевым",
   "skip:https://ria.ru/20261114/tersyanka-2131530448.html",
   "skip:https://tass.ru/armiya-i-opk/28317715",
   "skip:https://tass.ru/armiya-i-opk/28317713",
@@ -998,5 +992,11 @@
   "title:ВСУ нанесли удары по Крымскому мосту, движение транспорта и поездов ограничено",
   "skip:https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVVnUzJMMDJJUTh1NTl4Vy1VU2U0bjEzVkRGWFBtamliVkRZQkZud2VuZ25YSDc0VzM5aXhQWWN2YTBFSTRaV1BSNUE3aWp5bmpsV0ZSMDMyT2YxcW5LekhIVEt6Tm9Od1ItNUs1U0ZOd2tfeTJSdkJhVVEtbUFzV2d0Z1NGa0doNGljVlhVOUJNS1UwYXFjVVRxMEY2OTRGY1lHQzcxRTlXR2VnVkh3QjRENEd0VTFPMjRJdmk3bVpXUEVWS3RV?oc=5",
   "https://tass.ru/mezhdunarodnaya-panorama/28326841",
-  "title:CENTCOM заявил об отсутствии ущерба радару на базе США в Бахрейне"
+  "title:CENTCOM заявил об отсутствии ущерба радару на базе США в Бахрейне",
+  "skip:https://www.interfax.ru/world/1129604",
+  "https://www.kommersant.ru/doc/9111772",
+  "title:США продлили разрешение на закупку российской нефти для Словакии и Венгрии",
+  "skip:https://www.rbc.ru/rbcfreenews/6afc42fbceb67fb764c332ac",
+  "https://www.kommersant.ru/doc/9111766",
+  "title:Журналистка Катерина Гордеева объявлена в розыск в России"
 ]

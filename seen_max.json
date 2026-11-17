@@ -1,8 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73381/dlya_guild_wars_anonsirovali_dopolnenie_afterlife_pervoe_za_pochti_20_let",
-  "skip:https://www.pcgamer.com/games/the-elder-scrolls/bethesdas-associate-art-director-really-did-try-to-fit-7-000-actual-steps-into-skyrims-7-000-steps-i-take-no-responsibility-for-the-frost-troll/",
-  "https://www.playground.ru/tomb_raider_1996/news/razrabotchiki_tomb_raider_legacy_of_atlantis_otmetili_100_dnej_do_vyhoda_novym_promo_artom-1887798#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Разработчики Tomb Raider: Legacy of Atlantis отметили 100 дней до выхода новым промо-артом",
   "skip:https://www.ign.com/articles/nvidia-shows-off-dlss-5-hogwarts-legacy-trailer",
   "https://www.igromania.ru/news/169735/god-of-war-laufey-perenesli-na-20-maya/",
   "title:God of War: Laufey перенесли на 20 мая",
@@ -998,5 +994,9 @@
   "skip:https://www.playground.ru/misc/news/sostoyalsya_tsifrovoj_reliz_odissei_kristofera_nolana_mirovye_sbory_filma_prevysili_1_8_mlrd-1891397#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169994/10-let-do-itaki-i-4-mesyatsa-do-reliza-v-tsifre-odisseyu-kristofera-nolana-teper-mozhno-smotret-doma/",
   "https://www.igromania.ru/news/169996/remejk-the-legend-of-zelda-ocarina-of-time-stal-samoj-prodavaemoj-igroj-v-roznitse-ssha-v-2026-godu/",
-  "title:Ремейк The Legend of Zelda: Ocarina of Time стал самой продаваемой игрой в рознице США в 2026 году"
+  "title:Ремейк The Legend of Zelda: Ocarina of Time стал самой продаваемой игрой в рознице США в 2026 году",
+  "skip:https://www.playground.ru/gta_6/news/subway_vypustila_tematicheskij_sendvich_v_chest_gta_6_no_est_odin_podvoh-1891407#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/subway-is-releasing-a-gta-6-themed-sandwich-but-theres-a-catch",
+  "https://www.playground.ru/gta_6/news/gta_6_vozglavila_charty_playstation_store_pochti_vo_vseh_stranah_ustupiv_v_yaponii_apex_legends-1891404#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:GTA 6 возглавила чарты PlayStation Store почти во всех странах, уступив в Японии Apex Legends"
 ]

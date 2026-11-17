@@ -1,11 +1,4 @@
 [
-  "https://www.kinonews.ru/news_143956/",
-  "title:Рон Ховард экранизирует \"Робопокалипсис\" в виде сериала",
-  "skip:https://kg-portal.ru/comments/135627-ne-v-pervyj-raz-netflix-stanet-kinoprokatchikom-sovmestnogo-filma-bratev-koenov/",
-  "skip:https://www.film.ru/news/pikovyy-valet-i-netflix",
-  "https://www.kinonews.ru/news_143954/",
-  "title:Звезда франшизы \"Крик\" Нив Кэмпбелл вернется в \"Крике 8\"",
-  "skip:https://deadline.com/2026/11/british-independent-film-awards-elsinore-2026-1237211788/",
   "skip:https://kg-portal.ru/comments/135629-russkij-trejler-novyh-pohozhdenij-kliffa-buta/",
   "skip:https://kg-portal.ru/comments/135628-gena-shapokljak-ushastik-iego-semja-nanovom-postere-filma-cheburashka-3/",
   "https://variety.com/2026/awards/global/bifa-nominations-2026-elsinore-i-see-buildings-animol-1236937954/",
@@ -998,5 +991,12 @@
   "skip:https://variety.com/2026/film/global/brad-pitt-robert-pattinson-bond-villain-1236950118/",
   "skip:https://www.kinonews.ru/news_144186/",
   "https://variety.com/2026/film/box-office/johnny-depp-ebenezer-ramayana-uk-ireland-box-office-1236950157/",
-  "title:Johnny Depp’s ‘Ebenezer’ Conquers U.K., Ireland Box Office as ‘Ramayana’ Stays in Top Three"
+  "title:Johnny Depp’s ‘Ebenezer’ Conquers U.K., Ireland Box Office as ‘Ramayana’ Stays in Top Three",
+  "posted:2026-11-17T14:04:59+00:00",
+  "skip:https://variety.com/2026/film/reviews/the-hunger-games-sunrise-on-the-reaping-review-1236944341/",
+  "skip:https://deadline.com/2026/11/the-hunger-games-sunrise-on-the-reaping-review-1237224967/",
+  "skip:https://www.kinonews.ru/news_144188/",
+  "skip:https://www.kinonews.ru/news_144187/",
+  "https://www.film.ru/news/start-semok-novogo-oushena",
+  "title:Старт съемок нового Оушена"
 ]

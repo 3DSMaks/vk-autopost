@@ -1,14 +1,4 @@
 [
-  "title:Зеленский заявил о предложении США уступить Донбасс в обмен на членство в НАТО",
-  "skip:https://www.rbc.ru/politics/14/11/2026/6af8431042b9ce85733198d7",
-  "skip:https://www.interfax.ru/world/1129009",
-  "skip:https://ria.ru/20261114/bolgarija-2131553731.html",
-  "https://tass.ru/mezhdunarodnaya-panorama/28317955",
-  "title:Болгария приостановила поставки оружия и финансовую помощь Украине",
-  "skip:https://www.rbc.ru/rbcfreenews/6af84e260189ce094ad0b0ea",
-  "skip:https://www.interfax.ru/moscow/1129015",
-  "skip:https://ria.ru/20261114/sobyanin-2131563309.html",
-  "skip:https://tass.ru/proisshestviya/28317941",
   "https://www.kommersant.ru/doc/9109655",
   "title:Силы ПВО сбили несколько беспилотников на подлете к Москве",
   "skip:https://www.kommersant.ru/doc/9109656",
@@ -998,5 +988,15 @@
   "title:Дженсен Хуанг заявил о готовности вернуться на пост главы Nvidia",
   "skip:https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington",
   "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
-  "title:США проверяют данные о возможных угрозах со стороны Ирана"
+  "title:США проверяют данные о возможных угрозах со стороны Ирана",
+  "skip:https://tass.ru/ekonomika/28327727",
+  "skip:https://tass.ru/ekonomika/28327723",
+  "skip:https://ria.ru/20261117/minpromtorg-2132207997.html",
+  "https://ria.ru/20261117/minpromtorg-2132208436.html",
+  "title:Минпромторг предложил ввести авиационный сбор для поддержки поставок самолетов",
+  "skip:https://www.aljazeera.com/gallery/2026/11/17/photos-tens-of-thousands-rally-in-france-over-living-standards-and-wages?traffic_source=rss",
+  "skip:https://www.france24.com/en/video/20261117-a-lot-of-anger-and-a-weak-government-why-are-french-public-sector-workers-striking",
+  "skip:https://www.france24.com/en/video/20261117-organisers-hoping-for-joyful-demonstration-as-french-public-workers-strike",
+  "https://tass.ru/obschestvo/28327761",
+  "title:Во Франции проходят массовые забастовки работников государственного сектора"
 ]

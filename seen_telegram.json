@@ -1,10 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/nintendo-rules-out-further-switch-2-price-rises-as-console-sales-and-profit-fall",
-  "skip:https://www.igromania.ru/news/169752/prodazhi-nintendo-switch-2-prevyisili-2635-mln-konsolej-plyus-raskryityi-uspehi-novyih-igr/",
-  "skip:https://stopgame.ru/newsdata/73393/tirazh_switch_2_prevysil_26_mln_konsoley_i_tempy_prodazh_snizhayutsya_otchet_nintendo",
-  "skip:https://gamemag.ru/news/201978/oficialno-reliz-god-of-war-laufey-otlojili-na-may-2027-goda",
-  "https://www.playground.ru/call_of_duty_modern_warfare_4/news/call_of_duty_modern_warfare_4_vozglavila_oktyabrskie_charty_zagruzok_v_playstation_store-1888030#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Call of Duty: Modern Warfare 4 возглавила октябрьские чарты загрузок в PlayStation Store",
   "skip:https://www.igromania.ru/news/169759/zvezda-call-of-duty-hochet-vernutsya-k-roli-kapitana-prajsa-v-ekranizatsii-igryi/",
   "skip:https://www.playground.ru/misc/news/sony_mozhet_byt_dovolna_obschij_obyom_postavok_playstation_5_priblizhaetsya_k_100_mln_edinits-1888036#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.ign.com/articles/sony-announces-official-marvels-wolverine-sales-figure-for-the-first-time-raises-playstation-sales-forecast-with-gta-6-imminent",
@@ -998,5 +992,11 @@
   "video:2026-11-17:https://deadline.com/2026/11/only-murders-in-the-buildings-season-6-trailer-1237225973/",
   "title:‘Only Murders In The Building’s Season 6 Trailer Reveals “The Girl With The Curls” & British Brazzos",
   "https://www.igromania.ru/news/170012/sozdateli-exodus-v-duhe-mass-effect-pokazali-novyij-gejmplej-i-zhenskuyu-versiyu-glavnogo-geroya/",
-  "title:Создатели Exodus в духе Mass Effect показали новый геймплей и женскую версию главного героя"
+  "title:Создатели Exodus в духе Mass Effect показали новый геймплей и женскую версию главного героя",
+  "skip:https://stopgame.ru/newsdata/73539/novuyu_demonstraciyu_exodus_posvyatili_zhenskoy_versii_protagonista",
+  "skip:https://www.playground.ru/euro_truck_simulator_2/news/euro_truck_simulator_2_vozglavila_charty_steam_posle_vyhoda_novogo_dopolneniya-1891514#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://stopgame.ru/newsdata/73536/novye_dopolneniya_protaschili_euro_truck_simulator_2_na_pervoe_mesto_v_charte_steam",
+  "skip:https://www.igromania.ru/news/170010/euro-truck-simulator-2-ustupila-tolko-apex-legends-v-svezhem-charte-steam/",
+  "https://www.playground.ru/elder_scrolls_online/news/v_nachale_2027_goda_v_the_elder_scrolls_online_poyavitsya_novaya_osnovnaya_igrovaya_zona_vinterhold-1891524#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:В начале 2027 года в The Elder Scrolls Online появится новая основная игровая зона - Винтерхолд"
 ]

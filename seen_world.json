@@ -1,12 +1,4 @@
 [
-  "skip:https://www.france24.com/en/americas/20261114-us-flights-resume-after-nationwide-ground-stop-lifted-aviation",
-  "skip:https://www.rbc.ru/rbcfreenews/6af7c64bd5ed8db687222ba8",
-  "skip:https://www.rbc.ru/rbcfreenews/6af7c2d6762d123bb2793093",
-  "skip:https://ria.ru/20261114/ssha-2131489909.html",
-  "skip:https://www.rbc.ru/technology_and_media/14/11/2026/6af7bf1ae48b802d2e4be81c",
-  "skip:https://ria.ru/20261114/ssha-2131489585.html",
-  "skip:https://www.rbc.ru/society/14/11/2026/6af7bbc3e14a6d0f33cbca1f",
-  "skip:https://www.interfax.ru/world/1128963",
   "skip:https://www.kommersant.ru/doc/9109500",
   "skip:https://news.google.com/rss/articles/CBMingFBVV95cUxONzBhVVlrM3VvX3JkUnJPNkFvMENScTQ5UHl2RmVtOHlKN2VzTUpHRnVNaFFDNmtHdG1iYkJtM3FKTDhlQ0oxR3ZObG9oWnN4Qk1YUE9JdC1wWGp5YV9MbXBrM05ENlZxREg1eFlOTzVxWXpPbjFXQTFqcVRlQi1FWW9JY25NQ0NxUGdIZG0tLXVfMl9mLVFlMGFXcWk4UQ?oc=5",
   "https://www.france24.com/en/video/20261114-faa-lifts-nationwide-ground-stop-on-all-us-flights",
@@ -998,5 +990,13 @@
   "title:Армия России заняла Заливное в Запорожской области",
   "skip:https://www.kommersant.ru/doc/9111435",
   "https://www.rbc.ru/technology_and_media/17/11/2026/6afb1ba3442b05518a96ba61",
-  "title:Объем предзаказов GTA VI превысил $1,4 млрд"
+  "title:Объем предзаказов GTA VI превысил $1,4 млрд",
+  "skip:https://www.interfax.ru/russia/1129521",
+  "skip:https://www.kommersant.ru/doc/9111457",
+  "https://tass.ru/armiya-i-opk/28325861",
+  "title:Минобороны РФ сообщило о взятии под контроль села Заливное в Запорожской области",
+  "skip:https://www.interfax.ru/russia/1129517",
+  "skip:https://ria.ru/20261117/pvo-2132076426.html",
+  "https://www.rbc.ru/rbcfreenews/6afc1a2ce2186aeefc71b7a5",
+  "title:Минобороны отчиталось об уничтожении более 2,2 тыс. украинских беспилотников за сутки"
 ]

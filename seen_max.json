@@ -1,9 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/world-of-warcraft-forever-launch-live-blog",
-  "skip:https://www.ign.com/articles/world-of-warcraft-forever-review",
-  "https://www.ign.com/articles/sony-announces-official-marvels-wolverine-sales-figure-for-the-first-time-raises-playstation-sales-forecast-with-gta-6-imminent",
-  "title:Sony Announces Official Marvel's Wolverine Sales Figure for the First Time, Raises PlayStation Sales Forecast With GTA 6 Imminent",
-  "skip:https://variety.com/2026/film/news/robert-pattinson-40th-american-cinematheque-award-ryan-gosling-1236939979/",
   "https://www.film.ru/news/ari-aster-nachal-semki-kozla-otpushcheniya",
   "title:Ари Астер начал съемки «Козла отпущения»",
   "skip:https://www.film.ru/news/verdikt-rassella-brenda",
@@ -998,5 +993,10 @@
   "title:Разработчики Stellar Blade выразили заинтересованность в выпуске игр для консолей Xbox",
   "skip:https://gamemag.ru/news/202185/sozdatel-resident-evil-sindzi-mikami-nazval-sroki-vyhoda-svoey-sleduyushchey-igry",
   "https://gamemag.ru/news/202194/star-wars-fate-of-the-old-republic-director-has-some-pretty-exciting-things-planned-for-2027",
-  "title:Star Wars: Fate of the Old Republic от ветеранов BioWare напомнит о себе в начале 2027 года — разработка идёт быстро"
+  "title:Star Wars: Fate of the Old Republic от ветеранов BioWare напомнит о себе в начале 2027 года — разработка идёт быстро",
+  "skip:https://kg-portal.ru/comments/135821-postojannye-perenosy-betmena-2-pozvolili-robertu-pattinsonu-ne-vypolnjat-kontrakt-na-tri-filma/",
+  "skip:https://kg-portal.ru/comments/135820-postery-filma-chelovekpauk-novyj-den/",
+  "skip:https://www.film.ru/news/kogda-vyydet-rasshirennaya-versiya-pauka",
+  "https://variety.com/2026/film/reviews/the-hunger-games-sunrise-on-the-reaping-review-1236944341/",
+  "title:‘The Hunger Games: Sunrise on the Reaping’ Review: Not as Deadly as ‘Songbirds & Snakes,’ the Haymitch Origin Story Makes for a Watchable if Meanderin"
 ]

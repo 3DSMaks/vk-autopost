@@ -1,11 +1,4 @@
 [
-  "skip:https://tass.ru/ekonomika/28317117",
-  "skip:https://ria.ru/20261114/ssha-2131484849.html",
-  "https://ria.ru/20261114/ssha-2131488567.html",
-  "title:В США возобновлены полеты после масштабного сбоя системы авиадиспетчеров",
-  "skip:https://ria.ru/20261114/aeroport-2131485610.html",
-  "https://www.interfax.ru/russia/1128958",
-  "title:В аэропорту Геленджика введены временные ограничения",
   "skip:https://www.france24.com/en/americas/20261114-us-flights-resume-after-nationwide-ground-stop-lifted-aviation",
   "skip:https://www.rbc.ru/rbcfreenews/6af7c64bd5ed8db687222ba8",
   "skip:https://www.rbc.ru/rbcfreenews/6af7c2d6762d123bb2793093",
@@ -998,5 +991,12 @@
   "skip:https://ria.ru/20261117/fsb-2132061736.html",
   "skip:https://ria.ru/20261117/agent-2132061277.html",
   "https://www.rbc.ru/rbcfreenews/6afc01eeff119246bcc6bb5c",
-  "title:ФСБ пресекла серию диверсий с использованием дронов на юге России"
+  "title:ФСБ пресекла серию диверсий с использованием дронов на юге России",
+  "skip:https://ria.ru/20261117/zalivnoe-2132074994.html",
+  "skip:https://tass.ru/armiya-i-opk/28325667",
+  "https://www.rbc.ru/politics/17/11/2026/6afc1608d166eb02fcd9006f",
+  "title:Армия России заняла Заливное в Запорожской области",
+  "skip:https://www.kommersant.ru/doc/9111435",
+  "https://www.rbc.ru/technology_and_media/17/11/2026/6afb1ba3442b05518a96ba61",
+  "title:Объем предзаказов GTA VI превысил $1,4 млрд"
 ]

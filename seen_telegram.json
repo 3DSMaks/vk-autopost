@@ -1,8 +1,4 @@
 [
-  "skip:https://deadline.com/2026/11/sony-q2-earnings-spider-man-brand-new-day-1237214122/",
-  "skip:https://variety.com/2026/film/news/sony-pictures-earnings-spider-man-brand-new-day-1236939997/",
-  "skip:https://www.film.ru/news/vyshel-pervyy-tizer-oruzheynogo-barona-2",
-  "skip:https://deadline.com/2026/11/joe-minoso-exit-cruz-chicago-fire-season-15-recap-1237211554/",
   "skip:https://kg-portal.ru/comments/135659-eto-zalet-dejzi-ridli-sluchajno-zaberemeneet-neponjatnym-suschestvom-v-uzhastike/",
   "skip:https://www.kinonews.ru/news_143993/",
   "https://variety.com/2026/film/news/adam-driver-the-hunt-for-ben-solo-kylo-ren-1236939988/",
@@ -998,5 +994,9 @@
   "skip:https://www.kinonews.ru/news_144181/",
   "skip:https://www.film.ru/news/keydzh-i-payn-v-amerikanskom-epike",
   "https://www.film.ru/news/data-vtorogo-sezona-zadachi-treh-tel",
-  "title:Дата второго сезона Задачи трех тел"
+  "title:Дата второго сезона Задачи трех тел",
+  "skip:https://www.kinonews.ru/news_144177/",
+  "skip:https://www.film.ru/news/start-semok-novogo-oushena",
+  "https://variety.com/2026/film/box-office/johnny-depp-ebenezer-ramayana-uk-ireland-box-office-1236950157/",
+  "title:Johnny Depp’s ‘Ebenezer’ Conquers U.K., Ireland Box Office as ‘Ramayana’ Stays in Top Three"
 ]

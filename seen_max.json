@@ -1,8 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143993/",
-  "skip:https://kg-portal.ru/comments/135658-oruzhejnye-barony-tizer/",
-  "skip:https://kg-portal.ru/comments/135657-djuna-3-dva-s-polovinoj-chasa-nasilija-rugani-i-intima/",
-  "https://variety.com/2026/film/news/adam-driver-the-hunt-for-ben-solo-kylo-ren-1236939988/",
   "title:Adam Driver Says ‘The Ship Has Sailed’ on ‘The Hunt for Ben Solo’ and He’s Done Playing Kylo Ren: ‘It’s Over’",
   "skip:https://www.igromania.ru/news/169747/prodazhi-marvels-wolverine-sostavili-24-mln-kopij-rosomaha-proigryivaet-ghost-of-yotei/",
   "skip:https://www.playground.ru/marvels_wolverine/news/ofitsialno_marvels_wolverine_pokazala_skromnye_prodazhi_vsego_2_4_mln_kopij_za_dva_mesyatsa-1887957#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +994,9 @@
   "title:«Незабываемые впечатления»: Разработчики The Witcher 4 пообещали сохранить в новой игре душу и сердце «Ведьмака»",
   "skip:https://www.playground.ru/misc/news/smi_robert_pattinson_poluchit_bolee_100_mln_za_tri_filma_o_novom_dzhejmse_bonde-1891405#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.ign.com/articles/ghost-of-yotei-plummets-to-35-in-stellar-50-off-black-friday-deal-from-playstation",
-  "title:Ghost of Yotei Drops to an All-Time Low of $35 in PlayStation’s Black Friday Sale"
+  "title:Ghost of Yotei Drops to an All-Time Low of $35 in PlayStation’s Black Friday Sale",
+  "skip:https://www.kinonews.ru/news_144186/",
+  "skip:https://www.film.ru/news/keydzh-i-payn-v-amerikanskom-epike",
+  "https://www.film.ru/news/odisseya-oficialno-v-seti",
+  "title:Одиссея официально в Сети"
 ]

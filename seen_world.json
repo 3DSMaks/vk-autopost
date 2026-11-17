@@ -1,7 +1,4 @@
 [
-  "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VLVhCZlI5bXRldmNjNXFySHpxUzhMT05weTRMemd6T2Z4NVNERzZWeWtnQUQyQzVqcFRQVDk1d2x4eVFYT0FyLUpSSQ?oc=5",
-  "title:Илон Маск и другие деятели поддержали петицию за возвращение Дженсена Хуанга на пост главы Nvidia",
-  "skip:https://www.rbc.ru/sport/14/11/2026/6af82492d6b480b5a65a6403",
   "skip:https://tass.ru/sport/28317723",
   "skip:https://www.kommersant.ru/doc/9109578",
   "https://www.rbc.ru/sport/14/11/2026/6af82ba0a0f3d54666c4d137",
@@ -998,5 +995,8 @@
   "title:Власти Финляндии отказали российским фигуристам во въезде на этап Гран-при",
   "skip:https://ria.ru/20261117/bolnitsy-2132154158.html",
   "https://www.interfax.ru/world/1129622",
-  "title:В Сербии разбился истребитель МиГ-29, пилот погиб"
+  "title:В Сербии разбился истребитель МиГ-29, пилот погиб",
+  "skip:https://www.kommersant.ru/doc/9111852",
+  "https://www.sport-interfax.ru/1129630",
+  "title:Финляндия отказала российским фигуристам во въезде на этап Гран-при"
 ]

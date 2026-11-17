@@ -1,10 +1,4 @@
 [
-  "skip:https://ria.ru/20261114/raketa-2131489233.html",
-  "skip:https://tass.ru/kosmos/28317175",
-  "https://ria.ru/20261114/roskosmos-2131494302.html",
-  "title:С космодрома Восточный впервые запустили ракету с частными спутниками на борту",
-  "skip:https://www.interfax.ru/russia/1128992",
-  "skip:https://tass.ru/kosmos/28317595",
   "https://www.kommersant.ru/doc/9109570",
   "title:Запущенные с космодрома Восточный спутники «КОЭН» и «Киноспутник» выведены на орбиту",
   "skip:https://tass.ru/proisshestviya/28317559",
@@ -998,5 +992,11 @@
   "title:В Сербии потерпел крушение истребитель МиГ-29, пилот погиб",
   "skip:https://news.google.com/rss/articles/CBMixgFBVV95cUxQYW55RnRFY2o3QVQ5M0ZRRElNUGhWUlhPaDkyODFYbEprTWw5NHhyTUFKSDQ5RE1TOWZWaElmSkY0UnZZeGUyMnFRbXpaOHo2SkxyaTFDUEowd3ZVUS1VaG9TRF9aTmNldHJyUGZtNnFuc2E2NGd0c0NNeDB5ai1rUTVQXzhZNzA5QUlUcTFINUJBZEYzMVRtREg5TTdCWjA2aEFXdWoydENMbTJyTlo3MDJxSHJTTnhlSm53YjJaTmFrRHV3ZEE?oc=5",
   "https://www.kommersant.ru/doc/9111525",
-  "title:Танкер Gas Husky затонул у берегов Болгарии после атаки"
+  "title:Танкер Gas Husky затонул у берегов Болгарии после атаки",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28326125",
+  "https://www.kommersant.ru/doc/9111566",
+  "title:Спецпосланник ЕС по санкциям Дэвид О’Салливан объявил об отставке",
+  "skip:https://www.interfax.ru/world/1129563",
+  "https://www.rbc.ru/politics/17/11/2026/6afc0d0d8073c66b23fcdac2",
+  "title:Германия и Норвегия профинансируют закупку американских ракет для Украины"
 ]

@@ -1,11 +1,4 @@
 [
-  "https://ria.ru/20261114/nvidia-2131585147.html",
-  "title:Илон Маск заявил о риске срыва сделок Nvidia после ухода Дженсена Хуанга",
-  "skip:https://ria.ru/20261114/parizh-2131594134.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28318223",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28318221",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28318201",
-  "skip:https://ria.ru/20261114/parizh-2131588729.html",
   "https://www.kommersant.ru/doc/9109707",
   "title:Массовые протесты против роста цен прошли в Париже и других городах Франции",
   "skip:https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss",
@@ -998,5 +991,12 @@
   "skip:https://www.rbc.ru/rbcfreenews/6afca4d449b3d78d99d05027",
   "skip:https://ria.ru/20261117/samolet-2132221831.html",
   "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-  "title:Минобороны РФ назвало техническую неисправность причиной крушения самолета Ан-12 в Кемеровской области"
+  "title:Минобороны РФ назвало техническую неисправность причиной крушения самолета Ан-12 в Кемеровской области",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28328079",
+  "https://www.interfax.ru/world/1129681",
+  "title:США подтвердили нанесение удара по объекту Корпуса стражей исламской революции на иранском острове Кешм",
+  "skip:https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say",
+  "skip:https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss",
+  "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+  "title:На Западном берегу реки Иордан в результате нападения погибла 72-летняя палестинка"
 ]

@@ -1,7 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135659-eto-zalet-dejzi-ridli-sluchajno-zaberemeneet-neponjatnym-suschestvom-v-uzhastike/",
-  "skip:https://www.kinonews.ru/news_143993/",
-  "https://variety.com/2026/film/news/adam-driver-the-hunt-for-ben-solo-kylo-ren-1236939988/",
   "video:2026-11-05:https://variety.com/2026/film/news/adam-driver-the-hunt-for-ben-solo-kylo-ren-1236939988/",
   "title:Adam Driver Says ‘The Ship Has Sailed’ on ‘The Hunt for Ben Solo’ and He’s Done Playing Kylo Ren: ‘It’s Over’",
   "skip:https://www.kinonews.ru/news_143999/",
@@ -998,5 +995,8 @@
   "skip:https://www.kinonews.ru/news_144177/",
   "skip:https://www.film.ru/news/start-semok-novogo-oushena",
   "https://variety.com/2026/film/box-office/johnny-depp-ebenezer-ramayana-uk-ireland-box-office-1236950157/",
-  "title:Johnny Depp’s ‘Ebenezer’ Conquers U.K., Ireland Box Office as ‘Ramayana’ Stays in Top Three"
+  "title:Johnny Depp’s ‘Ebenezer’ Conquers U.K., Ireland Box Office as ‘Ramayana’ Stays in Top Three",
+  "skip:https://www.igromania.ru/news/170009/predzakazyi-gta-6-priblizhayutsya-k-otmetke-v-16-mln-kopij/",
+  "https://stopgame.ru/newsdata/73529/avtory_gta_vi_predlozhat_igrokam_mehanizmy_pooschryayuschie_empatiyu",
+  "title:Авторы GTA VI предложат игрокам «механизмы, поощряющие эмпатию»"
 ]

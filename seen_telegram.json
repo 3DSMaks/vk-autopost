@@ -1,9 +1,4 @@
 [
-  "skip:https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/the_legend_of_zelda_ocarina_of_time_igra_s_samym_vysokim_rejtingom_2026_goda_na_metacritic-1887770#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://gamemag.ru/news/201973/ocharovyvaet-igrokov-poyavilis-pervye-ocenki-remeyka-the-legend-of-zelda-ocarina-of-time",
-  "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-how-long-to-beat",
-  "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-review-remake",
-  "https://www.igromania.ru/news/169732/sozdateli-the-elder-scrolls-5-skyrim-dejstvitelno-pyitalis-rastyanut-put-k-vyisokomu-hrotgaru-na-7000-shagov/",
   "title:Создатели The Elder Scrolls 5: Skyrim действительно пытались растянуть путь к Высокому Хротгару на 7000 шагов",
   "skip:https://variety.com/2026/film/global/tinto-brass-dead-caligula-salon-kitty-1236939212/",
   "skip:https://deadline.com/2026/11/tinto-brass-dead-italian-caligula-director-93-1237213071/",
@@ -998,5 +993,10 @@
   "skip:https://www.playground.ru/gta_6/news/analitiki_vyyasnili_kto_sejchas_aktivno_pokupaet_gta_6_eto_obychnye_muzhchiny_gejmery_okolo_30_let-1891385#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://gamemag.ru/news/202190/gta-6-ceo-says-this-business-has-been-largely-immune-to-piracy-concerns-but-ai-generated-recomps-are",
   "https://www.igromania.ru/news/169996/remejk-the-legend-of-zelda-ocarina-of-time-stal-samoj-prodavaemoj-igroj-v-roznitse-ssha-v-2026-godu/",
-  "title:Ремейк The Legend of Zelda: Ocarina of Time стал самой продаваемой игрой в рознице США в 2026 году"
+  "title:Ремейк The Legend of Zelda: Ocarina of Time стал самой продаваемой игрой в рознице США в 2026 году",
+  "skip:https://www.playground.ru/misc/news/sostoyalsya_tsifrovoj_reliz_odissei_kristofera_nolana_mirovye_sbory_filma_prevysili_1_8_mlrd-1891397#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/subway-is-releasing-a-gta-6-themed-sandwich-but-theres-a-catch",
+  "https://gamemag.ru/news/202157/the-witcher-4-stala-samoy-ojidaemoy-igroy-na-ceremonii-golden-joystick-awards-v-cd-projekt-red",
+  "video:2026-11-17:https://gamemag.ru/news/202157/the-witcher-4-stala-samoy-ojidaemoy-igroy-na-ceremonii-golden-joystick-awards-v-cd-projekt-red",
+  "title:«Незабываемые впечатления»: Разработчики The Witcher 4 пообещали сохранить в новой игре душу и сердце «Ведьмака»"
 ]

@@ -1,11 +1,4 @@
 [
-  "skip:https://www.interfax.ru/moscow/1129005",
-  "skip:https://tass.ru/ekonomika/28317865",
-  "https://www.interfax.ru/moscow/1129010",
-  "title:В московском аэропорту Домодедово ввели и сняли временные ограничения на полеты",
-  "skip:https://www.rbc.ru/politics/14/11/2026/6af843bbe48b802d2e4be8bd",
-  "skip:https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
-  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUy1QYS1aemtYbV8xczk0cmRVeHl2ZGNLTlFwVE1SUUZ3OHctZGRnZlpTMi1DRTFkbWlXMWRaVGliVk8xU1N1MGZ6dVdNTTJHd1BMaTVnT2JQaTAwdm1QWWh4aElDM1JlMVJvcjJNQ2pIUWlHd09qUXNuc2Q1Qnd6ZVJGTlIta3dkaHlMcWRYZC1KX0tneTJKVkNSaVdZQXlFX2Y2Z0Vwa1VmNGRzZjZYVDRRdDBNLTNF?oc=5",
   "title:Зеленский заявил о предложении США уступить Донбасс в обмен на членство в НАТО",
   "skip:https://www.rbc.ru/politics/14/11/2026/6af8431042b9ce85733198d7",
   "skip:https://www.interfax.ru/world/1129009",
@@ -998,5 +991,12 @@
   "skip:https://www.rbc.ru/business/17/11/2026/6afc794eb9190b709c033cfd",
   "skip:https://news.google.com/rss/articles/CBMinAFBVV95cUxNOXF5elJxdEdtU1JRcnlCNFdSU2VfNmQ5Z3AzbnU2bzlxdEdqYWVtSGU3LXYtQkVqczVfM0JXWVN6UWZNZHVEZm5yanlNa08zT3pWOTFMZm9SUlhnRFhMaWpUUE9hRjVwZkQwd1R3dEVrTGZYWF9obm9jWGtwcEdMMnVqd01QSkk4M19FUGdqR3JqU0NpdkEyckJ5SHE?oc=5",
   "https://www.kommersant.ru/doc/9111972",
-  "title:Дженсен Хуанг заявил о готовности вернуться на пост гендиректора Nvidia"
+  "title:Дженсен Хуанг заявил о готовности вернуться на пост гендиректора Nvidia",
+  "skip:https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28327663",
+  "https://www.interfax.ru/business/1129655",
+  "title:Дженсен Хуанг заявил о готовности вернуться на пост главы Nvidia",
+  "skip:https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington",
+  "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+  "title:США проверяют данные о возможных угрозах со стороны Ирана"
 ]

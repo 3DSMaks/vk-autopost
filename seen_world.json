@@ -1,12 +1,4 @@
 [
-  "skip:https://ria.ru/20261114/frantsiya-2131589597.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28318171",
-  "https://ria.ru/20261114/frantsija-2131598266.html",
-  "title:Во Франции прошли массовые протесты против роста цен",
-  "skip:https://www.interfax.ru/russia/1129031",
-  "skip:https://ria.ru/20261114/chernomorsk-2131587853.html",
-  "skip:https://tass.ru/armiya-i-opk/28318185",
-  "https://www.rbc.ru/rbcfreenews/6af88784c8a1bac0e8b2a0c9",
   "title:Минобороны РФ заявило о поражении сухогруза с военным имуществом в порту Черноморска",
   "skip:https://www.rbc.ru/politics/14/11/2026/6af893cde2d1daf1e27db672",
   "skip:https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
@@ -998,5 +990,13 @@
   "title:США, Мексика и Боливия потеряли статус территорий, свободных от кори",
   "skip:https://www.kommersant.ru/doc/9112096",
   "https://ria.ru/20261117/sk-2132228887.html",
-  "title:СК возбудил уголовное дело после крушения Ан-12 в Кемеровской области"
+  "title:СК возбудил уголовное дело после крушения Ан-12 в Кемеровской области",
+  "skip:https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+  "skip:https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody",
+  "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
+  "title:Американского военного, подозреваемого в шпионаже в пользу РФ, передали властям США",
+  "skip:https://tass.ru/obschestvo/28328233",
+  "skip:https://ria.ru/20261117/sboy-2132232073.html",
+  "https://tass.ru/obschestvo/28328237",
+  "title:В работе почтовых сервисов Gmail и Outlook в США произошел массовый сбой"
 ]

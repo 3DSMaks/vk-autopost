@@ -1,6 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_144017/",
-  "skip:https://deadline.com/2026/11/box-office-godzilla-minus-zero-cat-in-the-hat-1237215161/",
   "skip:https://www.kinonews.ru/news_144012/",
   "https://kg-portal.ru/comments/135680-sozdateli-dzhona-uika-dadut-dzheremi-renneru-12-pul-chtoby-perebit-vseh-prestupnikov-londona/",
   "title:Создатели \"Джона Уика\" дадут Джереми Реннеру 12 пуль, чтобы перебить всех преступников Лондона",
@@ -998,5 +996,7 @@
   "skip:https://stopgame.ru/newsdata/73532/avtory_chronicles_medieval_obankrotilis_no_igru_spas_izdatel_coffee_stain",
   "skip:https://www.igromania.ru/news/170003/pesochnitsu-chronicles-medieval-vyikupil-izdatel-satisfactory/",
   "https://www.playground.ru/elder_scrolls_online/news/v_nachale_2027_goda_v_the_elder_scrolls_online_poyavitsya_novaya_osnovnaya_igrovaya_zona_vinterhold-1891524#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:В начале 2027 года в The Elder Scrolls Online появится новая основная игровая зона - Винтерхолд"
+  "title:В начале 2027 года в The Elder Scrolls Online появится новая основная игровая зона - Винтерхолд",
+  "https://variety.com/2026/film/news/skydance-movie-studio-executives-kira-goldberg-don-granger-jeff-goldstein-jesse-ehrmann-1236950394/",
+  "title:Skydance Movie Studio Shakeup: Kira Goldberg Departs Netflix to Run Paramount With Don Granger, Jeff Goldstein to Retire, WB Sets Leadership"
 ]

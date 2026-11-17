@@ -1,9 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169770/istoriyu-legendarnoj-bioware-rasskazhut-v-dokumentalnom-filme-ot-istokov-do-zakryitiya/",
-  "skip:https://www.igromania.ru/news/169769/da-blin-bethesda-gejmeryi-vyismeyali-ofitsialnyij-merch-po-the-elder-scrolls-vi-sentinel/",
-  "skip:https://www.igromania.ru/news/169768/animatsionnomu-filmu-o-dzhone-uike-s-kianu-rivzom-dali-zelyonyij-svet/",
-  "skip:https://www.igromania.ru/news/169767/vladeyuschie-ea-suverennyij-fond-saudovskoj-aravii-i-silver-lake-nedavno-obsuzhdali-pokupku-unity/",
-  "skip:https://gamemag.ru/news/202001/insayder-zvezda-seriala-medved-rassmatrivaetsya-na-rol-rosomahi",
   "skip:https://www.ign.com/articles/bethesda-is-already-selling-the-elder-scrolls-6-sentinel-merch",
   "skip:https://www.ign.com/articles/biowares-final-years-were-filmed-and-will-be-revealed-in-a-new-documentary",
   "https://gamemag.ru/news/202000/grand-theft-auto-6-new-screenshots-november-5",
@@ -998,5 +993,10 @@
   "skip:https://variety.com/2026/film/global/cannes-condemns-five-year-prison-sentence-jafar-panahi-1236950242/",
   "skip:https://www.kinonews.ru/news_144185/",
   "https://www.kinonews.ru/news_144183/",
-  "title:Финал \"Квест Вижна\" стал самым успешным эпизодом Marvel за три года"
+  "title:Финал \"Квест Вижна\" стал самым успешным эпизодом Marvel за три года",
+  "skip:https://deadline.com/2026/11/3-body-problem-season-2-trailer-photos-netflix-1237226524/",
+  "skip:https://www.kinonews.ru/news_144188/",
+  "skip:https://www.film.ru/news/start-semok-novogo-oushena",
+  "https://www.kinonews.ru/news_144174/",
+  "title:Крис Пратт предложил Джеймсу Ганну вернуться к \"Стражам Галактики\""
 ]

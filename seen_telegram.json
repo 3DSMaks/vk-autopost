@@ -1,10 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/gta-6-rakes-in-over-750-million-in-pre-orders-two-weeks-ahead-of-release-date",
-  "skip:https://www.pcgamer.com/gaming-industry/french-game-union-accuses-microsoft-of-sabotaging-blade-and-then-using-the-fallout-to-justify-closing-arkane/",
-  "skip:https://gamemag.ru/news/201979/vertical-slice-arkane-union-workers-accuse-microsoft-of-sabotaging-the-studio",
-  "skip:https://gamemag.ru/news/201976/tramp-ne-pomog-kompozitor-halo-i-destiny-proigral-vybory-v-kongress-ssha",
-  "https://www.igromania.ru/news/169742/prodazhi-god-of-war-ragnarok-prevyisili-otmetku-v-216-mln-kopij/",
-  "title:Продажи God of War: Ragnarok превысили отметку в 21,6 млн копий",
   "skip:https://deadline.com/2026/11/sony-q2-earnings-spider-man-brand-new-day-1237214122/",
   "skip:https://variety.com/2026/film/news/sony-pictures-earnings-spider-man-brand-new-day-1236939997/",
   "skip:https://www.film.ru/news/vyshel-pervyy-tizer-oruzheynogo-barona-2",
@@ -998,5 +992,11 @@
   "skip:https://www.kinonews.ru/news_144186/",
   "skip:https://www.kinonews.ru/news_144185/",
   "https://variety.com/2026/film/global/brad-pitt-robert-pattinson-bond-villain-1236950118/",
-  "title:Brad Pitt Pitches Himself to Be Robert Pattinson’s Bond Villain: ‘Sign Me Up’"
+  "title:Brad Pitt Pitches Himself to Be Robert Pattinson’s Bond Villain: ‘Sign Me Up’",
+  "skip:https://www.kinonews.ru/news_144182/",
+  "skip:https://kg-portal.ru/comments/135821-postojannye-perenosy-betmena-2-pozvolili-robertu-pattinsonu-ne-vypolnjat-kontrakt-na-tri-filma/",
+  "skip:https://www.kinonews.ru/news_144181/",
+  "skip:https://www.film.ru/news/keydzh-i-payn-v-amerikanskom-epike",
+  "https://www.film.ru/news/data-vtorogo-sezona-zadachi-treh-tel",
+  "title:Дата второго сезона Задачи трех тел"
 ]

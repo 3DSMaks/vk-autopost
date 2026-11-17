@@ -1,13 +1,4 @@
 [
-  "skip:https://ria.ru/20261114/tersyanka-2131530448.html",
-  "skip:https://tass.ru/armiya-i-opk/28317715",
-  "skip:https://tass.ru/armiya-i-opk/28317713",
-  "skip:https://www.kommersant.ru/doc/9109592",
-  "skip:https://www.interfax.ru/russia/1128999",
-  "https://tass.ru/armiya-i-opk/28317745",
-  "title:Минобороны РФ заявило о переходе под контроль села Терсянка в Запорожской области",
-  "skip:https://www.interfax.ru/russia/1129001",
-  "skip:https://tass.ru/armiya-i-opk/28317689",
   "https://ria.ru/20261114/infrastruktura-2131531380.html",
   "title:ВС РФ нанесли удары по объектам энергетики и транспорта Украины",
   "skip:https://news.google.com/rss/articles/CBMiSkFVX3lxTE9wd3AyNnpFS1pFNUM1ekdqMFhlZVZoMDg4ZTZUQ19fMENFZWM1bk96TDFoOVZpMDRkNkJWN0dOOE8xWFVNdTI0c3ZB?oc=5",
@@ -998,5 +989,14 @@
   "title:США продлили разрешение на закупку российской нефти для Словакии и Венгрии",
   "skip:https://www.rbc.ru/rbcfreenews/6afc42fbceb67fb764c332ac",
   "https://www.kommersant.ru/doc/9111766",
-  "title:Журналистка Катерина Гордеева объявлена в розыск в России"
+  "title:Журналистка Катерина Гордеева объявлена в розыск в России",
+  "skip:https://ria.ru/20261117/chp-2132137266.html",
+  "skip:https://www.kommersant.ru/doc/9111744",
+  "skip:https://www.interfax.ru/russia/1129603",
+  "https://www.rbc.ru/rbcfreenews/6afc54917d8710b557c64350",
+  "title:Суд в Москве арестовал обвиняемую в покушении на убийство экс-советника Азарова",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28327023",
+  "skip:https://www.rbc.ru/politics/17/11/2026/6afc3b42f86dce154db38be9",
+  "https://www.rbc.ru/quote/17/11/2026/6afc483c6a1aa6620310523a",
+  "title:Акции Deutsche Bank упали на фоне утечки данных о транзакциях Эпштейна"
 ]

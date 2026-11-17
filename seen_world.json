@@ -1,14 +1,4 @@
 [
-  "skip:https://ria.ru/20261114/politsiya-2131598446.html",
-  "skip:https://tass.ru/proisshestviya/28318245",
-  "skip:https://www.interfax.ru/russia/1129033",
-  "skip:https://ria.ru/20261114/davudov-2131595551.html",
-  "skip:https://www.rbc.ru/sport/14/11/2026/6af88940e2d1daf1e27db64c",
-  "skip:https://tass.ru/letnie-vidy/28318233",
-  "skip:https://tass.ru/proisshestviya/28318211",
-  "skip:https://www.kommersant.ru/doc/9109702",
-  "https://www.kommersant.ru/doc/9109711",
-  "title:В Махачкале застрелили призера чемпионата России по самбо Вацилова Давудова",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28318297",
   "skip:https://www.rbc.ru/politics/14/11/2026/6af89d9ac8a1bac0e8b2a0d5",
   "https://www.kommersant.ru/doc/9109713",
@@ -998,5 +988,15 @@
   "skip:https://tass.ru/sport/28328263",
   "skip:https://tass.ru/sport/28328261",
   "https://www.sport-interfax.ru/1129695",
-  "title:Определились участники четвертьфинала Лиги наций УЕФА"
+  "title:Определились участники четвертьфинала Лиги наций УЕФА",
+  "skip:https://www.rbc.ru/business/18/11/2026/6afcdc2fbe9e6bc61a8a6246",
+  "skip:https://www.france24.com/en/technology/20261117-nvidia-board-rules-that-co-founder-jensen-huang-will-not-return-as-ceo",
+  "skip:https://ria.ru/20261118/sovet-2132238269.html",
+  "skip:https://news.google.com/rss/articles/CBMivgFBVV95cUxPUzY1ZVJpMEF5SkVrMm5oVXBaUE9FNFVkUTNxQllsbHo0YXpJMnZQc0Zjc2c2Z2FjRTNYdHAxdi1ZaEFJZkFIRUxqaVNHWUpTZTdydVZtejBWd2Rqa2llYVJDR2MwdjFORHhPSkc0WXAxbml3NWdiTkx5bW9FbE9xdUl1Y1paSnZMcG1OM3RSSHV1TGhHWl92dEpGenJGTXpSbXV3OVRfQzdHTXNqX1NXRzVaY1NGdEFwOTNWSm5R?oc=5",
+  "skip:https://tass.ru/ekonomika/28328291",
+  "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+  "title:Совет директоров Nvidia подтвердил, что не намерен возвращать Дженсена Хуанга на пост генерального директора",
+  "skip:https://ria.ru/20261118/pvo-2132235691.html",
+  "https://www.interfax.ru/world/1129697",
+  "title:Армия Кувейта отражает массированный налет беспилотников"
 ]

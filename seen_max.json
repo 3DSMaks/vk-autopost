@@ -1,8 +1,4 @@
 [
-  "title:Adam Driver Says ‘The Ship Has Sailed’ on ‘The Hunt for Ben Solo’ and He’s Done Playing Kylo Ren: ‘It’s Over’",
-  "skip:https://www.igromania.ru/news/169747/prodazhi-marvels-wolverine-sostavili-24-mln-kopij-rosomaha-proigryivaet-ghost-of-yotei/",
-  "skip:https://www.playground.ru/marvels_wolverine/news/ofitsialno_marvels_wolverine_pokazala_skromnye_prodazhi_vsego_2_4_mln_kopij_za_dva_mesyatsa-1887957#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.ign.com/articles/gta-6-rakes-in-over-750-million-in-pre-orders-two-weeks-ahead-of-release-date",
   "skip:https://gamemag.ru/news/201978/oficialno-reliz-god-of-war-laufey-otlojili-na-may-2027-goda",
   "skip:https://stopgame.ru/newsdata/73391/god_of_war_laufey_zaderzhitsya_do_20_maya_2027_go",
   "https://www.playground.ru/ghost_of_yotei/news/sucker_punch_raskryla_podrobnosti_vozvrascheniya_dzina_sakaya_v_ghost_of_yotei_most_wanted-1887963#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +994,9 @@
   "skip:https://www.kinonews.ru/news_144186/",
   "skip:https://www.film.ru/news/keydzh-i-payn-v-amerikanskom-epike",
   "https://www.film.ru/news/odisseya-oficialno-v-seti",
-  "title:Одиссея официально в Сети"
+  "title:Одиссея официально в Сети",
+  "skip:https://variety.com/2026/film/global/brad-pitt-robert-pattinson-bond-villain-1236950118/",
+  "skip:https://www.kinonews.ru/news_144187/",
+  "https://www.kinonews.ru/news_144184/",
+  "title:Расширенная версия \"Человека-паука 4: Новый день\" выйдет в прокат"
 ]

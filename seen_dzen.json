@@ -327,5 +327,8 @@
   "skip:https://www.igromania.ru/news/170006/bolshe-polovinyi-predzakazavshih-gta-6-lyudi-molozhe-35-let/",
   "skip:https://www.ign.com/articles/gta-6-gets-new-screenshots-highlighting-leonidas-dynamic-weather",
   "https://www.igromania.ru/news/170009/predzakazyi-gta-6-priblizhayutsya-k-otmetke-v-16-mln-kopij/",
-  "title:Предзаказы GTA 6 приближаются к отметке в 16 млн копий"
+  "title:Предзаказы GTA 6 приближаются к отметке в 16 млн копий",
+  "skip:https://gamemag.ru/news/202173/gta-6-igm-live-stream",
+  "https://www.ign.com/articles/sony-squeezes-in-last-minute-ps5-firmware-security-update-ahead-of-gta-6-release-date-amid-fresh-hacker-claim",
+  "title:Sony Squeezes in Last-Minute PS5 Firmware Security Update Ahead of GTA 6 Release Date, Amid Fresh Hacker Claim"
 ]

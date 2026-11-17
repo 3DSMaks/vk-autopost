@@ -1,12 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169759/zvezda-call-of-duty-hochet-vernutsya-k-roli-kapitana-prajsa-v-ekranizatsii-igryi/",
-  "skip:https://www.playground.ru/misc/news/sony_mozhet_byt_dovolna_obschij_obyom_postavok_playstation_5_priblizhaetsya_k_100_mln_edinits-1888036#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.ign.com/articles/sony-announces-official-marvels-wolverine-sales-figure-for-the-first-time-raises-playstation-sales-forecast-with-gta-6-imminent",
-  "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/ispolnitel_roli_kapitana_prajsa_schitaet_sebya_luchshim_kandidatom_na_rol_v_filme_call_of_duty-1888028#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://stopgame.ru/newsdata/73394/2_4_mln_kopiy_u_marvel_s_wolverine_i_pochti_98_mln_prodannyh_ps5_otchet_sony",
-  "https://www.playground.ru/gta_6/news/rockstar_podtverdila_vladeltsy_fizicheskih_kopij_gta_6_mogut_v_lyuboj_moment_perejti_na_izdanie_ultimate_edition-1888032#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Rockstar подтвердила: владельцы физических копий GTA 6 могут в любой момент перейти на издание Ultimate Edition",
-  "skip:https://www.film.ru/news/adam-drayver-ne-vernetsya-v-zvezdnye-voyny",
   "skip:https://variety.com/2026/film/news/liam-neeson-meryl-streep-aslan-narnia-1236940112/",
   "skip:https://deadline.com/2026/11/the-odyssey-imax-quartelry-earnings-1237214226/",
   "https://deadline.com/2026/11/kiefer-sutherland-al-pacino-movie-father-joe-us-deal-1237214237/",
@@ -998,5 +990,13 @@
   "skip:https://stopgame.ru/newsdata/73536/novye_dopolneniya_protaschili_euro_truck_simulator_2_na_pervoe_mesto_v_charte_steam",
   "skip:https://www.igromania.ru/news/170010/euro-truck-simulator-2-ustupila-tolko-apex-legends-v-svezhem-charte-steam/",
   "https://www.playground.ru/elder_scrolls_online/news/v_nachale_2027_goda_v_the_elder_scrolls_online_poyavitsya_novaya_osnovnaya_igrovaya_zona_vinterhold-1891524#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:В начале 2027 года в The Elder Scrolls Online появится новая основная игровая зона - Винтерхолд"
+  "title:В начале 2027 года в The Elder Scrolls Online появится новая основная игровая зона - Винтерхолд",
+  "skip:https://www.pcgamer.com/gaming-industry/civilization-dev-firaxis-reportedly-lays-off-a-third-of-its-staff-studio-head-departs/",
+  "skip:https://gamemag.ru/news/202202/bloomberg-tret-sotrudnikov-firaxis-games-uvolena-iz-za-problem-s-xcom-3",
+  "skip:https://www.playground.ru/gta_6/news/nakonets_to_ofitsialno_raskryta_ispolnitelnitsa_glavnoj_roli_v_gta_6_dogadki_gejmerov_okazali_verny-1891541#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/grand-theft-auto-6-lucia-actress-finally-revealed-and-yes-its-who-you-probably-suspected",
+  "skip:https://www.playground.ru/sid_meiers_civilization_7/news/komanda_razrabotchikov_globalnoj_strategii_civilization_poteryala_tret_spetsialistov_firaxis_pokidaet_i_rukovodstvo-1891536#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/exodus-reveals-female-protagonist-and-voice-actor-shown-in-new-trailer-for-upcoming-mass-effect-like-rpg",
+  "https://stopgame.ru/newsdata/73538/avtory_postal_predstavili_geympleynyy_trailer_flesh_and_wire",
+  "title:Авторы Postal представили геймплейный трейлер Flesh & Wire"
 ]

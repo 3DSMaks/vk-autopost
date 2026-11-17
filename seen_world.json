@@ -1,12 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9109570",
-  "title:Запущенные с космодрома Восточный спутники «КОЭН» и «Киноспутник» выведены на орбиту",
-  "skip:https://tass.ru/proisshestviya/28317559",
-  "skip:https://ria.ru/20261114/evakuatsiya-2131511870.html",
-  "https://www.rbc.ru/rbcfreenews/6af80f82630e0ea0deef43dc",
-  "title:В штате Иллинойс объявили эвакуацию из-за угрозы взрыва на спиртзаводе",
-  "skip:https://news.google.com/rss/articles/CBMie0FVX3lxTFBVMkIybm5QSXNTdnRac3FBOEVCdUNDc0o1ZVZyd2M3eGg4bTFzbk03bG1OalZBdW05UjE2NG5sejluR1hUdElyOFNIOTRmSk5reGtkZHNmWGNHRi16Ylo4RUNieTVUa0pOd09qXy1iMlhsdUZfMTlHYm5YTQ?oc=5",
-  "https://www.rbc.ru/rbcfreenews/6af817028cf1f15c6404b6a7",
   "title:В Новом Орлеане танкер столкнулся с пассажирским судном на реке Миссисипи",
   "skip:https://www.rbc.ru/technology_and_media/14/11/2026/6af808300189ce094ad0b0ae",
   "skip:https://ria.ru/20261114/mintsifry-2131514982.html",
@@ -998,5 +990,13 @@
   "title:Спецпосланник ЕС по санкциям Дэвид О’Салливан объявил об отставке",
   "skip:https://www.interfax.ru/world/1129563",
   "https://www.rbc.ru/politics/17/11/2026/6afc0d0d8073c66b23fcdac2",
-  "title:Германия и Норвегия профинансируют закупку американских ракет для Украины"
+  "title:Германия и Норвегия профинансируют закупку американских ракет для Украины",
+  "skip:https://www.interfax.ru/world/1129585",
+  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/17/vessels-on-fire-after-naval-mine-hit-in-hormuz-strait-iran-says?traffic_source=rss",
+  "https://www.rbc.ru/rbcfreenews/6afc2b2bceb67fb764c33241",
+  "title:Суда подорвались на минах в Ормузском проливе",
+  "skip:https://tass.ru/sport/28326687",
+  "skip:https://www.sport-interfax.ru/1129579",
+  "https://www.rbc.ru/sport/17/11/2026/6afc38c6f86dce154db38bdb",
+  "title:Мужская и женская сборные России выиграли командный чемпионат Азии по шахматам"
 ]

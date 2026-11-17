@@ -1,7 +1,4 @@
 [
-  "skip:https://www.film.ru/news/dyuna-chast-3-samaya-korotkaya",
-  "skip:https://www.film.ru/news/adam-drayver-ne-vernetsya-v-zvezdnye-voyny",
-  "https://www.kinonews.ru/news_143996/",
   "title:Звезда \"Медведя\" Джереми Аллен Уайт может стать новым Росомахой",
   "skip:https://stopgame.ru/newsdata/73396/blizzard_vypustila_world_of_warcraft_forever_rasshirennuyu_versiyu_vanilnoy_wow",
   "skip:https://www.pcgamer.com/games/world-of-warcraft/after-all-the-queuing-drama-in-beta-wow-forevers-launch-was-buttery-smooth/",
@@ -998,5 +995,8 @@
   "https://www.igromania.ru/news/170001/odna-iz-igr-serii-call-of-duty-mogla-otpravit-igrokov-v-srednevekove-zayavil-stsenarist-infinite-warfare/",
   "title:Одна из игр серии Call of Duty могла отправить игроков в Средневековье, заявил сценарист Infinite Warfare",
   "https://www.ign.com/articles/uks-national-health-service-is-urging-gamers-to-protect-their-hands-ahead-of-gta-6-launch",
-  "title:UK’s National Health Service Is Urging Gamers to Protect Their Hands Ahead of GTA 6 Launch"
+  "title:UK’s National Health Service Is Urging Gamers to Protect Their Hands Ahead of GTA 6 Launch",
+  "skip:https://www.igromania.ru/news/170009/predzakazyi-gta-6-priblizhayutsya-k-otmetke-v-16-mln-kopij/",
+  "https://gamemag.ru/news/202193/shift-up-expresses-interest-in-developing-for-xbox-helix",
+  "title:Разработчики Stellar Blade выразили заинтересованность в выпуске игр для консолей Xbox"
 ]

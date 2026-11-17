@@ -1,11 +1,4 @@
 [
-  "skip:https://deadline.com/2026/11/johnny-depp-reprising-pirates-of-the-caribbean-role-1237211975/",
-  "skip:https://www.film.ru/news/treyler-cheloveka-s-meshkom",
-  "skip:https://www.film.ru/news/depp-o-shestyh-piratah",
-  "https://variety.com/2026/music/news/trent-reznor-atticus-ross-score-david-fincher-cliff-booth-1236938107/",
-  "title:Trent Reznor and Atticus Ross to Score David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’",
-  "skip:https://www.kinonews.ru/news_143957/",
-  "https://www.kinonews.ru/news_143955/",
   "title:Брайан Тайри Генри может стать Двуликим в \"Бэтмене 2\"",
   "skip:https://kg-portal.ru/comments/135624-dzhonni-depp-gotov-vernutsja-k-roli-kapitana-dzheka-vorobja-chtoby-krasivo-zavershit-piratov-karibskogo-morja/",
   "skip:https://www.film.ru/news/treyler-tretego-persi-dzheksona",
@@ -998,5 +991,12 @@
   "skip:https://variety.com/2026/film/columns/brad-pitt-oceans-14-shooting-late-2027-1236950020/",
   "skip:https://www.kinonews.ru/news_144183/",
   "https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/",
-  "title:Jennifer Lawrence Reunites With ‘Hunger Games’ Co-Star Josh Hutcherson at ‘Sunrise on the Reaping’ World Premiere"
+  "title:Jennifer Lawrence Reunites With ‘Hunger Games’ Co-Star Josh Hutcherson at ‘Sunrise on the Reaping’ World Premiere",
+  "posted:2026-11-17T11:01:42+00:00",
+  "skip:https://deadline.com/2026/11/brad-pitt-robert-pattinson-james-bond-1237226378/",
+  "skip:https://www.kinonews.ru/news_144182/",
+  "skip:https://variety.com/2026/film/columns/elizabeth-debicki-tenet-co-star-robert-pattinson-james-bond-1236949754/",
+  "skip:https://www.film.ru/news/keydzh-i-payn-v-amerikanskom-epike",
+  "https://www.film.ru/news/pervye-otzyvy-na-kliffa-buta",
+  "title:Первые отзывы на Клиффа Бута"
 ]

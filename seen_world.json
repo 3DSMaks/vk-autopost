@@ -1,8 +1,4 @@
 [
-  "https://ria.ru/20261114/infrastruktura-2131531380.html",
-  "title:ВС РФ нанесли удары по объектам энергетики и транспорта Украины",
-  "skip:https://news.google.com/rss/articles/CBMiSkFVX3lxTE9wd3AyNnpFS1pFNUM1ekdqMFhlZVZoMDg4ZTZUQ19fMENFZWM1bk96TDFoOVZpMDRkNkJWN0dOOE8xWFVNdTI0c3ZB?oc=5",
-  "skip:https://www.kommersant.ru/doc/9109615",
   "skip:https://www.rbc.ru/politics/14/11/2026/6af82cbf9ee0d1c2303b88e0",
   "skip:https://www.kommersant.ru/doc/9109599",
   "skip:https://www.rbc.ru/business/14/11/2026/6af8103cd5ed8db687222bd2",
@@ -998,5 +994,9 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28327023",
   "skip:https://www.rbc.ru/politics/17/11/2026/6afc3b42f86dce154db38be9",
   "https://www.rbc.ru/quote/17/11/2026/6afc483c6a1aa6620310523a",
-  "title:Акции Deutsche Bank упали на фоне утечки данных о транзакциях Эпштейна"
+  "title:Акции Deutsche Bank упали на фоне утечки данных о транзакциях Эпштейна",
+  "skip:https://tass.ru/sport/28327123",
+  "skip:https://tass.ru/sport/28327107",
+  "https://www.rbc.ru/sport/17/11/2026/6afc5b085c8dca32591bcb13",
+  "title:Власти Финляндии отказали российским фигуристам во въезде на этап Гран-при"
 ]

@@ -1,10 +1,4 @@
 [
-  "skip:https://variety.com/2026/film/global/tinto-brass-dead-caligula-salon-kitty-1236939212/",
-  "https://variety.com/2026/film/global/bill-nighy-hayley-atwell-maisie-williams-the-last-dino-1236939109/",
-  "title:Bill Nighy, Hayley Atwell and Maisie Williams Lead Voice Cast of Animated Feature ‘The Last Dino’ (EXCLUSIVE)",
-  "skip:https://www.playground.ru/warhammer_40000_rogue_trader/news/warhammer_40_000_rogue_trader_finalnoe_dopolnenie_processional_of_the_damned_vyjdet_8_dekabrya-1887785#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://stopgame.ru/newsdata/73382/dlc_processiya_proklyatyh_dlya_rogue_trader_startuet_8_dekabrya",
-  "skip:https://www.igromania.ru/news/169734/ekshen-lords-of-the-fallen-2-poluchil-gejmplejnyij-trejler-so-srazheniyam-s-pomoschyu-mecha-i-magii/",
   "skip:https://www.playground.ru/lords_of_the_fallen_2/news/novyj_dnevnik_razrabotchikov_lords_of_the_fallen_ii_posvyaschyon_obnovlyonnoj_boevoj_sisteme-1887781#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.playground.ru/lords_of_the_fallen_2/news/razrabotchiki_lords_of_the_fallen_2_opublikovali_bolshoj_gejmplejnyj_trejler_s_magiej_novym_oruzhiem_i_bossami-1887779#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169733/warhammer-40000-rogue-trader-poluchil-finalnoe-dopolnenie-8-dekabrya/",
@@ -998,5 +992,11 @@
   "skip:https://gamemag.ru/news/202188/nochi-v-stile-vays-siti-anonsirovan-krossover-nba-2k27-i-gta-vi",
   "skip:https://www.ign.com/articles/nba-2k27-is-adding-vice-city-gta-6-themed-cosmetics-and-much-more-as-part-of-massive-rockstar-games-collaboration",
   "https://stopgame.ru/newsdata/73524/ea_naznachila_byvshego_rukovoditelya_call_of_duty_glavoy_proektov_battlefield_studios",
-  "title:EA назначила бывшего руководителя Call of Duty главой проектов Battlefield Studios"
+  "title:EA назначила бывшего руководителя Call of Duty главой проектов Battlefield Studios",
+  "skip:https://www.igromania.ru/news/169989/myi-vas-porezhem-cozdateli-fable-pokazali-znakomoe-mesto-na-novyih-skrinshotah/",
+  "skip:https://www.igromania.ru/news/169985/novyij-kontent-i-podarki-gta-6-uchastvuet-v-kollaboratsiyah-s-nba-2k27-i-escape-from-tarkov/",
+  "skip:https://gamemag.ru/news/202178/treyarch-pokinul-avtor-zombi-rejima-call-of-duty",
+  "skip:https://stopgame.ru/newsdata/73526/nba_2k27_poluchit_kontent_po_motivam_grand_theft_auto_vi",
+  "https://www.ign.com/articles/gta-6-gets-new-screenshots-highlighting-leonidas-dynamic-weather",
+  "title:GTA 6 Gets New Screenshots Highlighting Leonida's Dynamic Weather"
 ]

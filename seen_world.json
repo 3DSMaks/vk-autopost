@@ -1,7 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1128964",
-  "skip:https://www.kommersant.ru/doc/9109502",
-  "skip:https://ria.ru/20261114/kosmos-2131489729.html",
   "skip:https://ria.ru/20261114/raketa-2131489233.html",
   "skip:https://tass.ru/kosmos/28317175",
   "https://ria.ru/20261114/roskosmos-2131494302.html",
@@ -998,5 +995,8 @@
   "title:В Праге столкнулись два пассажирских поезда, десятки пострадавших",
   "skip:https://tass.ru/proisshestviya/28325949",
   "https://www.rbc.ru/politics/17/11/2026/6afc21464edcf1dfab2e8db6",
-  "title:В Сербии потерпел крушение истребитель МиГ-29, пилот погиб"
+  "title:В Сербии потерпел крушение истребитель МиГ-29, пилот погиб",
+  "skip:https://news.google.com/rss/articles/CBMixgFBVV95cUxQYW55RnRFY2o3QVQ5M0ZRRElNUGhWUlhPaDkyODFYbEprTWw5NHhyTUFKSDQ5RE1TOWZWaElmSkY0UnZZeGUyMnFRbXpaOHo2SkxyaTFDUEowd3ZVUS1VaG9TRF9aTmNldHJyUGZtNnFuc2E2NGd0c0NNeDB5ai1rUTVQXzhZNzA5QUlUcTFINUJBZEYzMVRtREg5TTdCWjA2aEFXdWoydENMbTJyTlo3MDJxSHJTTnhlSm53YjJaTmFrRHV3ZEE?oc=5",
+  "https://www.kommersant.ru/doc/9111525",
+  "title:Танкер Gas Husky затонул у берегов Болгарии после атаки"
 ]

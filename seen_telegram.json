@@ -1,11 +1,4 @@
 [
-  "video:2026-11-05:https://variety.com/2026/film/news/adam-driver-the-hunt-for-ben-solo-kylo-ren-1236939988/",
-  "title:Adam Driver Says ‘The Ship Has Sailed’ on ‘The Hunt for Ben Solo’ and He’s Done Playing Kylo Ren: ‘It’s Over’",
-  "skip:https://www.kinonews.ru/news_143999/",
-  "skip:https://www.film.ru/news/novyy-film-o-dzhone-konstantine",
-  "skip:https://kg-portal.ru/comments/135666-kianu-rivz-ischezaet-nad-novoj-ekranizaciej-konstantina-rabotaet-rezhisser-zloveschih-mertvecov/",
-  "https://www.kinonews.ru/news_143996/",
-  "title:Звезда \"Медведя\" Джереми Аллен Уайт может стать новым Росомахой",
   "skip:https://www.kinonews.ru/news_144004/",
   "skip:https://www.film.ru/news/dzheremi-allen-uayt-mozhet-sygrat-rosomahu",
   "skip:https://www.film.ru/news/dnevnik-bridzhit-dzhons-vyydet-3-dekabrya",
@@ -998,5 +991,12 @@
   "title:Johnny Depp’s ‘Ebenezer’ Conquers U.K., Ireland Box Office as ‘Ramayana’ Stays in Top Three",
   "skip:https://www.igromania.ru/news/170009/predzakazyi-gta-6-priblizhayutsya-k-otmetke-v-16-mln-kopij/",
   "https://stopgame.ru/newsdata/73529/avtory_gta_vi_predlozhat_igrokam_mehanizmy_pooschryayuschie_empatiyu",
-  "title:Авторы GTA VI предложат игрокам «механизмы, поощряющие эмпатию»"
+  "title:Авторы GTA VI предложат игрокам «механизмы, поощряющие эмпатию»",
+  "skip:https://www.playground.ru/misc/news/amd_nauchila_linux_uchityvat_moschnost_raznyh_yader_pohozhe_kompaniya_gotovit_pochvu_dlya_chipov_zen_6_lp_v_2027_godu-1891467#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/misc/news/polzovatel_operedil_valve_i_vklyuchil_skrytyj_ik_treking_steam_controller_v_vr_shleme_steam_frame-1891465#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.pcgamer.com/hardware/vr-hardware/modder-beats-valve-to-the-punch-adding-steam-controller-tracking-for-the-steam-frame/",
+  "skip:https://www.igromania.ru/news/170005/fanatyi-world-of-warcraft-forever-ustroili-skandal-iz-za-eksplojta-na-zoloto/",
+  "skip:https://www.ign.com/articles/blizzard-tries-two-world-of-warcraft-dungeon-fixes-over-the-weekend-to-stop-boosting-services",
+  "https://www.playground.ru/resident_evil_code_veronica_x/news/na_serverah_capcom_obnaruzheny_sledy_aktivnyh_plejtestov_remejka_resident_evil_code_veronica-1891466#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:На серверах Capcom обнаружены следы активных плейтестов ремейка Resident Evil Code: Veronica"
 ]

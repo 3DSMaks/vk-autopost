@@ -1,10 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_144004/",
-  "skip:https://www.film.ru/news/dzheremi-allen-uayt-mozhet-sygrat-rosomahu",
-  "skip:https://www.film.ru/news/dnevnik-bridzhit-dzhons-vyydet-3-dekabrya",
-  "https://deadline.com/2026/11/liam-neeson-reacts-meryl-streep-narnia-aslan-1237213943/",
-  "title:Liam Neeson Reacts To Meryl Streep Taking Over ‘Narnia’ Role Of Aslan: “Nobody Better”",
-  "skip:https://kg-portal.ru/comments/135661-karta-poshla-zvezdu-ochen-strannyh-del-majju-houk-usilenno-zovut-v-ekranizaciju-magic-the-gathering/",
   "https://deadline.com/2026/11/nightswimming-lennie-james-itv-thriller-two-brothers-1237213214/",
   "title:‘The Walking Dead’ Star Lennie James Leading ITV Thriller ‘Nightswimming’ From Harry & Jack Williams",
   "https://variety.com/2026/film/awards/griffin-dunne-practical-magic-resurgence-american-werewolf-london-1236938556/",
@@ -998,5 +992,11 @@
   "skip:https://www.igromania.ru/news/170005/fanatyi-world-of-warcraft-forever-ustroili-skandal-iz-za-eksplojta-na-zoloto/",
   "skip:https://www.ign.com/articles/blizzard-tries-two-world-of-warcraft-dungeon-fixes-over-the-weekend-to-stop-boosting-services",
   "https://www.playground.ru/resident_evil_code_veronica_x/news/na_serverah_capcom_obnaruzheny_sledy_aktivnyh_plejtestov_remejka_resident_evil_code_veronica-1891466#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:На серверах Capcom обнаружены следы активных плейтестов ремейка Resident Evil Code: Veronica"
+  "title:На серверах Capcom обнаружены следы активных плейтестов ремейка Resident Evil Code: Veronica",
+  "skip:https://gamemag.ru/news/202199/vtoroy-krug-krovososa-sozdateli-the-blood-of-dawnwalker-vypustili-obnovlenie-12",
+  "skip:https://stopgame.ru/newsdata/73532/avtory_chronicles_medieval_obankrotilis_no_igru_spas_izdatel_coffee_stain",
+  "skip:https://stopgame.ru/newsdata/73530/the_blood_of_dawnwalker_poluchila_apdeyt_s_novoy_igroy",
+  "skip:https://www.igromania.ru/news/170003/pesochnitsu-chronicles-medieval-vyikupil-izdatel-satisfactory/",
+  "https://www.igromania.ru/news/170001/odna-iz-igr-serii-call-of-duty-mogla-otpravit-igrokov-v-srednevekove-zayavil-stsenarist-infinite-warfare/",
+  "title:Одна из игр серии Call of Duty могла отправить игроков в Средневековье, заявил сценарист Infinite Warfare"
 ]

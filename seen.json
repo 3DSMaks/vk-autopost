@@ -1,8 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135629-russkij-trejler-novyh-pohozhdenij-kliffa-buta/",
-  "skip:https://kg-portal.ru/comments/135628-gena-shapokljak-ushastik-iego-semja-nanovom-postere-filma-cheburashka-3/",
-  "https://variety.com/2026/awards/global/bifa-nominations-2026-elsinore-i-see-buildings-animol-1236937954/",
-  "title:‘Elsinore,’ ‘I See Buildings Fall Like Lightning’ and ‘Animol’ Lead British Independent Film Awards Nominations",
   "https://kg-portal.ru/comments/135631-sokolinyj-glaz-budet-spasat-poterjannogo-v-okeane-tanosa-v-trillere-po-realnoj-istorii/",
   "title:Соколиный глаз будет спасать потерянного в океане Таноса в триллере по реальной истории",
   "https://www.kinonews.ru/news_143953/",
@@ -998,5 +994,9 @@
   "skip:https://www.kinonews.ru/news_144188/",
   "skip:https://www.kinonews.ru/news_144187/",
   "https://www.film.ru/news/start-semok-novogo-oushena",
-  "title:Старт съемок нового Оушена"
+  "title:Старт съемок нового Оушена",
+  "posted:2026-11-17T15:39:27+00:00",
+  "skip:https://deadline.com/2026/11/cannes-protests-sanctions-iranian-director-jafar-panahi-1237226517/",
+  "https://www.film.ru/news/treyler-multseriala-pro-garfilda",
+  "title:Трейлер мультсериала про Гарфилда"
 ]

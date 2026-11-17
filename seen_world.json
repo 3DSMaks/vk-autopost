@@ -1,7 +1,4 @@
 [
-  "skip:https://www.interfax.ru/world/1128959",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28317053",
-  "https://www.kommersant.ru/doc/9109498",
   "title:Белый дом анонсировал встречу Дональда Трампа с Владимиром Путиным и Си Цзиньпином в Китае",
   "skip:https://ria.ru/20261114/spacex-2131485422.html",
   "skip:https://tass.ru/kosmos/28317055",
@@ -998,5 +995,8 @@
   "skip:https://ria.ru/20261117/moskva-2132003517.html",
   "skip:https://ria.ru/20261117/moskva-2132002524.html",
   "skip:https://www.interfax.ru/moscow/1129422",
-  "https://www.interfax.ru/moscow/1129428"
+  "https://www.interfax.ru/moscow/1129428",
+  "skip:https://www.interfax.ru/world/1129418",
+  "https://www.kommersant.ru/doc/9111151",
+  "title:США направили третий авианосец на Ближний Восток"
 ]

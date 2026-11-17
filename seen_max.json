@@ -1,8 +1,4 @@
 [
-  "skip:https://www.film.ru/news/verdikt-rassella-brenda",
-  "skip:https://www.kinonews.ru/news_144010/",
-  "https://www.kinonews.ru/news_144015/",
-  "title:Lionsgate запускает анимационный приквел \"Джона Уика\"",
   "skip:https://www.igromania.ru/news/169770/istoriyu-legendarnoj-bioware-rasskazhut-v-dokumentalnom-filme-ot-istokov-do-zakryitiya/",
   "skip:https://www.igromania.ru/news/169769/da-blin-bethesda-gejmeryi-vyismeyali-ofitsialnyij-merch-po-the-elder-scrolls-vi-sentinel/",
   "skip:https://www.igromania.ru/news/169768/animatsionnomu-filmu-o-dzhone-uike-s-kianu-rivzom-dali-zelyonyij-svet/",
@@ -998,5 +994,9 @@
   "https://variety.com/2026/film/reviews/the-hunger-games-sunrise-on-the-reaping-review-1236944341/",
   "title:‘The Hunger Games: Sunrise on the Reaping’ Review: Not as Deadly as ‘Songbirds & Snakes,’ the Haymitch Origin Story Makes for a Watchable if Meanderin",
   "https://www.film.ru/news/pervye-otzyvy-na-kliffa-buta",
-  "title:Первые отзывы на Клиффа Бута"
+  "title:Первые отзывы на Клиффа Бута",
+  "skip:https://variety.com/2026/film/global/cannes-condemns-five-year-prison-sentence-jafar-panahi-1236950242/",
+  "skip:https://www.kinonews.ru/news_144185/",
+  "https://www.kinonews.ru/news_144183/",
+  "title:Финал \"Квест Вижна\" стал самым успешным эпизодом Marvel за три года"
 ]

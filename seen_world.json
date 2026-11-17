@@ -1,14 +1,4 @@
 [
-  "https://www.interfax.ru/world/1128956",
-  "title:SpaceX осуществила 15-й испытательный запуск сверхтяжелой ракеты Starship",
-  "skip:https://ria.ru/20261114/ssha-2131484671.html",
-  "https://www.rbc.ru/rbcfreenews/6af79809e48b802d2e4be80e",
-  "title:В Новом Орлеане танкер столкнулся с пассажирским судном, есть пострадавшие",
-  "skip:https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY3N6bWdWdGxvUENqRDUxcTVlaUFva2xhRTVoSk90VUtXSmxHX1p6dl8zcWRFM3dVa2VmaEFlMzRJNkYzZk1sUmpVeDk1amo5WmJtLUtvaE5PMDFYRThDYXNzVGNtcnZXWURuSGxQckozMmc2OFBQN3J4RUxpVkwwdTczZmE3T0ExOEtjdGc2QTh1RkZCVGlUZ0d2TTlPckVncHpEak8zUWlZejNRa2VlRVFvMDhRU085?oc=5",
-  "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry",
-  "title:В Венгрии антикоррупционное ведомство изъяло миллионы долларов наличными в ходе расследования",
-  "skip:https://news.google.com/rss/articles/CBMilAFBVV95cUxPX1dzUndCOE42aUFUazd4SFcxMFVWUTl6VmRVOE5QR0ZjNWRXY19qWTVuRUthUXhDS3UybmZnQmFHSHVRV20wdXJwTUlKUTlGVU42N1B4bkVwSjI4bkdJeG94aFpxX01NUTdyWUJOUVZHSHlXZkxGZXlsTWhjSmUwRXoyRklMekIycXlEUk1pM1NpNjJp?oc=5",
-  "skip:https://ria.ru/20261114/ssha-2131485762.html",
   "skip:https://www.interfax.ru/world/1128959",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28317053",
   "https://www.kommersant.ru/doc/9109498",
@@ -998,5 +988,15 @@
   "skip:https://ria.ru/20261117/razvozhaev-2132004317.html",
   "skip:https://www.rbc.ru/politics/17/11/2026/6afb6efe58aa438c18cdde23",
   "https://www.kommersant.ru/doc/9111152",
-  "title:ВСУ предприняли новую атаку на Крымский мост, движение транспорта перекрыто"
+  "title:ВСУ предприняли новую атаку на Крымский мост, движение транспорта перекрыто",
+  "skip:https://ria.ru/20261117/moskva-2132005638.html",
+  "skip:https://www.kommersant.ru/doc/9111153",
+  "skip:https://www.interfax.ru/moscow/1129427",
+  "skip:https://ria.ru/20261117/moskva-2132004493.html",
+  "skip:https://tass.ru/proisshestviya/28324057",
+  "skip:https://www.interfax.ru/moscow/1129426",
+  "skip:https://ria.ru/20261117/moskva-2132003517.html",
+  "skip:https://ria.ru/20261117/moskva-2132002524.html",
+  "skip:https://www.interfax.ru/moscow/1129422",
+  "https://www.interfax.ru/moscow/1129428"
 ]

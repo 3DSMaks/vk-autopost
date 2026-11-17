@@ -1,12 +1,4 @@
 [
-  "title:Минобороны РФ заявило о поражении сухогруза с военным имуществом в порту Черноморска",
-  "skip:https://www.rbc.ru/politics/14/11/2026/6af893cde2d1daf1e27db672",
-  "skip:https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28318231",
-  "skip:https://www.france24.com/en/us-transport-secretary-asks-congress-for-30-bn-to-upgrade-aviation-infrastructure",
-  "skip:https://ria.ru/20261114/ssha-2131591369.html",
-  "https://tass.ru/mezhdunarodnaya-panorama/28318267",
-  "title:Минтранс США назвал техническую причину масштабного сбоя в авиасообщении",
   "skip:https://ria.ru/20261114/politsiya-2131598446.html",
   "skip:https://tass.ru/proisshestviya/28318245",
   "skip:https://www.interfax.ru/russia/1129033",
@@ -998,5 +990,13 @@
   "skip:https://tass.ru/obschestvo/28328233",
   "skip:https://ria.ru/20261117/sboy-2132232073.html",
   "https://tass.ru/obschestvo/28328237",
-  "title:В работе почтовых сервисов Gmail и Outlook в США произошел массовый сбой"
+  "title:В работе почтовых сервисов Gmail и Outlook в США произошел массовый сбой",
+  "skip:https://ria.ru/20261118/irlandiya-2132236261.html",
+  "skip:https://ria.ru/20261118/sbornaja-2132236025.html",
+  "skip:https://ria.ru/20261118/uchastniki-2132235862.html",
+  "skip:https://tass.ru/sport/28328273",
+  "skip:https://tass.ru/sport/28328263",
+  "skip:https://tass.ru/sport/28328261",
+  "https://www.sport-interfax.ru/1129695",
+  "title:Определились участники четвертьфинала Лиги наций УЕФА"
 ]

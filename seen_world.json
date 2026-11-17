@@ -1,7 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMilwFBVV95cUxPbEJSd3lrcThXUUdyRWY1M1JSVzRrdG9OcFVQTUVRRXItcjlnN19uSFdqV1BJdEVFelI3anBNZm9lZkpsREYyTXNUVG5ndU5tZmlGY0ZtaGs5RHpQX0pVSllTV0M4RnlMeTFubXBydjVqN0k1V3VpeEZ1SEtVSUwtVkNIOWw5RDU4bWpJWmdwaHR2R2s0a0hR?oc=5",
-  "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-  "title:SpaceX не удалось поймать ускоритель ракеты Starship при попытке захвата",
   "skip:https://ria.ru/20261114/ssha-2131487140.html",
   "skip:https://ria.ru/20261114/tramp-2131487036.html",
   "skip:https://tass.ru/ekonomika/28317113",
@@ -998,5 +995,8 @@
   "title:США направили третий авианосец на Ближний Восток",
   "skip:https://www.france24.com/en/europe/20261117-russian-strikes-hit-two-key-bridges-in-kyiv-disrupting-water-and-power-supplies-ukraine",
   "https://tass.ru/proisshestviya/28324177",
-  "title:Удары по мостам в Киеве привели к повреждению критической инфраструктуры"
+  "title:Удары по мостам в Киеве привели к повреждению критической инфраструктуры",
+  "skip:https://tass.ru/ekonomika/28324393",
+  "https://www.interfax.ru/moscow/1129435",
+  "title:Аэропорт Шереметьево приостановил прием и выпуск самолетов"
 ]

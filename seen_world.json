@@ -1,10 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9109500",
-  "skip:https://news.google.com/rss/articles/CBMingFBVV95cUxONzBhVVlrM3VvX3JkUnJPNkFvMENScTQ5UHl2RmVtOHlKN2VzTUpHRnVNaFFDNmtHdG1iYkJtM3FKTDhlQ0oxR3ZObG9oWnN4Qk1YUE9JdC1wWGp5YV9MbXBrM05ENlZxREg1eFlOTzVxWXpPbjFXQTFqcVRlQi1FWW9JY25NQ0NxUGdIZG0tLXVfMl9mLVFlMGFXcWk4UQ?oc=5",
-  "https://www.france24.com/en/video/20261114-faa-lifts-nationwide-ground-stop-on-all-us-flights",
-  "title:В США сняли общенациональный запрет на вылеты и возобновили работу аэропортов после масштабного сбоя",
-  "skip:https://tass.ru/kosmos/28317247",
-  "skip:https://tass.ru/kosmos/28317245",
   "skip:https://www.interfax.ru/russia/1128964",
   "skip:https://www.kommersant.ru/doc/9109502",
   "skip:https://ria.ru/20261114/kosmos-2131489729.html",
@@ -998,5 +992,11 @@
   "skip:https://www.interfax.ru/russia/1129517",
   "skip:https://ria.ru/20261117/pvo-2132076426.html",
   "https://www.rbc.ru/rbcfreenews/6afc1a2ce2186aeefc71b7a5",
-  "title:Минобороны отчиталось об уничтожении более 2,2 тыс. украинских беспилотников за сутки"
+  "title:Минобороны отчиталось об уничтожении более 2,2 тыс. украинских беспилотников за сутки",
+  "skip:https://ria.ru/20261117/praga-2132088119.html",
+  "https://www.interfax.ru/world/1129538",
+  "title:В Праге столкнулись два пассажирских поезда, десятки пострадавших",
+  "skip:https://tass.ru/proisshestviya/28325949",
+  "https://www.rbc.ru/politics/17/11/2026/6afc21464edcf1dfab2e8db6",
+  "title:В Сербии потерпел крушение истребитель МиГ-29, пилот погиб"
 ]

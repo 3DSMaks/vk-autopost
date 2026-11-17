@@ -1,7 +1,4 @@
 [
-  "skip:https://www.playground.ru/lords_of_the_fallen_2/news/novyj_dnevnik_razrabotchikov_lords_of_the_fallen_ii_posvyaschyon_obnovlyonnoj_boevoj_sisteme-1887781#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.playground.ru/lords_of_the_fallen_2/news/razrabotchiki_lords_of_the_fallen_2_opublikovali_bolshoj_gejmplejnyj_trejler_s_magiej_novym_oruzhiem_i_bossami-1887779#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169733/warhammer-40000-rogue-trader-poluchil-finalnoe-dopolnenie-8-dekabrya/",
   "https://www.playground.ru/god_of_war_ragnarok/news/analitiki_gow_ragnarok_razoshlas_tirazhom_21_6_mln_kopij_i_stala_samoj_kassovoj_igroj_playstation_tekuschego_pokoleniya-1887796#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Аналитики: GoW Ragnarok разошлась тиражом 21,6 млн копий и стала самой кассовой игрой PlayStation текущего поколения",
   "skip:https://kg-portal.ru/comments/135656-zhanklod-van-damm-sygraet-v-boevike-s-moschju-krovavogo-sporta-naprjazheniem-zalozhnicy-i-energiej-dzhona-uika/",
@@ -998,5 +995,8 @@
   "skip:https://gamemag.ru/news/202178/treyarch-pokinul-avtor-zombi-rejima-call-of-duty",
   "skip:https://stopgame.ru/newsdata/73526/nba_2k27_poluchit_kontent_po_motivam_grand_theft_auto_vi",
   "https://www.ign.com/articles/gta-6-gets-new-screenshots-highlighting-leonidas-dynamic-weather",
-  "title:GTA 6 Gets New Screenshots Highlighting Leonida's Dynamic Weather"
+  "title:GTA 6 Gets New Screenshots Highlighting Leonida's Dynamic Weather",
+  "skip:https://www.playground.ru/misc/news/oskaronosnyj_operator_dyuny_i_betmena_mozhet_snyat_perezapusk_bondiany_s_robertom_pattinsonom-1891378#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "https://www.playground.ru/final_fantasy_7/news/square_enix_vypustit_dva_romana_po_vselennoj_final_fantasy_7_pered_relizom_finalnoj_chasti_trilogii_remejkov-1891383#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Square Enix выпустит два романа по вселенной Final Fantasy 7 перед релизом финальной части трилогии ремейков"
 ]

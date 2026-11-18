@@ -1,9 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135681-nevypolnimaja-missija-dzhona-uika-odobrena-studiej-lionsgate-kianu-rivz-vernetsja-chtoby-ozvuchit-svoego-personazha/",
-  "https://www.film.ru/news/treyler-galeristki-s-portman-i-ortegoy",
-  "title:Трейлер Галеристки с Портман и Ортегой",
-  "skip:https://deadline.com/2026/11/russell-brand-jack-bayles-dropped-bbc-apple-sexual-assault-1237214442/",
-  "skip:https://www.film.ru/news/verdikt-rassella-brenda",
   "https://www.film.ru/news/tizer-kriminala-s-charli-hannemom",
   "title:Тизер Криминала с Чарли Ханнэмом",
   "skip:https://kg-portal.ru/comments/135688-galleristka-trejler/",
@@ -998,5 +993,10 @@
   "skip:https://www.igromania.ru/news/170024/dzhensen-huang-gotov-vernutsya-na-post-glavyi-nvidia-no-sovet-direktorov-ne-planiruet-ego-priglashat/",
   "skip:https://www.pcgamer.com/hardware/graphics-cards/jensen-huang-would-come-back-as-nvidias-ceo-if-america-needs-him-a-technique-i-now-intend-to-use-at-my-next-job-interview/",
   "https://www.ign.com/articles/the-game-awards-2026-nominations-revealed-gta-6-dominates",
-  "title:The Game Awards 2026 Nominations Revealed, GTA 6 Dominates"
+  "title:The Game Awards 2026 Nominations Revealed, GTA 6 Dominates",
+  "skip:https://www.kinonews.ru/news_144204/",
+  "skip:https://www.film.ru/news/heteuey-rodila-tretego",
+  "skip:https://www.film.ru/news/treyler-vtoroy-zadachi-treh-tel",
+  "https://www.film.ru/news/vilnev-nazval-dyunu-3-luchshey",
+  "title:Вильнев назвал Дюну 3 лучшей"
 ]

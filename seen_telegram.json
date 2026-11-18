@@ -1,10 +1,4 @@
 [
-  "skip:https://variety.com/2026/film/box-office/box-office-godzilla-minus-zero-previews-1236941301/",
-  "https://www.film.ru/news/prikvel-ochen-strannyh-del",
-  "title:Приквел Очень странных дел",
-  "skip:https://www.igromania.ru/news/169784/spin-off-ochen-strannyih-del-poluchil-pervyij-tizer-novyie-geroi-i-zlodei-zhdut-nas-v-2028-godu/",
-  "skip:https://www.playground.ru/misc/news/robert_pattinson_mozhet_smenit_supergerojskij_plasch_na_smoking_agenta_007-1888531#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169782/zvezda-sumerek-i-betmena-robert-pattinson-pretenduet-na-rol-dzhejmsa-bonda-thr/",
   "skip:https://www.ign.com/articles/pokemon-tcg-most-valuable-delta-reign-cards",
   "skip:https://www.pcgamer.com/games/rpg/path-of-exile-2-announces-a-second-new-class-the-shadow-for-its-december-1-0-release/",
   "skip:https://stopgame.ru/newsdata/73416/byvshiy_tehnicheskiy_direktor_rockstar_dopustil_bolee_ranniy_vyhod_gta_vi_na_pk_iz_za_ugrozy_ii_portov",
@@ -998,5 +992,11 @@
   "skip:https://stopgame.ru/newsdata/73546/v_crystal_dynamics_vnov_uvolneniya_v_pyatyy_raz_za_pochti_dva_goda",
   "skip:https://gamemag.ru/news/202173/gta-6-igm-live-stream",
   "https://www.playground.ru/anno_117_pax_romana/news/anno_117_pax_romana_poluchila_patch_3_0_1_s_ispravleniem_bagov_i_balansnymi_pravkami-1891779#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Anno 117: Pax Romana получила патч 3.0.1 с исправлением багов и балансными правками"
+  "title:Anno 117: Pax Romana получила патч 3.0.1 с исправлением багов и балансными правками",
+  "skip:https://www.playground.ru/misc/news/dzheff_bezos_posovetoval_nvidia_iskat_zamenu_dzhensenu_huangu_tolko_vnutri_kompanii-1891796#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/gta-6-is-now-the-joint-highest-rated-game-of-all-time",
+  "skip:https://www.pcgamer.com/hardware/graphics-cards/if-you-dont-bring-jensen-back-i-would-not-hire-an-outsider-says-amazon-boss-jeff-bezos-but-nvidia-says-its-going-to-look-at-internal-and-external-candidates/",
+  "skip:https://www.pcgamer.com/gaming-industry/tomb-raider-developer-makes-fifth-round-of-layoffs-in-less-than-2-years/",
+  "https://www.igromania.ru/news/170045/na-karte-gta-6-est-neaktivnyie-zonyi-na-buduschee-zayavili-v-rockstar/",
+  "title:На карте GTA 6 есть неактивные зоны «на будущее», заявили в Rockstar"
 ]

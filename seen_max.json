@@ -1,6 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73407/v_age_of_wonders_4_nachalis_besplatnye_vyhodnye",
-  "skip:https://www.igromania.ru/news/169779/svezhij-trejler-the-expanse-osiris-reborn-posvyatili-novomu-golosu-glavnogo-geroya/",
   "skip:https://www.igromania.ru/news/169778/mobilnuyu-ratchet-and-clank-ranger-rumble-zakryivayut-serveryi-igryi-otklyuchat-1-maya-2027-goda/",
   "skip:https://www.igromania.ru/news/169771/fentezijnaya-strategiya-age-of-wonders-4-stala-vremenno-besplatnoj-v-tom-chisle-v-rossii/",
   "https://www.playground.ru/metro_4/news/milliardy_obektov_i_chernaya_magiya_optimizatsii_4a_games_rasskazala_o_tehnologicheskom_skachke_dvizhka_metro_2039-1888368#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +996,7 @@
   "skip:https://stopgame.ru/newsdata/73540/shrayer_firaxis_sokraschaet_tret_shtata_razrabotka_novoy_xcom_otstaet_ot_plana",
   "skip:https://gamemag.ru/news/202202/bloomberg-tret-sotrudnikov-firaxis-games-uvolena-iz-za-problem-s-xcom-3",
   "https://www.playground.ru/marvels_wolverine/news/marvels_wolverine_vpervye_podeshevela_v_standartnom_tsifrovom_izdanii_dlya_ps5_sony_snizila_tsenu_na_29_k_rasprodazhe-1891702#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Marvel's Wolverine впервые подешевела в стандартном цифровом издании для PS5 - Sony снизила цену на 29% к распродаже"
+  "title:Marvel's Wolverine впервые подешевела в стандартном цифровом издании для PS5 - Sony снизила цену на 29% к распродаже",
+  "https://www.film.ru/news/treyler-shestyh-ubiystv-v-odnom-zdanii",
+  "title:Трейлер шестых Убийств в одном здании"
 ]

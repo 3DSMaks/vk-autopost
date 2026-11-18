@@ -1,8 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/202012/shawn-layden-bloodborne-2-hasnt-happened",
-  "https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/remejk_the_legend_of_zelda_ocarina_of_time_sozdali_vsego_za_tri_goda-1888537#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Ремейк The Legend of Zelda: Ocarina of Time создали всего за три года",
-  "skip:https://www.igromania.ru/news/169781/svezhie-skrinshotyi-gta-6-sravnivayut-igrovyie-modeli-avtomobilej-s-ih-realnyimi-prototipami/",
   "skip:https://www.playground.ru/legend_of_zelda_majoras_mask_3d/news/v_remejke_the_legend_of_zelda_ocarina_of_time_mogut_soderzhatsya_namyoki_na_vozmozhnyj_remejk_majoras_mask-1888520#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://gamemag.ru/news/202017/no-disc-no-buy-and-ps5-blackout-protests-fail-to-impact-playstation",
   "skip:https://stopgame.ru/newsdata/73413/square_enix_ispravit_oshibku_iz_za_kotoroy_nier_automata_v_steam_zatrebovala_366_gb_mesta",
@@ -998,5 +994,9 @@
   "title:На карте GTA 6 есть неактивные зоны «на будущее», заявили в Rockstar",
   "skip:https://www.igromania.ru/news/170030/sozdatelej-novyih-igr-tomb-raider-iz-crystal-dynamics-vnov-sokratili/",
   "https://www.playground.ru/gta_6/news/on_polnostyu_menyaet_igru_v_rockstar_dovolny_chto_glavnyj_sekret_gta_6_udalos_uberech_ot_utechek-1891817#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:\"Он полностью меняет игру\": в Rockstar довольны, что главный секрет GTA 6 удалось уберечь от утечек"
+  "title:\"Он полностью меняет игру\": в Rockstar довольны, что главный секрет GTA 6 удалось уберечь от утечек",
+  "skip:https://kg-portal.ru/comments/135813-novye-filmy-2329-nojabrja-2026-goda23-nazvanija-i-drugie-novinki-kino/",
+  "https://kg-portal.ru/comments/135839-novye-pohozhdenija-kliffa-buta-finalnyj-trejler/",
+  "video:2026-11-18:https://kg-portal.ru/comments/135839-novye-pohozhdenija-kliffa-buta-finalnyj-trejler/",
+  "title:Брэд Питт мчится навстречу чужим проблемам в финальном трейлере фильма \"Новые похождения Клиффа Бута\""
 ]

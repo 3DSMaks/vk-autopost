@@ -1,7 +1,4 @@
 [
-  "https://www.film.ru/news/tizer-kriminala-s-charli-hannemom",
-  "title:Тизер Криминала с Чарли Ханнэмом",
-  "skip:https://kg-portal.ru/comments/135688-galleristka-trejler/",
   "skip:https://www.kinonews.ru/news_144019/",
   "skip:https://www.kinonews.ru/news_144012/",
   "https://kg-portal.ru/comments/135680-sozdateli-dzhona-uika-dadut-dzheremi-renneru-12-pul-chtoby-perebit-vseh-prestupnikov-londona/",
@@ -998,5 +995,8 @@
   "skip:https://www.film.ru/news/heteuey-rodila-tretego",
   "skip:https://www.film.ru/news/treyler-vtoroy-zadachi-treh-tel",
   "https://www.film.ru/news/vilnev-nazval-dyunu-3-luchshey",
-  "title:Вильнев назвал Дюну 3 лучшей"
+  "title:Вильнев назвал Дюну 3 лучшей",
+  "skip:https://www.film.ru/news/treyler-shestyh-ubiystv-v-odnom-zdanii",
+  "https://www.film.ru/news/gonorar-pattinsona-za-bonda",
+  "title:Гонорар Паттинсона за Бонда"
 ]

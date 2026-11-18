@@ -1,8 +1,4 @@
 [
-  "skip:https://www.playground.ru/onimusha_way_of_the_sword/news/capcom_dovolna_startom_pragmata_i_onimusha_way_of_the_sword_obe_igry_operezhayut_prognozy_po_prodazham-1888292#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169776/pragmata-i-novaya-onimusha-prodayutsya-s-operezheniem-plana-dragons-dogma-2-dark-arisen-tozhe-horosha/",
-  "skip:https://www.pcgamer.com/gaming-industry/saudi-arabia-owns-ea-and-according-to-a-reuters-report-unity-is-next/",
-  "skip:https://www.igromania.ru/news/169768/animatsionnomu-filmu-o-dzhone-uike-s-kianu-rivzom-dali-zelyonyij-svet/",
   "skip:https://www.igromania.ru/news/169767/vladeyuschie-ea-suverennyij-fond-saudovskoj-aravii-i-silver-lake-nedavno-obsuzhdali-pokupku-unity/",
   "https://www.igromania.ru/news/169769/da-blin-bethesda-gejmeryi-vyismeyali-ofitsialnyij-merch-po-the-elder-scrolls-vi-sentinel/",
   "title:«Да блин, Bethesda» — геймеры высмеяли официальный мерч по The Elder Scrolls VI: Sentinel",
@@ -998,5 +994,9 @@
   "skip:https://www.playground.ru/control_2/news/control_resonant_poluchila_besplatnuyu_probnuyu_versiyu_na_xbox-1891733#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://gamemag.ru/news/202208/tomb-raider-studio-lays-off-employees-for-the-sixth-time-since-its-last-game",
   "video:2026-11-18:https://gamemag.ru/news/202208/tomb-raider-studio-lays-off-employees-for-the-sixth-time-since-its-last-game",
-  "title:Шестая волна увольнений: Crystal Dynamics сократила штат разработчиков Tomb Raider: Catalyst"
+  "title:Шестая волна увольнений: Crystal Dynamics сократила штат разработчиков Tomb Raider: Catalyst",
+  "skip:https://www.playground.ru/gta_6/news/grand_theft_auto_vi_poluchila_fenomenalnye_99_na_metacritic_kritiki_nazyvayut_eyo_novym_etalonom_otkrytogo_mira-1891750#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/170041/gta-6-poluchaet-otlichnyie-otsenki-pressyi-v-srednem-99-iz-100/",
+  "https://stopgame.ru/newsdata/73547/boss_remedy_o_control_resonant_eto_aaa_igra_za_byudzhet_aa_urovnya",
+  "title:Босс Remedy о Control Resonant: это ААА-игра за бюджет АА-уровня"
 ]

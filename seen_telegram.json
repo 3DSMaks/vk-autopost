@@ -1,7 +1,4 @@
 [
-  "skip:https://www.playground.ru/legend_of_zelda_majoras_mask_3d/news/v_remejke_the_legend_of_zelda_ocarina_of_time_mogut_soderzhatsya_namyoki_na_vozmozhnyj_remejk_majoras_mask-1888520#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://gamemag.ru/news/202017/no-disc-no-buy-and-ps5-blackout-protests-fail-to-impact-playstation",
-  "skip:https://stopgame.ru/newsdata/73413/square_enix_ispravit_oshibku_iz_za_kotoroy_nier_automata_v_steam_zatrebovala_366_gb_mesta",
   "https://gamemag.ru/news/201749/square-enix-on-revelation-final-fantasy-vii-hard-mode-october-2026",
   "video:2026-11-07:https://gamemag.ru/news/201749/square-enix-on-revelation-final-fantasy-vii-hard-mode-october-2026",
   "title:Final Fantasy VII Revelation позволит выбрать высокий уровень сложности с самого начала",
@@ -998,5 +995,8 @@
   "skip:https://kg-portal.ru/comments/135813-novye-filmy-2329-nojabrja-2026-goda23-nazvanija-i-drugie-novinki-kino/",
   "https://kg-portal.ru/comments/135839-novye-pohozhdenija-kliffa-buta-finalnyj-trejler/",
   "video:2026-11-18:https://kg-portal.ru/comments/135839-novye-pohozhdenija-kliffa-buta-finalnyj-trejler/",
-  "title:Брэд Питт мчится навстречу чужим проблемам в финальном трейлере фильма \"Новые похождения Клиффа Бута\""
+  "title:Брэд Питт мчится навстречу чужим проблемам в финальном трейлере фильма \"Новые похождения Клиффа Бута\"",
+  "skip:https://deadline.com/2026/11/gta-6-launch-biggest-ever-video-game-1237218665/",
+  "https://deadline.com/2026/11/new-friday-13-movie-jason-cast-release-date-title-1237226827/",
+  "title:New ‘Friday The 13th’ Movie Unveils Cast, Title & Release Date"
 ]

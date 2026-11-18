@@ -1,12 +1,4 @@
 [
-  "title:В российских аэропортах ввели новые временные ограничения на полеты",
-  "skip:https://www.rbc.ru/rbcfreenews/6af9601d938cd0f57ef524a9",
-  "skip:https://www.interfax.ru/russia/1129087",
-  "skip:https://ria.ru/20261115/ranenie-2131649635.html",
-  "skip:https://tass.ru/proisshestviya/28318859",
-  "https://www.kommersant.ru/doc/9109794",
-  "title:Число пострадавших при атаке БПЛА на Ростовскую область увеличилось до пяти",
-  "skip:https://www.interfax.ru/world/1129093",
   "skip:https://www.kommersant.ru/doc/9109777",
   "https://tass.ru/mezhdunarodnaya-panorama/28318957",
   "title:Корпус стражей исламской революции Ирана атаковал американскую РЛС в Бахрейне",
@@ -998,5 +990,13 @@
   "skip:https://tass.ru/ekonomika/28330983",
   "skip:https://www.interfax.ru/business/1129843",
   "https://www.kommersant.ru/doc/9112655",
-  "title:ЦБ РФ включил Альфа-банк в реестр организаций по обмену цифровых валют"
+  "title:ЦБ РФ включил Альфа-банк в реестр организаций по обмену цифровых валют",
+  "skip:https://www.interfax.ru/russia/1129850",
+  "skip:https://www.interfax.ru/russia/1129846",
+  "https://www.rbc.ru/rbcfreenews/6afd94c54af2dff78fc0ccfa",
+  "title:В Северском районе Кубани нарушено газоснабжение и пострадали люди после атаки беспилотников",
+  "skip:https://www.rbc.ru/politics/18/11/2026/6afd8deec1dcac8fc6128134",
+  "skip:https://www.rbc.ru/politics/18/11/2026/6afd8e8e67703f07d414919b",
+  "https://www.interfax.ru/world/1129848",
+  "title:Владимир Путин, Дональд Трамп и Си Цзиньпин встретились на саммите АТЭС в Шэньчжэне"
 ]

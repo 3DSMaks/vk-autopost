@@ -1,15 +1,4 @@
 [
-  "title:Эстония объявила о планах полностью закрыть границу с Россией с 1 декабря",
-  "skip:https://tass.ru/proisshestviya/28319413",
-  "skip:https://ria.ru/20261115/sk-2131708618.html",
-  "https://www.rbc.ru/rbcfreenews/6af9cdb98ca78b70d168929d",
-  "title:СК возбудил уголовное дело после угрозы пассажира захватить самолет в Волгограде",
-  "skip:https://ria.ru/20261115/nvidia-2131711367.html",
-  "skip:https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGladEJOQmtqRldzTHdlQ25Fb3pCREJuYmthQTgzclB5Snl6WWFmaXdtWU1KU1NqVGhTZzIyakttSVpxR0p3MVlGU1pBcjhjRjVkVl9wNGU5OS1kOUJkeXRobzlOSjlMUkVPTWkxbmdib3Bna3ZoRVRoM1RybkQ2NE92ZWZTMjBuNF80a1lhVENxQUhTU2hkY0QzaTU0NGc?oc=5",
-  "skip:https://tass.ru/ekonomika/28319445",
-  "https://ria.ru/20261115/nvidia-2131714351.html",
-  "title:Министр финансов США призвал Nvidia искать нового руководителя вне компании",
-  "skip:https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWotSHY0d2pGeVpPN3VPNk4wbzJ6a3VZSVBFSWRpdm0yRG1DZ1IyUlhfOVVzeWxmWjVzeWlEYnZ3TzIyWkY2ejNKOFRLY010dWdGSVJiYkhaUXl6OWRDcDMzRXRGaDl1UW1mN0kxRmY2eFRONHVZSk51cEhGVXNlX2IxSEUwQ2FOVGQ3d014TURKMlBlUWp3?oc=5",
   "skip:https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV0pRaS1YQ3ZuYW42YldaYWdvWTBoN19GMFBGaXJBbGtSLWNtc3ZRRGoydDRzM3EyV0pPNjhEODV5Q3dRSXVtaTNwVzlBa2huUGR1SHNBUER4Z2RQaFlORENfUkdRMHFvcVRCWngxUTJiTnVXZGVRQzc1Tm9SQjNIQk5YYkFHZFdHbUtwa3czQ1YxVTA3QWdMd1BYNHY0cVpqZ1c2LXc4ODNrWFpRbVhUX2RpUkV6NTdJWVFDeW9idW9xUQ?oc=5",
   "https://tass.ru/obschestvo/28319469",
   "title:В Праге прошли массовые протесты против реформы финансирования общественных СМИ",
@@ -998,5 +987,16 @@
   "title:В Севастополе вводят лимиты на продажу топлива из-за ажиотажного спроса",
   "skip:https://www.rbc.ru/business/19/11/2026/6afdca9ddd27a26fda548cef",
   "https://ria.ru/20261119/anthropic-2132523891.html",
-  "title:Искусственный интеллект компании Anthropic может выйти на биржу с рекордной оценкой акций"
+  "title:Искусственный интеллект компании Anthropic может выйти на биржу с рекордной оценкой акций",
+  "skip:https://www.rbc.ru/politics/19/11/2026/6afe2a2165a66eb4fb259784",
+  "skip:https://www.kommersant.ru/doc/9113144",
+  "skip:https://ria.ru/20261119/most-2132526615.html",
+  "skip:https://tass.ru/proisshestviya/28332581",
+  "https://www.interfax.ru/russia/1129958",
+  "title:Крымский мост подвергся очередной атаке, движение транспорта временно перекрыто",
+  "skip:https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVVmSzl3dVBhbDdFbTMtTUl2LWVHU1FRb2hvYzJZNWdFU0ZDTmU3NFBVNDVWQXNXQlk2QmkzblN4MUplLWVGc1NheHNRZVpZTHZ1eG9OME53SUNtOExJQzNFSTJpLUw0cWxnSjR4VWlXLWZhZUZsc0dna1J6bmxZTTNBb0l2LUpq?oc=5",
+  "skip:https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3NST2trRTZCZkdmblYtRm5pcldXRUJTVjZkZUJ6bHJYbjFUSUJ6ZGVJNW1SMVg0ZWthVnlfVVRhZnlld192c0pBaUZSUzRZS0xGdFlYRnViSU9RYVhHWXRpVDlULS0tREUzcDhfa0NGSVIzVkFTOXBzeW5JelpBVy1RV2FFWEpwdnFhZnlqUVN0bUxWSXJaTVFzTEQxTDlFVVpkRERxQmplM0V2X3c?oc=5",
+  "skip:https://tass.ru/ekonomika/28332579",
+  "https://www.kommersant.ru/doc/9113140",
+  "title:Компания Anthropic объявила параметры IPO с оценкой акций в 83 доллара"
 ]

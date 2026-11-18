@@ -1,8 +1,4 @@
 [
-  "skip:https://www.film.ru/news/pattinson-probuetsya-na-bonda",
-  "skip:https://www.film.ru/news/reliz-broska-kobry-s-bredli-kuperom",
-  "skip:https://www.film.ru/news/sikvel-horrora-1408",
-  "skip:https://www.kinonews.ru/news_144033/",
   "https://www.film.ru/news/cifrovaya-premera-kurera",
   "title:Цифровая премьера Курьера",
   "skip:https://www.igromania.ru/news/169790/studiya-sozdatelej-star-wars-zero-company-sokratila-shtat-posle-nedavnego-vozvrascheniya-sotrudnikov/",
@@ -998,5 +994,9 @@
   "skip:https://www.ign.com/articles/amazon-slashes-10-off-control-resonant-in-early-black-friday-sale-dropping-to-its-lowest-price-yet",
   "skip:https://www.ign.com/articles/gta-6-will-never-get-a-60fps-update-on-playstation-pro-as-its-not-powerful-enough",
   "https://gamemag.ru/news/202215/gta-6-99-metascore-best-reviewed-game-all-time",
-  "title:Grand Theft Auto VI стала самой высокооценённой игрой в истории индустрии"
+  "title:Grand Theft Auto VI стала самой высокооценённой игрой в истории индустрии",
+  "skip:https://variety.com/2026/film/global/robert-pattinson-trolled-by-uk-government-after-bond-reveal-1236951991/",
+  "skip:https://variety.com/2026/film/news/comeback-king-trailer-glen-powell-judd-apatow-1236712505/",
+  "https://variety.com/2026/film/news/the-odyssey-steven-spielberg-christopher-nolan-matt-damon-1236951881/",
+  "title:Steven Spielberg Calls ‘The Odyssey’ a ‘Showstopper’ and ‘One of the Greatest Things’ Matt Damon Has Ever Done"
 ]

@@ -1,11 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28318275",
-  "https://www.rbc.ru/politics/14/11/2026/6af899f3b7fee5529b31248a",
-  "title:Во Франции прошли массовые протесты против роста цен, задержаны более 120 человек",
-  "skip:https://www.interfax.ru/russia/1129037",
-  "skip:https://ria.ru/20261114/pvo-2131597726.html",
-  "skip:https://www.kommersant.ru/doc/9109709",
-  "skip:https://tass.ru/armiya-i-opk/28318247",
   "https://www.rbc.ru/rbcfreenews/6af8995ad5ed8db687222c15",
   "title:Силы ПВО за день сбили 39 украинских беспилотников над российскими регионами",
   "skip:https://tass.ru/proisshestviya/28318309",
@@ -998,5 +991,12 @@
   "https://www.kommersant.ru/doc/9112123",
   "skip:https://news.google.com/rss/articles/CBMirwFBVV95cUxQWExTSWYwcW9BSWlwQTU3UHhUb210N3VDT3lkTzZUamFMcUcxZWNYbUY0YldfVmpCNS0xQm82Vy1OOGFGV09zTEltZE1TbjlISXJDYUh6TjVjUWpweXFvbzNlSmJEQ0VvRkUtYk54U21MY3NVYnhCY05ELS1EU0RKcXUwTURHYUV2NWxMZ0k0OGoyUmN5X1BEWTNNTHVGdFZWd3J6QW5XZTRvOE1aeTJN?oc=5",
   "https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot",
-  "title:Гражданин Пакистана приговорен в США к 27 годам тюрьмы за заговор с целью убийства Трампа"
+  "title:Гражданин Пакистана приговорен в США к 27 годам тюрьмы за заговор с целью убийства Трампа",
+  "skip:https://ria.ru/20261118/ssha-2132242285.html",
+  "https://www.interfax.ru/world/1129708",
+  "title:Гражданин Пакистана приговорен к 27,5 года тюрьмы за подготовку покушения на Трампа",
+  "skip:https://tass.ru/kultura/28328439",
+  "skip:https://ria.ru/20261118/kartina-2132241400.html",
+  "https://www.interfax.ru/culture/1129705",
+  "title:Картина Василия Кандинского продана на аукционе Christie's за рекордные 74 миллиона долларов"
 ]

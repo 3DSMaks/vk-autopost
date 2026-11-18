@@ -1,8 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9109903",
-  "skip:https://tass.ru/ekonomika/28319239",
-  "https://www.interfax.ru/world/1129123",
-  "title:ЕС анонсировал новые антироссийские санкции против банков и нефтеперевозок",
   "skip:https://ria.ru/20261115/kallas--2131692354.html",
   "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWEpyZzYwM3Y0YzMtU0h3LXZXb1RBQ00yS3lLZklVczJEOUVtcFU0MWYzRlNIMWxKN1RlMkZrSXZ3eFJkdjV4cTJuQVJBbVZob3JfYjdEbFotQ21iQzFQSHJYUE5VNUJDRDA0aV9OYy1qQTRVQ0EtOXJlSWQzWDV2VnpCRXdkQUpWSEhzUHVFWGstd2t4anhiMnZ4RHdVOHl4UjkxYjdWVmI0LTF3b2x1UTZJdGotUGU5bXkwVUF6N2IwY3g4S2lxbVNvM0kyZVBoTmR5YQ?oc=5",
   "title:Три судна подверглись атаке дронов в Черном море близ Румынии",
@@ -998,5 +994,9 @@
   "title:В Европе зафиксирован рост числа инфекций, вызванных устойчивой к антибиотикам бактерией",
   "skip:https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWmNhRGRTRGVGakVJc3BWdnQ1ZWRXQnZZRmR5TThNMm52a21IaWNtVXpZbEJTYmdld1ZSdnVLYTZsQlFZSnhhR3hSSmpOckExUnhnZldXS3FvZFZDeHZiSHV2eW1LUDYtRUc2UDVBQ1c3bDRPOUhsSGJoUF8yQzAxWEhIS3dXRXM1MG5lZzdvaW9HQnNQR0V6OFE5T1h3VVowc0hBRkYtaWxRUTh0NEhIbWthc0FEQlBWUWdj?oc=5",
   "https://tass.ru/proisshestviya/28332167",
-  "title:В результате вооруженных нападений в Гондурасе погибли 12 человек"
+  "title:В результате вооруженных нападений в Гондурасе погибли 12 человек",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28332239",
+  "skip:https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVdVck4yZnVKU01QQ0Nrd1c2VXRReEloTk1IS0xKWjRkcUdrR3BiTlAyU2dQVm1POVg0MmM5anI0YWlIa0txYms3Sjh6QW9kRjU3bmk0ajlHZ3BZbHM5eHBqazVBbVRvYkt4NENBZ0VuU3NEREFaVGpEOXFyMkdPWEktNE41aUIzY2U3enZDX1dmTTZkQzJPNHh0WktQUV80M2ZTb2o0ZDBYUHR0YmIxRWlB?oc=5",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss",
+  "title:Израильская армия начала новую военную операцию в центральной части сектора Газа"
 ]

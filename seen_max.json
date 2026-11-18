@@ -1,15 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_144012/",
-  "https://kg-portal.ru/comments/135680-sozdateli-dzhona-uika-dadut-dzheremi-renneru-12-pul-chtoby-perebit-vseh-prestupnikov-londona/",
-  "title:Создатели \"Джона Уика\" дадут Джереми Реннеру 12 пуль, чтобы перебить всех преступников Лондона",
-  "skip:https://www.playground.ru/misc/news/suverennyj_fond_saudovskoj_aravii_zainteresovalsya_pokupkoj_unity_za_25_milliardov_dollarov-1888269#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169773/road-rash-ultima-i-ne-tolko-ea-vernula-25-vosstanovlennyih-klassicheskih-igr-v-steam-gog-i-ea-ap/",
-  "skip:https://gamemag.ru/news/201996/sony-says-playstation-6-development-is-progressing-as-scheduled-as-ps5-sales-hit-97-9m",
-  "skip:https://www.ign.com/articles/ea-brings-every-ultima-and-wing-commander-game-to-steam-and-gog-with-quality-of-life-updates",
-  "skip:https://www.pcgamer.com/games/eas-releasing-a-truckload-of-classic-games-on-steam-and-7-of-them-are-remasters/",
-  "https://www.igromania.ru/news/169776/pragmata-i-novaya-onimusha-prodayutsya-s-operezheniem-plana-dragons-dogma-2-dark-arisen-tozhe-horosha/",
-  "title:Pragmata и новая Onimusha продаются с опережением плана — Dragonʼs Dogma 2: Dark Arisen тоже хороша",
-  "skip:https://kg-portal.ru/comments/135688-galleristka-trejler/",
   "https://www.kinonews.ru/news_144019/",
   "title:Адам Драйвер подтвердил роль злодея-психопата в \"Схватке 2\"",
   "skip:https://www.film.ru/news/horror-s-rozamund-payk",
@@ -998,5 +987,16 @@
   "https://www.playground.ru/elder_scrolls_online/news/v_nachale_2027_goda_v_the_elder_scrolls_online_poyavitsya_novaya_osnovnaya_igrovaya_zona_vinterhold-1891524#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:В начале 2027 года в The Elder Scrolls Online появится новая основная игровая зона - Винтерхолд",
   "https://variety.com/2026/film/news/skydance-movie-studio-executives-kira-goldberg-don-granger-jeff-goldstein-jesse-ehrmann-1236950394/",
-  "title:Skydance Movie Studio Shakeup: Kira Goldberg Departs Netflix to Run Paramount With Don Granger, Jeff Goldstein to Retire, WB Sets Leadership"
+  "title:Skydance Movie Studio Shakeup: Kira Goldberg Departs Netflix to Run Paramount With Don Granger, Jeff Goldstein to Retire, WB Sets Leadership",
+  "skip:https://www.playground.ru/gta_6/news/memy_okazalis_pravdoj_46_5_oproshennyh_gejmerov_propustyat_rabotu_radi_zapuska_gta_6-1891661#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/170016/fotosessiya-gta-6-prodolzhaetsya-krutyie-lusiya-i-dzhejson-na-novyih-skrinshotah-shepchut-vam-uzhe-skoro/",
+  "skip:https://www.ign.com/articles/gta-6-vice-city-nba-court-revealed-by-miami-heat",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/miami-heat-shows-off-its-vice-city-hardwood-ahead-of-the-big-grand-theft-auto-6-basketball-game/",
+  "skip:https://www.ign.com/articles/nearly-half-of-polled-ign-readers-are-taking-time-off-to-play-gta-6",
+  "skip:https://stopgame.ru/newsdata/73545/infinity_ward_mogla_vypustit_srednevekovuyu_call_of_duty_s_rycaryami_i_mechami",
+  "skip:https://stopgame.ru/newsdata/73544/remeyk_the_legend_of_zelda_ocarina_of_time_stal_samoy_prodavaemoy_fizicheskoy_igroy_goda_v_ssha",
+  "skip:https://stopgame.ru/newsdata/73542/nominanty_tga_2026_grand_theft_auto_vi_pretenduet_na_zvanie_igry_goda",
+  "skip:https://www.igromania.ru/news/170013/gta-6-pretenduet-na-8-nagrad-na-the-game-awards-2026-v-tom-chisle-igra-goda/",
+  "https://gamemag.ru/news/202203/gta-protiv-the-legend-of-zelda-raskryt-spisok-nominantov-the-game-awards-2026",
+  "title:GTA против The Legend of Zelda: Раскрыт список номинантов The Game Awards 2026"
 ]

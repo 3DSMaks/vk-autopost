@@ -1,10 +1,4 @@
 [
-  "title:Robert Pattinson To Receive The 40th Annual American Cinematheque Award",
-  "https://www.film.ru/news/ari-aster-nachal-semki-kozla-otpushcheniya",
-  "title:Ари Астер начал съемки «Козла отпущения»",
-  "skip:https://www.kinonews.ru/news_144010/",
-  "https://www.kinonews.ru/news_144015/",
-  "title:Lionsgate запускает анимационный приквел \"Джона Уика\"",
   "skip:https://kg-portal.ru/comments/135681-nevypolnimaja-missija-dzhona-uika-odobrena-studiej-lionsgate-kianu-rivz-vernetsja-chtoby-ozvuchit-svoego-personazha/",
   "https://www.film.ru/news/treyler-galeristki-s-portman-i-ortegoy",
   "title:Трейлер Галеристки с Портман и Ортегой",
@@ -998,5 +992,11 @@
   "skip:https://stopgame.ru/newsdata/73541/sud_ne_priznal_monopoliyu_playstation_na_rynke_cifrovyh_igr",
   "skip:https://stopgame.ru/newsdata/73540/shrayer_firaxis_sokraschaet_tret_shtata_razrabotka_novoy_xcom_otstaet_ot_plana",
   "https://www.playground.ru/marvels_wolverine/news/marvels_wolverine_vpervye_podeshevela_v_standartnom_tsifrovom_izdanii_dlya_ps5_sony_snizila_tsenu_na_29_k_rasprodazhe-1891702#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Marvel's Wolverine впервые подешевела в стандартном цифровом издании для PS5 - Sony снизила цену на 29% к распродаже"
+  "title:Marvel's Wolverine впервые подешевела в стандартном цифровом издании для PS5 - Sony снизила цену на 29% к распродаже",
+  "skip:https://www.playground.ru/misc/news/sovet_direktorov_nvidia_ne_vernyot_dzhensena_huanga_na_post_ceo_podtverdila_kolett_kress-1891706#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://gamemag.ru/news/202211/oficialno-sovet-direktorov-nvidia-otkazalsya-vozvrashchat-djensena-huanga",
+  "skip:https://www.igromania.ru/news/170024/dzhensen-huang-gotov-vernutsya-na-post-glavyi-nvidia-no-sovet-direktorov-ne-planiruet-ego-priglashat/",
+  "skip:https://www.pcgamer.com/hardware/graphics-cards/jensen-huang-would-come-back-as-nvidias-ceo-if-america-needs-him-a-technique-i-now-intend-to-use-at-my-next-job-interview/",
+  "https://www.ign.com/articles/the-game-awards-2026-nominations-revealed-gta-6-dominates",
+  "title:The Game Awards 2026 Nominations Revealed, GTA 6 Dominates"
 ]

@@ -1,13 +1,4 @@
 [
-  "skip:https://www.interfax.ru/world/1129098",
-  "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
-  "title:Силы ПВО Бахрейна перехватили иранские беспилотники, атаковавшие военную базу",
-  "skip:https://www.rbc.ru/rbcfreenews/6af97d3a50aa0db81cd830b2",
-  "https://www.kommersant.ru/doc/9109844",
-  "title:Индия сформирует специальные подразделения коммандос на границе с Китаем",
-  "skip:https://www.interfax.ru/russia/1129110",
-  "skip:https://tass.ru/proisshestviya/28319103",
-  "https://ria.ru/20261115/belgorod-2131671030.html",
   "title:Четыре человека пострадали при атаке беспилотников в Белгородской области",
   "skip:https://tass.ru/proisshestviya/28319125",
   "skip:https://tass.ru/proisshestviya/28319117",
@@ -998,5 +989,14 @@
   "title:В России началось клиническое применение вакцины от рака толстой кишки",
   "skip:https://www.interfax.ru/world/1129898",
   "https://www.kommersant.ru/doc/9112930",
-  "title:Чехия отказалась выдавать визы российским хоккеистам для участия в юниорском чемпионате мира"
+  "title:Чехия отказалась выдавать визы российским хоккеистам для участия в юниорском чемпионате мира",
+  "skip:https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+  "skip:https://www.france24.com/en/americas/20261118-us-democrats-nominate-hakeem-jeffries-to-be-first-black-speaker-of-the-house",
+  "skip:https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss",
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMkFKcjYyblpFekN4MnNrTUo1Z0ZIVGkyRTJHSENPZ2N6bEE3QmNPVWVnX1VkRG5xbk1IRzBsM1hkaHgwaWo1NkdQSW9PUzZoS1h5TUFteGhGakcxdVUyaml1SDNCXzNkYkhiSkpQVWFkRjh3d3JOeVlkRGt4X01sazQteW42UGIwMjJCZklydHBVbWYwLThsVUEyRnZ3ckZTZkhrcFdfcENjVG9Rc3dJ?oc=5",
+  "title:Демократы в США выдвинули Хакима Джеффриса на пост спикера Палаты представителей",
+  "skip:https://tass.ru/armiya-i-opk/28332005",
+  "skip:https://www.interfax.ru/russia/1129903",
+  "https://www.kommersant.ru/doc/9112988",
+  "title:ФСВТС не исключила возможность совместной разработки вооружений России и Китая"
 ]

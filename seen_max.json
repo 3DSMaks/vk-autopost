@@ -1,8 +1,4 @@
 [
-  "https://stopgame.ru/newsdata/73416/byvshiy_tehnicheskiy_direktor_rockstar_dopustil_bolee_ranniy_vyhod_gta_vi_na_pk_iz_za_ugrozy_ii_portov",
-  "title:Бывший технический директор Rockstar допустил более ранний выход GTA VI на ПК из-за угрозы ИИ-портов",
-  "skip:https://stopgame.ru/newsdata/73412/esche_odin_proval_sony_svernula_podderzhku_ratchet_and_clank_ranger_rumble",
-  "skip:https://gamemag.ru/news/202010/oficialno-sony-zakryvaet-arena-shuter-ratchet-clank-ranger-rumble",
   "https://www.ign.com/articles/god-of-war-ragnarok-tops-list-of-10-highest-grossing-playstation-studios-games-from-the-ps5-generation",
   "title:God of War Ragnarok Tops List of 10 Highest-Grossing PlayStation Studios Games From the PS5 Generation",
   "skip:https://kg-portal.ru/comments/135701-v-prodolzhenii-uzhastika-1408-zaseljatsja-natalija-dajer-elajdzha-vud-i-parochka-dedov-semjuel-l-dzhekson-i-dzhon-kjusak/",
@@ -998,5 +994,9 @@
   "title:New ‘Friday The 13th’ Movie Unveils Cast, Title & Release Date",
   "skip:https://kg-portal.ru/comments/135839-novye-pohozhdenija-kliffa-buta-finalnyj-trejler/",
   "https://deadline.com/2026/11/vin-diesel-cast-action-movie-burial-hill-amazon-big-deal-1237227833/",
-  "title:Vin Diesel To Star In Original Action Movie ‘Burial Hill’ From ‘Caine’ Writer & ‘Luther’ Director; Amazon Striking Big Deal"
+  "title:Vin Diesel To Star In Original Action Movie ‘Burial Hill’ From ‘Caine’ Writer & ‘Luther’ Director; Amazon Striking Big Deal",
+  "skip:https://gamemag.ru/news/202214/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing",
+  "skip:https://stopgame.ru/newsdata/73550/monumentalnyy_proryv_v_digital_foundry_protestirovali_gta_vi_na_ps5_i_ps5_pro",
+  "https://www.playground.ru/world_of_warcraft/news/world_of_warcraft_forever_dostigla_15_millionov_igrokov_blizzard_ne_videla_takoj_ezhenedelnoj_aktivnosti_15_let-1891828#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:World of Warcraft: Forever достигла 15 миллионов игроков - Blizzard не видела такой еженедельной активности 15 лет"
 ]

@@ -1,9 +1,4 @@
 [
-  "https://www.film.ru/news/cifrovaya-premera-kurera",
-  "title:Цифровая премьера Курьера",
-  "skip:https://www.igromania.ru/news/169790/studiya-sozdatelej-star-wars-zero-company-sokratila-shtat-posle-nedavnego-vozvrascheniya-sotrudnikov/",
-  "skip:https://www.playground.ru/star_wars_zero_company/news/v_studii_bit_reactor_razrabotchike_star_wars_zero_company_proshli_sokrascheniya-1888547#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "https://gamemag.ru/news/202014/final-fantasys-yoshinori-kitase-doesnt-rule-out-more-remakes",
   "title:Новые игры важнее: Square Enix рассказала о своих приоритетах после завершения саги Final Fantasy VII Remake",
   "https://www.film.ru/news/hoakin-feniks-v-reklame-ii-ochkov",
   "title:Хоакин Феникс в рекламе ИИ-очков",
@@ -998,5 +993,10 @@
   "skip:https://variety.com/2026/film/global/robert-pattinson-trolled-by-uk-government-after-bond-reveal-1236951991/",
   "skip:https://variety.com/2026/film/news/comeback-king-trailer-glen-powell-judd-apatow-1236712505/",
   "https://variety.com/2026/film/news/the-odyssey-steven-spielberg-christopher-nolan-matt-damon-1236951881/",
-  "title:Steven Spielberg Calls ‘The Odyssey’ a ‘Showstopper’ and ‘One of the Greatest Things’ Matt Damon Has Ever Done"
+  "title:Steven Spielberg Calls ‘The Odyssey’ a ‘Showstopper’ and ‘One of the Greatest Things’ Matt Damon Has Ever Done",
+  "skip:https://www.playground.ru/gta_6/news/rockstar_ostavila_v_gta_vi_krupnye_lokatsii_dlya_buduschego_v_igre_obnaruzhili_zoopark_kladbische_i_zakrytye_kazino-1891889#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://stopgame.ru/newsdata/73551/build_a_rocket_boy_podaet_v_sud_na_sabotazhnikov_radi_pogasheniya_dolgov",
+  "skip:https://www.igromania.ru/news/170045/na-karte-gta-6-est-neaktivnyie-zonyi-na-buduschee-zayavili-v-rockstar/",
+  "https://www.ign.com/articles/gta-6-uses-fsr-41-on-xbox-series-s-to-upscale-from-720p-to-1080p",
+  "title:GTA 6 Uses FSR 4.1 on Xbox Series S to Upscale From 720p to 1080p"
 ]

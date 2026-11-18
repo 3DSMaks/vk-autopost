@@ -1,13 +1,4 @@
 [
-  "skip:https://variety.com/2026/tv/news/melania-trump-series-amazon-release-date-1236941341/",
-  "skip:https://www.film.ru/news/prikvel-ochen-strannyh-del",
-  "https://deadline.com/2026/11/taylor-kitsch-alexandra-daddario-long-island-bank-robber-1237215411/",
-  "title:Taylor Kitsch, Alexandra Daddario & Christopher Walken Set For True Crime-Thriller ‘The Long Island Bank Robber’ — AFM",
-  "skip:https://www.playground.ru/warhammer_40000_rogue_trader/news/razrabotchiki_rogue_trader_ob_anonse_daty_vyhoda_finalnogo_dopolneniya_eto_moment_v_kotorom_radost_smeshana_s_grustyu-1888406#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://stopgame.ru/newsdata/73411/hard_west_ii_vyydet_na_ps5_i_xbox_series_uzhe_na_sleduyuschey_nedele",
-  "skip:https://www.igromania.ru/news/169774/nier-automata-sluchajno-vyirosla-do-366-gb-posle-svezhego-obnovleniya-v-steam/",
-  "skip:https://gamemag.ru/news/202003/processiya-proklyatyh-finalnoe-dlc-dlya-warhammer-40000-rogue-trader-vyhodit-v-dekabre",
-  "https://www.igromania.ru/news/169777/bloodborne-ne-poluchila-prodolzheniya-ili-remejk-iz-za-slozhnostej-pri-peregovorah-prichastnyih-storon/",
   "title:Bloodborne не получила продолжения или ремейк из-за сложностей при переговорах причастных сторон",
   "skip:https://www.playground.ru/elder_scrolls_6/news/glavnyj_dizajner_skyrim_nazval_dva_vazhnyh_uluchsheniya_kotorye_hotel_by_uvidet_v_the_elder_scrolls_6_sentinel-1888412#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.pcgamer.com/games/world-of-warcraft/wow-forever-takes-250-000-gb-of-memory-to-run-and-i-cant-even-joke-about-sam-altman-being-jealous-because-thats-almost-nothing-compared-to-the-monolithic-demands-of-ai/",
@@ -998,5 +989,14 @@
   "skip:https://www.ign.com/articles/gta-6-fans-baffled-after-jasons-actor-gets-left-out-of-game-awards-nominations",
   "skip:https://www.pcgamer.com/gaming-industry/events-conferences/we-got-8-game-awards-nominations-for-gta-6-before-gta-6/",
   "https://www.playground.ru/control_2/news/control_resonant_poluchila_besplatnuyu_probnuyu_versiyu_na_xbox-1891733#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Control Resonant получила бесплатную пробную версию на Xbox"
+  "title:Control Resonant получила бесплатную пробную версию на Xbox",
+  "skip:https://www.igromania.ru/news/170039/gta-6-vyishla-v-novoj-zelandii-s-kazhdyim-chasom-ona-budet-dostupna-vo-vsyo-novyih-regionah/",
+  "skip:https://www.igromania.ru/news/170040/dlya-zapuska-gta-6-na-ps5-dejstvitelno-potrebuetsya-osobyij-patch/",
+  "skip:https://www.playground.ru/gta_6/news/eto_shutka_igroki_raskritikovali_vosem_nominatsij_gta_vi_na_the_game_awards_2026_do_reliza-1891737#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/gta_6/news/novaya_zelandiya_napomnila_chto_vstrechaet_ne_tolko_rassvet_no_i_reliz_gta_6_ranshe_drugih-1891734#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/gta-6-launch-live-blog",
+  "skip:https://www.ign.com/articles/were-getting-gta-6-first-new-zealand-trick-celebrated-by-countrys-official-tourist-board",
+  "skip:https://www.ign.com/articles/sony-issues-official-ps5-firmware-update-warning-confirms-gta-6-requirement",
+  "https://www.playground.ru/resident_evil_4/news/sindzi_mikami_obyasnil_pochemu_v_resident_evil_4_otkazalis_ot_klassicheskih_zombi-1891739#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Синдзи Миками объяснил, почему в Resident Evil 4 отказались от классических зомби"
 ]

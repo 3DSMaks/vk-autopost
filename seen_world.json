@@ -1,13 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMisgFBVV95cUxQODlZOEw0dzkyVTA2LWdtYUM0X05jWjlqbVpRX2R0RXV6ZnEwWTB2TGt5UHVadkVmdl9rRVBXa1EydkpEVGxzM0NQVzBWVHV3eDZkemlSRjFlbGJmbHNhLV8zOFJfcDM3Yy0wbW5KcHdpWHZ6RjZocFhJVmFETTZnT2JFZzlkRkx2SExmQk1NUDN3OGUwVUF4cEtHYkp3VG50N3RldTRXVTY3bXJMcVl0bXNB?oc=5",
-  "skip:https://tass.ru/sport/28318467",
-  "skip:https://tass.ru/sport/28318463",
-  "skip:https://www.rbc.ru/sport/15/11/2026/6af8a2cfc8a1bac0e8b2a0da",
-  "skip:https://ria.ru/20261115/andreeva-2131616420.html",
-  "skip:https://tass.ru/sport/28318453",
-  "https://www.sport-interfax.ru/1129052",
-  "title:Мирра Андреева вышла в финал Итогового турнира WTA",
-  "skip:https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss",
   "skip:https://ria.ru/20261115/futbol-2131617233.html",
   "skip:https://tass.ru/sport/28318459",
   "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeWNCMzNxNG5ZbXZWYUdvZ3VsWWZFVzVDMXJWTHFUdjZkdDJVZWVsVGtKUWc5X0ZXNUQ1T0RVWnNId3g2NHI2QmFwTnlTUXhEUnpfMTJ3WWUyNmxWY2dkRndSaXFsWmVIV0NrZ0RMWm4wbUhZY09HUkJZX2FzQmhoUGtrODRQRnpsWXhGSVNFTlhjdjNUSjRDUzlva1JTQVNsaGc?oc=5",
@@ -998,5 +989,14 @@
   "title:Владимир Путин выступил в совместном российско-китайском университете в Шэньчжэне",
   "skip:https://ria.ru/20261118/agent-2132303599.html",
   "https://www.rbc.ru/rbcfreenews/6afd57fbb904d649ef22d1eb",
-  "title:ФСБ задержала двоих жителей Хабаровского края по подозрению в госизмене"
+  "title:ФСБ задержала двоих жителей Хабаровского края по подозрению в госизмене",
+  "skip:https://www.kommersant.ru/doc/9112406",
+  "skip:https://www.france24.com/en/asia-pacific/20261118-xi-putin-meet-ahead-of-historic-trump-trilateral-summit",
+  "skip:https://ria.ru/20261118/tramp-2132320991.html",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28330013",
+  "https://www.rbc.ru/politics/18/11/2026/6afd6776e723afe25e16c7ad",
+  "title:Дональд Трамп прибыл в Шэньчжэнь для участия в саммите АТЭС",
+  "skip:https://www.rbc.ru/rbcfreenews/6afd506bd38ad35a6bacec56",
+  "https://ria.ru/20261118/navigatsiya-2132323169.html",
+  "title:Яндекс представил устройство для навигации автомобилей при сбоях геолокации"
 ]

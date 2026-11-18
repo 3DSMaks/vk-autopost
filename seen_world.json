@@ -1,10 +1,4 @@
 [
-  "skip:https://tass.ru/proisshestviya/28319143",
-  "https://www.rbc.ru/rbcfreenews/6af989cc5ebc0a0ca1f3315e",
-  "title:В Волгограде арестовали пассажира, угрожавшего захватить самолет",
-  "skip:https://www.rbc.ru/politics/15/11/2026/6af975fd10835517270a8d6f",
-  "https://www.kommersant.ru/doc/9109882",
-  "title:Лавров назвал тупиковым условие Евросоюза об урегулировании на Украине",
   "skip:https://ria.ru/20261115/nizhnekamsk-2131680185.html",
   "https://www.rbc.ru/rbcfreenews/6af99fcb8e6e5c52e0f92965",
   "title:В Нижнекамске ликвидировали возгорание после атаки беспилотников",
@@ -998,5 +992,11 @@
   "title:Владимир Путин, Дональд Трамп и Си Цзиньпин проведут трехстороннюю встречу на саммите АТЭС в Шэньчжэне",
   "skip:https://www.kommersant.ru/doc/9112972",
   "https://www.rbc.ru/quote/18/11/2026/6afdc9cf4763b217e3a36ecc",
-  "title:СПБ Биржа запустила тестовые торги криптовалютами"
+  "title:СПБ Биржа запустила тестовые торги криптовалютами",
+  "skip:https://tass.ru/armiya-i-opk/28332157",
+  "https://ria.ru/20261118/dron-2132499814.html",
+  "title:Российская ПВО перехватила 51 украинский беспилотник за день",
+  "skip:https://www.interfax.ru/world/1129926",
+  "https://www.kommersant.ru/doc/9112987",
+  "title:Картина Василия Кандинского продана на аукционе за рекордные 85,5 миллиона долларов"
 ]

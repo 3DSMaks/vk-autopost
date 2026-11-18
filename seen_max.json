@@ -1,6 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/games/rpg/path-of-exile-2-announces-a-second-new-class-the-shadow-for-its-december-1-0-release/",
-  "skip:https://gamemag.ru/news/202016/capcom-q2-fy2026-financials-dragons-dogma-2-da-selling-slightly-ahead-of-expectations-monster-hunter",
   "skip:https://gamemag.ru/news/202012/shawn-layden-bloodborne-2-hasnt-happened",
   "skip:https://stopgame.ru/newsdata/73413/square_enix_ispravit_oshibku_iz_za_kotoroy_nier_automata_v_steam_zatrebovala_366_gb_mesta",
   "https://gamemag.ru/news/201749/square-enix-on-revelation-final-fantasy-vii-hard-mode-october-2026",
@@ -998,5 +996,7 @@
   "title:GTA 6 устанавливает новый стандарт качества открытых миров, заявили в Digital Foundry",
   "skip:https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-review-roundup-rockstars-magnum-opus-a-great-love-story-and-a-new-bar-for-open-worlds/",
   "https://www.playground.ru/gta_6/news/razrabotchiki_gta_6_stremilis_ujti_ot_linejnosti_i_dat_igrokam_maksimalnuyu_svobodu_v_missiyah-1891784#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Разработчики GTA 6 стремились уйти от линейности и дать игрокам максимальную свободу в миссиях"
+  "title:Разработчики GTA 6 стремились уйти от линейности и дать игрокам максимальную свободу в миссиях",
+  "https://www.film.ru/news/netflix-vernetsya-v-kanny",
+  "title:Netflix вернется в Канны"
 ]

@@ -1,9 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28318297",
-  "skip:https://www.rbc.ru/politics/14/11/2026/6af89d9ac8a1bac0e8b2a0d5",
-  "https://www.kommersant.ru/doc/9109713",
-  "title:Пентагон планирует сократить численность войск в Европе на 5 тысяч человек",
-  "skip:https://ria.ru/20261114/frantsija-2131603363.html",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28318275",
   "https://www.rbc.ru/politics/14/11/2026/6af899f3b7fee5529b31248a",
   "title:Во Франции прошли массовые протесты против роста цен, задержаны более 120 человек",
@@ -998,5 +993,10 @@
   "title:Совет директоров Nvidia подтвердил, что не намерен возвращать Дженсена Хуанга на пост генерального директора",
   "skip:https://ria.ru/20261118/pvo-2132235691.html",
   "https://www.interfax.ru/world/1129697",
-  "title:Армия Кувейта отражает массированный налет беспилотников"
+  "title:Армия Кувейта отражает массированный налет беспилотников",
+  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/17/top-spy-agency-suffers-network-outage-the-latest-us-technical-failure?traffic_source=rss",
+  "https://www.kommersant.ru/doc/9112123",
+  "skip:https://news.google.com/rss/articles/CBMirwFBVV95cUxQWExTSWYwcW9BSWlwQTU3UHhUb210N3VDT3lkTzZUamFMcUcxZWNYbUY0YldfVmpCNS0xQm82Vy1OOGFGV09zTEltZE1TbjlISXJDYUh6TjVjUWpweXFvbzNlSmJEQ0VvRkUtYk54U21MY3NVYnhCY05ELS1EU0RKcXUwTURHYUV2NWxMZ0k0OGoyUmN5X1BEWTNNTHVGdFZWd3J6QW5XZTRvOE1aeTJN?oc=5",
+  "https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot",
+  "title:Гражданин Пакистана приговорен в США к 27 годам тюрьмы за заговор с целью убийства Трампа"
 ]

@@ -1,10 +1,4 @@
 [
-  "skip:https://variety.com/2026/film/news/park-hoon-jung-assassin-noir-tristes-tropiques-sales-1236938950/",
-  "skip:https://deadline.com/2026/11/bafta-breakthrough-imran-perretta-2026-1237212332/",
-  "skip:https://www.film.ru/news/milliard-bitvy-motorov",
-  "https://variety.com/2026/film/markets-festivals/weta-fx-taicca-partner-taiwan-ai-screen-production-hub-1236938968/",
-  "title:Weta FX and TAICCA Partner to Turn Taiwan Into an AI Screen Production Hub for Asia (EXCLUSIVE)",
-  "skip:https://www.kinonews.ru/news_143975/",
   "skip:https://www.film.ru/news/naruto-oficialno-v-razrabotke",
   "https://www.kinonews.ru/news_143982/",
   "title:Объявлен хронометраж фильма \"Дюна: Часть третья\"",
@@ -998,5 +992,11 @@
   "posted:2026-11-18T16:33:07+00:00",
   "skip:https://variety.com/2026/film/box-office/sunrise-on-reaping-box-office-hunger-games-opening-weekend-1236950225/",
   "https://variety.com/2026/film/news/the-odyssey-steven-spielberg-christopher-nolan-matt-damon-1236951881/",
-  "title:Steven Spielberg Calls ‘The Odyssey’ a ‘Showstopper’ and ‘One of the Greatest Things’ Matt Damon Has Ever Done"
+  "title:Steven Spielberg Calls ‘The Odyssey’ a ‘Showstopper’ and ‘One of the Greatest Things’ Matt Damon Has Ever Done",
+  "posted:2026-11-18T18:02:07+00:00",
+  "skip:https://deadline.com/2026/11/the-comeback-king-trailer-glen-powell-judd-apatow-1237228094/",
+  "skip:https://kg-portal.ru/comments/135844-vin-dizel-sygraet-kladbischenskogo-storozha-s-temnym-proshlym-v-boevike-kotoryj-zamenit-emu-forsazh/",
+  "skip:https://kg-portal.ru/comments/135843-korol-kambeka-trejler/",
+  "https://deadline.com/2026/11/i-want-your-sex-streaming-release-date-hbo-max-1237228093/",
+  "title:‘I Want Your Sex’ Sets HBO Max Streaming Release Date"
 ]

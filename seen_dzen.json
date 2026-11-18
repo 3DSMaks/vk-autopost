@@ -346,5 +346,8 @@
   "skip:https://www.playground.ru/gta_6/news/rockstar_potratila_500_millionov_na_retsenzii_fanaty_zelda_schitayut_otsenki_gta_6_kuplennymi-1891790#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-review-roundup-rockstars-magnum-opus-a-great-love-story-and-a-new-bar-for-open-worlds/",
   "https://stopgame.ru/newsdata/73548/igra_pokoleniya_chto_pishut_v_reviewah_gta_vi",
-  "title:«Игра поколения» — что пишут в обзорах GTA VI"
+  "title:«Игра поколения» — что пишут в обзорах GTA VI",
+  "skip:https://www.kinonews.ru/article_144206/",
+  "https://gamemag.ru/news/202215/gta-6-99-metascore-best-reviewed-game-all-time",
+  "title:Grand Theft Auto VI стала самой высокооценённой игрой в истории индустрии"
 ]

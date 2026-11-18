@@ -1,7 +1,4 @@
 [
-  "skip:https://ria.ru/20261115/kallas--2131692354.html",
-  "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWEpyZzYwM3Y0YzMtU0h3LXZXb1RBQ00yS3lLZklVczJEOUVtcFU0MWYzRlNIMWxKN1RlMkZrSXZ3eFJkdjV4cTJuQVJBbVZob3JfYjdEbFotQ21iQzFQSHJYUE5VNUJDRDA0aV9OYy1qQTRVQ0EtOXJlSWQzWDV2VnpCRXdkQUpWSEhzUHVFWGstd2t4anhiMnZ4RHdVOHl4UjkxYjdWVmI0LTF3b2x1UTZJdGotUGU5bXkwVUF6N2IwY3g4S2lxbVNvM0kyZVBoTmR5YQ?oc=5",
-  "title:Три судна подверглись атаке дронов в Черном море близ Румынии",
   "skip:https://www.interfax.ru/russia/1129127",
   "https://www.rbc.ru/rbcfreenews/6af9b2e1783d9d339b477282",
   "title:Инфраструктура хостинг-провайдера Beget подверглась масштабной DDoS-атаке",
@@ -998,5 +995,8 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28332239",
   "skip:https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVdVck4yZnVKU01QQ0Nrd1c2VXRReEloTk1IS0xKWjRkcUdrR3BiTlAyU2dQVm1POVg0MmM5anI0YWlIa0txYms3Sjh6QW9kRjU3bmk0ajlHZ3BZbHM5eHBqazVBbVRvYkt4NENBZ0VuU3NEREFaVGpEOXFyMkdPWEktNE41aUIzY2U3enZDX1dmTTZkQzJPNHh0WktQUV80M2ZTb2o0ZDBYUHR0YmIxRWlB?oc=5",
   "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss",
-  "title:Израильская армия начала новую военную операцию в центральной части сектора Газа"
+  "title:Израильская армия начала новую военную операцию в центральной части сектора Газа",
+  "skip:https://ria.ru/20261118/polsha-2132501798.html",
+  "https://www.interfax.ru/world/1129940",
+  "title:Главу Конституционного суда Польши отстранили от работы и лишили иммунитета"
 ]

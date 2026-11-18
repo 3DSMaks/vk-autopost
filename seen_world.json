@@ -1,7 +1,4 @@
 [
-  "title:Сергей Лавров заявил, что переговорная линия России по Украине нацелена на достижение целей СВО",
-  "skip:https://www.france24.com/en/middle-east/20261115-iran-claims-attack-on-us-military-airbase-in-bahrain",
-  "skip:https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss",
   "skip:https://www.interfax.ru/world/1129098",
   "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
   "title:Силы ПВО Бахрейна перехватили иранские беспилотники, атаковавшие военную базу",
@@ -998,5 +995,8 @@
   "title:Объем грузоперевозок по Северному морскому пути превысил 40 миллионов тонн",
   "skip:https://www.kommersant.ru/doc/9112840",
   "https://www.rbc.ru/rbcfreenews/6afdb0a649ef85cb5ecd9811",
-  "title:В России началось клиническое применение вакцины от рака толстой кишки"
+  "title:В России началось клиническое применение вакцины от рака толстой кишки",
+  "skip:https://www.interfax.ru/world/1129898",
+  "https://www.kommersant.ru/doc/9112930",
+  "title:Чехия отказалась выдавать визы российским хоккеистам для участия в юниорском чемпионате мира"
 ]

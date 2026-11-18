@@ -1,8 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_143958/",
-  "https://deadline.com/2026/11/jimmy-akingbola-bel-air-paradigm-1237211811/",
-  "title:Jimmy Akingbola Signs With Paradigm",
-  "skip:https://deadline.com/2026/11/matthew-perry-doc-lupin-part-4-premiere-viewership-netflix-1237212421/",
   "https://deadline.com/2026/11/netflix-ai-discovery-tool-viewers-programming-1237212413/",
   "title:Netflix Launches AI Discovery Tool As “Test Kitchen” For Viewers Seeking Appetizing Content",
   "https://variety.com/2026/artisans/news/dune-3-spaceship-55-tons-1236937875/",
@@ -998,5 +994,9 @@
   "posted:2026-11-18T13:31:21+00:00",
   "skip:https://kg-portal.ru/comments/135839-novye-pohozhdenija-kliffa-buta-finalnyj-trejler/",
   "https://www.film.ru/news/vachovski-i-prava-na-matricu",
-  "title:Вачовски и права на Матрицу"
+  "title:Вачовски и права на Матрицу",
+  "posted:2026-11-18T15:03:10+00:00",
+  "skip:https://deadline.com/2026/11/new-friday-13-movie-jason-cast-release-date-title-1237226827/",
+  "https://deadline.com/2026/11/vin-diesel-cast-action-movie-burial-hill-amazon-big-deal-1237227833/",
+  "title:Vin Diesel To Star In Original Action Movie ‘Burial Hill’ From ‘Caine’ Writer & ‘Luther’ Director; Amazon Striking Big Deal"
 ]

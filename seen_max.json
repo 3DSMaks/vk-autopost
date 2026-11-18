@@ -1,12 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/202012/shawn-layden-bloodborne-2-hasnt-happened",
-  "skip:https://stopgame.ru/newsdata/73413/square_enix_ispravit_oshibku_iz_za_kotoroy_nier_automata_v_steam_zatrebovala_366_gb_mesta",
-  "https://gamemag.ru/news/201749/square-enix-on-revelation-final-fantasy-vii-hard-mode-october-2026",
-  "title:Final Fantasy VII Revelation позволит выбрать высокий уровень сложности с самого начала",
-  "skip:https://www.igromania.ru/news/169786/spasibo-vam-world-of-warcraft-forever-pokazala-samyij-masshtabnyij-zapusk-v-istorii-wow/",
-  "skip:https://www.ign.com/articles/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch",
-  "skip:https://gamemag.ru/news/202017/no-disc-no-buy-and-ps5-blackout-protests-fail-to-impact-playstation",
-  "https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/remejk_the_legend_of_zelda_ocarina_of_time_sozdali_vsego_za_tri_goda-1888537#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Ремейк The Legend of Zelda: Ocarina of Time создали всего за три года",
   "https://www.igromania.ru/news/169785/sozdateli-gears-of-war-e-day-prazdnuyut-20-letie-serii-i-gotovyatsya-k-zapusku-2-go-sezona-1-dekabrya/",
   "title:Создатели Gears of War: E-Day празднуют 20-летие серии и готовятся к запуску 2-го сезона 1 декабря",
@@ -998,5 +990,13 @@
   "https://www.playground.ru/gta_6/news/razrabotchiki_gta_6_stremilis_ujti_ot_linejnosti_i_dat_igrokam_maksimalnuyu_svobodu_v_missiyah-1891784#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Разработчики GTA 6 стремились уйти от линейности и дать игрокам максимальную свободу в миссиях",
   "https://www.film.ru/news/netflix-vernetsya-v-kanny",
-  "title:Netflix вернется в Канны"
+  "title:Netflix вернется в Канны",
+  "skip:https://www.igromania.ru/news/170044/startovuyu-stsenu-gta-6-pokazali-v-seti/",
+  "skip:https://www.igromania.ru/news/170043/gta-6-rabotaet-dostojno-dazhe-na-xbox-series-s/",
+  "skip:https://www.ign.com/articles/gta-6-is-now-the-joint-highest-rated-game-of-all-time",
+  "skip:https://www.ign.com/articles/gta-6-xbox-series-s-performance",
+  "skip:https://www.ign.com/articles/gta-6-15-minutes-of-first-mission-gameplay",
+  "skip:https://www.ign.com/articles/gta-flu-trends-online-as-reports-suggest-thousands-will-skip-school-and-call-in-sick-at-work-with-a-measurable-hit-to-countrys-economies",
+  "https://www.playground.ru/gta_6/news/on_polnostyu_menyaet_igru_v_rockstar_dovolny_chto_glavnyj_sekret_gta_6_udalos_uberech_ot_utechek-1891817#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:\"Он полностью меняет игру\": в Rockstar довольны, что главный секрет GTA 6 удалось уберечь от утечек"
 ]

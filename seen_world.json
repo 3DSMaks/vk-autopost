@@ -1,14 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9109777",
-  "https://tass.ru/mezhdunarodnaya-panorama/28318957",
-  "title:Корпус стражей исламской революции Ирана атаковал американскую РЛС в Бахрейне",
-  "skip:https://tass.ru/obschestvo/28318999",
-  "skip:https://www.kommersant.ru/doc/9109799",
-  "skip:https://tass.ru/proisshestviya/28318987",
-  "skip:https://www.interfax.ru/russia/1129088",
-  "https://www.interfax.ru/russia/1129097",
-  "title:В Таганроге введен локальный режим ЧС после атаки беспилотников",
-  "skip:https://www.kommersant.ru/doc/9109784",
   "skip:https://www.interfax.ru/russia/1129090",
   "skip:https://ria.ru/20261115/bespilotniki-2131651795.html",
   "https://www.rbc.ru/rbcfreenews/6af9561bacb2a01a5c8b4262",
@@ -998,5 +988,15 @@
   "skip:https://www.rbc.ru/politics/18/11/2026/6afd8deec1dcac8fc6128134",
   "skip:https://www.rbc.ru/politics/18/11/2026/6afd8e8e67703f07d414919b",
   "https://www.interfax.ru/world/1129848",
-  "title:Владимир Путин, Дональд Трамп и Си Цзиньпин встретились на саммите АТЭС в Шэньчжэне"
+  "title:Владимир Путин, Дональд Трамп и Си Цзиньпин встретились на саммите АТЭС в Шэньчжэне",
+  "skip:https://tass.ru/sport/28331303",
+  "skip:https://www.rbc.ru/sport/18/11/2026/6afd9997c68e49d8434471d3",
+  "https://ria.ru/20261118/futbol-2132434188.html",
+  "title:Сборная России по футболу не примет участия в жеребьевке отборочного турнира Евро-2028",
+  "skip:https://tass.ru/proisshestviya/28331291",
+  "skip:https://ria.ru/20261118/antalja-2132430255.html",
+  "skip:https://tass.ru/proisshestviya/28331207",
+  "skip:https://www.rbc.ru/society/18/11/2026/6afd991ac68e49d8434471d0",
+  "https://ria.ru/20261118/samolet-2132433858.html",
+  "title:Самолет авиакомпании «Азимут» совершил посадку в Турции после сообщения об угрозе взрыва"
 ]

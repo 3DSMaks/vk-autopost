@@ -1,13 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/spectrum-is-offering-free-internet-upgrades-so-people-can-download-gta-6-faster",
-  "skip:https://www.ign.com/articles/bill-skarsgrd-explains-why-starring-in-hideo-kojimas-physint-is-a-big-deal-for-him",
-  "skip:https://stopgame.ru/newsdata/73400/rockstar_vylozhila_reliznuyu_galereyu_s_novymi_skrinshotami_gta_vi",
-  "https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/monolith_soft_pomogla_nintendo_s_remejkom_the_legend_of_zelda_ocarina_of_time-1888288#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Monolith Soft помогла Nintendo с ремейком The Legend of Zelda: Ocarina of Time",
-  "https://deadline.com/2026/11/letitia-wright-horror-in-her-shadow-for-obsession-producer-1237215351/",
-  "title:Letitia Wright To Star In Supernatural Horror ‘In Her Shadow’ For ‘Obsession’ Producer & Bankside — AFM",
-  "skip:https://www.playground.ru/onimusha_way_of_the_sword/news/capcom_dovolna_startom_pragmata_i_onimusha_way_of_the_sword_obe_igry_operezhayut_prognozy_po_prodazham-1888292#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "https://stopgame.ru/newsdata/73403/v_assassins_creed_valhalla_vveli_novuyu_igru_hranilische_podderzhku_pssr_2_i_ne_tolko",
   "title:В Assassin's Creed Valhalla ввели «Новую игру +», хранилище, поддержку PSSR 2 и не только",
   "skip:https://www.pcgamer.com/games/world-of-warcraft/wow-forever-is-working-on-its-server-tech-to-make-cities-less-empty-say-devs/",
   "https://www.ign.com/articles/rapper-kodak-black-will-be-in-npc-in-gta-6-creating-speculation-over-other-artists-appearing-in-game",
@@ -998,5 +989,14 @@
   "skip:https://www.film.ru/news/heteuey-rodila-tretego",
   "skip:https://www.film.ru/news/treyler-vtoroy-zadachi-treh-tel",
   "https://www.film.ru/news/gonorar-pattinsona-za-bonda",
-  "title:Гонорар Паттинсона за Бонда"
+  "title:Гонорар Паттинсона за Бонда",
+  "skip:https://kg-portal.ru/comments/135837-golodnye-igry-rassvet-zhatvy-uzhe-sovershenno-ne-originalny-no-ostajutsja-zrelischnymi-neploho-razvlekajut-i-radujut-fanservisom/",
+  "skip:https://www.kinonews.ru/news_144202/",
+  "skip:https://www.kinonews.ru/news_144201/",
+  "skip:https://variety.com/2026/film/news/rami-malek-robert-pattinson-james-bond-1236951518/",
+  "skip:https://variety.com/2026/film/global/netflix-return-to-cannes-joel-coen-jack-of-spades-1236948245/",
+  "skip:https://www.film.ru/news/kritiki-o-rassvete-zhatvy",
+  "skip:https://kg-portal.ru/comments/135831-deni-vilnev-hochet-chtoby-ego-dzhejms-bond-byl-umnym-harizmatichnym-ubijcej-s-chernym-chuvstvom-jumora-poluchajuschim-udovolstvie-ot-dermovyh-situacij/",
+  "https://www.film.ru/news/russkiy-treyler-praym-tayma-s-pattinsonom",
+  "title:Русский трейлер Прайм-тайма с Паттинсоном"
 ]

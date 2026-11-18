@@ -1,10 +1,4 @@
 [
-  "skip:https://tass.ru/politika/28319043",
-  "skip:https://tass.ru/politika/28319049",
-  "skip:https://tass.ru/politika/28319033",
-  "skip:https://tass.ru/politika/28319035",
-  "skip:https://tass.ru/politika/28319037",
-  "https://ria.ru/20261115/lavrov-2131666251.html",
   "title:Сергей Лавров заявил, что переговорная линия России по Украине нацелена на достижение целей СВО",
   "skip:https://www.france24.com/en/middle-east/20261115-iran-claims-attack-on-us-military-airbase-in-bahrain",
   "skip:https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss",
@@ -998,5 +992,11 @@
   "skip:https://www.kommersant.ru/doc/9112765",
   "skip:https://www.interfax.ru/business/1129869",
   "https://www.rbc.ru/finances/18/11/2026/6afda49e1cff42e2cf35ee71",
-  "title:ЦБ РФ запланировал тестирование офлайн-платежей цифровым рублем на осень 2027 года"
+  "title:ЦБ РФ запланировал тестирование офлайн-платежей цифровым рублем на осень 2027 года",
+  "skip:https://www.kommersant.ru/doc/9112905",
+  "https://ria.ru/20261118/gruzoperevozki-2132469390.html",
+  "title:Объем грузоперевозок по Северному морскому пути превысил 40 миллионов тонн",
+  "skip:https://www.kommersant.ru/doc/9112840",
+  "https://www.rbc.ru/rbcfreenews/6afdb0a649ef85cb5ecd9811",
+  "title:В России началось клиническое применение вакцины от рака толстой кишки"
 ]

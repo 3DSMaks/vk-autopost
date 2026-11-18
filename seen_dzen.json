@@ -338,5 +338,9 @@
   "skip:https://www.playground.ru/misc/news/nastoyaschij_proval_dlya_sony_s_2014_goda_kompaniya_vpervye_za_11_let_ostalas_bez_glavnoj_nominatsii_the_game_awards-1891623#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.ign.com/articles/the-game-awards-2026-nominations-revealed-gta-6-dominates",
   "https://www.igromania.ru/news/170013/gta-6-pretenduet-na-8-nagrad-na-the-game-awards-2026-v-tom-chisle-igra-goda/",
-  "title:GTA 6 претендует на 8 наград на The Game Awards 2026 — в том числе «Игра года»"
+  "title:GTA 6 претендует на 8 наград на The Game Awards 2026 — в том числе «Игра года»",
+  "skip:https://www.playground.ru/exodus/news/portal_kotaku_raskritikoval_belyj_tsvet_kozhi_glavnyh_geroev_exodus_no_gejmery_vstali_na_zaschitu_razrabotchikov-1891716#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://gamemag.ru/news/202205/znakomstvo-s-djun-aslan-sozdateli-exodus-predstavili-jenskuyu-versiyu-geroya",
+  "https://www.pcgamer.com/games/rpg/sci-fi-rpg-exodus-gets-even-more-mass-effect-like-with-its-female-lead-who-they-are-calling-femjun/",
+  "title:Sci-fi RPG Exodus gets even more Mass Effect-like with its female lead, who they are calling Femjun"
 ]

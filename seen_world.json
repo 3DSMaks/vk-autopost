@@ -1,11 +1,4 @@
 [
-  "skip:https://ria.ru/20261115/aeroport-2131614920.html",
-  "skip:https://ria.ru/20261115/aeroporty-2131614489.html",
-  "skip:https://tass.ru/ekonomika/28318431",
-  "skip:https://tass.ru/ekonomika/28318429",
-  "skip:https://www.interfax.ru/russia/1129046",
-  "skip:https://tass.ru/ekonomika/28318425",
-  "https://www.interfax.ru/russia/1129056",
   "title:В российских аэропортах ввели временные ограничения на полеты",
   "skip:https://www.interfax.ru/world/1129053",
   "https://www.kommersant.ru/doc/9109727",
@@ -998,5 +991,12 @@
   "title:Владимир Путин, Дональд Трамп и Си Цзиньпин прибыли на саммит АТЭС в Шэньчжэнь",
   "skip:https://www.interfax.ru/russia/1129771",
   "https://ria.ru/20261118/minoborony-2132339606.html",
-  "title:ВС России нанесли удары по военным аэродромам и объектам энергетики Украины"
+  "title:ВС России нанесли удары по военным аэродромам и объектам энергетики Украины",
+  "skip:https://www.kommersant.ru/doc/9112462",
+  "skip:https://www.rbc.ru/rbcfreenews/6afd6bec1cff42e2cf35edbf",
+  "https://www.kommersant.ru/doc/9112473",
+  "title:Владимир Путин провел встречу с президентом Вьетнама То Ламом в Шэньчжэне",
+  "skip:https://www.kommersant.ru/doc/9112427",
+  "https://www.rbc.ru/politics/18/11/2026/6afd74b834567f786de81fae",
+  "title:ЕС намерен ввести запрет на въезд для участников спецоперации в рамках нового пакета санкций"
 ]

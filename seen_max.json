@@ -1,7 +1,4 @@
 [
-  "title:Bloodborne не получила продолжения или ремейк из-за сложностей при переговорах причастных сторон",
-  "skip:https://www.playground.ru/elder_scrolls_6/news/glavnyj_dizajner_skyrim_nazval_dva_vazhnyh_uluchsheniya_kotorye_hotel_by_uvidet_v_the_elder_scrolls_6_sentinel-1888412#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.pcgamer.com/games/world-of-warcraft/wow-forever-takes-250-000-gb-of-memory-to-run-and-i-cant-even-joke-about-sam-altman-being-jealous-because-thats-almost-nothing-compared-to-the-monolithic-demands-of-ai/",
   "skip:https://www.pcgamer.com/games/the-elder-scrolls/skyrims-lead-designer-has-2-big-asks-of-the-elder-scrolls-6-sentinel-and-only-one-of-them-is-something-most-players-have-ever-thought-about/",
   "skip:https://gamemag.ru/news/201980/stal-i-koldovstvo-novyy-geympley-lords-of-the-fallen-ii",
   "https://www.ign.com/articles/nier-automata-dev-working-on-fix-patch-that-bloated-game-size-366gb",
@@ -998,5 +995,8 @@
   "skip:https://www.ign.com/articles/were-getting-gta-6-first-new-zealand-trick-celebrated-by-countrys-official-tourist-board",
   "skip:https://www.ign.com/articles/sony-issues-official-ps5-firmware-update-warning-confirms-gta-6-requirement",
   "https://www.playground.ru/resident_evil_4/news/sindzi_mikami_obyasnil_pochemu_v_resident_evil_4_otkazalis_ot_klassicheskih_zombi-1891739#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Синдзи Миками объяснил, почему в Resident Evil 4 отказались от классических зомби"
+  "title:Синдзи Миками объяснил, почему в Resident Evil 4 отказались от классических зомби",
+  "skip:https://www.kinonews.ru/news_144205/",
+  "https://www.film.ru/articles/zendeya-margaret-kuolli-ili-sidni-suini-kto-stanet-sleduyushchey-devushkoy-bonda",
+  "title:Зендея, Маргарет Куолли или Сидни Суини: кто станет следующей девушкой Бонда?"
 ]

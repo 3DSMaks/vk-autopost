@@ -1,10 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135695-brosok-kobry-s-bredli-kuperom-vyjdet-v-ne-ochen-podhodjaschee-dlja-fantasticheskogo-ekshena-vremja/",
-  "skip:https://www.kinonews.ru/news_144039/",
-  "skip:https://www.kinonews.ru/news_144038/",
-  "skip:https://www.kinonews.ru/news_144037/",
-  "skip:https://kg-portal.ru/comments/135694-zvezdnye-kandidaty-robert-pattinson-i-nikolas-holt-vstupili-v-gonku-za-rol-dzhejmsa-bonda/",
-  "skip:https://deadline.com/2026/11/robert-pattinson-nicholas-hoult-james-bond-1237216183/",
   "skip:https://www.film.ru/news/pattinson-probuetsya-na-bonda",
   "skip:https://www.film.ru/news/reliz-broska-kobry-s-bredli-kuperom",
   "skip:https://www.film.ru/news/sikvel-horrora-1408",
@@ -998,5 +992,11 @@
   "title:World of Warcraft: Forever достигла 15 миллионов игроков - Blizzard не видела такой еженедельной активности 15 лет",
   "skip:https://www.playground.ru/misc/news/dzhejson_vurhiz_vernyotsya_v_kino_13_avgusta_2027_goda_novaya_pyatnitsa_13_e_poluchila_nazvanie_i_aktyorskij_sostav-1891842#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://stopgame.ru/newsdata/73549/novyy_trailer_spyro_a_realm_beyond_pokazhut_na_the_game_awards_2026",
-  "title:Новый трейлер Spyro: A Realm Beyond покажут на The Game Awards 2026"
+  "title:Новый трейлер Spyro: A Realm Beyond покажут на The Game Awards 2026",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/gta-6-looks-gorgeous-and-seeing-it-run-at-a-stable-30-fps-on-ageing-ps5-pro-hardware-makes-me-hopeful-for-pc-performance/",
+  "skip:https://www.igromania.ru/news/170046/ogranichenie-gta-6-lish-30-fps-eto-idealnyij-balans-govoryat-v-rockstar/",
+  "skip:https://www.ign.com/articles/amazon-slashes-10-off-control-resonant-in-early-black-friday-sale-dropping-to-its-lowest-price-yet",
+  "skip:https://www.ign.com/articles/gta-6-will-never-get-a-60fps-update-on-playstation-pro-as-its-not-powerful-enough",
+  "https://gamemag.ru/news/202215/gta-6-99-metascore-best-reviewed-game-all-time",
+  "title:Grand Theft Auto VI стала самой высокооценённой игрой в истории индустрии"
 ]

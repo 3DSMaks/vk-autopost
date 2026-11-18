@@ -1,8 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169767/vladeyuschie-ea-suverennyij-fond-saudovskoj-aravii-i-silver-lake-nedavno-obsuzhdali-pokupku-unity/",
-  "https://www.igromania.ru/news/169769/da-blin-bethesda-gejmeryi-vyismeyali-ofitsialnyij-merch-po-the-elder-scrolls-vi-sentinel/",
-  "title:«Да блин, Bethesda» — геймеры высмеяли официальный мерч по The Elder Scrolls VI: Sentinel",
-  "https://www.kinonews.ru/news_144016/",
   "title:Сильвестр Сталлоне не захотел смотреть \"Рокки - это я\" в кинотеатре",
   "skip:https://deadline.com/2026/11/stranger-things-prequel-series-other-worlds-netflix-duffers-1237215152/",
   "https://deadline.com/2026/11/nina-dobrev-jack-whitehall-greg-kinnear-honeymooners-movie-1237215360/",
@@ -998,5 +994,9 @@
   "skip:https://www.playground.ru/gta_6/news/grand_theft_auto_vi_poluchila_fenomenalnye_99_na_metacritic_kritiki_nazyvayut_eyo_novym_etalonom_otkrytogo_mira-1891750#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/170041/gta-6-poluchaet-otlichnyie-otsenki-pressyi-v-srednem-99-iz-100/",
   "https://stopgame.ru/newsdata/73547/boss_remedy_o_control_resonant_eto_aaa_igra_za_byudzhet_aa_urovnya",
-  "title:Босс Remedy о Control Resonant: это ААА-игра за бюджет АА-уровня"
+  "title:Босс Remedy о Control Resonant: это ААА-игра за бюджет АА-уровня",
+  "skip:https://variety.com/2026/film/global/noel-clarke-trial-set-2027-sexual-offenses-1236951670/",
+  "skip:https://www.kinonews.ru/news_144205/",
+  "https://kg-portal.ru/comments/135838-nikomu-ne-prigodivshijsja-alarmistskij-triller-socialnaja-rasplata-skoro-vyhodit-na-cifre/",
+  "title:Никому не пригодившийся алармистский триллер \"Социальная расплата\" скоро выходит на цифре"
 ]

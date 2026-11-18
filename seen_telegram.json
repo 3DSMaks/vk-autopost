@@ -1,9 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169770/istoriyu-legendarnoj-bioware-rasskazhut-v-dokumentalnom-filme-ot-istokov-do-zakryitiya/",
-  "skip:https://www.ign.com/articles/spectrum-is-offering-free-internet-upgrades-so-people-can-download-gta-6-faster",
-  "skip:https://www.ign.com/articles/bill-skarsgrd-explains-why-starring-in-hideo-kojimas-physint-is-a-big-deal-for-him",
-  "skip:https://stopgame.ru/newsdata/73403/v_assassins_creed_valhalla_vveli_novuyu_igru_hranilische_podderzhku_pssr_2_i_ne_tolko",
-  "skip:https://gamemag.ru/news/202001/insayder-zvezda-seriala-medved-rassmatrivaetsya-na-rol-rosomahi",
   "skip:https://www.ign.com/articles/bethesda-is-already-selling-the-elder-scrolls-6-sentinel-merch",
   "skip:https://www.ign.com/articles/biowares-final-years-were-filmed-and-will-be-revealed-in-a-new-documentary",
   "skip:https://www.ign.com/articles/ea-brings-every-ultima-and-wing-commander-game-to-steam-and-gog-with-quality-of-life-updates",
@@ -998,5 +993,10 @@
   "skip:https://kg-portal.ru/comments/135831-deni-vilnev-hochet-chtoby-ego-dzhejms-bond-byl-umnym-harizmatichnym-ubijcej-s-chernym-chuvstvom-jumora-poluchajuschim-udovolstvie-ot-dermovyh-situacij/",
   "skip:https://www.kinonews.ru/news_144188/",
   "https://kg-portal.ru/comments/135837-golodnye-igry-rassvet-zhatvy-uzhe-sovershenno-ne-originalny-no-ostajutsja-zrelischnymi-neploho-razvlekajut-i-radujut-fanservisom/",
-  "title:\"Голодные игры: Рассвет Жатвы\" уже совершенно не оригинальны, но остаются зрелищными, неплохо развлекают и радуют фансервисом"
+  "title:\"Голодные игры: Рассвет Жатвы\" уже совершенно не оригинальны, но остаются зрелищными, неплохо развлекают и радуют фансервисом",
+  "skip:https://www.kinonews.ru/news_144202/",
+  "skip:https://www.film.ru/news/kritiki-o-rassvete-zhatvy",
+  "skip:https://www.kinonews.ru/news_144197/",
+  "https://www.film.ru/news/netflix-vernetsya-v-kanny",
+  "title:Netflix вернется в Канны"
 ]

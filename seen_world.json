@@ -1,12 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1129090",
-  "skip:https://ria.ru/20261115/bespilotniki-2131651795.html",
-  "https://www.rbc.ru/rbcfreenews/6af9561bacb2a01a5c8b4262",
-  "title:Три человека пострадали при атаке беспилотников на Татарстан",
-  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss",
-  "https://ria.ru/20261115/mvd-2131657150.html",
-  "title:Массовые протесты против роста цен прошли в Португалии и Франции",
-  "skip:https://www.rbc.ru/politics/15/11/2026/6af95ed942b21c4491aa0f69",
   "skip:https://www.kommersant.ru/doc/9109811",
   "https://ria.ru/20261115/bayden-2131653629.html",
   "title:Джо Байден выпустил мемуары с критикой Владимира Зеленского",
@@ -998,5 +990,13 @@
   "skip:https://tass.ru/proisshestviya/28331207",
   "skip:https://www.rbc.ru/society/18/11/2026/6afd991ac68e49d8434471d0",
   "https://ria.ru/20261118/samolet-2132433858.html",
-  "title:Самолет авиакомпании «Азимут» совершил посадку в Турции после сообщения об угрозе взрыва"
+  "title:Самолет авиакомпании «Азимут» совершил посадку в Турции после сообщения об угрозе взрыва",
+  "skip:https://www.kommersant.ru/doc/9112780",
+  "https://www.sport-interfax.ru/1129873",
+  "title:Сборную России по футболу не включили в жеребьевку отборочного турнира Евро-2028",
+  "skip:https://www.aljazeera.com/economy/2026/11/18/gta-6-everything-you-need-to-know-about-the-highly-anticipated-game?traffic_source=rss",
+  "skip:https://www.rbc.ru/quote/18/11/2026/6abffec09a7947559af55c34",
+  "skip:https://www.kommersant.ru/doc/9112707",
+  "skip:https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcVVqRHRmV1VIanMwYjl6bHB4R0FTSWZOVFY5RXVYSmtaOVZQMVhXNkoxVjM1NF9ZUUZYa2hneUMxeTBzRC1WTFJQZVJBOTAweVhHOFhfZFJIVmt6cTdHMGxwYnFDUjZaYUZJVGlvV2dOVGFvVWVDY3FaX2VHQWZ4dlhlRGxQdDhETVN5aFA0OG9hOVVHMFBYbHFESkxEY0ZPeUV0a0U3LTFvZFRnWk9oQkhwdTVSbmdGQUZHSk02UzE?oc=5",
+  "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbnJrbHE5SXBnU3h4ZjViR0FJNGdwYW0ybkFhQUtndEFMd0FBUUp0b2x1eWE2QWpVX2NWQWM2Q3c4NVJPcEFMaHpUQ0YtRGtOMnZoSEdPTEg3SmVCajdTam1PRVdMT0UxWXhabkZPRnhqYXBEMlF3UEJPRkVzSVpTVEZOQkdFVVhRTHc?oc=5"
 ]

@@ -1,12 +1,4 @@
 [
-  "skip:https://www.film.ru/news/naruto-oficialno-v-razrabotke",
-  "https://www.kinonews.ru/news_143982/",
-  "title:Объявлен хронометраж фильма \"Дюна: Часть третья\"",
-  "skip:https://www.kinonews.ru/news_143981/",
-  "skip:https://www.film.ru/news/steytem-i-richi-dlya-netflix",
-  "https://www.film.ru/news/onlayn-reliz-kleyfeysa",
-  "title:Онлайн-релиз Клэйфейса",
-  "skip:https://www.film.ru/news/kosmicheskiy-horror-pola-us-andersona",
   "https://www.film.ru/news/niv-kempbell-v-krike-8",
   "title:Нив Кэмпбелл в Крике 8",
   "https://www.film.ru/news/saundtrek-kliffa-buta",
@@ -998,5 +990,13 @@
   "skip:https://kg-portal.ru/comments/135844-vin-dizel-sygraet-kladbischenskogo-storozha-s-temnym-proshlym-v-boevike-kotoryj-zamenit-emu-forsazh/",
   "skip:https://kg-portal.ru/comments/135843-korol-kambeka-trejler/",
   "https://deadline.com/2026/11/i-want-your-sex-streaming-release-date-hbo-max-1237228093/",
-  "title:‘I Want Your Sex’ Sets HBO Max Streaming Release Date"
+  "title:‘I Want Your Sex’ Sets HBO Max Streaming Release Date",
+  "posted:2026-11-18T19:31:44+00:00",
+  "skip:https://deadline.com/feature/only-murders-in-the-building-season-6-news-updates-1236600966/",
+  "skip:https://www.kinonews.ru/news_144212/",
+  "skip:https://www.kinonews.ru/news_144207/",
+  "skip:https://variety.com/2026/tv/news/elon-musk-invested-skydance-david-ellison-dealbook-conference-1236951800/",
+  "skip:https://www.film.ru/news/onlayn-reliz-skrudzha-s-deppom",
+  "https://kg-portal.ru/comments/135847-samyj-bolshoj-sjurpriz-mstitelej-doktor-dum-vozvraschenie-roberta-daunimladshego/",
+  "title:Самый большой сюрприз \"Мстителей: Доктор Дум\": возвращение Роберта Дауни-младшего"
 ]

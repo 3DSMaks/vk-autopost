@@ -1,13 +1,4 @@
 [
-  "skip:https://ria.ru/20261115/izrail-2131622983.html",
-  "skip:https://www.interfax.ru/world/1129058",
-  "skip:https://news.google.com/rss/articles/CBMivwFBVV95cUxPYUhZd1pxN2d0N3pmR2RCbjhCQk9teURKLThfYzR0bC1rVWJpVGUwNkpJelBNeVNLY3hxS1B0c0p2bTk5VmhCeFVGUWpHSFVNdHFKZjcydUdYNDEyMThuQ3hTRmFNSTQ0Z05ZSWRSd1A3QnM3eTRjWkNJbkN2Z2E5M1FQaUdrdUtaYzVNcWtVMC1LOU1yUkpoUk82d0ZQejM5cDR3YXVqcE5xMlJkTVU2dGduMDdsUWp2UG5ERFZUZw?oc=5",
-  "https://www.rbc.ru/politics/15/11/2026/6af90894ca9d0c69e2e2187b",
-  "title:Армия Израиля нанесла удар по командиру бригады ХАМАС в секторе Газа",
-  "skip:https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
-  "skip:https://news.google.com/rss/articles/CBMizAFBVV95cUxOemlqVE1TdmREQ0t3TjczWnBWVGZ3TkxTc0ZPVC1fZFlrUDJCZC1KV0liZGdUTHBXZEZpWG9SNkJJSlBYSjVPbE1aUnNtWHl2eE1FbzlURGRwckdIT3R2NG9rVm1oX1V0VEZoWmYxM1dSbmhNc1BidnFLX19YRVU3Q2tzR1F5Vk1QX3dDNXVCeXZ6bmVES0lZNTBlR3E0Z1hJcXFyYXpMam80TGRWbURod1NsUXBwZldjdHFVejFwaWtmVmo3ZWYzYW5QMzk?oc=5",
-  "skip:https://ria.ru/20261115/aravija-2131625655.html",
-  "https://ria.ru/20261115/araviya-2131631300.html",
   "title:Арабская коалиция перехватила ракеты и беспилотники хуситов над Эр-Риядом",
   "skip:https://news.google.com/rss/articles/CBMirwFBVV95cUxPcDhtdGs0TVotWFJLMGVMMXVlLU9vZjdFTVAzU21kUThuSmdwWmNrckFkSGVTVTJKcHVCVzRHNzA0Ui1tQnlOME9pbWZkRTVuUmtzSUJwUzdwdmIzOUpfYlRKdzJFbWN2NUkzdXROUng0eGxiTnlraVJvNzR5SmJ3WkRuUTRlWVBNSnRDWE9mUDBoS0NHWVhNSUQyQ0JJUlZGRG5GTGR4X3JmNXktdVZz?oc=5",
   "skip:https://news.google.com/rss/articles/CBMisgFBVV95cUxOSWFjODE3SE95MjcyaDJrR2tkNFlTX3VjMWE0aEUxN21aQUotWDdsdWlTd3pCRDdGMHRmejk0Q1M2UzJUdXE3MkRTQnlNRU95QkJYMmk4UThqSHI3djNtdGxnRmlpeTRwelFyeEpZUVVMZG0taUQzREdMQzlFS25wT1dnUXg4QTVtVlY3Sk5KTHpUN1E0OHdkTU42ZGNWTkZkbEJ3bXo5TG5YLWtIakc2RWRB?oc=5",
@@ -998,5 +989,14 @@
   "skip:https://www.rbc.ru/technology_and_media/18/11/2026/6afc1d1ea35f8ecce255d34b",
   "skip:https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZElsVDJXZEEtTmRRNDZYN1hiZUt0SndSYXpKSlNLWlhZWjFOT1l3N2hLMU4ydWh4U2lsbjBSazB0ak9pcV9fUVZVS3dkaVVEUUxUM0o0bHNGSmFGbXJLZExkczk0WWMtMjF1Ti1mWFFJaWF0dWk1UmtBVVZqdHdoMDRUNnBhRmJsX3hMYTdqa1RuMl9mVEo1ZTZUWFNKX2hPandoa255bW1OUQ?oc=5",
   "https://www.rbc.ru/photoreport/18/11/2026/6afc798667e017c6117f43b2",
-  "title:Космический аппарат «Вояджер-1» преодолел расстояние в одни световые сутки от Земли"
+  "title:Космический аппарат «Вояджер-1» преодолел расстояние в одни световые сутки от Земли",
+  "skip:https://www.kommersant.ru/doc/9112548",
+  "https://ria.ru/20261118/ek-2132400409.html",
+  "skip:https://ria.ru/20261118/vstrecha-2132398454.html",
+  "skip:https://ria.ru/20261118/putin-2132398074.html",
+  "skip:https://www.kommersant.ru/doc/9112598",
+  "skip:https://ria.ru/20261118/putin-2132386587.html",
+  "skip:https://www.rbc.ru/politics/18/11/2026/6afd812c67703f07d414913a",
+  "https://www.kommersant.ru/doc/9112618",
+  "title:Владимир Путин и Дональд Трамп провели встречу на полях саммита АТЭС в Шэньчжэне"
 ]

@@ -1,7 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/pokemon-tcg-most-valuable-delta-reign-cards",
-  "skip:https://www.pcgamer.com/games/rpg/path-of-exile-2-announces-a-second-new-class-the-shadow-for-its-december-1-0-release/",
-  "skip:https://stopgame.ru/newsdata/73416/byvshiy_tehnicheskiy_direktor_rockstar_dopustil_bolee_ranniy_vyhod_gta_vi_na_pk_iz_za_ugrozy_ii_portov",
   "skip:https://gamemag.ru/news/202012/shawn-layden-bloodborne-2-hasnt-happened",
   "https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/remejk_the_legend_of_zelda_ocarina_of_time_sozdali_vsego_za_tri_goda-1888537#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Ремейк The Legend of Zelda: Ocarina of Time создали всего за три года",
@@ -998,5 +995,8 @@
   "skip:https://www.pcgamer.com/hardware/graphics-cards/if-you-dont-bring-jensen-back-i-would-not-hire-an-outsider-says-amazon-boss-jeff-bezos-but-nvidia-says-its-going-to-look-at-internal-and-external-candidates/",
   "skip:https://www.pcgamer.com/gaming-industry/tomb-raider-developer-makes-fifth-round-of-layoffs-in-less-than-2-years/",
   "https://www.igromania.ru/news/170045/na-karte-gta-6-est-neaktivnyie-zonyi-na-buduschee-zayavili-v-rockstar/",
-  "title:На карте GTA 6 есть неактивные зоны «на будущее», заявили в Rockstar"
+  "title:На карте GTA 6 есть неактивные зоны «на будущее», заявили в Rockstar",
+  "skip:https://www.igromania.ru/news/170030/sozdatelej-novyih-igr-tomb-raider-iz-crystal-dynamics-vnov-sokratili/",
+  "https://www.playground.ru/gta_6/news/on_polnostyu_menyaet_igru_v_rockstar_dovolny_chto_glavnyj_sekret_gta_6_udalos_uberech_ot_utechek-1891817#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:\"Он полностью меняет игру\": в Rockstar довольны, что главный секрет GTA 6 удалось уберечь от утечек"
 ]

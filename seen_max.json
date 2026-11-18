@@ -1,10 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/games/the-elder-scrolls/skyrims-lead-designer-has-2-big-asks-of-the-elder-scrolls-6-sentinel-and-only-one-of-them-is-something-most-players-have-ever-thought-about/",
-  "skip:https://gamemag.ru/news/201980/stal-i-koldovstvo-novyy-geympley-lords-of-the-fallen-ii",
-  "https://www.ign.com/articles/nier-automata-dev-working-on-fix-patch-that-bloated-game-size-366gb",
-  "title:Nier: Automata Dev Working on Fix for Patch That Accidentally Bloated the Game Size to 366GB on PC",
-  "skip:https://www.playground.ru/misc/news/robert_pattinson_mozhet_smenit_supergerojskij_plasch_na_smoking_agenta_007-1888531#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169782/zvezda-sumerek-i-betmena-robert-pattinson-pretenduet-na-rol-dzhejmsa-bonda-thr/",
   "skip:https://www.igromania.ru/news/169781/svezhie-skrinshotyi-gta-6-sravnivayut-igrovyie-modeli-avtomobilej-s-ih-realnyimi-prototipami/",
   "skip:https://www.igromania.ru/news/169780/avtoryi-path-of-exile-2-predstavili-novyij-klass-ten-ligu-zavoevateli-reklasta-i-obnovlenie-dlya-poe/",
   "skip:https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december/",
@@ -998,5 +992,11 @@
   "title:Синдзи Миками объяснил, почему в Resident Evil 4 отказались от классических зомби",
   "skip:https://www.kinonews.ru/news_144205/",
   "https://www.film.ru/articles/zendeya-margaret-kuolli-ili-sidni-suini-kto-stanet-sleduyushchey-devushkoy-bonda",
-  "title:Зендея, Маргарет Куолли или Сидни Суини: кто станет следующей девушкой Бонда?"
+  "title:Зендея, Маргарет Куолли или Сидни Суини: кто станет следующей девушкой Бонда?",
+  "skip:https://stopgame.ru/newsdata/73548/igra_pokoleniya_chto_pishut_v_reviewah_gta_vi",
+  "skip:https://gamemag.ru/news/202213/gta-vi-epic-review-scores",
+  "skip:https://www.igromania.ru/news/170041/gta-6-poluchaet-otlichnyie-otsenki-pressyi-v-srednem-99-iz-100/",
+  "skip:https://www.ign.com/articles/grand-theft-auto-vi-review",
+  "https://www.igromania.ru/news/170042/gta-6-ustanavlivaet-novyij-standart-kachestva-dlya-otkryityih-mirov-zayavili-v-digital-foundry/",
+  "title:GTA 6 устанавливает новый стандарт качества открытых миров, заявили в Digital Foundry"
 ]

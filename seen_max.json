@@ -1,7 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169781/svezhie-skrinshotyi-gta-6-sravnivayut-igrovyie-modeli-avtomobilej-s-ih-realnyimi-prototipami/",
-  "skip:https://www.igromania.ru/news/169780/avtoryi-path-of-exile-2-predstavili-novyij-klass-ten-ligu-zavoevateli-reklasta-i-obnovlenie-dlya-poe/",
-  "skip:https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december/",
   "skip:https://www.pcgamer.com/games/rpg/path-of-exile-2-announces-a-second-new-class-the-shadow-for-its-december-1-0-release/",
   "skip:https://gamemag.ru/news/202016/capcom-q2-fy2026-financials-dragons-dogma-2-da-selling-slightly-ahead-of-expectations-monster-hunter",
   "skip:https://gamemag.ru/news/202012/shawn-layden-bloodborne-2-hasnt-happened",
@@ -998,5 +995,8 @@
   "skip:https://www.igromania.ru/news/170041/gta-6-poluchaet-otlichnyie-otsenki-pressyi-v-srednem-99-iz-100/",
   "skip:https://www.ign.com/articles/grand-theft-auto-vi-review",
   "https://www.igromania.ru/news/170042/gta-6-ustanavlivaet-novyij-standart-kachestva-dlya-otkryityih-mirov-zayavili-v-digital-foundry/",
-  "title:GTA 6 устанавливает новый стандарт качества открытых миров, заявили в Digital Foundry"
+  "title:GTA 6 устанавливает новый стандарт качества открытых миров, заявили в Digital Foundry",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-review-roundup-rockstars-magnum-opus-a-great-love-story-and-a-new-bar-for-open-worlds/",
+  "https://www.playground.ru/gta_6/news/razrabotchiki_gta_6_stremilis_ujti_ot_linejnosti_i_dat_igrokam_maksimalnuyu_svobodu_v_missiyah-1891784#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Разработчики GTA 6 стремились уйти от линейности и дать игрокам максимальную свободу в миссиях"
 ]

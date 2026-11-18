@@ -1,7 +1,4 @@
 [
-  "https://www.film.ru/news/hoakin-feniks-v-reklame-ii-ochkov",
-  "title:Хоакин Феникс в рекламе ИИ-очков",
-  "skip:https://www.film.ru/news/solnik-meduzy-gorgony",
   "https://www.film.ru/news/cifrovaya-premera-kurera",
   "title:Цифровая премьера Курьера",
   "https://deadline.com/2026/11/joel-wilson-eleven-films-jack-thorne-lord-of-the-flies-1237216218/",
@@ -998,5 +995,8 @@
   "skip:https://www.film.ru/articles/zendeya-margaret-kuolli-ili-sidni-suini-kto-stanet-sleduyushchey-devushkoy-bonda",
   "skip:https://www.kinonews.ru/news_144194/",
   "https://variety.com/2026/film/news/the-odyssey-steven-spielberg-christopher-nolan-matt-damon-1236951881/",
-  "title:Steven Spielberg Calls ‘The Odyssey’ a ‘Showstopper’ and ‘One of the Greatest Things’ Matt Damon Has Ever Done"
+  "title:Steven Spielberg Calls ‘The Odyssey’ a ‘Showstopper’ and ‘One of the Greatest Things’ Matt Damon Has Ever Done",
+  "skip:https://variety.com/2026/film/news/comeback-king-trailer-glen-powell-judd-apatow-1236712505/",
+  "https://www.film.ru/news/vachovski-i-prava-na-matricu",
+  "title:Вачовски и права на Матрицу"
 ]

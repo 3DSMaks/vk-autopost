@@ -1,11 +1,4 @@
 [
-  "skip:https://tass.ru/obschestvo/28319009",
-  "https://www.interfax.ru/russia/1129109",
-  "title:В Нижнекамске после падения обломков дрона загорелась цистерна с этилбензолом",
-  "skip:https://ria.ru/20261115/lavrov-2131665948.html",
-  "skip:https://ria.ru/20261115/lavrov-2131665331.html",
-  "skip:https://www.interfax.ru/russia/1129107",
-  "skip:https://www.interfax.ru/russia/1129106",
   "skip:https://tass.ru/politika/28319043",
   "skip:https://tass.ru/politika/28319049",
   "skip:https://tass.ru/politika/28319033",
@@ -998,5 +991,12 @@
   "title:Генпрокуратура предложила прекратить дело сестер Хачатурян",
   "skip:https://www.interfax.ru/world/1129861",
   "https://www.rbc.ru/rbcfreenews/6afda5ac11c9c88c59d8ddab",
-  "title:Еврокомиссия учредила Управление ЕС по вопросам санкций"
+  "title:Еврокомиссия учредила Управление ЕС по вопросам санкций",
+  "skip:https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ0Q4Sk1xb2tRUUdUMHdVNm91OGZEeDMwTkV5dlFfTTI3QXB4RUFuUERvSmpIQXAxRVpiVENsUGt4eWE3My1EU3Jxa0hOY1pwVDlSVHJFVDFJZ0N5WEFZbnZfeDg3WUwzSUVnUkdoSE02SUZ2N2t0R3I2emNZampxMlJiaDFsZkpGc2FqcE1Tcll6TzFVZlVwRkpfNnM4Z2VuX1NESTBBSVpCSGVUT1pMbnN6YjViYzA?oc=5",
+  "https://www.france24.com/en/asia-pacific/20261118-north-korea-completes-external-works-on-enrichment-facility-extension-says-iaea",
+  "title:МАГАТЭ сообщило о завершении внешних работ по расширению завода по обогащению урана в КНДР",
+  "skip:https://www.kommersant.ru/doc/9112765",
+  "skip:https://www.interfax.ru/business/1129869",
+  "https://www.rbc.ru/finances/18/11/2026/6afda49e1cff42e2cf35ee71",
+  "title:ЦБ РФ запланировал тестирование офлайн-платежей цифровым рублем на осень 2027 года"
 ]

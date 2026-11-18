@@ -1,8 +1,4 @@
 [
-  "skip:https://www.film.ru/news/horror-s-rozamund-payk",
-  "https://www.film.ru/news/russkoyazychnyy-treyler-chernil-denni-boyla",
-  "title:Русскоязычный трейлер Чернил Дэнни Бойла",
-  "skip:https://www.playground.ru/gta_6/news/amerikanskij_internet_provajder_predlozhil_besplatnoe_uskorenie_interneta_dlya_gta_6-1888282#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.ign.com/articles/spectrum-is-offering-free-internet-upgrades-so-people-can-download-gta-6-faster",
   "skip:https://www.ign.com/articles/bill-skarsgrd-explains-why-starring-in-hideo-kojimas-physint-is-a-big-deal-for-him",
   "skip:https://stopgame.ru/newsdata/73400/rockstar_vylozhila_reliznuyu_galereyu_s_novymi_skrinshotami_gta_vi",
@@ -998,5 +994,9 @@
   "https://gamemag.ru/news/202203/gta-protiv-the-legend-of-zelda-raskryt-spisok-nominantov-the-game-awards-2026",
   "title:GTA против The Legend of Zelda: Раскрыт список номинантов The Game Awards 2026",
   "https://www.film.ru/news/vilnev-nazval-dyunu-3-luchshey",
-  "title:Вильнев назвал Дюну 3 лучшей"
+  "title:Вильнев назвал Дюну 3 лучшей",
+  "skip:https://www.film.ru/news/heteuey-rodila-tretego",
+  "skip:https://www.film.ru/news/treyler-vtoroy-zadachi-treh-tel",
+  "https://www.film.ru/news/gonorar-pattinsona-za-bonda",
+  "title:Гонорар Паттинсона за Бонда"
 ]

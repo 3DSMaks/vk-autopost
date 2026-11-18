@@ -1,10 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_144019/",
-  "skip:https://www.kinonews.ru/news_144012/",
-  "https://kg-portal.ru/comments/135680-sozdateli-dzhona-uika-dadut-dzheremi-renneru-12-pul-chtoby-perebit-vseh-prestupnikov-londona/",
-  "title:Создатели \"Джона Уика\" дадут Джереми Реннеру 12 пуль, чтобы перебить всех преступников Лондона",
-  "skip:https://www.playground.ru/physint/news/bill_skarsgard_obyasnil_pochemu_dlya_nego_bolshaya_chest_sygrat_glavnuyu_rol_v_physint_hideo_kodzimy-1888283#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.playground.ru/gta_6/news/amerikanskij_internet_provajder_predlozhil_besplatnoe_uskorenie_interneta_dlya_gta_6-1888282#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169770/istoriyu-legendarnoj-bioware-rasskazhut-v-dokumentalnom-filme-ot-istokov-do-zakryitiya/",
   "skip:https://www.ign.com/articles/spectrum-is-offering-free-internet-upgrades-so-people-can-download-gta-6-faster",
   "skip:https://www.ign.com/articles/bill-skarsgrd-explains-why-starring-in-hideo-kojimas-physint-is-a-big-deal-for-him",
@@ -998,5 +992,11 @@
   "title:Вильнев назвал Дюну 3 лучшей",
   "skip:https://www.film.ru/news/treyler-shestyh-ubiystv-v-odnom-zdanii",
   "https://www.film.ru/news/gonorar-pattinsona-za-bonda",
-  "title:Гонорар Паттинсона за Бонда"
+  "title:Гонорар Паттинсона за Бонда",
+  "skip:https://www.kinonews.ru/news_144201/",
+  "skip:https://variety.com/2026/film/news/rami-malek-robert-pattinson-james-bond-1236951518/",
+  "skip:https://kg-portal.ru/comments/135831-deni-vilnev-hochet-chtoby-ego-dzhejms-bond-byl-umnym-harizmatichnym-ubijcej-s-chernym-chuvstvom-jumora-poluchajuschim-udovolstvie-ot-dermovyh-situacij/",
+  "skip:https://www.kinonews.ru/news_144188/",
+  "https://kg-portal.ru/comments/135837-golodnye-igry-rassvet-zhatvy-uzhe-sovershenno-ne-originalny-no-ostajutsja-zrelischnymi-neploho-razvlekajut-i-radujut-fanservisom/",
+  "title:\"Голодные игры: Рассвет Жатвы\" уже совершенно не оригинальны, но остаются зрелищными, неплохо развлекают и радуют фансервисом"
 ]

@@ -1,12 +1,4 @@
 [
-  "https://www.interfax.ru/world/1129059",
-  "title:Эмманюэль Макрон заявил о необходимости вступления Украины в НАТО",
-  "skip:https://www.kommersant.ru/doc/9109731",
-  "skip:https://tass.ru/proisshestviya/28318555",
-  "skip:https://www.interfax.ru/russia/1129060",
-  "https://www.rbc.ru/rbcfreenews/6af905aba0f3d54666c4d1fc",
-  "title:Над Таганрогом сбили несколько украинских беспилотников",
-  "skip:https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
   "skip:https://ria.ru/20261115/izrail-2131622983.html",
   "skip:https://www.interfax.ru/world/1129058",
   "skip:https://news.google.com/rss/articles/CBMivwFBVV95cUxPYUhZd1pxN2d0N3pmR2RCbjhCQk9teURKLThfYzR0bC1rVWJpVGUwNkpJelBNeVNLY3hxS1B0c0p2bTk5VmhCeFVGUWpHSFVNdHFKZjcydUdYNDEyMThuQ3hTRmFNSTQ0Z05ZSWRSd1A3QnM3eTRjWkNJbkN2Z2E5M1FQaUdrdUtaYzVNcWtVMC1LOU1yUkpoUk82d0ZQejM5cDR3YXVqcE5xMlJkTVU2dGduMDdsUWp2UG5ERFZUZw?oc=5",
@@ -998,5 +990,13 @@
   "title:Юрий Ушаков анонсировал полноформатные и рабочие встречи Путина и Трампа на саммите АТЭС в Шэньчжэне",
   "skip:https://www.interfax.ru/russia/1129808",
   "https://www.rbc.ru/quote/18/11/2026/6afd7607fc5ae43afd71aaa3",
-  "title:Госдума одобрила повышение лимита страхования по долгосрочным вкладам до 2 млн рублей"
+  "title:Госдума одобрила повышение лимита страхования по долгосрочным вкладам до 2 млн рублей",
+  "skip:https://www.interfax.ru/world/1129814",
+  "skip:https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFhjUFo4SHBqb20yY1dQWmZZNlZhV2VvZjRQLTFoQjlYeFItaHNXX0FZVmhuazRYODFqcEk5RThWZUNpX2lPOFJrZ0M5U0hEODBZZFNndnE3U18xNWRtVGhlYmRXU3V1My16RTUybkdaSXRvc3NIOWpNdllIWG1GMjE4Z2N1bm1naUZjNXF6bVBPSF9lalVpeHdNN1FQeWRtZDBfaTh3ZXBaQQ?oc=5",
+  "https://www.france24.com/en/europe/20261118-eu-proposes-new-%E2%82%AC45-billion-ukraine-loan-to-be-repaid-by-russia",
+  "title:Еврокомиссия предложила выделить Украине новый пакет финансовой помощи на 45 млрд евро",
+  "skip:https://www.rbc.ru/technology_and_media/18/11/2026/6afc1d1ea35f8ecce255d34b",
+  "skip:https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZElsVDJXZEEtTmRRNDZYN1hiZUt0SndSYXpKSlNLWlhZWjFOT1l3N2hLMU4ydWh4U2lsbjBSazB0ak9pcV9fUVZVS3dkaVVEUUxUM0o0bHNGSmFGbXJLZExkczk0WWMtMjF1Ti1mWFFJaWF0dWk1UmtBVVZqdHdoMDRUNnBhRmJsX3hMYTdqa1RuMl9mVEo1ZTZUWFNKX2hPandoa255bW1OUQ?oc=5",
+  "https://www.rbc.ru/photoreport/18/11/2026/6afc798667e017c6117f43b2",
+  "title:Космический аппарат «Вояджер-1» преодолел расстояние в одни световые сутки от Земли"
 ]

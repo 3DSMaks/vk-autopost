@@ -1,7 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28319411",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28319401",
-  "https://www.kommersant.ru/doc/9109982",
   "title:Эстония объявила о планах полностью закрыть границу с Россией с 1 декабря",
   "skip:https://tass.ru/proisshestviya/28319413",
   "skip:https://ria.ru/20261115/sk-2131708618.html",
@@ -998,5 +995,8 @@
   "title:США и Венесуэла подписали соглашение о возобновлении военного сотрудничества",
   "skip:https://www.interfax.ru/russia/1129946",
   "https://www.kommersant.ru/doc/9113122",
-  "title:В Севастополе вводят лимиты на продажу топлива из-за ажиотажного спроса"
+  "title:В Севастополе вводят лимиты на продажу топлива из-за ажиотажного спроса",
+  "skip:https://www.rbc.ru/business/19/11/2026/6afdca9ddd27a26fda548cef",
+  "https://ria.ru/20261119/anthropic-2132523891.html",
+  "title:Искусственный интеллект компании Anthropic может выйти на биржу с рекордной оценкой акций"
 ]

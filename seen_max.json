@@ -1,9 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169778/mobilnuyu-ratchet-and-clank-ranger-rumble-zakryivayut-serveryi-igryi-otklyuchat-1-maya-2027-goda/",
-  "skip:https://www.igromania.ru/news/169771/fentezijnaya-strategiya-age-of-wonders-4-stala-vremenno-besplatnoj-v-tom-chisle-v-rossii/",
-  "https://www.playground.ru/metro_4/news/milliardy_obektov_i_chernaya_magiya_optimizatsii_4a_games_rasskazala_o_tehnologicheskom_skachke_dvizhka_metro_2039-1888368#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Миллиарды объектов и \"черная магия\" оптимизации: 4A Games рассказала о технологическом скачке движка Metro 2039",
-  "skip:https://deadline.com/2026/11/melania-the-series-release-date-trailer-prime-video-1237215492/",
   "skip:https://variety.com/2026/tv/news/melania-trump-series-amazon-release-date-1236941341/",
   "skip:https://www.film.ru/news/prikvel-ochen-strannyh-del",
   "https://deadline.com/2026/11/taylor-kitsch-alexandra-daddario-long-island-bank-robber-1237215411/",
@@ -998,5 +993,10 @@
   "https://www.playground.ru/marvels_wolverine/news/marvels_wolverine_vpervye_podeshevela_v_standartnom_tsifrovom_izdanii_dlya_ps5_sony_snizila_tsenu_na_29_k_rasprodazhe-1891702#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Marvel's Wolverine впервые подешевела в стандартном цифровом издании для PS5 - Sony снизила цену на 29% к распродаже",
   "https://www.film.ru/news/treyler-shestyh-ubiystv-v-odnom-zdanii",
-  "title:Трейлер шестых Убийств в одном здании"
+  "title:Трейлер шестых Убийств в одном здании",
+  "skip:https://www.igromania.ru/news/170034/gejmeryi-raskritikovali-the-game-awards-za-obilie-nominatsij-dlya-gta-6/",
+  "skip:https://www.ign.com/articles/gta-6-fans-baffled-after-jasons-actor-gets-left-out-of-game-awards-nominations",
+  "skip:https://www.pcgamer.com/gaming-industry/events-conferences/we-got-8-game-awards-nominations-for-gta-6-before-gta-6/",
+  "https://www.playground.ru/control_2/news/control_resonant_poluchila_besplatnuyu_probnuyu_versiyu_na_xbox-1891733#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Control Resonant получила бесплатную пробную версию на Xbox"
 ]

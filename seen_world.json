@@ -1,11 +1,4 @@
 [
-  "skip:https://tass.ru/kosmos/28318443",
-  "skip:https://www.france24.com/en/spacex-starship-set-for-return-to-earth-after-failed-booster-catch",
-  "https://ria.ru/20261115/starship-2131616733.html",
-  "title:Космический корабль Starship впервые успешно совершил посадку с захватом манипуляторами",
-  "skip:https://ria.ru/20261115/kndr-2131616213.html",
-  "https://www.rbc.ru/rbcfreenews/6af8d563b1a0ed265a78649c",
-  "title:Делегация КНДР прибыла с официальным визитом в Москву",
   "skip:https://news.google.com/rss/articles/CBMisgFBVV95cUxQODlZOEw0dzkyVTA2LWdtYUM0X05jWjlqbVpRX2R0RXV6ZnEwWTB2TGt5UHVadkVmdl9rRVBXa1EydkpEVGxzM0NQVzBWVHV3eDZkemlSRjFlbGJmbHNhLV8zOFJfcDM3Yy0wbW5KcHdpWHZ6RjZocFhJVmFETTZnT2JFZzlkRkx2SExmQk1NUDN3OGUwVUF4cEtHYkp3VG50N3RldTRXVTY3bXJMcVl0bXNB?oc=5",
   "skip:https://tass.ru/sport/28318467",
   "skip:https://tass.ru/sport/28318463",
@@ -998,5 +991,12 @@
   "title:Владимир Путин провел переговоры с Си Цзиньпином и выступил перед студентами совместного университета в Шэньчжэне",
   "skip:https://news.google.com/rss/articles/CBMifkFVX3lxTE1QVW9FYWgxOUQyeFFFdHRIdkVLWDZLem1MWFItOVZmQU1SODEtcEZ1Y3NsOGZXeUtNQVN5cElvSmVoNXFoZDFVZ0NlaHFmcmNuQ2w1SWJENDNNLWVVWHNNQUVXdnV0X1Z5M3E2bnJSSzRQd3FBR1FQMzh0dGRPdw?oc=5",
   "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
-  "title:Инфляция в Великобритании выросла до 3,6% в октябре на фоне удорожания топлива"
+  "title:Инфляция в Великобритании выросла до 3,6% в октябре на фоне удорожания топлива",
+  "skip:https://www.rbc.ru/rbcfreenews/6afd5b4109bedaadcb863f37",
+  "skip:https://tass.ru/politika/28329869",
+  "https://www.kommersant.ru/doc/9112362",
+  "title:Владимир Путин выступил в совместном российско-китайском университете в Шэньчжэне",
+  "skip:https://ria.ru/20261118/agent-2132303599.html",
+  "https://www.rbc.ru/rbcfreenews/6afd57fbb904d649ef22d1eb",
+  "title:ФСБ задержала двоих жителей Хабаровского края по подозрению в госизмене"
 ]

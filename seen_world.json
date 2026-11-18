@@ -1,10 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMipAFBVV95cUxOR3hsQmM3QjN3aXVLQ0UzaF9LcVJMb2xHd0JsYXY5WTNtd2tZT1VFX3pydVprLTdiaktwelM0dlkyZldVR19yT3cwMlhGbk4wemc2ajU1NzBPd01PQi1zMkZFNVRKdnpUTE13X3RtYy04ZGduR00tb1NSMHFoWWFTeDdzT1RNd2FLZWtTYmNmbThmQ0FxdGxScWRYREJQRDUxN1FGSA?oc=5",
-  "https://www.france24.com/en/video/20261115-canaries-urge-government-action-after-2-200-migrants-reach-the-islands-in-48h-1",
-  "title:На Канарские острова за два дня прибыли около 2,2 тыс. нелегальных мигрантов",
-  "skip:https://www.rbc.ru/politics/15/11/2026/6af9cebb288c43bfcc422092",
-  "skip:https://ria.ru/20261115/estoniya-2131709348.html",
-  "skip:https://www.rbc.ru/politics/15/11/2026/6af9c09757f4f7d7736e14a1",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28319411",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28319401",
   "https://www.kommersant.ru/doc/9109982",
@@ -998,5 +992,11 @@
   "skip:https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
   "skip:https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
   "https://tass.ru/mezhdunarodnaya-panorama/28332439",
-  "title:Армия обороны Израиля начала военную операцию в секторе Газа за пределами «желтой линии»"
+  "title:Армия обороны Израиля начала военную операцию в секторе Газа за пределами «желтой линии»",
+  "skip:https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
+  "https://www.kommersant.ru/doc/9113123",
+  "title:США и Венесуэла подписали соглашение о возобновлении военного сотрудничества",
+  "skip:https://www.interfax.ru/russia/1129946",
+  "https://www.kommersant.ru/doc/9113122",
+  "title:В Севастополе вводят лимиты на продажу топлива из-за ажиотажного спроса"
 ]

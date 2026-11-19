@@ -1,9 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV0pRaS1YQ3ZuYW42YldaYWdvWTBoN19GMFBGaXJBbGtSLWNtc3ZRRGoydDRzM3EyV0pPNjhEODV5Q3dRSXVtaTNwVzlBa2huUGR1SHNBUER4Z2RQaFlORENfUkdRMHFvcVRCWngxUTJiTnVXZGVRQzc1Tm9SQjNIQk5YYkFHZFdHbUtwa3czQ1YxVTA3QWdMd1BYNHY0cVpqZ1c2LXc4ODNrWFpRbVhUX2RpUkV6NTdJWVFDeW9idW9xUQ?oc=5",
-  "https://tass.ru/obschestvo/28319469",
-  "title:В Праге прошли массовые протесты против реформы финансирования общественных СМИ",
-  "skip:https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
-  "skip:https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
   "skip:https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss",
   "skip:https://ria.ru/20261115/praga-2131709739.html",
   "https://www.kommersant.ru/doc/9110003",
@@ -998,5 +993,10 @@
   "skip:https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3NST2trRTZCZkdmblYtRm5pcldXRUJTVjZkZUJ6bHJYbjFUSUJ6ZGVJNW1SMVg0ZWthVnlfVVRhZnlld192c0pBaUZSUzRZS0xGdFlYRnViSU9RYVhHWXRpVDlULS0tREUzcDhfa0NGSVIzVkFTOXBzeW5JelpBVy1RV2FFWEpwdnFhZnlqUVN0bUxWSXJaTVFzTEQxTDlFVVpkRERxQmplM0V2X3c?oc=5",
   "skip:https://tass.ru/ekonomika/28332579",
   "https://www.kommersant.ru/doc/9113140",
-  "title:Компания Anthropic объявила параметры IPO с оценкой акций в 83 доллара"
+  "title:Компания Anthropic объявила параметры IPO с оценкой акций в 83 доллара",
+  "skip:https://www.interfax.ru/world/1129959",
+  "skip:https://ria.ru/20261119/tanker-2132528198.html",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28332593",
+  "https://www.interfax.ru/world/1129962",
+  "title:Удары по танкерам и атаки в Ормузском проливе"
 ]

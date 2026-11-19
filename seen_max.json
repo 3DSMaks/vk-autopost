@@ -1,7 +1,4 @@
 [
-  "title:По данным инсайдера, Ubisoft разрабатывает две новые Assassin's Creed - одна из них отправит игроков в Древний Рим",
-  "skip:https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/remejk_the_legend_of_zelda_ocarina_of_time_stal_samoj_vysokootsennoj_igroj_v_istorii_na_metacritic_po_otsenkam_igrokov-1888709#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://gamemag.ru/news/202028/the-zelda-ocarina-of-time-remake-has-shot-to-the-top-of-metacritics-best-games-of-2026-so-far-makes",
   "skip:https://www.ign.com/articles/mass-effect-cast-celebrates-n7-day-with-video-asking-fans-to-help-save-the-franchise",
   "skip:https://www.igromania.ru/news/169787/sozdateli-wardogs-posle-neudach-2-go-sezona-gotovyatsya-k-zapusku-3-go-s-12-noyabrya-i-banyat-chiterov/",
   "https://www.playground.ru/mass_effect_trilogy/news/kooperativnyj_multipleer_mass_effect_3_vernulsya_v_legendary_edition_blagodarya_masshtabnomu_modu-1888692#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +995,8 @@
   "title:Netflix экранизирует культовый комикс \"Грендель\"",
   "skip:https://www.kinonews.ru/news_144217/",
   "https://www.kinonews.ru/news_144219/",
-  "title:Создатель хоррора \"Прочь\" Джордан Пил может вернуть Фредди Крюгера"
+  "title:Создатель хоррора \"Прочь\" Джордан Пил может вернуть Фредди Крюгера",
+  "skip:https://www.film.ru/news/novyy-treyler-iskusstvennogo-intellekta",
+  "https://kg-portal.ru/comments/135851-dzhon-travolta-dvazhdy-otkazalsja-ot-bez-lica-2-potomu-chto-sikvel-vo-vsem-proigryval-originalu/",
+  "title:Джон Траволта дважды отказался от \"Без лица 2\", потому что сиквел во всём проигрывал оригиналу"
 ]

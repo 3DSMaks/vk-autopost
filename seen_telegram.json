@@ -1,8 +1,4 @@
 [
-  "https://www.film.ru/news/cifrovaya-premera-kurera",
-  "title:Цифровая премьера Курьера",
-  "https://deadline.com/2026/11/joel-wilson-eleven-films-jack-thorne-lord-of-the-flies-1237216218/",
-  "title:How A Mistake In Warner Bros. Contracts Helped Eleven Film & Jack Thorne Land ‘Lord Of The Flies’ TV Rights — Thessaloniki",
   "https://variety.com/2026/film/news/adam-driver-wont-return-girls-revival-lena-dunham-1236941924/",
   "title:Adam Driver Won’t Return for ‘Girls’: ‘I Wish Them the Best of Luck’",
   "skip:https://variety.com/2026/film/news/james-bond-casting-robert-pattinson-nicholas-hoult-1236941881/",
@@ -998,5 +994,9 @@
   "title:Steven Spielberg Calls ‘The Odyssey’ a ‘Showstopper’ and ‘One of the Greatest Things’ Matt Damon Has Ever Done",
   "skip:https://variety.com/2026/film/news/comeback-king-trailer-glen-powell-judd-apatow-1236712505/",
   "https://www.film.ru/news/vachovski-i-prava-na-matricu",
-  "title:Вачовски и права на Матрицу"
+  "title:Вачовски и права на Матрицу",
+  "skip:https://kg-portal.ru/comments/135848-postery-filma-mstiteli-doktor-dum/",
+  "https://variety.com/2026/film/news/jamie-dornan-viggo-mortensen-lord-of-the-rings-1236952845/",
+  "video:2026-11-19:https://variety.com/2026/film/news/jamie-dornan-viggo-mortensen-lord-of-the-rings-1236952845/",
+  "title:Jamie Dornan Hasn’t ‘Spoken Directly’ to Viggo Mortensen About Aragorn Recasting in ‘Lord of the Rings: Hunt for Gollum,’ But Says ‘His Approval’ is ‘"
 ]

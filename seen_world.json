@@ -1,15 +1,4 @@
 [
-  "skip:https://www.interfax.ru/world/1129400",
-  "skip:https://www.kommersant.ru/doc/9111099",
-  "skip:https://www.rbc.ru/politics/16/11/2026/6afb4d38dc023dc409ee64b0",
-  "https://www.rbc.ru/rbcfreenews/6afb5db1090591f58e85c1a8",
-  "title:Спецпосланник США Кушнер заявил о прогрессе в урегулировании на Украине и необходимости гарантий безопасности",
-  "skip:https://www.kommersant.ru/doc/9111128",
-  "skip:https://www.interfax.ru/moscow/1129406",
-  "skip:https://tass.ru/proisshestviya/28323803",
-  "skip:https://ria.ru/20261116/pvo-2131987390.html",
-  "skip:https://www.interfax.ru/moscow/1129395",
-  "https://ria.ru/20261116/pvo-2131989395.html",
   "title:Силы ПВО отразили массированную атаку сотен беспилотников, летевших на Москву",
   "skip:https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2I5X1NCMDRQZURDMlVFTTY4TmJ1TFVCeUIyWFRuenhhUmV4QTd5ZW9ydEdUaUFXb0dGTVFjR3VubUxvaExsZ3pfWUd2dUw1dEdFbDg5TWhkbEFxNEJydHNtaTgxRnJ1VXRNdjJQY25GSU1NdEZRcG9wUlN0NTJlRHk4QW5WbHk1eV9XOTROU2M3M3N4ZU0wbkxBSTY?oc=5",
   "skip:https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmhqb0E4Q3hTMkFoVnU5d2Ffby1IUFhtMEROZ2pRZ2xva3dxZTVabklKVnJhRk9XWmxxX0hfM2ZIV1JjQ01yNXJCLXpaaXZmTmV6QkkycXcwV1pNbF91OXptLTA1QjZVM1RhOTN5WHUwTFRtRmNlbkkxc2Nod1oydmFJeV9TZkZfdjBqb1l5TWJXeUVkRVZDdjNzbW10dW80?oc=5",
@@ -998,5 +987,16 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28337249",
   "skip:https://www.interfax.ru/world/1130256",
   "https://www.rbc.ru/rbcfreenews/6aff2cb3cdc05d945d8826cc",
-  "title:Дональд Трамп высоко оценил результаты своего визита в Китай"
+  "title:Дональд Трамп высоко оценил результаты своего визита в Китай",
+  "skip:https://www.interfax.ru/world/1130270",
+  "skip:https://ria.ru/20261119/tramp-2132823761.html",
+  "skip:https://www.interfax.ru/world/1130268",
+  "skip:https://ria.ru/20261119/kushner-2132822697.html",
+  "skip:https://ria.ru/20261119/tramp-2132820669.html",
+  "skip:https://www.interfax.ru/world/1130263",
+  "https://www.rbc.ru/rbcfreenews/6aff341f514a158775e6322e",
+  "title:Кушнер и Трамп проинформировали участников саммита «коалиции желающих» в Берлине о переговорах с Россией",
+  "skip:https://www.rbc.ru/politics/19/11/2026/6aff2615bb08d7dd7b84eb84",
+  "https://www.kommersant.ru/doc/9114167",
+  "title:Дональд Трамп пообещал не принимать окончательных решений по Украине без учета позиции Владимира Зеленского"
 ]

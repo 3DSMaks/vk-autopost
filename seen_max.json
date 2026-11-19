@@ -1,7 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169784/spin-off-ochen-strannyih-del-poluchil-pervyij-tizer-novyie-geroi-i-zlodei-zhdut-nas-v-2028-godu/",
-  "skip:https://stopgame.ru/newsdata/73414/owlcat_pomenyala_aktera_ozvuchki_dlya_muzhskogo_protagonista_the_expanse_osiris_reborn",
-  "https://www.playground.ru/misc/news/po_dannym_insajdera_ubisoft_razrabatyvaet_dve_novye_assassins_creed_odna_iz_nih_otpravit_igrokov_v_drevnij_rim-1888656#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:По данным инсайдера, Ubisoft разрабатывает две новые Assassin's Creed - одна из них отправит игроков в Древний Рим",
   "skip:https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/remejk_the_legend_of_zelda_ocarina_of_time_stal_samoj_vysokootsennoj_igroj_v_istorii_na_metacritic_po_otsenkam_igrokov-1888709#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://gamemag.ru/news/202028/the-zelda-ocarina-of-time-remake-has-shot-to-the-top-of-metacritics-best-games-of-2026-so-far-makes",
@@ -998,5 +995,8 @@
   "title:Крис Пратт будет путешествовать во времени",
   "skip:https://variety.com/2026/film/columns/gemma-chan-play-bond-girl-fan-casting-1236952719/",
   "https://www.kinonews.ru/news_144222/",
-  "title:Netflix экранизирует культовый комикс \"Грендель\""
+  "title:Netflix экранизирует культовый комикс \"Грендель\"",
+  "skip:https://www.kinonews.ru/news_144217/",
+  "https://www.kinonews.ru/news_144219/",
+  "title:Создатель хоррора \"Прочь\" Джордан Пил может вернуть Фредди Крюгера"
 ]

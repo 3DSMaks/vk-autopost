@@ -1,8 +1,4 @@
 [
-  "skip:https://www.interfax.ru/moscow/1129154",
-  "skip:https://ria.ru/20261115/pvo-2131719079.html",
-  "https://www.interfax.ru/moscow/1129156",
-  "title:Количество сбитых на подлете к Москве беспилотников увеличилось до 25",
   "skip:https://www.kommersant.ru/doc/9110030",
   "skip:https://tass.ru/politika/28319583",
   "https://tass.ru/politika/28319577",
@@ -998,5 +994,9 @@
   "title:Дональд Трамп допустил проведение ядерных инспекций в США, России и Китае",
   "skip:https://www.rbc.ru/politics/19/11/2026/6af8ddb9900d07cf07f33883",
   "https://www.kommersant.ru/doc/9113157",
-  "title:Дональд Трамп допустил проведение трехсторонних ядерных инспекций с Россией и Китаем"
+  "title:Дональд Трамп допустил проведение трехсторонних ядерных инспекций с Россией и Китаем",
+  "skip:https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss",
+  "skip:https://news.google.com/rss/articles/CBMimwFBVV95cUxOZko0TjU0LUdSMUxlTkNVcnJsSThoSFo5Y2ZuamRVQ2tidnZQa2M5N1o0dlpndmptSGxNTGhYYS1IUXVKMjZibjFPcWVURHJRaHNfclhIMHlSVFdIN3VkZUxFVEo5Z1JoZFR0bkdHOUd1UUNuNXRCVDBKUlhPaGItcmVfY09NQ1U5WmhHYzRNZHdtWDVVay1JalhlNA?oc=5",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss",
+  "title:Владимир Путин, Дональд Трамп и Си Цзиньпин проведут встречу на саммите АТЭС"
 ]

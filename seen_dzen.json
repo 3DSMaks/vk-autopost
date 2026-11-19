@@ -361,5 +361,9 @@
   "skip:https://www.playground.ru/gta_6/news/igroki_gta_vi_prosyat_rockstar_uskorit_vyhod_na_pk_perestrelki_i_vzryvy_vyzyvayut_prosadki_do_20_fps_i_nizhe_na_konsolyah-1892050#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.playground.ru/gta_6/news/pochti_100_chasov_v_gta_6_na_ps5_ubedili_zhurnalista_pc_gamer_nastoyaschaya_svoboda_i_udovolstvie_ot_igry_nachnyotsya_na_pk-1892049#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.playground.ru/gta_6/news/moddery_uzhe_zapustili_gta_vi_na_pk_s_dlss_5_i_generatsiej_kadrov_rtx_5080_vyvodit_do_60_fps_cherez_ps5_remote_play-1892051#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Моддеры уже \"запустили\" GTA VI на ПК с DLSS 5 и генерацией кадров: RTX 5080 выводит до 60 FPS через PS5 Remote Play"
+  "title:Моддеры уже \"запустили\" GTA VI на ПК с DLSS 5 и генерацией кадров: RTX 5080 выводит до 60 FPS через PS5 Remote Play",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/gta-6-strip-club-locations/",
+  "skip:https://www.ign.com/articles/gta-6-mount-chiliad-mystery",
+  "https://gamemag.ru/news/202225/otpusk-v-vays-siti-sostoyalsya-globalnyy-reliz-gta-vi",
+  "title:Отпуск в Вайс-Сити: Состоялся глобальный релиз GTA VI"
 ]

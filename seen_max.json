@@ -1,11 +1,4 @@
 [
-  "https://www.playground.ru/mass_effect_5/news/fanatskaya_kampaniya_podderzhat_mass_effect_v_den_n7_ne_dobilas_uspeha_igra_sobrala_lish_10_tysyach_igrokov_v_steam-1888769#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Фанатская кампания поддержать Mass Effect в День N7 не добилась успеха: игра собрала лишь 10 тысяч игроков в Steam",
-  "https://www.kinonews.ru/news_144048/",
-  "title:Режиссер \"Голодных игр\" предложил снять новый приквел о Плутархе Хевенсби",
-  "skip:https://www.film.ru/news/rezhisser-golodnyh-igr-predlozhil-ideyu-dlya-novoy-chasti",
-  "skip:https://www.film.ru/news/disney-razrabatyvaet-igrovoy-film-o-meduze",
-  "skip:https://www.film.ru/news/multfilm-po-sumerkam-poluchit-srazu-dva-sezona",
   "https://deadline.com/2026/11/emma-stone-joins-druski-snl-debut-opening-monologue-1237216552/",
   "title:Emma Stone Joins Druski For His ‘SNL’ Debut Opening Monologue While Filming ‘The Catch’ Rom-Com",
   "https://deadline.com/2026/11/camerimage-darren-aronofsky-luca-guadagnino-artificial-1237216360/",
@@ -998,5 +991,12 @@
   "https://www.pcgamer.com/games/strategy/over-an-hour-of-new-total-war-warhammer-40-000-campaign-footage-shows-gear-customization-fleet-mechanics-and-emphasizes-space-marines-are-not-always-trusted-and-hard-to-replace/",
   "title:Over an hour of new Total War: Warhammer 40,000 campaign footage shows gear customization, fleet mechanics, and emphasizes space marines are not alway",
   "https://deadline.com/2026/11/bein-media-group-michael-hamnet-nbc-universal-1237228885/",
-  "title:BeIN Media Group To Bring ‘Michael’, ‘Hamnet’ & ‘Jurassic World Rebirth’ To MENA Audiences With Fresh NBC Universal Deal"
+  "title:BeIN Media Group To Bring ‘Michael’, ‘Hamnet’ & ‘Jurassic World Rebirth’ To MENA Audiences With Fresh NBC Universal Deal",
+  "skip:https://www.playground.ru/gta_6/news/ne_doshli_ruki_glava_razrabotki_gta_6_obyasnil_pochemu_v_igre_otsutstvuet_darts-1892141#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://stopgame.ru/newsdata/73564/v_gta_vi_net_prostitutok_rockstar_obyasnila_pochemu",
+  "skip:https://gamemag.ru/news/202227/rockstar-says-ps5-pro-cant-handle-gta-6-at-60-fps",
+  "skip:https://www.ign.com/articles/gta-6-doesnt-let-players-pick-up-prostitutes-but-rockstar-has-a-logical-reason-for-it",
+  "skip:https://gamemag.ru/news/202221/gta-6-xbox-series-s-performance-analysis-admires-the-effort-but-says-significant-frame-drops-are-a-p",
+  "https://www.igromania.ru/news/170078/prodazhi-gta-6-po-predzakazam-prevyisili-19-millionov-kopij-analitiki/",
+  "title:Продажи GTA 6 по предзаказам превысили 19 миллионов копий — аналитики"
 ]

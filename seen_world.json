@@ -1,11 +1,4 @@
 [
-  "skip:https://ria.ru/20261116/sobyanin-2131976325.html",
-  "skip:https://tass.ru/proisshestviya/28323617",
-  "skip:https://www.interfax.ru/moscow/1129392",
-  "https://www.kommersant.ru/doc/9111109",
-  "title:Силы ПВО отразили массированный налет беспилотников на Москву",
-  "skip:https://ria.ru/20261116/kiev-2131972387.html",
-  "skip:https://www.interfax.ru/world/1129385",
   "https://tass.ru/mezhdunarodnaya-panorama/28323421",
   "title:Марин Ле Пен заявила о намерении прекратить финансовую помощь Украине в случае избрания президентом",
   "skip:https://www.interfax.ru/world/1129394",
@@ -998,5 +991,12 @@
   "skip:https://www.kommersant.ru/doc/9113910",
   "skip:https://ria.ru/20261119/sud-2132749893.html",
   "https://www.interfax.ru/russia/1130206",
-  "title:Бывший первый замминистра обороны РФ Руслан Цаликов приговорен к 10 годам колонии за коррупцию"
+  "title:Бывший первый замминистра обороны РФ Руслан Цаликов приговорен к 10 годам колонии за коррупцию",
+  "skip:https://www.kommersant.ru/doc/9113981",
+  "skip:https://ria.ru/20261119/gruziya-2132767159.html",
+  "skip:https://www.interfax.ru/world/1130212",
+  "skip:https://ria.ru/20261119/gruziya-2132765876.html",
+  "skip:https://ria.ru/20261119/rossiya-2132765742.html",
+  "https://www.rbc.ru/politics/19/11/2026/6aff0455c6677490a3fa601b",
+  "title:Россия и Грузия возобновили прямой дипломатический диалог"
 ]

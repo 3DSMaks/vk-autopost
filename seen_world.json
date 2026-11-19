@@ -1,7 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9110019",
-  "skip:https://ria.ru/20261115/pvo-2131720313.html",
-  "skip:https://www.kommersant.ru/doc/9110017",
   "skip:https://www.interfax.ru/moscow/1129154",
   "skip:https://ria.ru/20261115/pvo-2131719079.html",
   "https://www.interfax.ru/moscow/1129156",
@@ -998,5 +995,8 @@
   "skip:https://ria.ru/20261119/tramp-2132534885.html",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28332689",
   "https://www.rbc.ru/politics/19/11/2026/6afe4ee3d566402516c473fc",
-  "title:Дональд Трамп допустил проведение ядерных инспекций в США, России и Китае"
+  "title:Дональд Трамп допустил проведение ядерных инспекций в США, России и Китае",
+  "skip:https://www.rbc.ru/politics/19/11/2026/6af8ddb9900d07cf07f33883",
+  "https://www.kommersant.ru/doc/9113157",
+  "title:Дональд Трамп допустил проведение трехсторонних ядерных инспекций с Россией и Китаем"
 ]

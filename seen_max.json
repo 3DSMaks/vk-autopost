@@ -1,6 +1,4 @@
 [
-  "skip:https://www.playground.ru/world_of_warcraft/news/zapusk_wow_forever_stal_rekordnym_v_istorii_franshizy-1888587#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.ign.com/articles/blizzard-reveals-what-made-it-finally-pull-the-trigger-on-wow-forever",
   "https://www.ign.com/articles/ea-hq-graced-with-save-mass-effect-truck-as-n7-day-looms",
   "title:EA HQ Graced With 'Save Mass Effect' Truck as N7 Day Looms",
   "skip:https://www.playground.ru/god_of_war_sons_of_sparta/news/god_of_war_sons_of_sparta_mozhet_vyjti_na_ps4_na_eto_namekayut_nahodki_v_baze_dannyh_psn-1888602#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +996,7 @@
   "skip:https://www.film.ru/news/vachovski-i-prava-na-matricu",
   "skip:https://kg-portal.ru/comments/135848-postery-filma-mstiteli-doktor-dum/",
   "https://www.kinonews.ru/news_144210/",
-  "title:Создательницы \"Матрицы\" намерены отнять права у Warner Bros."
+  "title:Создательницы \"Матрицы\" намерены отнять права у Warner Bros.",
+  "https://variety.com/2026/film/news/jamie-dornan-viggo-mortensen-lord-of-the-rings-1236952845/",
+  "title:Jamie Dornan Hasn’t ‘Spoken Directly’ to Viggo Mortensen About Aragorn Recasting in ‘Lord of the Rings: Hunt for Gollum,’ But Says ‘His Approval’ is ‘"
 ]

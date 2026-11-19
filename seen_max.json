@@ -1,11 +1,4 @@
 [
-  "https://www.kinonews.ru/news_144047/",
-  "title:Билл Скарсгард предложил снять нового \"Константина\" вместе с режиссером \"Оно\"",
-  "skip:https://www.igromania.ru/news/169792/ubisoft-gotovit-dve-novyie-assassins-creed-v-tom-chisle-v-drevnem-rime/",
-  "skip:https://www.playground.ru/misc/news/godzilla_minus_nol_idet_na_istoricheskij_rekord_v_amerikanskom_prokate-1888744#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://gamemag.ru/news/202024/robert-pattinson-and-nicholas-hoult-late-contenders-for-james-bond-casting",
-  "skip:https://gamemag.ru/news/202018/s-yubileem-gears-of-war-ispolnilos-20-let",
-  "https://www.playground.ru/gta_6/news/bonusnye_predmety_ultimate_izdaniya_gta_6_budut_otkryvatsya_postepenno_po_hodu_syuzheta-1888751#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Бонусные предметы Ultimate-издания GTA 6 будут открываться постепенно по ходу сюжета",
   "skip:https://www.playground.ru/gears_of_war_e_day/news/legendarnoj_serii_gears_of_war_ispolnilos_20_let_the_coalition_podgotovila_syurprizy_dlya_fanatov-1888740#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.playground.ru/mass_effect_5/news/fanatskaya_kampaniya_podderzhat_mass_effect_v_den_n7_ne_dobilas_uspeha_igra_sobrala_lish_10_tysyach_igrokov_v_steam-1888769#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +991,12 @@
   "skip:https://www.playground.ru/mega_man_dual_override/news/razrabotchiki_mega_man_dual_override_pokazali_shestogo_bossa_igry_robomastera_boat_man-1892091#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/170071/lavkraftovskoe-priklyuchenie-dreadmoor-rossijskih-razrabotchikov-privleklo-bolee-100-000-igrokov/",
   "https://stopgame.ru/newsdata/73557/po_motivam_beguschego_po_lezviyu_hotyat_vypustit_aaa_igru",
-  "title:По мотивам «Бегущего по лезвию» хотят выпустить AAA-игру"
+  "title:По мотивам «Бегущего по лезвию» хотят выпустить AAA-игру",
+  "skip:https://www.playground.ru/misc/news/dzhejmi_dornan_zakonchil_rabotu_nad_ohotoj_na_golluma_viggo_mortensen_uzhe_videl_ego_v_roli_aragorna-1892115#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/gta_6/news/gta_6_mogla_sobrat_okolo_20_millionov_predzakazov_i_zarabotat_bolee_1_6_mlrd_eschyo_do_vyhoda-1892104#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/gta-6-estimated-to-have-reached-20-million-preorders-ahead-of-launch",
+  "skip:https://www.ign.com/articles/streamer-loses-11-hours-of-gta-6-progress-gets-swatted-immediately-afterwards",
+  "skip:https://www.igromania.ru/news/170072/ispolnitel-roli-aragorna-zakonchil-rabotu-nad-filmom-vlastelin-kolets-ohota-za-gollumom/",
+  "https://www.pcgamer.com/games/strategy/over-an-hour-of-new-total-war-warhammer-40-000-campaign-footage-shows-gear-customization-fleet-mechanics-and-emphasizes-space-marines-are-not-always-trusted-and-hard-to-replace/",
+  "title:Over an hour of new Total War: Warhammer 40,000 campaign footage shows gear customization, fleet mechanics, and emphasizes space marines are not alway"
 ]

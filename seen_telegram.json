@@ -1,9 +1,4 @@
 [
-  "https://www.kinonews.ru/news_144047/",
-  "title:Билл Скарсгард предложил снять нового \"Константина\" вместе с режиссером \"Оно\"",
-  "https://www.kinonews.ru/news_144048/",
-  "title:Режиссер \"Голодных игр\" предложил снять новый приквел о Плутархе Хевенсби",
-  "skip:https://www.ign.com/articles/mass-effect-cast-celebrates-n7-day-with-video-asking-fans-to-help-save-the-franchise",
   "https://gamemag.ru/news/202018/s-yubileem-gears-of-war-ispolnilos-20-let",
   "video:2026-11-08:https://gamemag.ru/news/202018/s-yubileem-gears-of-war-ispolnilos-20-let",
   "title:С юбилеем: Gears of War исполнилось 20 лет",
@@ -998,5 +993,10 @@
   "skip:https://www.film.ru/news/deni-vilnyov-o-dyune-3",
   "https://kg-portal.ru/comments/135847-samyj-bolshoj-sjurpriz-mstitelej-doktor-dum-vozvraschenie-roberta-daunimladshego/",
   "video:2026-11-19:https://kg-portal.ru/comments/135847-samyj-bolshoj-sjurpriz-mstitelej-doktor-dum-vozvraschenie-roberta-daunimladshego/",
-  "title:Самый большой сюрприз \"Мстителей: Доктор Дум\": возвращение Роберта Дауни-младшего"
+  "title:Самый большой сюрприз \"Мстителей: Доктор Дум\": возвращение Роберта Дауни-младшего",
+  "skip:https://variety.com/2026/film/global/youtube-government-request-remove-russell-brand-video-investigate-1236952944/",
+  "skip:https://www.kinonews.ru/news_144217/",
+  "skip:https://www.film.ru/news/novyy-treyler-iskusstvennogo-intellekta",
+  "https://www.kinonews.ru/news_144219/",
+  "title:Создатель хоррора \"Прочь\" Джордан Пил может вернуть Фредди Крюгера"
 ]

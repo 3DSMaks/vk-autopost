@@ -1,9 +1,4 @@
 [
-  "title:В GTA 6 будет 55 трофеев на релизе - все они предназначены для одиночного режима",
-  "skip:https://www.kinonews.ru/news_144045/",
-  "skip:https://kg-portal.ru/comments/135707-godzilla-minus-nol-zarabatyvaet-v-amerikanskom-prokate-zametno-bolshe-pervogo-filma/",
-  "https://www.kinonews.ru/news_144046/",
-  "title:Студия Paramount отложила премьеру нового \"Паранормального явления\"",
   "https://www.kinonews.ru/news_144047/",
   "title:Билл Скарсгард предложил снять нового \"Константина\" вместе с режиссером \"Оно\"",
   "skip:https://www.igromania.ru/news/169792/ubisoft-gotovit-dve-novyie-assassins-creed-v-tom-chisle-v-drevnem-rime/",
@@ -998,5 +993,10 @@
   "title:Разработчики Stellar Blade: Blood Rain создают новые механики боя и мегаполис с настоящей живой толпой",
   "skip:https://www.igromania.ru/news/170074/dlya-uluchsheniya-proizvoditelnosti-gta-6-na-xbox-series-s-ispolzovali-tehnologiyu-amd/",
   "https://www.igromania.ru/news/170075/razrabotchiki-gta-6-namerenno-otkazalis-ot-mini-igr-v-polzu-kachalki/",
-  "title:Разработчики GTA 6 намеренно отказались от мини-игр в пользу качалки"
+  "title:Разработчики GTA 6 намеренно отказались от мини-игр в пользу качалки",
+  "skip:https://www.playground.ru/dreadmoor/news/dreadmoor_prodalas_tirazhom_bolee_100_tysyach_kopij_za_desyat_dnej_razrabotchiki_uzhe_vypustili_sem_patchej-1892110#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/mega_man_dual_override/news/razrabotchiki_mega_man_dual_override_pokazali_shestogo_bossa_igry_robomastera_boat_man-1892091#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/170071/lavkraftovskoe-priklyuchenie-dreadmoor-rossijskih-razrabotchikov-privleklo-bolee-100-000-igrokov/",
+  "https://stopgame.ru/newsdata/73557/po_motivam_beguschego_po_lezviyu_hotyat_vypustit_aaa_igru",
+  "title:По мотивам «Бегущего по лезвию» хотят выпустить AAA-игру"
 ]

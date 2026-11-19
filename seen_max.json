@@ -1,7 +1,4 @@
 [
-  "https://variety.com/2026/film/box-office/box-office-godzilla-minus-zero-cat-in-the-hat-1236942032/",
-  "title:Box Office: ‘Godzilla Minus Zero’ Dominates With $14.5 Million on Friday as ‘Cat in the Hat’ Follows With $6 Million",
-  "skip:https://gamemag.ru/news/202011/other-worlds-a-stranger-things-adventure-announcement",
   "skip:https://www.igromania.ru/news/169784/spin-off-ochen-strannyih-del-poluchil-pervyij-tizer-novyie-geroi-i-zlodei-zhdut-nas-v-2028-godu/",
   "skip:https://stopgame.ru/newsdata/73414/owlcat_pomenyala_aktera_ozvuchki_dlya_muzhskogo_protagonista_the_expanse_osiris_reborn",
   "https://www.playground.ru/misc/news/po_dannym_insajdera_ubisoft_razrabatyvaet_dve_novye_assassins_creed_odna_iz_nih_otpravit_igrokov_v_drevnij_rim-1888656#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +995,8 @@
   "title:Фильм \"Трансформеры 8\" перепишет историю франшизы",
   "skip:https://www.film.ru/news/deni-vilnyov-o-dyune-3",
   "https://www.film.ru/news/kris-pratt-budet-puteshestvovat-vo-vremeni",
-  "title:Крис Пратт будет путешествовать во времени"
+  "title:Крис Пратт будет путешествовать во времени",
+  "skip:https://variety.com/2026/film/columns/gemma-chan-play-bond-girl-fan-casting-1236952719/",
+  "https://www.kinonews.ru/news_144222/",
+  "title:Netflix экранизирует культовый комикс \"Грендель\""
 ]

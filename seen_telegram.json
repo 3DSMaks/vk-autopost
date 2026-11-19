@@ -1,9 +1,4 @@
 [
-  "https://gamemag.ru/news/202018/s-yubileem-gears-of-war-ispolnilos-20-let",
-  "video:2026-11-08:https://gamemag.ru/news/202018/s-yubileem-gears-of-war-ispolnilos-20-let",
-  "title:С юбилеем: Gears of War исполнилось 20 лет",
-  "skip:https://deadline.com/2026/11/our-blues-midnight-diner-taicca-joint-venture-funds-1237216640/",
-  "https://www.kinonews.ru/news_144045/",
   "title:Disney снимет фильм о Медузе Горгоне при участии Дуэйна Джонсона",
   "skip:https://www.film.ru/news/rezhisser-golodnyh-igr-predlozhil-ideyu-dlya-novoy-chasti",
   "skip:https://www.film.ru/news/disney-razrabatyvaet-igrovoy-film-o-meduze",
@@ -998,5 +993,10 @@
   "skip:https://www.kinonews.ru/news_144217/",
   "skip:https://www.film.ru/news/novyy-treyler-iskusstvennogo-intellekta",
   "https://www.kinonews.ru/news_144219/",
-  "title:Создатель хоррора \"Прочь\" Джордан Пил может вернуть Фредди Крюгера"
+  "title:Создатель хоррора \"Прочь\" Джордан Пил может вернуть Фредди Крюгера",
+  "skip:https://www.playground.ru/gta_6/news/burger_king_vypustila_burger_heartwhopper_v_chest_gta_6_parodiruya_igrovoe_menyu_burger_shot-1892093#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/burger-king-parodies-gtas-heart-stopper-burger-with-real-life-7-patty-heartwhopper",
+  "skip:https://stopgame.ru/newsdata/73551/build_a_rocket_boy_podaet_v_sud_na_sabotazhnikov_radi_pogasheniya_dolgov",
+  "https://gamemag.ru/news/202227/rockstar-says-ps5-pro-cant-handle-gta-6-at-60-fps",
+  "title:PlayStation 5 Pro не хватает мощности процессора для обеспечения 60 FPS в Grand Theft Auto VI"
 ]

@@ -1,12 +1,4 @@
 [
-  "title:Силы ПВО за день уничтожили более 140 украинских беспилотников над российскими регионами",
-  "skip:https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss",
-  "skip:https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-  "skip:https://news.google.com/rss/articles/CBMitwFBVV95cUxQWnJmVHNCR2NpOGp0dlZibjRKMHA2S0hJM21UQTlDUmpTdXJwekFtbWxwdGVEZDVSRm0tUjZyWHQ3dGZVSmdBQkdCMHgwS0E1MU1MczV4c0p1cjRZT2I0dFpvWEZQU3VDSXNPZ1hKZHhQenJ6RVNpbFhIUm5KeVFSdHgxNGx5U2dHd0hsanhrMW1vWEUybU9maXg0cUJNUlpzcnp6NG9LS25kcjllZ3REY0o3Z3R1blU?oc=5",
-  "https://www.kommersant.ru/doc/9111075",
-  "title:Совет директоров Nvidia не рассматривает возвращение Дженсена Хуанга на пост генерального директора",
-  "skip:https://www.aljazeera.com/news/2026/11/16/british-actor-robert-pattinson-named-as-new-james-bond?traffic_source=rss",
-  "skip:https://news.google.com/rss/articles/CBMingFBVV95cUxObllicENrQVpJdklkNVZHUnZ5cURLZ1gwU1N3WXZJRG5QNE9MTXJ0RU1VdEFQSWNadnFZRGxKT0pJcWMyWUhFYk5aRVFSbS16SjBrbVY4Y3c4VjZqdVJLQWtPM0M1aGZIUkFXaXE3QU9jUm1qdmV4TzBZQkFRLTBTQTJoODRVemdMeFhsMEJJeWFlODNvdnVfLWhmZFp4QQ?oc=5",
   "skip:https://www.france24.com/en/video/20261116-robert-pattinson-british-actor-will-be-the-next-james-bond",
   "https://www.rbc.ru/sport/16/11/2026/6afb2de9f34d3fcb13651b0a",
   "title:Роберт Паттинсон официально утвержден на роль нового Джеймса Бонда",
@@ -998,5 +990,13 @@
   "title:В результате атаки беспилотников в Саратовской области погибли шесть человек",
   "skip:https://www.theguardian.com/world/2026/nov/19/danish-mps-approve-greenland-security-pact-us",
   "https://www.rbc.ru/rbcfreenews/6afeccdfddeb025f95c2f1ca",
-  "title:Парламент Дании одобрил оборонное соглашение с США и Гренландией"
+  "title:Парламент Дании одобрил оборонное соглашение с США и Гренландией",
+  "skip:https://www.kommersant.ru/doc/9113902",
+  "skip:https://www.interfax.ru/russia/1130178",
+  "https://www.rbc.ru/rbcfreenews/6afef8dea9872299930e175f",
+  "title:Возобновлено движение поездов по Крымскому мосту",
+  "skip:https://www.interfax.ru/russia/1130195",
+  "skip:https://www.kommersant.ru/doc/9113894",
+  "https://www.kommersant.ru/doc/9113918",
+  "title:В Кремле сообщили о завершающей стадии подготовки обмена пленными с Украиной"
 ]

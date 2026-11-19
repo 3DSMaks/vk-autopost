@@ -1,15 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9110030",
-  "skip:https://tass.ru/politika/28319583",
-  "https://tass.ru/politika/28319577",
-  "title:Сергей Шойгу прибыл с визитом в ОАЭ для переговоров",
-  "skip:https://ria.ru/20261115/khusity-2131721589.html",
-  "skip:https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ2NSdXVjeDlTU0lLeTAtMGs5RmdHaW0wTVhVbzUwempOYUdlNVB3NXprMGZqYksyVjhLUU1OV250QlczemJOT2tXcVFIZEJYb0dwblVCblExbnFmZkVyeGZnZ0NJY3Z3a3NTcmxUQ21tR0ZsQVdhTTNRNWJaZW5pOEk4RDNEMXN3aExOaEE0QVNzaXV3UTM3ZjlNa2hDenRtajR2aGVGT3RQR0NOSnY1VHQ3czdCSkJWSUgxaFFYNThEUlBBMVpn?oc=5",
-  "https://tass.ru/mezhdunarodnaya-panorama/28319563",
-  "title:Йеменские хуситы заявили об ударе по аэропорту и финансовому центру в Эр-Рияде",
-  "skip:https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss",
-  "skip:https://www.france24.com/en/europe/20261115-estonia-to-close-russian-border-crossings-after-sabotage-attempt-at-drone-factory",
-  "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
   "title:Эстония объявила о закрытии границы с Россией с 1 декабря после инцидента на оборонном предприятии",
   "skip:https://tass.ru/sport/28319599",
   "skip:https://www.sport-interfax.ru/1129159",
@@ -998,5 +987,16 @@
   "skip:https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss",
   "skip:https://news.google.com/rss/articles/CBMimwFBVV95cUxOZko0TjU0LUdSMUxlTkNVcnJsSThoSFo5Y2ZuamRVQ2tidnZQa2M5N1o0dlpndmptSGxNTGhYYS1IUXVKMjZibjFPcWVURHJRaHNfclhIMHlSVFdIN3VkZUxFVEo5Z1JoZFR0bkdHOUd1UUNuNXRCVDBKUlhPaGItcmVfY09NQ1U5WmhHYzRNZHdtWDVVay1JalhlNA?oc=5",
   "https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss",
-  "title:Владимир Путин, Дональд Трамп и Си Цзиньпин проведут встречу на саммите АТЭС"
+  "title:Владимир Путин, Дональд Трамп и Си Цзиньпин проведут встречу на саммите АТЭС",
+  "skip:https://ria.ru/20261119/putin-2132608981.html",
+  "skip:https://tass.ru/politika/28333995",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28333933",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28333911",
+  "https://www.rbc.ru/rbcfreenews/6afeac663bcf696184fe9c8a",
+  "title:Владимир Путин, Дональд Трамп и Си Цзиньпин прибыли на трехстороннюю встречу в Шэньчжэне",
+  "skip:https://www.rbc.ru/business/19/11/2026/6afea8a34fb5f4ca86eae7af",
+  "skip:https://www.interfax.ru/business/1130048",
+  "skip:https://news.google.com/rss/articles/CBMivAFBVV95cUxQaGZUYzFFb2VhOHFpSUJ2aWg2WVltWkFKeTR0TVF1NHcwSzZZc205alNQdjlpdWNxYkFLQ2hkZ0l0QzlXNllaYTdZSjdKNmFvY1dSMEZhc0RPVkNnNVlPeFZYUEoyeW5OYkVrZDRyMTJvblVQeG1DdDIzdHRtMFpxM3ZfdWZ0c0xtWHdfeWtRSVZVaFN6c1JRVHRsZ1dIeG90cXhEZmZBSVBEWmVidm9SOFRlMWhHNFA5MTZNQw?oc=5",
+  "https://www.kommersant.ru/doc/9113389",
+  "title:Japan Tobacco спишет $8,9 млрд из-за потери контроля над российскими активами"
 ]

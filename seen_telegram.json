@@ -1,12 +1,4 @@
 [
-  "https://www.film.ru/news/chetvertyy-sezon-nikto-etogo-ne-hochet",
-  "title:Четвертый сезон Никто этого не хочет",
-  "https://deadline.com/2026/11/magenta-tv-brothers-cyprus-thessaloniki-1237216243/",
-  "title:Magenta TV’s Cypriot-Set Thriller ‘Brothers’ Wasn’t Allowed To Shoot In The Country. The Producers Explain Why: “The Reasons Were Political”",
-  "skip:https://gamemag.ru/news/202021/sozdateli-the-expanse-osiris-reborn-zanyalis-rebrendingom-glavnogo-geroya",
-  "skip:https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-releases-his-re-scored-trailer-for-n7-day-my-way-of-saying-goodbye-at-least-for-now/",
-  "skip:https://www.pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff/",
-  "skip:https://www.igromania.ru/news/169790/studiya-sozdatelej-star-wars-zero-company-sokratila-shtat-posle-nedavnego-vozvrascheniya-sotrudnikov/",
   "skip:https://stopgame.ru/newsdata/73415/live_action_trailer_k_zapusku_stellar_blade_na_switch_2",
   "skip:https://stopgame.ru/newsdata/73414/owlcat_pomenyala_aktera_ozvuchki_dlya_muzhskogo_protagonista_the_expanse_osiris_reborn",
   "https://gamemag.ru/news/202014/final-fantasys-yoshinori-kitase-doesnt-rule-out-more-remakes",
@@ -998,5 +990,13 @@
   "skip:https://www.ign.com/articles/ive-played-the-first-30-minutes-of-gta-6-on-every-console-heres-how-performance-compares",
   "skip:https://www.ign.com/articles/clair-obscur-expedition-33-lead-writer-left-sandfall",
   "https://stopgame.ru/newsdata/73557/po_motivam_beguschego_po_lezviyu_hotyat_vypustit_aaa_igru",
-  "title:По мотивам «Бегущего по лезвию» хотят выпустить AAA-игру"
+  "title:По мотивам «Бегущего по лезвию» хотят выпустить AAA-игру",
+  "skip:https://www.playground.ru/gta_6/news/pochti_100_chasov_v_gta_6_na_ps5_ubedili_zhurnalista_pc_gamer_nastoyaschaya_svoboda_i_udovolstvie_ot_igry_nachnyotsya_na_pk-1892049#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-lead-writer-left-sandfall-interactive-last-summer-weve-parted-ways/",
+  "skip:https://gamemag.ru/news/202222/clair-obscurs-narrative-lead-has-left-developer-sandfall-interactive",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/i-finished-gta-6s-main-story-ask-me-anything-except-for-major-spoilers/",
+  "skip:https://gamemag.ru/news/202216/jason-movie-premiere-date-2027",
+  "skip:https://stopgame.ru/newsdata/73554/veduschaya_scenaristka_expedition_33_pokinula_komandu_sandfall_interactive",
+  "https://stopgame.ru/newsdata/73556/v_counter_strike_2_vernulas_karta_cobblestone",
+  "title:В Counter-Strike 2 вернулась карта Cobblestone"
 ]

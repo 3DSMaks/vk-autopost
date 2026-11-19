@@ -1,10 +1,4 @@
 [
-  "title:Генпрокуратура Калифорнии подала иск против OpenAI из-за разработки опасных моделей ИИ",
-  "skip:https://tass.ru/sport/28323937",
-  "https://ria.ru/20261117/liga-natsiy-2131996987.html",
-  "title:Сборная Германии разгромила команду Нидерландов в матче Лиги наций со счетом 5:0",
-  "skip:https://tass.ru/sport/28323947",
-  "https://www.aljazeera.com/sports/2026/11/16/germany-thrash-netherlands-to-book-quarterfinal-spot?traffic_source=rss",
   "title:Сборная Германии разгромила команду Нидерландов в матче Лиги наций",
   "skip:https://www.france24.com/en/tv-shows/truth-or-fake/20261116-november-17-blackout-hoax-how-a-conspiracy-theory-went-viral-around-the-world",
   "https://ria.ru/20261117/ssha-2132000246.html",
@@ -998,5 +992,11 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28337519",
   "skip:https://ria.ru/20261119/tramp-2132834945.html",
   "https://www.interfax.ru/world/1130281",
-  "title:Дональд Трамп заявил о намерении встретиться с лидером КНДР в будущем"
+  "title:Дональд Трамп заявил о намерении встретиться с лидером КНДР в будущем",
+  "skip:https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss",
+  "https://www.interfax.ru/world/1130283",
+  "title:Война против Ирана обошлась вооруженным силам США более чем в $48 млрд",
+  "skip:https://news.google.com/rss/articles/CBMivwFBVV95cUxPdXNreldUaXJvV194SFcxMDRWWlpSeldPQ1ZzOVhsTHFydF9OX0haUXRLRTNoZVZTUGphWmNiM1Q3NHJsRTdPZlFuUXdkWVVMcXNhOXhWLWJyLUhhV0pxYU9TYkxTbnp0SUtFaW9ISVYySWJQUEtYVURkeWhEQjVlSGdwaGdrNHp0WDlsczFjQ2M4RWxBV0diRnF2QnZ1Rjc3OUVxamd4R2c2d00tQ1l2MC1KMjVYYzlWNzdUaVYwSQ?oc=5",
+  "https://www.aljazeera.com/economy/2026/11/19/trumps-case-against-nyt-and-penguin-random-house-may-proceed-judge?traffic_source=rss",
+  "title:Суд разрешил продолжить рассмотрение иска Дональда Трампа против New York Times"
 ]

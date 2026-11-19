@@ -353,5 +353,9 @@
   "skip:https://stopgame.ru/newsdata/73553/gta_vi_nakonec_vyshla_chto_nuzhno_znat_o_dolgozhdannom_prodolzhenii_serii",
   "skip:https://www.playground.ru/gta_6/news/gta_vi_sobrala_7_6_mln_odnovremennyh_zritelej_na_twitch_youtube_i_kick_i_pobila_rekord_strimingovyh_zapuskov-1891931#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.igromania.ru/news/170051/grand-theft-auto-vi-vyishla-na-ps5-i-xbox-series/",
-  "title:Grand Theft Auto VI вышла на PS5 и Xbox Series"
+  "title:Grand Theft Auto VI вышла на PS5 и Xbox Series",
+  "skip:https://www.playground.ru/gta_6/news/maloveroyatno_chto_gta_6_budet_rabotat_pri_60_fps_na_bolshinstve_pk_schitaet_insajder_kepler-1891979#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/rockstar-says-a-ps5-pro-is-simply-not-powerful-enough-for-60-fps-gta-6-as-i-crack-a-smile-at-my-5090/",
+  "https://gamemag.ru/news/202220/rockstar-explains-why-gta-6-doesnt-have-a-40-fps-mode",
+  "title:Rockstar Games объяснила, почему Grand Theft Auto VI для PlayStation 5 и Xbox Series X|S ограничена 30 FPS"
 ]

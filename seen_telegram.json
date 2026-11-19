@@ -1,9 +1,4 @@
 [
-  "title:Disney снимет фильм о Медузе Горгоне при участии Дуэйна Джонсона",
-  "skip:https://www.film.ru/news/rezhisser-golodnyh-igr-predlozhil-ideyu-dlya-novoy-chasti",
-  "skip:https://www.film.ru/news/disney-razrabatyvaet-igrovoy-film-o-meduze",
-  "skip:https://www.film.ru/news/multfilm-po-sumerkam-poluchit-srazu-dva-sezona",
-  "https://www.kinonews.ru/news_144046/",
   "title:Студия Paramount отложила премьеру нового \"Паранормального явления\"",
   "https://deadline.com/2026/11/emma-stone-joins-druski-snl-debut-opening-monologue-1237216552/",
   "video:2026-11-08:https://deadline.com/2026/11/emma-stone-joins-druski-snl-debut-opening-monologue-1237216552/",
@@ -998,5 +993,10 @@
   "skip:https://www.ign.com/articles/burger-king-parodies-gtas-heart-stopper-burger-with-real-life-7-patty-heartwhopper",
   "skip:https://stopgame.ru/newsdata/73551/build_a_rocket_boy_podaet_v_sud_na_sabotazhnikov_radi_pogasheniya_dolgov",
   "https://gamemag.ru/news/202227/rockstar-says-ps5-pro-cant-handle-gta-6-at-60-fps",
-  "title:PlayStation 5 Pro не хватает мощности процессора для обеспечения 60 FPS в Grand Theft Auto VI"
+  "title:PlayStation 5 Pro не хватает мощности процессора для обеспечения 60 FPS в Grand Theft Auto VI",
+  "skip:https://www.kinonews.ru/news_144207/",
+  "skip:https://www.kinonews.ru/article_144206/",
+  "skip:https://kg-portal.ru/comments/135844-vin-dizel-sygraet-kladbischenskogo-storozha-s-temnym-proshlym-v-boevike-kotoryj-zamenit-emu-forsazh/",
+  "https://www.film.ru/news/gde-smotret-bayopik-medden",
+  "title:Где смотреть байопик «Мэдден»"
 ]

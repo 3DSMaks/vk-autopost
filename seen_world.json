@@ -1,9 +1,4 @@
 [
-  "skip:https://tass.ru/sport/28319547",
-  "skip:https://tass.ru/sport/28319545",
-  "skip:https://ria.ru/20261115/khokkey-2131720182.html",
-  "https://www.kommersant.ru/doc/9110020",
-  "title:Сборную России по хоккею не допустили до молодежного чемпионата мира из-за позиции властей Канады",
   "skip:https://www.kommersant.ru/doc/9110019",
   "skip:https://ria.ru/20261115/pvo-2131720313.html",
   "skip:https://www.kommersant.ru/doc/9110017",
@@ -998,5 +993,10 @@
   "title:В аэропортах Самары, Ульяновска и Пензы введены временные ограничения на полеты",
   "skip:https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
   "https://tass.ru/obschestvo/28332667",
-  "title:Картина Винсента ван Гога продана на аукционе в Нью-Йорке за рекордные 190 миллионов долларов"
+  "title:Картина Винсента ван Гога продана на аукционе в Нью-Йорке за рекордные 190 миллионов долларов",
+  "skip:https://www.interfax.ru/world/1129970",
+  "skip:https://ria.ru/20261119/tramp-2132534885.html",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28332689",
+  "https://www.rbc.ru/politics/19/11/2026/6afe4ee3d566402516c473fc",
+  "title:Дональд Трамп допустил проведение ядерных инспекций в США, России и Китае"
 ]

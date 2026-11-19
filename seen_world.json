@@ -1,14 +1,4 @@
 [
-  "skip:https://ria.ru/20261117/razvozhaev-2132004317.html",
-  "skip:https://www.rbc.ru/politics/17/11/2026/6afb6efe58aa438c18cdde23",
-  "https://www.kommersant.ru/doc/9111152",
-  "title:ВСУ предприняли новую атаку на Крымский мост, движение транспорта перекрыто",
-  "skip:https://ria.ru/20261117/moskva-2132005638.html",
-  "skip:https://www.kommersant.ru/doc/9111153",
-  "skip:https://www.interfax.ru/moscow/1129427",
-  "skip:https://ria.ru/20261117/moskva-2132004493.html",
-  "skip:https://tass.ru/proisshestviya/28324057",
-  "skip:https://www.interfax.ru/moscow/1129426",
   "skip:https://ria.ru/20261117/moskva-2132003517.html",
   "skip:https://ria.ru/20261117/moskva-2132002524.html",
   "skip:https://www.interfax.ru/moscow/1129422",
@@ -998,5 +988,15 @@
   "skip:https://ria.ru/20261120/kirill-2132843471.html",
   "skip:https://ria.ru/20261120/patriarkh-2132775393.html",
   "https://www.interfax.ru/russia/1130285",
-  "title:Патриарх Московский и всея Руси Кирилл отмечает 80-летие"
+  "title:Патриарх Московский и всея Руси Кирилл отмечает 80-летие",
+  "skip:https://www.rbc.ru/rbcfreenews/6aff7b53ad17fa2c9731d174",
+  "skip:https://ria.ru/20261120/putin-2132846429.html",
+  "skip:https://tass.ru/politika/28337719",
+  "skip:https://www.interfax.ru/russia/1130287",
+  "https://www.kommersant.ru/doc/9114227",
+  "title:Владимир Путин прибыл с рабочим визитом в Таджикистан",
+  "skip:https://news.google.com/rss/articles/CBMiowFBVV95cUxOWHRFWmFPaG84TkVfc09hMmJxUl84NldFS0JRVzVuU0dnV3ZOUFlIcUVQR1hWclZQMGd2ZjExanJaNTZ6dDByc3RqalBHZkFCUGI5aExWYU1rUG1xc3JsMVpETkdnWFFkc09DZUU5dHJ2RUppbEtuZktERWdGNk5ER19zQXpOaWdGcTlFZ0MxZlg0emRjcnpHSnN0Z1YyMWl4UFh3?oc=5",
+  "skip:https://news.google.com/rss/articles/CBMilgFBVV95cUxPSjhuZXowVzdHMnhkQm1TbWotUlpJeVdXcnZYSklCX3lJM0VEUHJJaXRUQVU0YlpGRGFjc3JuUkdZRTZaMlE3dG4wWkx4MWdCSUNhTkJGeXgxQTlydC05MGUzS0JMem13eGpXQXZERXZLaW5jalNtMjdOMWM4UlZveDlEQkhuOGZBSlAxQjc3NXdsNlNTb1E?oc=5",
+  "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
+  "title:Дональд Трамп посмертно помиловал легенду бейсбола Пита Роуза"
 ]

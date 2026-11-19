@@ -1,10 +1,4 @@
 [
-  "skip:https://www.interfax.ru/moscow/1129391",
-  "skip:https://www.interfax.ru/moscow/1129387",
-  "skip:https://www.interfax.ru/russia/1129386",
-  "skip:https://ria.ru/20261116/pvo-2131964986.html",
-  "skip:https://tass.ru/proisshestviya/28323485",
-  "https://www.kommersant.ru/doc/9111073",
   "title:Силы ПВО за день уничтожили более 140 украинских беспилотников над российскими регионами",
   "skip:https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss",
   "skip:https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
@@ -998,5 +992,11 @@
   "skip:https://news.google.com/rss/articles/CBMimwFBVV95cUxNUGx4TzFaSGk2N3lyTXBVRkEtazdmRjNrcy1TZzN1M2dLNlJEZlRDRFY5cXlKT2s0a09fc05FYW9DT3pFeUd0d0VaaVJtRmkzbFBpcWZ0RnVFQUFjUFFCZVBNVlNPUHNZaGs0ZVkyMDdiXzhubDJmUFBIZVNnbkxCLWNMbmJvQUcxTGtqLTB5M1F1YUdvMFRGZjNsMA?oc=5",
   "skip:https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
   "https://www.aljazeera.com/video/newsfeed/2026/11/19/icj-rules-myanmar-committed-genocide-against-the-rohingya?traffic_source=rss",
-  "title:Суд ООН признал власти Мьянмы виновными в геноциде рохинджа"
+  "title:Суд ООН признал власти Мьянмы виновными в геноциде рохинджа",
+  "skip:https://ria.ru/20261119/ataka-2132737267.html",
+  "https://www.interfax.ru/russia/1130183",
+  "title:В результате атаки беспилотников в Саратовской области погибли шесть человек",
+  "skip:https://www.theguardian.com/world/2026/nov/19/danish-mps-approve-greenland-security-pact-us",
+  "https://www.rbc.ru/rbcfreenews/6afeccdfddeb025f95c2f1ca",
+  "title:Парламент Дании одобрил оборонное соглашение с США и Гренландией"
 ]

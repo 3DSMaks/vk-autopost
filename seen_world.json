@@ -1,8 +1,4 @@
 [
-  "title:Сборная Германии разгромила команду Нидерландов в матче Лиги наций",
-  "skip:https://www.france24.com/en/tv-shows/truth-or-fake/20261116-november-17-blackout-hoax-how-a-conspiracy-theory-went-viral-around-the-world",
-  "https://ria.ru/20261117/ssha-2132000246.html",
-  "title:Власти США опровергли слухи о грядущем всемирном блэкауте",
   "skip:https://ria.ru/20261117/krymskiy-2132001270.html",
   "skip:https://www.interfax.ru/russia/1129420",
   "skip:https://tass.ru/proisshestviya/28323993",
@@ -998,5 +994,9 @@
   "title:Война против Ирана обошлась вооруженным силам США более чем в $48 млрд",
   "skip:https://news.google.com/rss/articles/CBMivwFBVV95cUxPdXNreldUaXJvV194SFcxMDRWWlpSeldPQ1ZzOVhsTHFydF9OX0haUXRLRTNoZVZTUGphWmNiM1Q3NHJsRTdPZlFuUXdkWVVMcXNhOXhWLWJyLUhhV0pxYU9TYkxTbnp0SUtFaW9ISVYySWJQUEtYVURkeWhEQjVlSGdwaGdrNHp0WDlsczFjQ2M4RWxBV0diRnF2QnZ1Rjc3OUVxamd4R2c2d00tQ1l2MC1KMjVYYzlWNzdUaVYwSQ?oc=5",
   "https://www.aljazeera.com/economy/2026/11/19/trumps-case-against-nyt-and-penguin-random-house-may-proceed-judge?traffic_source=rss",
-  "title:Суд разрешил продолжить рассмотрение иска Дональда Трампа против New York Times"
+  "title:Суд разрешил продолжить рассмотрение иска Дональда Трампа против New York Times",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28337619",
+  "skip:https://ria.ru/20261119/tramp-2132838635.html",
+  "https://www.kommersant.ru/doc/9114209",
+  "title:Дональд Трамп призвал лидеров стран Европы напрямую общаться с президентом России Владимиром Путиным"
 ]

@@ -1,8 +1,4 @@
 [
-  "title:Emmy Rossum On RAINN Ambassadorship, “Continuing The Conversation” About Sexual Violence After ‘Furious’ Role",
-  "https://deadline.com/2026/11/christopher-nolan-dga-holding-studios-account-protecting-ai-1237216368/",
-  "title:Christopher Nolan On DGA “Holding The Studios To Account” In Protecting Copyright From AI, Including Anti-AI Boilerplate In ‘The Odyssey’",
-  "skip:https://www.igromania.ru/news/169796/v-gta-6-budet-55-dostizhenij-na-konsolyah/",
   "https://www.igromania.ru/news/169795/chislo-igrokov-death-stranding-i-death-stranding-2-prevyisilo-28-millionov/",
   "title:Число игроков Death Stranding и Death Stranding 2 превысило 28 миллионов",
   "skip:https://www.film.ru/news/novuyu-chast-paranormalnogo-yavleniya-perenesli",
@@ -998,5 +994,9 @@
   "skip:https://www.film.ru/news/kakimi-budut-transformery-8",
   "skip:https://kg-portal.ru/comments/135854-solovej-trejler/",
   "https://www.film.ru/news/unesennyh-prizrakami-pokazhut-v-rossii",
-  "title:«Унесенных призраками» покажут в России"
+  "title:«Унесенных призраками» покажут в России",
+  "skip:https://gamemag.ru/news/202229/gta-6-estimated-to-have-reached-20-million-preorders-ahead-of-launch",
+  "skip:https://stopgame.ru/newsdata/73565/crimson_desert_pobedila_v_vosmi_nominaciyah_na_korea_game_awards_2026",
+  "https://www.ign.com/articles/resident-evil-requiem-black-friday-deal",
+  "title:Resident Evil Requiem Drops to $40 in Amazon’s Black Friday Sale, Hitting New Low Price"
 ]

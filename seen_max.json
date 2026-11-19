@@ -1,8 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/mass-effect-cast-celebrates-n7-day-with-video-asking-fans-to-help-save-the-franchise",
-  "skip:https://www.igromania.ru/news/169787/sozdateli-wardogs-posle-neudach-2-go-sezona-gotovyatsya-k-zapusku-3-go-s-12-noyabrya-i-banyat-chiterov/",
-  "https://www.playground.ru/mass_effect_trilogy/news/kooperativnyj_multipleer_mass_effect_3_vernulsya_v_legendary_edition_blagodarya_masshtabnomu_modu-1888692#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Кооперативный мультиплеер Mass Effect 3 вернулся в Legendary Edition благодаря масштабному моду",
   "skip:https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/glava_moon_studios_raskritikoval_gejmdizajn_remejka_ocarina_of_time_i_otsenki_pressy-1888738#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.ign.com/articles/bioware-may-be-dead-but-a-modder-has-rebuilt-mass-effect-3s-multiplayer-into-the-legendary-edition",
   "https://www.playground.ru/gta_6/news/v_gta_6_budet_55_trofeev_na_relize_vse_oni_prednaznacheny_dlya_odinochnogo_rezhima-1888746#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +994,9 @@
   "title:Создатель хоррора \"Прочь\" Джордан Пил может вернуть Фредди Крюгера",
   "skip:https://www.film.ru/news/novyy-treyler-iskusstvennogo-intellekta",
   "https://kg-portal.ru/comments/135851-dzhon-travolta-dvazhdy-otkazalsja-ot-bez-lica-2-potomu-chto-sikvel-vo-vsem-proigryval-originalu/",
-  "title:Джон Траволта дважды отказался от \"Без лица 2\", потому что сиквел во всём проигрывал оригиналу"
+  "title:Джон Траволта дважды отказался от \"Без лица 2\", потому что сиквел во всём проигрывал оригиналу",
+  "skip:https://www.playground.ru/gta_6/news/burger_king_vypustila_burger_heartwhopper_v_chest_gta_6_parodiruya_igrovoe_menyu_burger_shot-1892093#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/burger-king-parodies-gtas-heart-stopper-burger-with-real-life-7-patty-heartwhopper",
+  "https://www.playground.ru/stellar_blade_2/news/razrabotchiki_stellar_blade_blood_rain_sozdayut_novye_mehaniki_boya_i_megapolis_s_nastoyaschej_zhivoj_tolpoj-1892088#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Разработчики Stellar Blade: Blood Rain создают новые механики боя и мегаполис с настоящей живой толпой"
 ]

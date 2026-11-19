@@ -1,11 +1,4 @@
 [
-  "skip:https://ria.ru/20261116/pvo-2131991141.html",
-  "https://www.rbc.ru/rbcfreenews/6afb6edd46b23bd6b11f61fc",
-  "title:Силы ПВО отразили массированную атаку сотен беспилотников на Москву",
-  "skip:https://tass.ru/ekonomika/28323925",
-  "skip:https://ria.ru/20261116/sheremetevo-2131992295.html",
-  "skip:https://tass.ru/ekonomika/28323867",
-  "skip:https://www.interfax.ru/moscow/1129408",
   "skip:https://ria.ru/20261116/sheremetevo-2131991242.html",
   "skip:https://tass.ru/ekonomika/28323849",
   "skip:https://tass.ru/ekonomika/28323837",
@@ -998,5 +991,12 @@
   "skip:https://www.rbc.ru/rbcfreenews/6aff3a19a397dd98670cbb15",
   "skip:https://www.kommersant.ru/doc/9114164",
   "https://ria.ru/20261119/eks-deputaty-2132828769.html",
-  "title:В Курской области задержали экс-депутатов по делу о фортификационных сооружениях"
+  "title:В Курской области задержали экс-депутатов по делу о фортификационных сооружениях",
+  "skip:https://www.interfax.ru/world/1130276",
+  "https://ria.ru/20261119/polsha-2132834155.html",
+  "title:Премьер-министр Польши Дональд Туск заявил, что страна не будет направлять военных на Украину",
+  "skip:https://news.google.com/rss/articles/CBMisgFBVV95cUxNQkkzQVk3M3pnOXRWVlFCMmVzUEN0alhCS0gzQUhYNkhCMDhCOUM0N0tmMFpZNVNKcnVNbktaYXV5MV9ERm13WHoxTEVtUGRMUkZwT3dJZmlRZ2pyRE1WMGoyZW1VcXVWdTVRTmxZV1RISHNXWE9YY1BUUC1EWlJWRWRsYzlGTXo0WmhjaUxiUnAyMDl2OU9mWmliYndLd0htWGVLYWFUUldMOUIzLV9TSnBB?oc=5",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28337407",
+  "https://www.interfax.ru/world/1130275",
+  "title:Дональд Трамп заявил, что ситуация вокруг Ирана не требует спешных действий и следует дождаться начала 2027 года"
 ]

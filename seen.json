@@ -1,10 +1,4 @@
 [
-  "skip:https://deadline.com/2026/11/sony-q2-earnings-spider-man-brand-new-day-1237214122/",
-  "skip:https://variety.com/2026/film/news/sony-pictures-earnings-spider-man-brand-new-day-1236939997/",
-  "skip:https://www.film.ru/news/vyshel-pervyy-tizer-oruzheynogo-barona-2",
-  "skip:https://www.film.ru/news/novyy-film-o-dzhone-konstantine",
-  "skip:https://kg-portal.ru/comments/135666-kianu-rivz-ischezaet-nad-novoj-ekranizaciej-konstantina-rabotaet-rezhisser-zloveschih-mertvecov/",
-  "skip:https://deadline.com/2026/11/chicago-fire-joe-minoso-exit-interview-1237213901/",
   "skip:https://deadline.com/2026/11/joe-minoso-exit-cruz-chicago-fire-season-15-recap-1237211554/",
   "skip:https://kg-portal.ru/comments/135661-karta-poshla-zvezdu-ochen-strannyh-del-majju-houk-usilenno-zovut-v-ekranizaciju-magic-the-gathering/",
   "https://variety.com/2026/film/news/adam-driver-the-hunt-for-ben-solo-kylo-ren-1236939988/",
@@ -998,5 +992,11 @@
   "skip:https://deadline.com/2026/11/susan-sarandon-film-accompanist-us-deal-watermelon-pictures-1237229354/",
   "skip:https://variety.com/2026/film/global/bond-girl-lea-seydoux-dont-really-care-007-1236953369/",
   "https://variety.com/2026/film/news/serendipity-reboot-cast-aulii-cravalho-1236953411/",
-  "title:New ‘Serendipity’ Movie Casts Auli‘i Cravalho (EXCLUSIVE)"
+  "title:New ‘Serendipity’ Movie Casts Auli‘i Cravalho (EXCLUSIVE)",
+  "posted:2026-11-19T21:07:11+00:00",
+  "skip:https://deadline.com/2026/11/tendo-nagenda-ryan-coogler-proximity-media-1237228818/",
+  "skip:https://deadline.com/2026/11/the-odyssey-christopher-nolan-deleted-scenes-1237229494/",
+  "skip:https://www.kinonews.ru/news_144233/",
+  "https://deadline.com/2026/11/lilo-and-stitch-2-cast-jacob-batalon-teagan-meredith-1237229336/",
+  "title:Teagan Meredith & Jacob Batalon Join Disney’s ‘Lilo & Stitch 2’"
 ]

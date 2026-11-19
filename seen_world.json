@@ -1,9 +1,4 @@
 [
-  "https://tass.ru/mezhdunarodnaya-panorama/28323421",
-  "title:Марин Ле Пен заявила о намерении прекратить финансовую помощь Украине в случае избрания президентом",
-  "skip:https://www.interfax.ru/world/1129394",
-  "skip:https://www.interfax.ru/world/1129397",
-  "https://www.kommersant.ru/doc/9111108",
   "title:Спецпосланники США Кушнер и Уиткофф обсудили с помощником президента России Ушаковым подготовку к переговорам по Украине",
   "skip:https://www.rbc.ru/technology_and_media/16/11/2026/6afb51093f52ccac338ad3bf",
   "skip:https://ria.ru/20261116/banki-2131976827.html",
@@ -998,5 +993,10 @@
   "skip:https://ria.ru/20261119/gruziya-2132765876.html",
   "skip:https://ria.ru/20261119/rossiya-2132765742.html",
   "https://www.rbc.ru/politics/19/11/2026/6aff0455c6677490a3fa601b",
-  "title:Россия и Грузия возобновили прямой дипломатический диалог"
+  "title:Россия и Грузия возобновили прямой дипломатический диалог",
+  "skip:https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling",
+  "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+  "skip:https://www.theguardian.com/uk-news/2026/nov/19/men-convicted-sexual-assault-and-rape-woman-at-invitation-of-husband",
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVGVDYllRRjh6Y3htYVl1WEJoRkR0QkF1d0x1OFNyQnp0N0RjQTQ5V21pbXZGQTIyalJmR2VsZHFvMGJqMTlZRjFWbUhZb3hrN3J5M1VCN1lmVlh1c3ZFYXJrdHh5RkRrQm5TS1B6QzNtWm9rSUk4ZW1XSThzbXYwSmNsTGlib0JaUkhMZUxlWUhwVVktZmN1ckM1aHd1N0JmUVFtRGlaM0RWMUJhSmVBM0ZPUk43cURpQm13dDJR?oc=5",
+  "title:В Великобритании четверо мужчин осуждены за сексуальные преступления против женщины, которую поил наркотиками муж"
 ]

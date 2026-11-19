@@ -1,12 +1,4 @@
 [
-  "skip:https://www.france24.com/en/video/20261116-robert-pattinson-british-actor-will-be-the-next-james-bond",
-  "https://www.rbc.ru/sport/16/11/2026/6afb2de9f34d3fcb13651b0a",
-  "title:Роберт Паттинсон официально утвержден на роль нового Джеймса Бонда",
-  "skip:https://ria.ru/20261116/pvo-2131972739.html",
-  "skip:https://ria.ru/20261116/ataka-2131972214.html",
-  "skip:https://ria.ru/20261116/pvo-2131969604.html",
-  "https://www.rbc.ru/rbcfreenews/6afb473346b23bd6b11f61ab",
-  "title:Силы ПВО сбили более 70 беспилотников на подлете к Москве",
   "skip:https://ria.ru/20261116/sobyanin-2131976325.html",
   "skip:https://tass.ru/proisshestviya/28323617",
   "skip:https://www.interfax.ru/moscow/1129392",
@@ -998,5 +990,13 @@
   "skip:https://www.interfax.ru/russia/1130195",
   "skip:https://www.kommersant.ru/doc/9113894",
   "https://www.kommersant.ru/doc/9113918",
-  "title:В Кремле сообщили о завершающей стадии подготовки обмена пленными с Украиной"
+  "title:В Кремле сообщили о завершающей стадии подготовки обмена пленными с Украиной",
+  "skip:https://www.france24.com/en/their-lives-their-rights-their-history-not-the-end-of-accountability-for-the-rohingya-people",
+  "skip:https://ria.ru/20261119/putin-2132748442.html",
+  "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbzZlQXBMbFU3Qzl0M2E2b0tJZHVzejVGQXczQTUxaHJmV1ZMZ3dVTWFGRzhsT1ZvNmdMMVRQVlNyMnVmX1RoUWo4UmtCT2RSX3Y5Q0JjWm9paEtmbXhCLXM0bTR4aXg5eUQ2dWRSZGlaT09VWTF6Q3FuUHFMR0ZqSmc3UWdDRHc2OHpJNE9pX2FmZldBME1xc29YRENBQkE0ZGhORjlTWkpyMzBCSzF5R21lRmcwMFFRNWltZ1FQYmdROXEtVUxXekp5RQ?oc=5",
+  "title:Суд ООН признал власти Мьянмы виновными в геноциде мусульман-рохинджа",
+  "skip:https://www.kommersant.ru/doc/9113910",
+  "skip:https://ria.ru/20261119/sud-2132749893.html",
+  "https://www.interfax.ru/russia/1130206",
+  "title:Бывший первый замминистра обороны РФ Руслан Цаликов приговорен к 10 годам колонии за коррупцию"
 ]

@@ -1,11 +1,4 @@
 [
-  "skip:https://ria.ru/20261116/penza-2131989712.html",
-  "skip:https://ria.ru/20261116/aeroporty-2131989023.html",
-  "https://www.interfax.ru/russia/1129414",
-  "title:В российских аэропортах ввели временные ограничения на прием и выпуск самолетов",
-  "skip:https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss",
-  "skip:https://www.france24.com/en/tv-shows/business/20261116-rogue-ai-california-sues-openai-over-hugging-face-and-other-cyberattacks",
-  "https://ria.ru/20261117/ssha-2131997342.html",
   "title:Генпрокуратура Калифорнии подала иск против OpenAI из-за разработки опасных моделей ИИ",
   "skip:https://tass.ru/sport/28323937",
   "https://ria.ru/20261117/liga-natsiy-2131996987.html",
@@ -998,5 +991,12 @@
   "title:Дональд Трамп заявил, что ситуация вокруг Ирана не требует спешных действий и следует дождаться начала 2027 года",
   "skip:https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEg3aWNsUnlnMDBWSmdjZGtyWjJrMXROTHFNMXlycC15MU14bzV1UjUwVVJzR1JFek53RDVnV05DSkdtZnVzLUpQdFEyMGFLbDdpZEc0MlNUNzFFVHV2YkxLMnlHd2hBUVA2M1BlaW5OT041Y0s1OERhT1o3YTRXZ2d6aUl4NGs2cFVyRnQ0VmhLOXJUMkRCQWpmZ3FYODMwTU1iekNoelc?oc=5",
   "https://www.interfax.ru/world/1130279",
-  "title:Власти Сомали выслали посла ОАЭ и отозвали своего посла"
+  "title:Власти Сомали выслали посла ОАЭ и отозвали своего посла",
+  "skip:https://ria.ru/20261119/tbilisi-2132834318.html",
+  "https://tass.ru/proisshestviya/28337565",
+  "title:Число жертв взрыва газа в жилом доме в Тбилиси возросло до шести человек",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28337519",
+  "skip:https://ria.ru/20261119/tramp-2132834945.html",
+  "https://www.interfax.ru/world/1130281",
+  "title:Дональд Трамп заявил о намерении встретиться с лидером КНДР в будущем"
 ]

@@ -1,12 +1,4 @@
 [
-  "skip:https://www.interfax.ru/moscow/1129413",
-  "skip:https://ria.ru/20261117/moskva-2131993377.html",
-  "skip:https://ria.ru/20261117/ataka-2131972214.html",
-  "skip:https://www.kommersant.ru/doc/9111133",
-  "skip:https://tass.ru/proisshestviya/28323905",
-  "skip:https://www.rbc.ru/rbcfreenews/6afb6c3746b23bd6b11f61f8",
-  "skip:https://www.interfax.ru/moscow/1129410",
-  "skip:https://ria.ru/20261116/pvo-2131991548.html",
   "skip:https://ria.ru/20261116/pvo-2131991141.html",
   "https://www.rbc.ru/rbcfreenews/6afb6edd46b23bd6b11f61fc",
   "title:Силы ПВО отразили массированную атаку сотен беспилотников на Москву",
@@ -998,5 +990,13 @@
   "skip:https://ria.ru/20261119/tramp-2132822352.html",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28337267",
   "https://www.rbc.ru/politics/19/11/2026/6aff337b88fcaebaede2322d",
-  "title:Спецпосланник США Джаред Кушнер раскрыл детали мирного урегулирования и гарантий безопасности для Украины"
+  "title:Спецпосланник США Джаред Кушнер раскрыл детали мирного урегулирования и гарантий безопасности для Украины",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28337453",
+  "https://ria.ru/20261119/husity-2132832371.html",
+  "title:Хуситы заявили о новых ударах по объектам в Саудовской Аравии",
+  "skip:https://www.kommersant.ru/doc/9114176",
+  "skip:https://www.rbc.ru/rbcfreenews/6aff3a19a397dd98670cbb15",
+  "skip:https://www.kommersant.ru/doc/9114164",
+  "https://ria.ru/20261119/eks-deputaty-2132828769.html",
+  "title:В Курской области задержали экс-депутатов по делу о фортификационных сооружениях"
 ]

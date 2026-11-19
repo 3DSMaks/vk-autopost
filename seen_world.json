@@ -1,12 +1,4 @@
 [
-  "skip:https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss",
-  "skip:https://ria.ru/20261115/praga-2131709739.html",
-  "https://www.kommersant.ru/doc/9110003",
-  "skip:https://news.google.com/rss/articles/CBMilwFBVV95cUxONDVUOVFiV056QUJfZWlDWjFEUUM4WGl2a3U1Y2JNYkcxUGdxdGdwX1VabUxUMEFhLXlXbllfRGd1SE9GTl9td3pZOTVoclpDR2RBMXVpNGxPOHNjYmc5ekhYdm4xZnZ6RmFKT1RrdDdYd3lJWXJvLWV6S25BX0lpcWo3ZC1qMEFMaFlaenNCY2pwck9NeHB3?oc=5",
-  "https://www.kommersant.ru/doc/9110004",
-  "title:SpaceX впервые вернула с орбиты корабль Starship манипуляторами стартовой башни",
-  "skip:https://ria.ru/20261115/pvo-2131718537.html",
-  "skip:https://tass.ru/armiya-i-opk/28319511",
   "https://www.interfax.ru/russia/1129152",
   "title:Минобороны РФ заявило о перехвате 230 беспилотников за сутки",
   "skip:https://www.interfax.ru/moscow/1129150",
@@ -998,5 +990,13 @@
   "skip:https://ria.ru/20261119/tanker-2132528198.html",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28332593",
   "https://www.interfax.ru/world/1129962",
-  "title:Удары по танкерам и атаки в Ормузском проливе"
+  "title:Удары по танкерам и атаки в Ормузском проливе",
+  "skip:https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+  "skip:https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+  "skip:https://news.google.com/rss/articles/CBMipgFBVV95cUxOdW1QU3VfRndFeVFEODFZbWVTcUVkcE1CelRpYmJWZ0FleXRVd3EwbjFXeHRmbUJQUDBsQXFQc21iVjdCRHFscy1qQjZWeWhIMnF6d0NBR3gxQmRERFdyLXBDNFFpZDQtY05mT3REaThpVWdVSVQzLUtmOUpweHZmc0dvWEFjbmpxWDdadjNzaFI4ajNmNUZsVVlhb05hWm5qRFdNTV9R?oc=5",
+  "https://www.rbc.ru/quote/19/11/2026/6afaece9e3b24c7eab7d7f26",
+  "title:Компания Anthropic объявила параметры IPO и готовится к выходу на биржу NASDAQ",
+  "skip:https://ria.ru/20261119/gonduras-2132531018.html",
+  "https://tass.ru/mezhdunarodnaya-panorama/28332631",
+  "title:Власти Гондураса направили спецназ на север страны после массовых убийств"
 ]

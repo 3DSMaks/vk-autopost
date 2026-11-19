@@ -1,10 +1,4 @@
 [
-  "skip:https://ria.ru/20261117/krymskiy-2132001270.html",
-  "skip:https://www.interfax.ru/russia/1129420",
-  "skip:https://tass.ru/proisshestviya/28323993",
-  "skip:https://tass.ru/obschestvo/28323931",
-  "https://www.rbc.ru/politics/17/11/2026/6afb872d8ed362bb3f98cec9",
-  "title:Крымский мост подвергся новой атаке ВСУ",
   "skip:https://ria.ru/20261117/aeroporty-2132001577.html",
   "skip:https://tass.ru/ekonomika/28324005",
   "skip:https://ria.ru/20261117/aeroporty-2132001131.html",
@@ -998,5 +992,11 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28337619",
   "skip:https://ria.ru/20261119/tramp-2132838635.html",
   "https://www.kommersant.ru/doc/9114209",
-  "title:Дональд Трамп призвал лидеров стран Европы напрямую общаться с президентом России Владимиром Путиным"
+  "title:Дональд Трамп призвал лидеров стран Европы напрямую общаться с президентом России Владимиром Путиным",
+  "skip:https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFRrWXhLbGJZcHVKYzUycHNKbTdKZUE2clNGYUp5WFFBOTdaWndZbVdDZW0xSTQzUi1EZlRsRElldE00bktXMUFMaG1Sclo4eGdCVnZab1JUbWJwZHQ4cGFSTzgyNkZSZmF0WHAzR0hTa1B3eUQ5cmJRTGRfd1ZBdkFiSzNpU1RDeF8wU0pmbXBqWXYxeFNuaWdmV01QLWk0MWdrclJDV2ZYNVFFN0puWU9B?oc=5",
+  "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss",
+  "title:Комитет Палаты представителей США опубликовал данные об экспорте почти 900 тысяч чипов ИИ в Китай",
+  "skip:https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1VHOTlUSTlCVmhEY0dIdi11T2tlc2xPMG16MHhDWkl0SnlBVFl0cHNiZlVPaEtNRERzYXJGa28yUG9DSVZobFBicGFwcXBUWG1icU1RSzYtRUpNV3V4YU1uNkVkNGtQN0tJOVpTMExic1VCMWIxMzhUZm5ISjN4eWJoRFBmSzhZM0x0YlJIRjBJYWJsNlF5WUMxN3NsUE9pWndFLVhTcG1saUE?oc=5",
+  "https://www.rbc.ru/technology_and_media/20/11/2026/6aff51262c454edfb94a7058",
+  "title:Компании, связанные с Visa, Mastercard и JPMorgan, подверглись кибератаке через сторонних поставщиков"
 ]

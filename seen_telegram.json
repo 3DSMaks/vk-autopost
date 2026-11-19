@@ -1,7 +1,4 @@
 [
-  "skip:https://www.playground.ru/misc/news/godzilla_minus_nol_idet_na_istoricheskij_rekord_v_amerikanskom_prokate-1888744#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.pcgamer.com/gaming-industry/a-bioware-documentary-was-already-in-the-works-when-the-shutdown-was-announced-with-the-studios-recent-closure-the-film-is-now-a-profound-valediction/",
-  "skip:https://gamemag.ru/news/202024/robert-pattinson-and-nicholas-hoult-late-contenders-for-james-bond-casting",
   "skip:https://gamemag.ru/news/202011/other-worlds-a-stranger-things-adventure-announcement",
   "https://www.playground.ru/gta_6/news/bonusnye_predmety_ultimate_izdaniya_gta_6_budut_otkryvatsya_postepenno_po_hodu_syuzheta-1888751#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Бонусные предметы Ultimate-издания GTA 6 будут открываться постепенно по ходу сюжета",
@@ -998,5 +995,8 @@
   "title:В The Division 2 заработал кроссплей между ПК и консолями",
   "skip:https://www.igromania.ru/news/170072/ispolnitel-roli-aragorna-zakonchil-rabotu-nad-filmom-vlastelin-kolets-ohota-za-gollumom/",
   "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-is-huge-players-have-created-over-15-million-characters-so-far/",
-  "title:WoW: Forever is huge: Players have created over 15 million characters so far"
+  "title:WoW: Forever is huge: Players have created over 15 million characters so far",
+  "skip:https://www.playground.ru/control_2/news/v_remedy_raskryli_stoimost_razrabotki_control_resonant_i_prodazhi_proekta_studiya_verit_v_uspeshnoe_buduschee-1892054#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "https://gamemag.ru/news/202218/osvobodite-ssd-rare-na-50-sokratila-razmer-klienta-sea-of-thieves",
+  "title:Освободите SSD: Rare на 50% сократила размер клиента Sea of Thieves"
 ]

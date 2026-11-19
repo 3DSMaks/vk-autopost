@@ -1,10 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73415/live_action_trailer_k_zapusku_stellar_blade_na_switch_2",
-  "skip:https://stopgame.ru/newsdata/73414/owlcat_pomenyala_aktera_ozvuchki_dlya_muzhskogo_protagonista_the_expanse_osiris_reborn",
-  "https://gamemag.ru/news/202014/final-fantasys-yoshinori-kitase-doesnt-rule-out-more-remakes",
-  "video:2026-11-07:https://gamemag.ru/news/202014/final-fantasys-yoshinori-kitase-doesnt-rule-out-more-remakes",
-  "title:Новые игры важнее: Square Enix рассказала о своих приоритетах после завершения саги Final Fantasy VII Remake",
-  "https://www.playground.ru/misc/news/po_dannym_insajdera_ubisoft_razrabatyvaet_dve_novye_assassins_creed_odna_iz_nih_otpravit_igrokov_v_drevnij_rim-1888656#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "video:2026-11-07:https://www.playground.ru/misc/news/po_dannym_insajdera_ubisoft_razrabatyvaet_dve_novye_assassins_creed_odna_iz_nih_otpravit_igrokov_v_drevnij_rim-1888656#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:По данным инсайдера, Ubisoft разрабатывает две новые Assassin's Creed - одна из них отправит игроков в Древний Рим",
   "https://deadline.com/2026/11/box-office-godzilla-minus-zero-cat-in-the-hat-1237215161/",
@@ -998,5 +992,11 @@
   "skip:https://gamemag.ru/news/202216/jason-movie-premiere-date-2027",
   "skip:https://stopgame.ru/newsdata/73554/veduschaya_scenaristka_expedition_33_pokinula_komandu_sandfall_interactive",
   "https://stopgame.ru/newsdata/73556/v_counter_strike_2_vernulas_karta_cobblestone",
-  "title:В Counter-Strike 2 вернулась карта Cobblestone"
+  "title:В Counter-Strike 2 вернулась карта Cobblestone",
+  "skip:https://kg-portal.ru/comments/135850-kris-pratt-sygraet-temporalno-nestabilnogo-otca-v-fantasticheskoj-drame/",
+  "skip:https://www.kinonews.ru/news_144216/",
+  "skip:https://www.kinonews.ru/news_144215/",
+  "skip:https://www.kinonews.ru/news_144210/",
+  "https://www.kinonews.ru/news_144221/",
+  "title:Фильм \"Трансформеры 8\" перепишет историю франшизы"
 ]

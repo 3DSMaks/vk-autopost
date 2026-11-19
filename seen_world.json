@@ -1,15 +1,4 @@
 [
-  "skip:https://ria.ru/20261116/gagauziya-2131742236.html",
-  "https://www.interfax.ru/world/1129182",
-  "title:Во второй тур выборов главы Гагаузии вышли Стояногло и Гагауз",
-  "skip:https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SWHR1Qms0YTg1R1hwU2JCYkFEZTJnQnRuQmFRdEVzZm9UWDNrVFNod0JUbEFVckhrTmQ1UUVWX0dqWFJzTFVYQXRsNA?oc=5",
-  "https://www.rbc.ru/rbcfreenews/6afa28cac8301203b4865999",
-  "title:Ракета-носитель не смогла вывести на орбиту спутники Amazon из-за сбоя",
-  "skip:https://tass.ru/kosmos/28319847",
-  "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0lodmFYYmo1YkxHdlNLTHctd0hsZ1c2ZDhsaDk3bGk2WGlGd0xPX1VtalM1aFh2UVg0WGxSc05LUkFhRGN6dHJ3RDluYklhc1B4MVdScGloTmNBR01fOWF4RU9jQXlQVGFGdkdpMHFGQzZoNGRyNVpDajdPVGVVZFg2V0o3VnpjckktMHpsM2Jtdw?oc=5",
-  "title:SpaceX успешно вернула верхнюю ступень корабля Starship",
-  "skip:https://www.interfax.ru/world/1129186",
-  "https://tass.ru/mezhdunarodnaya-panorama/28319935",
   "title:Американский авианосец USS Theodore Roosevelt прибыл на Ближний Восток",
   "skip:https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison?traffic_source=rss",
   "skip:https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
@@ -998,5 +987,16 @@
   "skip:https://www.interfax.ru/russia/1130077",
   "skip:https://www.interfax.ru/world/1130076",
   "https://www.rbc.ru/politics/19/11/2026/6afebf2444ca1238ff951186",
-  "title:Владимир Путин, Дональд Трамп и Си Цзиньпин проводят трехстороннюю встречу на саммите АТЭС"
+  "title:Владимир Путин, Дональд Трамп и Си Цзиньпин проводят трехстороннюю встречу на саммите АТЭС",
+  "skip:https://tass.ru/politika/28334839",
+  "skip:https://tass.ru/politika/28334833",
+  "skip:https://ria.ru/20261119/ates-2132653934.html",
+  "skip:https://www.kommersant.ru/doc/9113570",
+  "https://www.kommersant.ru/doc/9113624",
+  "title:На саммите АТЭС завершилась трехсторонняя встреча Путина, Трампа и Си Цзиньпина",
+  "skip:https://ria.ru/20261119/futbol-2132652614.html",
+  "skip:https://www.france24.com/en/sport/20261119-infantino-to-face-france-s-diallo-and-japan-s-tashima-in-fifa-presidential-election",
+  "skip:https://www.kommersant.ru/doc/9113540",
+  "https://tass.ru/sport/28334817",
+  "title:Объявлены кандидаты на пост президента ФИФА"
 ]

@@ -1,7 +1,4 @@
 [
-  "skip:https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/glava_moon_studios_raskritikoval_gejmdizajn_remejka_ocarina_of_time_i_otsenki_pressy-1888738#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.ign.com/articles/bioware-may-be-dead-but-a-modder-has-rebuilt-mass-effect-3s-multiplayer-into-the-legendary-edition",
-  "https://www.playground.ru/gta_6/news/v_gta_6_budet_55_trofeev_na_relize_vse_oni_prednaznacheny_dlya_odinochnogo_rezhima-1888746#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:В GTA 6 будет 55 трофеев на релизе - все они предназначены для одиночного режима",
   "skip:https://www.kinonews.ru/news_144045/",
   "skip:https://kg-portal.ru/comments/135707-godzilla-minus-nol-zarabatyvaet-v-amerikanskom-prokate-zametno-bolshe-pervogo-filma/",
@@ -998,5 +995,8 @@
   "skip:https://www.playground.ru/gta_6/news/burger_king_vypustila_burger_heartwhopper_v_chest_gta_6_parodiruya_igrovoe_menyu_burger_shot-1892093#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.ign.com/articles/burger-king-parodies-gtas-heart-stopper-burger-with-real-life-7-patty-heartwhopper",
   "https://www.playground.ru/stellar_blade_2/news/razrabotchiki_stellar_blade_blood_rain_sozdayut_novye_mehaniki_boya_i_megapolis_s_nastoyaschej_zhivoj_tolpoj-1892088#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Разработчики Stellar Blade: Blood Rain создают новые механики боя и мегаполис с настоящей живой толпой"
+  "title:Разработчики Stellar Blade: Blood Rain создают новые механики боя и мегаполис с настоящей живой толпой",
+  "skip:https://www.igromania.ru/news/170074/dlya-uluchsheniya-proizvoditelnosti-gta-6-na-xbox-series-s-ispolzovali-tehnologiyu-amd/",
+  "https://www.igromania.ru/news/170075/razrabotchiki-gta-6-namerenno-otkazalis-ot-mini-igr-v-polzu-kachalki/",
+  "title:Разработчики GTA 6 намеренно отказались от мини-игр в пользу качалки"
 ]

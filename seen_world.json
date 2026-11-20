@@ -1,9 +1,4 @@
 [
-  "skip:https://ria.ru/20261117/sk-2132065856.html",
-  "skip:https://www.rbc.ru/politics/17/11/2026/6afc0d2804a261373aa01690",
-  "skip:https://www.interfax.ru/russia/1129502",
-  "skip:https://tass.ru/proisshestviya/28325445",
-  "skip:https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss",
   "skip:https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
   "skip:https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
   "https://www.kommersant.ru/doc/9111409",
@@ -998,5 +993,10 @@
   "title:Директор по кибербезопасности Белого дома Шон Кэрнкросс уволен после сбоев",
   "skip:https://news.google.com/rss/articles/CBMivAFBVV95cUxNY2NBVmplUHV4MUZrbVByaDVvby13dXpkX3RuaGVwd1RDMzAxdGtGSDQ3aFhjNjc3VHNxWnlYNHBrcWhRa0xiemxLOE8wTnZFVE9YZ3B4NVFjZ3d5QmJTaWtqc3JTVWdRX0IyT3VlU3BOaEFlMm5fS1lqczg1RmxyMUk4c0JfTEtUSlV4bDh0Z1BVQ0NySHZ3UHRINXZBdUM5NDhOX3Y0bUdsZXRuODdDZDJsMWNHUjY3STVCRA?oc=5",
   "https://www.rbc.ru/rbcfreenews/6aff8ea6459f2d4d30911b85",
-  "title:Генеральная прокуратура Калифорнии начала расследование в отношении компании Nvidia"
+  "title:Генеральная прокуратура Калифорнии начала расследование в отношении компании Nvidia",
+  "skip:https://www.interfax.ru/world/1130295",
+  "skip:https://ria.ru/20261120/uitkoff-2132851076.html",
+  "skip:https://www.rbc.ru/politics/20/11/2026/6aff8cf4ad17fa2c9731d176",
+  "https://www.kommersant.ru/doc/9114234",
+  "title:Стив Уиткофф охарактеризовал переговоры коалиции в Берлине как откровенные и продуктивные"
 ]

@@ -1,7 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73425/v_nvidia_proydet_rassledovanie_iz_za_romana_dzhensena_huanga_s_kitayskoy_shpionkoy",
-  "skip:https://stopgame.ru/newsdata/73423/eksklyuzivno_v_yaponii_vypustyat_playstation_portal_s_bolshim_obemom_vstroennoy_pamyati",
-  "skip:https://stopgame.ru/newsdata/73428/prodazhi_igr_capcom_8_5_mln_kopiy_u_resident_evil_requiem_2_7_mln_u_pragmata",
   "https://gamemag.ru/news/202052/epoha-uvolneniy-microsoft-otmenila-razrabotku-novoy-age-of-empires",
   "title:Эпоха увольнений: Microsoft отменила разработку Age of Empires V",
   "skip:https://www.playground.ru/resident_evil/news/v_capcom_obyasnili_pochemu_seriyu_sovremennyh_remejkov_resident_evil_nachali_ne_s_pervoj_chasti-1889316#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +995,8 @@
   "skip:https://www.ign.com/articles/gta-6-bikini-girl-trailer-easter-egg",
   "skip:https://stopgame.ru/newsdata/73579/goodbye_seoul_pro_seul_pered_stolknoveniem_zemli_s_asteroidom_vyydet_v_nachale_2027_goda",
   "https://www.playground.ru/silent_hill_3/news/dlya_silent_hill_3_gotovyat_remaster_s_trassirovkoj_putej_hd_teksturami_vidom_ot_tretego_litsa_i_uluchshennoj_sistemoj_boya-1892445#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Для Silent Hill 3 готовят ремастер с трассировкой путей, HD-текстурами, видом от третьего лица и улучшенной системой боя"
+  "title:Для Silent Hill 3 готовят ремастер с трассировкой путей, HD-текстурами, видом от третьего лица и улучшенной системой боя",
+  "skip:https://variety.com/2026/film/box-office/box-office-hunger-games-sunrise-on-reaping-previews-1236953592/",
+  "https://kg-portal.ru/comments/135877-gambit-mister-fantastik-shanchi-idrugie-nasvezhih-kadrah-izkrossovera-mstiteli-doktor-dum/",
+  "title:Гамбит, Мистер Фантастик, Шан-Чи и другие на свежих кадрах из кроссовера \"Мстители: Доктор Дум\""
 ]

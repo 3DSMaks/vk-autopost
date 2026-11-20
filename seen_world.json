@@ -1,11 +1,4 @@
 [
-  "skip:https://www.rbc.ru/technology_and_media/17/11/2026/6afc75e11b1c6191e50a368e",
-  "skip:https://ria.ru/20261117/ssha-2132188318.html",
-  "https://www.interfax.ru/world/1129649",
-  "title:Секретная внутренняя сеть АНБ США вышла из строя",
-  "skip:https://news.google.com/rss/articles/CBMitwFBVV95cUxQTTFHVE42V3FIZzBXbWhKLVR3bWRrZ3dRWGpCRm45dlktYkpveDBveW1IRFc1aDltUERHLURBUFdSUW5KMVVaZ2w2NGRuQVhmZmtyb2ZpUGZuZncyVXR3cFYxX2FUcmFyQVRBSHVnbWFsVFFTQ1lPS0lTdmZUMDktbTBUbndQdzhxc2JnWVctSF96QXdVb2JUeUpqYURha25FMEZhU3VqbWFTZDA0Q3lqanRUaGdMQ2M?oc=5",
-  "skip:https://news.google.com/rss/articles/CBMirgFBVV95cUxObnhLd21OYlROQnV3Z2ZRc29BZlRubWM4T2tVN3d3ektLVUdiMXNSS1dhclFQNVZrUEVrdG5rUHFUY0ozQWJJRjFFVlFvVjJ0SC15eEdoUm1JUEdwY2FZdTgyNmNDQnozOWRXSGJBRlVHaC13M09mZ0U3em9hYkp2V1BFWHJvR2ViRFZGcEk5RE8yTWNwUmM5dlhBMC1oMGYzYzE3TXl5akNYTGlOb2c?oc=5",
-  "skip:https://www.kommersant.ru/doc/9111965",
   "skip:https://tass.ru/ekonomika/28327587",
   "skip:https://news.google.com/rss/articles/CBMivAFBVV95cUxOOTQ1VUdLUzhnTkJscVVGZkYyMnA5b2QwU0FrTEdDVnR6bXVnU0dZUG8teHFsX3Y3OUlLaVlUTm85S0hEN3gwSW1YMVhoUW1Pb3hXaVNzRDVfaldMaUkyZGhBSmM5N3hlVHVBSDQ2aWRsc19sZkI3Xzg2MGxFMlRwOGY4NElWcTZjQ0x5NkdhWTZ4ejExd1Nqc1B4VDYzOWc2SzdoT0hWTTFQM2xfUklRODZtOXRodFoxV3VVWQ?oc=5",
   "skip:https://www.rbc.ru/business/17/11/2026/6afc794eb9190b709c033cfd",
@@ -998,5 +991,12 @@
   "title:Экс-премьер Франции Доминик де Вильпен объявил о выдвижении своей кандидатуры на президентских выборах",
   "skip:https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
   "https://tass.ru/mezhdunarodnaya-panorama/28339931",
-  "title:Великобритания и ЕС договорились о перезагрузке отношений в ряде сфер"
+  "title:Великобритания и ЕС договорились о перезагрузке отношений в ряде сфер",
+  "skip:https://www.kommersant.ru/doc/9126355",
+  "skip:https://news.google.com/rss/articles/CBMiygFBVV95cUxPejRoNTB3Y2hjdXRxMmNON0lac2xkWldNSmQ5RXFTM0NrMDFJaEE3QWxsOHJoYTgwLTFUN1A5MGRkU0h6ejNsLXdraFB0MjhNTkVROEJjNG5WWm00azhpbUNDN2FRUW1uRXplazJmU08za2gtYlc0bEc5bk9XMEpfbndzU3VVTVB3LUNyR3llYW1rdkI5UmtzeFNsZmhNNllGY3g1WnF5ZDZpLTRGZ0Q5RUstaGJuSnFESFJCZ2d0RG41RDcyZW9QZmV3?oc=5",
+  "https://ria.ru/20261120/polsha-2132959003.html",
+  "title:Минобороны Польши заявило о нарушении воздушного пространства страны российскими ракетами и беспилотником",
+  "skip:https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss",
+  "https://www.interfax.ru/world/1130458",
+  "title:Еврокомиссия выделила Украине почти 8 млрд евро для финансовой поддержки"
 ]

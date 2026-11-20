@@ -1,8 +1,4 @@
 [
-  "skip:https://tass.ru/armiya-i-opk/28325667",
-  "https://www.rbc.ru/politics/17/11/2026/6afc1608d166eb02fcd9006f",
-  "title:Армия России заняла Заливное в Запорожской области",
-  "skip:https://www.kommersant.ru/doc/9111435",
   "https://www.rbc.ru/technology_and_media/17/11/2026/6afb1ba3442b05518a96ba61",
   "title:Объем предзаказов GTA VI превысил $1,4 млрд",
   "skip:https://www.interfax.ru/russia/1129521",
@@ -998,5 +994,9 @@
   "skip:https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV0tkWmlBUktrOUtfR2pyekRxYkg0OW1MY3hhLU5sSUI0SGpMcFVFaUIxMkRTZDVKdzVHYmc4NmEySlFhWmpScjJSSWxLaTNMQjlvRXI2TGhKanh4N1JDMVBwd01tRmwwT29uQWc3Vk5KQ3RMX2NFUlFCTDhhX2cyOFhTU2djTm1wYzB1S2tDTUVJWlRFcEg5cDFPZVc1NTJLXzhaSzVEQzV0RWV4X3hNamRrM3dtV0lNSnpkRi1kTjF3Zw?oc=5",
   "skip:https://tass.ru/ekonomika/28337939",
   "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbWllWlQ0OVRrVGN4cXBpLU9ycXNjNWNBbmdNUmNBdkI4N3p6eHZwM0FEdjZpamRkN3ZycERMMzJtUkZaWURvMHdlRG55SGdqZXJHbzV4Q3ZXeDR1SER1d2VmUXVKMHc0ci1UN0JhVk9PSWlvOUF6S2ZmMWtLOVlIdE91ZzV1S2UyUlBLS1plWHNkbElCMkRPTXpiMnMxdmJaRlg0aC1CVmI3RXdMMTUw?oc=5",
-  "title:Акции Anthropic упали на бирже на фоне опасений по поводу «пузыря» искусственного интеллекта"
+  "title:Акции Anthropic упали на бирже на фоне опасений по поводу «пузыря» искусственного интеллекта",
+  "skip:https://www.interfax.ru/world/1130309",
+  "skip:https://ria.ru/20261120/smi-2132853935.html",
+  "https://www.rbc.ru/rbcfreenews/6affb9a8e8791267474bdbe1",
+  "title:Белый дом назначил нового директора по кибербезопасности после сбоя в сети АНБ"
 ]

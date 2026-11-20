@@ -1,13 +1,4 @@
 [
-  "skip:https://tass.ru/proisshestviya/28327929",
-  "https://www.kommersant.ru/doc/9112079",
-  "title:В Кемеровской области потерпел крушение военно-транспортный самолет Ан-12, все находившиеся на борту погибли",
-  "skip:https://tass.ru/ekonomika/28327977",
-  "skip:https://www.interfax.ru/russia/1129669",
-  "skip:https://ria.ru/20261117/krasnodar-2132219466.html",
-  "skip:https://tass.ru/ekonomika/28327947",
-  "https://www.interfax.ru/russia/1129671",
-  "title:В аэропортах Геленджика и Краснодара введены временные ограничения",
   "skip:https://ria.ru/20261117/most-2132216443.html",
   "https://www.kommersant.ru/doc/9112071",
   "title:Полностью восстановлено движение поездов по Крымскому мосту",
@@ -998,5 +989,14 @@
   "skip:https://ria.ru/20261120/estoniya-2133020486.html",
   "skip:https://tass.ru/politika/28340809",
   "https://ria.ru/20261120/mid-2133021007.html",
-  "title:МИД России вызвал временного поверенного в делах Эстонии из-за закрытия КПП на границе"
+  "title:МИД России вызвал временного поверенного в делах Эстонии из-за закрытия КПП на границе",
+  "skip:https://www.interfax.ru/russia/1130511",
+  "skip:https://www.rbc.ru/politics/20/11/2026/6b0075e1280c57227fec89fe",
+  "https://www.kommersant.ru/doc/9126647",
+  "title:Дания объявила российского военного атташе персоной нон грата и ограничит выдачу виз",
+  "skip:https://www.interfax.ru/world/1130513",
+  "skip:https://www.rbc.ru/politics/20/11/2026/6b007d6babb7db2196002402",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28341031",
+  "https://ria.ru/20261120/tramp-2133039594.html",
+  "title:США стремятся добиться мирного соглашения по Украине до января"
 ]

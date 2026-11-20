@@ -1,11 +1,4 @@
 [
-  "https://www.interfax.ru/world/1129708",
-  "title:Гражданин Пакистана приговорен к 27,5 года тюрьмы за подготовку покушения на Трампа",
-  "skip:https://tass.ru/kultura/28328439",
-  "skip:https://ria.ru/20261118/kartina-2132241400.html",
-  "https://www.interfax.ru/culture/1129705",
-  "title:Картина Василия Кандинского продана на аукционе Christie's за рекордные 74 миллиона долларов",
-  "skip:https://tass.ru/politika/28329019",
   "skip:https://tass.ru/politika/28329015",
   "skip:https://ria.ru/20261118/tszinpin-2132259655.html",
   "skip:https://ria.ru/20261118/tszinpin-2132259062.html",
@@ -998,5 +991,12 @@
   "skip:https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
   "skip:https://www.interfax.ru/world/1130529",
   "https://www.interfax.ru/world/1130530",
-  "title:Йеменские хуситы нанесли удары по объектам инфраструктуры в Саудовской Аравии"
+  "title:Йеменские хуситы нанесли удары по объектам инфраструктуры в Саудовской Аравии",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28341499",
+  "skip:https://www.rbc.ru/politics/21/11/2026/6b00b94be852c8ecfdb011cb",
+  "https://ria.ru/20261121/brazilija-2133075815.html",
+  "title:Экс-президента Бразилии Жаира Болсонару снова госпитализировали из-за болей в животе",
+  "skip:https://ria.ru/20261121/shvejtsarija-2133071511.html",
+  "https://tass.ru/mezhdunarodnaya-panorama/28341525",
+  "title:В Швейцарии десятки тысяч человек вышли на акции против военного бюджета"
 ]

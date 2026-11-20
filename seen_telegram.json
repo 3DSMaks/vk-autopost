@@ -1,8 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135713-nedelja-kino-na-kg-glavnye-novosti-28-nojabrja/",
-  "https://www.kinonews.ru/news_144063/",
-  "title:Дени Вильнев рассказал о работе над новым фильмом о Джеймсе Бонде",
-  "skip:https://www.film.ru/news/novyy-spisok-smertnikov-s-krisom-prattom",
   "https://kg-portal.ru/comments/135711-godzilla-minus-nol-i-ramajana-vozrozhdenie-legendy-podelili-kassu-mirovogo-prokata-nikto-ne-proigral/",
   "title:\"Годзилла: Минус ноль\" и \"Рамаяна. Возрождение легенды\" поделили кассу мирового проката — никто не проиграл",
   "skip:https://www.film.ru/news/drayver-ne-vernetsya-k-devochkam",
@@ -998,5 +994,9 @@
   "title:Когда выйдет второй День Шакала",
   "https://variety.com/2026/film/global/wen-cooper-stars-in-beatles-music-video-in-my-life-1236954057/",
   "video:2026-11-20:https://variety.com/2026/film/global/wen-cooper-stars-in-beatles-music-video-in-my-life-1236954057/",
-  "title:‘Adolescence’ Breakout Owen Cooper Stars in New Beatles Music Video for ‘In My Life’"
+  "title:‘Adolescence’ Breakout Owen Cooper Stars in New Beatles Music Video for ‘In My Life’",
+  "skip:https://stopgame.ru/newsdata/73574/atlus_uzhe_planiruet_buduschee_serii_persona_posle_vyhoda_shestoy_chasti",
+  "skip:https://www.igromania.ru/news/170102/na-persona-6-vsyo-ne-zakonchitsya-atlus-smotrit-v-buduschee-serii-gde-novyie-igryi-vyihodyat-chasche/",
+  "https://www.playground.ru/gta_6/news/spustya_pochti_tri_goda_igroki_gta_vi_raskryli_tajnu_devushki_v_bikini_iz_pervogo_trejlera_eyu_okazalas_vovse_ne_lyusiya-1892356#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Спустя почти три года игроки GTA VI раскрыли тайну девушки в бикини из первого трейлера: ею оказалась вовсе не Люсия"
 ]

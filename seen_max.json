@@ -1,8 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/202040/capcom-obyasnila-pochemu-ne-nachala-s-remeyka-pervoy-resident-evil",
-  "https://www.playground.ru/gta_6/news/gta_6_mozhet_poluchit_rezhim_120_gts_i_uluchshennuyu_pssr_2_na_playstation_5_pro-1889117#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:GTA 6 может получить режим 120 Гц и улучшенную PSSR 2 на PlayStation 5 Pro",
-  "skip:https://www.film.ru/news/novyy-spisok-smertnikov-s-krisom-prattom",
   "skip:https://kg-portal.ru/comments/135712-idris-elba-sygraet-i-snimet-veselyj-ekshen-o-proshtrafivshemsja-specialnom-agente/",
   "https://deadline.com/2026/11/dominic-west-a-weekend-in-the-country-afm-1237217129/",
   "title:Dominic West Joins Irish-Set Drama ‘A Weekend In The Country’ — AFM",
@@ -998,5 +994,9 @@
   "https://www.kinonews.ru/news_144243/",
   "title:Бывшей девушке Бонда Леа Сейду не интересно имя ее преемницы",
   "https://variety.com/2026/film/news/bond-robert-pattinson-screen-test-amazon-execs-1236954194/",
-  "title:Robert Pattinson’s Bond Ascent: How Pricey Screen Tests and Amazon Execs Landed a Starry 007"
+  "title:Robert Pattinson’s Bond Ascent: How Pricey Screen Tests and Amazon Execs Landed a Starry 007",
+  "skip:https://stopgame.ru/newsdata/73580/analitiki_tirazh_gta_vi_za_pervye_sutki_sostavil_bolshe_24_mln_kopiy",
+  "skip:https://gamemag.ru/news/202230/teper-oficialno-raskryty-aktery-djeysona-i-lusii-v-grand-theft-auto-vi",
+  "https://stopgame.ru/newsdata/73578/dzhennifer_heyl_hotela_by_chtoby_ea_prodala_prava_na_mass_effect_fanatam",
+  "title:Дженнифер Хейл хотела бы, чтобы EA продала права на Mass Effect фанатам"
 ]

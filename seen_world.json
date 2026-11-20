@@ -1,12 +1,4 @@
 [
-  "skip:https://ria.ru/20261117/putin-2132215112.html",
-  "skip:https://tass.ru/politika/28327865",
-  "skip:https://www.rbc.ru/politics/17/11/2026/6afbea5cec3211e75aa371bc",
-  "skip:https://tass.ru/politika/28325471",
-  "skip:https://www.rbc.ru/rbcfreenews/6afc8ad049b3d78d99d0501a",
-  "https://www.interfax.ru/world/1129664",
-  "title:Владимир Путин прибыл в Шэньчжэнь для участия в саммите АТЭС",
-  "skip:https://ria.ru/20261117/futbol-2132215214.html",
   "skip:https://www.sport-interfax.ru/1129663",
   "skip:https://www.rbc.ru/sport/17/11/2026/6afc8ec91b1c6191e50a36e8",
   "skip:https://tass.ru/sport/28327859",
@@ -998,5 +990,13 @@
   "title:Россия выразила протест Румынии из-за отказа в визах юным спортсменам",
   "skip:https://www.interfax.ru/world/1130485",
   "https://www.kommersant.ru/doc/9126502",
-  "title:Индия и США ликвидировали международную сеть наркоторговцев"
+  "title:Индия и США ликвидировали международную сеть наркоторговцев",
+  "skip:https://www.france24.com/en/video/20261120-burnham-hails-landmark-eu-uk-deal-as-good-day-for-britain-europe",
+  "skip:https://www.aljazeera.com/news/2026/11/20/uk-eu-deal-what-we-know-so-far?traffic_source=rss",
+  "https://www.france24.com/en/video/20261120-replay-burnham-von-der-leyen-hail-turning-point-in-eu-uk-relations",
+  "title:Великобритания и ЕС заключили масштабное соглашение о перезагрузке отношений",
+  "skip:https://www.interfax.ru/russia/1130490",
+  "skip:https://tass.ru/armiya-i-opk/28340625",
+  "https://www.interfax.ru/russia/1130491",
+  "title:Минобороны РФ отчиталось об ударах по энергетическим и логистическим объектам на Украине"
 ]

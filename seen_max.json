@@ -1,9 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169804/fanatyi-the-elder-scrolls-5-skyrim-sdelali-mod-dlya-prevrascheniya-igryi-v-mmo/",
-  "skip:https://www.pcgamer.com/games/the-elder-scrolls/this-massive-mod-essentially-turns-skyrim-into-a-persistent-mmo-where-player-actions-create-lasting-consequences/",
-  "skip:https://www.igromania.ru/news/169806/predzagruzka-gta-6-startovala-v-novoj-zelandii-na-ps5-s-kazhdyim-chasom-ona-budet-dostupna-vo-vsyo-novyih-regionah/",
-  "https://www.playground.ru/phantom_blade_zero/news/razrabotchiki_phantom_blade_zero_pokazali_kak_zapisyvali_dvizheniya_dlya_igry-1889071#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Разработчики Phantom Blade Zero показали, как записывали движения для игры",
   "skip:https://www.playground.ru/dynasty_warriors_origins/news/playstation_ranshe_vremeni_raskryla_dve_igry_dlya_ps_plus_extra_dragon_quest_3_i_dynasty_warriors_origins-1889086#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.igromania.ru/news/169807/world-of-warcraft-forever-vyishla-blagodarya-reaktsii-fanatov-na-classic-zayavili-v-blizzard/",
   "title:World of Warcraft: Forever вышла благодаря реакции фанатов на Classic, заявили в Blizzard",
@@ -998,5 +993,10 @@
   "https://stopgame.ru/newsdata/73576/sluh_remeyk_star_wars_knights_of_the_old_republic_zanovo_predstavyat_na_tga_2026",
   "title:Слух — ремейк Star Wars: Knights of the Old Republic заново представят на TGA 2026",
   "https://stopgame.ru/newsdata/73573/utechka_avtory_serii_full_of_cats_sozdayut_igru_po_fallout",
-  "title:Утечка: авторы серии Full of Cats создают игру по Fallout"
+  "title:Утечка: авторы серии Full of Cats создают игру по Fallout",
+  "skip:https://www.playground.ru/gta_6/news/moddery_rasschityvayut_zapustit_gta_6_na_pk_uzhe_v_techenie_nedeli_posle_utechki_xbox_versii_igry-1892413#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/modders-reckon-gta-6-will-be-playable-on-pc-within-a-week/",
+  "skip:https://www.ign.com/articles/cyberleek-returns-for-gta-6-launch-to-reportedly-release-a-near-complete-xbox-build-threatens-to-release-the-games-executable-in-days",
+  "https://gamemag.ru/news/202237/kazuhisa-wada-p6-is-not-the-end-we-are-working-on-various-things-to-ensure-you-dont-have-to-wait-as",
+  "title:Persona 6 не завершит популярную JRPG-серию — следующие части планируют выпускать быстрее"
 ]

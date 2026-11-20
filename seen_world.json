@@ -1,7 +1,4 @@
 [
-  "skip:https://ria.ru/20261117/most-2132216443.html",
-  "https://www.kommersant.ru/doc/9112071",
-  "title:Полностью восстановлено движение поездов по Крымскому мосту",
   "skip:https://www.interfax.ru/world/1129665",
   "https://ria.ru/20261117/husity-2132221444.html",
   "title:Хуситы заявили об атаке беспилотниками нефтепровода в Саудовской Аравии",
@@ -998,5 +995,8 @@
   "skip:https://www.rbc.ru/politics/20/11/2026/6b007d6babb7db2196002402",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28341031",
   "https://ria.ru/20261120/tramp-2133039594.html",
-  "title:США стремятся добиться мирного соглашения по Украине до января"
+  "title:США стремятся добиться мирного соглашения по Украине до января",
+  "skip:https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+  "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist",
+  "title:В США индийца приговорили к 19 годам тюрьмы за заговор с целью убийства сикхского сепаратиста"
 ]

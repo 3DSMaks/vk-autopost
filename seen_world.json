@@ -1,14 +1,4 @@
 [
-  "skip:https://ria.ru/20261117/moskva-2132003517.html",
-  "skip:https://ria.ru/20261117/moskva-2132002524.html",
-  "skip:https://www.interfax.ru/moscow/1129422",
-  "https://www.interfax.ru/moscow/1129428",
-  "skip:https://www.interfax.ru/world/1129418",
-  "https://www.kommersant.ru/doc/9111151",
-  "title:США направили третий авианосец на Ближний Восток",
-  "skip:https://www.france24.com/en/europe/20261117-russian-strikes-hit-two-key-bridges-in-kyiv-disrupting-water-and-power-supplies-ukraine",
-  "https://tass.ru/proisshestviya/28324177",
-  "title:Удары по мостам в Киеве привели к повреждению критической инфраструктуры",
   "skip:https://tass.ru/ekonomika/28324393",
   "https://www.interfax.ru/moscow/1129435",
   "title:Аэропорт Шереметьево приостановил прием и выпуск самолетов",
@@ -998,5 +988,15 @@
   "skip:https://news.google.com/rss/articles/CBMiowFBVV95cUxOWHRFWmFPaG84TkVfc09hMmJxUl84NldFS0JRVzVuU0dnV3ZOUFlIcUVQR1hWclZQMGd2ZjExanJaNTZ6dDByc3RqalBHZkFCUGI5aExWYU1rUG1xc3JsMVpETkdnWFFkc09DZUU5dHJ2RUppbEtuZktERWdGNk5ER19zQXpOaWdGcTlFZ0MxZlg0emRjcnpHSnN0Z1YyMWl4UFh3?oc=5",
   "skip:https://news.google.com/rss/articles/CBMilgFBVV95cUxPSjhuZXowVzdHMnhkQm1TbWotUlpJeVdXcnZYSklCX3lJM0VEUHJJaXRUQVU0YlpGRGFjc3JuUkdZRTZaMlE3dG4wWkx4MWdCSUNhTkJGeXgxQTlydC05MGUzS0JMem13eGpXQXZERXZLaW5jalNtMjdOMWM4UlZveDlEQkhuOGZBSlAxQjc3NXdsNlNTb1E?oc=5",
   "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
-  "title:Дональд Трамп посмертно помиловал легенду бейсбола Пита Роуза"
+  "title:Дональд Трамп посмертно помиловал легенду бейсбола Пита Роуза",
+  "skip:https://news.google.com/rss/articles/CBMingFBVV95cUxPancyR3hqXzc1cWJHZDlBeDc5Wk50dkNqX0R4VlFEUFV2V2FLNlkzVTlRd0lxQ3h1S1FrWHQ1UG9UM3NwT1RuZUdUVWszek1FR2xzRDhZM0RWNGcyWm9SZVR2NDV4Mm1UTXlLUm5XMUlFMUY0bmhtS0QyM3N1bzRVNE1YSVREbms2UTYtQVVPaXpXcVZRTG5haVVWYXRKZw?oc=5",
+  "skip:https://www.france24.com/en/tv-shows/business/20261119-anthropic-goes-public-after-blockbuster-ipo-but-fails-to-revive-ai-trade",
+  "skip:https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQlRFLVpVV0l1RXpPXzhUdXlUT1ZHQ0NNeUplSXhERGJybFNNRDBVU1RDRktVeTBFYlhOV1dUbE1ldV92NS1zZDJCYkM1U24tMVI0clN1eFplWHdXQlZmX19zS2V2ZWE1Y0RGT3lLQ1dzUzJVS210N19zZXVZSHlVRUt6c3JhLVJ1bzk3cl9LZ0FPeVhmV3ZSYmdRSHpoc0p6VXB6cHhwX2FfQQ?oc=5",
+  "skip:https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5",
+  "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
+  "title:Компания Anthropic провела IPO и вышла на биржу",
+  "skip:https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
+  "skip:https://www.theguardian.com/us-news/2026/nov/19/thomas-markle-mentally-competent",
+  "https://ria.ru/20261120/sud-2132847221.html",
+  "title:Суд признал Томаса Маркла вменяемым по делу о материалах с сексуальным насилием над детьми"
 ]

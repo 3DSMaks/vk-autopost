@@ -1,10 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/202036/dark-outlaw-games-doom-inspired-game",
-  "skip:https://www.igromania.ru/news/169812/rolevaya-igra-warhammer-40000-dark-heresy-vyijdet-28-yanvarya-2027-goda/",
-  "https://www.playground.ru/warhammer_40000_dark_heresy/news/warhammer_40_000_dark_heresy_poluchila_datu_vyhoda_iskat_eres_v_sektore_kaliksis_mozhno_budet_s_28_yanvarya-1889171#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Warhammer 40,000: Dark Heresy получила дату выхода - искать ересь в секторе Каликсис можно будет с 28 января",
-  "skip:https://www.film.ru/news/reliz-take-s-pattinsonom-i-vashingtonom",
-  "https://variety.com/2026/tv/news/ariana-grande-tonight-show-stepping-away-public-1236943053/",
   "title:Ariana Grande Appears on ‘Tonight Show’ After Months Away From Public Eye",
   "skip:https://gamemag.ru/news/202041/sony-anonsirovala-chernuyu-playstation-portal-s-uvelichennoy-pamyatyu",
   "skip:https://gamemag.ru/news/202053/sjech-vragov-imperiuma-warhammer-40000-dark-heresy-vyhodit-v-yanvare-2027-goda",
@@ -998,5 +992,11 @@
   "skip:https://www.playground.ru/gta_6/news/ot_bonni_i_klajda_do_kriminalnogo_chtiva_rockstar_raskryla_kakie_imenno_filmy_vdohnovili_dzhejsona_i_lyusiyu_v_gta_6-1892420#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://gamemag.ru/news/202230/teper-oficialno-raskryty-aktery-djeysona-i-lusii-v-grand-theft-auto-vi",
   "video:2026-11-20:https://gamemag.ru/news/202230/teper-oficialno-raskryty-aktery-djeysona-i-lusii-v-grand-theft-auto-vi",
-  "title:Дилан Рурк сыграл Джейсона Дюваля в Grand Theft Auto VI — актёры впервые рассказали о работе над игрой"
+  "title:Дилан Рурк сыграл Джейсона Дюваля в Grand Theft Auto VI — актёры впервые рассказали о работе над игрой",
+  "skip:https://www.kinonews.ru/news_144242/",
+  "skip:https://www.film.ru/news/tizer-vtoroy-prezumpcii-nevinovnosti",
+  "skip:https://www.film.ru/articles/bolshoy-proschet-devida-o-rassella-recenziya-na-film-medden",
+  "skip:https://deadline.com/2026/11/mobland-season-3-starts-shooting-finale-paramount-1237230065/",
+  "https://deadline.com/2026/11/killing-castro-diego-boneta-trailer-1237230063/",
+  "title:‘Killing Castro’ Movie Starring Diego Boneta Drops First Trailer"
 ]

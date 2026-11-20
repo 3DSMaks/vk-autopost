@@ -1,11 +1,4 @@
 [
-  "skip:https://tass.ru/ekonomika/28327727",
-  "skip:https://tass.ru/ekonomika/28327723",
-  "skip:https://ria.ru/20261117/minpromtorg-2132207997.html",
-  "https://ria.ru/20261117/minpromtorg-2132208436.html",
-  "title:Минпромторг предложил ввести авиационный сбор для поддержки поставок самолетов",
-  "skip:https://www.aljazeera.com/gallery/2026/11/17/photos-tens-of-thousands-rally-in-france-over-living-standards-and-wages?traffic_source=rss",
-  "skip:https://www.france24.com/en/video/20261117-a-lot-of-anger-and-a-weak-government-why-are-french-public-sector-workers-striking",
   "skip:https://www.france24.com/en/video/20261117-organisers-hoping-for-joyful-demonstration-as-french-public-workers-strike",
   "https://tass.ru/obschestvo/28327761",
   "title:Во Франции проходят массовые забастовки работников государственного сектора",
@@ -998,5 +991,12 @@
   "skip:https://www.sport-interfax.ru/1130469",
   "skip:https://www.kommersant.ru/doc/9126435",
   "https://www.aljazeera.com/sports/2026/11/20/nations-league-knockouts-spain-france-england-norway-quarterfinals?traffic_source=rss",
-  "title:Определились пары четвертьфиналистов Лиги наций УЕФА"
+  "title:Определились пары четвертьфиналистов Лиги наций УЕФА",
+  "skip:https://ria.ru/20261120/politolog-2132979419.html",
+  "https://www.rbc.ru/rbcfreenews/6b003ee8f5f05d2282c7c2aa",
+  "title:Бывший премьер-министр Франции Доминик де Вильпен объявил о выдвижении своей кандидатуры на президентских выборах",
+  "skip:https://www.rbc.ru/politics/20/11/2026/6b00411a1ce77ccb6b150dfe",
+  "skip:https://www.interfax.ru/world/1130472",
+  "https://www.kommersant.ru/doc/9126482",
+  "title:Самвел Мкртчян назначен новым послом Армении в России"
 ]

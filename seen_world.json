@@ -1,10 +1,4 @@
 [
-  "https://tass.ru/armiya-i-opk/28327539",
-  "title:ВС России поразили локомотив в районе станции Кривой Рог",
-  "skip:https://ria.ru/20261117/ukraina-2132192775.html",
-  "https://tass.ru/armiya-i-opk/28327537",
-  "title:ВС РФ поразили три электроподстанции на Украине",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28327589",
   "skip:https://www.rbc.ru/technology_and_media/17/11/2026/6afc75e11b1c6191e50a368e",
   "skip:https://ria.ru/20261117/ssha-2132188318.html",
   "https://www.interfax.ru/world/1129649",
@@ -998,5 +992,11 @@
   "skip:https://www.france24.com/en/europe/20261120-poland-says-russian-missile-hit-its-territory-during-attack-on-ukraine",
   "skip:https://www.kommersant.ru/doc/9126218",
   "https://www.interfax.ru/world/1130433",
-  "title:В Польше проверили информацию о падении неизвестных объектов и привели системы ПВО в боевую готовность"
+  "title:В Польше проверили информацию о падении неизвестных объектов и привели системы ПВО в боевую готовность",
+  "skip:https://www.france24.com/en/france/20261120-former-french-prime-minister-dominique-de-villepin-to-announce-presidential-bid",
+  "https://tass.ru/mezhdunarodnaya-panorama/28339883",
+  "title:Экс-премьер Франции Доминик де Вильпен объявил о выдвижении своей кандидатуры на президентских выборах",
+  "skip:https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+  "https://tass.ru/mezhdunarodnaya-panorama/28339931",
+  "title:Великобритания и ЕС договорились о перезагрузке отношений в ряде сфер"
 ]

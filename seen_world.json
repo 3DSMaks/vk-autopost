@@ -1,10 +1,4 @@
 [
-  "skip:https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-  "skip:https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDJRWUV3Zl9CaUJrdWZXYjlIY2txdlRRSGtNUWNkUEtmZXFGNWg3LWl4a0M0VnVuejRFWUlrTHhPbWdUZ194Nzg3bFEzSXB5b0Q5VXQwS3cxZTA4MXpSNzc2X0xVcTd0TFZBYTRJNGxZOWxINFRmY0NXU0w0VHhpdGJieVlRT1VSR0o2WUpmaVVaMDMxVHdXQ0I0eWc?oc=5",
-  "https://www.france24.com/en/americas/20261117-us-mexico-and-bolivia-lose-measles-free-status-as-deaths-mount",
-  "title:США, Мексика и Боливия потеряли статус территорий, свободных от кори",
-  "skip:https://www.kommersant.ru/doc/9112096",
-  "https://ria.ru/20261117/sk-2132228887.html",
   "title:СК возбудил уголовное дело после крушения Ан-12 в Кемеровской области",
   "skip:https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
   "skip:https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody",
@@ -998,5 +992,11 @@
   "title:Дональд Трамп пригрозил ввести высокие пошлины и налоги для американских компаний за строительство дата-центров за рубежом",
   "skip:https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSnJIY2MzcUJjNVY3MzNYaGxKYUIySGw3TzNnVjltNDBIS2JPOHV4Y1BTaDRTRTRxSWp3R0M4Z3VSeU1IWmdoTGl6SU15bHh6UkZobTZ3aWpxUmU5c2dsODBPTjI3V0NQTEhjMWZBWE1fZnNQVHdYcjdONk43LVhleEdaUEs2d0hsV3dqMURGRUcyQzZnTFduVGZuTmJMU0taYzNreTJ4c2ZqeWV6b0l2X1FCQm5SQllFa09PZFRIcGJ5aGs?oc=5",
   "https://ria.ru/20261120/tramp-2133054677.html",
-  "title:США и Китай договорились о необходимости участия человека в принятии решений об использовании искусственного интеллекта в военных операциях"
+  "title:США и Китай договорились о необходимости участия человека в принятии решений об использовании искусственного интеллекта в военных операциях",
+  "skip:https://www.interfax.ru/world/1130521",
+  "https://www.kommersant.ru/doc/9126692",
+  "title:Дональд Трамп заявил о неготовности обсуждать гарантии безопасности для Украины до завершения конфликта",
+  "skip:https://www.kommersant.ru/doc/9126685",
+  "https://www.rbc.ru/rbcfreenews/6b00955fcaea19dc5115ced7",
+  "title:Дональд Трамп высказался за возвращение Дженсена Хуанга в Nvidia"
 ]

@@ -1,7 +1,4 @@
 [
-  "skip:https://deadline.com/2026/11/tom-rob-smith-west-memphis-three-murder-case-book-1237216655/",
-  "https://deadline.com/2026/11/chang-chen-choi-siwon-kent-tsai-chunghwa-telecom-1237216224/",
-  "title:Taiwan’s Chunghwa Telecom Unveils Investment Slate Headed By ‘Gunshot’ & ‘Call Of Lobster’",
   "skip:https://www.ign.com/articles/i-feel-like-modding-is-kind-of-dying-mass-effect-3-multiplayer-modder-on-ais-impact-on-the-scene",
   "https://www.playground.ru/physint/news/stsenarij_physint_naschityvaet_bolee_150_stranits_kodzima_raskryl_novye_podrobnosti_svoego_shpionskogo_proekta-1888856#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Сценарий PHYSINT насчитывает более 150 страниц: Кодзима раскрыл новые подробности своего шпионского проекта",
@@ -998,5 +995,8 @@
   "skip:https://www.ign.com/articles/ubisoft-cuts-166-jobs-assassins-creed",
   "skip:https://www.igromania.ru/news/170073/novyie-vladeltsyi-steamdb-rasskazali-o-pervyih-izmeneniyah-servisa/",
   "https://stopgame.ru/newsdata/73569/aktery_dzheysona_i_lusii_oficialno_podtverdili_uchastie_v_gta_vi",
-  "title:Актёры Джейсона и Лусии официально подтвердили участие в GTA VI"
+  "title:Актёры Джейсона и Лусии официально подтвердили участие в GTA VI",
+  "skip:https://www.film.ru/news/kogda-vyydet-vtoroy-den-shakala",
+  "https://www.film.ru/news/osnovnoy-treyler-lednikovogo-perioda-6",
+  "title:Основной трейлер Ледникового периода 6"
 ]

@@ -1,7 +1,4 @@
 [
-  "skip:https://www.playground.ru/nier_automata/news/razrabotchiki_ispravili_oshibku_s_razmerom_fajlov_v_pk_versii_nier_automata_posle_obnovleniya_igra_vesila_366_gb-1889135#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169810/nier-automata-vnov-postrojnela-na-pc-minus-300-gb/",
-  "skip:https://www.ign.com/articles/gta-6-metadata-ray-tracing-improvements-on-ps5-pro",
   "skip:https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-bumps-dungeon-xp-from-monsters-by-50-percent-after-some-community-feedback-i-will-diplomatically-call-passionate/",
   "skip:https://www.igromania.ru/news/169811/rockstar-i-playstation-provedut-muzyikalnyij-festival-v-chest-reliza-gta-6/",
   "https://www.playground.ru/mass_effect_5/news/mass_effect_5_dolzhna_byla_dopolnit_serial_amazon_byvshij_rukovoditel_bioware_raskryl_svyaz_dvuh_proektov-1889124#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +995,8 @@
   "title:Дженнифер Хейл хотела бы, чтобы EA продала права на Mass Effect фанатам",
   "skip:https://www.playground.ru/misc/news/ya_otorvu_tebe_obe_ruki_i_zabyu_tebya_imi_do_smerti_nyt_raskryla_shokiruyuschie_podrobnosti_metodov_upravleniya_huanga-1892452#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.igromania.ru/news/170113/avtoryi-gta-6-raskryili-istochniki-vdohnoveniya-v-kino-v-tom-chisle-pobeg-kriminalnoe-chtivo-i-smertelnoe-oruzhie/",
-  "title:Авторы GTA 6 раскрыли источники вдохновения в кино: в том числе «Побег», «Криминальное чтиво» и «Смертельное оружие»"
+  "title:Авторы GTA 6 раскрыли источники вдохновения в кино: в том числе «Побег», «Криминальное чтиво» и «Смертельное оружие»",
+  "skip:https://gamemag.ru/news/202231/call-of-dutys-influence-is-fading-fast-as-modern-warfare-4-fails-to-make-us-top-10",
+  "https://www.igromania.ru/news/170109/razrabotchiki-cyberpunk-2077-rasskazali-ob-anomalnoj-aktivnosti-modderov/",
+  "title:Разработчики Cyberpunk 2077 рассказали об аномальной активности моддеров"
 ]

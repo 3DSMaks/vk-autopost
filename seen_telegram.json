@@ -1,9 +1,4 @@
 [
-  "skip:https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/remejk_the_legend_of_zelda_ocarina_of_time_pokazal_rekordnyj_start_v_velikobritanii-1889028#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169799/remejk-the-legend-of-zelda-ocarina-of-time-oboshyol-novinki-2026-go-po-fizicheskim-prodazham-v-velikobritanii/",
-  "skip:https://gamemag.ru/news/202037/dring-oot-remake-is-the-second-biggest-zelda-launch-in-uk-history-easily-biggest-physical-launch-of",
-  "https://gamemag.ru/news/201990/naoki-hamaguti-nazval-final-fantasy-vii-remake-samoy-slojnoy-igroy-v-trilogii",
-  "video:2026-11-09:https://gamemag.ru/news/201990/naoki-hamaguti-nazval-final-fantasy-vii-remake-samoy-slojnoy-igroy-v-trilogii",
   "title:Final Fantasy VII Remake оказалась самой сложной в разработке частью трилогии — Наоки Хамагути объяснил почему",
   "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-speedrunners-have-already-found-new-ways-to-break-the-remake",
   "skip:https://gamemag.ru/news/202025/death-stranding-7-years",
@@ -998,5 +993,10 @@
   "skip:https://www.ign.com/articles/gta-6s-jason-and-lucia-actors-break-years-of-silence-with-new-joint-statement",
   "skip:https://stopgame.ru/newsdata/73569/aktery_dzheysona_i_lusii_oficialno_podtverdili_uchastie_v_gta_vi",
   "https://www.igromania.ru/news/170090/star-wars-knights-of-the-old-republic-remake-mogut-povtorno-predstavit-na-the-game-awards-2026/",
-  "title:Star Wars: Knights of the Old Republic Remake могут «повторно представить» на The Game Awards 2026"
+  "title:Star Wars: Knights of the Old Republic Remake могут «повторно представить» на The Game Awards 2026",
+  "skip:https://kg-portal.ru/comments/135852-sestry-vachovski-mogut-polnostju-ostanovit-razrabotku-matricy-5/",
+  "skip:https://www.film.ru/news/dzhennifer-lopes-o-razvode-s-afflekom",
+  "skip:https://www.kinonews.ru/news_144218/",
+  "https://www.film.ru/news/onlayn-reliz-klary-i-solnca",
+  "title:Онлайн-релиз Клары и Солнца"
 ]

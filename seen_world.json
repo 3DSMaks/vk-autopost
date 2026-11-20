@@ -1,14 +1,4 @@
 [
-  "skip:https://www.sport-interfax.ru/1129663",
-  "skip:https://www.rbc.ru/sport/17/11/2026/6afc8ec91b1c6191e50a36e8",
-  "skip:https://tass.ru/sport/28327859",
-  "https://ria.ru/20261117/rossiya-venesuela-2132205490.html",
-  "title:Сборная России по футболу обыграла команду Венесуэлы в товарищеском матче",
-  "skip:https://www.rbc.ru/politics/17/11/2026/6afca15c632f4bbee3902030",
-  "skip:https://www.interfax.ru/russia/1129670",
-  "skip:https://tass.ru/proisshestviya/28327969",
-  "skip:https://www.rbc.ru/rbcfreenews/6afc9dac40d49716fd0a06f9",
-  "skip:https://www.interfax.ru/russia/1129667",
   "skip:https://tass.ru/proisshestviya/28327929",
   "https://www.kommersant.ru/doc/9112079",
   "title:В Кемеровской области потерпел крушение военно-транспортный самолет Ан-12, все находившиеся на борту погибли",
@@ -998,5 +988,15 @@
   "skip:https://www.interfax.ru/russia/1130490",
   "skip:https://tass.ru/armiya-i-opk/28340625",
   "https://www.interfax.ru/russia/1130491",
-  "title:Минобороны РФ отчиталось об ударах по энергетическим и логистическим объектам на Украине"
+  "title:Минобороны РФ отчиталось об ударах по энергетическим и логистическим объектам на Украине",
+  "skip:https://www.kommersant.ru/doc/9126580",
+  "skip:https://www.france24.com/en/video/20261120-russia-pummels-ukraine-with-massive-strikes-missile-hits-poland",
+  "https://www.rbc.ru/politics/20/11/2026/6b0061e75e2ed76366e4de1c",
+  "title:Власти Польши сообщили о падении российских ракет и дрона на территории страны",
+  "skip:https://tass.ru/politika/28340813",
+  "skip:https://tass.ru/politika/28340817",
+  "skip:https://ria.ru/20261120/estoniya-2133020486.html",
+  "skip:https://tass.ru/politika/28340809",
+  "https://ria.ru/20261120/mid-2133021007.html",
+  "title:МИД России вызвал временного поверенного в делах Эстонии из-за закрытия КПП на границе"
 ]

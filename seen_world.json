@@ -1,11 +1,4 @@
 [
-  "skip:https://ria.ru/20261117/voennye-2132050975.html",
-  "https://www.kommersant.ru/doc/9111374",
-  "title:Иран заявил об ударе по радиолокационной станции США на бахрейнской авиабазе",
-  "skip:https://www.kommersant.ru/doc/9111325",
-  "skip:https://www.interfax.ru/russia/1129485",
-  "https://www.rbc.ru/politics/17/11/2026/6afbfff5a35f8ecce255d265",
-  "title:Марат Хуснуллин проведет правкомиссию по ликвидации последствий атаки на Крымский мост",
   "skip:https://ria.ru/20261117/sk-2132065856.html",
   "skip:https://www.rbc.ru/politics/17/11/2026/6afc0d2804a261373aa01690",
   "skip:https://www.interfax.ru/russia/1129502",
@@ -998,5 +991,12 @@
   "skip:https://www.kommersant.ru/doc/9114230",
   "skip:https://tass.ru/ekonomika/28337783",
   "https://www.rbc.ru/finances/20/11/2026/6aff8fee481efceb16073017",
-  "title:Цена на золото на бирже Comex опустилась ниже $3600 впервые с сентября 2025 года"
+  "title:Цена на золото на бирже Comex опустилась ниже $3600 впервые с сентября 2025 года",
+  "skip:https://news.google.com/rss/articles/CBMivwFBVV95cUxNTElpWEVLdXdjWl9QOVBPcjRMRWcyN2xMVzdqQ1hSZjJxZTJEUk9QWmtyNldWTHRyUmNBaWFtSUJ5TndzRG9vTHR1bGR5eEZXNkNDbnNNQlRKcW9PdnZPc2VZMVJhOGxablFJeUpLM2UtU1pfXzhUaWVhNi1qeXk0ejFVVDZ3VGp6b01UdmlrMEZicFlqcU9BY2lfN25rWWRMR2p4RkZYdXFkdnJWMVAtSWZkdW5PNHBfTkdxNFRwRQ?oc=5",
+  "skip:https://www.interfax.ru/world/1130293",
+  "https://www.france24.com/en/americas/20261120-white-house-fires-national-cyber-director-over-widespread-outages",
+  "title:Директор по кибербезопасности Белого дома Шон Кэрнкросс уволен после сбоев",
+  "skip:https://news.google.com/rss/articles/CBMivAFBVV95cUxNY2NBVmplUHV4MUZrbVByaDVvby13dXpkX3RuaGVwd1RDMzAxdGtGSDQ3aFhjNjc3VHNxWnlYNHBrcWhRa0xiemxLOE8wTnZFVE9YZ3B4NVFjZ3d5QmJTaWtqc3JTVWdRX0IyT3VlU3BOaEFlMm5fS1lqczg1RmxyMUk4c0JfTEtUSlV4bDh0Z1BVQ0NySHZ3UHRINXZBdUM5NDhOX3Y0bUdsZXRuODdDZDJsMWNHUjY3STVCRA?oc=5",
+  "https://www.rbc.ru/rbcfreenews/6aff8ea6459f2d4d30911b85",
+  "title:Генеральная прокуратура Калифорнии начала расследование в отношении компании Nvidia"
 ]

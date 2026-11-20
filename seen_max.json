@@ -1,9 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/games/the-elder-scrolls/skyrim-lead-designer-bruce-nesmith-loved-that-baldurs-gate-3-closed-off-story-paths-based-on-your-decisions-but-defends-bethesdas-approach-they-were-both-fun-theyre-just-fun-in-different-ways/",
-  "https://gamemag.ru/news/201988/hideki-kamiya-perejivaet-ob-ojidaniyah-poklonnik-ot-sikvela-okami-no-nameren-ih-ne-podvesti",
-  "title:«Это моя личная миссия»: Хидэки Камия рассказал о давлении фанатских ожиданий при создании Okami 2",
-  "skip:https://variety.com/2026/film/global/jeff-goldblum-john-turturro-marrakech-conversations-1236942335/",
-  "skip:https://deadline.com/2026/11/somewhere-in-the-south-saga-tccf-pitching-taicca-cnc-1237217100/",
   "https://www.kinonews.ru/news_144063/",
   "title:Дени Вильнев рассказал о работе над новым фильмом о Джеймсе Бонде",
   "skip:https://www.igromania.ru/news/169804/fanatyi-the-elder-scrolls-5-skyrim-sdelali-mod-dlya-prevrascheniya-igryi-v-mmo/",
@@ -998,5 +993,10 @@
   "skip:https://www.ign.com/articles/gta-6-mandy-serial-killer",
   "skip:https://www.ign.com/articles/ubisoft-creates-generative-ai-game-studio-called-motherbrain",
   "https://www.playground.ru/gta_6/news/avtopark_forza_horizon_6_popolnilsya_klassicheskim_rallijnym_bolidom_nissan_240rs_wrc-1892379#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Автопарк Forza Horizon 6 пополнился классическим раллийным болидом Nissan 240RS WRC"
+  "title:Автопарк Forza Horizon 6 пополнился классическим раллийным болидом Nissan 240RS WRC",
+  "skip:https://www.pcgamer.com/games/world-of-warcraft/wow-forever-item-designer-wants-to-get-rid-of-bis-encouraging-players-who-want-to-sweatily-optimise-to-bring-unique-sets-of-gear-to-raids/",
+  "skip:https://www.pcgamer.com/games/world-of-warcraft/ive-done-some-stupid-stuff-says-wow-forever-dev-whos-adding-unique-fun-items-to-the-game-theres-a-lot-theyve-not-seen-that-im-very-happy-with/",
+  "skip:https://www.igromania.ru/news/170106/razrabotchiki-world-of-warcraft-forever-hotyat-izbavitsya-ot-sistemyi-luchshih-predmetov-ekipirovki/",
+  "https://stopgame.ru/newsdata/73576/sluh_remeyk_star_wars_knights_of_the_old_republic_zanovo_predstavyat_na_tga_2026",
+  "title:Слух — ремейк Star Wars: Knights of the Old Republic заново представят на TGA 2026"
 ]

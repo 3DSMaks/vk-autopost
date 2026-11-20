@@ -1,9 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/i-feel-like-modding-is-kind-of-dying-mass-effect-3-multiplayer-modder-on-ais-impact-on-the-scene",
-  "https://www.playground.ru/physint/news/stsenarij_physint_naschityvaet_bolee_150_stranits_kodzima_raskryl_novye_podrobnosti_svoego_shpionskogo_proekta-1888856#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Сценарий PHYSINT насчитывает более 150 страниц: Кодзима раскрыл новые подробности своего шпионского проекта",
-  "skip:https://www.playground.ru/mass_effect_trilogy/news/dlya_mass_effect_3_vyshel_masshtabnyj_mod_take_earth_back_2_0_s_pererabotkoj_bitvy_za_zemlyu_i_takticheskim_vyborom_soyuznikov-1888874#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://gamemag.ru/news/202015/physint-will-have-8-hours-of-narrative",
   "https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/v_remejke_ocarina_of_time_nashli_upominaniya_master_quest_rezhima_s_povyshennoj_slozhnostyu-1888879#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:В ремейке Ocarina of Time нашли упоминания Master Quest - режима с повышенной сложностью",
   "skip:https://variety.com/2026/film/box-office/godzilla-minus-zero-box-office-opening-weekend-cat-in-the-hat-fizzles-1236942363/",
@@ -998,5 +993,10 @@
   "title:Актёры Джейсона и Лусии официально подтвердили участие в GTA VI",
   "skip:https://www.film.ru/news/kogda-vyydet-vtoroy-den-shakala",
   "https://www.film.ru/news/osnovnoy-treyler-lednikovogo-perioda-6",
-  "title:Основной трейлер Ледникового периода 6"
+  "title:Основной трейлер Ледникового периода 6",
+  "skip:https://kg-portal.ru/comments/135852-sestry-vachovski-mogut-polnostju-ostanovit-razrabotku-matricy-5/",
+  "skip:https://www.film.ru/news/dzhennifer-lopes-o-razvode-s-afflekom",
+  "skip:https://www.kinonews.ru/news_144218/",
+  "https://www.film.ru/news/recenzii-kliffa-buta",
+  "title:Рецензии Клиффа Бута"
 ]

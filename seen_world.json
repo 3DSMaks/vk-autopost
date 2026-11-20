@@ -1,10 +1,4 @@
 [
-  "https://www.rbc.ru/technology_and_media/17/11/2026/6afb1ba3442b05518a96ba61",
-  "title:Объем предзаказов GTA VI превысил $1,4 млрд",
-  "skip:https://www.interfax.ru/russia/1129521",
-  "skip:https://www.kommersant.ru/doc/9111457",
-  "https://tass.ru/armiya-i-opk/28325861",
-  "title:Минобороны РФ сообщило о взятии под контроль села Заливное в Запорожской области",
   "skip:https://www.interfax.ru/russia/1129517",
   "skip:https://ria.ru/20261117/pvo-2132076426.html",
   "https://www.rbc.ru/rbcfreenews/6afc1a2ce2186aeefc71b7a5",
@@ -998,5 +992,11 @@
   "skip:https://www.interfax.ru/world/1130309",
   "skip:https://ria.ru/20261120/smi-2132853935.html",
   "https://www.rbc.ru/rbcfreenews/6affb9a8e8791267474bdbe1",
-  "title:Белый дом назначил нового директора по кибербезопасности после сбоя в сети АНБ"
+  "title:Белый дом назначил нового директора по кибербезопасности после сбоя в сети АНБ",
+  "skip:https://www.interfax.ru/russia/1130326",
+  "https://tass.ru/proisshestviya/28338153",
+  "title:Средства ПВО уничтожили 16 беспилотников над Калужской областью",
+  "skip:https://ria.ru/20261120/dannye-2132863874.html",
+  "https://tass.ru/ekonomika/28338187",
+  "title:Хакеры похитили данные тысяч клиентов Visa, Mastercard и JPMorgan Chase"
 ]

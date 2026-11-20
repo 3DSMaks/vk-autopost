@@ -1,8 +1,4 @@
 [
-  "title:Final Fantasy VII Remake оказалась самой сложной в разработке частью трилогии — Наоки Хамагути объяснил почему",
-  "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-speedrunners-have-already-found-new-ways-to-break-the-remake",
-  "skip:https://gamemag.ru/news/202025/death-stranding-7-years",
-  "https://www.playground.ru/gta_6/news/sluh_gta_6_poluchit_versiyu_s_tsenzuroj_dlya_raznyh_stran_iz_igry_mogut_vyrezat_nagotu_i_otkrovennye_stseny-1889011#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Слух: GTA 6 получит версию с цензурой для разных стран - из игры могут вырезать наготу и откровенные сцены",
   "skip:https://www.igromania.ru/news/169802/veduschij-dizajner-skyrim-rashvalil-baldurs-gate-3-i-otmetil-vazhnoe-nasledie-oblivion/",
   "skip:https://www.pcgamer.com/games/the-elder-scrolls/lead-designer-bruce-nesmith-says-skyrim-was-a-hit-because-it-was-built-on-institutional-knowledge-from-oblivion/",
@@ -998,5 +994,9 @@
   "skip:https://www.film.ru/news/dzhennifer-lopes-o-razvode-s-afflekom",
   "skip:https://www.kinonews.ru/news_144218/",
   "https://www.film.ru/news/onlayn-reliz-klary-i-solnca",
-  "title:Онлайн-релиз Клары и Солнца"
+  "title:Онлайн-релиз Клары и Солнца",
+  "skip:https://www.kinonews.ru/news_144235/",
+  "skip:https://www.film.ru/news/kakimi-budut-transformery-8",
+  "https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925/",
+  "title:‘Hunger Games: Sunrise On The Reaping’ 2nd Best Franchise Previews With $21M+; Scorches ‘Wicked’ & ‘The Odyssey’ – Box Office"
 ]

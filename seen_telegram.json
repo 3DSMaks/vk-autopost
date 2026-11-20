@@ -1,8 +1,4 @@
 [
-  "skip:https://www.film.ru/news/stiven-spilberg-snimet-pervyy-vestern",
-  "https://www.film.ru/news/finish-semok-cherez-ternii-k-zvezdam",
-  "title:Финиш съемок Через тернии к звездам",
-  "skip:https://www.playground.ru/gta_6/news/v_chest_gta_6_vypustyat_eksklyuzivnuyu_kurtku_za_2500_funtov_sterlingov-1889102#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169808/remejk-the-legend-of-zelda-ocarina-of-time-smestil-expedition-33-s-mesta-samoj-vyisokootsenyonnoj-igryi-na-metacritic/",
   "skip:https://www.ign.com/articles/selfridges-gta-6-takeover-varsity-jacket",
   "https://www.igromania.ru/news/169806/predzagruzka-gta-6-startovala-v-novoj-zelandii-na-ps5-s-kazhdyim-chasom-ona-budet-dostupna-vo-vsyo-novyih-regionah/",
@@ -998,5 +994,9 @@
   "skip:https://gamemag.ru/news/202231/call-of-dutys-influence-is-fading-fast-as-modern-warfare-4-fails-to-make-us-top-10",
   "skip:https://www.playground.ru/gta_6/news/v_gta_6_nashli_novye_otsylki_k_red_dead_redemption_v_igre_upominayutsya_sobytiya_iz_istorii_artura_morgana-1892353#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.playground.ru/battlefield_bad_company/news/pervaya_battlefield_bad_company_nakonets_to_perenesena_na_pk-1892355#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Первая Battlefield: Bad Company наконец-то перенесена на ПК"
+  "title:Первая Battlefield: Bad Company наконец-то перенесена на ПК",
+  "skip:https://www.kinonews.ru/news_144236/",
+  "skip:https://deadline.com/2026/11/quentin-tarantino-popinjay-cavalier-cast-1237229997/",
+  "https://kg-portal.ru/comments/135873-milosh-bikovich-iroman-kurcyn-snimajutsja-vkriminalnoj-drame-banda-otrezhissera-bumera/",
+  "title:Милош Бикович и Роман Курцын снимаются в криминальной драме \"Банда\" от режиссёра \"Бумера\""
 ]

@@ -1,14 +1,4 @@
 [
-  "skip:https://www.france24.com/en/video/20261117-organisers-hoping-for-joyful-demonstration-as-french-public-workers-strike",
-  "https://tass.ru/obschestvo/28327761",
-  "title:Во Франции проходят массовые забастовки работников государственного сектора",
-  "skip:https://www.interfax.ru/world/1129652",
-  "https://www.kommersant.ru/doc/9112055",
-  "title:Минобороны РФ сообщило об ударах по электроподстанциям на Украине",
-  "skip:https://ria.ru/20261117/oman-2132211651.html",
-  "https://tass.ru/proisshestviya/28327803",
-  "title:Оманские спасатели эвакуировали экипаж загоревшегося танкера-газовоза",
-  "skip:https://www.kommersant.ru/doc/9112060",
   "skip:https://ria.ru/20261117/putin-2132215112.html",
   "skip:https://tass.ru/politika/28327865",
   "skip:https://www.rbc.ru/politics/17/11/2026/6afbea5cec3211e75aa371bc",
@@ -998,5 +988,15 @@
   "skip:https://www.rbc.ru/politics/20/11/2026/6b00411a1ce77ccb6b150dfe",
   "skip:https://www.interfax.ru/world/1130472",
   "https://www.kommersant.ru/doc/9126482",
-  "title:Самвел Мкртчян назначен новым послом Армении в России"
+  "title:Самвел Мкртчян назначен новым послом Армении в России",
+  "skip:https://tass.ru/sport/28340549",
+  "skip:https://www.interfax.ru/russia/1130482",
+  "skip:https://ria.ru/20261120/sport-2132992129.html",
+  "skip:https://www.rbc.ru/politics/20/11/2026/6b004bb0643dc7ef466fd912",
+  "skip:https://tass.ru/politika/28340501",
+  "https://www.kommersant.ru/doc/9126508",
+  "title:Россия выразила протест Румынии из-за отказа в визах юным спортсменам",
+  "skip:https://www.interfax.ru/world/1130485",
+  "https://www.kommersant.ru/doc/9126502",
+  "title:Индия и США ликвидировали международную сеть наркоторговцев"
 ]

@@ -1,8 +1,4 @@
 [
-  "skip:https://tass.ru/ekonomika/28324393",
-  "https://www.interfax.ru/moscow/1129435",
-  "title:Аэропорт Шереметьево приостановил прием и выпуск самолетов",
-  "skip:https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar?traffic_source=rss",
   "skip:https://ria.ru/20261117/voennye-2132050975.html",
   "https://www.kommersant.ru/doc/9111374",
   "title:Иран заявил об ударе по радиолокационной станции США на бахрейнской авиабазе",
@@ -998,5 +994,9 @@
   "skip:https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
   "skip:https://www.theguardian.com/us-news/2026/nov/19/thomas-markle-mentally-competent",
   "https://ria.ru/20261120/sud-2132847221.html",
-  "title:Суд признал Томаса Маркла вменяемым по делу о материалах с сексуальным насилием над детьми"
+  "title:Суд признал Томаса Маркла вменяемым по делу о материалах с сексуальным насилием над детьми",
+  "skip:https://www.kommersant.ru/doc/9114230",
+  "skip:https://tass.ru/ekonomika/28337783",
+  "https://www.rbc.ru/finances/20/11/2026/6aff8fee481efceb16073017",
+  "title:Цена на золото на бирже Comex опустилась ниже $3600 впервые с сентября 2025 года"
 ]

@@ -1,9 +1,4 @@
 [
-  "skip:https://www.film.ru/news/adam-drayver-ne-vernetsya-v-zvezdnye-voyny",
-  "skip:https://deadline.com/2026/11/the-odyssey-imax-quartelry-earnings-1237214226/",
-  "https://deadline.com/2026/11/kiefer-sutherland-al-pacino-movie-father-joe-us-deal-1237214237/",
-  "title:Kiefer Sutherland & Al Pacino Action-Thriller ‘Father Joe’ Gets North American Deal",
-  "skip:https://www.film.ru/news/sintiya-erivo-sygraet-mat-tupaka-shakura",
   "https://www.film.ru/news/dyuna-chast-3-samaya-korotkaya",
   "title:«Дюна: Часть 3» самая короткая",
   "https://variety.com/2026/film/news/imax-quarterly-revenue-record-the-odyssey-1236940229/",
@@ -998,5 +993,10 @@
   "posted:2026-11-20T08:02:09+00:00",
   "skip:https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925/",
   "https://www.film.ru/news/onlayn-reliz-klary-i-solnca",
-  "title:Онлайн-релиз Клары и Солнца"
+  "title:Онлайн-релиз Клары и Солнца",
+  "posted:2026-11-20T09:31:22+00:00",
+  "skip:https://www.kinonews.ru/news_144238/",
+  "skip:https://www.film.ru/news/nolan-o-vyrezannah-scenah-odissei",
+  "https://kg-portal.ru/comments/135870-golodnye-igry-rassvet-zhatvy-pokazyvaet-v-prokate-rezultaty-luchshe-chem-odisseja-i-majkl/",
+  "title:\"Голодные игры: Рассвет Жатвы\" показывает в прокате результаты лучше, чем \"Одиссея\" и \"Майкл\""
 ]

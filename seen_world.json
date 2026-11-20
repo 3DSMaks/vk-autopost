@@ -1,14 +1,4 @@
 [
-  "skip:https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-  "skip:https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
-  "https://www.kommersant.ru/doc/9111409",
-  "title:Крымский мост получил повреждения в результате новой атаки",
-  "skip:https://ria.ru/20261117/fsb-2132062526.html",
-  "skip:https://ria.ru/20261117/fsb-2132061736.html",
-  "skip:https://ria.ru/20261117/agent-2132061277.html",
-  "https://www.rbc.ru/rbcfreenews/6afc01eeff119246bcc6bb5c",
-  "title:ФСБ пресекла серию диверсий с использованием дронов на юге России",
-  "skip:https://ria.ru/20261117/zalivnoe-2132074994.html",
   "skip:https://tass.ru/armiya-i-opk/28325667",
   "https://www.rbc.ru/politics/17/11/2026/6afc1608d166eb02fcd9006f",
   "title:Армия России заняла Заливное в Запорожской области",
@@ -998,5 +988,15 @@
   "skip:https://ria.ru/20261120/uitkoff-2132851076.html",
   "skip:https://www.rbc.ru/politics/20/11/2026/6aff8cf4ad17fa2c9731d176",
   "https://www.kommersant.ru/doc/9114234",
-  "title:Стив Уиткофф охарактеризовал переговоры коалиции в Берлине как откровенные и продуктивные"
+  "title:Стив Уиткофф охарактеризовал переговоры коалиции в Берлине как откровенные и продуктивные",
+  "skip:https://www.interfax.ru/world/1130310",
+  "skip:https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3pQREZDSHE2RmNHdDdGdExDUXhYeWljc2VualVoQ09oQV90WnFQQlZkYW1rWnl5ODJ6N2haaVBDVUY4VmFvRmtLSlZKbU5kR1lHNklrUUR3X3JGc181OHZCUHpXalZFUllBZXVEczJPUUdZZUt1MmpsTEN0MkJGSDNCVHhoa25pZFBSb1lldS1US0VJNVNBWWN1U2VwQmd0WmlQR1RKWmgyS2lyUDVfNHdWeWhzaFhmZ1E?oc=5",
+  "https://ria.ru/20261120/aravija-2132858414.html",
+  "title:Системы ПВО Саудовской Аравии перехватили ракету и беспилотники, запущенные хуситами",
+  "skip:https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sMzJxaDFtcTdDUE1rWGVFZFVhMjJhX0RVSko2RlMtejdUdDlMY2MtZXdLYUh3aVc0WFBSMnlZR3hLc0MwVjNRUG00Q1Nxd1loR055XzZPZ0tvZk0t?oc=5",
+  "skip:https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss",
+  "skip:https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV0tkWmlBUktrOUtfR2pyekRxYkg0OW1MY3hhLU5sSUI0SGpMcFVFaUIxMkRTZDVKdzVHYmc4NmEySlFhWmpScjJSSWxLaTNMQjlvRXI2TGhKanh4N1JDMVBwd01tRmwwT29uQWc3Vk5KQ3RMX2NFUlFCTDhhX2cyOFhTU2djTm1wYzB1S2tDTUVJWlRFcEg5cDFPZVc1NTJLXzhaSzVEQzV0RWV4X3hNamRrM3dtV0lNSnpkRi1kTjF3Zw?oc=5",
+  "skip:https://tass.ru/ekonomika/28337939",
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbWllWlQ0OVRrVGN4cXBpLU9ycXNjNWNBbmdNUmNBdkI4N3p6eHZwM0FEdjZpamRkN3ZycERMMzJtUkZaWURvMHdlRG55SGdqZXJHbzV4Q3ZXeDR1SER1d2VmUXVKMHc0ci1UN0JhVk9PSWlvOUF6S2ZmMWtLOVlIdE91ZzV1S2UyUlBLS1plWHNkbElCMkRPTXpiMnMxdmJaRlg0aC1CVmI3RXdMMTUw?oc=5",
+  "title:Акции Anthropic упали на бирже на фоне опасений по поводу «пузыря» искусственного интеллекта"
 ]

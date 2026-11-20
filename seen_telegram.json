@@ -1,8 +1,4 @@
 [
-  "skip:https://www.film.ru/news/skarsgrad-hochet-sygrat-konstantina",
-  "https://www.kinonews.ru/news_144060/",
-  "title:Голлум из \"Властелина колец\" лишил Эди Серкиса сна",
-  "skip:https://deadline.com/2026/11/somewhere-in-the-south-saga-tccf-pitching-taicca-cnc-1237217100/",
   "skip:https://www.kinonews.ru/news_144058/",
   "skip:https://www.kinonews.ru/news_144062/",
   "https://kg-portal.ru/comments/135710-studija-disney-polnostju-otbila-zhelanie-u-adama-drajvera-snimatsja-v-zvezdnyh-vojnah/",
@@ -998,5 +994,9 @@
   "skip:https://www.playground.ru/misc/news/murlykayuschij_postapokalipsis_bethesda_i_devcats_razrabatyvayut_koshachij_spin_off_v_mire_fallout-1892301#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.playground.ru/gta_6/news/gta_6_otdala_dan_sekretnym_materialam_za_rassledovanie_istorii_s_nlo_dayut_trofej_istina_gde_to_ryadom-1892315#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.playground.ru/persona_6/news/persona_6_ne_konets_atlus_uzhe_dumaet_o_sleduyuschih_igrah_i_hochet_sokratit_ozhidanie_mezhdu_chastyami-1892313#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:\"Persona 6 - не конец\": Atlus уже думает о следующих играх и хочет сократить ожидание между частями"
+  "title:\"Persona 6 - не конец\": Atlus уже думает о следующих играх и хочет сократить ожидание между частями",
+  "skip:https://kg-portal.ru/comments/135870-golodnye-igry-rassvet-zhatvy-pokazyvaet-v-prokate-rezultaty-luchshe-chem-odisseja-i-majkl/",
+  "skip:https://www.kinonews.ru/news_144237/",
+  "https://www.film.ru/news/nolan-o-vyrezannah-scenah-odissei",
+  "title:Нолан о вырезаннах сценах Одиссеи"
 ]

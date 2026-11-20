@@ -1,6 +1,4 @@
 [
-  "skip:https://www.playground.ru/gta_6/news/v_chest_gta_6_vypustyat_eksklyuzivnuyu_kurtku_za_2500_funtov_sterlingov-1889102#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.ign.com/articles/selfridges-gta-6-takeover-varsity-jacket",
   "skip:https://gamemag.ru/news/202040/capcom-obyasnila-pochemu-ne-nachala-s-remeyka-pervoy-resident-evil",
   "https://www.playground.ru/gta_6/news/gta_6_mozhet_poluchit_rezhim_120_gts_i_uluchshennuyu_pssr_2_na_playstation_5_pro-1889117#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:GTA 6 может получить режим 120 Гц и улучшенную PSSR 2 на PlayStation 5 Pro",
@@ -998,5 +996,7 @@
   "title:Гамбит, Мистер Фантастик, Шан-Чи и другие на свежих кадрах из кроссовера \"Мстители: Доктор Дум\"",
   "skip:https://deadline.com/2026/11/mobland-season-3-starts-shooting-finale-paramount-1237230065/",
   "https://www.kinonews.ru/news_144243/",
-  "title:Бывшей девушке Бонда Леа Сейду не интересно имя ее преемницы"
+  "title:Бывшей девушке Бонда Леа Сейду не интересно имя ее преемницы",
+  "https://variety.com/2026/film/news/bond-robert-pattinson-screen-test-amazon-execs-1236954194/",
+  "title:Robert Pattinson’s Bond Ascent: How Pricey Screen Tests and Amazon Execs Landed a Starry 007"
 ]

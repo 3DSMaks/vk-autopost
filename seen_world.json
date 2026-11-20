@@ -1,12 +1,4 @@
 [
-  "title:Минобороны РФ назвало техническую неисправность причиной крушения самолета Ан-12 в Кемеровской области",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28328079",
-  "https://www.interfax.ru/world/1129681",
-  "title:США подтвердили нанесение удара по объекту Корпуса стражей исламской революции на иранском острове Кешм",
-  "skip:https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say",
-  "skip:https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss",
-  "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-  "title:На Западном берегу реки Иордан в результате нападения погибла 72-летняя палестинка",
   "skip:https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
   "skip:https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDJRWUV3Zl9CaUJrdWZXYjlIY2txdlRRSGtNUWNkUEtmZXFGNWg3LWl4a0M0VnVuejRFWUlrTHhPbWdUZ194Nzg3bFEzSXB5b0Q5VXQwS3cxZTA4MXpSNzc2X0xVcTd0TFZBYTRJNGxZOWxINFRmY0NXU0w0VHhpdGJieVlRT1VSR0o2WUpmaVVaMDMxVHdXQ0I0eWc?oc=5",
   "https://www.france24.com/en/americas/20261117-us-mexico-and-bolivia-lose-measles-free-status-as-deaths-mount",
@@ -998,5 +990,13 @@
   "skip:https://news.google.com/rss/articles/CBMi3gFBVV95cUxObWtLZHJGRDlvcWJnQjQzZWRkWDR3WWlGRF9WcVlLeUIwMjJxWHVMMFROZlN4ZTh5VGVCOGFockRmQzJpXzBkaUU1WHIzejA4bjEyR3NEOWRMdFRxaVZ4dzJKOW40bUxCX25FQmhzY3p1Wmc1QnVGZEx6cFpTbmlOZzJKaWdzU0RJR29PX2tYaE9uOHZMQ2t0c0dWR1NIdkpJRkhmR08tMExJS1dQbG40YVExd0pUQWg3WDBXTDd3ZWZZTTJjY1M2VXVYLW1KTDExSS12dTM4U3ZoZUJveWc?oc=5",
   "skip:https://www.france24.com/en/video/20261120-uk-and-eu-strike-landmark-deal-to-rebuild-ties-after-brexit",
   "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit",
-  "title:Великобритания и ЕС заключили соглашение о перезагрузке отношений после Brexit"
+  "title:Великобритания и ЕС заключили соглашение о перезагрузке отношений после Brexit",
+  "skip:https://news.google.com/rss/articles/CBMipAFBVV95cUxPWEtzQUtZSkNqOE9ReXZEMTlIRVNjOEdzRVp0b1E1UkFiYncyMGpadjRFV1ZSeDJqSnJuRnhhZ3JvRkt3ZG9BNlN3Z0VESFpTbHFTREp6bzVFWnBKZVNweW5wUUVpMzFaZk14UzA3RFVveWdDUW9rVjI1dTZOeEVVeGl5Ql9QYVFpdWl3cm15VHg4SlZNVXR3dWVuTm0xVk1HZkZZdg?oc=5",
+  "skip:https://www.interfax.ru/world/1130522",
+  "skip:https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3hEcEp0SWhZNmU0eXhJUEU3ekVWWkQ3SVp1ZWlQeUZPRVBKUkx6R08yMkVGSWo5S3JWelR4STNQN2pCanZjaTE2ZWl0anlHQjJjWExCVFBVaVF4Uy1HNEZrRWZoNnVhVmx0WFBQNUg5cTA2UEpxZHpHcTRZSXctTU9jMHhPclFTdUQ3NktmbkJNS203N0dVeHA4R1pTRFRieHY3NnZWNA?oc=5",
+  "https://www.kommersant.ru/doc/9126689",
+  "title:Дональд Трамп пригрозил ввести высокие пошлины и налоги для американских компаний за строительство дата-центров за рубежом",
+  "skip:https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSnJIY2MzcUJjNVY3MzNYaGxKYUIySGw3TzNnVjltNDBIS2JPOHV4Y1BTaDRTRTRxSWp3R0M4Z3VSeU1IWmdoTGl6SU15bHh6UkZobTZ3aWpxUmU5c2dsODBPTjI3V0NQTEhjMWZBWE1fZnNQVHdYcjdONk43LVhleEdaUEs2d0hsV3dqMURGRUcyQzZnTFduVGZuTmJMU0taYzNreTJ4c2ZqeWV6b0l2X1FCQm5SQllFa09PZFRIcGJ5aGs?oc=5",
+  "https://ria.ru/20261120/tramp-2133054677.html",
+  "title:США и Китай договорились о необходимости участия человека в принятии решений об использовании искусственного интеллекта в военных операциях"
 ]

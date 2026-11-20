@@ -1,10 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28327023",
-  "skip:https://www.rbc.ru/politics/17/11/2026/6afc3b42f86dce154db38be9",
-  "https://www.rbc.ru/quote/17/11/2026/6afc483c6a1aa6620310523a",
-  "title:Акции Deutsche Bank упали на фоне утечки данных о транзакциях Эпштейна",
-  "skip:https://tass.ru/sport/28327123",
-  "skip:https://tass.ru/sport/28327107",
   "https://www.rbc.ru/sport/17/11/2026/6afc5b085c8dca32591bcb13",
   "title:Власти Финляндии отказали российским фигуристам во въезде на этап Гран-при",
   "skip:https://ria.ru/20261117/bolnitsy-2132154158.html",
@@ -998,5 +992,11 @@
   "skip:https://www.interfax.ru/russia/1130394",
   "skip:https://ria.ru/20261120/vstrecha-2132909342.html",
   "https://www.kommersant.ru/doc/9116708",
-  "title:Владимир Путин прибыл с рабочим визитом в Таджикистан и провел переговоры с Эмомали Рахмоном"
+  "title:Владимир Путин прибыл с рабочим визитом в Таджикистан и провел переговоры с Эмомали Рахмоном",
+  "skip:https://tass.ru/ekonomika/28339357",
+  "https://www.interfax.ru/russia/1130412",
+  "title:Владимир Путин отметил рост товарооборота между Россией и Таджикистаном",
+  "skip:https://ria.ru/20261120/putin-2132917131.html",
+  "https://www.interfax.ru/russia/1130404",
+  "title:Владимир Путин присудил патриарху Кириллу государственную премию"
 ]

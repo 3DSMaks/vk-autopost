@@ -1,11 +1,4 @@
 [
-  "skip:https://www.film.ru/news/godzilla-minus-nol-vozglavila-prokat",
-  "skip:https://www.film.ru/news/stiven-spilberg-snimet-pervyy-vestern",
-  "https://kg-portal.ru/comments/135710-studija-disney-polnostju-otbila-zhelanie-u-adama-drajvera-snimatsja-v-zvezdnyh-vojnah/",
-  "title:Студия Disney полностью отбила желание у Адама Драйвера сниматься в \"Звёздных войнах\"",
-  "skip:https://www.igromania.ru/news/169802/veduschij-dizajner-skyrim-rashvalil-baldurs-gate-3-i-otmetil-vazhnoe-nasledie-oblivion/",
-  "skip:https://www.pcgamer.com/games/the-elder-scrolls/lead-designer-bruce-nesmith-says-skyrim-was-a-hit-because-it-was-built-on-institutional-knowledge-from-oblivion/",
-  "skip:https://www.pcgamer.com/gaming-industry/nvidia-ceo-jensen-huang-admits-to-affair-with-alleged-chinese-spy-as-company-board-launches-investigation/",
   "skip:https://www.pcgamer.com/games/the-elder-scrolls/skyrim-lead-designer-bruce-nesmith-loved-that-baldurs-gate-3-closed-off-story-paths-based-on-your-decisions-but-defends-bethesdas-approach-they-were-both-fun-theyre-just-fun-in-different-ways/",
   "https://gamemag.ru/news/201988/hideki-kamiya-perejivaet-ob-ojidaniyah-poklonnik-ot-sikvela-okami-no-nameren-ih-ne-podvesti",
   "title:«Это моя личная миссия»: Хидэки Камия рассказал о давлении фанатских ожиданий при создании Okami 2",
@@ -998,5 +991,12 @@
   "title:Причина смерти Патрика Стюарта",
   "skip:https://www.kinonews.ru/news_144236/",
   "https://variety.com/2026/film/global/kieran-culkin-new-movie-succession-creator-jesse-armstrong-1236954101/",
-  "title:Kieran Culkin Says He’s Starring in New Movie From ‘Succession’ Creator Jesse Armstrong"
+  "title:Kieran Culkin Says He’s Starring in New Movie From ‘Succession’ Creator Jesse Armstrong",
+  "skip:https://www.igromania.ru/news/170107/novyie-pohozhdeniya-kliffa-buta-ne-dotyanuli-do-odnazhdyi-v-gollivude-zayavili-kritiki/",
+  "skip:https://stopgame.ru/newsdata/73575/ii_podrazdelenie_uspeh_remeyka_black_flag_i_mnogo_ubytkov_otchet_ubisoft",
+  "skip:https://www.igromania.ru/news/170100/avtoryi-stellar-blade-posle-kritiki-reshili-delat-vsyo-rukami-ot-nachala-do-kontsa-s-ii-v-seredine/",
+  "skip:https://www.ign.com/articles/gta-6-mandy-serial-killer",
+  "skip:https://www.ign.com/articles/ubisoft-creates-generative-ai-game-studio-called-motherbrain",
+  "https://www.playground.ru/gta_6/news/avtopark_forza_horizon_6_popolnilsya_klassicheskim_rallijnym_bolidom_nissan_240rs_wrc-1892379#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Автопарк Forza Horizon 6 пополнился классическим раллийным болидом Nissan 240RS WRC"
 ]

@@ -1,7 +1,4 @@
 [
-  "title:Слух: GTA 6 получит версию с цензурой для разных стран - из игры могут вырезать наготу и откровенные сцены",
-  "skip:https://www.igromania.ru/news/169802/veduschij-dizajner-skyrim-rashvalil-baldurs-gate-3-i-otmetil-vazhnoe-nasledie-oblivion/",
-  "skip:https://www.pcgamer.com/games/the-elder-scrolls/lead-designer-bruce-nesmith-says-skyrim-was-a-hit-because-it-was-built-on-institutional-knowledge-from-oblivion/",
   "skip:https://www.pcgamer.com/games/the-elder-scrolls/skyrim-lead-designer-bruce-nesmith-loved-that-baldurs-gate-3-closed-off-story-paths-based-on-your-decisions-but-defends-bethesdas-approach-they-were-both-fun-theyre-just-fun-in-different-ways/",
   "https://gamemag.ru/news/201991/byvshiy-prodyuser-bioware-rasskazal-o-slojnoy-razrabotke-dragon-age-the-veilguard",
   "video:2026-11-09:https://gamemag.ru/news/201991/byvshiy-prodyuser-bioware-rasskazal-o-slojnoy-razrabotke-dragon-age-the-veilguard",
@@ -998,5 +995,8 @@
   "skip:https://www.kinonews.ru/news_144235/",
   "skip:https://www.film.ru/news/kakimi-budut-transformery-8",
   "https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925/",
-  "title:‘Hunger Games: Sunrise On The Reaping’ 2nd Best Franchise Previews With $21M+; Scorches ‘Wicked’ & ‘The Odyssey’ – Box Office"
+  "title:‘Hunger Games: Sunrise On The Reaping’ 2nd Best Franchise Previews With $21M+; Scorches ‘Wicked’ & ‘The Odyssey’ – Box Office",
+  "skip:https://kg-portal.ru/comments/135869-rezhisser-originalnogo-pobega-iz-njujorka-dzhon-karpenter-stanet-kompozitorom-remejka-zaka-snajdera/",
+  "https://www.film.ru/news/prichina-smerti-patrika-styuarta",
+  "title:Причина смерти Патрика Стюарта"
 ]

@@ -1,7 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_144058/",
-  "skip:https://www.kinonews.ru/news_144062/",
-  "https://kg-portal.ru/comments/135710-studija-disney-polnostju-otbila-zhelanie-u-adama-drajvera-snimatsja-v-zvezdnyh-vojnah/",
   "title:Студия Disney полностью отбила желание у Адама Драйвера сниматься в \"Звёздных войнах\"",
   "skip:https://deadline.com/2026/11/jeff-goldblum-john-turturro-marrakech-honors-1237215686/",
   "skip:https://variety.com/2026/film/global/jeff-goldblum-john-turturro-marrakech-conversations-1236942335/",
@@ -998,5 +995,8 @@
   "skip:https://kg-portal.ru/comments/135870-golodnye-igry-rassvet-zhatvy-pokazyvaet-v-prokate-rezultaty-luchshe-chem-odisseja-i-majkl/",
   "skip:https://www.kinonews.ru/news_144237/",
   "https://www.film.ru/news/nolan-o-vyrezannah-scenah-odissei",
-  "title:Нолан о вырезаннах сценах Одиссеи"
+  "title:Нолан о вырезаннах сценах Одиссеи",
+  "skip:https://www.kinonews.ru/news_144233/",
+  "https://www.film.ru/news/kogda-vyydet-vtoroy-den-shakala",
+  "title:Когда выйдет второй День Шакала"
 ]

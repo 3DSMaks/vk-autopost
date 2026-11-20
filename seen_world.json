@@ -1,11 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9111766",
-  "title:Журналистка Катерина Гордеева объявлена в розыск в России",
-  "skip:https://ria.ru/20261117/chp-2132137266.html",
-  "skip:https://www.kommersant.ru/doc/9111744",
-  "skip:https://www.interfax.ru/russia/1129603",
-  "https://www.rbc.ru/rbcfreenews/6afc54917d8710b557c64350",
-  "title:Суд в Москве арестовал обвиняемую в покушении на убийство экс-советника Азарова",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28327023",
   "skip:https://www.rbc.ru/politics/17/11/2026/6afc3b42f86dce154db38be9",
   "https://www.rbc.ru/quote/17/11/2026/6afc483c6a1aa6620310523a",
@@ -998,5 +991,12 @@
   "skip:https://tass.ru/sport/28338907",
   "skip:https://ria.ru/20261120/shvetsiya-2132905308.html",
   "https://www.kommersant.ru/doc/9114467",
-  "title:Миграционная служба Швеции отказалась выдавать визы российским спортсменам"
+  "title:Миграционная служба Швеции отказалась выдавать визы российским спортсменам",
+  "skip:https://www.rbc.ru/rbcfreenews/6affd97d481efceb1607303a",
+  "skip:https://tass.ru/politika/28338329",
+  "skip:https://ria.ru/20261120/vstrecha-2132909545.html",
+  "skip:https://www.interfax.ru/russia/1130394",
+  "skip:https://ria.ru/20261120/vstrecha-2132909342.html",
+  "https://www.kommersant.ru/doc/9116708",
+  "title:Владимир Путин прибыл с рабочим визитом в Таджикистан и провел переговоры с Эмомали Рахмоном"
 ]

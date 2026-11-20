@@ -1,7 +1,4 @@
 [
-  "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-  "title:Совет директоров Nvidia подтвердил, что не намерен возвращать Дженсена Хуанга на пост генерального директора",
-  "skip:https://ria.ru/20261118/pvo-2132235691.html",
   "https://www.interfax.ru/world/1129697",
   "title:Армия Кувейта отражает массированный налет беспилотников",
   "skip:https://www.aljazeera.com/video/newsfeed/2026/11/17/top-spy-agency-suffers-network-outage-the-latest-us-technical-failure?traffic_source=rss",
@@ -998,5 +995,8 @@
   "title:Израильские удары в центральной части сектора Газа привели к жертвам",
   "skip:https://tass.ru/politika/28341463",
   "https://ria.ru/20261121/posol-2133070224.html",
-  "title:Посла России в Швеции вызвали в МИД из-за взрыва у дипмиссии при ударах по Киеву"
+  "title:Посла России в Швеции вызвали в МИД из-за взрыва у дипмиссии при ударах по Киеву",
+  "skip:https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
+  "https://www.kommersant.ru/doc/9126968",
+  "title:В НАТО и США прокомментировали инцидент с падением ракет и беспилотников на территории Польши"
 ]

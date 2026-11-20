@@ -1,7 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1129517",
-  "skip:https://ria.ru/20261117/pvo-2132076426.html",
-  "https://www.rbc.ru/rbcfreenews/6afc1a2ce2186aeefc71b7a5",
   "title:Минобороны отчиталось об уничтожении более 2,2 тыс. украинских беспилотников за сутки",
   "skip:https://ria.ru/20261117/praga-2132088119.html",
   "https://www.interfax.ru/world/1129538",
@@ -998,5 +995,8 @@
   "title:Средства ПВО уничтожили 16 беспилотников над Калужской областью",
   "skip:https://ria.ru/20261120/dannye-2132863874.html",
   "https://tass.ru/ekonomika/28338187",
-  "title:Хакеры похитили данные тысяч клиентов Visa, Mastercard и JPMorgan Chase"
+  "title:Хакеры похитили данные тысяч клиентов Visa, Mastercard и JPMorgan Chase",
+  "skip:https://www.rbc.ru/rbcfreenews/6affc5e9481efceb16073023",
+  "https://www.kommersant.ru/doc/9114292",
+  "title:Самолет «Судного дня» сопровождал президентский кортеж Дональда Трампа во время поездки в Азию"
 ]

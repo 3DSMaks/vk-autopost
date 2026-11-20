@@ -1,7 +1,4 @@
 [
-  "title:Голлум из \"Властелина колец\" лишил Эди Серкиса сна",
-  "skip:https://kg-portal.ru/comments/135711-godzilla-minus-nol-i-ramajana-vozrozhdenie-legendy-podelili-kassu-mirovogo-prokata-nikto-ne-proigral/",
-  "skip:https://www.kinonews.ru/news_144058/",
   "skip:https://www.film.ru/news/godzilla-minus-nol-vozglavila-prokat",
   "skip:https://www.film.ru/news/stiven-spilberg-snimet-pervyy-vestern",
   "https://kg-portal.ru/comments/135710-studija-disney-polnostju-otbila-zhelanie-u-adama-drajvera-snimatsja-v-zvezdnyh-vojnah/",
@@ -998,5 +995,8 @@
   "title:Assassinʼs Creed Black Flag Resynced превзошла ожидания Ubisoft, а Rainbow Six Siege показала рост",
   "skip:https://deadline.com/2026/11/quentin-tarantino-popinjay-cavalier-cast-1237229997/",
   "https://www.film.ru/news/prichina-smerti-patrika-styuarta",
-  "title:Причина смерти Патрика Стюарта"
+  "title:Причина смерти Патрика Стюарта",
+  "skip:https://www.kinonews.ru/news_144236/",
+  "https://variety.com/2026/film/global/kieran-culkin-new-movie-succession-creator-jesse-armstrong-1236954101/",
+  "title:Kieran Culkin Says He’s Starring in New Movie From ‘Succession’ Creator Jesse Armstrong"
 ]

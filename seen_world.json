@@ -1,10 +1,4 @@
 [
-  "title:Определились участники четвертьфинала Лиги наций УЕФА",
-  "skip:https://www.rbc.ru/business/18/11/2026/6afcdc2fbe9e6bc61a8a6246",
-  "skip:https://www.france24.com/en/technology/20261117-nvidia-board-rules-that-co-founder-jensen-huang-will-not-return-as-ceo",
-  "skip:https://ria.ru/20261118/sovet-2132238269.html",
-  "skip:https://news.google.com/rss/articles/CBMivgFBVV95cUxPUzY1ZVJpMEF5SkVrMm5oVXBaUE9FNFVkUTNxQllsbHo0YXpJMnZQc0Zjc2c2Z2FjRTNYdHAxdi1ZaEFJZkFIRUxqaVNHWUpTZTdydVZtejBWd2Rqa2llYVJDR2MwdjFORHhPSkc0WXAxbml3NWdiTkx5bW9FbE9xdUl1Y1paSnZMcG1OM3RSSHV1TGhHWl92dEpGenJGTXpSbXV3OVRfQzdHTXNqX1NXRzVaY1NGdEFwOTNWSm5R?oc=5",
-  "skip:https://tass.ru/ekonomika/28328291",
   "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
   "title:Совет директоров Nvidia подтвердил, что не намерен возвращать Дженсена Хуанга на пост генерального директора",
   "skip:https://ria.ru/20261118/pvo-2132235691.html",
@@ -998,5 +992,11 @@
   "skip:https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlPdFVTT2cyVkhmMFVKNWZ1MnpNT0NLcURnblg4THMwUWNuYTRBLWUxU0ZSSUR5bk1zNnBmVlhIUjByNkN6TzVBNC1uaXQxM0dwY2FkMzZQdm00a0xyMXo3NFNpSUNPdERZWU82aGZLa0lNZHpMOXVnVDBVQW9lMmNrWEVRczVYS1Racm1NNlNERDBJeTFJRG1pZVRfTC1LTy1pNjhpVzRaeGRrY25kSzQ1aDNUUQ?oc=5",
   "skip:https://www.kommersant.ru/doc/9126693",
   "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-  "title:Расследование Комиссии по ценным бумагам США в отношении Nvidia и связи вокруг компании"
+  "title:Расследование Комиссии по ценным бумагам США в отношении Nvidia и связи вокруг компании",
+  "skip:https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
+  "https://www.kommersant.ru/doc/9126965",
+  "title:Израильские удары в центральной части сектора Газа привели к жертвам",
+  "skip:https://tass.ru/politika/28341463",
+  "https://ria.ru/20261121/posol-2133070224.html",
+  "title:Посла России в Швеции вызвали в МИД из-за взрыва у дипмиссии при ударах по Киеву"
 ]

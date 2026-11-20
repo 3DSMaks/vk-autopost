@@ -1,11 +1,4 @@
 [
-  "skip:https://www.rbc.ru/society/17/11/2026/6afc69c98ed362bb3f98cf24",
-  "https://ria.ru/20261117/kuzbass-2132187653.html",
-  "title:В Кемеровской области потерпел крушение военно-транспортный самолет Ан-12",
-  "skip:https://www.interfax.ru/world/1129644",
-  "https://tass.ru/mezhdunarodnaya-panorama/28327513",
-  "title:В Молдавии закрыли воздушное пространство из-за замеченного беспилотника",
-  "skip:https://ria.ru/20261117/lokomotiv-2132193051.html",
   "https://tass.ru/armiya-i-opk/28327539",
   "title:ВС России поразили локомотив в районе станции Кривой Рог",
   "skip:https://ria.ru/20261117/ukraina-2132192775.html",
@@ -998,5 +991,12 @@
   "skip:https://tass.ru/politika/28339505",
   "skip:https://www.interfax.ru/russia/1130416",
   "skip:https://ria.ru/20261120/rahmon-2132925514.html",
-  "https://www.kommersant.ru/doc/9126249"
+  "https://www.kommersant.ru/doc/9126249",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28339655",
+  "https://www.interfax.ru/world/1130436",
+  "title:Эстония объявила о закрытии автомобильных пограничных переходов на границе с Россией с 1 декабря",
+  "skip:https://www.france24.com/en/europe/20261120-poland-says-russian-missile-hit-its-territory-during-attack-on-ukraine",
+  "skip:https://www.kommersant.ru/doc/9126218",
+  "https://www.interfax.ru/world/1130433",
+  "title:В Польше проверили информацию о падении неизвестных объектов и привели системы ПВО в боевую готовность"
 ]

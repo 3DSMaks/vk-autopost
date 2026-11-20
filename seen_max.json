@@ -1,8 +1,4 @@
 [
-  "https://www.playground.ru/marvels_spider_man/news/vyhod_novogo_filma_o_cheloveke_pauke_udvoil_prodazhi_igrovoj_serii_marvels_spider_man_ot_insomniac-1889023#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Выход нового фильма о Человеке-пауке удвоил продажи игровой серии Marvel's Spider-Man от Insomniac",
-  "skip:https://gamemag.ru/news/202025/death-stranding-7-years",
-  "https://gamemag.ru/news/201991/byvshiy-prodyuser-bioware-rasskazal-o-slojnoy-razrabotke-dragon-age-the-veilguard",
   "title:Бывший продюсер BioWare пытался помочь с Dragon Age: The Veilguard, но его рекомендации игнорировали",
   "skip:https://www.film.ru/news/skarsgrad-hochet-sygrat-konstantina",
   "https://www.kinonews.ru/news_144060/",
@@ -998,5 +994,9 @@
   "https://www.film.ru/news/sestry-fanning-v-treylere-dramy-solovey",
   "title:Сестры Фаннинг в трейлере драмы Соловей",
   "https://www.film.ru/news/detali-novoy-pyatnicy-13-e",
-  "title:Детали новой Пятницы, 13-е"
+  "title:Детали новой Пятницы, 13-е",
+  "skip:https://www.igromania.ru/news/170103/fanatyi-gta-6-nashli-vozmozhnost-vklyuchit-kameru-ot-pervogo-litsa/",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-playable-in-first-person-heres-how-to-activate-it/",
+  "https://www.igromania.ru/news/170099/assassins-creed-black-flag-resynced-prevzoshla-ozhidaniya-ubisoft-a-rainbow-six-siege-pokazala-rost/",
+  "title:Assassinʼs Creed Black Flag Resynced превзошла ожидания Ubisoft, а Rainbow Six Siege показала рост"
 ]

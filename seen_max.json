@@ -1,7 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135712-idris-elba-sygraet-i-snimet-veselyj-ekshen-o-proshtrafivshemsja-specialnom-agente/",
-  "https://deadline.com/2026/11/dominic-west-a-weekend-in-the-country-afm-1237217129/",
-  "title:Dominic West Joins Irish-Set Drama ‘A Weekend In The Country’ — AFM",
   "skip:https://www.playground.ru/nier_automata/news/razrabotchiki_ispravili_oshibku_s_razmerom_fajlov_v_pk_versii_nier_automata_posle_obnovleniya_igra_vesila_366_gb-1889135#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169810/nier-automata-vnov-postrojnela-na-pc-minus-300-gb/",
   "skip:https://www.ign.com/articles/gta-6-metadata-ray-tracing-improvements-on-ps5-pro",
@@ -998,5 +995,8 @@
   "skip:https://stopgame.ru/newsdata/73580/analitiki_tirazh_gta_vi_za_pervye_sutki_sostavil_bolshe_24_mln_kopiy",
   "skip:https://gamemag.ru/news/202230/teper-oficialno-raskryty-aktery-djeysona-i-lusii-v-grand-theft-auto-vi",
   "https://stopgame.ru/newsdata/73578/dzhennifer_heyl_hotela_by_chtoby_ea_prodala_prava_na_mass_effect_fanatam",
-  "title:Дженнифер Хейл хотела бы, чтобы EA продала права на Mass Effect фанатам"
+  "title:Дженнифер Хейл хотела бы, чтобы EA продала права на Mass Effect фанатам",
+  "skip:https://www.playground.ru/misc/news/ya_otorvu_tebe_obe_ruki_i_zabyu_tebya_imi_do_smerti_nyt_raskryla_shokiruyuschie_podrobnosti_metodov_upravleniya_huanga-1892452#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "https://www.igromania.ru/news/170113/avtoryi-gta-6-raskryili-istochniki-vdohnoveniya-v-kino-v-tom-chisle-pobeg-kriminalnoe-chtivo-i-smertelnoe-oruzhie/",
+  "title:Авторы GTA 6 раскрыли источники вдохновения в кино: в том числе «Побег», «Криминальное чтиво» и «Смертельное оружие»"
 ]

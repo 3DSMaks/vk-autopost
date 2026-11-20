@@ -1,6 +1,4 @@
 [
-  "skip:https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/remejk_the_legend_of_zelda_ocarina_of_time_pokazal_rekordnyj_start_v_velikobritanii-1889028#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169799/remejk-the-legend-of-zelda-ocarina-of-time-oboshyol-novinki-2026-go-po-fizicheskim-prodazham-v-velikobritanii/",
   "https://www.playground.ru/marvels_spider_man/news/vyhod_novogo_filma_o_cheloveke_pauke_udvoil_prodazhi_igrovoj_serii_marvels_spider_man_ot_insomniac-1889023#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Выход нового фильма о Человеке-пауке удвоил продажи игровой серии Marvel's Spider-Man от Insomniac",
   "skip:https://gamemag.ru/news/202025/death-stranding-7-years",
@@ -998,5 +996,7 @@
   "skip:https://kg-portal.ru/comments/135869-rezhisser-originalnogo-pobega-iz-njujorka-dzhon-karpenter-stanet-kompozitorom-remejka-zaka-snajdera/",
   "skip:https://www.kinonews.ru/news_144233/",
   "https://www.film.ru/news/sestry-fanning-v-treylere-dramy-solovey",
-  "title:Сестры Фаннинг в трейлере драмы Соловей"
+  "title:Сестры Фаннинг в трейлере драмы Соловей",
+  "https://www.film.ru/news/detali-novoy-pyatnicy-13-e",
+  "title:Детали новой Пятницы, 13-е"
 ]

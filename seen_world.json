@@ -1,13 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9111972",
-  "title:Дженсен Хуанг заявил о готовности вернуться на пост гендиректора Nvidia",
-  "skip:https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28327663",
-  "https://www.interfax.ru/business/1129655",
-  "title:Дженсен Хуанг заявил о готовности вернуться на пост главы Nvidia",
-  "skip:https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington",
-  "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
-  "title:США проверяют данные о возможных угрозах со стороны Ирана",
   "skip:https://tass.ru/ekonomika/28327727",
   "skip:https://tass.ru/ekonomika/28327723",
   "skip:https://ria.ru/20261117/minpromtorg-2132207997.html",
@@ -998,5 +989,14 @@
   "skip:https://www.kommersant.ru/doc/9126389",
   "skip:https://news.google.com/rss/articles/CBMiowFBVV95cUxNajRXTHhZYWVPNm9uQUZBMlZjZTVTWjZWRjd6WFg2cDV3VzdhbWZESUhCdm1ibVB5SGhOUi1USWxDbEJFb3NUTjkzc2tsTTh2dHZocXBCNHRBdGdYZE9CV3A3am1heTYycWxNRjN6UEZFWk1ZZ042MFN2Rmgta3Q0NVpVSk5yb1JnTjhwLXdzTllZektMeWp1T0VVUW40ZE9zMnc0?oc=5",
   "https://ria.ru/20261120/frantsiya-2132972820.html",
-  "title:Доминик де Вильпен объявил о выдвижении своей кандидатуры на президентских выборах во Франции"
+  "title:Доминик де Вильпен объявил о выдвижении своей кандидатуры на президентских выборах во Франции",
+  "skip:https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine",
+  "skip:https://tass.ru/proisshestviya/28340279",
+  "skip:https://www.interfax.ru/world/1130465",
+  "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+  "title:Минобороны Польши заявило о падении российских ракет и дрона на территории страны",
+  "skip:https://www.sport-interfax.ru/1130469",
+  "skip:https://www.kommersant.ru/doc/9126435",
+  "https://www.aljazeera.com/sports/2026/11/20/nations-league-knockouts-spain-france-england-norway-quarterfinals?traffic_source=rss",
+  "title:Определились пары четвертьфиналистов Лиги наций УЕФА"
 ]

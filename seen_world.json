@@ -1,10 +1,4 @@
 [
-  "title:СК возбудил уголовное дело после крушения Ан-12 в Кемеровской области",
-  "skip:https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-  "skip:https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody",
-  "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
-  "title:Американского военного, подозреваемого в шпионаже в пользу РФ, передали властям США",
-  "skip:https://tass.ru/obschestvo/28328233",
   "skip:https://ria.ru/20261117/sboy-2132232073.html",
   "https://tass.ru/obschestvo/28328237",
   "title:В работе почтовых сервисов Gmail и Outlook в США произошел массовый сбой",
@@ -998,5 +992,11 @@
   "title:Дональд Трамп заявил о неготовности обсуждать гарантии безопасности для Украины до завершения конфликта",
   "skip:https://www.kommersant.ru/doc/9126685",
   "https://www.rbc.ru/rbcfreenews/6b00955fcaea19dc5115ced7",
-  "title:Дональд Трамп высказался за возвращение Дженсена Хуанга в Nvidia"
+  "title:Дональд Трамп высказался за возвращение Дженсена Хуанга в Nvidia",
+  "skip:https://www.kommersant.ru/doc/9126679",
+  "https://www.rbc.ru/rbcfreenews/6b00988a1d72e10990872cf8",
+  "title:Губернатор Санкт-Петербурга подписал закон о запрете розничной продажи вейпов",
+  "skip:https://www.rbc.ru/technology_and_media/20/11/2026/6b005b4333f2cdc46fcd91f6",
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxQclpUUXUwUkFoSGxUV0RoVjRkMjVpY2pFNzdTTXNGLVpsNTdzbmtIeWt1V3dvTkh5RG44RlBBbHMyZ3ltUXBBQlZWcDk0MnA5R2dfMXJvcVZBTjBiX3Ytb1RNZXdHa1NMY0xBOTFjZTRfa3prSVlfUml5MTQ3QmFuMWFOc2Z4ay1wRnFOeTBzZUJNN29qZktuakpTaUE2ZTB2SFQyVmZOU3VSN250MWRkRzVtQQ?oc=5",
+  "title:Продажи видеоигры GTA VI в первый день превысили миллиардные отметки"
 ]

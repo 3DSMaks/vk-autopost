@@ -1,13 +1,4 @@
 [
-  "https://ria.ru/20261117/krym-2132132688.html",
-  "title:ВСУ нанесли удары по Крымскому мосту, движение транспорта и поездов ограничено",
-  "skip:https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVVnUzJMMDJJUTh1NTl4Vy1VU2U0bjEzVkRGWFBtamliVkRZQkZud2VuZ25YSDc0VzM5aXhQWWN2YTBFSTRaV1BSNUE3aWp5bmpsV0ZSMDMyT2YxcW5LekhIVEt6Tm9Od1ItNUs1U0ZOd2tfeTJSdkJhVVEtbUFzV2d0Z1NGa0doNGljVlhVOUJNS1UwYXFjVVRxMEY2OTRGY1lHQzcxRTlXR2VnVkh3QjRENEd0VTFPMjRJdmk3bVpXUEVWS3RV?oc=5",
-  "https://tass.ru/mezhdunarodnaya-panorama/28326841",
-  "title:CENTCOM заявил об отсутствии ущерба радару на базе США в Бахрейне",
-  "skip:https://www.interfax.ru/world/1129604",
-  "https://www.kommersant.ru/doc/9111772",
-  "title:США продлили разрешение на закупку российской нефти для Словакии и Венгрии",
-  "skip:https://www.rbc.ru/rbcfreenews/6afc42fbceb67fb764c332ac",
   "https://www.kommersant.ru/doc/9111766",
   "title:Журналистка Катерина Гордеева объявлена в розыск в России",
   "skip:https://ria.ru/20261117/chp-2132137266.html",
@@ -998,5 +989,14 @@
   "title:ЦБ РФ предложил снизить нижнюю границу тарифного коридора ОСАГО до одного рубля",
   "skip:https://www.interfax.ru/russia/1130380",
   "https://www.kommersant.ru/doc/9114395",
-  "title:США разрешили продать Китаю крупную партию чипов для систем искусственного интеллекта"
+  "title:США разрешили продать Китаю крупную партию чипов для систем искусственного интеллекта",
+  "skip:https://tass.ru/proisshestviya/28339089",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28339039",
+  "skip:https://tass.ru/proisshestviya/28339009",
+  "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+  "title:Массированный удар по энергетической инфраструктуре и объектам на Украине, отключения света",
+  "skip:https://tass.ru/sport/28338907",
+  "skip:https://ria.ru/20261120/shvetsiya-2132905308.html",
+  "https://www.kommersant.ru/doc/9114467",
+  "title:Миграционная служба Швеции отказалась выдавать визы российским спортсменам"
 ]

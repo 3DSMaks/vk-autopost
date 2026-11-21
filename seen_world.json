@@ -1,10 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9112767",
-  "title:Генпрокуратура предложила прекратить дело сестер Хачатурян",
-  "skip:https://www.interfax.ru/world/1129861",
-  "https://www.rbc.ru/rbcfreenews/6afda5ac11c9c88c59d8ddab",
-  "title:Еврокомиссия учредила Управление ЕС по вопросам санкций",
-  "skip:https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ0Q4Sk1xb2tRUUdUMHdVNm91OGZEeDMwTkV5dlFfTTI3QXB4RUFuUERvSmpIQXAxRVpiVENsUGt4eWE3My1EU3Jxa0hOY1pwVDlSVHJFVDFJZ0N5WEFZbnZfeDg3WUwzSUVnUkdoSE02SUZ2N2t0R3I2emNZampxMlJiaDFsZkpGc2FqcE1Tcll6TzFVZlVwRkpfNnM4Z2VuX1NESTBBSVpCSGVUT1pMbnN6YjViYzA?oc=5",
   "https://www.france24.com/en/asia-pacific/20261118-north-korea-completes-external-works-on-enrichment-facility-extension-says-iaea",
   "title:МАГАТЭ сообщило о завершении внешних работ по расширению завода по обогащению урана в КНДР",
   "skip:https://www.kommersant.ru/doc/9112765",
@@ -998,5 +992,11 @@
   "title:Курс биткоина поднялся выше $60 тысяч",
   "skip:https://ria.ru/20261121/dengi-2133150262.html",
   "https://www.kommersant.ru/doc/9127174",
-  "title:Основатель китайского разработчика ИИ MiniMax потерял почти все состояние"
+  "title:Основатель китайского разработчика ИИ MiniMax потерял почти все состояние",
+  "skip:https://www.rbc.ru/rbcfreenews/6b019772fe72a4dc1cc1d4d2",
+  "https://www.kommersant.ru/doc/9127185",
+  "title:Евросоюз предложил значительно увеличить расходы на оборону в новом бюджете",
+  "skip:https://ria.ru/20261121/kapitalizatsija-2133152338.html",
+  "https://www.kommersant.ru/doc/9127169",
+  "title:Капитализация компании Nvidia сократилась более чем на $1 трлн"
 ]

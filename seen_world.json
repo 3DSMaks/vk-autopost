@@ -1,13 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1129904",
-  "skip:https://ria.ru/20261118/ushakov-2132484181.html",
-  "skip:https://www.kommersant.ru/doc/9112947",
-  "https://www.aljazeera.com/video/newsfeed/2026/11/18/crowds-gather-as-trump-arrives-in-china-ahead-of-talks-with-xi-and-putin?traffic_source=rss",
-  "title:Владимир Путин, Дональд Трамп и Си Цзиньпин проведут трехстороннюю встречу на саммите АТЭС в Шэньчжэне",
-  "skip:https://www.kommersant.ru/doc/9112972",
-  "https://www.rbc.ru/quote/18/11/2026/6afdc9cf4763b217e3a36ecc",
-  "title:СПБ Биржа запустила тестовые торги криптовалютами",
-  "skip:https://tass.ru/armiya-i-opk/28332157",
   "https://ria.ru/20261118/dron-2132499814.html",
   "title:Российская ПВО перехватила 51 украинский беспилотник за день",
   "skip:https://www.interfax.ru/world/1129926",
@@ -998,5 +989,14 @@
   "skip:https://www.france24.com/en/france-demonstrations-losing-steam-as-movement-enters-sixth-week",
   "skip:https://www.france24.com/en/new-day-of-protests-across-france",
   "https://tass.ru/mezhdunarodnaya-panorama/28342763",
-  "title:Во Франции прошли новые акции протеста против роста цен и экономической политики"
+  "title:Во Франции прошли новые акции протеста против роста цен и экономической политики",
+  "skip:https://ria.ru/20261121/politsija-2133171593.html",
+  "skip:https://ria.ru/20261121/parizh-2133171351.html",
+  "skip:https://ria.ru/20261121/parizh-2133167173.html",
+  "https://www.rbc.ru/rbcfreenews/6b01c1f15a21a81371017671",
+  "skip:https://www.rbc.ru/rbcfreenews/6b01d69016939d5f628cafff",
+  "skip:https://ria.ru/20261121/vladikavkaz-2133170595.html",
+  "skip:https://ria.ru/20261121/prokuratura-2133166995.html",
+  "https://tass.ru/proisshestviya/28342807",
+  "title:Во Владикавказе после взрыва газа частично обрушился подъезд жилого дома"
 ]

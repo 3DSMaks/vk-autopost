@@ -1,7 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/202057/blade-runner-2099-final-trailer",
-  "skip:https://gamemag.ru/news/202067/cifrovye-versii-igr-k-praznikam-nintendo-vvodit-sistemu-podarkov-dlya-switch-2",
-  "skip:https://www.pcgamer.com/hardware/handheld-gaming-pcs/steam-now-lets-you-see-exactly-what-frame-rate-you-should-get-in-games-using-a-steam-deck/",
   "skip:https://stopgame.ru/newsdata/73435/v_eshop_skoro_poyavitsya_vozmozhnost_darit_igry_dlya_switch",
   "https://www.playground.ru/call_of_duty_modern_warfare_4/news/call_of_duty_modern_warfare_4_smestila_phantom_blade_zero_i_vozglavila_chart_prodazh_v_steam-1889457#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Call of Duty: Modern Warfare 4 сместила Phantom Blade Zero и возглавила чарт продаж в Steam",
@@ -998,5 +995,8 @@
   "skip:https://www.playground.ru/misc/news/poslednij_den_suschestvovaniya_bioware_soobschestvo_poproschalos_so_studiej_razdelivshis_vo_mneniyah-1892708#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/170124/bioware-kultovaya-igrovaya-studiya-avtorov-mass-effect-i-dragon-age-ofitsialno-zakryita/",
   "https://www.playground.ru/avowed/news/avowed_vpervye_poluchila_rekordnuyu_skidku_50_v_steam_odna_iz_poslednih_rolevyh_igr_obsidian_stala_znachitelno_dostupnee-1892707#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Avowed впервые получила рекордную скидку 50% в Steam: одна из последних ролевых игр Obsidian стала значительно доступнее"
+  "title:Avowed впервые получила рекордную скидку 50% в Steam: одна из последних ролевых игр Obsidian стала значительно доступнее",
+  "skip:https://gamemag.ru/news/202250/pir-vo-vremya-chumy-microsft-snizila-cenu-na-gears-of-war-e-day-srazu-na-tret",
+  "https://www.playground.ru/outer_worlds_2/news/the_outer_worlds_2_vpervye_poluchila_rekordnuyu_skidku_60_v_steam_attraktsion_nevidannoj_schedrosti_prodlitsya_do_2_dekabrya-1892700#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:The Outer Worlds 2 впервые получила рекордную скидку 60% в Steam: аттракцион невиданной щедрости продлится до 2 декабря"
 ]

@@ -1,8 +1,4 @@
 [
-  "https://www.igromania.ru/news/169838/kolichestvo-predzakazov-gta-6-priblizhaetsya-k-10-millionam-kopij-zayavili-analitiki/",
-  "title:Количество предзаказов ​GTA 6 приближается к 10 миллионам копий, заявили аналитики",
-  "skip:https://gamemag.ru/news/202069/vampirov-zamenili-na-imperum-sostoyalsya-reliz-warhammer-survivors",
-  "skip:https://www.playground.ru/gta_6/news/po_otsenke_analitikov_sensor_tower_gta_6_stala_samoj_predzakazyvaemoj_igroj_v_istorii_9_millionov_kopij-1889417#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.pcgamer.com/games/roguelike/warhammer-survivors-review/",
   "skip:https://stopgame.ru/newsdata/73434/prodazhi_nba_2k27_okazalis_nizhe_ozhidaemyh_iz_za_gta_vi_otchet_take_two",
   "https://www.playground.ru/gta_6/news/rockstar_gotovit_syurpriz_blogeram_novye_partii_klyuchej_gta_6_mogut_razoslat_za_7_i_2_dnya_do_reliza-1889412#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +994,9 @@
   "title:Трейлер Короля Фриско с Джексоном и Сталлоне",
   "skip:https://www.igromania.ru/news/170128/gears-of-war-e-day-poluchila-pervuyu-skidku-i-stala-deshevle-na-30-s-reliza-proshlo-poltora-mesyatsa/",
   "https://www.igromania.ru/news/170125/dlya-company-of-heroes-3-vyipustili-obzornyij-trejler-dopolneniya-ob-operatsii-fakel-v-severnoj-afrike/",
-  "title:Для Company of Heroes 3 выпустили обзорный трейлер дополнения об операции «Факел» в Северной Африке"
+  "title:Для Company of Heroes 3 выпустили обзорный трейлер дополнения об операции «Факел» в Северной Африке",
+  "skip:https://deadline.com/2026/11/michael-jackson-biopic-michael-skipping-baftas-1237230863/",
+  "skip:https://variety.com/2026/film/awards/michael-biopic-bafta-awards-2027-not-submitted-1236954593/",
+  "https://www.film.ru/news/pribavlenie-v-novom-sobiratele-dush",
+  "title:Прибавление в новом Собирателе душ"
 ]

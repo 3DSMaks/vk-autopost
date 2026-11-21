@@ -1,7 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169829/finalnyij-trejler-seriala-beguschij-po-lezviyu-2099-ne-pereubedil-skeptikov/",
-  "skip:https://gamemag.ru/news/202066/oficialno-bandai-namco-zakryvaet-studiyu-vypustivshuyu-unknown-9-awakening",
-  "https://www.playground.ru/silent_hill_2/news/remejk_silent_hill_2_obnovlenie_1_08_zametno_uluchshaet_proizvoditelnost_i_grafiku_na_ps5-1889380#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Ремейк Silent Hill 2: обновление 1.08 заметно улучшает производительность и графику на PS5",
   "skip:https://www.kinonews.ru/news_144077/",
   "skip:https://kg-portal.ru/comments/135735-strannye-plany-dzhejmsa-ganna-ne-ustraivali-studiju-sledujuschie-kinokomiksy-po-dc-mozhno-budet-pokazyvat-babushkam-i-dedushkam/",
@@ -998,5 +995,8 @@
   "skip:https://kg-portal.ru/comments/135898-ljudi-iks-fantasticheskaja-chetverka-idrugie-nanovyh-promo-blokbastera-mstiteli-doktor-dum/",
   "skip:https://deadline.com/2026/11/kate-middleton-documentary-heal-release-date-trailer-1237230712/",
   "https://www.film.ru/news/lui-garrel-u-bena-stillera",
-  "title:Луи Гаррель у Бена Стиллера"
+  "title:Луи Гаррель у Бена Стиллера",
+  "skip:https://gamemag.ru/news/202250/pir-vo-vremya-chumy-microsft-snizila-cenu-na-gears-of-war-e-day-srazu-na-tret",
+  "https://www.ign.com/articles/shadowheart-baldurs-gate-3-prequel-novel-revealed",
+  "title:Shadowheart Baldur's Gate 3 Prequel Novel Revealed"
 ]

@@ -1,12 +1,4 @@
 [
-  "skip:https://tass.ru/proisshestviya/28332417",
-  "skip:https://www.kommersant.ru/doc/9113119",
-  "https://ria.ru/20261118/ssha-2132520260.html",
-  "title:В США россиянину предъявлены обвинения в шпионаже и слежке за технологической компанией",
-  "skip:https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
-  "skip:https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-  "https://tass.ru/mezhdunarodnaya-panorama/28332439",
-  "title:Армия обороны Израиля начала военную операцию в секторе Газа за пределами «желтой линии»",
   "skip:https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
   "https://www.kommersant.ru/doc/9113123",
   "title:США и Венесуэла подписали соглашение о возобновлении военного сотрудничества",
@@ -998,5 +990,13 @@
   "title:Корпус стражей исламской революции атаковал американские военные базы в Бахрейне",
   "skip:https://ria.ru/20261121/frantsii-2133183034.html",
   "https://www.france24.com/en/france/20261121-france-s-sixth-consecutive-saturday-of-protests-draw-lower-turnout",
-  "title:Во Франции прошли шестые подряд протесты против роста стоимости жизни, полиция задержала более 140 человек"
+  "title:Во Франции прошли шестые подряд протесты против роста стоимости жизни, полиция задержала более 140 человек",
+  "skip:https://news.google.com/rss/articles/CBMingFBVV95cUxNWXlDbDhlc09IVzVHS0dKcmt0cDVXd3ZRYUtWTkpDOU5IMlVfdUZsWWFqblljVXBPbG5pd1A3TTRDZkJQaFR3YXZHWHJETUk3OUhDLUw4b2dmZXZJYkhKRGdrMjFXcHJMYmt3MzRYU09OR0xkd3ZUbWNjMGhoRzhhR2NucjZaQjgyVGFqOXZ4Mm5vVUhWS3NQZHZvd0J1dw?oc=5",
+  "https://www.rbc.ru/politics/22/11/2026/6b01f431ff6c6a5945245008",
+  "title:Генсек НАТО Марк Рютте пообещал защитить каждый сантиметр территории Польши",
+  "skip:https://ria.ru/20261121/bpl-2133187044.html",
+  "skip:https://tass.ru/proisshestviya/28342909",
+  "skip:https://ria.ru/20261121/sevastopol-2133181962.html",
+  "https://www.interfax.ru/russia/1130619",
+  "title:Силы ПВО отразили атаку беспилотников над Севастополем"
 ]

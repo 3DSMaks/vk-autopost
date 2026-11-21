@@ -1,9 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/games/roguelike/warhammer-survivors-review/",
-  "skip:https://stopgame.ru/newsdata/73434/prodazhi_nba_2k27_okazalis_nizhe_ozhidaemyh_iz_za_gta_vi_otchet_take_two",
-  "https://www.playground.ru/gta_6/news/rockstar_gotovit_syurpriz_blogeram_novye_partii_klyuchej_gta_6_mogut_razoslat_za_7_i_2_dnya_do_reliza-1889412#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Rockstar готовит сюрприз блогерам: новые партии ключей GTA 6 могут разослать за 7 и 2 дня до релиза",
-  "skip:https://www.film.ru/news/pervye-otzyvy-na-skrudzha-s-deppom",
   "https://www.film.ru/news/serdce-zverya-i-chuzhaya-mama-v-seti",
   "title:Сердце зверя и Чужая мама в Сети",
   "https://www.kinonews.ru/news_144082/",
@@ -998,5 +993,10 @@
   "skip:https://deadline.com/2026/11/michael-jackson-biopic-michael-skipping-baftas-1237230863/",
   "skip:https://variety.com/2026/film/awards/michael-biopic-bafta-awards-2027-not-submitted-1236954593/",
   "https://www.film.ru/news/pribavlenie-v-novom-sobiratele-dush",
-  "title:Прибавление в новом Собирателе душ"
+  "title:Прибавление в новом Собирателе душ",
+  "skip:https://deadline.com/feature/hunger-games-sunrise-on-the-reaping-songs-soundtrack-album-1237165820/",
+  "skip:https://kg-portal.ru/comments/135891-poslannik-raja-stolknetsja-s-satanistom-nikolasom-kejdzhem-v-prodolzhenii-uzhastika-sobiratel-dush/",
+  "skip:https://kg-portal.ru/comments/135888-vozvraschenie-domoj-makolej-kalkin-iset-rogen-rabotajut-nad-novoj-chastju-odnogo-doma/",
+  "https://www.film.ru/news/lui-garrel-u-bena-stillera",
+  "title:Луи Гаррель у Бена Стиллера"
 ]

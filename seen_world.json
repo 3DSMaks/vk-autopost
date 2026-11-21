@@ -1,11 +1,4 @@
 [
-  "skip:https://ria.ru/20261118/ushakov-2132333557.html",
-  "skip:https://ria.ru/20261118/putin-2132331397.html",
-  "skip:https://ria.ru/20261118/putin-2132330612.html",
-  "skip:https://news.google.com/rss/articles/CBMimAFBVV95cUxPaDAtWFFGbDFuZ1pfbzdfUHUyYmM5QktTRkR5WndiUXpoenF6cE9VbGQ4ZE84MzY0czJoZFE3cWJXYm81ZDZtUlJzZU5sS3lueWFVV2ZBT2NtVXlkTVJ4N0NUXzhkaXRxUWRVRldGRUFTMERMcXVYcGtaWFI2bnFfY3U0YUFlenRnajRaZ2hOc3h3OFcteFYySg?oc=5",
-  "https://tass.ru/politika/28330301",
-  "title:Владимир Путин, Дональд Трамп и Си Цзиньпин прибыли на саммит АТЭС в Шэньчжэнь",
-  "skip:https://www.interfax.ru/russia/1129771",
   "https://ria.ru/20261118/minoborony-2132339606.html",
   "title:ВС России нанесли удары по военным аэродромам и объектам энергетики Украины",
   "skip:https://www.kommersant.ru/doc/9112462",
@@ -998,5 +991,12 @@
   "skip:https://tass.ru/ekonomika/28342141",
   "skip:https://www.rbc.ru/economics/21/11/2026/6b014792ab1f876132176951",
   "https://www.kommersant.ru/doc/9127070",
-  "title:Курс биткоина упал до минимума с сентября 2024 года"
+  "title:Курс биткоина упал до минимума с сентября 2024 года",
+  "skip:https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+  "https://www.france24.com/en/eu-uk-reach-reset-deal-after-brexit",
+  "skip:https://www.interfax.ru/russia/1130570",
+  "skip:https://www.interfax.ru/russia/1130568",
+  "skip:https://tass.ru/armiya-i-opk/28342161",
+  "https://www.kommersant.ru/doc/9127087",
+  "title:Минобороны РФ отчиталось об ударах по объектам военной и энергетической инфраструктуры Украины"
 ]

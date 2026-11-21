@@ -1,14 +1,4 @@
 [
-  "skip:https://tass.ru/politika/28328943",
-  "skip:https://www.kommersant.ru/doc/9112158",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28328941",
-  "skip:https://tass.ru/ekonomika/28328935",
-  "skip:https://tass.ru/politika/28328933",
-  "skip:https://www.rbc.ru/rbcfreenews/6afca678632f4bbee3902035",
-  "skip:https://www.interfax.ru/world/1129725",
-  "skip:https://www.rbc.ru/politics/18/11/2026/6afc9fe194f2e4e7c19ef5e6",
-  "skip:https://ria.ru/20261118/peregovory-2132255787.html",
-  "skip:https://www.interfax.ru/world/1129724",
   "https://tass.ru/mezhdunarodnaya-panorama/28329037",
   "title:Владимир Путин и Си Цзиньпин провели двустороннюю встречу на полях саммита АТЭС в Шэньчжэне",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28329777",
@@ -998,5 +988,15 @@
   "title:В столице Саудовской Аравии Эр-Рияде прогремел мощный взрыв",
   "skip:https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ19DTDNqa18wN2l3QWdvckc3UXYwZWhlRlpFaUVpRFBtdlBWRjY2WC1mTEdSbHIwbmxTcnNTQ2tkci04ZFoyRjlxTjQtdHh1a3lETGN2TGtWYmY3Ty1ibFZOQk1zUXJNcHE4ZWVXNkRSdDFwY21WNC1BSE1GeWdQMkxpRHQ0Yjd1cFVXNmNuRmFveUIwOW9iTDA4Z3BLc3lVMnVXMkpoSEllVEswZncxZEJVZ3N2ODhYOUs1YlkwZmVnNnhDUWVUSmdNVQ?oc=5",
   "https://ria.ru/20261121/glava-2133076309.html",
-  "title:Глава Пентагона наложил ограничения на партнерство США и Канады"
+  "title:Глава Пентагона наложил ограничения на партнерство США и Канады",
+  "skip:https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
+  "https://ria.ru/20261121/koalitsija-2133076871.html",
+  "title:Арабская коалиция перехватила три ракеты, запущенные по Эр-Рияду",
+  "skip:https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
+  "skip:https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+  "skip:https://news.google.com/rss/articles/CBMingFBVV95cUxQY09GMmxTYlpRMnQ3YVJ4Q3BUdmg3NEFJWG5lVlh4TC0zZGxxZVcydTkwSkpiZUZfS3BXdlRab05HSW5TS0h5TDY5NFRKajBDSWdFbUdhNFIxMzUxc3pLRnEtMXVNblBwZmgteFlUWVhuS0lRU3diRGpWQnkyeWtDMGJiS3hzd2xCdUtDVHIxc0hOWGkwTHdPZ1FfenUwQQ?oc=5",
+  "skip:https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDhJbUROT2pNZjBobFFBeFlGWU5HRS1PZFNydV9OdHpJbEttV2ZDVElPaGNhNnE3cGlnYUlZOTR3ZC1KZGNIX0pJbExiMzBWa3lxTHpZeUtBYjFtSXJwN3FpZWhjNnUwSklvVmZlRGdEQmNFSlFVcldhXzJsbk1hUlNUMXY0Q0Fjajc0c1ZlQTY0a0FFdUlyRzg4UWQ3M1d5WjFMTjhzRWtlS2VxMnc?oc=5",
+  "skip:https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWtIWXhnWHpsWWZSZ2dFVFRFSXBHaUxOWlp1VnFSZEoycGRtMDE1NVhuM2NEa2ZUTHlLN0lFbG5aX295SThLcFVXMEV3VmJidHF2amdDelVYWWprLXRsNWpodU9LcERma2xnc2pWaTZGbmNHZnYwREdjQnBOcGR0S0JSdnZTaC1aYmtBWXdRXzJiVDhHbFBEZ3lDdWhzS3Q3dnFMY3d3cjZIdw?oc=5",
+  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01YzRiT09nYlU4eGlRUGtzSE1Jd1MyT1BpbUozZWxhNG95LTBqUnNwcTFlQURCcXY2ZTJ5RDd2YWhTR0J4RDhMcVM3ZHUyRGlOSU50TjRwbmk2eUZMNndFNF9hMDBYcVU?oc=5",
+  "title:Обвал акций технологических компаний на бирже США привел к падению индексов S&P 500 и Dow Jones"
 ]

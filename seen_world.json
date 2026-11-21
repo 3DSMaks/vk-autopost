@@ -1,12 +1,4 @@
 [
-  "skip:https://www.rbc.ru/politics/18/11/2026/6afd8deec1dcac8fc6128134",
-  "skip:https://www.rbc.ru/politics/18/11/2026/6afd8e8e67703f07d414919b",
-  "https://www.interfax.ru/world/1129848",
-  "title:Владимир Путин, Дональд Трамп и Си Цзиньпин встретились на саммите АТЭС в Шэньчжэне",
-  "skip:https://tass.ru/sport/28331303",
-  "skip:https://www.rbc.ru/sport/18/11/2026/6afd9997c68e49d8434471d3",
-  "https://ria.ru/20261118/futbol-2132434188.html",
-  "title:Сборная России по футболу не примет участия в жеребьевке отборочного турнира Евро-2028",
   "skip:https://tass.ru/proisshestviya/28331291",
   "skip:https://ria.ru/20261118/antalja-2132430255.html",
   "skip:https://tass.ru/proisshestviya/28331207",
@@ -998,5 +990,13 @@
   "title:Атака дрона на грузовое судно в Финском заливе",
   "skip:https://tass.ru/ekonomika/28342457",
   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMEktcWd6MTVXNDk2WEVleTlEckNHZy1HdDNfYjhTcmZaODB0ZE9YQXlpUUdBdmpiYjhvcUJDUWNRbUh6NjJCM1NPSlNCd2NJeTE1Mlpoel83ajNSQ1lWbTdGbFc2MWpvam9SWjU2WFZBZktuU2NBYmpaTlZmR1dsQU1sZzJ5LWZQbE9BS3VjbTRKZGg3QmNhWGNVT3VNV0JPWlZXZmtNVTVXZnUzZ05NR1Nzcjc1WEJZc24tT3M5Z1Rfdw?oc=5",
-  "title:Предложения по сокращению проекта бюджета ЕС на 2028-2034 годы"
+  "title:Предложения по сокращению проекта бюджета ЕС на 2028-2034 годы",
+  "skip:https://ria.ru/20261121/drozdenko-2133144497.html",
+  "skip:https://ria.ru/20261121/drozdenko-2133144354.html",
+  "skip:https://www.rbc.ru/rbcfreenews/6b018f1dcccf1d3a739b3578",
+  "https://www.kommersant.ru/doc/9127165",
+  "title:Финляндия заявила о нарушении воздушного пространства российским вертолетом и координирует помощь судну в Финском заливе",
+  "skip:https://tass.ru/proisshestviya/28342557",
+  "https://www.interfax.ru/world/1130588",
+  "title:Власти Франции отвергли проект бюджета ЕС, а в Словакии госпитализировали людей из-за утечки вещества"
 ]

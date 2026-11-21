@@ -1,13 +1,4 @@
 [
-  "https://news.google.com/rss/articles/CBMilAFBVV95cUxONFk1RlZIUXh1dXlFVHVzSlh1YjVibG0wdV81RS1na0Ywc3p5MEhaOXB6YlREV3FFRzJpM1VhMFgzYnNLU3hvaXBXOUh4TkpXa01XYTRzS1o1R0VXcHhzZXc4ZkRZYUIxRVVpRXB6Zm9BRUNMQlE5aGFySVUzR2RpVmpsV1A2UFNSLTRITEZNVG5BdUlZ?oc=5",
-  "title:США и Венесуэла подписали соглашение о военном сотрудничестве",
-  "skip:https://tass.ru/obschestvo/28332349",
-  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOGNmVE82STJXZmVsTDNGb2tfdldvRTFfUHZvMkp3bjRscUFKOElQX2JoV3pKV0Y3aHV3QVVBNGd0YU1aQno2ZzNYSVVrS1dGVVlEbzBoTDlGcU1YMXdtNFdBMF8yalB0WFF2eWJMdzh3VXNTckVoUGZzSWw4c1JCMkI5eWloTHM3SUVKd0hRLTVMYVlReWplaHhKQUZZbXlmaHpjbHBSVjM?oc=5",
-  "title:Аналитики прогнозируют превышение числа мусульман над христианами к 2035 году",
-  "skip:https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
-  "skip:https://ria.ru/20261118/ssha-2132514889.html",
-  "skip:https://ria.ru/20261118/pentagon-2132512173.html",
-  "skip:https://news.google.com/rss/articles/CBMivgFBVV95cUxPZV9uT1R6QjFJeHlkYmhUeTdIQ0F0Ync2akZibV9hdmhtNEZMelUzSkk1WlFTNTJUd2NKdC1ILW9rWHZJb3JZemxwT2dwNlc5QjNIYzlNS1kwVkt6aDl5aVl0VFdvRUNPYzBMeXJtMnM4YVJPWjdvSzZ6eWlQNXVFdGdhNkw3YzhpQ0V4Yk11dlFKS21RREIxZVcwUFJxS0xKZ25TMDE1bGtDRUJ2aUp2VVFBVkUtSDU1VXBLNENB?oc=5",
   "https://tass.ru/mezhdunarodnaya-panorama/28332425",
   "title:США и Венесуэла подписали соглашение о возобновлении оборонного партнерства",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28332393",
@@ -998,5 +989,14 @@
   "skip:https://www.kommersant.ru/doc/9127201",
   "skip:https://www.interfax.ru/russia/1130608",
   "https://www.interfax.ru/russia/1130613",
-  "title:В Калининградской области сработала система беспилотной опасности, аэропорт Храброво вводил ограничения"
+  "title:В Калининградской области сработала система беспилотной опасности, аэропорт Храброво вводил ограничения",
+  "skip:https://www.france24.com/en/russia-launches-ballistic-missile-attack-on-zelensky-s-hometown-in-central-ukraine",
+  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
+  "https://www.france24.com/en/europe/20261121-russia-attacks-zelensky-s-hometown-ukraine-reaffirms-wish-to-join-nato",
+  "title:Удар российской баллистической ракеты по родному городу Владимира Зеленского привел к жертвам",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28342913",
+  "skip:https://ria.ru/20261121/ksir-2133182903.html",
+  "skip:https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTzltZHhpNzJyRTg4dE5kYUJSOUJ4azFWY2txckEtQUlGQVVfTEtIUUpWN3dHZWlocXlZWGFidVRIMjN3ZDM4d2xQWVZ0UFAxRm81TGFfbFNZRzMxTXJOemdzOHRNeWJOLXhEWF83a3N0a1hiR0FjbUE1eGZVX002eVpMNHJyX2JoVXp5bFdjcDJBYkhOWFE4a1AzN0hSRE1wTDFmNGxvaFR6TkR6bkd4a3FSSUU1anZp?oc=5",
+  "https://tass.ru/proisshestviya/28342915",
+  "title:КСИР атаковал американские базы в Бахрейне"
 ]

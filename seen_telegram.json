@@ -1,8 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73452/shrayer_sony_otmenila_onlayn_shuter_fairgames",
-  "skip:https://www.igromania.ru/news/169852/gta-6-blagodaryu-tebya-otgruzki-konsolej-playstation-5-po-vsemu-miru-byistro-prevyisili-100-mln/",
-  "skip:https://www.playground.ru/misc/news/ps5_dostigla_vazhnoj_vehi_obyom_postavok_prevysil_100_millionov_edinits-1889594#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169848/onlajn-shuter-fairgames-dlya-playstation-otmenili-posle-neudovletvoritelnyih-testov/",
   "skip:https://www.playground.ru/monster_hunter_wilds/news/v_steamdb_obnaruzhena_zapis_ukazyvayuschaya_na_vozmozhnuyu_beta_versiyu_dopolneniya_ascendance_dlya_monster_hunter_wilds-1889578#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.pcgamer.com/gaming-industry/sony-cancels-another-live-service-game-ahead-of-release-but-at-least-there-wont-be-any-layoffs-this-time/",
   "skip:https://www.pcgamer.com/games/action/capcom-quietly-updates-the-monster-hunter-wilds-beta-listing-on-steam-indicating-a-possible-expansion-playtest/",
@@ -998,5 +994,9 @@
   "video:2026-11-21:https://www.pcgamer.com/games/rpg/seven-years-on-since-persona-5-royal-atlus-says-people-wont-have-to-wait-as-long-as-they-have-previously-for-the-next-game-after-persona-6/",
   "title:Seven years on since Persona 5 Royal, Atlus says 'people won't have to wait as long as they have previously' for the next game after Persona 6",
   "https://www.playground.ru/total_war_warhammer_40_000/news/v_total_war_warhammer_40_000_reputatsiya_kosmodesanta_opredelit_naskolko_ohotno_im_budut_pomogat_mestnye_zhiteli-1892768#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:В Total War: Warhammer 40,000 репутация Космодесанта определит, насколько охотно им будут помогать местные жители"
+  "title:В Total War: Warhammer 40,000 репутация Космодесанта определит, насколько охотно им будут помогать местные жители",
+  "skip:https://stopgame.ru/newsdata/73592/geymery_unichtozhayut_gta_vi_polzovatelskaya_ocenka_igry_na_metacritic_upala_do_5_6_ballov",
+  "skip:https://gamemag.ru/news/202253/goyslop-isteriya-gta-vi-podverglas-revyu-bombingu-na-metacritic",
+  "https://www.ign.com/articles/how-rockstar-made-every-npc-feel-alive-in-gta-6",
+  "title:How Rockstar Made Every NPC Feel Alive in GTA 6"
 ]

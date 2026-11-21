@@ -1,11 +1,4 @@
 [
-  "skip:https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
-  "https://www.kommersant.ru/doc/9113123",
-  "title:США и Венесуэла подписали соглашение о возобновлении военного сотрудничества",
-  "skip:https://www.interfax.ru/russia/1129946",
-  "https://www.kommersant.ru/doc/9113122",
-  "title:В Севастополе вводят лимиты на продажу топлива из-за ажиотажного спроса",
-  "skip:https://www.rbc.ru/business/19/11/2026/6afdca9ddd27a26fda548cef",
   "https://ria.ru/20261119/anthropic-2132523891.html",
   "title:Искусственный интеллект компании Anthropic может выйти на биржу с рекордной оценкой акций",
   "skip:https://www.rbc.ru/politics/19/11/2026/6afe2a2165a66eb4fb259784",
@@ -998,5 +991,12 @@
   "skip:https://tass.ru/proisshestviya/28342909",
   "skip:https://ria.ru/20261121/sevastopol-2133181962.html",
   "https://www.interfax.ru/russia/1130619",
-  "title:Силы ПВО отразили атаку беспилотников над Севастополем"
+  "title:Силы ПВО отразили атаку беспилотников над Севастополем",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28342937",
+  "https://ria.ru/20261122/slovakija-2133191417.html",
+  "title:Премьер-министр Словакии Роберт Фицо заявил об отказе участвовать в кредите ЕС для Украины",
+  "skip:https://tass.ru/kosmos/28342945",
+  "skip:https://www.interfax.ru/russia/1130618",
+  "https://ria.ru/20261121/spacex-2133188552.html",
+  "title:Компания SpaceX запустила Falcon 9 со спутниками Starshield для Космических сил США"
 ]

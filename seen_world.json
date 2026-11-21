@@ -1,13 +1,4 @@
 [
-  "title:В Европе зафиксирован рост числа инфекций, вызванных устойчивой к антибиотикам бактерией",
-  "skip:https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWmNhRGRTRGVGakVJc3BWdnQ1ZWRXQnZZRmR5TThNMm52a21IaWNtVXpZbEJTYmdld1ZSdnVLYTZsQlFZSnhhR3hSSmpOckExUnhnZldXS3FvZFZDeHZiSHV2eW1LUDYtRUc2UDVBQ1c3bDRPOUhsSGJoUF8yQzAxWEhIS3dXRXM1MG5lZzdvaW9HQnNQR0V6OFE5T1h3VVowc0hBRkYtaWxRUTh0NEhIbWthc0FEQlBWUWdj?oc=5",
-  "https://tass.ru/proisshestviya/28332167",
-  "title:В результате вооруженных нападений в Гондурасе погибли 12 человек",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28332239",
-  "skip:https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVdVck4yZnVKU01QQ0Nrd1c2VXRReEloTk1IS0xKWjRkcUdrR3BiTlAyU2dQVm1POVg0MmM5anI0YWlIa0txYms3Sjh6QW9kRjU3bmk0ajlHZ3BZbHM5eHBqazVBbVRvYkt4NENBZ0VuU3NEREFaVGpEOXFyMkdPWEktNE41aUIzY2U3enZDX1dmTTZkQzJPNHh0WktQUV80M2ZTb2o0ZDBYUHR0YmIxRWlB?oc=5",
-  "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss",
-  "title:Израильская армия начала новую военную операцию в центральной части сектора Газа",
-  "skip:https://ria.ru/20261118/polsha-2132501798.html",
   "https://www.interfax.ru/world/1129940",
   "title:Главу Конституционного суда Польши отстранили от работы и лишили иммунитета",
   "skip:https://www.interfax.ru/russia/1129937",
@@ -998,5 +989,14 @@
   "skip:https://ria.ru/20261121/pvo-2133176992.html",
   "skip:https://tass.ru/armiya-i-opk/28342811",
   "https://www.interfax.ru/russia/1130612",
-  "title:Силы ПВО за день сбили 47 украинских беспилотников над регионами России"
+  "title:Силы ПВО за день сбили 47 украинских беспилотников над регионами России",
+  "skip:https://www.france24.com/en/drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
+  "skip:https://www.kommersant.ru/doc/9127192",
+  "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+  "title:Финляндия заявила о возможной причастности Украины к атаке дронов на российское судно в Финском заливе",
+  "skip:https://news.google.com/rss/articles/CBMimgFBVV95cUxOTzg5OVFjVWE0RGV5T1VhWTRQR2JFd0VqdFNBSEVtZ2NxdHotRXFIYVIxd1FmUzY2UmJtR2lSamtTU21TUXZfcTJ0Zm9kMnNCQVdoclZoaHBsTGVNbjZZcVlaYWNtNHVrM2FST21pRU84UzlZd3oyLTlERlR3M0lRQVpxQTZhZXhqTU12SFQzVGpYNllBeTFOS2hn?oc=5",
+  "skip:https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKX3JwTl92NG1EMFFiZGNSUDk2bTRHWWwwYnBObS1kamRlZnc4LXhpZjY5bkRRZUtyOS1lVlhaaFFtWWIxVEJKZkFFX211ck1ValR3cE56ZnUwUFRIWmJucmI2ZVl3M2M?oc=5",
+  "skip:https://ria.ru/20261121/parizh-2133175483.html",
+  "https://tass.ru/obschestvo/28342845",
+  "title:Во Франции прошли массовые протесты против роста цен, полиция задержала более 140 человек"
 ]

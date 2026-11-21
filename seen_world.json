@@ -1,10 +1,4 @@
 [
-  "https://tass.ru/mezhdunarodnaya-panorama/28332425",
-  "title:США и Венесуэла подписали соглашение о возобновлении оборонного партнерства",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28332393",
-  "skip:https://ria.ru/20261118/ukraina-2132509957.html",
-  "https://www.kommersant.ru/doc/9113120",
-  "title:Италия потребовала от Украины разъяснений по поводу включения евродепутатов в базу сайта «Миротворец»",
   "skip:https://tass.ru/proisshestviya/28332417",
   "skip:https://www.kommersant.ru/doc/9113119",
   "https://ria.ru/20261118/ssha-2132520260.html",
@@ -998,5 +992,11 @@
   "skip:https://ria.ru/20261121/ksir-2133182903.html",
   "skip:https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTzltZHhpNzJyRTg4dE5kYUJSOUJ4azFWY2txckEtQUlGQVVfTEtIUUpWN3dHZWlocXlZWGFidVRIMjN3ZDM4d2xQWVZ0UFAxRm81TGFfbFNZRzMxTXJOemdzOHRNeWJOLXhEWF83a3N0a1hiR0FjbUE1eGZVX002eVpMNHJyX2JoVXp5bFdjcDJBYkhOWFE4a1AzN0hSRE1wTDFmNGxvaFR6TkR6bkd4a3FSSUU1anZp?oc=5",
   "https://tass.ru/proisshestviya/28342915",
-  "title:КСИР атаковал американские базы в Бахрейне"
+  "title:КСИР атаковал американские базы в Бахрейне",
+  "skip:https://www.rbc.ru/rbcfreenews/6b01f679d921cbbc50a4169e",
+  "https://ria.ru/20261121/bahrejn-2133187218.html",
+  "title:Корпус стражей исламской революции атаковал американские военные базы в Бахрейне",
+  "skip:https://ria.ru/20261121/frantsii-2133183034.html",
+  "https://www.france24.com/en/france/20261121-france-s-sixth-consecutive-saturday-of-protests-draw-lower-turnout",
+  "title:Во Франции прошли шестые подряд протесты против роста стоимости жизни, полиция задержала более 140 человек"
 ]

@@ -1,6 +1,4 @@
 [
-  "skip:https://variety.com/2026/film/news/julia-garner-madonna-biopic-status-1236943732/",
-  "skip:https://www.film.ru/news/desyat-let-tyurmy-dlya-rassella-brenda",
   "skip:https://www.film.ru/news/dzheyms-gann-pokidaet-dc",
   "skip:https://www.kinonews.ru/news_144069/",
   "https://www.film.ru/news/finalnyy-treyler-begushchego-po-lezviyu-2099",
@@ -998,5 +996,7 @@
   "skip:https://www.kinonews.ru/news_144249/",
   "skip:https://kg-portal.ru/comments/135881-zvezdnyj-duejn-dzhonson-sprodjusiruet-dlja-myshinogo-doma-fentezi-meduza-pro-okamenjajuschuju-vzgljadom/",
   "https://variety.com/2026/film/global/robert-pattinson-bond-movie-shoot-pinewood-studios-1236954829/",
-  "title:Robert Pattinson’s 007 Movie in Talks to Shoot at Pinewood as Studio Says ‘We’re the Home of Bond’"
+  "title:Robert Pattinson’s 007 Movie in Talks to Shoot at Pinewood as Studio Says ‘We’re the Home of Bond’",
+  "https://kg-portal.ru/comments/135897-santaklaus-arnold-shvarcenegger-vor-alan-richson-ielfijka-akvafina-nanovyh-kadrah-izkomedii-chelovek-smeshkom/",
+  "title:Санта-Клаус Арнольд Шварценеггер, вор Алан Ричсон и эльфийка Аквафина на новых кадрах из комедии \"Человек с мешком\""
 ]

@@ -1,12 +1,4 @@
 [
-  "https://www.france24.com/en/asia-pacific/20261118-north-korea-completes-external-works-on-enrichment-facility-extension-says-iaea",
-  "title:МАГАТЭ сообщило о завершении внешних работ по расширению завода по обогащению урана в КНДР",
-  "skip:https://www.kommersant.ru/doc/9112765",
-  "skip:https://www.interfax.ru/business/1129869",
-  "https://www.rbc.ru/finances/18/11/2026/6afda49e1cff42e2cf35ee71",
-  "title:ЦБ РФ запланировал тестирование офлайн-платежей цифровым рублем на осень 2027 года",
-  "skip:https://www.kommersant.ru/doc/9112905",
-  "https://ria.ru/20261118/gruzoperevozki-2132469390.html",
   "title:Объем грузоперевозок по Северному морскому пути превысил 40 миллионов тонн",
   "skip:https://www.kommersant.ru/doc/9112840",
   "https://www.rbc.ru/rbcfreenews/6afdb0a649ef85cb5ecd9811",
@@ -998,5 +990,13 @@
   "title:Евросоюз предложил значительно увеличить расходы на оборону в новом бюджете",
   "skip:https://ria.ru/20261121/kapitalizatsija-2133152338.html",
   "https://www.kommersant.ru/doc/9127169",
-  "title:Капитализация компании Nvidia сократилась более чем на $1 трлн"
+  "title:Капитализация компании Nvidia сократилась более чем на $1 трлн",
+  "skip:https://www.kommersant.ru/doc/9127176",
+  "skip:https://tass.ru/proisshestviya/28342647",
+  "https://www.rbc.ru/rbcfreenews/6b01be60a73d819ec2a5ad2d",
+  "title:Во Владикавказе ввели режим ЧС после взрыва газа в жилом доме",
+  "skip:https://www.interfax.ru/world/1130598",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28342643",
+  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMEdyaGtabnZRdHhGLWIzeGx0MkhleGZEYlVpTmFySVFYdlUtd3JfamE1YjlXQmwzWW1xTE83UzJRZ2lra1pEWmFsTXZMbDRlUm9CNTllRHdXR0VWRExIaTlQanhkTDFaU2RjU2dCYkI3WDd2WElmSlFfY1pwVkdxVEw0cDBYNGEwTGFLUGFqUTZPMFIxU0Y4Z25pREJEai16RGNfX3JlWXZOZ05hT3liNUJnU2stVlQ5RV9NZmVBUmhlQQ?oc=5",
+  "title:Центральное командование США опровергло заявление Ирана об ударе по истребителю F-16"
 ]

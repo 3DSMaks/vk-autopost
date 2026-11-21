@@ -1,8 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169840/gta-6-poluchila-korotkij-trejler-v-chest-starta-predzagruzki/",
-  "skip:https://gamemag.ru/news/202057/blade-runner-2099-final-trailer",
-  "skip:https://www.playground.ru/gta_6/news/dazhe_ps5_pro_ne_spasyot_gta_6_ot_30_fps_ambitsii_rockstar_okazalis_vyshe_vozmozhnostej_tekuschego_pokoleniya_konsolej-1889436#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.playground.ru/gta_6/news/rockstar_vypustila_novyj_tizer_gta_6_v_rolike_pokazali_svezhie_kadry_pered_skorym_relizom-1889435#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.playground.ru/gta_6/news/po_otsenke_analitikov_sensor_tower_gta_6_stala_samoj_predzakazyvaemoj_igroj_v_istorii_9_millionov_kopij-1889417#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://stopgame.ru/newsdata/73434/prodazhi_nba_2k27_okazalis_nizhe_ozhidaemyh_iz_za_gta_vi_otchet_take_two",
   "title:Продажи NBA 2K27 оказались ниже ожидаемых из-за GTA VI — отчёт Take-Two",
@@ -998,5 +994,9 @@
   "skip:https://kg-portal.ru/comments/135900-snimat-dermovye-filmy-ploho-dlja-zdorovja-i-reputacii-rezhisser-ushedshij-s-novogo-blejda-opjat-unizil-marvel/",
   "skip:https://www.kinonews.ru/news_144250/",
   "https://www.film.ru/news/treyler-mangusta-s-liamom-nisonom",
-  "title:Трейлер Мангуста с Лиамом Нисоном"
+  "title:Трейлер Мангуста с Лиамом Нисоном",
+  "skip:https://www.kinonews.ru/news_144252/",
+  "skip:https://kg-portal.ru/comments/135899-zvezda-riverdejla-lili-rejnhart-mozhet-sygrat-vfilme-pro-kukol-polli-poket-otproizvoditelej-barbi/",
+  "https://kg-portal.ru/comments/135886-sergej-burunov-valentina-ljapina-idrugie-naposterah-novogodnej-komedii-elki-13/",
+  "title:Сергей Бурунов, Валентина Ляпина и другие на постерах новогодней комедии \"Ёлки 13\""
 ]

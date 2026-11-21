@@ -1,7 +1,4 @@
 [
-  "title:Анонсирована Beholder 4",
-  "skip:https://www.pcgamer.com/games/grand-theft-auto/rockstar-is-putting-on-a-last-minute-live-music-festival-featuring-travis-scott-and-cardi-b-to-celebrate-gta-6s-launch/",
-  "skip:https://gamemag.ru/news/202055/muzyka-gta-vi-rockstar-games-provedet-muzykalnyy-festival-v-mayami",
   "https://www.igromania.ru/news/169838/kolichestvo-predzakazov-gta-6-priblizhaetsya-k-10-millionam-kopij-zayavili-analitiki/",
   "title:Количество предзаказов ​GTA 6 приближается к 10 миллионам копий, заявили аналитики",
   "skip:https://gamemag.ru/news/202069/vampirov-zamenili-na-imperum-sostoyalsya-reliz-warhammer-survivors",
@@ -998,5 +995,8 @@
   "skip:https://www.kinonews.ru/news_144249/",
   "skip:https://www.kinonews.ru/news_144246/",
   "https://www.film.ru/news/treyler-korolya-frisko-s-dzheksonom-i-stallone",
-  "title:Трейлер Короля Фриско с Джексоном и Сталлоне"
+  "title:Трейлер Короля Фриско с Джексоном и Сталлоне",
+  "skip:https://www.igromania.ru/news/170128/gears-of-war-e-day-poluchila-pervuyu-skidku-i-stala-deshevle-na-30-s-reliza-proshlo-poltora-mesyatsa/",
+  "https://www.igromania.ru/news/170125/dlya-company-of-heroes-3-vyipustili-obzornyij-trejler-dopolneniya-ob-operatsii-fakel-v-severnoj-afrike/",
+  "title:Для Company of Heroes 3 выпустили обзорный трейлер дополнения об операции «Факел» в Северной Африке"
 ]

@@ -1,7 +1,4 @@
 [
-  "https://www.film.ru/news/serdce-zverya-i-chuzhaya-mama-v-seti",
-  "title:Сердце зверя и Чужая мама в Сети",
-  "https://www.kinonews.ru/news_144082/",
   "title:Джейсон Момоа рассказал о возрождении Дункана Айдахо в \"Дюне 3\"",
   "https://www.kinonews.ru/news_144083/",
   "title:Netflix нашел Эдварда и Беллу для новой версии \"Сумерек\"",
@@ -998,5 +995,8 @@
   "skip:https://kg-portal.ru/comments/135891-poslannik-raja-stolknetsja-s-satanistom-nikolasom-kejdzhem-v-prodolzhenii-uzhastika-sobiratel-dush/",
   "skip:https://kg-portal.ru/comments/135888-vozvraschenie-domoj-makolej-kalkin-iset-rogen-rabotajut-nad-novoj-chastju-odnogo-doma/",
   "https://www.film.ru/news/lui-garrel-u-bena-stillera",
-  "title:Луи Гаррель у Бена Стиллера"
+  "title:Луи Гаррель у Бена Стиллера",
+  "skip:https://variety.com/2026/tv/news/princess-kate-cancer-documentary-premiere-dates-1236954745/",
+  "https://www.kinonews.ru/news_144251/",
+  "title:Боевик \"Час пик 4\" получил бюджет в 120 миллионов долларов"
 ]

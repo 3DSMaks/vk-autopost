@@ -1,7 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169820/v-metadannyih-gta-6-nashli-sledyi-multipleernogo-rezhima-propavshego-fajla-i-ne-tolko/",
-  "skip:https://gamemag.ru/news/202055/muzyka-gta-vi-rockstar-games-provedet-muzykalnyy-festival-v-mayami",
-  "skip:https://gamemag.ru/news/202049/startovala-predzagruzka-gta-vi-dlya-ps5",
   "skip:https://gamemag.ru/news/202054/nakazanie-za-supergerl-djeyms-gann-i-piter-safran-bolshe-ne-vozglavlyayut-dc-studios",
   "https://www.pcgamer.com/games/grand-theft-auto/take-two-expects-to-make-as-much-as-usd3-5-billion-during-the-gta-6-launch-period/",
   "title:Take-Two expects to make as much as $3.5 billion during the GTA 6 launch period",
@@ -998,5 +995,8 @@
   "skip:https://www.playground.ru/gta_6/news/floridskij_dzhoker_treboval_ot_rockstar_10_mln_za_gta_vi_a_teper_neozhidanno_poyavilsya_v_ofitsialnyh_titrah_igry-1892657#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.pcgamer.com/games/grand-theft-auto/florida-joker-gets-his-wish-hes-a-special-voice-actor-in-grand-theft-auto-6/",
   "https://www.ign.com/articles/gta-6-triggers-busiest-traffic-day-in-comcast-history",
-  "title:GTA 6 Triggers Busiest Traffic Day in Comcast History"
+  "title:GTA 6 Triggers Busiest Traffic Day in Comcast History",
+  "skip:https://www.playground.ru/gta_6/news/v_gta_vi_obnaruzhili_sposob_razblokirovat_60_fps_i_vyshe_na_xbox_series_x_cherez_quick_resume-1892678#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "https://www.igromania.ru/news/170128/gears-of-war-e-day-poluchila-pervuyu-skidku-i-stala-deshevle-na-30-s-reliza-proshlo-poltora-mesyatsa/",
+  "title:Gears of War: E-Day получила первую скидку и стала дешевле на 30% — с релиза прошло полтора месяца"
 ]

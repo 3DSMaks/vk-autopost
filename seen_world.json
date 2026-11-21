@@ -1,12 +1,4 @@
 [
-  "skip:https://tass.ru/politika/28329015",
-  "skip:https://ria.ru/20261118/tszinpin-2132259655.html",
-  "skip:https://ria.ru/20261118/tszinpin-2132259062.html",
-  "skip:https://ria.ru/20261118/si-2132258783.html",
-  "skip:https://ria.ru/20261118/putin-2132258263.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28328957",
-  "skip:https://tass.ru/politika/28328949",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28328953",
   "skip:https://tass.ru/politika/28328943",
   "skip:https://www.kommersant.ru/doc/9112158",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28328941",
@@ -998,5 +990,13 @@
   "title:Экс-президента Бразилии Жаира Болсонару снова госпитализировали из-за болей в животе",
   "skip:https://ria.ru/20261121/shvejtsarija-2133071511.html",
   "https://tass.ru/mezhdunarodnaya-panorama/28341525",
-  "title:В Швейцарии десятки тысяч человек вышли на акции против военного бюджета"
+  "title:В Швейцарии десятки тысяч человек вышли на акции против военного бюджета",
+  "skip:https://ria.ru/20261121/er-rijad-2133076146.html",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28341531",
+  "skip:https://ria.ru/20261121/er-rijad-2133075468.html",
+  "https://www.rbc.ru/rbcfreenews/6b00db2e1d72e10990872d08",
+  "title:В столице Саудовской Аравии Эр-Рияде прогремел мощный взрыв",
+  "skip:https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ19DTDNqa18wN2l3QWdvckc3UXYwZWhlRlpFaUVpRFBtdlBWRjY2WC1mTEdSbHIwbmxTcnNTQ2tkci04ZFoyRjlxTjQtdHh1a3lETGN2TGtWYmY3Ty1ibFZOQk1zUXJNcHE4ZWVXNkRSdDFwY21WNC1BSE1GeWdQMkxpRHQ0Yjd1cFVXNmNuRmFveUIwOW9iTDA4Z3BLc3lVMnVXMkpoSEllVEswZncxZEJVZ3N2ODhYOUs1YlkwZmVnNnhDUWVUSmdNVQ?oc=5",
+  "https://ria.ru/20261121/glava-2133076309.html",
+  "title:Глава Пентагона наложил ограничения на партнерство США и Канады"
 ]

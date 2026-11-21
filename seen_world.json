@@ -1,10 +1,4 @@
 [
-  "skip:https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-  "skip:https://news.google.com/rss/articles/CBMipgFBVV95cUxOdW1QU3VfRndFeVFEODFZbWVTcUVkcE1CelRpYmJWZ0FleXRVd3EwbjFXeHRmbUJQUDBsQXFQc21iVjdCRHFscy1qQjZWeWhIMnF6d0NBR3gxQmRERFdyLXBDNFFpZDQtY05mT3REaThpVWdVSVQzLUtmOUpweHZmc0dvWEFjbmpxWDdadjNzaFI4ajNmNUZsVVlhb05hWm5qRFdNTV9R?oc=5",
-  "https://www.rbc.ru/quote/19/11/2026/6afaece9e3b24c7eab7d7f26",
-  "title:Компания Anthropic объявила параметры IPO и готовится к выходу на биржу NASDAQ",
-  "skip:https://ria.ru/20261119/gonduras-2132531018.html",
-  "https://tass.ru/mezhdunarodnaya-panorama/28332631",
   "title:Власти Гондураса направили спецназ на север страны после массовых убийств",
   "skip:https://ria.ru/20261119/aeroport-2132534333.html",
   "skip:https://tass.ru/ekonomika/28332671",
@@ -998,5 +992,11 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28342993",
   "skip:https://www.rbc.ru/politics/22/11/2026/6b0207755e2ed76366e4de5e",
   "https://ria.ru/20261122/tramp-2133196048.html",
-  "title:Дональд Трамп назвал саммит АТЭС в Китае величайшим и опубликовал фотографии с лидерами России и Китая"
+  "title:Дональд Трамп назвал саммит АТЭС в Китае величайшим и опубликовал фотографии с лидерами России и Китая",
+  "skip:https://www.kommersant.ru/doc/9127217",
+  "https://www.interfax.ru/world/1130623",
+  "title:МВД Бахрейна заявило о повреждении гражданского промышленного объекта в результате иранского удара",
+  "skip:https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1lhc2ZRS3hPcnFWc3VBdDBIbElGZF9PSlZVSEV4NFNxSXZ1YlZWeWtYUVdrbjZXVXFJM3V6VkgzLTZGSWdWUFZiVGctOFRreU1lUWpWdXp5VmJxYTFBVU9wTk9YcTZNSmt6MDhsNnB6azlRSnVnaUdZNF83dl9Gay1OVm9qQ2NreElTT1EzVFF2STVySzRkQmt3M19lRjlzQjJvVWVQckYzR21YUVRyY1R0MGJNYzJwaVhR?oc=5",
+  "skip:https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+  "https://www.rbc.ru/rbcfreenews/6b020ee2c82fefdda02f9496"
 ]

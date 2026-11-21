@@ -1,11 +1,4 @@
 [
-  "https://ria.ru/20261118/ek-2132400409.html",
-  "skip:https://ria.ru/20261118/vstrecha-2132398454.html",
-  "skip:https://ria.ru/20261118/putin-2132398074.html",
-  "skip:https://www.kommersant.ru/doc/9112598",
-  "skip:https://ria.ru/20261118/putin-2132386587.html",
-  "skip:https://www.rbc.ru/politics/18/11/2026/6afd812c67703f07d414913a",
-  "https://www.kommersant.ru/doc/9112618",
   "title:Владимир Путин и Дональд Трамп провели встречу на полях саммита АТЭС в Шэньчжэне",
   "skip:https://news.google.com/rss/articles/CBMingFBVV95cUxPNU5oVy1LNFdSWUFIbTV3RkNqQlJNWWdlb3pJNUxOV3ZRMU02TjFOV0VBUGVoRDhLOEU0SHpSTl9YMEwtN1pVSV9rQ0I0cUZvRFptd1NGUks3ci0zekpiSmZKMmJobUZfcTZpS1YyVkZCbVR4U3RKQ1F6TUlXU2x5VmdDZ2V1empCQVViM3NNVDhPc1NtMU5IeENVZWlNQQ?oc=5",
   "skip:https://www.rbc.ru/technology_and_media/18/11/2026/6afd88aea618c18f90a36d8c",
@@ -998,5 +991,12 @@
   "skip:https://ria.ru/20261121/bpla-2133138344.html",
   "skip:https://www.interfax.ru/russia/1130585",
   "https://tass.ru/proisshestviya/28342451",
-  "title:Средства ПВО нейтрализовали три беспилотника в Псковской области"
+  "title:Средства ПВО нейтрализовали три беспилотника в Псковской области",
+  "skip:https://ria.ru/20261121/vladikavkaz-2133140810.html",
+  "skip:https://ria.ru/20261121/vzryv-2133135561.html",
+  "https://www.kommersant.ru/doc/9127139",
+  "title:В многоквартирном доме во Владикавказе произошел взрыв газа, есть погибшие",
+  "skip:https://www.kommersant.ru/doc/9127121",
+  "https://ria.ru/20261121/tanker-2133138708.html",
+  "title:Два танкера атакованы в районе Ормузского пролива и у берегов Омана"
 ]

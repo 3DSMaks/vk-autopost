@@ -1,8 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135723-bolshe-nesuper-dzhems-gann-ipiter-safran-snjaty-srukovodstvadc-studios-vmesto-nih-vzjali-novogo-zaslanca-izmarvel/",
-  "skip:https://www.kinonews.ru/news_144070/",
-  "skip:https://www.kinonews.ru/news_144069/",
-  "https://variety.com/2026/film/news/ebenezer-first-reactions-johnny-depp-hollywood-comeback-1236941249/",
   "title:‘Ebenezer’ First Reactions: Johnny Depp’s Hollywood Comeback Is a ‘Wickedly Fun Holiday Treat’ That Adds ‘Refreshing New Layers’ to the Christmas Clas",
   "https://www.film.ru/news/redkliff-ne-planiruet-smotret-pottera",
   "title:Рэдклифф не планирует смотреть Поттера",
@@ -998,5 +994,9 @@
   "skip:https://www.ign.com/articles/gta-6-players-react-after-exclusive-shops-greet-non-ultimate-edition-buyers-with-locked-doors",
   "skip:https://www.pcgamer.com/games/grand-theft-auto/21-percent-of-rockstar-staff-have-been-employed-by-the-company-for-over-10-years-which-explains-a-lot-about-gta-6s-record-breaking-launch/",
   "https://www.igromania.ru/news/170118/gta-6-poluchila-ot-igrokov-54-balla-na-metacritic-revyu-bombing-ili-chestnyie-gejmeryi/",
-  "title:GTA 6 получила от игроков 5,4 балла на Metacritic — «ревью-бомбинг» или честные геймеры?"
+  "title:GTA 6 получила от игроков 5,4 балла на Metacritic — «ревью-бомбинг» или честные геймеры?",
+  "skip:https://www.igromania.ru/news/170115/pervoe-krupnoe-obnovlenie-dlya-ekshena-1666-amsterdam-sozdatelya-assassins-creed-vyijdet-v-dekabre/",
+  "https://gamemag.ru/news/202242/gta-6-is-the-last-pre-ai-blockbuster-video-game-of-its-kind-says-former-take-two-ceo",
+  "video:2026-11-21:https://gamemag.ru/news/202242/gta-6-is-the-last-pre-ai-blockbuster-video-game-of-its-kind-says-former-take-two-ceo",
+  "title:Бывший глава Take-Two: Grand Theft Auto VI — последний созданный вручную суперблокбастер, дальше не обойтись без ИИ"
 ]

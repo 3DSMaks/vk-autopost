@@ -1,6 +1,4 @@
 [
-  "skip:https://www.playground.ru/mass_effect_2/news/v_seti_poyavilsya_rannij_trejler_mass_effect_2_kotoryj_ranshe_videli_tolko_razrabotchiki_bioware-1889151#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.ign.com/articles/internal-mass-effect-2-trailer-gives-us-the-earliest-look-at-the-game-yet",
   "skip:https://gamemag.ru/news/202043/izmena-i-kitayskaya-razvedchica-glava-nvidia-ugodil-v-shpionskiy-skandal",
   "skip:https://gamemag.ru/news/202036/dark-outlaw-games-doom-inspired-game",
   "https://www.playground.ru/gta_6/news/rockstar_ustroit_festival_gta_6_v_majami_s_trevisom_skottom_kardi_bi_i_drugimi_zvyozdami-1889153#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +996,7 @@
   "title:Возвращение домой: Маколей Калкин и Сет Роген работают над новой частью \"Одного дома\"",
   "skip:https://www.kinonews.ru/news_144246/",
   "https://www.film.ru/news/pribavlenie-v-novom-sobiratele-dush",
-  "title:Прибавление в новом Собирателе душ"
+  "title:Прибавление в новом Собирателе душ",
+  "https://www.film.ru/news/princ-garri-o-novom-bonde",
+  "title:Принц Гарри о новом Бонде"
 ]

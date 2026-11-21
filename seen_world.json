@@ -1,12 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9112494",
-  "skip:https://ria.ru/20261118/vstrecha-2132349706.html",
-  "skip:https://www.interfax.ru/russia/1129791",
-  "https://tass.ru/politika/28330591",
-  "title:Юрий Ушаков анонсировал полноформатные и рабочие встречи Путина и Трампа на саммите АТЭС в Шэньчжэне",
-  "skip:https://www.interfax.ru/russia/1129808",
-  "https://www.rbc.ru/quote/18/11/2026/6afd7607fc5ae43afd71aaa3",
-  "title:Госдума одобрила повышение лимита страхования по долгосрочным вкладам до 2 млн рублей",
   "skip:https://www.interfax.ru/world/1129814",
   "skip:https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFhjUFo4SHBqb20yY1dQWmZZNlZhV2VvZjRQLTFoQjlYeFItaHNXX0FZVmhuazRYODFqcEk5RThWZUNpX2lPOFJrZ0M5U0hEODBZZFNndnE3U18xNWRtVGhlYmRXU3V1My16RTUybkdaSXRvc3NIOWpNdllIWG1GMjE4Z2N1bm1naUZjNXF6bVBPSF9lalVpeHdNN1FQeWRtZDBfaTh3ZXBaQQ?oc=5",
   "https://www.france24.com/en/europe/20261118-eu-proposes-new-%E2%82%AC45-billion-ukraine-loan-to-be-repaid-by-russia",
@@ -998,5 +990,13 @@
   "title:Финляндия координирует спасательную операцию после атаки дронов на грузовое судно в Финском заливе",
   "skip:https://www.rbc.ru/rbcfreenews/6b016c95b843c1d94f726d3d",
   "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss",
-  "title:В Мексике в ходе военной операции задержан разыскиваемый ФБР наркобарон Эль Чапо Исидро"
+  "title:В Мексике в ходе военной операции задержан разыскиваемый ФБР наркобарон Эль Чапо Исидро",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28342345",
+  "skip:https://tass.ru/ekonomika/28342357",
+  "skip:https://news.google.com/rss/articles/CBMisgFBVV95cUxPaDFMQVdaYU9BLTJOQnRyR3RRNXpVdWZjNW1wZGtVLUl6M3VRenZfX0UzbTFKai11NHNHVUw5dEg0R0pOanVYMFBJeW9oUlBOa0s2Qlc0TWR6Q1BiVmxRZEpCWWhWVlR5OTFYSDFHV3pCQko4bDdBalNYemtDVVBJUEtWN0FGelFlbzE1Mjh0ZE01UnMwZkJlWlFSYV9kb0pzbDVEYzZRXzlQeDlDVVZkV2NR?oc=5",
+  "https://www.interfax.ru/world/1130583",
+  "title:Франция раскритиковала предложенный Евросоветом проект бюджета ЕС на 2028-2034 годы с ростом оборонных расходов",
+  "skip:https://ria.ru/20261121/pashinjane-2133129880.html",
+  "https://www.kommersant.ru/doc/9127128",
+  "title:Премьер-министр Армении Никол Пашинян анонсировал запуск транспортного коридора «Маршрут Трампа»"
 ]

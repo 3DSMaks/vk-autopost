@@ -1,9 +1,4 @@
 [
-  "skip:https://www.film.ru/news/pattinson-probuetsya-na-bonda",
-  "skip:https://www.film.ru/news/umer-sebastyan-lelio",
-  "https://www.film.ru/news/solnik-meduzy-gorgony",
-  "title:Сольник Медузы Горгоны",
-  "skip:https://www.film.ru/news/sikvel-horrora-1408",
   "skip:https://www.film.ru/news/cifrovaya-premera-kurera",
   "https://www.film.ru/news/reliz-broska-kobry-s-bredli-kuperom",
   "title:Релиз Броска кобры с Брэдли Купером",
@@ -998,5 +993,10 @@
   "title:Люди Икс, Фантастическая четвёрка и другие на новых промо блокбастера \"Мстители: Доктор Дум\"",
   "posted:2026-11-21T14:31:40+00:00",
   "https://www.kinonews.ru/news_144251/",
-  "title:Боевик \"Час пик 4\" получил бюджет в 120 миллионов долларов"
+  "title:Боевик \"Час пик 4\" получил бюджет в 120 миллионов долларов",
+  "posted:2026-11-21T16:31:51+00:00",
+  "skip:https://www.film.ru/news/princ-garri-o-novom-bonde",
+  "skip:https://www.kinonews.ru/news_144252/",
+  "https://deadline.com/2026/11/percy-jackson-season-3-walker-scobell-leah-jeffries-percabeth-1237230405/",
+  "title:‘Percy Jackson’: How A Quest To Save Annabeth Makes Everyone Reevaluate Their Relationships In Season 3"
 ]

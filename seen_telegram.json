@@ -1,9 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135729-posle-desjatiletnego-pereryva-aleks-projas-otobral-rezhissuru-istoricheskogo-epika-santonio-banderasom-ukakogoto-francuza/",
-  "https://www.kinonews.ru/news_144075/",
-  "title:Антонио Бандерас сыграет конкистадора Эрнана Кортеса в ИИ-фильме",
-  "skip:https://www.igromania.ru/news/169835/remejk-silent-hill-2-poluchil-patch-s-ustraneniem-bagov-na-ps5-i-ps5-pro/",
-  "https://stopgame.ru/newsdata/73431/anonsirovana_beholder_4",
   "title:Анонсирована Beholder 4",
   "skip:https://www.pcgamer.com/games/grand-theft-auto/rockstar-is-putting-on-a-last-minute-live-music-festival-featuring-travis-scott-and-cardi-b-to-celebrate-gta-6s-launch/",
   "skip:https://gamemag.ru/news/202055/muzyka-gta-vi-rockstar-games-provedet-muzykalnyy-festival-v-mayami",
@@ -998,5 +993,10 @@
   "skip:https://stopgame.ru/newsdata/73588/clive_barkers_hellraiser_revival_vzyala_igru_goda_na_the_horror_game_awards_2026",
   "skip:https://www.igromania.ru/news/170121/clive-barkers-hellraiser-revival-stala-igroj-goda-na-the-horror-games-awards-2026/",
   "https://www.ign.com/articles/gta-6-triggers-busiest-traffic-day-in-comcast-history",
-  "title:GTA 6 Triggers Busiest Traffic Day in Comcast History"
+  "title:GTA 6 Triggers Busiest Traffic Day in Comcast History",
+  "skip:https://deadline.com/feature/presumed-innocent-season-2-news-updates-1236568924/",
+  "skip:https://www.kinonews.ru/news_144249/",
+  "skip:https://www.kinonews.ru/news_144246/",
+  "https://www.film.ru/news/treyler-korolya-frisko-s-dzheksonom-i-stallone",
+  "title:Трейлер Короля Фриско с Джексоном и Сталлоне"
 ]

@@ -1,14 +1,4 @@
 [
-  "skip:https://variety.com/2026/film/box-office/ramayana-godzilla-minus-zero-uk-ireland-box-office-1236943753/",
-  "https://www.film.ru/news/finalnyy-treyler-begushchego-po-lezviyu-2099",
-  "title:Финальный трейлер Бегущего по лезвию 2099",
-  "skip:https://www.kinonews.ru/news_144079/",
-  "skip:https://deadline.com/2026/11/keira-knightley-fans-quoting-love-actually-1237218199/",
-  "skip:https://variety.com/2026/film/news/julia-garner-madonna-biopic-status-1236943732/",
-  "skip:https://www.film.ru/news/desyat-let-tyurmy-dlya-rassella-brenda",
-  "skip:https://kg-portal.ru/comments/135727-dzhejms-gann-rad-chto-zakonchilis-chetyre-goda-dcstradanij-emu-nikogda-ne-nravilos-byt-bossom-studii/",
-  "skip:https://www.kinonews.ru/article_144076/",
-  "skip:https://www.film.ru/news/dzheyms-gann-pokidaet-dc",
   "skip:https://kg-portal.ru/comments/135723-bolshe-nesuper-dzhems-gann-ipiter-safran-snjaty-srukovodstvadc-studios-vmesto-nih-vzjali-novogo-zaslanca-izmarvel/",
   "skip:https://www.kinonews.ru/news_144070/",
   "skip:https://www.kinonews.ru/news_144069/",
@@ -998,5 +988,15 @@
   "skip:https://gamemag.ru/news/202243/insayder-povtoryy-anons-remeyka-star-wars-knights-of-the-old-republic-sostoitsya-na-tga",
   "skip:https://gamemag.ru/news/202235/ice-age-boiling-point-trailer",
   "https://stopgame.ru/newsdata/73580/analitiki_tirazh_gta_vi_za_pervye_sutki_sostavil_bolshe_24_mln_kopiy",
-  "title:Аналитики: тираж GTA VI за первые сутки составил больше 24 млн копий"
+  "title:Аналитики: тираж GTA VI за первые сутки составил больше 24 млн копий",
+  "skip:https://www.playground.ru/gta_6/news/v_gta_6_obnaruzhili_dve_sekretnye_radiostantsii_ih_mozhno_razblokirovat_otskanirovav_postery-1892611#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/gta_6/news/nesmotrya_na_ogromnye_razmery_karty_gta_6_pereletet_eyo_na_samolyote_mozhno_vsego_za_4_minuty-1892610#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/gta_6/news/igroki_gta_6_nedovolny_eksklyuzivnymi_magazinami_ultimate_edition_rockstar_ne_razreshaet_dazhe_osmotret_ih-1892609#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/gta_6/news/nad_gta_6_rabotali_okolo_1000_veteranov_rockstar_prorabotavshih_v_kompanii_pochti_10_let-1892608#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-long-to-fly-across-map/",
+  "skip:https://www.ign.com/articles/gta-6-players-react-after-exclusive-shops-greet-non-ultimate-edition-buyers-with-locked-doors",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/21-percent-of-rockstar-staff-have-been-employed-by-the-company-for-over-10-years-which-explains-a-lot-about-gta-6s-record-breaking-launch/",
+  "https://www.igromania.ru/news/170118/gta-6-poluchila-ot-igrokov-54-balla-na-metacritic-revyu-bombing-ili-chestnyie-gejmeryi/",
+  "title:GTA 6 получила от игроков 5,4 балла на Metacritic — «ревью-бомбинг» или честные геймеры?"
 ]

@@ -1,10 +1,4 @@
 [
-  "title:DC Studios Shakeup: James Gunn & Peter Safran Out, Former Marvel Exec Jeremy Latcham In",
-  "skip:https://www.kinonews.ru/news_144078/",
-  "skip:https://www.kinonews.ru/news_144079/",
-  "skip:https://kg-portal.ru/comments/135727-dzhejms-gann-rad-chto-zakonchilis-chetyre-goda-dcstradanij-emu-nikogda-ne-nravilos-byt-bossom-studii/",
-  "skip:https://www.kinonews.ru/article_144076/",
-  "skip:https://kg-portal.ru/comments/135723-bolshe-nesuper-dzhems-gann-ipiter-safran-snjaty-srukovodstvadc-studios-vmesto-nih-vzjali-novogo-zaslanca-izmarvel/",
   "skip:https://www.kinonews.ru/news_144070/",
   "https://www.film.ru/news/redkliff-ne-planiruet-smotret-pottera",
   "title:Рэдклифф не планирует смотреть Поттера",
@@ -998,5 +992,11 @@
   "skip:https://www.film.ru/news/novyy-odin-doma-v-rabote",
   "skip:https://kg-portal.ru/comments/135889-luchshij-drug-chelovekapauka-dzhejkob-batalon-sygraet-vfilme-lilo-istich-2/",
   "https://deadline.com/2026/11/aaron-pierre-future-lanterns-safran-gunn-dc-studios-exit-1237230759/",
-  "title:‘Lanterns’ Star Aaron Pierre On DCU Future After Safran & Gunn’s DC Studios Exit: “I’m Very At Peace”"
+  "title:‘Lanterns’ Star Aaron Pierre On DCU Future After Safran & Gunn’s DC Studios Exit: “I’m Very At Peace”",
+  "skip:https://www.film.ru/news/fincher-pro-ii-v-kliffe-bute",
+  "skip:https://deadline.com/feature/presumed-innocent-season-2-news-updates-1236568924/",
+  "skip:https://deadline.com/2026/11/david-fincher-defends-ai-cliff-booth-criticism-1237230711/",
+  "skip:https://www.kinonews.ru/news_144242/",
+  "https://www.film.ru/news/treyler-korolya-frisko-s-dzheksonom-i-stallone",
+  "title:Трейлер Короля Фриско с Джексоном и Сталлоне"
 ]

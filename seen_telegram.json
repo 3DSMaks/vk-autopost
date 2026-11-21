@@ -1,8 +1,4 @@
 [
-  "title:Создатели Civilization VII показали основные изменения в обновлении 1.5.1",
-  "skip:https://www.kinonews.ru/news_144080/",
-  "skip:https://www.kinonews.ru/news_144077/",
-  "skip:https://kg-portal.ru/comments/135735-strannye-plany-dzhejmsa-ganna-ne-ustraivali-studiju-sledujuschie-kinokomiksy-po-dc-mozhno-budet-pokazyvat-babushkam-i-dedushkam/",
   "skip:https://kg-portal.ru/comments/135729-posle-desjatiletnego-pereryva-aleks-projas-otobral-rezhissuru-istoricheskogo-epika-santonio-banderasom-ukakogoto-francuza/",
   "https://www.kinonews.ru/news_144075/",
   "title:Антонио Бандерас сыграет конкистадора Эрнана Кортеса в ИИ-фильме",
@@ -998,5 +994,9 @@
   "skip:https://www.igromania.ru/news/170123/chyo-kogda-gta-7-izdatelya-grand-theft-auto-6-uzhe-sprashivayut-o-prodolzhenii/",
   "skip:https://www.ign.com/articles/gta-6-has-only-been-out-for-a-day-and-people-are-already-asking-take-twos-boss-about-gta-7",
   "https://www.ign.com/articles/gta-6-players-agree-that-jasons-stash-needs-a-major-tweak",
-  "title:GTA 6 Players Agree That Jason's Stash Needs a Major Tweak"
+  "title:GTA 6 Players Agree That Jason's Stash Needs a Major Tweak",
+  "skip:https://stopgame.ru/newsdata/73588/clive_barkers_hellraiser_revival_vzyala_igru_goda_na_the_horror_game_awards_2026",
+  "skip:https://www.igromania.ru/news/170121/clive-barkers-hellraiser-revival-stala-igroj-goda-na-the-horror-games-awards-2026/",
+  "https://www.ign.com/articles/gta-6-triggers-busiest-traffic-day-in-comcast-history",
+  "title:GTA 6 Triggers Busiest Traffic Day in Comcast History"
 ]

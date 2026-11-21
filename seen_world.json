@@ -1,12 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9112289",
-  "skip:https://www.rbc.ru/politics/18/11/2026/6afd50972c36f843d6b0490d",
-  "skip:https://ria.ru/20261118/putin-2132286070.html",
-  "skip:https://ria.ru/20261118/putin-2132284064.html",
-  "skip:https://www.rbc.ru/politics/18/11/2026/6afd4ca5d38ad35a6bacec37",
-  "skip:https://ria.ru/20261118/putin-2132283435.html",
-  "https://www.kommersant.ru/doc/9112337",
-  "title:Владимир Путин провел переговоры с Си Цзиньпином и выступил перед студентами совместного университета в Шэньчжэне",
   "skip:https://news.google.com/rss/articles/CBMifkFVX3lxTE1QVW9FYWgxOUQyeFFFdHRIdkVLWDZLem1MWFItOVZmQU1SODEtcEZ1Y3NsOGZXeUtNQVN5cElvSmVoNXFoZDFVZ0NlaHFmcmNuQ2w1SWJENDNNLWVVWHNNQUVXdnV0X1Z5M3E2bnJSSzRQd3FBR1FQMzh0dGRPdw?oc=5",
   "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
   "title:Инфляция в Великобритании выросла до 3,6% в октябре на фоне удорожания топлива",
@@ -998,5 +990,13 @@
   "skip:https://ria.ru/20261121/pskov-2133079199.html",
   "skip:https://tass.ru/ekonomika/28341585",
   "https://www.interfax.ru/russia/1130538",
-  "title:В аэропорту Пскова введены временные ограничения на прием и выпуск самолетов"
+  "title:В аэропорту Пскова введены временные ограничения на прием и выпуск самолетов",
+  "skip:https://www.interfax.ru/russia/1130545",
+  "skip:https://ria.ru/20261121/bpla-2133083715.html",
+  "skip:https://ria.ru/20261121/vsu-2133082441.html",
+  "skip:https://www.interfax.ru/russia/1130540",
+  "skip:https://www.interfax.ru/russia/1130539",
+  "skip:https://ria.ru/20261121/pulkovo-2133080297.html",
+  "https://www.kommersant.ru/doc/9126984",
+  "title:Над Ленинградской областью перехвачены десятки беспилотников, аэропорт Пулково ограничил работу"
 ]

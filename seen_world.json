@@ -1,13 +1,4 @@
 [
-  "skip:https://tass.ru/politika/28330585",
-  "skip:https://tass.ru/politika/28330581",
-  "skip:https://tass.ru/politika/28330579",
-  "skip:https://tass.ru/politika/28330555",
-  "skip:https://tass.ru/politika/28330553",
-  "skip:https://ria.ru/20261118/ushakov-2132358176.html",
-  "skip:https://tass.ru/politika/28330527",
-  "skip:https://www.france24.com/en/video/20261118-all-eyes-on-talks-with-putin-xi-as-trump-arrives-at-apec-summit",
-  "skip:https://www.rbc.ru/politics/18/11/2026/6afd77eee7d98e4ba80c2ec2",
   "skip:https://www.kommersant.ru/doc/9112494",
   "skip:https://ria.ru/20261118/vstrecha-2132349706.html",
   "skip:https://www.interfax.ru/russia/1129791",
@@ -998,5 +989,14 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28342303",
   "skip:https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS0J3SExfSVZDcXRXb2wtcElESFhiam1fWTR4MUh0VGIzQU9iQjRkamVnWXZMaFI2cVRyNmFxYU40dmJBdWFOZTRuZVlPcFAzXzVhanZPckVpVXdQRlE0YkE3bkhfZk1ld2o5SDhYcmg0bUMwTklpdV9Qc3Q2Sjloajd0NzdzX0JhYjZvY0NmM2hMRnhLUmd4VzZxLUlsTWZoMmRFNVVwTU5uZ1lSVlp6MlpleTVJd2FqT1Q2d1NyaHYxU0lNSG1aWg?oc=5",
   "https://www.rbc.ru/politics/21/11/2026/6b017d3e90970fd12214d621",
-  "title:Дания предложила странам ЕС ввести новые ограничения на выдачу шенгенских виз россиянам"
+  "title:Дания предложила странам ЕС ввести новые ограничения на выдачу шенгенских виз россиянам",
+  "skip:https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUFLdlZmeWprX3A2YllLMmlQSXZrYTRIazVMOEExREZuTXFCYThyVUlnR3U0TDg3dGpUeHE5SHJyanJWQUZTRHdwUG5YYTFxVXMtUU5rY1pOVzZkRUxhQ29oUEVUS0NJTWFxcUJmLW9lRE52cGs3N2FLbXZzNmVFNFpXTmZNZnI4S1pWNDB5RWV0UFhUUGlCTVUwNjlWZDMxcXhxS0FvZUdNNWN4UU9jMEw4bWVaOVB0TlE?oc=5",
+  "skip:https://ria.ru/20261121/finlyandiya-2133127272.html",
+  "skip:https://www.kommersant.ru/doc/9127109",
+  "skip:https://www.interfax.ru/russia/1130573",
+  "https://ria.ru/20261121/pogranohrana-2133132876.html",
+  "title:Финляндия координирует спасательную операцию после атаки дронов на грузовое судно в Финском заливе",
+  "skip:https://www.rbc.ru/rbcfreenews/6b016c95b843c1d94f726d3d",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss",
+  "title:В Мексике в ходе военной операции задержан разыскиваемый ФБР наркобарон Эль Чапо Исидро"
 ]

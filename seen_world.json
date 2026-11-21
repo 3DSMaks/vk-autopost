@@ -1,14 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1129903",
-  "https://www.kommersant.ru/doc/9112988",
-  "title:ФСВТС не исключила возможность совместной разработки вооружений России и Китая",
-  "skip:https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGlNb2Jsalc3eGpLNWFROHFOZjhyaWxjTi1LWTAxaUNzMVI2WUpXYVd1REVLaURWajJCMWVoUWxCekhtcTNMS2pxYmljMVZ5aXFHUWxwQk5NZ3JhSHpyYk5BdG5TVzZlUUp6bHVhaUJKRkx2MllHeWViQzhlcVJmRUpIekpNV052VENNZ3l2YlZUamJaNXNPYURsZnVmdEE?oc=5",
-  "skip:https://ria.ru/20261118/vstrecha-2132493780.html",
-  "skip:https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-  "skip:https://www.interfax.ru/russia/1129909",
-  "skip:https://ria.ru/20261118/ssha-2132488107.html",
-  "skip:https://ria.ru/20261118/ushakov-2132486606.html",
-  "skip:https://ria.ru/20261118/ushakov-2132486451.html",
   "skip:https://www.interfax.ru/russia/1129904",
   "skip:https://ria.ru/20261118/ushakov-2132484181.html",
   "skip:https://www.kommersant.ru/doc/9112947",
@@ -998,5 +988,15 @@
   "skip:https://ria.ru/20261121/tramp-2133159467.html",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28342665",
   "https://www.interfax.ru/world/1130605",
-  "title:Дональд Трамп заявил о стремлении заключить с Ираном бессрочное соглашение"
+  "title:Дональд Трамп заявил о стремлении заключить с Ираном бессрочное соглашение",
+  "skip:https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdmhYX1ZWdmN5Qmhad0J5aldjNlVKQmZRNl83NkUtZzJYQUREN0ZxZ084TVdPMno0TXczUmFFNUw5MFZycHZwVTdHVy14WGlaR1NhQ2RTR0dJdkpfa0NEcHJ1OWxOcmpoT19CWXFZS3JPV2Z6TU1QeVlkaWFVbmlEVVBiMFFlVEdCUExyal9xYjZzbUZZQWo0VkFEbGlYQnUySTRzTGhLYnk5WlBRNGMxX1lXUFhLaWhUTXZrT2FqRDZvZ0dxLVZSaUViVXFjVDdKLWladzd2RkY?oc=5",
+  "skip:https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
+  "skip:https://www.interfax.ru/world/1130592",
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa2RiNXlYT1VFSmc3cEJmU0N4QW9Ydk9rX1RBZ3hvakVOYWtIa1ZDdGlhVm8wSUp5MUk2bWg0TFNyc2lvN3VXazhaamp3WTZBOVpqXzBPcnV5OVVGREVtU1FNVDBXb2d2ck5mVmhybmptaUtCMGRJNEt0UGhxU25fM0JWZE5NSUF2NmRxZVlZOGJSaUpncmt6dnFkNEpDdG9ZejlidXU5RnJUdm8?oc=5",
+  "title:В Мексике в ходе спецоперации задержан наркобарон Эль Чапо Исидро",
+  "skip:https://tass.ru/proisshestviya/28342719",
+  "skip:https://www.france24.com/en/france-demonstrations-losing-steam-as-movement-enters-sixth-week",
+  "skip:https://www.france24.com/en/new-day-of-protests-across-france",
+  "https://tass.ru/mezhdunarodnaya-panorama/28342763",
+  "title:Во Франции прошли новые акции протеста против роста цен и экономической политики"
 ]

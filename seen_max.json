@@ -1,6 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/hardware/handheld-gaming-pcs/steam-now-lets-you-see-exactly-what-frame-rate-you-should-get-in-games-using-a-steam-deck/",
-  "skip:https://gamemag.ru/news/202069/vampirov-zamenili-na-imperum-sostoyalsya-reliz-warhammer-survivors",
   "skip:https://stopgame.ru/newsdata/73435/v_eshop_skoro_poyavitsya_vozmozhnost_darit_igry_dlya_switch",
   "skip:https://www.igromania.ru/news/169837/razrabotchiki-stellar-blade-otlozhili-prezentatsiyu-project-spirits-na-2027-god/",
   "skip:https://www.igromania.ru/news/169834/razrabotchiki-indi-hita-big-walk-priznalis-v-ispolzovanii-ii/",
@@ -998,5 +996,7 @@
   "skip:https://stopgame.ru/newsdata/73589/dzhensena_huanga_obvinili_v_mnogoletnih_izdevatelstvah_nad_sotrudnikami_nvidia",
   "skip:https://www.playground.ru/misc/news/aktsii_nvidia_ruhnuli_na_42_na_fone_soobschenij_o_kitajskoj_razvedke_i_uhode_dzhensena_huanga-1892730#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.playground.ru/total_war_warhammer_40_000/news/v_total_war_warhammer_40_000_reputatsiya_kosmodesanta_opredelit_naskolko_ohotno_im_budut_pomogat_mestnye_zhiteli-1892768#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:В Total War: Warhammer 40,000 репутация Космодесанта определит, насколько охотно им будут помогать местные жители"
+  "title:В Total War: Warhammer 40,000 репутация Космодесанта определит, насколько охотно им будут помогать местные жители",
+  "https://www.pcgamer.com/games/rpg/seven-years-on-since-persona-5-royal-atlus-says-people-wont-have-to-wait-as-long-as-they-have-previously-for-the-next-game-after-persona-6/",
+  "title:Seven years on since Persona 5 Royal, Atlus says 'people won't have to wait as long as they have previously' for the next game after Persona 6"
 ]

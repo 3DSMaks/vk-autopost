@@ -1,15 +1,4 @@
 [
-  "title:Рэдклифф не планирует смотреть Поттера",
-  "https://www.film.ru/news/vera-farmiga-v-novom-horrore",
-  "title:Вера Фармига в новом хорроре",
-  "skip:https://www.playground.ru/gta_6/news/gta_6_obrushila_servery_playstation_posle_starta_predzagruzki_igroki_massovo_zhaluyutsya_na_sboi_psn-1889378#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169829/finalnyij-trejler-seriala-beguschij-po-lezviyu-2099-ne-pereubedil-skeptikov/",
-  "skip:https://www.ign.com/articles/call-of-duty-facetime-chat-causes-plane-to-be-evacuated",
-  "https://www.playground.ru/silent_hill_2/news/remejk_silent_hill_2_obnovlenie_1_08_zametno_uluchshaet_proizvoditelnost_i_grafiku_na_ps5-1889380#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Ремейк Silent Hill 2: обновление 1.08 заметно улучшает производительность и графику на PS5",
-  "skip:https://www.playground.ru/arc_raiders/news/arc_raiders_razoshlas_tirazhom_17_millionov_kopij_no_prodazhi_igry_zametno_zamedlilis-1889367#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169830/prodazhi-shutera-arc-raiders-prevyisili-17-mln-kopij-v-mae-soobschalos-o-16-mln-kopij/",
-  "https://www.igromania.ru/news/169827/battlefield-6-poluchila-drajvovyij-trejler-sobyitiya-casino-heist/",
   "title:Battlefield 6 получила драйвовый трейлер события Casino Heist",
   "skip:https://www.playground.ru/warhammer_survivors/news/warhammer_survivors_vyshla_na_na_vseh_platformah_s_geroyami_dvuh_vselennyh_warhammer-1889387#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169833/warhammer-survivors-vyishla-na-konsolyah-mobilnyih-i-pc/",
@@ -998,5 +987,16 @@
   "video:2026-11-21:https://gamemag.ru/news/202242/gta-6-is-the-last-pre-ai-blockbuster-video-game-of-its-kind-says-former-take-two-ceo",
   "title:Бывший глава Take-Two: Grand Theft Auto VI — последний созданный вручную суперблокбастер, дальше не обойтись без ИИ",
   "https://stopgame.ru/newsdata/73583/007_first_light_igra_goda_po_versii_tiga_awards",
-  "title:007 First Light — игра года по версии TIGA Awards"
+  "title:007 First Light — игра года по версии TIGA Awards",
+  "skip:https://www.playground.ru/gta_6/news/kupil_zhene_tsvety_posle_gta_vi_igroki_schitayut_chto_novaya_igra_rockstar_uchit_muzhchin_luchshe_zabotitsya_o_zhenschinah-1892629#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/actor-who-plays-mandy-in-gta-6-excitedly-speaks-out-after-character-goes-viral",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/florida-joker-gets-his-wish-hes-a-special-voice-actor-in-grand-theft-auto-6/",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/gta-6-movement-speed-setting-walk-faster/",
+  "skip:https://www.ign.com/articles/satoru-gojos-english-voice-actor-didnt-realize-these-wild-lines-he-recorded-were-for-gta-6",
+  "skip:https://www.ign.com/articles/sexyy-red-had-the-best-response-to-her-viral-gta-6-moment-with-jason",
+  "skip:https://www.ign.com/articles/99-incredible-little-details-in-grand-theft-auto-6",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/gta-6-mask-location/",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/the-5-year-long-mystery-of-the-ufo-house-has-finally-been-solved-in-gta-6-but-one-npc-knows-too-much/",
+  "https://www.playground.ru/gears_of_war_e_day/news/gears_of_war_e_day_poluchila_pervuyu_skidku_v_steam_i_srazu_30_hotya_s_momenta_vyhoda_igry_proshlo_vsego_poltora_mesyatsa-1892633#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Gears of War: E-Day получила первую скидку в Steam - и сразу 30%, хотя с момента выхода игры прошло всего полтора месяца"
 ]

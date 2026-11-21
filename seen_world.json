@@ -1,8 +1,4 @@
 [
-  "skip:https://www.rbc.ru/rbcfreenews/6afd55e509bedaadcb863f21",
-  "skip:https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-  "skip:https://ria.ru/20261118/putin-2132294530.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28329701",
   "skip:https://ria.ru/20261118/universitet-2132292057.html",
   "skip:https://ria.ru/20261118/putin-2132291305.html",
   "skip:https://ria.ru/20261118/putin-2132291092.html",
@@ -998,5 +994,9 @@
   "title:Обвал акций технологических компаний на бирже США привел к падению индексов S&P 500 и Dow Jones",
   "skip:https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
   "https://news.google.com/rss/articles/CBMixwFBVV95cUxOemxCMzdZQVhrN293eFVPNTNrdHFZblZJNkJFQzluUFhMMG8xQUI1SG80YjdUWWgzdElKWmtiVVRmOFhKS2toWWZLZ2ttZ1ZOVDl3dFVEcGlpSG9DSy1ZbW1TVEY0VFpPbzhJck9sYjJHRDkzakFBTlJ4MFhOcEZfVTF3M2lIUGo2aWQ4VUdfaDJFaklfUzlVTWlCWlNHeEp3RnZ6NWI4UmpQVzlrd1I2My1tTDNsXzJDRHRIWHRXR0ZZbXZGanpz?oc=5",
-  "title:Климатический саммит COP31 перешел в овертайм из-за споров об ископаемом топливе"
+  "title:Климатический саммит COP31 перешел в овертайм из-за споров об ископаемом топливе",
+  "skip:https://news.google.com/rss/articles/CBMiuAFBVV95cUxON0haQkQteXQ4cWlzdGJTQmROQVpnT21rVUI1UkNpenozVEplWmNtUTRpLWpvTlo4Z2tvUHhHSnR1RWtYMS1UV1JpVXplWGkzT1gwMkFfdmYwdWZnRVRjLUhBZjVQWTZDOTNucWdZb0NTVHVyYk5mVnI2cFR1WUhFOXhDTGZuY2VoeXZySmc4RjRuOWFULTFEb2NnYjN6MnFJZ1d1c3pFaVRqSUJsRlg4aTdENEt1MFFR?oc=5",
+  "skip:https://tass.ru/proisshestviya/28341567",
+  "https://www.rbc.ru/rbcfreenews/6b00e574c82fefdda02f9447",
+  "title:В центральной части Перу произошло мощное землетрясение магнитудой до 6,9"
 ]

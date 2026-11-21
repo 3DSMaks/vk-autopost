@@ -1,10 +1,4 @@
 [
-  "skip:https://www.film.ru/news/pervye-otzyvy-na-skrudzha-s-deppom",
-  "https://deadline.com/2026/11/damian-lewis-milly-alcock-arinze-kene-old-vic-1237218376/",
-  "title:Damian Lewis, Milly Alcock & Arinzé Kene Set For Stage Productions At London’s Old Vic",
-  "skip:https://www.pcgamer.com/games/grand-theft-auto/rockstar-is-putting-on-a-last-minute-live-music-festival-featuring-travis-scott-and-cardi-b-to-celebrate-gta-6s-launch/",
-  "skip:https://www.pcgamer.com/games/world-of-warcraft/im-so-glad-im-not-using-a-questing-addon-in-world-of-warcraft-forever/",
-  "https://www.igromania.ru/news/169838/kolichestvo-predzakazov-gta-6-priblizhaetsya-k-10-millionam-kopij-zayavili-analitiki/",
   "title:Количество предзаказов ​GTA 6 приближается к 10 миллионам копий, заявили аналитики",
   "https://deadline.com/2026/11/straight-circle-with-elliott-luke-tittensor-gets-uk-deal-1237218415/",
   "title:BIFA Nominee ‘Straight Circle’, Starring Elliott & Luke Tittensor, Gets UK Deal",
@@ -998,5 +992,11 @@
   "https://www.playground.ru/avowed/news/avowed_vpervye_poluchila_rekordnuyu_skidku_50_v_steam_odna_iz_poslednih_rolevyh_igr_obsidian_stala_znachitelno_dostupnee-1892707#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Avowed впервые получила рекордную скидку 50% в Steam: одна из последних ролевых игр Obsidian стала значительно доступнее",
   "https://kg-portal.ru/comments/135878-uotcovmolodcov-vorujut-detej-vtrejlere-multfilma-tri-bogatyrja-igusilebedi/",
-  "title:У отцов-молодцов воруют детей в трейлере мультфильма \"Три богатыря и гуси-лебеди\""
+  "title:У отцов-молодцов воруют детей в трейлере мультфильма \"Три богатыря и гуси-лебеди\"",
+  "skip:https://www.playground.ru/deltarune/news/deltarune_chapter_6_uzhe_prohodima_ot_nachala_do_kontsa_no_klyuchevye_stseny_eschyo_dorabatyvayutsya-1892740#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://gamemag.ru/news/202248/hellraiser-revival-wins-at-the-horror-game-awards-2026",
+  "skip:https://www.pcgamer.com/games/rpg/deltarune-chapter-6-is-structurally-complete-while-development-has-begun-on-chapter-7-according-to-toby-fox/",
+  "skip:https://www.igromania.ru/news/170121/clive-barkers-hellraiser-revival-stala-igroj-goda-na-the-horror-games-awards-2026/",
+  "https://www.playground.ru/gta_6/news/nastoyaschej_devushkoj_s_oblozhki_grand_theft_auto_6_okazalas_model_sabi_garsia-1892745#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Настоящей девушкой с обложки Grand Theft Auto 6 оказалась модель Саби Гарсиа"
 ]

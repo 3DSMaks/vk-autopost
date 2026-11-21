@@ -1,9 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73435/v_eshop_skoro_poyavitsya_vozmozhnost_darit_igry_dlya_switch",
-  "https://www.playground.ru/call_of_duty_modern_warfare_4/news/call_of_duty_modern_warfare_4_smestila_phantom_blade_zero_i_vozglavila_chart_prodazh_v_steam-1889457#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Call of Duty: Modern Warfare 4 сместила Phantom Blade Zero и возглавила чарт продаж в Steam",
-  "skip:https://www.ign.com/articles/gta-6-preloads-are-now-available-ps5-xbox",
-  "skip:https://www.ign.com/articles/gta-6-will-run-at-30fps-on-all-consoles-features-ray-tracing-improvements-on-ps5-pro",
   "https://www.igromania.ru/news/169845/gta-6-stala-samoj-predzakazyivaemoj-igroj-v-playstation-store-i-microsoft-store/",
   "title:GTA 6 стала самой предзаказываемой игрой в PlayStation Store и Microsoft Store",
   "skip:https://www.playground.ru/gta_6/news/novyj_trejler_grand_theft_auto_6_posvyatili_osobennostyam_versii_dlya_playstation_5-1889472#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +993,10 @@
   "title:Avowed впервые получила рекордную скидку 50% в Steam: одна из последних ролевых игр Obsidian стала значительно доступнее",
   "skip:https://gamemag.ru/news/202250/pir-vo-vremya-chumy-microsft-snizila-cenu-na-gears-of-war-e-day-srazu-na-tret",
   "https://www.playground.ru/outer_worlds_2/news/the_outer_worlds_2_vpervye_poluchila_rekordnuyu_skidku_60_v_steam_attraktsion_nevidannoj_schedrosti_prodlitsya_do_2_dekabrya-1892700#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:The Outer Worlds 2 впервые получила рекордную скидку 60% в Steam: аттракцион невиданной щедрости продлится до 2 декабря"
+  "title:The Outer Worlds 2 впервые получила рекордную скидку 60% в Steam: аттракцион невиданной щедрости продлится до 2 декабря",
+  "skip:https://kg-portal.ru/comments/135898-ljudi-iks-fantasticheskaja-chetverka-idrugie-nanovyh-promo-blokbastera-mstiteli-doktor-dum/",
+  "skip:https://kg-portal.ru/comments/135889-luchshij-drug-chelovekapauka-dzhejkob-batalon-sygraet-vfilme-lilo-istich-2/",
+  "https://kg-portal.ru/comments/135878-uotcovmolodcov-vorujut-detej-vtrejlere-multfilma-tri-bogatyrja-igusilebedi/",
+  "video:2026-11-21:https://kg-portal.ru/comments/135878-uotcovmolodcov-vorujut-detej-vtrejlere-multfilma-tri-bogatyrja-igusilebedi/",
+  "title:У отцов-молодцов воруют детей в трейлере мультфильма \"Три богатыря и гуси-лебеди\""
 ]

@@ -1,8 +1,4 @@
 [
-  "skip:https://www.playground.ru/gta_6/news/po_otsenke_analitikov_sensor_tower_gta_6_stala_samoj_predzakazyvaemoj_igroj_v_istorii_9_millionov_kopij-1889417#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "https://stopgame.ru/newsdata/73434/prodazhi_nba_2k27_okazalis_nizhe_ozhidaemyh_iz_za_gta_vi_otchet_take_two",
-  "title:Продажи NBA 2K27 оказались ниже ожидаемых из-за GTA VI — отчёт Take-Two",
-  "skip:https://stopgame.ru/newsdata/73436/sostoyalsya_reliz_warhammer_survivors_klona_vampire_survivors_ot_avtorov_boltgun",
   "skip:https://www.pcgamer.com/hardware/handheld-gaming-pcs/steam-now-lets-you-see-exactly-what-frame-rate-you-should-get-in-games-using-a-steam-deck/",
   "skip:https://gamemag.ru/news/202069/vampirov-zamenili-na-imperum-sostoyalsya-reliz-warhammer-survivors",
   "skip:https://stopgame.ru/newsdata/73435/v_eshop_skoro_poyavitsya_vozmozhnost_darit_igry_dlya_switch",
@@ -998,5 +994,9 @@
   "skip:https://www.kinonews.ru/news_144252/",
   "skip:https://kg-portal.ru/comments/135899-zvezda-riverdejla-lili-rejnhart-mozhet-sygrat-vfilme-pro-kukol-polli-poket-otproizvoditelej-barbi/",
   "https://kg-portal.ru/comments/135886-sergej-burunov-valentina-ljapina-idrugie-naposterah-novogodnej-komedii-elki-13/",
-  "title:Сергей Бурунов, Валентина Ляпина и другие на постерах новогодней комедии \"Ёлки 13\""
+  "title:Сергей Бурунов, Валентина Ляпина и другие на постерах новогодней комедии \"Ёлки 13\"",
+  "skip:https://stopgame.ru/newsdata/73589/dzhensena_huanga_obvinili_v_mnogoletnih_izdevatelstvah_nad_sotrudnikami_nvidia",
+  "skip:https://www.playground.ru/misc/news/aktsii_nvidia_ruhnuli_na_42_na_fone_soobschenij_o_kitajskoj_razvedke_i_uhode_dzhensena_huanga-1892730#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "https://www.playground.ru/total_war_warhammer_40_000/news/v_total_war_warhammer_40_000_reputatsiya_kosmodesanta_opredelit_naskolko_ohotno_im_budut_pomogat_mestnye_zhiteli-1892768#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:В Total War: Warhammer 40,000 репутация Космодесанта определит, насколько охотно им будут помогать местные жители"
 ]

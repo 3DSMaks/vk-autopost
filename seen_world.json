@@ -1,13 +1,4 @@
 [
-  "https://ria.ru/20261119/anthropic-2132523891.html",
-  "title:Искусственный интеллект компании Anthropic может выйти на биржу с рекордной оценкой акций",
-  "skip:https://www.rbc.ru/politics/19/11/2026/6afe2a2165a66eb4fb259784",
-  "skip:https://www.kommersant.ru/doc/9113144",
-  "skip:https://ria.ru/20261119/most-2132526615.html",
-  "skip:https://tass.ru/proisshestviya/28332581",
-  "https://www.interfax.ru/russia/1129958",
-  "title:Крымский мост подвергся очередной атаке, движение транспорта временно перекрыто",
-  "skip:https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVVmSzl3dVBhbDdFbTMtTUl2LWVHU1FRb2hvYzJZNWdFU0ZDTmU3NFBVNDVWQXNXQlk2QmkzblN4MUplLWVGc1NheHNRZVpZTHZ1eG9OME53SUNtOExJQzNFSTJpLUw0cWxnSjR4VWlXLWZhZUZsc0dna1J6bmxZTTNBb0l2LUpq?oc=5",
   "skip:https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3NST2trRTZCZkdmblYtRm5pcldXRUJTVjZkZUJ6bHJYbjFUSUJ6ZGVJNW1SMVg0ZWthVnlfVVRhZnlld192c0pBaUZSUzRZS0xGdFlYRnViSU9RYVhHWXRpVDlULS0tREUzcDhfa0NGSVIzVkFTOXBzeW5JelpBVy1RV2FFWEpwdnFhZnlqUVN0bUxWSXJaTVFzTEQxTDlFVVpkRERxQmplM0V2X3c?oc=5",
   "skip:https://tass.ru/ekonomika/28332579",
   "https://www.kommersant.ru/doc/9113140",
@@ -998,5 +989,14 @@
   "skip:https://tass.ru/kosmos/28342945",
   "skip:https://www.interfax.ru/russia/1130618",
   "https://ria.ru/20261121/spacex-2133188552.html",
-  "title:Компания SpaceX запустила Falcon 9 со спутниками Starshield для Космических сил США"
+  "title:Компания SpaceX запустила Falcon 9 со спутниками Starshield для Космических сил США",
+  "skip:https://www.interfax.ru/world/1130621",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28342943",
+  "skip:https://ria.ru/20261121/ksir-2133186678.html",
+  "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+  "title:КСИР заявил об атаке на военные базы и радары США в Бахрейне",
+  "skip:https://ria.ru/20261121/krasnodar-2133189319.html",
+  "skip:https://tass.ru/ekonomika/28342961",
+  "https://www.interfax.ru/russia/1130622",
+  "title:В аэропорту Краснодара ввели временные ограничения на прием и выпуск самолетов"
 ]

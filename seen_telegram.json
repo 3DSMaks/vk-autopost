@@ -1,13 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/202066/oficialno-bandai-namco-zakryvaet-studiyu-vypustivshuyu-unknown-9-awakening",
-  "skip:https://www.igromania.ru/news/169820/v-metadannyih-gta-6-nashli-sledyi-multipleernogo-rezhima-propavshego-fajla-i-ne-tolko/",
-  "skip:https://gamemag.ru/news/202049/startovala-predzagruzka-gta-vi-dlya-ps5",
-  "skip:https://stopgame.ru/newsdata/73429/reliz_warhammer_40_000_dark_heresy_sostoitsya_28_yanvarya",
-  "skip:https://www.pcgamer.com/games/rpg/warhammer-40k-rogue-trader-follow-up-dark-heresy-will-launch-at-the-end-of-january/",
-  "skip:https://www.pcgamer.com/games/grand-theft-auto/take-two-expects-to-make-as-much-as-usd3-5-billion-during-the-gta-6-launch-period/",
-  "https://www.playground.ru/cyberpunk_2077/news/pikovyj_onlajn_cyberpunk_2077_v_steam_derzhitsya_vyshe_100_tysyach_igrokov_uzhe_tri_nedeli_podryad-1889323#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Пиковый онлайн Cyberpunk 2077 в Steam держится выше 100 тысяч игроков уже три недели подряд",
-  "skip:https://www.kinonews.ru/news_144078/",
   "skip:https://variety.com/2026/film/box-office/ramayana-godzilla-minus-zero-uk-ireland-box-office-1236943753/",
   "https://www.film.ru/news/finalnyy-treyler-begushchego-po-lezviyu-2099",
   "title:Финальный трейлер Бегущего по лезвию 2099",
@@ -998,5 +989,14 @@
   "skip:https://www.pcgamer.com/hardware/graphics-cards/nyt-report-documents-ex-nvidia-ceo-jensen-huangs-decades-of-berating-employees-he-said-he-would-rip-both-arms-off-a-subordinate-and-beat-the-person-over-the-head-to-death-with-them/",
   "skip:https://www.playground.ru/misc/news/ya_otorvu_tebe_obe_ruki_i_zabyu_tebya_imi_do_smerti_nyt_raskryla_shokiruyuschie_podrobnosti_metodov_upravleniya_huanga-1892452#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://stopgame.ru/newsdata/73578/dzhennifer_heyl_hotela_by_chtoby_ea_prodala_prava_na_mass_effect_fanatam",
-  "title:Дженнифер Хейл хотела бы, чтобы EA продала права на Mass Effect фанатам"
+  "title:Дженнифер Хейл хотела бы, чтобы EA продала права на Mass Effect фанатам",
+  "skip:https://stopgame.ru/newsdata/73586/rekord_grand_theft_auto_vi_uzhe_prinesla_sozdatelyam_pochti_4_mlrd_dollarov",
+  "skip:https://www.igromania.ru/news/170114/gta-6-uzhe-prodalas-tirazhom-v-32-milliona-kopij-ustanoviv-industrialnyij-rekord/",
+  "skip:https://gamemag.ru/news/202245/absolyutnyy-rekord-gta-vi-razoshlas-tirajom-v-325-mln-kopiy",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-earned-usd3-79-billion-on-launch-day/",
+  "skip:https://www.ign.com/articles/gta-6-is-the-biggest-entertainment-launch-of-all-time-at-379-billion-on-day-one",
+  "skip:https://gamemag.ru/news/202243/insayder-povtoryy-anons-remeyka-star-wars-knights-of-the-old-republic-sostoitsya-na-tga",
+  "skip:https://gamemag.ru/news/202235/ice-age-boiling-point-trailer",
+  "https://stopgame.ru/newsdata/73580/analitiki_tirazh_gta_vi_za_pervye_sutki_sostavil_bolshe_24_mln_kopiy",
+  "title:Аналитики: тираж GTA VI за первые сутки составил больше 24 млн копий"
 ]

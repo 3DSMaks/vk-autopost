@@ -1,14 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3NST2trRTZCZkdmblYtRm5pcldXRUJTVjZkZUJ6bHJYbjFUSUJ6ZGVJNW1SMVg0ZWthVnlfVVRhZnlld192c0pBaUZSUzRZS0xGdFlYRnViSU9RYVhHWXRpVDlULS0tREUzcDhfa0NGSVIzVkFTOXBzeW5JelpBVy1RV2FFWEpwdnFhZnlqUVN0bUxWSXJaTVFzTEQxTDlFVVpkRERxQmplM0V2X3c?oc=5",
-  "skip:https://tass.ru/ekonomika/28332579",
-  "https://www.kommersant.ru/doc/9113140",
-  "title:Компания Anthropic объявила параметры IPO с оценкой акций в 83 доллара",
-  "skip:https://www.interfax.ru/world/1129959",
-  "skip:https://ria.ru/20261119/tanker-2132528198.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28332593",
-  "https://www.interfax.ru/world/1129962",
-  "title:Удары по танкерам и атаки в Ормузском проливе",
-  "skip:https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
   "skip:https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
   "skip:https://news.google.com/rss/articles/CBMipgFBVV95cUxOdW1QU3VfRndFeVFEODFZbWVTcUVkcE1CelRpYmJWZ0FleXRVd3EwbjFXeHRmbUJQUDBsQXFQc21iVjdCRHFscy1qQjZWeWhIMnF6d0NBR3gxQmRERFdyLXBDNFFpZDQtY05mT3REaThpVWdVSVQzLUtmOUpweHZmc0dvWEFjbmpxWDdadjNzaFI4ajNmNUZsVVlhb05hWm5qRFdNTV9R?oc=5",
   "https://www.rbc.ru/quote/19/11/2026/6afaece9e3b24c7eab7d7f26",
@@ -998,5 +988,15 @@
   "skip:https://ria.ru/20261121/krasnodar-2133189319.html",
   "skip:https://tass.ru/ekonomika/28342961",
   "https://www.interfax.ru/russia/1130622",
-  "title:В аэропорту Краснодара ввели временные ограничения на прием и выпуск самолетов"
+  "title:В аэропорту Краснодара ввели временные ограничения на прием и выпуск самолетов",
+  "skip:https://ria.ru/20261122/bahrejn-2133191761.html",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
+  "title:В Бахрейне зафиксировали удар по промышленному объекту и работу средств ПВО",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28343021",
+  "skip:https://ria.ru/20261122/tramp-2133192762.html",
+  "skip:https://tass.ru/obschestvo/28342995",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28342993",
+  "skip:https://www.rbc.ru/politics/22/11/2026/6b0207755e2ed76366e4de5e",
+  "https://ria.ru/20261122/tramp-2133196048.html",
+  "title:Дональд Трамп назвал саммит АТЭС в Китае величайшим и опубликовал фотографии с лидерами России и Китая"
 ]

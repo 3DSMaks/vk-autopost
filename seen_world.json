@@ -1,11 +1,4 @@
 [
-  "https://ria.ru/20261118/dron-2132499814.html",
-  "title:Российская ПВО перехватила 51 украинский беспилотник за день",
-  "skip:https://www.interfax.ru/world/1129926",
-  "https://www.kommersant.ru/doc/9112987",
-  "title:Картина Василия Кандинского продана на аукционе за рекордные 85,5 миллиона долларов",
-  "skip:https://ria.ru/20261118/pandemiya-2132500381.html",
-  "https://www.rbc.ru/society/18/11/2026/6afdd93ee1187f5583394f8c",
   "title:В Европе зафиксирован рост числа инфекций, вызванных устойчивой к антибиотикам бактерией",
   "skip:https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWmNhRGRTRGVGakVJc3BWdnQ1ZWRXQnZZRmR5TThNMm52a21IaWNtVXpZbEJTYmdld1ZSdnVLYTZsQlFZSnhhR3hSSmpOckExUnhnZldXS3FvZFZDeHZiSHV2eW1LUDYtRUc2UDVBQ1c3bDRPOUhsSGJoUF8yQzAxWEhIS3dXRXM1MG5lZzdvaW9HQnNQR0V6OFE5T1h3VVowc0hBRkYtaWxRUTh0NEhIbWthc0FEQlBWUWdj?oc=5",
   "https://tass.ru/proisshestviya/28332167",
@@ -998,5 +991,12 @@
   "skip:https://ria.ru/20261121/vladikavkaz-2133170595.html",
   "skip:https://ria.ru/20261121/prokuratura-2133166995.html",
   "https://tass.ru/proisshestviya/28342807",
-  "title:Во Владикавказе после взрыва газа частично обрушился подъезд жилого дома"
+  "title:Во Владикавказе после взрыва газа частично обрушился подъезд жилого дома",
+  "skip:https://www.interfax.ru/world/1130614",
+  "https://ria.ru/20261121/frantsija-2133179316.html",
+  "title:Во Франции прошли новые акции протеста против роста цен",
+  "skip:https://ria.ru/20261121/pvo-2133176992.html",
+  "skip:https://tass.ru/armiya-i-opk/28342811",
+  "https://www.interfax.ru/russia/1130612",
+  "title:Силы ПВО за день сбили 47 украинских беспилотников над регионами России"
 ]

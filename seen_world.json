@@ -1,8 +1,4 @@
 [
-  "skip:https://tass.ru/politika/28330255",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28330247",
-  "skip:https://tass.ru/politika/28330207",
-  "skip:https://ria.ru/20261118/tramp-2132334648.html",
   "skip:https://ria.ru/20261118/ushakov-2132333557.html",
   "skip:https://ria.ru/20261118/putin-2132331397.html",
   "skip:https://ria.ru/20261118/putin-2132330612.html",
@@ -998,5 +994,9 @@
   "title:Танкер обстрелян в районе Ормузского пролива",
   "skip:https://ria.ru/20261121/superbakteriya-2133103186.html",
   "https://www.kommersant.ru/doc/9127055",
-  "title:ВОЗ предупредила о риске распространения супербактерии в Европе"
+  "title:ВОЗ предупредила о риске распространения супербактерии в Европе",
+  "skip:https://tass.ru/ekonomika/28342141",
+  "skip:https://www.rbc.ru/economics/21/11/2026/6b014792ab1f876132176951",
+  "https://www.kommersant.ru/doc/9127070",
+  "title:Курс биткоина упал до минимума с сентября 2024 года"
 ]

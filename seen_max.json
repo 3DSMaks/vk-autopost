@@ -1,12 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/202043/izmena-i-kitayskaya-razvedchica-glava-nvidia-ugodil-v-shpionskiy-skandal",
-  "skip:https://gamemag.ru/news/202036/dark-outlaw-games-doom-inspired-game",
-  "https://www.playground.ru/gta_6/news/rockstar_ustroit_festival_gta_6_v_majami_s_trevisom_skottom_kardi_bi_i_drugimi_zvyozdami-1889153#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Rockstar устроит фестиваль GTA 6 в Майами с Трэвисом Скоттом, Карди Би и другими звёздами",
-  "skip:https://kg-portal.ru/comments/135718-robert-pattinson-idenzel-vashington-planirujut-ograblenie-napervyh-kadrah-trillera-zahvat/",
-  "https://deadline.com/2026/11/ariana-grande-jimmy-fallon-tonight-show-focker-in-law-1237217250/",
-  "title:Ariana Grande Crashes Jimmy Fallon’s Monologue With ‘Focker-In-Law’s Ben Stiller & Robert De Niro",
-  "skip:https://variety.com/2026/tv/news/ariana-grande-tonight-show-stepping-away-public-1236943053/",
   "https://deadline.com/2026/11/jonathan-bailey-bill-nighy-love-story-film-insomniac-city-1237217341/",
   "title:Jonathan Bailey & Bill Nighy To Star In Love Story ‘Insomniac City’ For Director Dominic Cooke — AFM",
   "skip:https://www.film.ru/news/reliz-take-s-pattinsonom-i-vashingtonom",
@@ -998,5 +990,13 @@
   "https://www.film.ru/news/pribavlenie-v-novom-sobiratele-dush",
   "title:Прибавление в новом Собирателе душ",
   "https://www.film.ru/news/princ-garri-o-novom-bonde",
-  "title:Принц Гарри о новом Бонде"
+  "title:Принц Гарри о новом Бонде",
+  "skip:https://stopgame.ru/newsdata/73586/rekord_grand_theft_auto_vi_uzhe_prinesla_sozdatelyam_pochti_4_mlrd_dollarov",
+  "skip:https://gamemag.ru/news/202245/absolyutnyy-rekord-gta-vi-razoshlas-tirajom-v-325-mln-kopiy",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-earned-usd3-79-billion-on-launch-day/",
+  "skip:https://www.ign.com/articles/gta-6-is-the-biggest-entertainment-launch-of-all-time-at-379-billion-on-day-one",
+  "skip:https://gamemag.ru/news/202243/insayder-povtoryy-anons-remeyka-star-wars-knights-of-the-old-republic-sostoitsya-na-tga",
+  "skip:https://gamemag.ru/news/202235/ice-age-boiling-point-trailer",
+  "https://gamemag.ru/news/202242/gta-6-is-the-last-pre-ai-blockbuster-video-game-of-its-kind-says-former-take-two-ceo",
+  "title:Бывший глава Take-Two: Grand Theft Auto VI — последний созданный вручную суперблокбастер, дальше не обойтись без ИИ"
 ]

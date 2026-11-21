@@ -1,13 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMifkFVX3lxTE1QVW9FYWgxOUQyeFFFdHRIdkVLWDZLem1MWFItOVZmQU1SODEtcEZ1Y3NsOGZXeUtNQVN5cElvSmVoNXFoZDFVZ0NlaHFmcmNuQ2w1SWJENDNNLWVVWHNNQUVXdnV0X1Z5M3E2bnJSSzRQd3FBR1FQMzh0dGRPdw?oc=5",
-  "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
-  "title:Инфляция в Великобритании выросла до 3,6% в октябре на фоне удорожания топлива",
-  "skip:https://www.rbc.ru/rbcfreenews/6afd5b4109bedaadcb863f37",
-  "skip:https://tass.ru/politika/28329869",
-  "https://www.kommersant.ru/doc/9112362",
-  "title:Владимир Путин выступил в совместном российско-китайском университете в Шэньчжэне",
-  "skip:https://ria.ru/20261118/agent-2132303599.html",
-  "https://www.rbc.ru/rbcfreenews/6afd57fbb904d649ef22d1eb",
   "title:ФСБ задержала двоих жителей Хабаровского края по подозрению в госизмене",
   "skip:https://www.kommersant.ru/doc/9112406",
   "skip:https://www.france24.com/en/asia-pacific/20261118-xi-putin-meet-ahead-of-historic-trump-trilateral-summit",
@@ -998,5 +989,14 @@
   "skip:https://www.interfax.ru/russia/1130539",
   "skip:https://ria.ru/20261121/pulkovo-2133080297.html",
   "https://www.kommersant.ru/doc/9126984",
-  "title:Над Ленинградской областью перехвачены десятки беспилотников, аэропорт Пулково ограничил работу"
+  "title:Над Ленинградской областью перехвачены десятки беспилотников, аэропорт Пулково ограничил работу",
+  "skip:https://tass.ru/armiya-i-opk/28342069",
+  "skip:https://www.interfax.ru/russia/1130562",
+  "skip:https://ria.ru/20261121/bpla-2133103747.html",
+  "https://www.kommersant.ru/doc/9127044",
+  "title:Силы ПВО за ночь сбили 73 украинских беспилотника над Ленинградской областью",
+  "skip:https://www.kommersant.ru/doc/9127036",
+  "skip:https://ria.ru/20261121/mask-2133095276.html",
+  "https://tass.ru/mezhdunarodnaya-panorama/28342061",
+  "title:В Конгрессе США пригрозили лишить SpaceX финансирования из-за ограничений системы Starshield на Украине"
 ]

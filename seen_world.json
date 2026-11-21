@@ -1,13 +1,4 @@
 [
-  "skip:https://www.interfax.ru/world/1129814",
-  "skip:https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFhjUFo4SHBqb20yY1dQWmZZNlZhV2VvZjRQLTFoQjlYeFItaHNXX0FZVmhuazRYODFqcEk5RThWZUNpX2lPOFJrZ0M5U0hEODBZZFNndnE3U18xNWRtVGhlYmRXU3V1My16RTUybkdaSXRvc3NIOWpNdllIWG1GMjE4Z2N1bm1naUZjNXF6bVBPSF9lalVpeHdNN1FQeWRtZDBfaTh3ZXBaQQ?oc=5",
-  "https://www.france24.com/en/europe/20261118-eu-proposes-new-%E2%82%AC45-billion-ukraine-loan-to-be-repaid-by-russia",
-  "title:Еврокомиссия предложила выделить Украине новый пакет финансовой помощи на 45 млрд евро",
-  "skip:https://www.rbc.ru/technology_and_media/18/11/2026/6afc1d1ea35f8ecce255d34b",
-  "skip:https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZElsVDJXZEEtTmRRNDZYN1hiZUt0SndSYXpKSlNLWlhZWjFOT1l3N2hLMU4ydWh4U2lsbjBSazB0ak9pcV9fUVZVS3dkaVVEUUxUM0o0bHNGSmFGbXJLZExkczk0WWMtMjF1Ti1mWFFJaWF0dWk1UmtBVVZqdHdoMDRUNnBhRmJsX3hMYTdqa1RuMl9mVEo1ZTZUWFNKX2hPandoa255bW1OUQ?oc=5",
-  "https://www.rbc.ru/photoreport/18/11/2026/6afc798667e017c6117f43b2",
-  "title:Космический аппарат «Вояджер-1» преодолел расстояние в одни световые сутки от Земли",
-  "skip:https://www.kommersant.ru/doc/9112548",
   "https://ria.ru/20261118/ek-2132400409.html",
   "skip:https://ria.ru/20261118/vstrecha-2132398454.html",
   "skip:https://ria.ru/20261118/putin-2132398074.html",
@@ -998,5 +989,14 @@
   "title:Франция раскритиковала предложенный Евросоветом проект бюджета ЕС на 2028-2034 годы с ростом оборонных расходов",
   "skip:https://ria.ru/20261121/pashinjane-2133129880.html",
   "https://www.kommersant.ru/doc/9127128",
-  "title:Премьер-министр Армении Никол Пашинян анонсировал запуск транспортного коридора «Маршрут Трампа»"
+  "title:Премьер-министр Армении Никол Пашинян анонсировал запуск транспортного коридора «Маршрут Трампа»",
+  "skip:https://www.rbc.ru/rbcfreenews/6b01925933f2cdc46fcd92b5",
+  "skip:https://tass.ru/proisshestviya/28342443",
+  "skip:https://www.interfax.ru/russia/1130584",
+  "https://tass.ru/proisshestviya/28342455",
+  "title:В многоквартирном доме во Владикавказе произошел взрыв, есть погибшие",
+  "skip:https://ria.ru/20261121/bpla-2133138344.html",
+  "skip:https://www.interfax.ru/russia/1130585",
+  "https://tass.ru/proisshestviya/28342451",
+  "title:Средства ПВО нейтрализовали три беспилотника в Псковской области"
 ]

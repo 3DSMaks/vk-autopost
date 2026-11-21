@@ -1,11 +1,4 @@
 [
-  "title:Власти Гондураса направили спецназ на север страны после массовых убийств",
-  "skip:https://ria.ru/20261119/aeroport-2132534333.html",
-  "skip:https://tass.ru/ekonomika/28332671",
-  "skip:https://tass.ru/ekonomika/28332661",
-  "skip:https://www.interfax.ru/russia/1129960",
-  "skip:https://tass.ru/ekonomika/28332615",
-  "https://www.interfax.ru/russia/1129965",
   "title:В аэропортах Самары, Ульяновска и Пензы введены временные ограничения на полеты",
   "skip:https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
   "https://tass.ru/obschestvo/28332667",
@@ -998,5 +991,12 @@
   "title:МВД Бахрейна заявило о повреждении гражданского промышленного объекта в результате иранского удара",
   "skip:https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1lhc2ZRS3hPcnFWc3VBdDBIbElGZF9PSlZVSEV4NFNxSXZ1YlZWeWtYUVdrbjZXVXFJM3V6VkgzLTZGSWdWUFZiVGctOFRreU1lUWpWdXp5VmJxYTFBVU9wTk9YcTZNSmt6MDhsNnB6azlRSnVnaUdZNF83dl9Gay1OVm9qQ2NreElTT1EzVFF2STVySzRkQmt3M19lRjlzQjJvVWVQckYzR21YUVRyY1R0MGJNYzJwaVhR?oc=5",
   "skip:https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-  "https://www.rbc.ru/rbcfreenews/6b020ee2c82fefdda02f9496"
+  "https://www.rbc.ru/rbcfreenews/6b020ee2c82fefdda02f9496",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28343039",
+  "skip:https://www.kommersant.ru/doc/9127216",
+  "https://www.rbc.ru/politics/22/11/2026/6b0220f15a21a813710176b6",
+  "title:Премьер Италии Джорджа Мелони выразила протест Зеленскому из-за базы «Миротворец»",
+  "skip:https://tass.ru/politika/28343003",
+  "https://www.kommersant.ru/doc/9127218",
+  "title:Россия и Грузия договорились о регулярном прямом диалоге и расширении торговли"
 ]

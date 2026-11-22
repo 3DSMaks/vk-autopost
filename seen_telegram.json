@@ -1,7 +1,4 @@
 [
-  "video:2026-11-11:https://www.playground.ru/state_of_decay_3/news/state_of_decay_3_othodit_ot_kooperativnyh_ambitsij_undead_labs_uslyshala_prosby_fanatov_i_pererabotala_osnovu_igry-1889630#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:State of Decay 3 отходит от кооперативных амбиций - Undead Labs услышала просьбы фанатов и переработала основу игры",
-  "skip:https://kg-portal.ru/comments/135740-dlja-milli-bobbi-braun-netflix-nashel-scenarij-vydajuschejsja-romanticheskoj-komedii/",
   "skip:https://www.film.ru/news/start-vovki-v-tridevyatom-carstve",
   "https://www.film.ru/news/prichiny-uvolneniya-dzheymsa-ganna-iz-dc",
   "title:Причины увольнения Джеймса Ганна из DC",
@@ -998,5 +995,8 @@
   "video:2026-11-22:https://gamemag.ru/news/202252/grotesknye-monstry-i-intriguyushchie-personaji-treyler-realistichnogo-horrora-ill-s-horror-game",
   "title:Гротескные монстры и интригующие персонажи: Трейлер реалистичного хоррора Ill с Horror Game Awards Fall 2026",
   "https://www.igromania.ru/news/170136/v-shestuyu-glavu-deltarune-uzhe-mozhno-syigrat-ot-nachala-do-kontsa-zayavili-razrabotchiki/",
-  "title:В шестую главу Deltarune уже можно сыграть от начала до конца, заявили разработчики"
+  "title:В шестую главу Deltarune уже можно сыграть от начала до конца, заявили разработчики",
+  "skip:https://www.playground.ru/gta_6/news/igroki_gta_6_nedovolny_maksimalnym_vesom_dzhejsona_i_lyusii_fanaty_hoteli_by_sdelat_geroev_gorazdo_polnee-1892940#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "https://www.pcgamer.com/games/baldurs-gate/astarions-baldurs-gate-3-prequel-novel-infuriated-fans-now-its-shadowhearts-turn/",
+  "title:Astarion's Baldur's Gate 3 prequel novel infuriated fans, now it's Shadowheart's turn"
 ]

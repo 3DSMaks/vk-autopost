@@ -1,13 +1,4 @@
 [
-  "skip:https://ria.ru/20261119/vstrecha-2132620933.html",
-  "skip:https://ria.ru/20261119/tramp-2132620842.html",
-  "skip:https://ria.ru/20261119/tramp--2132620498.html",
-  "skip:https://www.france24.com/en/nuclear-arms-at-the-center-of-the-schenzhen-trilateral-meeting",
-  "skip:https://www.aljazeera.com/news/2026/11/19/trump-meets-putin-and-xi-ahead-of-us-russia-china-trilateral-talks?traffic_source=rss",
-  "skip:https://www.rbc.ru/politics/19/11/2026/6afe0311f6e7b8df0d5ecb43",
-  "skip:https://www.interfax.ru/russia/1130063",
-  "https://www.kommersant.ru/doc/9113499",
-  "title:На саммите АТЭС в Шэньчжэне началась трехсторонняя встреча Путина, Трампа и Си Цзиньпина",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28334329",
   "https://www.interfax.ru/world/1130074",
   "title:Парламент Монголии поддержал отставку президента Ухнаагийна Хурэлсуха",
@@ -998,5 +989,14 @@
   "skip:https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss",
   "skip:https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss",
   "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXUxa0FLT1o3Tzh4MUR0MV9ZenU1LU9PZl9QSzhsQXlOQThFNUxWbWFXRXZTOHFpb1lJdG1GTV9hOUZsc2x4YzBOSzV3ZHZkV2pyNjNIaTVWZEViQ2lLb3JkcjJsbGhVNXFmWXQ5c0pDTkVXeG9IbmlKV3AxYUtfNE5DVnhWX3lvNmg0SF9SZ1lHQzEtSnY1REsycUlvWFVEOFlBSXR3?oc=5",
-  "title:Российское грузовое судно загорелось после атаки в Балтийском море у берегов Финляндии"
+  "title:Российское грузовое судно загорелось после атаки в Балтийском море у берегов Финляндии",
+  "skip:https://tass.ru/kosmos/28343821",
+  "skip:https://www.interfax.ru/world/1130665",
+  "https://www.interfax.ru/world/1130670",
+  "title:Космический аппарат BepiColombo вышел на орбиту Меркурия",
+  "skip:https://www.rbc.ru/politics/22/11/2026/6b02e4abdcbd0c7f985b73bc",
+  "skip:https://www.kommersant.ru/doc/9127392",
+  "skip:https://ria.ru/20261122/husnullin-2133257717.html",
+  "https://tass.ru/ekonomika/28343805",
+  "title:Власти определили этапы восстановления Крымского моста"
 ]

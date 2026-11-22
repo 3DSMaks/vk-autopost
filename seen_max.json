@@ -1,7 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169856/prodazhi-remejka-the-legend-of-zelda-ocarina-of-time-za-4-dnya-prevyisili-52-mln-kopij/",
-  "skip:https://www.igromania.ru/news/169854/poslednij-gvozd-i-skatertyu-doroga-prilozhenie-playstation-plus-dlya-pc-zakroyut-v-dekabre/",
-  "skip:https://stopgame.ru/newsdata/73452/shrayer_sony_otmenila_onlayn_shuter_fairgames",
   "skip:https://www.igromania.ru/news/169851/svezhie-trejleryi-marvel-rivals-predstavili-11-j-sezon-sudnyij-den-i-nochnogo-zmeya-reliz-13-noyabrya/",
   "skip:https://www.pcgamer.com/gaming-industry/sony-cancels-another-live-service-game-ahead-of-release-but-at-least-there-wont-be-any-layoffs-this-time/",
   "skip:https://www.ign.com/articles/playstation-cancels-live-service-heist-shooter-fairgames",
@@ -998,5 +995,8 @@
   "skip:https://kg-portal.ru/comments/135910-promoart-filma-rokki-eto-ja/",
   "skip:https://kg-portal.ru/comments/135904-chas-pik-4-sdzheki-chanom-ikrisom-takerom-vyedet-izvechnoj-probki-v2028-godu/",
   "https://deadline.com/2026/11/john-carpenter-robert-rodriguez-running-helm-escape-new-york-1237231028/",
-  "title:John Carpenter Reveals Robert Rodriguez Back In Running To Helm ‘Escape from New York’ Reimagining"
+  "title:John Carpenter Reveals Robert Rodriguez Back In Running To Helm ‘Escape from New York’ Reimagining",
+  "skip:https://kg-portal.ru/comments/135899-zvezda-riverdejla-lili-rejnhart-mozhet-sygrat-vfilme-pro-kukol-polli-poket-otproizvoditelja-barbi/",
+  "https://www.kinonews.ru/news_144261/",
+  "title:Махершала Али пожаловался на отсутствие ролей в Голливуде"
 ]

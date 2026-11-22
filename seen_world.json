@@ -1,11 +1,4 @@
 [
-  "skip:https://ria.ru/20261119/putin-2132621930.html",
-  "skip:https://ria.ru/20261119/tramp-2132621842.html",
-  "skip:https://tass.ru/politika/28334235",
-  "skip:https://ria.ru/20261119/tramp-2132621534.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28334229",
-  "skip:https://tass.ru/politika/28334191",
-  "skip:https://ria.ru/20261119/putin-2132621029.html",
   "skip:https://ria.ru/20261119/vstrecha-2132620933.html",
   "skip:https://ria.ru/20261119/tramp-2132620842.html",
   "skip:https://ria.ru/20261119/tramp--2132620498.html",
@@ -998,5 +991,12 @@
   "skip:https://www.interfax.ru/world/1130662",
   "skip:https://www.rbc.ru/rbcfreenews/6b02c1b0f1da96c824cad704",
   "https://www.france24.com/en/indonesia-factory-hit-by-deadly-blaze-three-killed-and-36-missing",
-  "title:В Танзании произошел крупный пожар в шести отелях на курорте Нунгви на острове Занзибар"
+  "title:В Танзании произошел крупный пожар в шести отелях на курорте Нунгви на острове Занзибар",
+  "skip:https://ria.ru/20261122/iran-2133247975.html",
+  "https://www.interfax.ru/world/1130663",
+  "title:КСИР Ирана заявил об уничтожении американского беспилотника над Ормузским проливом",
+  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss",
+  "skip:https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss",
+  "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXUxa0FLT1o3Tzh4MUR0MV9ZenU1LU9PZl9QSzhsQXlOQThFNUxWbWFXRXZTOHFpb1lJdG1GTV9hOUZsc2x4YzBOSzV3ZHZkV2pyNjNIaTVWZEViQ2lLb3JkcjJsbGhVNXFmWXQ5c0pDTkVXeG9IbmlKV3AxYUtfNE5DVnhWX3lvNmg0SF9SZ1lHQzEtSnY1REsycUlvWFVEOFlBSXR3?oc=5",
+  "title:Российское грузовое судно загорелось после атаки в Балтийском море у берегов Финляндии"
 ]

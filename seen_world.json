@@ -1,7 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28334329",
-  "https://www.interfax.ru/world/1130074",
-  "title:Парламент Монголии поддержал отставку президента Ухнаагийна Хурэлсуха",
   "skip:https://ria.ru/20261119/vstrecha-2132644185.html",
   "skip:https://tass.ru/politika/28334645",
   "skip:https://www.rbc.ru/rbcfreenews/6afebb879992e8908b241a7f",
@@ -998,5 +995,8 @@
   "skip:https://www.kommersant.ru/doc/9127392",
   "skip:https://ria.ru/20261122/husnullin-2133257717.html",
   "https://tass.ru/ekonomika/28343805",
-  "title:Власти определили этапы восстановления Крымского моста"
+  "title:Власти определили этапы восстановления Крымского моста",
+  "skip:https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal?traffic_source=rss",
+  "https://www.interfax.ru/world/1130671",
+  "title:Не менее трех человек погибли при пожаре на кондитерской фабрике в Индонезии"
 ]

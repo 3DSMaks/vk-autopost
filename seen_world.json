@@ -1,12 +1,4 @@
 [
-  "skip:https://tass.ru/politika/28335065",
-  "skip:https://tass.ru/politika/28335059",
-  "skip:https://ria.ru/20261119/putin-2132667480.html",
-  "skip:https://ria.ru/20261119/putin-2132666899.html",
-  "skip:https://ria.ru/20261119/yampolskaya-2132664265.html",
-  "skip:https://ria.ru/20261119/vstrecha-2132664039.html",
-  "skip:https://www.interfax.ru/world/1130105",
-  "skip:https://www.france24.com/en/video/20261119-apec-summit-trump-putin-xi-hold-historic-meeting",
   "skip:https://www.kommersant.ru/doc/9113646",
   "https://ria.ru/20261119/konflikty-2132677601.html",
   "title:Владимир Путин, Дональд Трамп и Си Цзиньпин провели трехстороннюю встречу в Шэньчжэне и приняли итоговую декларацию",
@@ -998,5 +990,13 @@
   "skip:https://ria.ru/20261122/alkaras-2133296249.html",
   "skip:https://tass.ru/sport/28344091",
   "https://www.sport-interfax.ru/1130694",
-  "title:Испанский теннисист Карлос Алькарас впервые в карьере выиграл Итоговый турнир ATP"
+  "title:Испанский теннисист Карлос Алькарас впервые в карьере выиграл Итоговый турнир ATP",
+  "skip:https://ria.ru/20261122/ogranicheniya-2133301159.html",
+  "skip:https://tass.ru/ekonomika/28344139",
+  "https://ria.ru/20261122/ssha-2133301275.html",
+  "title:В ряде российских аэропортов ввели ограничения, отменены тысячи рейсов в США",
+  "skip:https://www.rbc.ru/society/22/11/2026/6b032e74e377f2dd2979f67d",
+  "skip:https://ria.ru/20261122/frg-2133293605.html",
+  "https://www.kommersant.ru/doc/9127556",
+  "title:В Германии 56 человек отравились угарным газом во время богослужения в церкви"
 ]

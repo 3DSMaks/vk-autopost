@@ -1,7 +1,4 @@
 [
-  "title:В аэропортах Самары, Ульяновска и Пензы введены временные ограничения на полеты",
-  "skip:https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
-  "https://tass.ru/obschestvo/28332667",
   "title:Картина Винсента ван Гога продана на аукционе в Нью-Йорке за рекордные 190 миллионов долларов",
   "skip:https://www.interfax.ru/world/1129970",
   "skip:https://ria.ru/20261119/tramp-2132534885.html",
@@ -998,5 +995,8 @@
   "title:Премьер Италии Джорджа Мелони выразила протест Зеленскому из-за базы «Миротворец»",
   "skip:https://tass.ru/politika/28343003",
   "https://www.kommersant.ru/doc/9127218",
-  "title:Россия и Грузия договорились о регулярном прямом диалоге и расширении торговли"
+  "title:Россия и Грузия договорились о регулярном прямом диалоге и расширении торговли",
+  "skip:https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN0NlUmFqMnhmVkpyWGZoS25Dam1uYjkxeHRjVDVMQmdqalVQYmpid2tjZ1JDLWdUM1FfYzc3cjRnU1VWdEI2WjRJMTZybmYxVEZESl91MTR1aEJCZnE2QzNiMXp6S1VWSFJnZWRhUVlTLTY2a1A0bDZsMnJ4dHNFem0yZm9IY1JmMkRzLTFOSl9vcGR4aVh0bklEUVU3eC1xR2VZd3VPYk9WWVNJMmR2WVE2Mmk5NDNqd1BqcEFrXzJ3SXZKbmx4TA?oc=5",
+  "https://www.kommersant.ru/doc/9127220",
+  "title:В Мексике задержан наркобарон Эль Чапо Исидро"
 ]

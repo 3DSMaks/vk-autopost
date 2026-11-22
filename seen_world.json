@@ -1,11 +1,4 @@
 [
-  "skip:https://ria.ru/20261119/sammit-2132679918.html",
-  "skip:https://www.interfax.ru/russia/1130127",
-  "skip:https://www.interfax.ru/world/1130126",
-  "skip:https://ria.ru/20261119/putin-2132679522.html",
-  "skip:https://www.interfax.ru/world/1130124",
-  "skip:https://ria.ru/20261119/sammit-2132679201.html",
-  "skip:https://www.interfax.ru/world/1130119",
   "skip:https://ria.ru/20261119/sammit-2132679089.html",
   "skip:https://ria.ru/20261119/mus-2132678916.html",
   "skip:https://www.interfax.ru/russia/1130122",
@@ -998,5 +991,12 @@
   "skip:https://ria.ru/20261123/tennis-2133301457.html",
   "skip:https://news.google.com/rss/articles/CBMiugFBVV95cUxOQnZLa0MwZ1Z3eXYxQko3RHNwcHBmWXR2bkRIcjR1N1V3MWNsV1FEUnNfeUkxVDM0NDMyV282eDZHQzYySkcyMHhLOGNRYXEwU3FOTVU0Slg4cER2d2hablF2bUJUT1plUjZqd1ZjNnRjc2ZHNmpnX09IcXA3ZWtObXZDZWNNazJvdE4tSEdNUEFyeHQ1aXlHQV9ndmRLaFRaRTBSNm01Z0hfR0c5SDdHRllETjdjdjB5a3c?oc=5",
   "https://www.kommersant.ru/doc/9127591",
-  "title:Испанский теннисист Карлос Алькарас обыграл Александра Зверева в финале Итогового турнира ATP"
+  "title:Испанский теннисист Карлос Алькарас обыграл Александра Зверева в финале Итогового турнира ATP",
+  "skip:https://www.rbc.ru/rbcfreenews/6b0355729c2b3228e48ffd6c",
+  "skip:https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN0ZaSUxXY2RGTWZBcXdNRjV0eWhIZUdfWjFBSmI1OHBGZy1qRWFpNnJxZDJVOC14dVFGZGdSS3NfeFNsQm1IcmJIWGs4M0l5alZQZVhDek80S1lnQ3plUkRrbm9uaE44RWtNMTBDTWRLUmdGLWVVUDRJZ1J5TmR4QU5vWW5qT2NvOHB3dklzcFZ2ZFltMy1SYVdJQnNRZFBiaURJN2t0bjExaE0?oc=5",
+  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZzZjY0pNZnpnUmtsZ3RudXpZeDh4TnlWZDFIZHBvUk0tbVlxREhydk5zRTJhX0lYcjFXQTNNTzBtOFM4NlNhTE9DZnl3SUZiM3RpTzRzZTJ4aURMSUJCdDRGb0l2MWh5MFJmTWgwS1k4Ql9vTGh1eWVGbEw3WGVCS1UtTkNGVVoxS0EyZVl3Vmw0UThpTlVUWWN2WlNyaWR6a1FYYlJZaWl1MlAyQ01OSEcyY3hMai0zUWdfUUc3MkQ?oc=5",
+  "title:Демократическая партия США получила наибольшее большинство в Палате представителей с 1992 года",
+  "skip:https://tass.ru/obschestvo/28344177",
+  "https://www.kommersant.ru/doc/9127595",
+  "title:Массовые задержки и отмены авиарейсов в США из-за технического сбоя в системе бронирования"
 ]

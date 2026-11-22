@@ -1,10 +1,4 @@
 [
-  "skip:https://www.rbc.ru/politics/19/11/2026/6afecd19ee0990dcc8b984a7",
-  "skip:https://www.france24.com/en/apec-summit-lots-of-gloss-little-real-progress",
-  "skip:https://www.rbc.ru/quote/19/11/2026/6afecf8c3bcf696184fe9ccb",
-  "skip:https://www.france24.com/en/xi-trump-putin-historic-summit-ends-outcome-unclear",
-  "https://www.kommersant.ru/doc/9113734",
-  "title:Владимир Путин, Дональд Трамп и Си Цзиньпин приняли декларацию о мире по итогам трехсторонней встречи на саммите АТЭС",
   "skip:https://news.google.com/rss/articles/CBMiZkFVX3lxTE5haC1aUWRNbmhoblFIWWVjdlNhZ3JTNzNyc3Z6d0R1X0hQVlRwODhxR0xLVkNGWm4yUi0xem94bTF3LVhHVVVxZGV4VFF4bW9iTXRIQlNERlNUTEtFU0lESFQxM3kyUQ?oc=5",
   "skip:https://www.france24.com/en/tv-shows/business/20261119-ai-lab-anthropic-sets-stock-market-record-with-81-billion-ipo",
   "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5",
@@ -998,5 +992,11 @@
   "skip:https://ria.ru/20261123/aeroport-2133305697.html",
   "skip:https://tass.ru/ekonomika/28344197",
   "https://ria.ru/20261123/aeroporty-2133306809.html",
-  "title:В ряде российских аэропортов введены временные ограничения"
+  "title:В ряде российских аэропортов введены временные ограничения",
+  "skip:https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss",
+  "https://www.rbc.ru/rbcfreenews/6b036eb0b0b4c16694856cb8",
+  "title:Демократическая партия США получила наибольшее большинство в Палате представителей",
+  "skip:https://tass.ru/ekonomika/28344213",
+  "https://www.interfax.ru/russia/1130703",
+  "title:В четырех российских аэропортах ввели временные ограничения"
 ]

@@ -1,11 +1,4 @@
 [
-  "skip:https://www.rbc.ru/politics/19/11/2026/6afeb5cc20f76c20b262fc6e",
-  "skip:https://ria.ru/20261119/putin-2132624603.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28334265",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28334271",
-  "skip:https://ria.ru/20261119/tramp-2132624438.html",
-  "skip:https://ria.ru/20261119/tramp-2132624115.html",
-  "skip:https://tass.ru/politika/28334259",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28334245",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28334255",
   "skip:https://ria.ru/20261119/tramp--2132623703.html",
@@ -998,5 +991,12 @@
   "title:Заседания Совета НАТО и последствия атак беспилотников в Луганске",
   "skip:https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
   "https://www.france24.com/en/south-korea-ai-cheating-sparks-exam-security-chaos",
-  "title:Министр образования Южной Кореи подал в отставку из-за скандала со списком на экзаменах"
+  "title:Министр образования Южной Кореи подал в отставку из-за скандала со списком на экзаменах",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28343657",
+  "https://ria.ru/20261122/gruziya-2133251181.html",
+  "title:Власти Грузии и правящая партия объявили о решении запретить суррогатное материнство",
+  "skip:https://www.kommersant.ru/doc/9127347",
+  "skip:https://www.rbc.ru/business/22/11/2026/6b02c2345639478af8997a62",
+  "https://www.kommersant.ru/doc/9127358",
+  "title:СМИ раскрыли организаторов схемы контрабанды чипов Nvidia в Китай и новые правила биржевых торгов"
 ]

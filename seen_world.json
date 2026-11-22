@@ -1,12 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9113624",
-  "title:На саммите АТЭС завершилась трехсторонняя встреча Путина, Трампа и Си Цзиньпина",
-  "skip:https://ria.ru/20261119/futbol-2132652614.html",
-  "skip:https://www.france24.com/en/sport/20261119-infantino-to-face-france-s-diallo-and-japan-s-tashima-in-fifa-presidential-election",
-  "skip:https://www.kommersant.ru/doc/9113540",
-  "https://tass.ru/sport/28334817",
-  "title:Объявлены кандидаты на пост президента ФИФА",
-  "skip:https://ria.ru/20261119/vstrecha-2132677506.html",
   "skip:https://ria.ru/20261119/oon-2132676991.html",
   "skip:https://ria.ru/20261119/energopostavki-2132676669.html",
   "skip:https://ria.ru/20261119/tramp--2132676374.html",
@@ -998,5 +990,13 @@
   "skip:https://ria.ru/20261122/pvo-2133287950.html",
   "skip:https://tass.ru/armiya-i-opk/28344015",
   "https://www.interfax.ru/russia/1130684",
-  "title:Минобороны РФ сообщило об уничтожении 38 украинских беспилотников над регионами России за день"
+  "title:Минобороны РФ сообщило об уничтожении 38 украинских беспилотников над регионами России за день",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28344043",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28344041",
+  "https://www.rbc.ru/politics/22/11/2026/6b0330eed589bf83febfa4be",
+  "title:Дональд Трамп заявил о возможности возобновления ударов по Ирану после Нового года",
+  "skip:https://news.google.com/rss/articles/CBMisgFBVV95cUxQSjZLZW5ua05hQkRTLVhvZnNHZnpUM05mT3ZxNl9FUUoyMEhMN0gtTUVfT0Zhb0g2eUxaeHlvZWlIWXNTVGlSMlczMHdBUERvRjVsQVZVSW92MlFESWlmTGxVaWM2aXYwZ0NtUTlna3k4ZkV2S0k4YkhVOFRjaWRrcmhZeWg5NHpQaW9pRGIybUFpalV3U2lzdlZ5QzYteENUSWpWdm90SXNFWVU4OWxBaGx3?oc=5",
+  "skip:https://ria.ru/20261122/khusity-2133284711.html",
+  "https://www.interfax.ru/world/1130687",
+  "title:Йеменские хуситы заявили об ударе по нефтеперерабатывающему заводу в Саудовской Аравии"
 ]

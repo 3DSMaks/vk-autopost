@@ -1,8 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169853/double-fine-ne-brosit-kiln-umirat-goncharnyij-fajting-skoro-poluchit-ogromnoe-obnovlenie/",
-  "https://stopgame.ru/newsdata/73454/dopolnenie_side_effects_guaranteed_dlya_the_outer_worlds_2_vyydet_2_dekabrya",
-  "title:Дополнение Side Effects Guaranteed для The Outer Worlds 2 выйдет 2 декабря",
-  "skip:https://www.kinonews.ru/news_144084/",
   "https://deadline.com/2026/11/molly-mccann-hunger-games-sunrise-on-the-reaping-louella-1237216656/",
   "title:Rising Star Molly McCann On Finding Her Place In Panem For ‘The Hunger Games: Sunrise On The Reaping’",
   "skip:https://stopgame.ru/newsdata/73457/prodazhi_monster_hunter_stories_3_prevysili_otmetku_v_million_kopiy",
@@ -998,5 +994,9 @@
   "https://www.kinonews.ru/news_144264/",
   "title:Режиссер Квентин Тарантино стал отцом в третий раз",
   "https://www.igromania.ru/news/170144/originalnaya-crysis-poluchila-modifikatsiyu-s-kooperativnyim-prohozhdeniem-syuzheta/",
-  "title:Оригинальная Crysis получила модификацию с кооперативным прохождением сюжета"
+  "title:Оригинальная Crysis получила модификацию с кооперативным прохождением сюжета",
+  "skip:https://deadline.com/2026/11/box-office-global-hunger-games-sunrise-on-the-reaping-1237230714/",
+  "skip:https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-opening-weekend-exceeds-expectations-1236953061/",
+  "https://deadline.com/2026/11/joe-russo-doomsday-trailer-strategy-rumored-monday-fans-1237231111/",
+  "title:Joe Russo Talks ‘Doomsday’ Teaser-Trailer Strategy Ahead Of Rumored Monday Drop: “I Have To interact With Fans”"
 ]

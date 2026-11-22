@@ -1,9 +1,4 @@
 [
-  "skip:https://www.playground.ru/monster_hunter_wilds/news/v_steamdb_obnaruzhena_zapis_ukazyvayuschaya_na_vozmozhnuyu_beta_versiyu_dopolneniya_ascendance_dlya_monster_hunter_wilds-1889578#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.pcgamer.com/gaming-industry/sony-cancels-another-live-service-game-ahead-of-release-but-at-least-there-wont-be-any-layoffs-this-time/",
-  "skip:https://www.pcgamer.com/games/action/capcom-quietly-updates-the-monster-hunter-wilds-beta-listing-on-steam-indicating-a-possible-expansion-playtest/",
-  "skip:https://www.ign.com/articles/playstation-cancels-live-service-heist-shooter-fairgames",
-  "skip:https://gamemag.ru/news/202085/playstation-cancels-online-shooting-title-fairgames-no-job-cuts-as-a-result-haven-will",
   "skip:https://www.pcgamer.com/gaming-industry/playstation-plus-pc-app-is-being-shut-down-in-december-because-less-than-0-4-percent-of-eligible-subscribers-are-using-it/",
   "skip:https://gamemag.ru/news/202079/playstation-plus-app-on-pc-will-be-retired-on-december-10",
   "https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/zelda_ocarina_of_time_pokazala_luchshij_start_prodazh_na_fizicheskih_nositelyah_vo_frantsii_v_2026_godu_obojdya_call_of_duty-1889577#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +993,10 @@
   "skip:https://stopgame.ru/newsdata/73592/geymery_unichtozhayut_gta_vi_polzovatelskaya_ocenka_igry_na_metacritic_upala_do_5_6_ballov",
   "skip:https://gamemag.ru/news/202253/goyslop-isteriya-gta-vi-podverglas-revyu-bombingu-na-metacritic",
   "https://www.ign.com/articles/how-rockstar-made-every-npc-feel-alive-in-gta-6",
-  "title:How Rockstar Made Every NPC Feel Alive in GTA 6"
+  "title:How Rockstar Made Every NPC Feel Alive in GTA 6",
+  "skip:https://deadline.com/2026/11/john-carpenter-robert-rodriguez-running-helm-escape-new-york-1237231028/",
+  "skip:https://kg-portal.ru/comments/135904-chas-pik-4-sdzheki-chanom-ikrisom-takerom-vyedet-izvechnoj-probki-v2028-godu/",
+  "skip:https://www.kinonews.ru/news_144250/",
+  "https://kg-portal.ru/comments/135915-golodnye-igry-rassvet-zhatvy-zametno-operezhajut-studijnye-prognozy-po-sboram/",
+  "title:\"Голодные игры: Рассвет Жатвы\" заметно опережают студийные прогнозы по сборам"
 ]

@@ -1,13 +1,4 @@
 [
-  "skip:https://ria.ru/20261119/sammit-2132678044.html",
-  "skip:https://ria.ru/20261119/deklaratsiya-2132677921.html",
-  "skip:https://www.interfax.ru/world/1130117",
-  "skip:https://www.interfax.ru/world/1130118",
-  "skip:https://www.interfax.ru/world/1130116",
-  "skip:https://www.rbc.ru/politics/19/11/2026/6afed5e78a838ddce93a0625",
-  "skip:https://www.interfax.ru/russia/1130115",
-  "skip:https://www.rbc.ru/rbcfreenews/6afed5172ef90d6d69691e29",
-  "skip:https://www.rbc.ru/politics/19/11/2026/6afed51f8a838ddce93a0621",
   "skip:https://www.rbc.ru/politics/19/11/2026/6afecd19ee0990dcc8b984a7",
   "skip:https://www.france24.com/en/apec-summit-lots-of-gloss-little-real-progress",
   "skip:https://www.rbc.ru/quote/19/11/2026/6afecf8c3bcf696184fe9ccb",
@@ -998,5 +989,14 @@
   "title:Выборы президента Сербии назначены на 27 декабря",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28344109",
   "https://www.kommersant.ru/doc/9127597",
-  "title:Бывший глава национальной полиции Италии Джанни де Дженнаро покончил с собой"
+  "title:Бывший глава национальной полиции Италии Джанни де Дженнаро покончил с собой",
+  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss",
+  "https://www.france24.com/en/video/20261122-russian-ship-attacked-near-benghazi-in-suspected-drone-attack-ukraine",
+  "title:В Ливии сообщили об атаке беспилотника на российское судно в порту Бенгази",
+  "skip:https://ria.ru/20261123/aeroport-2133306351.html",
+  "skip:https://tass.ru/ekonomika/28344215",
+  "skip:https://ria.ru/20261123/aeroport-2133305697.html",
+  "skip:https://tass.ru/ekonomika/28344197",
+  "https://ria.ru/20261123/aeroporty-2133306809.html",
+  "title:В ряде российских аэропортов введены временные ограничения"
 ]

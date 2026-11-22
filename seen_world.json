@@ -1,14 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28334523",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28334519",
-  "skip:https://ria.ru/20261119/kitay-2132635323.html",
-  "skip:https://ria.ru/20261119/voyna-2132635170.html",
-  "skip:https://www.kommersant.ru/doc/9113514",
-  "skip:https://ria.ru/20261119/si-2132634362.html",
-  "skip:https://ria.ru/20261119/kitay-2132633788.html",
-  "skip:https://ria.ru/20261119/tramp-2132633692.html",
-  "skip:https://www.france24.com/en/xi-jinping-donald-trump-and-vladimir-putin-begin-unprecedented-summit-in-china",
-  "skip:https://www.kommersant.ru/doc/9113504",
   "skip:https://www.interfax.ru/world/1130078",
   "skip:https://www.interfax.ru/russia/1130077",
   "skip:https://www.interfax.ru/world/1130076",
@@ -998,5 +988,15 @@
   "title:В Ливии сообщили о возможном ударе беспилотника по российскому кораблю в порту",
   "skip:https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFF4Qkg5N3paMmFqSmNlMHNOLUxSdDRrMGUxZ2JabXFWTXVfdk5zTElYaUZOSktfZ2ZPMmR5WGp0Y3lheHFjZkRmYWFpWjZXMFlnSlFwRWJGMEZPSmJCLTZiUGlVSTJIUUZmZGExSjNBeWllYW9yXzUwanNIOHpKT21qVmJKQng0bzlwOQ?oc=5",
   "https://ria.ru/20261122/motogonki-2133271270.html",
-  "title:Испанец Марк Маркес досрочно стал восьмикратным чемпионом MotoGP"
+  "title:Испанец Марк Маркес досрочно стал восьмикратным чемпионом MotoGP",
+  "skip:https://www.france24.com/en/russian-strike-kills-2-in-kyiv",
+  "skip:https://news.google.com/rss/articles/CBMivAFBVV95cUxPUmFwN2pYTHZEVndFX2hfN3VOQnduN3pEYnZXa2tfT1d1UGZDejk3ZU11dkwwLTdsUTltdm0taU8wTnpNTkZVV045Z3pkc0czd2FSS1lEZDhyLVVCNFJvNk9xUHR2ZUxydnAyYTJDVzd3RWIwQ1E0YjAyc2R6bkpkbkt1aThfVldjUGRKbkhXanhraVo3SkJHcHBuMmxBcXJreDhQSEx1QV9ZUXhDOHdhbmZMRkZoeVBOXzJ5ag?oc=5",
+  "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM1VMUS1oUkxlYzRWaDg5WjNPbGJoV2t1LTlRNkVMWnF6a3Q3aUljXzlCal9hWmdhWnlkYzdKNjdFVGdwVk1WUFFucGdfbUlnY3RtUjBsdFBxVTdmTGNjcnJ1a0VDNnk5eFh5NDdWaGNWcjNWcFI2WkoxZnFUbkI5UHZ6YTdYZUVMa19Ldk5YTERtX3ZialpvbjI4eFVoQ0Eyd2l0NGxoVQ?oc=5",
+  "title:Ночная атака беспилотников и ракет на Киевскую область привела к жертвам и разрушениям",
+  "skip:https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
+  "skip:https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28343937",
+  "skip:https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVlZ4dzdCVnBlV0g5cDVCV19scWJkTG9RQWtiMng5NFlVb2VqSng0SmhxRGxLaUJ5aEgyTXRVMlpGVV9abXMwX19naG9EMlhjdEhaemxUTHM2bVhTdWc5Q09NMTR5Wk4yVmtlY2NFSHVncDdMWkhtU05keGJ6NXlGSTVKaFNlOVpsVl80QWE0T3ZQY0t5ZDB4YlNVUWdJZXJaZnJPZmFhb3I?oc=5",
+  "https://news.google.com/rss/articles/CBMifkFVX3lxTE83eTl2ZlN6aXJPY2U0ZHd6R1JxdEhsN2JBTmJlcUFaVDJCN2F3SmRTTzBkSlk0c3FVVjhIYVdLN1VTWWpVbkFFNU9lQkR1YUpJbXkxVVBhaU9QaXZORzZQR3ZVc2ZzekVaU1J0U3lzdExfOG8xblRxdGEtbVh5QQ?oc=5",
+  "title:Климатическая конференция ООН COP31 завершилась без итогового заявления из-за разногласий по ископаемому топливу"
 ]

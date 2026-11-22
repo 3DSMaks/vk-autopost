@@ -1,11 +1,4 @@
 [
-  "skip:https://ria.ru/20261119/sammit-2132679089.html",
-  "skip:https://ria.ru/20261119/mus-2132678916.html",
-  "skip:https://www.interfax.ru/russia/1130122",
-  "skip:https://www.interfax.ru/world/1130121",
-  "skip:https://www.france24.com/en/video/20261119-we-are-making-history-says-trump-at-historic-trilateral-with-xi-and-putin",
-  "skip:https://ria.ru/20261119/mir-2132678135.html",
-  "skip:https://www.interfax.ru/russia/1130120",
   "skip:https://ria.ru/20261119/sammit-2132678044.html",
   "skip:https://ria.ru/20261119/deklaratsiya-2132677921.html",
   "skip:https://www.interfax.ru/world/1130117",
@@ -998,5 +991,12 @@
   "title:Демократическая партия США получила наибольшее большинство в Палате представителей с 1992 года",
   "skip:https://tass.ru/obschestvo/28344177",
   "https://www.kommersant.ru/doc/9127595",
-  "title:Массовые задержки и отмены авиарейсов в США из-за технического сбоя в системе бронирования"
+  "title:Массовые задержки и отмены авиарейсов в США из-за технического сбоя в системе бронирования",
+  "skip:https://ria.ru/20261123/serbiya-2133305332.html",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28344187",
+  "https://www.rbc.ru/politics/23/11/2026/6b0367d9469c21c03a1a2b78",
+  "title:Выборы президента Сербии назначены на 27 декабря",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28344109",
+  "https://www.kommersant.ru/doc/9127597",
+  "title:Бывший глава национальной полиции Италии Джанни де Дженнаро покончил с собой"
 ]

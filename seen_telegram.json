@@ -1,9 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135734-klassika-zhanra-romanticheskih-komedij-vam-pismo-poluchit-nikomu-ne-nuzhnyj-remejk/",
-  "https://variety.com/2026/film/news/hunt-for-gollum-jamie-dornan-aragorn-in-lord-of-the-rings-1236944943/",
-  "title:Jamie Dornan Admits He ‘Cried’ When He Was Cast as Aragorn in ‘Lord of the Rings: Hunt for Gollum’ and Says Filming Was ‘Incredible’: ‘Hopefully We’ve",
-  "skip:https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/eschyo_odin_hit_nintendo_prodazhi_the_legend_of_zelda_ocarina_of_time_dostigli_5_2_mln_kopij_za_chetyre_dnya-1889620#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169856/prodazhi-remejka-the-legend-of-zelda-ocarina-of-time-za-4-dnya-prevyisili-52-mln-kopij/",
   "skip:https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-is-the-most-pre-ordered-game-of-all-time-on-both-xbox-and-playstation/",
   "https://www.playground.ru/cyberpunk_2/news/majk_pondsmit_podtverdil_vozvraschenie_najt_siti_v_cyberpunk_2_igrokov_takzhe_budet_zhdat_esche_odin_gorod-1889614#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "video:2026-11-11:https://www.playground.ru/cyberpunk_2/news/majk_pondsmit_podtverdil_vozvraschenie_najt_siti_v_cyberpunk_2_igrokov_takzhe_budet_zhdat_esche_odin_gorod-1889614#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +993,10 @@
   "skip:https://www.igromania.ru/news/170135/shedouhart-iz-baldurs-gate-3-poluchit-roman-prikvel/",
   "skip:https://www.playground.ru/misc/news/novyj_film_golodnye_igry_ustanovil_rekord_kassy_i_oboshel_odisseyu_nolana-1892870#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.igromania.ru/news/170134/sderzhannost-glavnogo-geroya-gta-6-podcherknuli-v-dannyih-ob-armejskih-rejndzherah-rasskazali-v-rockstar/",
-  "title:Сдержанность главного героя GTA 6 подчеркнули в данных об армейских рейнджерах, рассказали в Rockstar"
+  "title:Сдержанность главного героя GTA 6 подчеркнули в данных об армейских рейнджерах, рассказали в Rockstar",
+  "skip:https://www.kinonews.ru/news_144260/",
+  "skip:https://deadline.com/2026/11/luca-guadagnino-american-psycho-not-happening-1237231106/",
+  "skip:https://www.kinonews.ru/news_144259/",
+  "https://www.film.ru/news/guadanino-otkazalsya-ot-amerikanskogo-psihopata",
+  "title:Гуаданьино отказался от «Американского психопата»"
 ]

@@ -1,12 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1130112",
-  "skip:https://www.kommersant.ru/doc/9113694",
-  "skip:https://tass.ru/politika/28335137",
-  "skip:https://tass.ru/ekonomika/28335133",
-  "skip:https://tass.ru/politika/28335135",
-  "skip:https://tass.ru/politika/28335131",
-  "skip:https://www.kommersant.ru/doc/9113683",
-  "skip:https://tass.ru/politika/28335117",
   "skip:https://tass.ru/politika/28335115",
   "skip:https://tass.ru/politika/28335113",
   "skip:https://www.kommersant.ru/doc/9113690",
@@ -998,5 +990,13 @@
   "skip:https://www.sport-interfax.ru/1130689",
   "skip:https://tass.ru/sport/28344055",
   "https://ria.ru/20261122/liverpul-2133294843.html",
-  "title:Манчестер Юнайтед разгромно проиграл Ливерпулю со счетом 0:4 в матче АПЛ"
+  "title:Манчестер Юнайтед разгромно проиграл Ливерпулю со счетом 0:4 в матче АПЛ",
+  "skip:https://www.france24.com/en/africa/20261122-russian-warship-hit-by-suspected-ukrainian-drone-at-libya-s-benghazi-naval-base",
+  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss",
+  "https://www.kommersant.ru/doc/9127553",
+  "title:Ливийские официальные лица и СМИ сообщили об ударе беспилотника по российскому кораблю в порту Бенгази",
+  "skip:https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWktPQlhDQmZja2RjS09vdFlCdkFtTjVHVE1xRHVMeDBVNkFiVWlrMVdlQXl2SjRsekFabUxiV05Ud0RlR1M3aVhDcVlNNURCYnVFZXBaT1RDTmNQb3ViblpuQVNGdUVwQmlad1dWc2pYaWtpeXZCQVBnalZaT1M5RTcwUzdXZndua3JNdGpHOERNczk0NExoLXRIMUttMlRXRVdTSjNmWFR6dUJVSVVlOEhVNXpHakZfVzNiY1QybVFmeXFCamYtMg?oc=5",
+  "skip:https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
+  "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSHU3NmsxWHB4a0x6ZTdpdG9ZWWlqS29GMXowZ3BEQndXZVBuU0tBc1EycDY2blB2SnNhV3pxTHctWDNFajhDWENxRlVzbHBTU193TjZsVVhXQlB3ZTZwQUZNT25KWDM5bWxXTG9FSUtvOW9zZ0wwTFBsTmFGcHZEOWlvN1QzanQtd1hQYzNR?oc=5",
+  "title:Армия США намерена применить чрезвычайные полномочия для уничтожения химикатов в Айове вопреки судебному запрету"
 ]

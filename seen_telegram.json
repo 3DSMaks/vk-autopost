@@ -1,8 +1,4 @@
 [
-  "skip:https://deadline.com/2026/11/visionquest-teases-avengers-doomsday-character-post-credits-scene-1237220017/",
-  "skip:https://variety.com/2026/film/news/visionquest-elizabeth-olsen-avengers-doomsday-scarlet-witch-1235365599/",
-  "skip:https://www.film.ru/news/milli-bobbi-braun-v-novom-romkome",
-  "skip:https://www.film.ru/news/remeyk-vam-pismo",
   "skip:https://kg-portal.ru/comments/135734-klassika-zhanra-romanticheskih-komedij-vam-pismo-poluchit-nikomu-ne-nuzhnyj-remejk/",
   "https://variety.com/2026/film/news/hunt-for-gollum-jamie-dornan-aragorn-in-lord-of-the-rings-1236944943/",
   "title:Jamie Dornan Admits He ‘Cried’ When He Was Cast as Aragorn in ‘Lord of the Rings: Hunt for Gollum’ and Says Filming Was ‘Incredible’: ‘Hopefully We’ve",
@@ -998,5 +994,9 @@
   "skip:https://stopgame.ru/newsdata/73592/geymery_unichtozhayut_gta_vi_igra_poluchila_5_6_balla_ot_polzovateley_na_metacritic",
   "https://www.pcgamer.com/games/fallout/skyrim-lead-chats-about-the-fallout-diehards-who-hated-that-bethesda-got-the-series-we-had-to-prove-them-wrong-and-fortunately-we-did/",
   "video:2026-11-22:https://www.pcgamer.com/games/fallout/skyrim-lead-chats-about-the-fallout-diehards-who-hated-that-bethesda-got-the-series-we-had-to-prove-them-wrong-and-fortunately-we-did/",
-  "title:Skyrim lead chats about the Fallout diehards who hated that Bethesda got the series: 'We had to prove them wrong, and fortunately we did'"
+  "title:Skyrim lead chats about the Fallout diehards who hated that Bethesda got the series: 'We had to prove them wrong, and fortunately we did'",
+  "skip:https://www.igromania.ru/news/170135/shedouhart-iz-baldurs-gate-3-poluchit-roman-prikvel/",
+  "skip:https://www.playground.ru/misc/news/novyj_film_golodnye_igry_ustanovil_rekord_kassy_i_oboshel_odisseyu_nolana-1892870#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "https://www.igromania.ru/news/170134/sderzhannost-glavnogo-geroya-gta-6-podcherknuli-v-dannyih-ob-armejskih-rejndzherah-rasskazali-v-rockstar/",
+  "title:Сдержанность главного героя GTA 6 подчеркнули в данных об армейских рейнджерах, рассказали в Rockstar"
 ]

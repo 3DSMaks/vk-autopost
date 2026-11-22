@@ -1,14 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28334245",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28334255",
-  "skip:https://ria.ru/20261119/tramp--2132623703.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28334253",
-  "skip:https://ria.ru/20261119/tramp-2132623356.html",
-  "skip:https://ria.ru/20261119/tramp-2132623272.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28334249",
-  "skip:https://tass.ru/politika/28334247",
-  "skip:https://ria.ru/20261119/tramp--2132622907.html",
-  "skip:https://ria.ru/20261119/mir-2132622122.html",
   "skip:https://ria.ru/20261119/putin-2132621930.html",
   "skip:https://ria.ru/20261119/tramp-2132621842.html",
   "skip:https://tass.ru/politika/28334235",
@@ -998,5 +988,15 @@
   "skip:https://www.kommersant.ru/doc/9127347",
   "skip:https://www.rbc.ru/business/22/11/2026/6b02c2345639478af8997a62",
   "https://www.kommersant.ru/doc/9127358",
-  "title:СМИ раскрыли организаторов схемы контрабанды чипов Nvidia в Китай и новые правила биржевых торгов"
+  "title:СМИ раскрыли организаторов схемы контрабанды чипов Nvidia в Китай и новые правила биржевых торгов",
+  "skip:https://www.interfax.ru/world/1130664",
+  "skip:https://tass.ru/obschestvo/28343701",
+  "skip:https://news.google.com/rss/articles/CBMipgFBVV95cUxQc3loZzVPSEw4YTN0RXZEdEpveVFkV0JoU0dtRTktZXR6LS1XVGRNVElxWHpWVUQ3eEhOMllBam9jYlNIX29HeW9ncUwyWkNhenBPcmRZeTNBNmt6MF96SkU5TS1zWUVBSEFOS0FMV1gwVmJoS3c3bGw4TjgwLUU5NTFOUEtzOWx3dy04NkhLMW9CMmJxM1dLeVRBRWMyVl9SY1A3THFB?oc=5",
+  "skip:https://www.kommersant.ru/doc/9127343",
+  "https://www.france24.com/en/environment/20261121-latest-cop31-deal-sidesteps-fossil-fuels-amid-growing-divisions",
+  "title:Участники климатической конференции COP31 в Анталье не смогли согласовать итоговое заявление из-за разногласий по ископаемому топливу",
+  "skip:https://www.interfax.ru/world/1130662",
+  "skip:https://www.rbc.ru/rbcfreenews/6b02c1b0f1da96c824cad704",
+  "https://www.france24.com/en/indonesia-factory-hit-by-deadly-blaze-three-killed-and-36-missing",
+  "title:В Танзании произошел крупный пожар в шести отелях на курорте Нунгви на острове Занзибар"
 ]

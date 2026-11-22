@@ -1,9 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/gaming-industry/playstation-plus-pc-app-is-being-shut-down-in-december-because-less-than-0-4-percent-of-eligible-subscribers-are-using-it/",
-  "skip:https://gamemag.ru/news/202079/playstation-plus-app-on-pc-will-be-retired-on-december-10",
-  "https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/zelda_ocarina_of_time_pokazala_luchshij_start_prodazh_na_fizicheskih_nositelyah_vo_frantsii_v_2026_godu_obojdya_call_of_duty-1889577#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Zelda: Ocarina of Time показала лучший старт продаж на физических носителях во Франции в 2026 году, обойдя Call of Duty",
-  "skip:https://kg-portal.ru/comments/135737-final-seriala-kvest-vizhna-vernul-v-kinovselennuju-znakovogo-personazha-dlja-mstitelej-doktor-dum/",
   "skip:https://deadline.com/2026/11/visionquest-teases-avengers-doomsday-character-post-credits-scene-1237220017/",
   "skip:https://variety.com/2026/film/news/visionquest-elizabeth-olsen-avengers-doomsday-scarlet-witch-1235365599/",
   "skip:https://www.film.ru/news/milli-bobbi-braun-v-novom-romkome",
@@ -998,5 +993,10 @@
   "skip:https://kg-portal.ru/comments/135904-chas-pik-4-sdzheki-chanom-ikrisom-takerom-vyedet-izvechnoj-probki-v2028-godu/",
   "skip:https://www.kinonews.ru/news_144250/",
   "https://kg-portal.ru/comments/135915-golodnye-igry-rassvet-zhatvy-zametno-operezhajut-studijnye-prognozy-po-sboram/",
-  "title:\"Голодные игры: Рассвет Жатвы\" заметно опережают студийные прогнозы по сборам"
+  "title:\"Голодные игры: Рассвет Жатвы\" заметно опережают студийные прогнозы по сборам",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/comcast-at-peak-gta6-accounted-for-nearly-a-quarter-of-all-internet-traffic/",
+  "skip:https://stopgame.ru/newsdata/73592/geymery_unichtozhayut_gta_vi_igra_poluchila_5_6_balla_ot_polzovateley_na_metacritic",
+  "https://www.pcgamer.com/games/fallout/skyrim-lead-chats-about-the-fallout-diehards-who-hated-that-bethesda-got-the-series-we-had-to-prove-them-wrong-and-fortunately-we-did/",
+  "video:2026-11-22:https://www.pcgamer.com/games/fallout/skyrim-lead-chats-about-the-fallout-diehards-who-hated-that-bethesda-got-the-series-we-had-to-prove-them-wrong-and-fortunately-we-did/",
+  "title:Skyrim lead chats about the Fallout diehards who hated that Bethesda got the series: 'We had to prove them wrong, and fortunately we did'"
 ]

@@ -1,12 +1,4 @@
 [
-  "skip:https://ria.ru/20261119/vstrecha-2132644185.html",
-  "skip:https://tass.ru/politika/28334645",
-  "skip:https://www.rbc.ru/rbcfreenews/6afebb879992e8908b241a7f",
-  "skip:https://ria.ru/20261119/mir-2132639090.html",
-  "skip:https://tass.ru/politika/28334539",
-  "skip:https://www.rbc.ru/rbcfreenews/6afebe2d36e809cb31df9fa5",
-  "skip:https://ria.ru/20261119/kontakty-2132637656.html",
-  "skip:https://www.kommersant.ru/doc/9113517",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28334523",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28334519",
   "skip:https://ria.ru/20261119/kitay-2132635323.html",
@@ -998,5 +990,13 @@
   "title:Власти определили этапы восстановления Крымского моста",
   "skip:https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal?traffic_source=rss",
   "https://www.interfax.ru/world/1130671",
-  "title:Не менее трех человек погибли при пожаре на кондитерской фабрике в Индонезии"
+  "title:Не менее трех человек погибли при пожаре на кондитерской фабрике в Индонезии",
+  "skip:https://news.google.com/rss/articles/CBMimgFBVV95cUxNOEJrLWtkTl9ZY1lGN3JPaUNjSjVabFVGcnlERXpyYVdRNGN4OEtMOTVkczkzVDlhaWQxQ2xQdXdEak5oNkhBOWdrd01QV2hBYXlOZXV4Zl8weXpVNmxuMUlMM21sT2YwQjFqcjZIRlk4UmxQMUxPcTFRVjRQNFpqdzl4NjNodnZicldRLWRlV2R1allIR1BpM2x3?oc=5",
+  "skip:https://news.google.com/rss/articles/CBMiywFBVV95cUxNSHNFQ2hvQUxyR05zYXIyVjczNjE3eEVLWWhMdk1mS01BQV91dy03OU5SSzVzbzlvVk1ManQ2TFhqU2xkRkhZcGthVlZad0E1aVRKU1E5ZWxJTWRQVG5UYmFYYmcxZGJ1TFc1YzE0a2E4XzQ4SGJLNjNlc0otTGhGRnRWTHpmeW1mWnVBLTNhYmFLU3JOUTVfSTliN19fMG9rRWlmeFdKNHFSU1JVTTdnQUNhUlBUWmRSTDVXUUJuUW9fNEV2cjNWdTlPZw?oc=5",
+  "skip:https://www.kommersant.ru/doc/9127458",
+  "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+  "title:В Ливии сообщили о возможном ударе беспилотника по российскому кораблю в порту",
+  "skip:https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFF4Qkg5N3paMmFqSmNlMHNOLUxSdDRrMGUxZ2JabXFWTXVfdk5zTElYaUZOSktfZ2ZPMmR5WGp0Y3lheHFjZkRmYWFpWjZXMFlnSlFwRWJGMEZPSmJCLTZiUGlVSTJIUUZmZGExSjNBeWllYW9yXzUwanNIOHpKT21qVmJKQng0bzlwOQ?oc=5",
+  "https://ria.ru/20261122/motogonki-2133271270.html",
+  "title:Испанец Марк Маркес досрочно стал восьмикратным чемпионом MotoGP"
 ]

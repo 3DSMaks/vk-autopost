@@ -1,8 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMivAFBVV95cUxQaGZUYzFFb2VhOHFpSUJ2aWg2WVltWkFKeTR0TVF1NHcwSzZZc205alNQdjlpdWNxYkFLQ2hkZ0l0QzlXNllaYTdZSjdKNmFvY1dSMEZhc0RPVkNnNVlPeFZYUEoyeW5OYkVrZDRyMTJvblVQeG1DdDIzdHRtMFpxM3ZfdWZ0c0xtWHdfeWtRSVZVaFN6c1JRVHRsZ1dIeG90cXhEZmZBSVBEWmVidm9SOFRlMWhHNFA5MTZNQw?oc=5",
-  "https://www.kommersant.ru/doc/9113389",
-  "title:Japan Tobacco спишет $8,9 млрд из-за потери контроля над российскими активами",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28334155",
   "skip:https://ria.ru/20261119/vstrecha-2132616287.html",
   "skip:https://www.kommersant.ru/doc/9113304",
   "skip:https://ria.ru/20261119/foto-2132613098.html",
@@ -998,5 +994,9 @@
   "title:В американском штате Огайо произошла стрельба на вечеринке, есть погибшие",
   "skip:https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
   "https://www.kommersant.ru/doc/9127222",
-  "title:Во Франции прошли шестые подряд протесты против роста стоимости жизни"
+  "title:Во Франции прошли шестые подряд протесты против роста стоимости жизни",
+  "skip:https://www.rbc.ru/rbcfreenews/6b026c664fa9aab534cd0262",
+  "skip:https://ria.ru/20261122/chili-2133205514.html",
+  "https://tass.ru/proisshestviya/28343289",
+  "title:В ДТП в Чили погибли двое российских туристов"
 ]

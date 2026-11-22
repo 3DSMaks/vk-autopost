@@ -1,6 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135741-tolko-chto-uvolivshij-dzhejmsa-ganna-glava-skydance-verit-chto-ii-mozhet-reshit-mnogie-problemy-gollivuda/",
-  "skip:https://www.film.ru/news/remeyk-ulicy-vyazov-v-rabote",
   "https://www.film.ru/news/novyy-treyler-debyuta-s-dzhuliannoy-mur",
   "title:Новый трейлер Дебюта с Джулианной Мур",
   "https://www.film.ru/news/pesn-palacha-dzheykoba-elordi",
@@ -998,5 +996,7 @@
   "title:Astarion's Baldur's Gate 3 prequel novel infuriated fans, now it's Shadowheart's turn",
   "skip:https://www.film.ru/news/deni-vilnyov-snimet-kino-o-yadernoy-voyne",
   "https://www.film.ru/news/novyy-rezhisser-remeyka-pobega-iz-nyu-yorka",
-  "title:Новый режиссер ремейка «Побега из Нью-Йорка»"
+  "title:Новый режиссер ремейка «Побега из Нью-Йорка»",
+  "https://kg-portal.ru/comments/135917-boevik-v-duhe-krepkogo-oreshka-i-mistera-i-missis-smit-s-dzherardom-batlerom-vyzval-ostryj-interes-u-prokatchikov-i-strimingov/",
+  "title:Боевик в духе \"Крепкого орешка\" и \"Мистера и миссис Смит\" с Джерардом Батлером вызвал острый интерес у прокатчиков и стримингов"
 ]

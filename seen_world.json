@@ -1,12 +1,4 @@
 [
-  "skip:https://ria.ru/20261119/vstrecha-2132616287.html",
-  "skip:https://www.kommersant.ru/doc/9113304",
-  "skip:https://ria.ru/20261119/foto-2132613098.html",
-  "skip:https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting",
-  "skip:https://tass.ru/politika/28331447",
-  "skip:https://ria.ru/20261119/putin--2132612848.html",
-  "skip:https://www.rbc.ru/rbcfreenews/6afeaf5fa464188388d30443",
-  "skip:https://ria.ru/20261119/vstrecha-2132611780.html",
   "skip:https://tass.ru/politika/28334053",
   "https://www.rbc.ru/politics/19/11/2026/6afaf09ffb28d1dcbd0c3b53",
   "title:Началась трехсторонняя встреча Владимира Путина, Дональда Трампа и Си Цзиньпина на саммите АТЭС",
@@ -998,5 +990,13 @@
   "skip:https://www.rbc.ru/rbcfreenews/6b026c664fa9aab534cd0262",
   "skip:https://ria.ru/20261122/chili-2133205514.html",
   "https://tass.ru/proisshestviya/28343289",
-  "title:В ДТП в Чили погибли двое российских туристов"
+  "title:В ДТП в Чили погибли двое российских туристов",
+  "skip:https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
+  "skip:https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+  "https://www.aljazeera.com/news/2026/11/22/indonesia-factory-fire-kills-three-36-missing?traffic_source=rss",
+  "title:Пожар на фабрике в Индонезии привел к гибели людей и пропавшим без вести",
+  "skip:https://ria.ru/20261122/kndr-2133214750.html",
+  "skip:https://www.interfax.ru/russia/1130636",
+  "https://www.kommersant.ru/doc/9127271",
+  "title:Посол России в КНДР вручил верительные грамоты Ким Чен Ыну"
 ]

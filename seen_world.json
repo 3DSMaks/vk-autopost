@@ -1,9 +1,4 @@
 [
-  "skip:https://tass.ru/politika/28334053",
-  "https://www.rbc.ru/politics/19/11/2026/6afaf09ffb28d1dcbd0c3b53",
-  "title:Началась трехсторонняя встреча Владимира Путина, Дональда Трампа и Си Цзиньпина на саммите АТЭС",
-  "skip:https://ria.ru/20261119/kursk-2132615779.html",
-  "skip:https://ria.ru/20261119/kursk-2132614861.html",
   "skip:https://tass.ru/proisshestviya/28334121",
   "https://tass.ru/proisshestviya/28334147",
   "title:В результате атаки беспилотников на Курск пострадали девять человек",
@@ -998,5 +993,10 @@
   "skip:https://ria.ru/20261122/kndr-2133214750.html",
   "skip:https://www.interfax.ru/russia/1130636",
   "https://www.kommersant.ru/doc/9127271",
-  "title:Посол России в КНДР вручил верительные грамоты Ким Чен Ыну"
+  "title:Посол России в КНДР вручил верительные грамоты Ким Чен Ыну",
+  "skip:https://www.kommersant.ru/doc/9127254",
+  "skip:https://www.interfax.ru/russia/1130638",
+  "skip:https://www.interfax.ru/russia/1130637",
+  "https://www.kommersant.ru/doc/9127269",
+  "title:Минобороны РФ заявило о поражении объектов энергетики, порта и сухогруза в Одесской области"
 ]

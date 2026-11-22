@@ -1,9 +1,4 @@
 [
-  "skip:https://www.film.ru/news/remeyk-vam-pismo",
-  "skip:https://kg-portal.ru/comments/135734-klassika-zhanra-romanticheskih-komedij-vam-pismo-poluchit-nikomu-ne-nuzhnyj-remejk/",
-  "https://deadline.com/2026/11/visionquest-teases-avengers-doomsday-character-post-credits-scene-1237220017/",
-  "title:‘VisionQuest’ Teases Surprise ‘Avengers: Doomsday’ Character Return In Post-Credits Scene",
-  "skip:https://www.playground.ru/legend_of_zelda_ocarina_of_time/news/eschyo_odin_hit_nintendo_prodazhi_the_legend_of_zelda_ocarina_of_time_dostigli_5_2_mln_kopij_za_chetyre_dnya-1889620#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169856/prodazhi-remejka-the-legend-of-zelda-ocarina-of-time-za-4-dnya-prevyisili-52-mln-kopij/",
   "skip:https://www.igromania.ru/news/169854/poslednij-gvozd-i-skatertyu-doroga-prilozhenie-playstation-plus-dlya-pc-zakroyut-v-dekabre/",
   "skip:https://stopgame.ru/newsdata/73452/shrayer_sony_otmenila_onlayn_shuter_fairgames",
@@ -998,5 +993,10 @@
   "skip:https://deadline.com/2026/11/luca-guadagnino-american-psycho-not-happening-1237231106/",
   "skip:https://www.kinonews.ru/news_144259/",
   "https://www.film.ru/news/guadanino-otkazalsya-ot-amerikanskogo-psihopata",
-  "title:Гуаданьино отказался от «Американского психопата»"
+  "title:Гуаданьино отказался от «Американского психопата»",
+  "skip:https://kg-portal.ru/comments/135915-golodnye-igry-rassvet-zhatvy-zametno-operezhajut-studijnye-prognozy-po-sboram/",
+  "skip:https://kg-portal.ru/comments/135910-promoart-filma-rokki-eto-ja/",
+  "skip:https://kg-portal.ru/comments/135904-chas-pik-4-sdzheki-chanom-ikrisom-takerom-vyedet-izvechnoj-probki-v2028-godu/",
+  "https://deadline.com/2026/11/john-carpenter-robert-rodriguez-running-helm-escape-new-york-1237231028/",
+  "title:John Carpenter Reveals Robert Rodriguez Back In Running To Helm ‘Escape from New York’ Reimagining"
 ]

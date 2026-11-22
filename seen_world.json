@@ -1,13 +1,4 @@
 [
-  "skip:https://tass.ru/proisshestviya/28334121",
-  "https://tass.ru/proisshestviya/28334147",
-  "title:В результате атаки беспилотников на Курск пострадали девять человек",
-  "skip:https://tass.ru/obschestvo/28334321",
-  "skip:https://www.rbc.ru/rbcfreenews/6afeb8633bcf696184fe9cac",
-  "skip:https://www.kommersant.ru/doc/9113462",
-  "skip:https://tass.ru/politika/28334389",
-  "skip:https://ria.ru/20261119/tramp--2132630622.html",
-  "skip:https://www.rbc.ru/politics/19/11/2026/6afc3d1084581744a96cba1c",
   "skip:https://tass.ru/politika/28334295",
   "skip:https://ria.ru/20261119/tramp-2132630041.html",
   "skip:https://www.interfax.ru/russia/1130075",
@@ -998,5 +989,14 @@
   "skip:https://www.interfax.ru/russia/1130638",
   "skip:https://www.interfax.ru/russia/1130637",
   "https://www.kommersant.ru/doc/9127269",
-  "title:Минобороны РФ заявило о поражении объектов энергетики, порта и сухогруза в Одесской области"
+  "title:Минобороны РФ заявило о поражении объектов энергетики, порта и сухогруза в Одесской области",
+  "skip:https://www.kommersant.ru/doc/9127292",
+  "skip:https://tass.ru/proisshestviya/28343487",
+  "skip:https://www.interfax.ru/russia/1130642",
+  "https://www.kommersant.ru/doc/9127298",
+  "title:Массированная ночная атака беспилотников и удар по энергообъектам ДНР",
+  "skip:https://tass.ru/proisshestviya/28343527",
+  "skip:https://ria.ru/20261122/kuban-2133227631.html",
+  "https://www.interfax.ru/russia/1130646",
+  "title:На Кубани пять человек пострадали из-за падения обломков дронов"
 ]

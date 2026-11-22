@@ -1,10 +1,4 @@
 [
-  "skip:https://ria.ru/20261119/putin-2132626545.html",
-  "skip:https://ria.ru/20261119/putin-2132626438.html",
-  "skip:https://ria.ru/20261119/tramp-2132626346.html",
-  "skip:https://ria.ru/20261119/mir--2132626229.html",
-  "skip:https://ria.ru/20261119/si-tszinpin-2132626123.html",
-  "skip:https://www.kommersant.ru/doc/9113439",
   "skip:https://ria.ru/20261119/putin--2132625723.html",
   "skip:https://www.rbc.ru/politics/19/11/2026/6afeb5c032a9bd91fd538370",
   "skip:https://www.rbc.ru/politics/19/11/2026/6afeb66569115f4f25fa1799",
@@ -998,5 +992,11 @@
   "skip:https://tass.ru/armiya-i-opk/28343559",
   "skip:https://ria.ru/20261122/pvo-2133231128.html",
   "https://www.interfax.ru/russia/1130652",
-  "title:Минобороны РФ заявило об уничтожении объектов энергетики Украины и сотен беспилотников"
+  "title:Минобороны РФ заявило об уничтожении объектов энергетики Украины и сотен беспилотников",
+  "skip:https://ria.ru/20261122/putin-2133231482.html",
+  "https://tass.ru/politika/28343611",
+  "title:Владимир Путин и Дональд Трамп коротко пообщались по окончании саммита в Шэньчжэне",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28343543",
+  "https://ria.ru/20261122/germanija-2133237164.html",
+  "title:ФРГ изменила план переброски танков и военной техники в Литву"
 ]

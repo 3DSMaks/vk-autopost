@@ -1,9 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/games/grand-theft-auto/i-feel-better-than-ever-waiting-for-gta-6-on-pc-now-rockstar-confirms-its-targeting-30-fps-on-playstation-and-xbox/",
-  "skip:https://stopgame.ru/newsdata/73440/gta_vi_budet_rabotat_na_konsolyah_v_30_fps",
-  "skip:https://www.ign.com/articles/gta-6-preloads-are-now-available-ps5-xbox",
-  "skip:https://www.ign.com/articles/gta-6-will-run-at-30fps-on-all-consoles-features-ray-tracing-improvements-on-ps5-pro",
-  "https://www.playground.ru/marvel_rivals/news/razrabotchiki_marvel_rivals_vypustili_trejler_11_go_sezona_novym_geroem_igry_stanet_nochnoj_zmej-1889480#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Разработчики Marvel Rivals выпустили трейлер 11-го сезона: новым героем игры станет Ночной Змей",
   "skip:https://www.igromania.ru/news/169845/gta-6-stala-samoj-predzakazyivaemoj-igroj-v-playstation-store-i-microsoft-store/",
   "skip:https://www.ign.com/articles/sony-confirms-gta-6-is-now-the-most-preordered-game-in-playstation-store-history-issues-official-preload-warning",
@@ -998,5 +993,10 @@
   "https://www.playground.ru/stalker_2/news/perevod_s_t_a_l_k_e_r_2_na_novyj_unreal_engine_obernulsya_golovnoj_bolyu_no_vozvraschatsya_k_x_ray_v_studii_ne_hoteli_by-1892862#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Перевод S.T.A.L.K.E.R. 2 на новый Unreal Engine обернулся головной болью, но возвращаться к X-Ray в студии не хотели бы",
   "https://deadline.com/2026/11/yellowjackets-creators-ending-show-ahead-five-season-plan-1237231035/",
-  "title:‘Yellowjackets’ Creators On Ending Show Ahead Of Original Five-Season Plan: “We Chose To Try To Squeeze It In”"
+  "title:‘Yellowjackets’ Creators On Ending Show Ahead Of Original Five-Season Plan: “We Chose To Try To Squeeze It In”",
+  "skip:https://www.igromania.ru/news/170135/shedouhart-iz-baldurs-gate-3-poluchit-roman-prikvel/",
+  "skip:https://www.playground.ru/misc/news/drama_ya_igrayu_rokki_poluchila_vysshuyu_otsenku_zritelej_a_na_cinemascore-1892877#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/misc/news/novyj_film_golodnye_igry_ustanovil_rekord_kassy_i_oboshel_odisseyu_nolana-1892870#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "https://stopgame.ru/newsdata/73592/geymery_unichtozhayut_gta_vi_igra_poluchila_5_6_balla_ot_polzovateley_na_metacritic",
+  "title:Геймеры уничтожают GTA VI — игра получила 5,6 балла от пользователей на Metacritic"
 ]

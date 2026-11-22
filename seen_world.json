@@ -1,11 +1,4 @@
 [
-  "skip:https://tass.ru/politika/28333995",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28333933",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28333911",
-  "https://www.rbc.ru/rbcfreenews/6afeac663bcf696184fe9c8a",
-  "title:Владимир Путин, Дональд Трамп и Си Цзиньпин прибыли на трехстороннюю встречу в Шэньчжэне",
-  "skip:https://www.rbc.ru/business/19/11/2026/6afea8a34fb5f4ca86eae7af",
-  "skip:https://www.interfax.ru/business/1130048",
   "skip:https://news.google.com/rss/articles/CBMivAFBVV95cUxQaGZUYzFFb2VhOHFpSUJ2aWg2WVltWkFKeTR0TVF1NHcwSzZZc205alNQdjlpdWNxYkFLQ2hkZ0l0QzlXNllaYTdZSjdKNmFvY1dSMEZhc0RPVkNnNVlPeFZYUEoyeW5OYkVrZDRyMTJvblVQeG1DdDIzdHRtMFpxM3ZfdWZ0c0xtWHdfeWtRSVZVaFN6c1JRVHRsZ1dIeG90cXhEZmZBSVBEWmVidm9SOFRlMWhHNFA5MTZNQw?oc=5",
   "https://www.kommersant.ru/doc/9113389",
   "title:Japan Tobacco спишет $8,9 млрд из-за потери контроля над российскими активами",
@@ -998,5 +991,12 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28343123",
   "skip:https://www.kommersant.ru/doc/9127221",
   "https://ria.ru/20261122/litva-2133203859.html",
-  "title:Литва отвергла причастность к инциденту в Калининградской области"
+  "title:Литва отвергла причастность к инциденту в Калининградской области",
+  "skip:https://ria.ru/20261122/strelba-2133201362.html",
+  "skip:https://ria.ru/20261122/strelba-2133200490.html",
+  "https://www.rbc.ru/rbcfreenews/6b024aa64fa9aab534cd025d",
+  "title:В американском штате Огайо произошла стрельба на вечеринке, есть погибшие",
+  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
+  "https://www.kommersant.ru/doc/9127222",
+  "title:Во Франции прошли шестые подряд протесты против роста стоимости жизни"
 ]

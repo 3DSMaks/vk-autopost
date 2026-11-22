@@ -1,13 +1,4 @@
 [
-  "skip:https://ria.ru/20261119/putin--2132625723.html",
-  "skip:https://www.rbc.ru/politics/19/11/2026/6afeb5c032a9bd91fd538370",
-  "skip:https://www.rbc.ru/politics/19/11/2026/6afeb66569115f4f25fa1799",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28334279",
-  "skip:https://www.kommersant.ru/doc/9113443",
-  "skip:https://ria.ru/20261119/tramp-2132625338.html",
-  "skip:https://ria.ru/20261119/tramp-2132625064.html",
-  "skip:https://ria.ru/20261119/vstrecha-2132624938.html",
-  "skip:https://tass.ru/politika/28334267",
   "skip:https://tass.ru/politika/28334273",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28334275",
   "skip:https://ria.ru/20261119/putin-2132624753.html",
@@ -998,5 +989,14 @@
   "title:Владимир Путин и Дональд Трамп коротко пообщались по окончании саммита в Шэньчжэне",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28343543",
   "https://ria.ru/20261122/germanija-2133237164.html",
-  "title:ФРГ изменила план переброски танков и военной техники в Литву"
+  "title:ФРГ изменила план переброски танков и военной техники в Литву",
+  "skip:https://ria.ru/20261122/lavrov--2133238428.html",
+  "skip:https://tass.ru/politika/28343613",
+  "https://www.rbc.ru/politics/22/11/2026/6b02b4d2fe72a4dc1cc1d4dd",
+  "title:Сергей Лавров назвал неадекватными высказывания министров обороны Германии и Британии",
+  "skip:https://www.kommersant.ru/doc/9127321",
+  "skip:https://www.kommersant.ru/doc/9127319",
+  "skip:https://tass.ru/proisshestviya/28343629",
+  "https://www.kommersant.ru/doc/9127330",
+  "title:Заседания Совета НАТО и последствия атак беспилотников в Луганске"
 ]

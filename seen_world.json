@@ -1,13 +1,4 @@
 [
-  "skip:https://www.interfax.ru/world/1130078",
-  "skip:https://www.interfax.ru/russia/1130077",
-  "skip:https://www.interfax.ru/world/1130076",
-  "https://www.rbc.ru/politics/19/11/2026/6afebf2444ca1238ff951186",
-  "title:Владимир Путин, Дональд Трамп и Си Цзиньпин проводят трехстороннюю встречу на саммите АТЭС",
-  "skip:https://tass.ru/politika/28334839",
-  "skip:https://tass.ru/politika/28334833",
-  "skip:https://ria.ru/20261119/ates-2132653934.html",
-  "skip:https://www.kommersant.ru/doc/9113570",
   "https://www.kommersant.ru/doc/9113624",
   "title:На саммите АТЭС завершилась трехсторонняя встреча Путина, Трампа и Си Цзиньпина",
   "skip:https://ria.ru/20261119/futbol-2132652614.html",
@@ -998,5 +989,14 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28343937",
   "skip:https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVlZ4dzdCVnBlV0g5cDVCV19scWJkTG9RQWtiMng5NFlVb2VqSng0SmhxRGxLaUJ5aEgyTXRVMlpGVV9abXMwX19naG9EMlhjdEhaemxUTHM2bVhTdWc5Q09NMTR5Wk4yVmtlY2NFSHVncDdMWkhtU05keGJ6NXlGSTVKaFNlOVpsVl80QWE0T3ZQY0t5ZDB4YlNVUWdJZXJaZnJPZmFhb3I?oc=5",
   "https://news.google.com/rss/articles/CBMifkFVX3lxTE83eTl2ZlN6aXJPY2U0ZHd6R1JxdEhsN2JBTmJlcUFaVDJCN2F3SmRTTzBkSlk0c3FVVjhIYVdLN1VTWWpVbkFFNU9lQkR1YUpJbXkxVVBhaU9QaXZORzZQR3ZVc2ZzekVaU1J0U3lzdExfOG8xblRxdGEtbVh5QQ?oc=5",
-  "title:Климатическая конференция ООН COP31 завершилась без итогового заявления из-за разногласий по ископаемому топливу"
+  "title:Климатическая конференция ООН COP31 завершилась без итогового заявления из-за разногласий по ископаемому топливу",
+  "skip:https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
+  "skip:https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+  "skip:https://www.rbc.ru/politics/22/11/2026/6b0304e3469c21c03a1a2b35",
+  "https://www.kommersant.ru/doc/9127534",
+  "title:Морской беспилотник атаковал российское судно на военно-морской базе в ливийском Бенгази",
+  "skip:https://ria.ru/20261122/pvo-2133287950.html",
+  "skip:https://tass.ru/armiya-i-opk/28344015",
+  "https://www.interfax.ru/russia/1130684",
+  "title:Минобороны РФ сообщило об уничтожении 38 украинских беспилотников над регионами России за день"
 ]

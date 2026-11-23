@@ -1,11 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFRrWXhLbGJZcHVKYzUycHNKbTdKZUE2clNGYUp5WFFBOTdaWndZbVdDZW0xSTQzUi1EZlRsRElldE00bktXMUFMaG1Sclo4eGdCVnZab1JUbWJwZHQ4cGFSTzgyNkZSZmF0WHAzR0hTa1B3eUQ5cmJRTGRfd1ZBdkFiSzNpU1RDeF8wU0pmbXBqWXYxeFNuaWdmV01QLWk0MWdrclJDV2ZYNVFFN0puWU9B?oc=5",
-  "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss",
-  "title:Комитет Палаты представителей США опубликовал данные об экспорте почти 900 тысяч чипов ИИ в Китай",
-  "skip:https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1VHOTlUSTlCVmhEY0dIdi11T2tlc2xPMG16MHhDWkl0SnlBVFl0cHNiZlVPaEtNRERzYXJGa28yUG9DSVZobFBicGFwcXBUWG1icU1RSzYtRUpNV3V4YU1uNkVkNGtQN0tJOVpTMExic1VCMWIxMzhUZm5ISjN4eWJoRFBmSzhZM0x0YlJIRjBJYWJsNlF5WUMxN3NsUE9pWndFLVhTcG1saUE?oc=5",
-  "https://www.rbc.ru/technology_and_media/20/11/2026/6aff51262c454edfb94a7058",
-  "title:Компании, связанные с Visa, Mastercard и JPMorgan, подверглись кибератаке через сторонних поставщиков",
-  "skip:https://tass.ru/ekonomika/28337627",
   "skip:https://news.google.com/rss/articles/CBMimwFBVV95cUxPYWNjcDRJVTN5eWFvblRPYjBMYnoya3diRGpCWkoxbXJKVEt6dWdNN3I2VThZTllPTGRTaWxvUkxmUjZlVzZMVUI3OTVHeWN4MGpRUGY2M0gtdDJNWnpOclktZkhzcWpkUW5pVmR4aDhwRFhPYVNEWV9FVzd4bUxSTTFJLVRZNG1UQ1dKSnltd2ZELTV1LXdqdzF2aw?oc=5",
   "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
   "title:Компания Anthropic провела успешное IPO и вышла на биржу",
@@ -998,5 +991,12 @@
   "skip:https://news.google.com/rss/articles/CBMipwFBVV95cUxNNF9ZLU84V2VPZHBHcGx0V3p5TVVoV21zbUYyQWFOWU96ZjBmcExvQ1lpVmtFRzl5RVpXdFg3TGhUM3ZHM282MkdnMVgxZ2lwUTRkcm9KaWlHMEcyZ3R6amZIM25vMFRRM0l1OXNxMFFSQVVnR3hzY3BNb1NyUWwxa2hLMndRMkpVZ2l2X0N2Z3JFcmRVMzRMZldCbzlEZkpGZjNmTVJZdw?oc=5",
   "skip:https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc3l1T3NpNEY5eFRTQ0xVT2tBNjQyS3JFaUF3SmQydUpCY0RaZEFZWDgyaUdhTUR2R2xzamVmcTJjeHFzRDN2eVpEVjVneE5QWHc0ZXlrSWc3T0gwSFlUY1k4ZjYzbm1GbWVxWVdxYW1XU1daZWNCZkVGeUFRRkxZQnpJS1JpZHY1UGRYVTExM29fbTRmbkpOU3hWUVl6Y1BPUjQxZzlOQ2sxUQ?oc=5",
   "skip:https://www.rbc.ru/business/23/11/2026/6b044a3be85f4bbf857eab98",
-  "https://tass.ru/ekonomika/28346801"
+  "https://tass.ru/ekonomika/28346801",
+  "skip:https://www.interfax.ru/world/1130869",
+  "skip:https://www.interfax.ru/world/1130868",
+  "skip:https://www.interfax.ru/russia/1130867",
+  "skip:https://www.interfax.ru/world/1130865",
+  "skip:https://www.interfax.ru/world/1130863",
+  "https://ria.ru/20261123/ek-2133475003.html",
+  "title:Еврокомиссия представила новый пакет санкций против России"
 ]

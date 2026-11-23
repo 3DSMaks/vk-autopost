@@ -1,7 +1,4 @@
 [
-  "https://kg-portal.ru/comments/135761-vtoraja-chast-brutalnogo-multfilma-betmen-trilogija-najtfol-smenila-datu-vyhoda/",
-  "title:Вторая часть брутального мультфильма \"Бэтмен: Трилогия Найтфол\" сменила дату выхода",
-  "skip:https://www.pcgamer.com/hardware/nvidia-stock-price-plunges-amid-second-jensen-huang-affair-allegation-the-ai-company-could-be-set-to-lose-hundreds-of-billions-in-value/",
   "skip:https://stopgame.ru/newsdata/73471/marvel_1943_rise_of_hydra_pochti_gotova_no_v_ney_malovato_geympleya_smi",
   "skip:https://gamemag.ru/news/202101/wsj-sovet-direktorov-nvidia-nameren-uvolit-djensena-huanga",
   "skip:https://www.ign.com/articles/marvel-1943-rise-of-hydra-is-reportedly-close-to-done-though-at-the-cost-of-cutting-back-on-content-and-length",
@@ -998,5 +995,8 @@
   "skip:https://www.igromania.ru/news/170158/film-mstiteli-doktor-dum-poluchil-finalnyij-trejler-pered-premeroj-v-dekabre/",
   "skip:https://www.ign.com/articles/gta-6-update-01002002-rolling-out-now-although-there-are-no-patch-notes-yet",
   "https://www.ign.com/articles/assassins-creed-black-flag-resynced-drops-to-30-on-ps5-at-walmart-for-black-friday",
-  "title:Assassin's Creed: Black Flag Resynced Drops to $30 on PS5 at Walmart for Black Friday"
+  "title:Assassin's Creed: Black Flag Resynced Drops to $30 on PS5 at Walmart for Black Friday",
+  "skip:https://www.film.ru/articles/recenziya-na-film-godzilla-minus-nol-sikvel-oskaronosnogo-yaponskogo-hita",
+  "https://deadline.com/2026/11/steven-spielberg-the-heart-in-winter-paul-thomas-anderson-1237231172/",
+  "title:Steven Spielberg Sets Adaptation Of ‘The Heart In Winter’ As Next Film At Focus With Jessie Buckley, Cillian Murphy And Mark Rylance Starring And Paul"
 ]

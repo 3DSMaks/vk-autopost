@@ -1,10 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_144112/",
-  "skip:https://deadline.com/2026/11/frank-grillo-reaction-james-gunn-peter-safran-dc-studios-exit-1237221357/",
-  "https://www.kinonews.ru/news_144106/",
-  "title:Warner Bros. отказалась от фильма о Фредди Крюгере с режиссером \"Мумии\"",
-  "skip:https://gamemag.ru/news/202101/wsj-sovet-direktorov-nvidia-nameren-uvolit-djensena-huanga",
-  "skip:https://www.playground.ru/final_fantasy_14_a_realm_reborn/news/kostry_pamyati_po_vsem_serveram_igroki_final_fantasy_14_ustroili_trogatelnoe_proschanie_s_bas_gitaristom_ejkiti_ivai-1889960#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.pcgamer.com/software/ai/nvidia-ceo-jensen-huang-allegedly-had-a-second-affair-with-another-nvidia-exec/",
   "https://www.playground.ru/battlefield_6/news/battlefield_6_stanet_vremenno_besplatnoj_na_vseh_platformah_s_13_noyabrya-1889987#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Battlefield 6 станет временно бесплатной на всех платформах с 13 ноября",
@@ -998,5 +992,11 @@
   "title:Первый взгляд на Голицына с Козловским",
   "skip:https://www.film.ru/articles/recenziya-na-film-nezhnyy-monstr-pesni-i-podozreniya-lea-seydu",
   "https://deadline.com/2026/11/pepijn-kuyper-rotterdam-managing-director-1237231512/",
-  "title:Rotterdam Hires Pepijn Kuyper As Managing Director"
+  "title:Rotterdam Hires Pepijn Kuyper As Managing Director",
+  "skip:https://variety.com/2026/film/global/uta-opening-new-london-headquarters-1236955720/",
+  "skip:https://variety.com/2026/film/news/avengers-doomsday-trailer-captain-america-son-cyclops-x-men-1236893948/",
+  "skip:https://www.film.ru/news/finalnyy-treyler-doktora-duma",
+  "skip:https://kg-portal.ru/comments/135934-mstiteli-doktor-dum-finalnyj-trejler/",
+  "https://www.kinonews.ru/news_144277/",
+  "title:Дженнифер Лопес и Джейн Фонда готовят сиквел комедии \"Если свекровь - монстр\""
 ]

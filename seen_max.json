@@ -1,7 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/tekken-legend-katsuhiro-harada-says-he-wishes-hardware-like-the-xbox-series-s-wouldnt-be-released",
-  "skip:https://www.ign.com/articles/nintendo-defends-decision-to-cut-mario-and-yoshi-easter-eggs-from-the-legend-of-zelda-ocarina-of-time-remake",
-  "skip:https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-players-use-in-game-ocarina-to-play-everything-from-linkin-park-titanic-and-japanese-supermarket-themes",
   "skip:https://www.ign.com/articles/we-asked-nintendo-of-americas-nate-bihldorff-about-localizing-ocarina-of-times-most-obscure-secrets",
   "https://stopgame.ru/newsdata/73460/obem_predzakazov_tomb_raider_legacy_of_atlantis_prevzoshel_ozhidaniya_embracer",
   "title:Объём предзаказов Tomb Raider: Legacy of Atlantis превзошёл ожидания Embracer",
@@ -998,5 +995,8 @@
   "skip:https://www.pcgamer.com/hardware/graphics-cards/nvidia-released-a-hotfix-for-its-driver-hammering-your-ssd-but-it-doesnt-actually-work/",
   "skip:https://www.pcgamer.com/games/grand-theft-auto/gta-6-needed-a-dedicated-team-to-make-sure-all-its-different-body-types-could-share-animations-it-was-a-huge-team-effort/",
   "https://www.igromania.ru/news/170150/razrabotchiki-vedmaka-4-rasskazali-o-preemstvennosti-igryi-i-podhode-k-kvestam/",
-  "title:Разработчики «Ведьмака 4» рассказали о преемственности игры и подходе к квестам"
+  "title:Разработчики «Ведьмака 4» рассказали о преемственности игры и подходе к квестам",
+  "skip:https://www.film.ru/news/uvidet-vse-sobral-100-mln-dollarov",
+  "https://www.kinonews.ru/news_144269/",
+  "title:Новые \"Голодные игры\" собрали 225 миллионов за первый уик-энд"
 ]

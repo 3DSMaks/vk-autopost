@@ -1,11 +1,4 @@
 [
-  "skip:https://www.rbc.ru/rbcfreenews/6afee4803bcf696184fe9ce1",
-  "skip:https://www.rbc.ru/politics/19/11/2026/6afee3702ef90d6d69691e91",
-  "https://ria.ru/20261119/vstrechi-2132723509.html",
-  "title:Владимир Путин подвел итоги трехстороннего саммита лидеров России, США и Китая в Шэньчжэне",
-  "skip:https://news.google.com/rss/articles/CBMimwFBVV95cUxNUGx4TzFaSGk2N3lyTXBVRkEtazdmRjNrcy1TZzN1M2dLNlJEZlRDRFY5cXlKT2s0a09fc05FYW9DT3pFeUd0d0VaaVJtRmkzbFBpcWZ0RnVFQUFjUFFCZVBNVlNPUHNZaGs0ZVkyMDdiXzhubDJmUFBIZVNnbkxCLWNMbmJvQUcxTGtqLTB5M1F1YUdvMFRGZjNsMA?oc=5",
-  "skip:https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
-  "https://www.aljazeera.com/video/newsfeed/2026/11/19/icj-rules-myanmar-committed-genocide-against-the-rohingya?traffic_source=rss",
   "title:Суд ООН признал власти Мьянмы виновными в геноциде рохинджа",
   "skip:https://ria.ru/20261119/ataka-2132737267.html",
   "https://www.interfax.ru/russia/1130183",
@@ -998,5 +991,12 @@
   "title:Правительство России направит около 50 млрд рублей на строительство паромов для Калининграда",
   "skip:https://tass.ru/ekonomika/28345117",
   "https://www.interfax.ru/business/1130768",
-  "title:ФАС продлила заморозку предельных цен на удобрения для внутреннего рынка РФ до июня 2027 года"
+  "title:ФАС продлила заморозку предельных цен на удобрения для внутреннего рынка РФ до июня 2027 года",
+  "skip:https://tass.ru/proisshestviya/28345313",
+  "skip:https://www.rbc.ru/rbcfreenews/6b03f933832ad44b3a0b18f1",
+  "https://www.interfax.ru/russia/1130774",
+  "title:При атаке беспилотников на Пермский край погиб человек",
+  "skip:https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR1VjenRaWHFSYy04RXNZOGtGZ21ldWg3a1B4WVp3dk1OY2pPZ2pRcXFCLTk0YnJjalVEMnBqV2M2UnpCSENVWVNPVDhEZXhNQTdPZnlPWDJhNXR5VThOTVdKT2JRYmJfOW9hTzdqRUdMakNOUEFHVmdwWnNNOEx6ZmFiRVc5Z1JyZE5nNHFwODlkTkp5aHRVNUZxZVo2aDR0TnN6U2VRTlE?oc=5",
+  "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+  "title:Владимир Зеленский подтвердил причастность Украины к ударам по российским судам в Ливии"
 ]

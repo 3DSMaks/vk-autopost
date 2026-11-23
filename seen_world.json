@@ -1,14 +1,4 @@
 [
-  "https://www.rbc.ru/rbcfreenews/6afef8dea9872299930e175f",
-  "title:Возобновлено движение поездов по Крымскому мосту",
-  "skip:https://www.interfax.ru/russia/1130195",
-  "skip:https://www.kommersant.ru/doc/9113894",
-  "https://www.kommersant.ru/doc/9113918",
-  "title:В Кремле сообщили о завершающей стадии подготовки обмена пленными с Украиной",
-  "skip:https://www.france24.com/en/their-lives-their-rights-their-history-not-the-end-of-accountability-for-the-rohingya-people",
-  "skip:https://ria.ru/20261119/putin-2132748442.html",
-  "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbzZlQXBMbFU3Qzl0M2E2b0tJZHVzejVGQXczQTUxaHJmV1ZMZ3dVTWFGRzhsT1ZvNmdMMVRQVlNyMnVmX1RoUWo4UmtCT2RSX3Y5Q0JjWm9paEtmbXhCLXM0bTR4aXg5eUQ2dWRSZGlaT09VWTF6Q3FuUHFMR0ZqSmc3UWdDRHc2OHpJNE9pX2FmZldBME1xc29YRENBQkE0ZGhORjlTWkpyMzBCSzF5R21lRmcwMFFRNWltZ1FQYmdROXEtVUxXekp5RQ?oc=5",
-  "title:Суд ООН признал власти Мьянмы виновными в геноциде мусульман-рохинджа",
   "skip:https://www.kommersant.ru/doc/9113910",
   "skip:https://ria.ru/20261119/sud-2132749893.html",
   "https://www.interfax.ru/russia/1130206",
@@ -998,5 +988,15 @@
   "title:В Харькове прогремели новые взрывы",
   "skip:https://www.interfax.ru/world/1130789",
   "https://ria.ru/20261123/belorussiya-2133373237.html",
-  "title:Лукашенко призвал Россию и Белоруссию не создавать дублирующие производства"
+  "title:Лукашенко призвал Россию и Белоруссию не создавать дублирующие производства",
+  "skip:https://www.kommersant.ru/doc/9127996",
+  "skip:https://www.interfax.ru/russia/1130797",
+  "skip:https://ria.ru/20261123/npz-2133378938.html",
+  "https://www.rbc.ru/politics/23/11/2026/6b041255b066b3391acff974",
+  "title:Новошахтинский завод нефтепродуктов приостановил работу после атаки беспилотников",
+  "skip:https://ria.ru/20261123/odessa-2133377227.html",
+  "skip:https://www.rbc.ru/rbcfreenews/6b0409a4f63874efbe72b721",
+  "skip:https://www.france24.com/en/video/20261123-odesa-pupils-switch-to-remote-learning-as-russia-pounds-ukraine-s-energy-grid",
+  "https://tass.ru/proisshestviya/28345739",
+  "title:В Одессе возникли проблемы со светом, теплом и водой на фоне повреждений энергосистемы"
 ]

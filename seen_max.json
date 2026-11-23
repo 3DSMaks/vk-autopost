@@ -1,8 +1,4 @@
 [
-  "title:‘Avengers: Endgame Encore’ Sets Disney+ Streaming Release Date",
-  "skip:https://www.igromania.ru/news/169866/007-first-light-resident-evil-requiem-phantom-blade-zero-kto-stanet-triumfatorom-golden-joystick-awards-2026/",
-  "skip:https://gamemag.ru/news/202095/ray-ne-na-zemle-the-outer-worlds-2-poluchit-pervoe-dlc-v-dekabre",
-  "https://www.ign.com/articles/cd-projekt-red-used-ai-to-alter-geralts-voice-due-to-polish-actors-health-issues",
   "title:CD Projekt Red Used AI to Alter Geralt's Voice Due to Polish Actor's Health Issues",
   "skip:https://www.kinonews.ru/news_144109/",
   "https://kg-portal.ru/comments/135749-rezhisser-konstantina-s-kianu-rivzom-schitaet-chto-uvolnenie-dzhejmsa-ganna-pomozhet-snjat-sikvel/",
@@ -998,5 +994,9 @@
   "https://www.playground.ru/resident_evil_requiem/news/po_dannym_insajderov_sleduyuschaya_nomernaya_chast_resident_evil_sozdaetsya_dlya_ps6_i_xbox_helix-1893134#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:По данным инсайдеров, следующая номерная часть Resident Evil создается для PS6 и Xbox Helix",
   "https://www.igromania.ru/news/170149/final-fantasy-7-revelation-poluchila-vozrastnoj-rejting-s-krovyu-matom-i-lyogkimi-seksualnyimi-stsenami/",
-  "title:Final Fantasy 7 Revelation получила возрастной рейтинг с кровью и лёгкими сексуальными сценами"
+  "title:Final Fantasy 7 Revelation получила возрастной рейтинг с кровью и лёгкими сексуальными сценами",
+  "skip:https://www.playground.ru/banjo_kazooie/news/activision_vklyuchila_banjo_kazooie_v_spisok_svoih_franshiz_fanaty_uvideli_v_etom_namek_na_vozvraschenie_serii-1893167#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/170153/zhurnalistyi-uvideli-namyok-na-vozvraschenie-banjo-kazooie-v-vakansii-activision/",
+  "https://www.playground.ru/witcher_4/news/tsiri_silno_izmenit_kvesty_v_the_witcher_4_poskolku_ona_vspylchivee_i_emotsionalnee_geralta-1893168#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Цири сильно изменит квесты в The Witcher 4, поскольку она вспыльчивее и эмоциональнее Геральта"
 ]

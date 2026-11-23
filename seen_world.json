@@ -1,11 +1,4 @@
 [
-  "skip:https://www.interfax.ru/world/1130256",
-  "https://www.rbc.ru/rbcfreenews/6aff2cb3cdc05d945d8826cc",
-  "title:Дональд Трамп высоко оценил результаты своего визита в Китай",
-  "skip:https://www.interfax.ru/world/1130270",
-  "skip:https://ria.ru/20261119/tramp-2132823761.html",
-  "skip:https://www.interfax.ru/world/1130268",
-  "skip:https://ria.ru/20261119/kushner-2132822697.html",
   "skip:https://ria.ru/20261119/tramp-2132820669.html",
   "skip:https://www.interfax.ru/world/1130263",
   "https://www.rbc.ru/rbcfreenews/6aff341f514a158775e6322e",
@@ -998,5 +991,12 @@
   "title:Временный поверенный в делах Эстонии вызван в МИД России из-за планов закрытия границ",
   "skip:https://tass.ru/ekonomika/28346183",
   "https://ria.ru/20261123/ms-21-2133422269.html",
-  "title:Второй серийный самолет МС-21 совершил свой первый полет"
+  "title:Второй серийный самолет МС-21 совершил свой первый полет",
+  "skip:https://www.kommersant.ru/doc/9128158",
+  "https://www.rbc.ru/society/23/11/2026/6b042c91e6e7ab4b28d2c893",
+  "title:В Германии сотни школ получили сообщения с угрозами взрывов",
+  "skip:https://ria.ru/20261123/ryutte--2133430312.html",
+  "skip:https://www.interfax.ru/world/1130821",
+  "https://tass.ru/mezhdunarodnaya-panorama/28346367",
+  "title:Генсек НАТО Марк Рютте заявил об отказе альянса отступать к рубежам 1997 года"
 ]

@@ -1,8 +1,4 @@
 [
-  "title:Старт третьих Колец власти",
-  "skip:https://variety.com/2026/film/global/barbara-broccoli-national-film-and-television-school-1236945943/",
-  "https://www.kinonews.ru/news_144110/",
-  "title:Генри Кавилл раскрыл новые подробности сериала \"Warhammer 40,000\"",
   "skip:https://www.kinonews.ru/news_144112/",
   "https://kg-portal.ru/comments/135760-vershina-trejler/",
   "title:Всеобщий срач на горе в трейлере фильма Юрия Быкова \"Вершина\"",
@@ -998,5 +994,9 @@
   "skip:https://www.kinonews.ru/article_144275/",
   "skip:https://www.film.ru/articles/recenziya-na-rozhdestvenskiy-horror-skrudzh-dzhonni-depp-na-puti-iskupleniya",
   "https://www.film.ru/news/treyler-korolya-kambeka-s-glenom-pauellom",
-  "title:Трейлер Короля камбэка с Гленом Пауэллом"
+  "title:Трейлер Короля камбэка с Гленом Пауэллом",
+  "skip:https://www.playground.ru/gta_6/news/gta_6_prodalas_pochti_45_mln_kopij_za_startovyj_uik_end_i_prinesla_bolee_4_mlrd_vyruchki_utverzhdayut_alinea_analytics-1893200#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/170157/tirazh-gta-6-prevyisil-otmetku-v-449-mln-kopij-analitiki/",
+  "https://www.igromania.ru/news/170151/v-gta-6-na-relize-igralo-bolshe-polovinyi-aktivnyih-polzovatelej-ps5-i-xbox-zayavili-analitiki/",
+  "title:В GTA 6 на релизе играло больше половины активных пользователей PS5 и Xbox, заявили аналитики"
 ]

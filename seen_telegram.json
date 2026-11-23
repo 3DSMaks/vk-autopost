@@ -1,9 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73458/remaster_shrek_2_startoval_so_smeshannymi_otzyvami_v_steam",
-  "skip:https://www.igromania.ru/news/169849/shrek-eto-lyubov-shrek-eto-zhizn-a-shrek-2-remastered-eto-smeshannyij-rejting-v-steam/",
-  "https://stopgame.ru/newsdata/73460/obem_predzakazov_tomb_raider_legacy_of_atlantis_prevzoshel_ozhidaniya_embracer",
-  "title:Объём предзаказов Tomb Raider: Legacy of Atlantis превзошёл ожидания Embracer",
-  "skip:https://www.pcgamer.com/hardware/ex-tekken-director-savages-xbox-series-s-in-front-of-senior-xbox-staff-feels-like-having-to-do-extra-work-for-a-slightly-weaker-child/",
   "skip:https://www.igromania.ru/news/169864/phantom-blade-zero-stala-luchshej-igroj-oktyabrya-po-versii-polzovatelej-playstation-blog/",
   "skip:https://www.ign.com/articles/tekken-legend-katsuhiro-harada-says-he-wishes-hardware-like-the-xbox-series-s-wouldnt-be-released",
   "https://gamemag.ru/news/202093/fus-ro-da-bethesda-prazdnuet-15-letie-the-elder-scrolls-v-skyrim",
@@ -998,5 +993,10 @@
   "title:Трейлер Короля камбэка с Гленом Пауэллом",
   "skip:https://www.film.ru/news/uvidet-vse-sobral-100-mln-dollarov",
   "https://www.film.ru/news/kogda-vyydet-novyy-strayk",
-  "title:Когда выйдет новый «Страйк»"
+  "title:Когда выйдет новый «Страйк»",
+  "skip:https://www.kinonews.ru/news_144279/",
+  "skip:https://kg-portal.ru/comments/135930-nedelja-kino-na-kg-glavnye-novosti-1622-nojabrja/",
+  "https://kg-portal.ru/comments/135916-magicheskaja-bitva-nachinaetsja-vnovom-trejlere-epicheskogo-fentezi-deti-krovi-ikostej/",
+  "video:2026-11-23:https://kg-portal.ru/comments/135916-magicheskaja-bitva-nachinaetsja-vnovom-trejlere-epicheskogo-fentezi-deti-krovi-ikostej/",
+  "title:Магическая битва начинается в новом трейлере эпического фэнтези \"Дети крови и костей\""
 ]

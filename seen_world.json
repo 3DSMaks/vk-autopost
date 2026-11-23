@@ -1,10 +1,4 @@
 [
-  "skip:https://ria.ru/20261119/tramp-2132820669.html",
-  "skip:https://www.interfax.ru/world/1130263",
-  "https://www.rbc.ru/rbcfreenews/6aff341f514a158775e6322e",
-  "title:Кушнер и Трамп проинформировали участников саммита «коалиции желающих» в Берлине о переговорах с Россией",
-  "skip:https://www.rbc.ru/politics/19/11/2026/6aff2615bb08d7dd7b84eb84",
-  "https://www.kommersant.ru/doc/9114167",
   "title:Дональд Трамп пообещал не принимать окончательных решений по Украине без учета позиции Владимира Зеленского",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28337337",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28337321",
@@ -998,5 +992,11 @@
   "skip:https://ria.ru/20261123/ryutte--2133430312.html",
   "skip:https://www.interfax.ru/world/1130821",
   "https://tass.ru/mezhdunarodnaya-panorama/28346367",
-  "title:Генсек НАТО Марк Рютте заявил об отказе альянса отступать к рубежам 1997 года"
+  "title:Генсек НАТО Марк Рютте заявил об отказе альянса отступать к рубежам 1997 года",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28346391",
+  "https://www.interfax.ru/world/1130836",
+  "title:Верховный суд Испании амнистировал бывшего главу Каталонии Карлеса Пучдемона",
+  "skip:https://www.kommersant.ru/doc/9128180",
+  "skip:https://www.interfax.ru/russia/1130823",
+  "https://tass.ru/politika/28346387"
 ]

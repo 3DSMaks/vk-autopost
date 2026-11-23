@@ -1,14 +1,4 @@
 [
-  "title:Дональд Трамп пообещал не принимать окончательных решений по Украине без учета позиции Владимира Зеленского",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28337337",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28337321",
-  "skip:https://ria.ru/20261119/merts-2132824222.html",
-  "skip:https://www.interfax.ru/world/1130265",
-  "https://www.interfax.ru/world/1130272",
-  "title:Канцлер ФРГ Фридрих Мерц допустил проведение новых переговоров по Украине в ОАЭ и возможное снятие санкций",
-  "skip:https://www.interfax.ru/world/1130271",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28337359",
-  "skip:https://ria.ru/20261119/tramp-2132822352.html",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28337267",
   "https://www.rbc.ru/politics/19/11/2026/6aff337b88fcaebaede2322d",
   "title:Спецпосланник США Джаред Кушнер раскрыл детали мирного урегулирования и гарантий безопасности для Украины",
@@ -998,5 +988,15 @@
   "title:Верховный суд Испании амнистировал бывшего главу Каталонии Карлеса Пучдемона",
   "skip:https://www.kommersant.ru/doc/9128180",
   "skip:https://www.interfax.ru/russia/1130823",
-  "https://tass.ru/politika/28346387"
+  "https://tass.ru/politika/28346387",
+  "skip:https://tass.ru/ekonomika/28346647",
+  "skip:https://ria.ru/20261123/nvidia-2133449767.html",
+  "skip:https://www.kommersant.ru/doc/9128283",
+  "skip:https://www.rbc.ru/business/23/11/2026/6b04465cb72e51b5c777a50f",
+  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5",
+  "title:Дженсен Хуанг вернулся на должность генерального директора компании NVIDIA",
+  "skip:https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MTjJlV1k4LWVJYmdwUnB3ZmFvcVRMRDhpaHVpTWFndG0xaTQ4X2U0NldJb2xFWHEzRU4xdVNaVW81OXpUVUhQX2NwTDhHUzJZOHVBM0tpNmtma0g1TXJpeEJ0bnpPeDg?oc=5",
+  "skip:https://news.google.com/rss/articles/CBMitgFBVV95cUxQNkttSjlveXdrMHJKLVNYMWNTMFh3YlJtLXRtTXcwUnI2Z3VMOWJPajRpelJzRDk0ZG0xekVqSlpoM1dac1RwU045bjdjREd3NENUYTdHcHFiMEt3WWdVcDA4S3JMOVBfR2hNdV9YLXpiNTd6OC01QzctQmxaX2I4TmNmLXd4MVJxZkZ5T09NT01uZHhpYVNKQ052YVUybll3SHl1MTBNMGx2Um1vekdPTVptQU1XUQ?oc=5",
+  "https://www.france24.com/en/video/20261123-ukraine-sending-the-message-that-we-can-attack-you-where-we-want",
+  "title:Президент Украины Владимир Зеленский подтвердил удар морскими дронами по российским судам в Ливии"
 ]

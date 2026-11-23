@@ -1,12 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZXdyUExSdjhGa000MWtxaUR0YzhiVHJnNzN0N0lTUnNONktkaWZkUVUwdExoUXhXMTlJN0NEZ3F3M2RYbUZYelpiNFhpOE14LWdtYjF1MnB2M00xMk1GbENmci1UeFlXa3V0aHM4TWlxVVZNeFBwUkZjMTA2ZWhCSFBVaVVBb0FUdnpj?oc=5",
-  "skip:https://www.rbc.ru/quote/19/11/2026/6afedc1e888d4a4ead956df9",
-  "skip:https://www.france24.com/en/business/20261119-anthropic-begins-trading-1-5-trillion-company-biggest-ipo-record-ai",
-  "skip:https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo?traffic_source=rss",
-  "https://tass.ru/ekonomika/28337273",
-  "title:Акции компании Anthropic выросли на бирже после IPO",
-  "skip:https://ria.ru/20261119/tramp-2132819633.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28337249",
   "skip:https://www.interfax.ru/world/1130256",
   "https://www.rbc.ru/rbcfreenews/6aff2cb3cdc05d945d8826cc",
   "title:Дональд Трамп высоко оценил результаты своего визита в Китай",
@@ -998,5 +990,13 @@
   "skip:https://ria.ru/20261123/germanija-2133399481.html",
   "skip:https://tass.ru/proisshestviya/28345865",
   "https://tass.ru/proisshestviya/28345979",
-  "title:Школы по всей Германии получили сообщения о минировании"
+  "title:Школы по всей Германии получили сообщения о минировании",
+  "skip:https://www.rbc.ru/politics/23/11/2026/6b042da8c5e2ec3bc2eba266",
+  "skip:https://tass.ru/politika/28346189",
+  "skip:https://ria.ru/20261123/mid--2133416455.html",
+  "https://ria.ru/20261123/estoniya-2133424628.html",
+  "title:Временный поверенный в делах Эстонии вызван в МИД России из-за планов закрытия границ",
+  "skip:https://tass.ru/ekonomika/28346183",
+  "https://ria.ru/20261123/ms-21-2133422269.html",
+  "title:Второй серийный самолет МС-21 совершил свой первый полет"
 ]

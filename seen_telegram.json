@@ -1,7 +1,4 @@
 [
-  "skip:https://deadline.com/2026/11/barbara-broccoli-national-film-television-school-president-1237220238/",
-  "https://www.film.ru/news/start-tretih-kolec-vlasti",
-  "title:Старт третьих Колец власти",
   "skip:https://www.kinonews.ru/news_144112/",
   "skip:https://deadline.com/2026/11/frank-grillo-reaction-james-gunn-peter-safran-dc-studios-exit-1237221357/",
   "https://www.kinonews.ru/news_144106/",
@@ -998,5 +995,8 @@
   "skip:https://www.kinonews.ru/article_144275/",
   "skip:https://www.film.ru/articles/recenziya-na-rozhdestvenskiy-horror-skrudzh-dzhonni-depp-na-puti-iskupleniya",
   "https://www.film.ru/news/pervyy-vzglyad-na-golicyna-s-kozlovskim",
-  "title:Первый взгляд на Голицына с Козловским"
+  "title:Первый взгляд на Голицына с Козловским",
+  "skip:https://www.film.ru/articles/recenziya-na-film-nezhnyy-monstr-pesni-i-podozreniya-lea-seydu",
+  "https://deadline.com/2026/11/pepijn-kuyper-rotterdam-managing-director-1237231512/",
+  "title:Rotterdam Hires Pepijn Kuyper As Managing Director"
 ]

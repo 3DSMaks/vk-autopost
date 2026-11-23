@@ -1,7 +1,4 @@
 [
-  "https://variety.com/2026/film/focus/stephen-cognetti-hell-house-llc-director-body-in-the-woods-1236941916/",
-  "title:From a ‘Hell House’ to ‘The Woods,’ Stephen Cognetti Proves His Versatility as a Scary Movie Maestro",
-  "skip:https://stopgame.ru/newsdata/73464/byvshiy_rukovoditel_serii_tekken_raskritikoval_xbox_series_s",
   "skip:https://stopgame.ru/newsdata/73458/remaster_shrek_2_startoval_so_smeshannymi_otzyvami_v_steam",
   "skip:https://www.igromania.ru/news/169849/shrek-eto-lyubov-shrek-eto-zhizn-a-shrek-2-remastered-eto-smeshannyij-rejting-v-steam/",
   "https://stopgame.ru/newsdata/73460/obem_predzakazov_tomb_raider_legacy_of_atlantis_prevzoshel_ozhidaniya_embracer",
@@ -998,5 +995,8 @@
   "title:У фильма \"Годзилла: Минус ноль\" будет черно-белая версия",
   "skip:https://www.film.ru/news/rassvet-zhatvy-zahvatyvaet-prokat",
   "https://www.film.ru/news/treyler-korolya-kambeka-s-glenom-pauellom",
-  "title:Трейлер Короля камбэка с Гленом Пауэллом"
+  "title:Трейлер Короля камбэка с Гленом Пауэллом",
+  "skip:https://www.film.ru/news/uvidet-vse-sobral-100-mln-dollarov",
+  "https://www.film.ru/news/kogda-vyydet-novyy-strayk",
+  "title:Когда выйдет новый «Страйк»"
 ]

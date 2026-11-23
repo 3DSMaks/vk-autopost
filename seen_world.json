@@ -1,13 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9113910",
-  "skip:https://ria.ru/20261119/sud-2132749893.html",
-  "https://www.interfax.ru/russia/1130206",
-  "title:Бывший первый замминистра обороны РФ Руслан Цаликов приговорен к 10 годам колонии за коррупцию",
-  "skip:https://www.kommersant.ru/doc/9113981",
-  "skip:https://ria.ru/20261119/gruziya-2132767159.html",
-  "skip:https://www.interfax.ru/world/1130212",
-  "skip:https://ria.ru/20261119/gruziya-2132765876.html",
-  "skip:https://ria.ru/20261119/rossiya-2132765742.html",
   "https://www.rbc.ru/politics/19/11/2026/6aff0455c6677490a3fa601b",
   "title:Россия и Грузия возобновили прямой дипломатический диалог",
   "skip:https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling",
@@ -998,5 +989,14 @@
   "skip:https://www.rbc.ru/rbcfreenews/6b0409a4f63874efbe72b721",
   "skip:https://www.france24.com/en/video/20261123-odesa-pupils-switch-to-remote-learning-as-russia-pounds-ukraine-s-energy-grid",
   "https://tass.ru/proisshestviya/28345739",
-  "title:В Одессе возникли проблемы со светом, теплом и водой на фоне повреждений энергосистемы"
+  "title:В Одессе возникли проблемы со светом, теплом и водой на фоне повреждений энергосистемы",
+  "skip:https://ria.ru/20261123/pashinyan-2133394248.html",
+  "https://www.rbc.ru/rbcfreenews/6b040c7bc34eba40cdf2ce7e",
+  "title:Никол Пашинян пообещал уйти в отставку, если новая Конституция не будет принята",
+  "skip:https://www.rbc.ru/rbcfreenews/6b041aba99955f58fe7a9b87",
+  "skip:https://www.interfax.ru/russia/1130806",
+  "skip:https://news.google.com/rss/articles/CBMixwFBVV95cUxPSFRzVmFLOEJvbjlNVzJnWWUyWFNaS1kzMHptZGptNFdQSGYxeVZDd1pHZ2JrNmZ1V0N0RkFvWEVnb3BFcjVLQ1FqSHBxY2NPQjVlZ2lRVUVNdDZwc1puemdGSDg2QmZyT1J6ZmY0cDZpRXNGYm9EcTJ6OUFEbEsyWllzWW4xaHhfeXIwVzM4a3ZZd1FldUxOQnpyYUhOZUR5LWh3VVoyNFh2WEM3bjlpSGlnMmtPUnBaMkVsZG8wcFZoQlFtYURj?oc=5",
+  "skip:https://ria.ru/20261123/peskov-2133383872.html",
+  "https://www.kommersant.ru/doc/9128067",
+  "title:В Кремле назвали атаку на сухогруз проявлением террористической активности на Балтике"
 ]

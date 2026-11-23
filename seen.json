@@ -1,8 +1,4 @@
 [
-  "skip:https://www.film.ru/news/novuyu-chast-paranormalnogo-yavleniya-perenesli",
-  "skip:https://variety.com/2026/film/festivals/palme-dor-winner-fjord-jakarta-world-cinema-audience-award-1236942247/",
-  "https://variety.com/2026/film/festivals/invisible-guest-remake-director-suharto-era-fear-fighting-back-1236942189/",
-  "title:‘The Invisible Guest’ Remake Director Danial Rifki on Suharto-Era Fear and Why His New Thriller Is About ‘How to Fight Back’",
   "https://variety.com/2026/film/news/papua-new-guinea-most-expensive-film-mussau-first-song-wraps-1236942202/",
   "title:Papua New Guinea’s Most Expensive Film, ‘Mussau: The First Song,’ Wraps Shoot, Unveils First Looks (EXCLUSIVE)",
   "https://variety.com/2026/film/markets-festivals/undertaker-director-reveals-defecated-on-camera-for-real-1236942252/",
@@ -998,5 +994,9 @@
   "posted:2026-11-23T09:33:05+00:00",
   "skip:https://www.kinonews.ru/news_144279/",
   "https://www.kinonews.ru/news_144278/",
-  "title:У фильма \"Годзилла: Минус ноль\" будет черно-белая версия"
+  "title:У фильма \"Годзилла: Минус ноль\" будет черно-белая версия",
+  "posted:2026-11-23T11:02:28+00:00",
+  "skip:https://kg-portal.ru/comments/135932-hejli-stejnfild-povtorila-rol-kejt-bishop-vkrossovere-mstiteli-doktor-dum/",
+  "https://www.film.ru/news/mosgaz-vyshel-v-okko",
+  "title:Мосгаз вышел в Okko"
 ]

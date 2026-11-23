@@ -1,8 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73468/anonsirovana_conan_the_black_pyramid_brutalnyy_ekshen_rouglayt_pro_velikogo_voina",
-  "skip:https://gamemag.ru/news/202095/ray-ne-na-zemle-the-outer-worlds-2-poluchit-pervoe-dlc-v-dekabre",
-  "https://www.playground.ru/final_fantasy_7_part_3/news/avtory_final_fantasy_7_revelation_ne_stanut_podstraivat_final_trilogii_pod_ozhidaniya_fanatov-1889946#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Авторы Final Fantasy 7 Revelation не станут подстраивать финал трилогии под ожидания фанатов",
   "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/vo_vtorom_sezone_modern_warfare_4_poyavyatsya_rejtingovye_matchi_i_obnovlennyj_rezhim_hijack-1889944#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.igromania.ru/news/169878/na-pc-skoro-mogut-vyijti-tes-iii-morrowind-igryi-serii-zvyozdnyie-vojnyi-i-drugaya-klassika-s-og-xbox/",
   "title:На PC скоро могут выйти TES III: Morrowind, игры серии «Звёздные войны» и другая классика с OG Xbox",
@@ -998,5 +994,9 @@
   "https://www.film.ru/news/mosgaz-vyshel-v-okko",
   "title:Мосгаз вышел в Okko",
   "https://www.film.ru/news/lica-novoy-intuicii",
-  "title:Лица новой Интуиции"
+  "title:Лица новой Интуиции",
+  "skip:https://gamemag.ru/news/202259/crysis-obzavelas-kooperativnym-rejimom-s-pomoshchyu-moda",
+  "https://gamemag.ru/news/201750/legacy-of-atlantis-devs-on-their-remake-vision-october-2026",
+  "video:2026-11-23:https://gamemag.ru/news/201750/legacy-of-atlantis-devs-on-their-remake-vision-october-2026",
+  "title:Tomb Raider: Legacy of Atlantis предложит много нового и бережно воссоздаст лучшие моменты оригинала"
 ]

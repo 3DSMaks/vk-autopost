@@ -1,6 +1,4 @@
 [
-  "skip:https://www.film.ru/news/pervyy-treyler-finalnoy-emili-v-parizhe",
-  "https://variety.com/2026/film/news/avengers-endgame-encore-disney-streaming-release-date-1236821013/",
   "title:‘Avengers: Endgame Encore’ Sets Disney+ Streaming Release Date",
   "skip:https://www.igromania.ru/news/169866/007-first-light-resident-evil-requiem-phantom-blade-zero-kto-stanet-triumfatorom-golden-joystick-awards-2026/",
   "skip:https://gamemag.ru/news/202095/ray-ne-na-zemle-the-outer-worlds-2-poluchit-pervoe-dlc-v-dekabre",
@@ -998,5 +996,7 @@
   "title:Новые \"Голодные игры\" собрали 225 миллионов за первый уик-энд",
   "skip:https://www.igromania.ru/news/170145/intimnyie-stsenyi-glavnyih-geroev-v-gta-6-vyizvali-trudnosti-u-razrabotchikov/",
   "https://www.playground.ru/resident_evil_requiem/news/po_dannym_insajderov_sleduyuschaya_nomernaya_chast_resident_evil_sozdaetsya_dlya_ps6_i_xbox_helix-1893134#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:По данным инсайдеров, следующая номерная часть Resident Evil создается для PS6 и Xbox Helix"
+  "title:По данным инсайдеров, следующая номерная часть Resident Evil создается для PS6 и Xbox Helix",
+  "https://www.igromania.ru/news/170149/final-fantasy-7-revelation-poluchila-vozrastnoj-rejting-s-krovyu-matom-i-lyogkimi-seksualnyimi-stsenami/",
+  "title:Final Fantasy 7 Revelation получила возрастной рейтинг с кровью и лёгкими сексуальными сценами"
 ]

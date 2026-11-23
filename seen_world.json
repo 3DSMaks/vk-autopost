@@ -1,9 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9113770",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28335551",
-  "skip:https://ria.ru/20261119/putni-2132698240.html",
-  "skip:https://tass.ru/politika/28335559",
-  "skip:https://www.rbc.ru/politics/19/11/2026/6afed1f88a838ddce93a0612",
   "skip:https://www.rbc.ru/rbcfreenews/6afed33b3bcf696184fe9ccf",
   "skip:https://www.rbc.ru/rbcfreenews/6afedd8569115f4f25fa17dc",
   "skip:https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CdlAtR3pxbHloOHl3OFZxZmZhZU42aVN3eDJXdDYwOEowWkd6X1Y5TWNwRmE3WHRoZEVRTzBqV2Z5VUVWRlhFNlM3YzFxUVctQ0dXTHBMYm5wZWw5elMyNFlFSEtvODA?oc=5",
@@ -998,5 +993,10 @@
   "title:Дональд Трамп заявил об усилении ракетных атак со стороны Ирана после победы демократов на выборах в США",
   "skip:https://news.google.com/rss/articles/CBMixgFBVV95cUxPS1pvWmhMSm1MRktDOXJhZWNCdTJIZ25WejNRVExzUHhPeGhEeklEZW54T3NVZTJYbjJEa3Bmcm0xV3B2aVZnTE5oYm9MNEVYQXBzZmZYQXV4SmNWa3ZrVXVqczFEV0JqaXNoRERwTlZaNk1YSXo3TGlQNWRVekh5dC1XTmVhYU5SYVRUbjNnbmszTm5PRTdCeVEyMmFweGE1NTRHSmcyRXlrUnBGNk5aWXZyTkdvSmgwaWRvdks2bGIzejlMY0E?oc=5",
   "https://www.kommersant.ru/doc/9127628",
-  "title:New York Times рассказала о контактах предпринимательницы Элис Хуанг с китайской разведкой"
+  "title:New York Times рассказала о контактах предпринимательницы Элис Хуанг с китайской разведкой",
+  "skip:https://ria.ru/20261123/pvo-2133319991.html",
+  "skip:https://tass.ru/proisshestviya/28344469",
+  "skip:https://www.interfax.ru/russia/1130726",
+  "https://www.rbc.ru/rbcfreenews/6b03b3aee1eac0b2c97c47a0",
+  "title:Средства ПВО за ночь уничтожили 13 украинских беспилотников над Воронежской областью"
 ]

@@ -1,6 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_144109/",
-  "skip:https://www.kinonews.ru/news_144108/",
   "skip:https://variety.com/2026/film/news/keanu-reeves-constantine-2-james-gunns-dc-exit-1236945816/",
   "https://deadline.com/2026/11/denis-villeneuve-update-james-bond-casting-1237221346/",
   "title:Denis Villeneuve Shares Update On James Bond Casting: “I Am Pushing The Gas”",
@@ -998,5 +996,7 @@
   "title:Tomb Raider: Legacy of Atlantis предложит много нового и бережно воссоздаст лучшие моменты оригинала",
   "skip:https://stopgame.ru/newsdata/73595/gotovitsya_kniga_prikvel_pro_shedouhart_iz_baldurs_gate_iii",
   "https://www.igromania.ru/news/170149/final-fantasy-7-revelation-poluchila-vozrastnoj-rejting-s-krovyu-matom-i-lyogkimi-seksualnyimi-stsenami/",
-  "title:Final Fantasy 7 Revelation получила возрастной рейтинг с кровью и лёгкими сексуальными сценами"
+  "title:Final Fantasy 7 Revelation получила возрастной рейтинг с кровью и лёгкими сексуальными сценами",
+  "https://www.igromania.ru/news/170157/tirazh-gta-6-prevyisil-otmetku-v-449-mln-kopij-analitiki/",
+  "title:Тираж GTA 6 превысил отметку в 44,9 млн копий — аналитики"
 ]

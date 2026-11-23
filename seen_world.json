@@ -1,14 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMiZkFVX3lxTE5haC1aUWRNbmhoblFIWWVjdlNhZ3JTNzNyc3Z6d0R1X0hQVlRwODhxR0xLVkNGWm4yUi0xem94bTF3LVhHVVVxZGV4VFF4bW9iTXRIQlNERlNUTEtFU0lESFQxM3kyUQ?oc=5",
-  "skip:https://www.france24.com/en/tv-shows/business/20261119-ai-lab-anthropic-sets-stock-market-record-with-81-billion-ipo",
-  "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5",
-  "title:Компания Anthropic объявила параметры IPO на фоне высокого интереса инвесторов",
-  "skip:https://ria.ru/20261119/oon-2132695172.html",
-  "skip:https://www.france24.com/en/asia-pacific/20261119-top-un-court-to-rule-if-myanmar-s-rohingya-crackdown-was-genocide",
-  "skip:https://www.france24.com/en/myanmar-s-rohingya-case-how-does-the-icj-define-genocide",
-  "https://tass.ru/mezhdunarodnaya-panorama/28335563",
-  "title:Суд ООН признал бывшие власти Мьянмы ответственными за геноцид рохинджа",
-  "skip:https://tass.ru/politika/28335621",
   "skip:https://ria.ru/20261119/putin-2132705485.html",
   "skip:https://ria.ru/20261119/putin-2132705380.html",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28335619",
@@ -998,5 +988,15 @@
   "title:Демократическая партия США получила наибольшее большинство в Палате представителей",
   "skip:https://tass.ru/ekonomika/28344213",
   "https://www.interfax.ru/russia/1130703",
-  "title:В четырех российских аэропортах ввели временные ограничения"
+  "title:В четырех российских аэропортах ввели временные ограничения",
+  "skip:https://www.interfax.ru/russia/1130708",
+  "skip:https://tass.ru/ekonomika/28344271",
+  "https://tass.ru/ekonomika/28344273",
+  "title:В аэропортах Бугульмы и Чебоксар введены временные ограничения на полеты",
+  "skip:https://ria.ru/20261123/ssha-2133308119.html",
+  "skip:https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUi1YSXI0MDNzWFFveF90TU5ObVc1eVBONWJnaGdLaGMyV0lrYjJwbkFUM0lUVXJkUGpPRXNkbEw3c29yTDdNaGJWeEV3ZUw0UzhKbjdzYXBkQ2ZwY3JaRkxjM1hIazJXdmlnN3dCNkNMOW5lcEVIcE1BN3NMSWNCem5JSHpRSzRkOUdKUzFjbnJWZUhnWG5CWkR6dDB1LWFsdFp0TS0xU2h0QWZZdVprUVRnVXk4MkpRY1lDX2U5S1g3OWIzd3dqa080eU5xOFk0ekE4UlBsakxQUQ?oc=5",
+  "skip:https://tass.ru/obschestvo/28344211",
+  "skip:https://news.google.com/rss/articles/CBMikAFBVV95cUxPUFFDN0VnYTFzcXhya09Nbnl6QnVaZ2NIa1pYS1lDLW44bG5SZmM1eW4yeS03M3VaMk9kenFWRjlFejFwNW9yY3RJU0tOX01jeGhGTW1JSURvZXlZWGtSV1ZDdGJZVU84R2JSYjh2aHRreWlkZlc1YkxJZF9TdVdnMWhHaXphR1pUWHNjOHhCdHI?oc=5",
+  "https://www.rbc.ru/society/23/11/2026/6b037e8aed7f7cac9414a1d7",
+  "title:Авиакомпания Delta Air Lines устранила сбой в системе бронирования, вызвавший задержки рейсов в США"
 ]

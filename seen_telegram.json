@@ -1,6 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/software/ai/nvidia-ceo-jensen-huang-allegedly-had-a-second-affair-with-another-nvidia-exec/",
-  "https://www.playground.ru/battlefield_6/news/battlefield_6_stanet_vremenno_besplatnoj_na_vseh_platformah_s_13_noyabrya-1889987#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Battlefield 6 станет временно бесплатной на всех платформах с 13 ноября",
   "skip:https://www.film.ru/news/vyshel-treyler-vershiny-yuriya-bykova",
   "skip:https://kg-portal.ru/comments/135760-vershina-trejler/",
@@ -998,5 +996,7 @@
   "skip:https://www.film.ru/news/finalnyy-treyler-doktora-duma",
   "skip:https://kg-portal.ru/comments/135934-mstiteli-doktor-dum-finalnyj-trejler/",
   "https://www.kinonews.ru/news_144277/",
-  "title:Дженнифер Лопес и Джейн Фонда готовят сиквел комедии \"Если свекровь - монстр\""
+  "title:Дженнифер Лопес и Джейн Фонда готовят сиквел комедии \"Если свекровь - монстр\"",
+  "https://www.kinonews.ru/news_144282/",
+  "title:Финальный трейлер \"Мстителей: Судный день\" вернул Циклопу культовую реплику"
 ]

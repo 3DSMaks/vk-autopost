@@ -1,10 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169864/phantom-blade-zero-stala-luchshej-igroj-oktyabrya-po-versii-polzovatelej-playstation-blog/",
-  "skip:https://www.ign.com/articles/tekken-legend-katsuhiro-harada-says-he-wishes-hardware-like-the-xbox-series-s-wouldnt-be-released",
-  "https://gamemag.ru/news/202093/fus-ro-da-bethesda-prazdnuet-15-letie-the-elder-scrolls-v-skyrim",
-  "title:Фус Ро Да: Bethesda празднует 15-летие The Elder Scrolls V: Skyrim",
-  "skip:https://www.igromania.ru/news/169873/konan-otkliknulsya-na-zov-tyomnoj-piramidyi-anonsirovan-rolevoj-ekshen-conan-the-black-pyramid/",
-  "skip:https://www.pcgamer.com/games/the-witcher/cd-projekt-used-ai-to-modify-the-voice-of-geralts-polish-actor-after-a-stroke-left-it-significantly-changed-this-was-a-special-case/",
   "skip:https://gamemag.ru/news/202097/proklyatie-emi-hennig-insayder-soobshchil-ob-otmene-marvel-1943-rise-of-hydra",
   "skip:https://www.ign.com/articles/new-gta-6-surprise-gameplay-seemingly-released-in-yet-another-viral-marketing-stunt",
   "skip:https://stopgame.ru/newsdata/73468/anonsirovana_conan_the_black_pyramid_brutalnyy_ekshen_rouglayt_pro_velikogo_voina",
@@ -998,5 +992,11 @@
   "skip:https://kg-portal.ru/comments/135930-nedelja-kino-na-kg-glavnye-novosti-1622-nojabrja/",
   "https://kg-portal.ru/comments/135916-magicheskaja-bitva-nachinaetsja-vnovom-trejlere-epicheskogo-fentezi-deti-krovi-ikostej/",
   "video:2026-11-23:https://kg-portal.ru/comments/135916-magicheskaja-bitva-nachinaetsja-vnovom-trejlere-epicheskogo-fentezi-deti-krovi-ikostej/",
-  "title:Магическая битва начинается в новом трейлере эпического фэнтези \"Дети крови и костей\""
+  "title:Магическая битва начинается в новом трейлере эпического фэнтези \"Дети крови и костей\"",
+  "skip:https://www.kinonews.ru/news_144274/",
+  "skip:https://www.kinonews.ru/news_144262/",
+  "skip:https://kg-portal.ru/comments/135932-hejli-stejnfild-povtorila-rol-kejt-bishop-vkrossovere-mstiteli-doktor-dum/",
+  "skip:https://www.kinonews.ru/news_144276/",
+  "https://www.film.ru/news/mosgaz-vyshel-v-okko",
+  "title:Мосгаз вышел в Okko"
 ]

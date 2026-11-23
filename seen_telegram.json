@@ -1,6 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/202097/proklyatie-emi-hennig-insayder-soobshchil-ob-otmene-marvel-1943-rise-of-hydra",
-  "skip:https://www.ign.com/articles/new-gta-6-surprise-gameplay-seemingly-released-in-yet-another-viral-marketing-stunt",
   "skip:https://stopgame.ru/newsdata/73468/anonsirovana_conan_the_black_pyramid_brutalnyy_ekshen_rouglayt_pro_velikogo_voina",
   "skip:https://gamemag.ru/news/202095/ray-ne-na-zemle-the-outer-worlds-2-poluchit-pervoe-dlc-v-dekabre",
   "https://www.playground.ru/final_fantasy_7_part_3/news/avtory_final_fantasy_7_revelation_ne_stanut_podstraivat_final_trilogii_pod_ozhidaniya_fanatov-1889946#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +996,7 @@
   "skip:https://kg-portal.ru/comments/135932-hejli-stejnfild-povtorila-rol-kejt-bishop-vkrossovere-mstiteli-doktor-dum/",
   "skip:https://www.kinonews.ru/news_144276/",
   "https://www.film.ru/news/mosgaz-vyshel-v-okko",
-  "title:Мосгаз вышел в Okko"
+  "title:Мосгаз вышел в Okko",
+  "https://www.film.ru/news/lica-novoy-intuicii",
+  "title:Лица новой Интуиции"
 ]

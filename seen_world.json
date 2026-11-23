@@ -1,7 +1,4 @@
 [
-  "title:Парламент Дании одобрил оборонное соглашение с США и Гренландией",
-  "skip:https://www.kommersant.ru/doc/9113902",
-  "skip:https://www.interfax.ru/russia/1130178",
   "https://www.rbc.ru/rbcfreenews/6afef8dea9872299930e175f",
   "title:Возобновлено движение поездов по Крымскому мосту",
   "skip:https://www.interfax.ru/russia/1130195",
@@ -998,5 +995,8 @@
   "title:В Крым, Севастополь, ДНР и ЛНР дополнительно направят энергооборудование",
   "skip:https://ria.ru/20261123/harkov-2133361443.html",
   "https://tass.ru/proisshestviya/28345519",
-  "title:В Харькове прогремели новые взрывы"
+  "title:В Харькове прогремели новые взрывы",
+  "skip:https://www.interfax.ru/world/1130789",
+  "https://ria.ru/20261123/belorussiya-2133373237.html",
+  "title:Лукашенко призвал Россию и Белоруссию не создавать дублирующие производства"
 ]

@@ -1,7 +1,4 @@
 [
-  "skip:https://ria.ru/20261119/putin-2132700407.html",
-  "skip:https://ria.ru/20261119/putin-2132700318.html",
-  "skip:https://news.google.com/rss/articles/CBMipgFBVV95cUxPbEg1bHdncVppdkFQcVVxMUEzUlkwcHFGaXdVMnRmeWNKTU1aTnNaQnFwN0QyNVY1N2hrc2EySXAxZUZMYWZqUUoyYXRteldWUVBqVktaWmM5bW11MFhWdFBGT1U3NjFPeUhab1JMZmwtYnEwZU1wVUNwRVdqYk5IZ0pPM2ZPLUhaeE5CUnNqSG50cUgtTzBucHBnRjhoZHJQR3kwSTN3?oc=5",
   "skip:https://www.kommersant.ru/doc/9113770",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28335551",
   "skip:https://ria.ru/20261119/putni-2132698240.html",
@@ -998,5 +995,8 @@
   "title:Песков объяснил отсутствие новых послов России в Великобритании и Франции отсутствием отношений",
   "skip:https://www.rbc.ru/rbcfreenews/6b0378e616939d5f628cb00d",
   "https://www.interfax.ru/world/1130718",
-  "title:Дональд Трамп заявил об усилении ракетных атак со стороны Ирана после победы демократов на выборах в США"
+  "title:Дональд Трамп заявил об усилении ракетных атак со стороны Ирана после победы демократов на выборах в США",
+  "skip:https://news.google.com/rss/articles/CBMixgFBVV95cUxPS1pvWmhMSm1MRktDOXJhZWNCdTJIZ25WejNRVExzUHhPeGhEeklEZW54T3NVZTJYbjJEa3Bmcm0xV3B2aVZnTE5oYm9MNEVYQXBzZmZYQXV4SmNWa3ZrVXVqczFEV0JqaXNoRERwTlZaNk1YSXo3TGlQNWRVekh5dC1XTmVhYU5SYVRUbjNnbmszTm5PRTdCeVEyMmFweGE1NTRHSmcyRXlrUnBGNk5aWXZyTkdvSmgwaWRvdks2bGIzejlMY0E?oc=5",
+  "https://www.kommersant.ru/doc/9127628",
+  "title:New York Times рассказала о контактах предпринимательницы Элис Хуанг с китайской разведкой"
 ]

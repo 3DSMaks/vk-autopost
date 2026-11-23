@@ -1,8 +1,4 @@
 [
-  "skip:https://variety.com/2026/film/news/keanu-reeves-constantine-2-james-gunns-dc-exit-1236945816/",
-  "https://deadline.com/2026/11/denis-villeneuve-update-james-bond-casting-1237221346/",
-  "title:Denis Villeneuve Shares Update On James Bond Casting: “I Am Pushing The Gas”",
-  "skip:https://variety.com/2026/film/global/barbara-broccoli-national-film-and-television-school-1236945943/",
   "skip:https://deadline.com/2026/11/barbara-broccoli-national-film-television-school-president-1237220238/",
   "https://www.film.ru/news/start-tretih-kolec-vlasti",
   "title:Старт третьих Колец власти",
@@ -998,5 +994,9 @@
   "https://www.igromania.ru/news/170149/final-fantasy-7-revelation-poluchila-vozrastnoj-rejting-s-krovyu-matom-i-lyogkimi-seksualnyimi-stsenami/",
   "title:Final Fantasy 7 Revelation получила возрастной рейтинг с кровью и лёгкими сексуальными сценами",
   "https://www.igromania.ru/news/170157/tirazh-gta-6-prevyisil-otmetku-v-449-mln-kopij-analitiki/",
-  "title:Тираж GTA 6 превысил отметку в 44,9 млн копий — аналитики"
+  "title:Тираж GTA 6 превысил отметку в 44,9 млн копий — аналитики",
+  "skip:https://www.kinonews.ru/article_144275/",
+  "skip:https://www.film.ru/articles/recenziya-na-rozhdestvenskiy-horror-skrudzh-dzhonni-depp-na-puti-iskupleniya",
+  "https://www.film.ru/news/pervyy-vzglyad-na-golicyna-s-kozlovskim",
+  "title:Первый взгляд на Голицына с Козловским"
 ]

@@ -1,10 +1,4 @@
 [
-  "title:Суд ООН признал власти Мьянмы виновными в геноциде рохинджа",
-  "skip:https://ria.ru/20261119/ataka-2132737267.html",
-  "https://www.interfax.ru/russia/1130183",
-  "title:В результате атаки беспилотников в Саратовской области погибли шесть человек",
-  "skip:https://www.theguardian.com/world/2026/nov/19/danish-mps-approve-greenland-security-pact-us",
-  "https://www.rbc.ru/rbcfreenews/6afeccdfddeb025f95c2f1ca",
   "title:Парламент Дании одобрил оборонное соглашение с США и Гренландией",
   "skip:https://www.kommersant.ru/doc/9113902",
   "skip:https://www.interfax.ru/russia/1130178",
@@ -998,5 +992,11 @@
   "title:При атаке беспилотников на Пермский край погиб человек",
   "skip:https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR1VjenRaWHFSYy04RXNZOGtGZ21ldWg3a1B4WVp3dk1OY2pPZ2pRcXFCLTk0YnJjalVEMnBqV2M2UnpCSENVWVNPVDhEZXhNQTdPZnlPWDJhNXR5VThOTVdKT2JRYmJfOW9hTzdqRUdMakNOUEFHVmdwWnNNOEx6ZmFiRVc5Z1JyZE5nNHFwODlkTkp5aHRVNUZxZVo2aDR0TnN6U2VRTlE?oc=5",
   "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-  "title:Владимир Зеленский подтвердил причастность Украины к ударам по российским судам в Ливии"
+  "title:Владимир Зеленский подтвердил причастность Украины к ударам по российским судам в Ливии",
+  "skip:https://ria.ru/20261123/minenergo-2133362506.html",
+  "https://tass.ru/obschestvo/28345507",
+  "title:В Крым, Севастополь, ДНР и ЛНР дополнительно направят энергооборудование",
+  "skip:https://ria.ru/20261123/harkov-2133361443.html",
+  "https://tass.ru/proisshestviya/28345519",
+  "title:В Харькове прогремели новые взрывы"
 ]

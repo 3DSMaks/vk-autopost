@@ -1,7 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169853/double-fine-ne-brosit-kiln-umirat-goncharnyij-fajting-skoro-poluchit-ogromnoe-obnovlenie/",
-  "skip:https://www.igromania.ru/news/169849/shrek-eto-lyubov-shrek-eto-zhizn-a-shrek-2-remastered-eto-smeshannyij-rejting-v-steam/",
-  "https://www.igromania.ru/news/169859/obyom-prodazh-i-pribyil-square-enix-vyirosli-blagodarya-final-fantasy-vii-rebirth-ffxiv-i-ne-tolko/",
   "title:Объём продаж и прибыль Square Enix выросли благодаря Final Fantasy VII Rebirth, FFXIV﻿ и не только",
   "https://deadline.com/2026/11/emily-in-paris-season-6-trailer-greece-1237220061/",
   "title:‘Emily In Paris’ Season 6 Trailer Traipses Down Memory Lane From France & Rome To “One Last Story” In Greece",
@@ -998,5 +995,8 @@
   "skip:https://www.ign.com/articles/gta-6-dev-honors-late-mother-with-in-game-memorial-that-players-can-visit",
   "skip:https://www.ign.com/articles/rockstar-says-jasons-viral-personality-in-gta-6-comes-from-steve-mcqueen-and-real-life-veterans",
   "https://gamemag.ru/news/201750/legacy-of-atlantis-devs-on-their-remake-vision-october-2026",
-  "title:Tomb Raider: Legacy of Atlantis предложит много нового и бережно воссоздаст лучшие моменты оригинала"
+  "title:Tomb Raider: Legacy of Atlantis предложит много нового и бережно воссоздаст лучшие моменты оригинала",
+  "skip:https://variety.com/2026/film/box-office/china-box-office-the-hunger-games-sunrise-on-the-reaping-1236955624/",
+  "https://variety.com/2026/film/news/hailee-steinfeld-avengers-doomsday-kate-bishop-1236955585/",
+  "title:Hailee Steinfeld Confirms ‘Avengers: Doomsday’ Return as Kate Bishop"
 ]

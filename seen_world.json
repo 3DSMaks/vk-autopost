@@ -1,11 +1,4 @@
 [
-  "skip:https://tass.ru/politika/28337719",
-  "skip:https://www.interfax.ru/russia/1130287",
-  "https://www.kommersant.ru/doc/9114227",
-  "title:Владимир Путин прибыл с рабочим визитом в Таджикистан",
-  "skip:https://news.google.com/rss/articles/CBMiowFBVV95cUxOWHRFWmFPaG84TkVfc09hMmJxUl84NldFS0JRVzVuU0dnV3ZOUFlIcUVQR1hWclZQMGd2ZjExanJaNTZ6dDByc3RqalBHZkFCUGI5aExWYU1rUG1xc3JsMVpETkdnWFFkc09DZUU5dHJ2RUppbEtuZktERWdGNk5ER19zQXpOaWdGcTlFZ0MxZlg0emRjcnpHSnN0Z1YyMWl4UFh3?oc=5",
-  "skip:https://news.google.com/rss/articles/CBMilgFBVV95cUxPSjhuZXowVzdHMnhkQm1TbWotUlpJeVdXcnZYSklCX3lJM0VEUHJJaXRUQVU0YlpGRGFjc3JuUkdZRTZaMlE3dG4wWkx4MWdCSUNhTkJGeXgxQTlydC05MGUzS0JMem13eGpXQXZERXZLaW5jalNtMjdOMWM4UlZveDlEQkhuOGZBSlAxQjc3NXdsNlNTb1E?oc=5",
-  "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
   "title:Дональд Трамп посмертно помиловал легенду бейсбола Пита Роуза",
   "skip:https://news.google.com/rss/articles/CBMingFBVV95cUxPancyR3hqXzc1cWJHZDlBeDc5Wk50dkNqX0R4VlFEUFV2V2FLNlkzVTlRd0lxQ3h1S1FrWHQ1UG9UM3NwT1RuZUdUVWszek1FR2xzRDhZM0RWNGcyWm9SZVR2NDV4Mm1UTXlLUm5XMUlFMUY0bmhtS0QyM3N1bzRVNE1YSVREbms2UTYtQVVPaXpXcVZRTG5haVVWYXRKZw?oc=5",
   "skip:https://www.france24.com/en/tv-shows/business/20261119-anthropic-goes-public-after-blockbuster-ipo-but-fails-to-revive-ai-trade",
@@ -998,5 +991,12 @@
   "https://www.kommersant.ru/doc/9128522",
   "skip:https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaTdQZHhWWEpadDE4WGc0WkR4ZW5Ud3pHQ3dKS2xaUGtMdGNnd0JKRC1sNk1qUUt4MG9UUGJlRU91NlJiVHhHNFVZWWluTjJpMWVmNkwtNTYzN0g5cFZVNVg4ZWFCYTRaQlNQWTU0djI4bTZBUnBWNmVIWjF3ZEFfYVp3UVJEdml1c0xEVkxSYzh1UlNNU3BiaG53Z2ctRExWLXVMNENwdjVPNEoxZ25vX2FvUjZGNmk2eGZjeGRR?oc=5",
-  "title:Иранские власти подвергли телесным наказаниям певицу за выступление без хиджаба"
+  "title:Иранские власти подвергли телесным наказаниям певицу за выступление без хиджаба",
+  "skip:https://www.rbc.ru/society/23/11/2026/6b0479a402c738b7b493f409",
+  "skip:https://ria.ru/20261123/chibis-2133497653.html",
+  "https://www.kommersant.ru/doc/9128544",
+  "title:Губернатор Мурманской области Андрей Чибис задержан по делу о хищениях",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28347251",
+  "https://www.rbc.ru/rbcfreenews/6b047d096430eddd3326a4e9",
+  "title:Президент Армении отозвал нескольких послов и главу миссии при НАТО"
 ]

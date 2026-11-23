@@ -1,8 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135743-lazershou-tri-debila-vypusk-751-uvolnenie-dzhejmsa-ganna-novyj-konstantin-rozhdenie-imperii-prajmtajm-kruto-svarennye/",
-  "https://deadline.com/2026/11/denis-villeneuve-update-james-bond-casting-1237221346/",
-  "title:Denis Villeneuve Shares Update On James Bond Casting: “I Am Pushing The Gas”",
-  "https://www.film.ru/news/start-tretih-kolec-vlasti",
   "title:Старт третьих Колец власти",
   "skip:https://variety.com/2026/film/global/barbara-broccoli-national-film-and-television-school-1236945943/",
   "https://www.kinonews.ru/news_144110/",
@@ -998,5 +994,9 @@
   "skip:https://kg-portal.ru/comments/135932-hejli-stejnfild-povtorila-rol-kejt-bishop-vkrossovere-mstiteli-doktor-dum/",
   "skip:https://kg-portal.ru/comments/135930-nedelja-kino-na-kg-glavnye-novosti-1622-nojabrja/",
   "https://kg-portal.ru/comments/135916-magicheskaja-bitva-nachinaetsja-vnovom-trejlere-epicheskogo-fentezi-deti-krovi-ikostej/",
-  "title:Магическая битва начинается в новом трейлере эпического фэнтези \"Дети крови и костей\""
+  "title:Магическая битва начинается в новом трейлере эпического фэнтези \"Дети крови и костей\"",
+  "skip:https://www.kinonews.ru/article_144275/",
+  "skip:https://www.film.ru/articles/recenziya-na-rozhdestvenskiy-horror-skrudzh-dzhonni-depp-na-puti-iskupleniya",
+  "https://www.film.ru/news/treyler-korolya-kambeka-s-glenom-pauellom",
+  "title:Трейлер Короля камбэка с Гленом Пауэллом"
 ]

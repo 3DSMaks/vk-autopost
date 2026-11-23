@@ -1,7 +1,4 @@
 [
-  "skip:https://ria.ru/20261119/putin-2132701347.html",
-  "skip:https://ria.ru/20261119/oon-2132700892.html",
-  "skip:https://tass.ru/politika/28335571",
   "skip:https://ria.ru/20261119/putin-2132700407.html",
   "skip:https://ria.ru/20261119/putin-2132700318.html",
   "skip:https://news.google.com/rss/articles/CBMipgFBVV95cUxPbEg1bHdncVppdkFQcVVxMUEzUlkwcHFGaXdVMnRmeWNKTU1aTnNaQnFwN0QyNVY1N2hrc2EySXAxZUZMYWZqUUoyYXRteldWUVBqVktaWmM5bW11MFhWdFBGT1U3NjFPeUhab1JMZmwtYnEwZU1wVUNwRVdqYk5IZ0pPM2ZPLUhaeE5CUnNqSG50cUgtTzBucHBnRjhoZHJQR3kwSTN3?oc=5",
@@ -998,5 +995,8 @@
   "title:Ким Чен Ын заявил, что КНДР не стремится к гегемонии и экспансии",
   "skip:https://www.rbc.ru/politics/23/11/2026/6b0374e4b81ca9168c1190c3",
   "https://www.kommersant.ru/doc/9127621",
-  "title:Песков объяснил отсутствие новых послов России в Великобритании и Франции отсутствием отношений"
+  "title:Песков объяснил отсутствие новых послов России в Великобритании и Франции отсутствием отношений",
+  "skip:https://www.rbc.ru/rbcfreenews/6b0378e616939d5f628cb00d",
+  "https://www.interfax.ru/world/1130718",
+  "title:Дональд Трамп заявил об усилении ракетных атак со стороны Ирана после победы демократов на выборах в США"
 ]

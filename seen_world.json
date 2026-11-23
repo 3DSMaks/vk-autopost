@@ -1,10 +1,4 @@
 [
-  "skip:https://tass.ru/politika/28335587",
-  "skip:https://ria.ru/20261119/putin-2132701819.html",
-  "skip:https://tass.ru/politika/28335589",
-  "skip:https://www.rbc.ru/politics/19/11/2026/6afee36698db35749cdad009",
-  "skip:https://tass.ru/politika/28335575",
-  "skip:https://ria.ru/20261119/putin-2132701569.html",
   "skip:https://ria.ru/20261119/putin-2132701347.html",
   "skip:https://ria.ru/20261119/oon-2132700892.html",
   "skip:https://tass.ru/politika/28335571",
@@ -998,5 +992,11 @@
   "title:В нескольких российских аэропортах введены временные ограничения на полеты",
   "skip:https://www.rbc.ru/society/23/11/2026/6b038cc4500a8f8c1bced14b",
   "https://www.kommersant.ru/doc/9127622",
-  "title:Метеорологи предупредили Сан-Франциско об угрозе наводнения, близкого к рекордному уровню 1983 года"
+  "title:Метеорологи предупредили Сан-Франциско об угрозе наводнения, близкого к рекордному уровню 1983 года",
+  "skip:https://ria.ru/20261123/kndr-2133311466.html",
+  "https://www.rbc.ru/rbcfreenews/6b039029391419b5db35729c",
+  "title:Ким Чен Ын заявил, что КНДР не стремится к гегемонии и экспансии",
+  "skip:https://www.rbc.ru/politics/23/11/2026/6b0374e4b81ca9168c1190c3",
+  "https://www.kommersant.ru/doc/9127621",
+  "title:Песков объяснил отсутствие новых послов России в Великобритании и Франции отсутствием отношений"
 ]

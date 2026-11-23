@@ -1,7 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169861/neprostyie-vremena-pokupajte-gta-izdatel-grand-theft-auto-6-schitaet-igru-vyigodnyim-predlozheniem/",
-  "skip:https://stopgame.ru/newsdata/73451/avtory_big_walk_priznalis_v_ispolzovanii_ii_pri_razrabotke_igry",
-  "https://www.ign.com/articles/elder-scrolls-oblivion-remastered-switch-2-physical-edition-in-stock",
   "title:The Elder Scrolls IV: Oblivion Remastered Physical Edition is Finally Back in Stock for Switch 2",
   "https://variety.com/2026/film/global/heavens-gate-cult-thriller-the-leader-us-dark-sky-films-1236943712/",
   "title:Heaven’s Gate Cult Thriller ‘The Leader,’ Starring Vera Farmiga, Tim Blake Nelson and Jim Parsons, Bought for U.S. by Dark Sky Films (EXCLUSIVE)",
@@ -998,5 +995,8 @@
   "skip:https://variety.com/2026/film/news/hailee-steinfeld-avengers-doomsday-kate-bishop-1236955585/",
   "skip:https://deadline.com/2026/11/hailee-steinfeld-confirms-avengers-doomsday-1237231382/",
   "https://kg-portal.ru/comments/135927-pervyj-i-navernjaka-poslednij-uzhastik-po-komiksam-dc-klejfejs-v-nachale-dekabrja-vyjdet-na-cifre/",
-  "title:Первый и, наверняка, последний ужастик по комиксам DC — \"Клэйфейс\" — в начале декабря выйдет на цифре"
+  "title:Первый и, наверняка, последний ужастик по комиксам DC — \"Клэйфейс\" — в начале декабря выйдет на цифре",
+  "skip:https://www.film.ru/news/robert-eggers-ustal-ot-horrora",
+  "https://www.kinonews.ru/news_144278/",
+  "title:У фильма \"Годзилла: Минус ноль\" будет черно-белая версия"
 ]

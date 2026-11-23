@@ -1,9 +1,4 @@
 [
-  "skip:https://www.playground.ru/clive_barkers_hellraiser_revival/news/hellraiser_revival_obzavelas_demoversiej_na_konsolyah_ps5_i_xbox_series-1889729#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169862/horror-hellraiser-revival-poluchil-demoversiyu-na-ps5-i-xbox-series/",
-  "skip:https://stopgame.ru/newsdata/73457/prodazhi_monster_hunter_stories_3_prevysili_otmetku_v_million_kopiy",
-  "skip:https://gamemag.ru/news/202087/novyy-rekord-prodano-100-millionov-playstation-5",
-  "skip:https://stopgame.ru/newsdata/73455/otgruzki_ps5_dostigli_100_mln_edinic",
   "skip:https://www.igromania.ru/news/169853/double-fine-ne-brosit-kiln-umirat-goncharnyij-fajting-skoro-poluchit-ogromnoe-obnovlenie/",
   "skip:https://www.igromania.ru/news/169849/shrek-eto-lyubov-shrek-eto-zhizn-a-shrek-2-remastered-eto-smeshannyij-rejting-v-steam/",
   "https://www.igromania.ru/news/169859/obyom-prodazh-i-pribyil-square-enix-vyirosli-blagodarya-final-fantasy-vii-rebirth-ffxiv-i-ne-tolko/",
@@ -998,5 +993,10 @@
   "https://deadline.com/2026/11/joe-russo-doomsday-trailer-strategy-rumored-monday-fans-1237231111/",
   "title:Joe Russo Talks ‘Doomsday’ Teaser-Trailer Strategy Ahead Of Rumored Monday Drop: “I Have To interact With Fans”",
   "https://gamemag.ru/news/202195/grand-theft-auto-6-weather-screenshots",
-  "title:Следующей игрой Rockstar Games после Grand Theft Auto VI может стать L.A. Noire 2 — слух"
+  "title:Следующей игрой Rockstar Games после Grand Theft Auto VI может стать L.A. Noire 2 — слух",
+  "skip:https://www.playground.ru/gta_6/news/razrabotchiki_gta_6_uvekovechili_pamyat_svoih_blizkih_v_igrovom_mire-1893072#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/gta-6-dev-honors-late-mother-with-in-game-memorial-that-players-can-visit",
+  "skip:https://www.ign.com/articles/rockstar-says-jasons-viral-personality-in-gta-6-comes-from-steve-mcqueen-and-real-life-veterans",
+  "https://gamemag.ru/news/201750/legacy-of-atlantis-devs-on-their-remake-vision-october-2026",
+  "title:Tomb Raider: Legacy of Atlantis предложит много нового и бережно воссоздаст лучшие моменты оригинала"
 ]

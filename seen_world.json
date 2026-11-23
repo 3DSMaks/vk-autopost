@@ -1,13 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMimwFBVV95cUxPYWNjcDRJVTN5eWFvblRPYjBMYnoya3diRGpCWkoxbXJKVEt6dWdNN3I2VThZTllPTGRTaWxvUkxmUjZlVzZMVUI3OTVHeWN4MGpRUGY2M0gtdDJNWnpOclktZkhzcWpkUW5pVmR4aDhwRFhPYVNEWV9FVzd4bUxSTTFJLVRZNG1UQ1dKSnltd2ZELTV1LXdqdzF2aw?oc=5",
-  "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-  "title:Компания Anthropic провела успешное IPO и вышла на биржу",
-  "skip:https://ria.ru/20261120/kirill-2132843471.html",
-  "skip:https://ria.ru/20261120/patriarkh-2132775393.html",
-  "https://www.interfax.ru/russia/1130285",
-  "title:Патриарх Московский и всея Руси Кирилл отмечает 80-летие",
-  "skip:https://www.rbc.ru/rbcfreenews/6aff7b53ad17fa2c9731d174",
-  "skip:https://ria.ru/20261120/putin-2132846429.html",
   "skip:https://tass.ru/politika/28337719",
   "skip:https://www.interfax.ru/russia/1130287",
   "https://www.kommersant.ru/doc/9114227",
@@ -998,5 +989,14 @@
   "skip:https://www.interfax.ru/world/1130865",
   "skip:https://www.interfax.ru/world/1130863",
   "https://ria.ru/20261123/ek-2133475003.html",
-  "title:Еврокомиссия представила новый пакет санкций против России"
+  "title:Еврокомиссия представила новый пакет санкций против России",
+  "skip:https://www.kommersant.ru/doc/9128488",
+  "skip:https://ria.ru/20261123/vens-2133492026.html",
+  "skip:https://news.google.com/rss/articles/CBMiogFBVV95cUxQY290QTRyd09iaGNpaWpuNmlnOHQ2MVZSMm43Q29tS05BSE00ekxCeF9DZ013THRtUzVsTUItS2FIa1R6UzdOQ2FlOFlscXRLVUdfNkhLNS1JZ0FNNTZuOEgxdVVhN2JnaDBYdVFJQXBhSUNxeFBnR0V2XzZLTzZBaEh4NVUxLWRhZjJHOGR5NGVZOXpjWGZjaVFWR0NobElUaUE?oc=5",
+  "skip:https://ria.ru/20261123/tramp-2133489529.html",
+  "skip:https://www.rbc.ru/rbcfreenews/6b046f3d864b69b0ee78506e",
+  "https://www.kommersant.ru/doc/9128522",
+  "skip:https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaTdQZHhWWEpadDE4WGc0WkR4ZW5Ud3pHQ3dKS2xaUGtMdGNnd0JKRC1sNk1qUUt4MG9UUGJlRU91NlJiVHhHNFVZWWluTjJpMWVmNkwtNTYzN0g5cFZVNVg4ZWFCYTRaQlNQWTU0djI4bTZBUnBWNmVIWjF3ZEFfYVp3UVJEdml1c0xEVkxSYzh1UlNNU3BiaG53Z2ctRExWLXVMNENwdjVPNEoxZ25vX2FvUjZGNmk2eGZjeGRR?oc=5",
+  "title:Иранские власти подвергли телесным наказаниям певицу за выступление без хиджаба"
 ]

@@ -1,10 +1,4 @@
 [
-  "skip:https://ria.ru/20261119/putin-2132721688.html",
-  "skip:https://www.rbc.ru/politics/19/11/2026/6afee8052ceec77bbf405905",
-  "skip:https://www.rbc.ru/politics/19/11/2026/6afee71b12c43928f64e41d8",
-  "skip:https://www.rbc.ru/politics/19/11/2026/6afee55a411f1ad39e9caa0a",
-  "skip:https://www.interfax.ru/russia/1130153",
-  "skip:https://www.interfax.ru/russia/1130149",
   "skip:https://www.rbc.ru/rbcfreenews/6afee4803bcf696184fe9ce1",
   "skip:https://www.rbc.ru/politics/19/11/2026/6afee3702ef90d6d69691e91",
   "https://ria.ru/20261119/vstrechi-2132723509.html",
@@ -998,5 +992,11 @@
   "skip:https://news.google.com/rss/articles/CBMijAFBVV95cUxOVmg2amFPTmExM1FuMFNMY0hZTFNmWmNxNU0zQ1c5TU1od3hnNnFURkd6ZHVnc0hOOGRMb0ZvaHFTb2Vma2htT1B6OXZSRDlhX2VlNXBfY05uSVVCdE5BUTlVUVhuVmsxZ3U4VllBb19CWVpjU3pZc0s1QXBzZ19lUEdHOXVaTXA4Mnk4Ug?oc=5",
   "skip:https://tass.ru/sport/28344487",
   "https://ria.ru/20261123/basketbol-2133324501.html",
-  "title:Российский нападающий Роман Канцеров оформил первый хет-трик в НХЛ"
+  "title:Российский нападающий Роман Канцеров оформил первый хет-трик в НХЛ",
+  "skip:https://www.rbc.ru/economics/23/11/2026/6b03ee9dc8c8af3077b9e757",
+  "https://www.kommersant.ru/doc/9127833",
+  "title:Правительство России направит около 50 млрд рублей на строительство паромов для Калининграда",
+  "skip:https://tass.ru/ekonomika/28345117",
+  "https://www.interfax.ru/business/1130768",
+  "title:ФАС продлила заморозку предельных цен на удобрения для внутреннего рынка РФ до июня 2027 года"
 ]

@@ -1,9 +1,4 @@
 [
-  "skip:https://www.film.ru/news/reynolds-i-dzhekman-v-scenaristah-mstiteley",
-  "skip:https://www.kinonews.ru/news_144130/",
-  "skip:https://kg-portal.ru/comments/135765-hju-dzhekman-i-rajan-rejnolds-prolezli-v-doktora-duma-v-samom-nepredskazuemom-meste/",
-  "skip:https://www.kinonews.ru/news_144126/",
-  "skip:https://kg-portal.ru/comments/135764-jarkij-animacionnyj-nuar-rej-gann-raskryvaet-svoj-mir-vnovom-trejlere/",
   "skip:https://variety.com/2026/film/global/freya-allan-horror-movie-system-joachim-ronning-1236946732/",
   "https://deadline.com/2026/11/the-spot-release-date-claire-danes-ewan-mcgregor-hulu-photo-1237222480/",
   "title:Hulu Series ‘The Spot’ Starring Claire Danes & Ewan McGregor Gets Release Date, First-Look Photos",
@@ -998,5 +993,10 @@
   "skip:https://stopgame.ru/newsdata/73614/insayd_reliz_intergalactic_the_heretic_prophet_planiruetsya_v_konce_2027_goda",
   "skip:https://www.igromania.ru/news/170190/intergalactic-the-heretic-prophet-mozhet-vyijti-v-kontse-2027-goda/",
   "https://stopgame.ru/newsdata/73613/ciri_mozhet_prinimat_bolee_zhestokie_resheniya_kak_smena_protagonista_povliyaet_na_kvesty_v_the_witcher_iv",
-  "title:«Цири может принимать более жестокие решения» — как смена протагониста повлияет на квесты в The Witcher IV"
+  "title:«Цири может принимать более жестокие решения» — как смена протагониста повлияет на квесты в The Witcher IV",
+  "skip:https://www.playground.ru/the_cube/news/razrabotchiki_atomic_heart_opublikovali_novyj_tizer_mmo_shutera_the_cube-1893546#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://stopgame.ru/newsdata/73621/gotika_3_vyshla_na_playstation_5_i_xbox_series",
+  "skip:https://www.igromania.ru/news/170192/rolevaya-igra-gothic-3-classic-vyishla-na-ps5-i-xbox-series/",
+  "https://www.playground.ru/witcher_3_wild_hunt/news/cdpr_otchitalas_za_3_j_kvartal_2026_goda_remaster_the_witcher_3_i_drugie_proekty_prinesli_51_mln_dollarov-1893547#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:CDPR отчиталась за 3-й квартал 2026 года - ремастер The Witcher 3 и другие проекты принесли 51 млн долларов"
 ]

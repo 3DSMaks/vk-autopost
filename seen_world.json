@@ -1,12 +1,4 @@
 [
-  "https://www.aljazeera.com/sports/2026/11/20/nations-league-knockouts-spain-france-england-norway-quarterfinals?traffic_source=rss",
-  "title:Определились пары четвертьфиналистов Лиги наций УЕФА",
-  "skip:https://ria.ru/20261120/politolog-2132979419.html",
-  "https://www.rbc.ru/rbcfreenews/6b003ee8f5f05d2282c7c2aa",
-  "title:Бывший премьер-министр Франции Доминик де Вильпен объявил о выдвижении своей кандидатуры на президентских выборах",
-  "skip:https://www.rbc.ru/politics/20/11/2026/6b00411a1ce77ccb6b150dfe",
-  "skip:https://www.interfax.ru/world/1130472",
-  "https://www.kommersant.ru/doc/9126482",
   "title:Самвел Мкртчян назначен новым послом Армении в России",
   "skip:https://tass.ru/sport/28340549",
   "skip:https://www.interfax.ru/russia/1130482",
@@ -998,5 +990,13 @@
   "skip:https://ria.ru/20261124/raketa-2133598304.html",
   "skip:https://tass.ru/kosmos/28349273",
   "https://tass.ru/kosmos/28349303",
-  "title:Ракета-носитель «Союз-2.1б» с грузовым кораблем «Прогресс МС-36» стартовала с Байконура"
+  "title:Ракета-носитель «Союз-2.1б» с грузовым кораблем «Прогресс МС-36» стартовала с Байконура",
+  "skip:https://www.interfax.ru/russia/1131023",
+  "skip:https://www.rbc.ru/politics/24/11/2026/6b05758dc90da4aca1668c0e",
+  "https://www.kommersant.ru/doc/9129324",
+  "title:Владимир Путин назначил экс-президента Южной Осетии Алана Гаглоева своим спецпредставителем",
+  "skip:https://tass.ru/obschestvo/28349777",
+  "skip:https://tass.ru/politika/28349775",
+  "https://www.rbc.ru/politics/24/11/2026/6b057c872ac3358e9a2216db",
+  "title:Владимир Путин исключил режиссера Александра Сокурова из состава Совета по правам человека"
 ]

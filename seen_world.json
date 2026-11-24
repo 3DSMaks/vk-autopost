@@ -1,14 +1,4 @@
 [
-  "skip:https://ria.ru/20261120/posolstvo-2133067959.html",
-  "skip:https://ria.ru/20261120/posolstvo-2133067518.html",
-  "https://tass.ru/politika/28341431",
-  "title:Посольство РФ осудило Румынию за отказ в выдаче виз российским детям-спортсменам",
-  "skip:https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQnhGQzVqMUN5Z0VlenUyUE1IRndZMnpvNXRnbmkxRWdhMUZQSUJTX1FiVk5KN0JHN0RLQm4zRnJqWm4zQUkyOXQ1RENLU2xQN0dJbnZvc2hNbXJSTU9ic1BjLXA5VVZGZEVISUxPZk9Ibl9SaDZ5YVFvRUhSMi1fRVRkX0luUi1HSkh6RGdUM2pUVmZ0RlBPUXI3dU5NX0I1bEwteUlUOTUyYk9mWGNJekt2cGdCUDhZbHN6clJkNEhKQQ?oc=5",
-  "skip:https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlPdFVTT2cyVkhmMFVKNWZ1MnpNT0NLcURnblg4THMwUWNuYTRBLWUxU0ZSSUR5bk1zNnBmVlhIUjByNkN6TzVBNC1uaXQxM0dwY2FkMzZQdm00a0xyMXo3NFNpSUNPdERZWU82aGZLa0lNZHpMOXVnVDBVQW9lMmNrWEVRczVYS1Racm1NNlNERDBJeTFJRG1pZVRfTC1LTy1pNjhpVzRaeGRrY25kSzQ1aDNUUQ?oc=5",
-  "skip:https://www.kommersant.ru/doc/9126693",
-  "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-  "title:Расследование Комиссии по ценным бумагам США в отношении Nvidia и связи вокруг компании",
-  "skip:https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
   "https://www.kommersant.ru/doc/9126965",
   "title:Израильские удары в центральной части сектора Газа привели к жертвам",
   "skip:https://tass.ru/politika/28341463",
@@ -998,5 +988,15 @@
   "skip:https://tass.ru/proisshestviya/28351169",
   "skip:https://www.rbc.ru/politics/24/11/2026/6b05c7136ebc0591b7bbf116",
   "https://ria.ru/20261124/prokuratura-2133727560.html",
-  "title:Бывшему главе Тамбовской области Максиму Егорову запросили 14 лет колонии по делу о взятках"
+  "title:Бывшему главе Тамбовской области Максиму Егорову запросили 14 лет колонии по делу о взятках",
+  "skip:https://ria.ru/20261124/galatasaray-aston-villa-2133726966.html",
+  "skip:https://www.rbc.ru/sport/24/11/2026/6b05ded941768e6b94177d01",
+  "skip:https://ria.ru/20261124/batrakov--2133725421.html",
+  "skip:https://tass.ru/sport/28351179",
+  "skip:https://tass.ru/sport/28351177",
+  "https://www.sport-interfax.ru/1131135",
+  "title:«Галатасарай» победил «Астон Виллу» в матче Лиги чемпионов",
+  "skip:https://www.interfax.ru/world/1131132",
+  "https://tass.ru/mezhdunarodnaya-panorama/28351193",
+  "title:Глава Минобороны Израиля обвинил Иран в разработке химического оружия"
 ]

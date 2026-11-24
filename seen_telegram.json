@@ -1,11 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/202110/kurtku-povesili-na-gvozd-nvidia-obyavila-ob-ostavke-djensena-huanga",
-  "skip:https://www.pcgamer.com/hardware/live/news/nvidia-jen-hsun-scandal/",
-  "skip:https://stopgame.ru/newsdata/73476/utechka_esche_17_igr_s_xbox_poyavyatsya_na_pk_po_obratnoy_sovmestimosti",
-  "skip:https://www.igromania.ru/news/169883/dzhensena-huanga-uvolili-iz-nvidia-na-fone-skandala-s-kitajskoj-shpionkoj/",
-  "skip:https://www.ign.com/articles/gta-6-was-almost-refused-rating-in-south-korea",
-  "skip:https://www.pcgamer.com/hardware/if-jensen-huang-goes-who-could-replace-him-heres-who-the-board-might-pick-if-the-nvidia-ceo-is-ousted-in-the-wake-of-affair-scandals/",
-  "skip:https://www.pcgamer.com/hardware/nvidia-stock-price-plunges-amid-second-jensen-huang-affair-allegation-the-ai-company-could-be-set-to-lose-hundreds-of-billions-in-value/",
   "skip:https://www.pcgamer.com/hardware/this-would-be-an-apple-firing-steve-jobs-level-of-idiocy-says-tim-sweeney-at-the-idea-of-ousting-jensen-huang-while-elon-musk-says-it-would-be-an-honor-to-hire-the-nvidia-chief/",
   "https://www.playground.ru/gta_6/news/v_set_utekla_polnaya_karta_leonidy_iz_kollektsionnogo_izdaniya_gta_6-1890076#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:В сеть утекла полная карта Леониды из коллекционного издания GTA 6",
@@ -998,5 +991,12 @@
   "skip:https://www.pcgamer.com/games/grand-theft-auto/sony-gta-6-set-record-for-highest-number-of-concurrent-players-for-any-game-on-playstation-ever/",
   "skip:https://www.ign.com/articles/call-of-dutys-player-count-dropped-by-over-40-following-gta-6s-release-according-to-analysts",
   "https://stopgame.ru/newsdata/73610/v_dekabre_vyydet_vtoroe_dlc_dlya_nioh_3_a_v_yanvare_igra_poyavitsya_na_xbox_series",
-  "title:В декабре выйдет второе DLC для Nioh 3, а в январе игра появится на Xbox Series"
+  "title:В декабре выйдет второе DLC для Nioh 3, а в январе игра появится на Xbox Series",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/gta-6-players-found-a-60-fps-glitch-but-its-too-unstable-to-stop-me-from-wishing-it-was-on-pc-already/",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/the-grand-theft-auto-6-hacker-who-was-hospitalized-in-2023-has-been-released-on-parole-with-a-warning-not-to-do-it-again/",
+  "skip:https://gamemag.ru/news/202276/bag-xbox-pozvolyaet-zapuskat-gta-vi-v-rejime-60-fps-no-est-nyuans",
+  "skip:https://stopgame.ru/newsdata/73602/bolshe_tak_ne_delay_sud_osvobodil_hakera_vzlomavshego_rockstar_games",
+  "skip:https://gamemag.ru/news/202268/po-stopam-sema-altmana-djensen-huang-vosstanovlen-v-kachestve-glavy-nvidia",
+  "https://gamemag.ru/news/202277/the-witcher-iv-physical-release-will-happen",
+  "title:«Ведьмак 4» точно выйдет в коробках — наличие диска под вопросом"
 ]

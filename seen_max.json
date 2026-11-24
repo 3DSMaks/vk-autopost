@@ -1,12 +1,4 @@
 [
-  "https://variety.com/2026/film/news/star-wars-a-new-hope-cosm-disney-1236945488/",
-  "title:‘Star Wars: A New Hope’ to Premiere in Shared Reality From Cosm and Disney",
-  "skip:https://www.film.ru/news/skydance-mozhet-prodat-dc-radi-sokrashcheniya-dolgov",
-  "https://www.film.ru/news/kak-ograbit-bank-devida-litcha-razdelil-kritikov",
-  "title:«Как ограбить банк» Дэвида Литча разделил критиков",
-  "skip:https://www.pcgamer.com/hardware/fear-not-nvidians-the-man-who-wrote-the-book-on-nvidia-says-the-companys-success-doesnt-rely-on-jensen-huang/",
-  "skip:https://www.pcgamer.com/hardware/graphics-cards/jensen-huang-leaving-nvidia-is-not-a-good-thing-for-pc-gaming-and-ill-tell-you-why/",
-  "skip:https://www.pcgamer.com/hardware/graphics-cards/how-nvidia-got-into-this-mess-timeline-of-jensen-huang-scandal-and-geopolitics-leading-up-to-it/",
   "skip:https://www.igromania.ru/news/169885/polskij-golos-geralta-iz-vedmaka-raskryil-etichnyij-sposob-ispolzovat-ii-v-ozvuchke/",
   "skip:https://stopgame.ru/newsdata/73479/cdpr_primenila_ii_v_polskoy_versii_ballad_proshlogo_chtoby_podpravit_izmenivshiysya_golos_aktera",
   "skip:https://www.playground.ru/misc/news/pochti_trillion_dollarov_isparilsya_nvidia_perezhivaet_odin_iz_krupnejshih_obvalov_v_svoej_istorii-1890077#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +990,13 @@
   "skip:https://www.kinonews.ru/news_144291/",
   "skip:https://www.film.ru/news/merfi-i-bakli-v-vesterne-spilberga",
   "https://www.film.ru/news/tizer-vtorogo-sezona-voyny",
-  "title:Тизер второго сезона Войны"
+  "title:Тизер второго сезона Войны",
+  "skip:https://www.playground.ru/dead_or_alive_6/news/dead_or_alive_6_last_round_poluchila_besplatnyj_yubilejnyj_kontent_v_chest_30_letiya_serii-1893436#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://stopgame.ru/newsdata/73612/reliz_gta_vi_stal_samym_masshtabnym_v_istorii_playstation_bolee_39_mln_chelovek_na_ps5",
+  "skip:https://www.igromania.ru/news/170183/sportivnyij-serial-ted-lasso-tochno-poluchit-pyatyij-sezon/",
+  "skip:https://www.igromania.ru/news/170182/sportivnyij-serial-ted-lasso-tochno-poluchit-pyatyij-sezon/",
+  "skip:https://www.igromania.ru/news/170181/v-dead-or-alive-6-dobavili-besplatnuyu-kosmetiku-v-chest-30-letiya-serii/",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/sony-gta-6-set-record-for-highest-number-of-concurrent-players-for-any-game-on-playstation-ever/",
+  "https://gamemag.ru/news/202271/rockstar-games-vypustila-pervoe-obnovlenie-grand-theft-auto-vi",
+  "title:Rockstar Games выпустила первое обновление Grand Theft Auto VI"
 ]

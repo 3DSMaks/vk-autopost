@@ -1,7 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1130367",
-  "skip:https://www.interfax.ru/russia/1130364",
-  "skip:https://www.interfax.ru/russia/1130363",
   "skip:https://www.rbc.ru/politics/20/11/2026/6afff48cfc2beecd7b780768",
   "skip:https://www.interfax.ru/russia/1130361",
   "skip:https://ria.ru/20261120/ukraina-2132890370.html",
@@ -998,5 +995,8 @@
   "title:Бывшему президенту Бразилии Жаиру Болсонару диагностировали двустороннюю пневмонию",
   "skip:https://news.google.com/rss/articles/CBMizgFBVV95cUxNVjR1WG9RTVdfSTNnS1RTOWcwVlhpeGMtaUdMZGVIU1I0ZWt1ZlhtQ2F1ODJZOEwxVzB2ZHBYNDIxMkEtdjdMY1Z2X050QjY2VjYwR1VmTDZSbWxiQTNwZ09nZTRHYzdweXEzajYxcnZxTUp3eWdSdEtvX2RMTllnY205N3VoTlJnTEQtOEYySEVHNDZMa0p5bHdPWG9KTUw1Zzg3VnZuVEVGV3czanhjQUJxdDNqTXFvMXlZT1k4bmlQYkJfYXUya0lsbzRoUQ?oc=5",
   "https://ria.ru/20261124/ssha-2133519698.html",
-  "title:США подозревают Иран в причастности к кибератакам на суда"
+  "title:США подозревают Иран в причастности к кибератакам на суда",
+  "skip:https://www.kommersant.ru/doc/9128594",
+  "https://www.interfax.ru/world/1130910",
+  "title:Южная Корея подняла истребители из-за пролета российских самолетов"
 ]

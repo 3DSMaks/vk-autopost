@@ -1,11 +1,4 @@
 [
-  "skip:https://ria.ru/20261120/tramp-2133047041.html",
-  "skip:https://ria.ru/20261120/tramp-2133046060.html",
-  "skip:https://www.interfax.ru/world/1130520",
-  "skip:https://www.interfax.ru/world/1130519",
-  "skip:https://www.rbc.ru/politics/20/11/2026/6b008989abb7db2196002421",
-  "skip:https://www.interfax.ru/world/1130517",
-  "skip:https://www.rbc.ru/rbcfreenews/6b008765e852c8ecfdb011be",
   "https://www.rbc.ru/technology_and_media/20/11/2026/6b009219abb7db2196002441",
   "title:Дональд Трамп подвел итоги переговоров с Владимиром Путиным и лидерами КНР",
   "skip:https://www.theguardian.com/politics/2026/nov/20/burnham-trade-youth-mobility-deals-biggest-step-towards-eu-since-brexit",
@@ -998,5 +991,12 @@
   "skip:https://ria.ru/20261124/putin-2133693357.html",
   "skip:https://ria.ru/20261124/putin-2133693085.html",
   "https://www.rbc.ru/politics/24/11/2026/6b05b828e8652ddeb187966f",
-  "title:Владимир Путин провел заседание комиссии по вопросам ТЭК и заявил о неизбежном ответе на удары по энергетике"
+  "title:Владимир Путин провел заседание комиссии по вопросам ТЭК и заявил о неизбежном ответе на удары по энергетике",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28350913",
+  "skip:https://ria.ru/20261124/lukashenko-2133707730.html",
+  "https://www.rbc.ru/politics/24/11/2026/6b05c58a8cc5a656c074432f",
+  "title:Президент Белоруссии Александр Лукашенко заявил, что Россия побеждает в конфликте на Украине военным путем",
+  "skip:https://tass.ru/armiya-i-opk/28350925",
+  "https://ria.ru/20261124/pvo-2133709777.html",
+  "title:Силы ПВО за день уничтожили 32 украинских беспилотника над регионами России"
 ]

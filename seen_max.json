@@ -1,8 +1,4 @@
 [
-  "skip:https://deadline.com/2026/11/thomas-crown-affair-trailer-michael-b-jordan-1237006350/",
-  "skip:https://www.film.ru/news/vyshel-treyler-remeyka-afery-tomasa-krauna",
-  "skip:https://kg-portal.ru/comments/135762-afera-tomasa-krauna-trejler/",
-  "skip:https://www.kinonews.ru/news_144107/",
   "https://variety.com/2026/film/news/star-wars-a-new-hope-cosm-disney-1236945488/",
   "title:‘Star Wars: A New Hope’ to Premiere in Shared Reality From Cosm and Disney",
   "skip:https://www.film.ru/news/skydance-mozhet-prodat-dc-radi-sokrashcheniya-dolgov",
@@ -998,5 +994,9 @@
   "title:Из Мортал Комбат в Наруто",
   "skip:https://variety.com/2026/film/box-office/the-hunger-games-sunrise-on-the-reaping-ramayana-uk-ireland-box-office-1236956785/",
   "https://www.film.ru/news/pyatyy-sezon-teda-lasso",
-  "title:Пятый сезон Теда Лассо"
+  "title:Пятый сезон Теда Лассо",
+  "skip:https://www.kinonews.ru/news_144291/",
+  "skip:https://www.film.ru/news/merfi-i-bakli-v-vesterne-spilberga",
+  "https://www.film.ru/news/tizer-vtorogo-sezona-voyny",
+  "title:Тизер второго сезона Войны"
 ]

@@ -1,13 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9126218",
-  "https://www.interfax.ru/world/1130433",
-  "title:В Польше проверили информацию о падении неизвестных объектов и привели системы ПВО в боевую готовность",
-  "skip:https://www.france24.com/en/france/20261120-former-french-prime-minister-dominique-de-villepin-to-announce-presidential-bid",
-  "https://tass.ru/mezhdunarodnaya-panorama/28339883",
-  "title:Экс-премьер Франции Доминик де Вильпен объявил о выдвижении своей кандидатуры на президентских выборах",
-  "skip:https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-  "https://tass.ru/mezhdunarodnaya-panorama/28339931",
-  "title:Великобритания и ЕС договорились о перезагрузке отношений в ряде сфер",
   "skip:https://www.kommersant.ru/doc/9126355",
   "skip:https://news.google.com/rss/articles/CBMiygFBVV95cUxPejRoNTB3Y2hjdXRxMmNON0lac2xkWldNSmQ5RXFTM0NrMDFJaEE3QWxsOHJoYTgwLTFUN1A5MGRkU0h6ejNsLXdraFB0MjhNTkVROEJjNG5WWm00azhpbUNDN2FRUW1uRXplazJmU08za2gtYlc0bEc5bk9XMEpfbndzU3VVTVB3LUNyR3llYW1rdkI5UmtzeFNsZmhNNllGY3g1WnF5ZDZpLTRGZ0Q5RUstaGJuSnFESFJCZ2d0RG41RDcyZW9QZmV3?oc=5",
   "https://ria.ru/20261120/polsha-2132959003.html",
@@ -998,5 +989,14 @@
   "skip:https://tass.ru/obschestvo/28348767",
   "skip:https://www.interfax.ru/russia/1130975",
   "https://ria.ru/20261124/plenum-2133576187.html",
-  "title:Верховный суд РФ инициировал создание Черноморского флотского военного суда в Севастополе"
+  "title:Верховный суд РФ инициировал создание Черноморского флотского военного суда в Севастополе",
+  "skip:https://www.interfax.ru/russia/1130985",
+  "skip:https://www.kommersant.ru/doc/9128891",
+  "skip:https://www.rbc.ru/politics/24/11/2026/6b0554048ccadc1e96de5947",
+  "skip:https://ria.ru/20261124/barvinovka-2133581492.html",
+  "https://tass.ru/armiya-i-opk/28349007",
+  "title:Минобороны РФ сообщило о взятии под контроль села Барвиновка в Запорожской области",
+  "skip:https://tass.ru/proisshestviya/28348983",
+  "https://www.kommersant.ru/doc/9128894",
+  "title:У побережья ОАЭ атакован и загорелся сухогруз"
 ]

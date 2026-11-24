@@ -1,11 +1,4 @@
 [
-  "skip:https://www.rbc.ru/politics/20/11/2026/6afff48cfc2beecd7b780768",
-  "skip:https://www.interfax.ru/russia/1130361",
-  "skip:https://ria.ru/20261120/ukraina-2132890370.html",
-  "skip:https://ria.ru/20261120/raketa-2132890233.html",
-  "skip:https://ria.ru/20261120/vsu-2132890081.html",
-  "skip:https://ria.ru/20261120/vs-2132889994.html",
-  "skip:https://ria.ru/20261120/most-2132889427.html",
   "skip:https://ria.ru/20261120/lvov-2132889205.html",
   "skip:https://www.rbc.ru/rbcfreenews/6affeb7f459f2d4d30911bf4",
   "skip:https://ria.ru/20261120/sudno-2132888981.html",
@@ -998,5 +991,12 @@
   "title:США подозревают Иран в причастности к кибератакам на суда",
   "skip:https://www.kommersant.ru/doc/9128594",
   "https://www.interfax.ru/world/1130910",
-  "title:Южная Корея подняла истребители из-за пролета российских самолетов"
+  "title:Южная Корея подняла истребители из-за пролета российских самолетов",
+  "skip:https://www.rbc.ru/rbcfreenews/6b04ee6c37b34153deec3552",
+  "skip:https://www.interfax.ru/russia/1130907",
+  "https://www.kommersant.ru/doc/9128597",
+  "title:Силы ПВО уничтожили еще 11 украинских беспилотников на подлете к Москве",
+  "skip:https://ria.ru/20261124/aeroport-2133523000.html",
+  "https://www.interfax.ru/moscow/1130906",
+  "title:Аэропорты Внуково и Шереметьево перешли на обслуживание рейсов по согласованию из-за ограничений"
 ]

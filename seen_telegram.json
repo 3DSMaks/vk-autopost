@@ -1,8 +1,4 @@
 [
-  "https://stopgame.ru/newsdata/73479/cdpr_primenila_ii_v_polskoy_versii_ballad_proshlogo_chtoby_podpravit_izmenivshiysya_golos_aktera",
-  "title:CDPR применила ИИ в польской версии «Баллад прошлого», чтобы подправить изменившийся голос актёра",
-  "skip:https://www.igromania.ru/news/169885/polskij-golos-geralta-iz-vedmaka-raskryil-etichnyij-sposob-ispolzovat-ii-v-ozvuchke/",
-  "skip:https://stopgame.ru/newsdata/73477/dzhensen_huang_uhodit_v_otstavku_nvidia_ischet_novogo_generalnogo_direktora",
   "https://stopgame.ru/newsdata/73473/intergalactic_the_heretic_prophet_pereshla_na_finalnyy_etap_proizvodstva",
   "title:Intergalactic: The Heretic Prophet перешла на финальный этап производства",
   "skip:https://www.film.ru/news/rey-gann-poluchil-novyy-treyler",
@@ -998,5 +994,9 @@
   "title:Из Мортал Комбат в Наруто",
   "skip:https://deadline.com/2026/11/bifas-craft-awards-ink-the-magic-faraway-tree-1237232480/",
   "https://kg-portal.ru/comments/135948-vozrastnaja-diskriminacija-sorvigolove-charli-koksu-otkazali-v-probah-na-dzhejmsa-bonda-hotja-on-odnogo-vozrasta-s-robertom-pattinsonom/",
-  "title:Возрастная дискриминация: Сорвиголове Чарли Коксу отказали в пробах на Джеймса Бонда, хотя он одного возраста с Робертом Паттинсоном"
+  "title:Возрастная дискриминация: Сорвиголове Чарли Коксу отказали в пробах на Джеймса Бонда, хотя он одного возраста с Робертом Паттинсоном",
+  "skip:https://www.playground.ru/gta_6/news/aktrisa_gta_6_sygravshaya_mendi_nazvala_vnezapnuyu_populyarnost_gorko_sladkoj_iz_za_fejkovyh_akkauntov-1893495#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/gta-6-mandy-actor-calls-viral-fame-bittersweet",
+  "https://www.playground.ru/dead_or_alive_new_project/news/koei_tecmo_i_team_ninja_pristupili_k_sozdaniyu_novoj_chasti_dead_or_alive-1893474#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Koei Tecmo и Team NINJA приступили к созданию новой части Dead or Alive"
 ]

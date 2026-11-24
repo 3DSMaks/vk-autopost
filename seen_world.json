@@ -1,10 +1,4 @@
 [
-  "skip:https://ria.ru/20261120/rakhmon-2132929199.html",
-  "skip:https://ria.ru/20261120/peskov-2132929011.html",
-  "skip:https://tass.ru/politika/28339505",
-  "skip:https://www.interfax.ru/russia/1130416",
-  "skip:https://ria.ru/20261120/rahmon-2132925514.html",
-  "https://www.kommersant.ru/doc/9126249",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28339655",
   "https://www.interfax.ru/world/1130436",
   "title:Эстония объявила о закрытии автомобильных пограничных переходов на границе с Россией с 1 декабря",
@@ -998,5 +992,11 @@
   "skip:https://www.kommersant.ru/doc/9128752",
   "skip:https://www.rbc.ru/sport/24/11/2026/6b052f2e5c3fbcf1e26af3d4",
   "https://tass.ru/sport/28348633",
-  "title:Норвегия отказалась выдать визы российским конькобежцам для участия в этапе Кубка мира"
+  "title:Норвегия отказалась выдать визы российским конькобежцам для участия в этапе Кубка мира",
+  "skip:https://www.interfax.ru/russia/1130966",
+  "https://tass.ru/ekonomika/28348765",
+  "title:ФАС возбудила дело против компаний «ТД УЗПМ» и «Транссервис» из-за картеля на рынке противогололедных реагентов",
+  "skip:https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZldRdngyRk9qdWlNdVBkYlFrTnBtV3M3WU45al9qVVp6OE9VRktQTWVKRWY0aWlfNjBhTVFNVlhaYkp4aEJVeVItSlpIUjAwd2I5RGh5MV9wZHVnNkc5c3F1MzA0elVvZ2x2bVFrMUM3NHgwVjJYaHpPRS0xa25Tb0VIUVBySTd5blMxNXhQYlVWMkh5bG0tbHRNN3hvck8zQnI3SG4tdGg?oc=5",
+  "https://tass.ru/proisshestviya/28348763",
+  "title:В Ханое произошел взрыв в кафе, погибли шесть человек"
 ]

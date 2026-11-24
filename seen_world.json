@@ -1,8 +1,4 @@
 [
-  "title:Дональд Трамп заявил о неготовности обсуждать гарантии безопасности для Украины до завершения конфликта",
-  "skip:https://www.kommersant.ru/doc/9126685",
-  "https://www.rbc.ru/rbcfreenews/6b00955fcaea19dc5115ced7",
-  "title:Дональд Трамп высказался за возвращение Дженсена Хуанга в Nvidia",
   "skip:https://www.kommersant.ru/doc/9126679",
   "https://www.rbc.ru/rbcfreenews/6b00988a1d72e10990872cf8",
   "title:Губернатор Санкт-Петербурга подписал закон о запрете розничной продажи вейпов",
@@ -998,5 +994,9 @@
   "title:МИД России приветствовал выход Таджикистана из Римского статута МУС",
   "skip:https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
   "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSXZBS09QMlM1QmpzUzEwRGJQcEFnVFhndmh4VmlTeG9fcm15UzNpTE9Ua2FCQTE1WDBtd21EWlVIWUhYWS1IRlllMDlHUmstcjhteUQ5TlBhNkVjZGN4S0FWVHVKN2l0eXNyLWR2TncwSFlMVnBvVW1XT3N0TWpIUklJd1ZuLXFaSFk2T1BlUERIY0xtNk43MDU4N29aOHBVdWUwcnU4bjk0TVFFTXpSSFVrcU9URUNIRDRPUFR6Y244ck53OEh4d1daWjRRMkhfcWc?oc=5",
-  "title:Вооруженные преступники захватили заложников в супермаркете в Картахене"
+  "title:Вооруженные преступники захватили заложников в супермаркете в Картахене",
+  "skip:https://tass.ru/proisshestviya/28351097",
+  "skip:https://ria.ru/20261124/turtsiya-2133719387.html",
+  "https://www.kommersant.ru/doc/9129740",
+  "title:В Турции при крушении военного вертолета погибли пять человек"
 ]

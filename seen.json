@@ -1,9 +1,4 @@
 [
-  "skip:https://deadline.com/2026/11/jeff-goldblum-john-turturro-marrakech-honors-1237215686/",
-  "skip:https://variety.com/2026/film/global/jeff-goldblum-john-turturro-marrakech-conversations-1236942335/",
-  "skip:https://variety.com/2026/film/markets-festivals/anthony-chen-somewhere-in-the-south-taiwan-pitch-award-1236942939/",
-  "skip:https://deadline.com/2026/11/somewhere-in-the-south-saga-tccf-pitching-taicca-cnc-1237217100/",
-  "skip:https://kg-portal.ru/comments/135713-nedelja-kino-na-kg-glavnye-novosti-28-nojabrja/",
   "https://www.film.ru/news/uvidet-vse-na-premii-vybor-kritikov",
   "title:Увидеть все на премии Выбор критиков",
   "skip:https://deadline.com/2026/11/you-can-see-everything-critics-choice-documentary-awards-winners-1237217011/",
@@ -998,5 +993,10 @@
   "posted:2026-11-24T13:37:58+00:00",
   "skip:https://variety.com/2026/film/global/bifa-awards-craft-winners-announced-1236956841/",
   "https://www.film.ru/news/vtoroy-sezon-baby-yagi",
-  "title:Второй сезон Бабы-яги"
+  "title:Второй сезон Бабы-яги",
+  "posted:2026-11-24T15:33:48+00:00",
+  "skip:https://variety.com/2026/film/box-office/thanksgiving-box-office-projections-sunrise-on-the-reaping-focker-in-law-disney-hexed-1236956070/",
+  "skip:https://www.film.ru/articles/mosgaz-delo-no-12-yuzhnyy-port-i-vse-tayny-seriala-chto-osnovano-na-realnyh-sobytiyah-chto",
+  "https://deadline.com/2026/11/the-murder-of-jonbenet-ramsey-trailer-netflix-series-1237232085/",
+  "title:‘The Murder of JonBenét Ramsey’: Melissa McCarthy & Clive Owen Play Grieving, Overly Scrutinized Parents In Trailer For Netflix Series"
 ]

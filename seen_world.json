@@ -1,12 +1,4 @@
 [
-  "https://www.rbc.ru/technology_and_media/20/11/2026/6b009219abb7db2196002441",
-  "title:Дональд Трамп подвел итоги переговоров с Владимиром Путиным и лидерами КНР",
-  "skip:https://www.theguardian.com/politics/2026/nov/20/burnham-trade-youth-mobility-deals-biggest-step-towards-eu-since-brexit",
-  "skip:https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-  "skip:https://news.google.com/rss/articles/CBMi3gFBVV95cUxObWtLZHJGRDlvcWJnQjQzZWRkWDR3WWlGRF9WcVlLeUIwMjJxWHVMMFROZlN4ZTh5VGVCOGFockRmQzJpXzBkaUU1WHIzejA4bjEyR3NEOWRMdFRxaVZ4dzJKOW40bUxCX25FQmhzY3p1Wmc1QnVGZEx6cFpTbmlOZzJKaWdzU0RJR29PX2tYaE9uOHZMQ2t0c0dWR1NIdkpJRkhmR08tMExJS1dQbG40YVExd0pUQWg3WDBXTDd3ZWZZTTJjY1M2VXVYLW1KTDExSS12dTM4U3ZoZUJveWc?oc=5",
-  "skip:https://www.france24.com/en/video/20261120-uk-and-eu-strike-landmark-deal-to-rebuild-ties-after-brexit",
-  "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit",
-  "title:Великобритания и ЕС заключили соглашение о перезагрузке отношений после Brexit",
   "skip:https://news.google.com/rss/articles/CBMipAFBVV95cUxPWEtzQUtZSkNqOE9ReXZEMTlIRVNjOEdzRVp0b1E1UkFiYncyMGpadjRFV1ZSeDJqSnJuRnhhZ3JvRkt3ZG9BNlN3Z0VESFpTbHFTREp6bzVFWnBKZVNweW5wUUVpMzFaZk14UzA3RFVveWdDUW9rVjI1dTZOeEVVeGl5Ql9QYVFpdWl3cm15VHg4SlZNVXR3dWVuTm0xVk1HZkZZdg?oc=5",
   "skip:https://www.interfax.ru/world/1130522",
   "skip:https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3hEcEp0SWhZNmU0eXhJUEU3ekVWWkQ3SVp1ZWlQeUZPRVBKUkx6R08yMkVGSWo5S3JWelR4STNQN2pCanZjaTE2ZWl0anlHQjJjWExCVFBVaVF4Uy1HNEZrRWZoNnVhVmx0WFBQNUg5cTA2UEpxZHpHcTRZSXctTU9jMHhPclFTdUQ3NktmbkJNS203N0dVeHA4R1pTRFRieHY3NnZWNA?oc=5",
@@ -998,5 +990,13 @@
   "title:Президент Белоруссии Александр Лукашенко заявил, что Россия побеждает в конфликте на Украине военным путем",
   "skip:https://tass.ru/armiya-i-opk/28350925",
   "https://ria.ru/20261124/pvo-2133709777.html",
-  "title:Силы ПВО за день уничтожили 32 украинских беспилотника над регионами России"
+  "title:Силы ПВО за день уничтожили 32 украинских беспилотника над регионами России",
+  "skip:https://tass.ru/sport/28351029",
+  "skip:https://www.rbc.ru/sport/24/11/2026/6b05bcede0e4ea847b2b9ef5",
+  "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
+  "title:Гукеш Доммараджу и Жавохир Синдаров сыграли вничью в первой партии матча за шахматную корону",
+  "skip:https://www.france24.com/en/americas/20261124-hostages-supermarket-colombia-cartagena-flights",
+  "skip:https://news.google.com/rss/articles/CBMixAFBVV95cUxNUklaemoxV1Blc3lnelpxZHVwbmdXYUZBVHg2M1dBUzhwcU1PNVp2STNsbWlQMU5POEpHNmFabWtzNjMyTGRwR3dVRURmbDJITXdKZHJsbGdQVkQwZ1d1dmM3cVc3RGZsUGxGbDVmeDVRQVJMZ0c2b3ZNcTdyQ08ycHlSMlNnT3dYMUJzWXZ1VXh0LWJBdkFpeDF5TjRyMk40Y0FHZDdaSWoxQjFIUGNEYlJQWEZKZl9BQ04tTnl1WXl1cElH?oc=5",
+  "https://tass.ru/proisshestviya/28351017",
+  "title:В Колумбии вооруженные преступники захватили заложников в супермаркете в Картахене"
 ]

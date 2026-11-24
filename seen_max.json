@@ -1,7 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73471/marvel_1943_rise_of_hydra_pochti_gotova_no_v_ney_malovato_geympleya_smi",
-  "skip:https://gamemag.ru/news/202101/wsj-sovet-direktorov-nvidia-nameren-uvolit-djensena-huanga",
-  "skip:https://www.ign.com/articles/marvel-1943-rise-of-hydra-is-reportedly-close-to-done-though-at-the-cost-of-cutting-back-on-content-and-length",
   "skip:https://www.pcgamer.com/software/ai/nvidia-ceo-jensen-huang-allegedly-had-a-second-affair-with-another-nvidia-exec/",
   "skip:https://gamemag.ru/news/202097/proklyatie-emi-hennig-insayder-soobshchil-ob-otmene-marvel-1943-rise-of-hydra",
   "https://stopgame.ru/newsdata/73470/resident_evil_requiem_stala_igroy_goda_na_golden_joystick_awards_2026",
@@ -998,5 +995,8 @@
   "title:Assassin's Creed: Black Flag Resynced Drops to $30 on PS5 at Walmart for Black Friday",
   "skip:https://www.film.ru/articles/recenziya-na-film-godzilla-minus-nol-sikvel-oskaronosnogo-yaponskogo-hita",
   "https://deadline.com/2026/11/steven-spielberg-the-heart-in-winter-paul-thomas-anderson-1237231172/",
-  "title:Steven Spielberg Sets Adaptation Of ‘The Heart In Winter’ As Next Film At Focus With Jessie Buckley, Cillian Murphy And Mark Rylance Starring And Paul"
+  "title:Steven Spielberg Sets Adaptation Of ‘The Heart In Winter’ As Next Film At Focus With Jessie Buckley, Cillian Murphy And Mark Rylance Starring And Paul",
+  "skip:https://kg-portal.ru/comments/135943-stiven-spilberg-ustroit-killianu-merfi-i-dzhessi-bakli-veseluju-zhizn-v-svoem-vesterne/",
+  "https://www.film.ru/news/doktor-dum-bez-globusa-i-bafta",
+  "title:Доктор Дум без Глобуса и BAFTA"
 ]

@@ -1,11 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
-  "https://www.kommersant.ru/doc/9126968",
-  "title:В НАТО и США прокомментировали инцидент с падением ракет и беспилотников на территории Польши",
-  "skip:https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
-  "skip:https://www.france24.com/en/france/20261120-paris-police-officers-sentenced-to-prison-over-2020-beating-of-black-man-michel-zecler",
-  "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-  "title:Французский суд приговорил трех полицейских к тюремным срокам за избиение музыкального продюсера",
   "skip:https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
   "skip:https://www.interfax.ru/world/1130529",
   "https://www.interfax.ru/world/1130530",
@@ -998,5 +991,12 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28351211",
   "skip:https://ria.ru/20261124/madyar-2133728274.html",
   "https://www.kommersant.ru/doc/9129765",
-  "title:Венгрия заявила об отказе участвовать в кредите ЕС для Украины на 45 млрд евро"
+  "title:Венгрия заявила об отказе участвовать в кредите ЕС для Украины на 45 млрд евро",
+  "skip:https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmhBaGpBTEdjQXR4UmRuMy1KVWY0anJiNkxHQ2NVTjBFbWc4RE5MRk5KU1lzZ1BKMVNKVUNRV3hlRmxtYWc0cmlpSlAxWkJDXzBhdjFqY0RfbE54clBNU1hDODJjbEk2ZENVMWtuM3F6VVZjWGpDZXNhZGowZW1UNUlLWGJSU0tYbXhlYU8xRkYweTJrd1JsM0pDdzd3UkM1ZkpTSXdHYTkxQjNzNlhfU2pTcXExSlFJ?oc=5",
+  "title:Компания Huawei признана виновной в США по делу о краже коммерческой тайны и бизнесе в Иране",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28351229",
+  "skip:https://news.google.com/rss/articles/CBMitgFBVV95cUxPMEY3TVFidy1CMzFaVE9HN09yYWVNX25JZ0hKNkhmVmJYMFhNdDQyd2k5TzFHWkhhUjFrbzBiSkIxWkZZREdEZ2Z2b2QwVFhDVEtEYzNuc19LWGd4SkdaMjRuZFVWVjJjMXR0MGwyNWRvOFZCVjdPYUVCaUJzbEpkVmtNWjJQalR2UlVfVVdEUElpZTR1Z0FnVW51alF3SkppOXdWNThkUU84bEgxalNDeTRkaVR5QQ?oc=5",
+  "https://ria.ru/20261124/utechka-2133731949.html",
+  "title:Спецслужбы США сообщили об утечке данных из систем ЦРУ и Нацразведки"
 ]

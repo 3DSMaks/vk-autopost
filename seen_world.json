@@ -1,10 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1130394",
-  "skip:https://ria.ru/20261120/vstrecha-2132909342.html",
-  "https://www.kommersant.ru/doc/9116708",
-  "title:Владимир Путин прибыл с рабочим визитом в Таджикистан и провел переговоры с Эмомали Рахмоном",
-  "skip:https://tass.ru/ekonomika/28339357",
-  "https://www.interfax.ru/russia/1130412",
   "title:Владимир Путин отметил рост товарооборота между Россией и Таджикистаном",
   "skip:https://ria.ru/20261120/putin-2132917131.html",
   "https://www.interfax.ru/russia/1130404",
@@ -998,5 +992,11 @@
   "skip:https://www.interfax.ru/russia/1130920",
   "skip:https://www.rbc.ru/society/24/11/2026/6b0506fec13372d58a8775ca",
   "https://ria.ru/20261124/vzryv-2133534344.html",
-  "title:На Алтае произошел взрыв бытового газа в пятиэтажном жилом доме"
+  "title:На Алтае произошел взрыв бытового газа в пятиэтажном жилом доме",
+  "skip:https://www.interfax.ru/russia/1130931",
+  "skip:https://www.rbc.ru/rbcfreenews/6b0522002211ca8751177847",
+  "skip:https://ria.ru/20261124/pvo-2133541061.html",
+  "skip:https://tass.ru/armiya-i-opk/28348161",
+  "https://www.kommersant.ru/doc/9128669",
+  "title:Минобороны РФ сообщило о сотенных сбитых беспилотниках за ночь"
 ]

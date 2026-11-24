@@ -1,11 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMipAFBVV95cUxPWEtzQUtZSkNqOE9ReXZEMTlIRVNjOEdzRVp0b1E1UkFiYncyMGpadjRFV1ZSeDJqSnJuRnhhZ3JvRkt3ZG9BNlN3Z0VESFpTbHFTREp6bzVFWnBKZVNweW5wUUVpMzFaZk14UzA3RFVveWdDUW9rVjI1dTZOeEVVeGl5Ql9QYVFpdWl3cm15VHg4SlZNVXR3dWVuTm0xVk1HZkZZdg?oc=5",
-  "skip:https://www.interfax.ru/world/1130522",
-  "skip:https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3hEcEp0SWhZNmU0eXhJUEU3ekVWWkQ3SVp1ZWlQeUZPRVBKUkx6R08yMkVGSWo5S3JWelR4STNQN2pCanZjaTE2ZWl0anlHQjJjWExCVFBVaVF4Uy1HNEZrRWZoNnVhVmx0WFBQNUg5cTA2UEpxZHpHcTRZSXctTU9jMHhPclFTdUQ3NktmbkJNS203N0dVeHA4R1pTRFRieHY3NnZWNA?oc=5",
-  "https://www.kommersant.ru/doc/9126689",
-  "title:Дональд Трамп пригрозил ввести высокие пошлины и налоги для американских компаний за строительство дата-центров за рубежом",
-  "skip:https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSnJIY2MzcUJjNVY3MzNYaGxKYUIySGw3TzNnVjltNDBIS2JPOHV4Y1BTaDRTRTRxSWp3R0M4Z3VSeU1IWmdoTGl6SU15bHh6UkZobTZ3aWpxUmU5c2dsODBPTjI3V0NQTEhjMWZBWE1fZnNQVHdYcjdONk43LVhleEdaUEs2d0hsV3dqMURGRUcyQzZnTFduVGZuTmJMU0taYzNreTJ4c2ZqeWV6b0l2X1FCQm5SQllFa09PZFRIcGJ5aGs?oc=5",
-  "https://ria.ru/20261120/tramp-2133054677.html",
   "title:США и Китай договорились о необходимости участия человека в принятии решений об использовании искусственного интеллекта в военных операциях",
   "skip:https://www.interfax.ru/world/1130521",
   "https://www.kommersant.ru/doc/9126692",
@@ -998,5 +991,12 @@
   "skip:https://www.france24.com/en/americas/20261124-hostages-supermarket-colombia-cartagena-flights",
   "skip:https://news.google.com/rss/articles/CBMixAFBVV95cUxNUklaemoxV1Blc3lnelpxZHVwbmdXYUZBVHg2M1dBUzhwcU1PNVp2STNsbWlQMU5POEpHNmFabWtzNjMyTGRwR3dVRURmbDJITXdKZHJsbGdQVkQwZ1d1dmM3cVc3RGZsUGxGbDVmeDVRQVJMZ0c2b3ZNcTdyQ08ycHlSMlNnT3dYMUJzWXZ1VXh0LWJBdkFpeDF5TjRyMk40Y0FHZDdaSWoxQjFIUGNEYlJQWEZKZl9BQ04tTnl1WXl1cElH?oc=5",
   "https://tass.ru/proisshestviya/28351017",
-  "title:В Колумбии вооруженные преступники захватили заложников в супермаркете в Картахене"
+  "title:В Колумбии вооруженные преступники захватили заложников в супермаркете в Картахене",
+  "skip:https://www.rbc.ru/economics/24/11/2026/6b05cfbe249338e79832beda",
+  "skip:https://www.rbc.ru/politics/24/11/2026/6b05c8d341768e6b94177cbe",
+  "https://www.kommersant.ru/doc/9129726",
+  "title:Александр Лукашенко предложил стать гарантом безопасности при визите Владимира Зеленского в Москву",
+  "skip:https://www.interfax.ru/russia/1131118",
+  "https://ria.ru/20261124/mid-2133717491.html",
+  "title:МИД России приветствовал выход Таджикистана из Римского статута МУС"
 ]

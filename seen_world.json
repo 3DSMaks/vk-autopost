@@ -1,8 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28339655",
-  "https://www.interfax.ru/world/1130436",
-  "title:Эстония объявила о закрытии автомобильных пограничных переходов на границе с Россией с 1 декабря",
-  "skip:https://www.france24.com/en/europe/20261120-poland-says-russian-missile-hit-its-territory-during-attack-on-ukraine",
   "skip:https://www.kommersant.ru/doc/9126218",
   "https://www.interfax.ru/world/1130433",
   "title:В Польше проверили информацию о падении неизвестных объектов и привели системы ПВО в боевую готовность",
@@ -998,5 +994,9 @@
   "title:ФАС возбудила дело против компаний «ТД УЗПМ» и «Транссервис» из-за картеля на рынке противогололедных реагентов",
   "skip:https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZldRdngyRk9qdWlNdVBkYlFrTnBtV3M3WU45al9qVVp6OE9VRktQTWVKRWY0aWlfNjBhTVFNVlhaYkp4aEJVeVItSlpIUjAwd2I5RGh5MV9wZHVnNkc5c3F1MzA0elVvZ2x2bVFrMUM3NHgwVjJYaHpPRS0xa25Tb0VIUVBySTd5blMxNXhQYlVWMkh5bG0tbHRNN3hvck8zQnI3SG4tdGg?oc=5",
   "https://tass.ru/proisshestviya/28348763",
-  "title:В Ханое произошел взрыв в кафе, погибли шесть человек"
+  "title:В Ханое произошел взрыв в кафе, погибли шесть человек",
+  "skip:https://tass.ru/obschestvo/28348767",
+  "skip:https://www.interfax.ru/russia/1130975",
+  "https://ria.ru/20261124/plenum-2133576187.html",
+  "title:Верховный суд РФ инициировал создание Черноморского флотского военного суда в Севастополе"
 ]

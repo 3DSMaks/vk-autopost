@@ -1,9 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9126965",
-  "title:Израильские удары в центральной части сектора Газа привели к жертвам",
-  "skip:https://tass.ru/politika/28341463",
-  "https://ria.ru/20261121/posol-2133070224.html",
-  "title:Посла России в Швеции вызвали в МИД из-за взрыва у дипмиссии при ударах по Киеву",
   "skip:https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
   "https://www.kommersant.ru/doc/9126968",
   "title:В НАТО и США прокомментировали инцидент с падением ракет и беспилотников на территории Польши",
@@ -998,5 +993,10 @@
   "title:«Галатасарай» победил «Астон Виллу» в матче Лиги чемпионов",
   "skip:https://www.interfax.ru/world/1131132",
   "https://tass.ru/mezhdunarodnaya-panorama/28351193",
-  "title:Глава Минобороны Израиля обвинил Иран в разработке химического оружия"
+  "title:Глава Минобороны Израиля обвинил Иран в разработке химического оружия",
+  "skip:https://ria.ru/20261124/madyar-2133730634.html",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28351211",
+  "skip:https://ria.ru/20261124/madyar-2133728274.html",
+  "https://www.kommersant.ru/doc/9129765",
+  "title:Венгрия заявила об отказе участвовать в кредите ЕС для Украины на 45 млрд евро"
 ]

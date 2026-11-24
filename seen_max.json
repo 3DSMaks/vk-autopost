@@ -1,7 +1,4 @@
 [
-  "title:Ведущие разработчики World of Warcraft публично признали творческий тупик актуальной версии игры",
-  "skip:https://www.film.ru/news/rey-gann-poluchil-novyy-treyler",
-  "skip:https://www.film.ru/news/bred-pitt-v-roli-montazhnika",
   "skip:https://www.film.ru/news/reynolds-i-dzhekman-v-scenaristah-mstiteley",
   "skip:https://www.kinonews.ru/news_144130/",
   "skip:https://kg-portal.ru/comments/135765-hju-dzhekman-i-rajan-rejnolds-prolezli-v-doktora-duma-v-samom-nepredskazuemom-meste/",
@@ -998,5 +995,8 @@
   "skip:https://www.kinonews.ru/news_144290/",
   "skip:https://www.film.ru/news/razgrom-novogo-znakomstva-s-fakerami",
   "https://www.film.ru/news/vtoroy-sezon-baby-yagi",
-  "title:Второй сезон Бабы-яги"
+  "title:Второй сезон Бабы-яги",
+  "skip:https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-monday-1237231975/",
+  "https://kg-portal.ru/comments/135954-komne-komanda-iks-russkij-trejler-filma-mstiteli-doktor-dum/",
+  "title:\"Ко мне, команда Икс\": русский трейлер фильма \"Мстители: Доктор Дум\""
 ]

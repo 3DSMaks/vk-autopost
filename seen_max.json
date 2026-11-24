@@ -1,8 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/gaming-industry/events-conferences/every-nominee-for-the-pc-gaming-show-most-wanteds-top-20-upcoming-games/",
-  "skip:https://www.ign.com/articles/intergalactic-the-heretic-prophet-in-last-stages-of-production-neil-druckmann-calls-it-a-mash-up-of-jak-and-daxter-uncharted-and-the-last-of-us",
-  "https://stopgame.ru/newsdata/73474/stanovlenie_kapitanom_v_novom_geympleynom_trailere_the_expanse_osiris_reborn",
-  "title:Становление капитаном в новом геймплейном трейлере The Expanse: Osiris Reborn",
   "skip:https://www.igromania.ru/news/169887/penisyi-mogli-stat-prichinoj-otmenyi-vyihoda-gta-6-v-yuzhnoj-koree-vinovata-utechka-gejmpleya/",
   "skip:https://www.igromania.ru/news/169884/stsenarist-baldurs-gate-3-prisoedinilsya-k-sozdaniyu-onlajn-igryi-po-vedmaku/",
   "skip:https://www.ign.com/articles/pocketpair-gives-employees-five-days-leave-to-play-gta-6",
@@ -998,5 +994,9 @@
   "title:Rockstar изучала реальные аварии и участвовала в гонках, чтобы улучшить физику транспорта в GTA VI",
   "skip:https://stopgame.ru/newsdata/73604/debora_enn_uoll_vernetsya_k_roli_fey_v_seriale_po_god_of_war",
   "https://gamemag.ru/news/202274/doom-the-dark-ages-was-originally-planned-as-xbox-exclusive",
-  "title:DOOM: The Dark Ages задумывалась в качестве консольного эксклюзива Xbox Series X|S"
+  "title:DOOM: The Dark Ages задумывалась в качестве консольного эксклюзива Xbox Series X|S",
+  "skip:https://variety.com/2026/film/global/bifa-awards-craft-winners-announced-1236956841/",
+  "skip:https://kg-portal.ru/comments/135942-skazka-ospjaschej-carevne-isemi-bogatyrjah-sarika-andreasjana-otsnjata/",
+  "https://kg-portal.ru/comments/135949-devid-fincher-do-sih-por-uveren-chto-sjuzhet-chuzhogo-3-byl-otlichnym-hotja-by-na-urovne-idei/",
+  "title:Дэвид Финчер до сих пор уверен, что сюжет \"Чужого 3\" был отличным хотя бы на уровне идеи"
 ]

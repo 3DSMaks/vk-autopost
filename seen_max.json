@@ -1,7 +1,4 @@
 [
-  "skip:https://www.playground.ru/misc/news/osnovatel_nvidia_dzhensen_huang_ushyol_iz_kompanii_posle_serii_gromkih_skandalov-1890053#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.playground.ru/gta_6/news/kollektsionnoe_izdanie_gta_6_zasvetilos_v_manchestere_na_karte_vidny_novye_lokatsii-1890038#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.pcgamer.com/hardware/if-jensen-huang-goes-who-could-replace-him-heres-who-the-board-might-pick-if-the-nvidia-ceo-is-ousted-in-the-wake-of-affair-scandals/",
   "skip:https://www.pcgamer.com/hardware/this-would-be-an-apple-firing-steve-jobs-level-of-idiocy-says-tim-sweeney-at-the-idea-of-ousting-jensen-huang-while-elon-musk-says-it-would-be-an-honor-to-hire-the-nvidia-chief/",
   "skip:https://www.ign.com/articles/new-gta-6-surprise-gameplay-seemingly-released-in-yet-another-viral-marketing-stunt",
   "skip:https://www.ign.com/articles/gta-6-fans-think-a-beloved-legacy-character-from-a-previous-game-is-hiding-in-the-latest-trailer",
@@ -998,5 +995,8 @@
   "https://www.playground.ru/starfield/news/starfield_poluchila_krupnuyu_skidku_50_v_steam_aktsiya_rasprostranyaetsya_na_standartnoe_i_premialnoe_izdaniya_igry-1893398#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Starfield получила крупную скидку 50% в Steam - акция распространяется на стандартное и премиальное издания игры",
   "https://variety.com/2026/film/news/adam-driver-x-men-mister-sinister-seth-meyers-marvel-1236956786/",
-  "title:Adam Driver Teases His ‘X-Men’ Villain Mister Sinister to Seth Meyers"
+  "title:Adam Driver Teases His ‘X-Men’ Villain Mister Sinister to Seth Meyers",
+  "skip:https://gamemag.ru/news/202266/final-fantasy-vii-revelation-poluchila-vozrastnoy-reyting-13",
+  "https://gamemag.ru/news/202280/max-payne-news-update",
+  "title:Remedy Entertainment в восторге от сотрудничества с Rockstar Games — разработка ремейков Max Payne проходит хорошо"
 ]

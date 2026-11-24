@@ -1,10 +1,4 @@
 [
-  "skip:https://www.film.ru/news/reynolds-i-dzhekman-v-scenaristah-mstiteley",
-  "skip:https://www.kinonews.ru/news_144130/",
-  "skip:https://kg-portal.ru/comments/135765-hju-dzhekman-i-rajan-rejnolds-prolezli-v-doktora-duma-v-samom-nepredskazuemom-meste/",
-  "skip:https://www.kinonews.ru/news_144126/",
-  "skip:https://kg-portal.ru/comments/135764-jarkij-animacionnyj-nuar-rej-gann-raskryvaet-svoj-mir-vnovom-trejlere/",
-  "https://www.film.ru/news/novyy-treyler-detey-krovi-i-kostey",
   "title:Новый трейлер Детей крови и костей",
   "skip:https://www.film.ru/news/treyler-gatto-pixar",
   "https://www.kinonews.ru/news_144133/",
@@ -998,5 +992,11 @@
   "title:Второй сезон Бабы-яги",
   "skip:https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-monday-1237231975/",
   "https://kg-portal.ru/comments/135954-komne-komanda-iks-russkij-trejler-filma-mstiteli-doktor-dum/",
-  "title:\"Ко мне, команда Икс\": русский трейлер фильма \"Мстители: Доктор Дум\""
+  "title:\"Ко мне, команда Икс\": русский трейлер фильма \"Мстители: Доктор Дум\"",
+  "skip:https://www.igromania.ru/news/170195/sozdateli-atomic-heart-predstavili-tizer-shutera-the-cube-s-robo-cherepahami-i-letayuschim-kubom/",
+  "skip:https://www.playground.ru/the_cube/news/razrabotchiki_atomic_heart_opublikovali_novyj_tizer_mmo_shutera_the_cube-1893546#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://stopgame.ru/newsdata/73613/ciri_mozhet_prinimat_bolee_zhestokie_resheniya_kak_smena_protagonista_povliyaet_na_kvesty_v_the_witcher_iv",
+  "skip:https://www.igromania.ru/news/170190/intergalactic-the-heretic-prophet-mozhet-vyijti-v-kontse-2027-goda/",
+  "https://stopgame.ru/newsdata/73614/insayd_reliz_intergalactic_the_heretic_prophet_planiruetsya_v_konce_2027_goda",
+  "title:Инсайд — релиз Intergalactic: The Heretic Prophet планируется в конце 2027 года"
 ]

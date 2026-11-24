@@ -1,13 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9126355",
-  "skip:https://news.google.com/rss/articles/CBMiygFBVV95cUxPejRoNTB3Y2hjdXRxMmNON0lac2xkWldNSmQ5RXFTM0NrMDFJaEE3QWxsOHJoYTgwLTFUN1A5MGRkU0h6ejNsLXdraFB0MjhNTkVROEJjNG5WWm00azhpbUNDN2FRUW1uRXplazJmU08za2gtYlc0bEc5bk9XMEpfbndzU3VVTVB3LUNyR3llYW1rdkI5UmtzeFNsZmhNNllGY3g1WnF5ZDZpLTRGZ0Q5RUstaGJuSnFESFJCZ2d0RG41RDcyZW9QZmV3?oc=5",
-  "https://ria.ru/20261120/polsha-2132959003.html",
-  "title:Минобороны Польши заявило о нарушении воздушного пространства страны российскими ракетами и беспилотником",
-  "skip:https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss",
-  "https://www.interfax.ru/world/1130458",
-  "title:Еврокомиссия выделила Украине почти 8 млрд евро для финансовой поддержки",
-  "skip:https://www.kommersant.ru/doc/9126389",
-  "skip:https://news.google.com/rss/articles/CBMiowFBVV95cUxNajRXTHhZYWVPNm9uQUZBMlZjZTVTWjZWRjd6WFg2cDV3VzdhbWZESUhCdm1ibVB5SGhOUi1USWxDbEJFb3NUTjkzc2tsTTh2dHZocXBCNHRBdGdYZE9CV3A3am1heTYycWxNRjN6UEZFWk1ZZ042MFN2Rmgta3Q0NVpVSk5yb1JnTjhwLXdzTllZektMeWp1T0VVUW40ZE9zMnc0?oc=5",
   "https://ria.ru/20261120/frantsiya-2132972820.html",
   "title:Доминик де Вильпен объявил о выдвижении своей кандидатуры на президентских выборах во Франции",
   "skip:https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine",
@@ -998,5 +989,14 @@
   "title:Минобороны РФ сообщило о взятии под контроль села Барвиновка в Запорожской области",
   "skip:https://tass.ru/proisshestviya/28348983",
   "https://www.kommersant.ru/doc/9128894",
-  "title:У побережья ОАЭ атакован и загорелся сухогруз"
+  "title:У побережья ОАЭ атакован и загорелся сухогруз",
+  "skip:https://www.kommersant.ru/doc/9128910",
+  "https://www.interfax.ru/world/1130992",
+  "title:ВМС Ирана сообщили о подрыве двух танкеров на минах в Ормузском проливе",
+  "skip:https://www.rbc.ru/politics/24/11/2026/6b05592ceec4f5ad5828899f",
+  "skip:https://www.kommersant.ru/doc/9128902",
+  "skip:https://ria.ru/20261124/zakharova--2133588308.html",
+  "skip:https://www.interfax.ru/russia/1130984",
+  "https://tass.ru/politika/28349135",
+  "title:МИД России опроверг сообщения о высылке российских дипломатов с Кипра"
 ]

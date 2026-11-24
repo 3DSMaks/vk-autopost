@@ -1,11 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28341499",
-  "skip:https://www.rbc.ru/politics/21/11/2026/6b00b94be852c8ecfdb011cb",
-  "https://ria.ru/20261121/brazilija-2133075815.html",
-  "title:Экс-президента Бразилии Жаира Болсонару снова госпитализировали из-за болей в животе",
-  "skip:https://ria.ru/20261121/shvejtsarija-2133071511.html",
-  "https://tass.ru/mezhdunarodnaya-panorama/28341525",
-  "title:В Швейцарии десятки тысяч человек вышли на акции против военного бюджета",
   "skip:https://ria.ru/20261121/er-rijad-2133076146.html",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28341531",
   "skip:https://ria.ru/20261121/er-rijad-2133075468.html",
@@ -998,5 +991,12 @@
   "skip:https://tass.ru/politika/28351253",
   "skip:https://ria.ru/20261125/putin-2133732775.html",
   "https://www.interfax.ru/world/1131145",
-  "title:Президент России Владимир Путин проведет переговоры с султаном Брунея"
+  "title:Президент России Владимир Путин проведет переговоры с султаном Брунея",
+  "skip:https://www.interfax.ru/world/1131150",
+  "https://www.kommersant.ru/doc/9129771",
+  "title:ЦРУ и Национальная разведка США сообщили о взломе электронных систем",
+  "skip:https://news.google.com/rss/articles/CBMimAFBVV95cUxQZWtkSWZheUoxZG9WeXhxQmEtNFUySnZraXdadXdHQzRsaDdqbldkRUdOMXRZRngwT3VjMXFVYXBVU0lYZG8ySmRzelRsZzRKWFZNbDBzc2FOaVdFRDlfN2Y5b1NET0lLajYzTmVEWXVha29URkZLSGdiMGx1VXFtOU4yM3lpdWpVU3NqbjhkRGRobHNTdTdKLQ?oc=5",
+  "skip:https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets?traffic_source=rss",
+  "https://ria.ru/20261125/ssha-2133741609.html",
+  "title:Американский суд признал компанию Huawei виновной по делу о краже коммерческой тайны"
 ]

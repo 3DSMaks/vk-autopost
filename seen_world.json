@@ -1,8 +1,4 @@
 [
-  "skip:https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
-  "skip:https://www.interfax.ru/world/1130529",
-  "https://www.interfax.ru/world/1130530",
-  "title:Йеменские хуситы нанесли удары по объектам инфраструктуры в Саудовской Аравии",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28341499",
   "skip:https://www.rbc.ru/politics/21/11/2026/6b00b94be852c8ecfdb011cb",
   "https://ria.ru/20261121/brazilija-2133075815.html",
@@ -998,5 +994,9 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28351229",
   "skip:https://news.google.com/rss/articles/CBMitgFBVV95cUxPMEY3TVFidy1CMzFaVE9HN09yYWVNX25JZ0hKNkhmVmJYMFhNdDQyd2k5TzFHWkhhUjFrbzBiSkIxWkZZREdEZ2Z2b2QwVFhDVEtEYzNuc19LWGd4SkdaMjRuZFVWVjJjMXR0MGwyNWRvOFZCVjdPYUVCaUJzbEpkVmtNWjJQalR2UlVfVVdEUElpZTR1Z0FnVW51alF3SkppOXdWNThkUU84bEgxalNDeTRkaVR5QQ?oc=5",
   "https://ria.ru/20261124/utechka-2133731949.html",
-  "title:Спецслужбы США сообщили об утечке данных из систем ЦРУ и Нацразведки"
+  "title:Спецслужбы США сообщили об утечке данных из систем ЦРУ и Нацразведки",
+  "skip:https://tass.ru/politika/28351253",
+  "skip:https://ria.ru/20261125/putin-2133732775.html",
+  "https://www.interfax.ru/world/1131145",
+  "title:Президент России Владимир Путин проведет переговоры с султаном Брунея"
 ]

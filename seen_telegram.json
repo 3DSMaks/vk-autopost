@@ -1,6 +1,4 @@
 [
-  "skip:https://www.film.ru/news/skydance-mozhet-prodat-dc-radi-sokrashcheniya-dolgov",
-  "skip:https://www.kinonews.ru/news_144107/",
   "https://variety.com/2026/film/global/kaylee-hottle-sister-last-movie-1236946065/",
   "title:Kaylee Hottle’s Sister Will Step in to Complete ‘Godzilla’ Actor’s Last Movie After Her Death at 18 Years Old",
   "skip:https://www.film.ru/news/kak-ograbit-bank-devida-litcha-razdelil-kritikov",
@@ -998,5 +996,7 @@
   "skip:https://kg-portal.ru/comments/135943-stiven-spilberg-ustroit-killianu-merfi-i-dzhessi-bakli-veseluju-zhizn-v-svoem-vesterne/",
   "https://kg-portal.ru/comments/135949-devid-fincher-do-sih-por-uveren-chto-sjuzhet-chuzhogo-3-byl-otlichnym-hotja-by-na-urovne-idei/",
   "video:2026-11-24:https://kg-portal.ru/comments/135949-devid-fincher-do-sih-por-uveren-chto-sjuzhet-chuzhogo-3-byl-otlichnym-hotja-by-na-urovne-idei/",
-  "title:Дэвид Финчер до сих пор уверен, что сюжет \"Чужого 3\" был отличным хотя бы на уровне идеи"
+  "title:Дэвид Финчер до сих пор уверен, что сюжет \"Чужого 3\" был отличным хотя бы на уровне идеи",
+  "https://www.kinonews.ru/news_144291/",
+  "title:Киллиан Мерфи и Джесси Бакли возглавят вестерн Стивена Спилберга"
 ]

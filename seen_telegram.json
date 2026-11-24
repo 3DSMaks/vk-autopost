@@ -1,11 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135721-novye-filmy-1622-nojabrja-2026-goda23-nazvanija-i-drugie-novinki-kino/",
-  "https://www.film.ru/news/treyler-multfilma-tri-bogatyrya-i-gusi-lebedi",
-  "title:Трейлер мультфильма «Три богатыря и гуси-лебеди»",
-  "skip:https://www.playground.ru/project_sirius/news/cd_projekt_red_nanyala_stsenarista_baldurs_gate_3_dlya_razrabotki_multipleernogo_proekta_po_the_witcher-1890063#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169884/stsenarist-baldurs-gate-3-prisoedinilsya-k-sozdaniyu-onlajn-igryi-po-vedmaku/",
-  "skip:https://www.pcgamer.com/hardware/graphics-cards/jensen-huang-resigns-cfo-colette-kress-appointed-interim-ceo-at-nvidia/",
-  "skip:https://www.playground.ru/misc/news/po_dannym_insajdera_eschyo_17_igr_s_originalnoj_xbox_mogut_byt_portirovany_na_pk-1890061#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://gamemag.ru/news/202110/kurtku-povesili-na-gvozd-nvidia-obyavila-ob-ostavke-djensena-huanga",
   "skip:https://www.pcgamer.com/hardware/live/news/nvidia-jen-hsun-scandal/",
   "skip:https://stopgame.ru/newsdata/73476/utechka_esche_17_igr_s_xbox_poyavyatsya_na_pk_po_obratnoy_sovmestimosti",
@@ -998,5 +991,12 @@
   "title:Киллиан Мерфи и Джесси Бакли возглавят вестерн Стивена Спилберга",
   "skip:https://gamemag.ru/news/202269/ko-mne-moi-lyudi-iks-finalnyy-treyler-filma-mstiteli-doktor-dum",
   "https://stopgame.ru/newsdata/73612/reliz_gta_vi_stal_samym_masshtabnym_v_istorii_playstation_bolee_39_mln_chelovek_na_ps5",
-  "title:Релиз GTA VI стал самым масштабным в истории PlayStation — более 39 млн человек на PS5"
+  "title:Релиз GTA VI стал самым масштабным в истории PlayStation — более 39 млн человек на PS5",
+  "skip:https://www.playground.ru/misc/news/valve_vypustila_proton_11_0_3_podderzhka_eschyo_15_igr_ispravlenie_crysis_na_novyh_protsessorah_amd_i_uluchsheniya_steam_deck-1893441#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/dead_or_alive_6/news/dead_or_alive_6_last_round_poluchila_besplatnyj_yubilejnyj_kontent_v_chest_30_letiya_serii-1893436#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/170181/v-dead-or-alive-6-dobavili-besplatnuyu-kosmetiku-v-chest-30-letiya-serii/",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/sony-gta-6-set-record-for-highest-number-of-concurrent-players-for-any-game-on-playstation-ever/",
+  "skip:https://www.ign.com/articles/call-of-dutys-player-count-dropped-by-over-40-following-gta-6s-release-according-to-analysts",
+  "https://stopgame.ru/newsdata/73610/v_dekabre_vyydet_vtoroe_dlc_dlya_nioh_3_a_v_yanvare_igra_poyavitsya_na_xbox_series",
+  "title:В декабре выйдет второе DLC для Nioh 3, а в январе игра появится на Xbox Series"
 ]

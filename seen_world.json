@@ -1,13 +1,4 @@
 [
-  "https://ria.ru/20261120/frantsiya-2132972820.html",
-  "title:Доминик де Вильпен объявил о выдвижении своей кандидатуры на президентских выборах во Франции",
-  "skip:https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine",
-  "skip:https://tass.ru/proisshestviya/28340279",
-  "skip:https://www.interfax.ru/world/1130465",
-  "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-  "title:Минобороны Польши заявило о падении российских ракет и дрона на территории страны",
-  "skip:https://www.sport-interfax.ru/1130469",
-  "skip:https://www.kommersant.ru/doc/9126435",
   "https://www.aljazeera.com/sports/2026/11/20/nations-league-knockouts-spain-france-england-norway-quarterfinals?traffic_source=rss",
   "title:Определились пары четвертьфиналистов Лиги наций УЕФА",
   "skip:https://ria.ru/20261120/politolog-2132979419.html",
@@ -998,5 +989,14 @@
   "skip:https://ria.ru/20261124/zakharova--2133588308.html",
   "skip:https://www.interfax.ru/russia/1130984",
   "https://tass.ru/politika/28349135",
-  "title:МИД России опроверг сообщения о высылке российских дипломатов с Кипра"
+  "title:МИД России опроверг сообщения о высылке российских дипломатов с Кипра",
+  "skip:https://tass.ru/ekonomika/28349305",
+  "skip:https://ria.ru/20261124/gosduma--2133599896.html",
+  "https://www.rbc.ru/economics/24/11/2026/6b054643609a68053f9532fa",
+  "title:Госдума приняла федеральный бюджет на 2027–2029 годы в третьем чтении",
+  "skip:https://www.interfax.ru/russia/1131001",
+  "skip:https://ria.ru/20261124/raketa-2133598304.html",
+  "skip:https://tass.ru/kosmos/28349273",
+  "https://tass.ru/kosmos/28349303",
+  "title:Ракета-носитель «Союз-2.1б» с грузовым кораблем «Прогресс МС-36» стартовала с Байконура"
 ]

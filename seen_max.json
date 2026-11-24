@@ -1,10 +1,4 @@
 [
-  "skip:https://www.playground.ru/misc/news/pochti_trillion_dollarov_isparilsya_nvidia_perezhivaet_odin_iz_krupnejshih_obvalov_v_svoej_istorii-1890077#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://stopgame.ru/newsdata/73477/dzhensen_huang_uhodit_v_otstavku_nvidia_ischet_novogo_generalnogo_direktora",
-  "skip:https://www.pcgamer.com/hardware/graphics-cards/jensen-huang-resigns-cfo-colette-kress-appointed-interim-ceo-at-nvidia/",
-  "skip:https://gamemag.ru/news/202110/kurtku-povesili-na-gvozd-nvidia-obyavila-ob-ostavke-djensena-huanga",
-  "skip:https://www.pcgamer.com/hardware/live/news/nvidia-jen-hsun-scandal/",
-  "https://stopgame.ru/newsdata/73473/intergalactic_the_heretic_prophet_pereshla_na_finalnyy_etap_proizvodstva",
   "title:Intergalactic: The Heretic Prophet перешла на финальный этап производства",
   "skip:https://www.playground.ru/misc/news/pc_gaming_show_2026_most_wanted_projdyot_3_dekabrya_organizatory_obeschayut_pokazat_bolee_70_igr-1890103#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.pcgamer.com/gaming-industry/events-conferences/award-winning-presenter-frankie-ward-returns-to-bring-you-this-years-pc-gaming-show-most-wanted/",
@@ -998,5 +992,11 @@
   "https://gamemag.ru/news/202271/rockstar-games-vypustila-pervoe-obnovlenie-grand-theft-auto-vi",
   "title:Rockstar Games выпустила первое обновление Grand Theft Auto VI",
   "https://kg-portal.ru/comments/135948-vozrastnaja-diskriminacija-sorvigolove-charli-koksu-otkazali-v-probah-na-dzhejmsa-bonda-hotja-on-odnogo-vozrasta-s-robertom-pattinsonom/",
-  "title:Возрастная дискриминация: Сорвиголове Чарли Коксу отказали в пробах на Джеймса Бонда, хотя он одного возраста с Робертом Паттинсоном"
+  "title:Возрастная дискриминация: Сорвиголове Чарли Коксу отказали в пробах на Джеймса Бонда, хотя он одного возраста с Робертом Паттинсоном",
+  "skip:https://www.igromania.ru/news/170188/okolo-milliona-fanatov-gta-6-uzhe-proveli-v-igre-bolshe-50-chasov-zayavili-analitiki/",
+  "skip:https://www.ign.com/articles/here-are-all-of-the-best-clips-from-the-worlds-first-weekend-with-gta-6",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/gta-6-players-found-a-60-fps-glitch-but-its-too-unstable-to-stop-me-from-wishing-it-was-on-pc-already/",
+  "skip:https://gamemag.ru/news/202276/bag-xbox-pozvolyaet-zapuskat-gta-vi-v-rejime-60-fps-no-est-nyuans",
+  "https://www.playground.ru/gta_6/news/rockstar_izuchala_realnye_avarii_i_uchastvovala_v_gonkah_chtoby_uluchshit_fiziku_transporta_v_gta_vi-1893453#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Rockstar изучала реальные аварии и участвовала в гонках, чтобы улучшить физику транспорта в GTA VI"
 ]

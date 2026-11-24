@@ -1,10 +1,4 @@
 [
-  "title:Хакеры похитили данные тысяч клиентов Visa, Mastercard и JPMorgan Chase",
-  "skip:https://www.rbc.ru/rbcfreenews/6affc5e9481efceb16073023",
-  "https://www.kommersant.ru/doc/9114292",
-  "title:Самолет «Судного дня» сопровождал президентский кортеж Дональда Трампа во время поездки в Азию",
-  "skip:https://www.interfax.ru/russia/1130375",
-  "skip:https://www.kommersant.ru/doc/9114404",
   "skip:https://www.interfax.ru/russia/1130367",
   "skip:https://www.interfax.ru/russia/1130364",
   "skip:https://www.interfax.ru/russia/1130363",
@@ -998,5 +992,11 @@
   "title:В КНДР предложили закрыть посольство Швейцарии в Пхеньяне из-за санкций",
   "skip:https://www.interfax.ru/world/1130896",
   "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
-  "title:КСИР заявил о подрыве трех танкеров в районе Ормузского пролива"
+  "title:КСИР заявил о подрыве трех танкеров в районе Ормузского пролива",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28347569",
+  "https://ria.ru/20261124/bolsonaru-2133519010.html",
+  "title:Бывшему президенту Бразилии Жаиру Болсонару диагностировали двустороннюю пневмонию",
+  "skip:https://news.google.com/rss/articles/CBMizgFBVV95cUxNVjR1WG9RTVdfSTNnS1RTOWcwVlhpeGMtaUdMZGVIU1I0ZWt1ZlhtQ2F1ODJZOEwxVzB2ZHBYNDIxMkEtdjdMY1Z2X050QjY2VjYwR1VmTDZSbWxiQTNwZ09nZTRHYzdweXEzajYxcnZxTUp3eWdSdEtvX2RMTllnY205N3VoTlJnTEQtOEYySEVHNDZMa0p5bHdPWG9KTUw1Zzg3VnZuVEVGV3czanhjQUJxdDNqTXFvMXlZT1k4bmlQYkJfYXUya0lsbzRoUQ?oc=5",
+  "https://ria.ru/20261124/ssha-2133519698.html",
+  "title:США подозревают Иран в причастности к кибератакам на суда"
 ]

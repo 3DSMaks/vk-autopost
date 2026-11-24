@@ -1,14 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/software/ai/nvidia-ceo-jensen-huang-allegedly-had-a-second-affair-with-another-nvidia-exec/",
-  "skip:https://gamemag.ru/news/202097/proklyatie-emi-hennig-insayder-soobshchil-ob-otmene-marvel-1943-rise-of-hydra",
-  "https://stopgame.ru/newsdata/73470/resident_evil_requiem_stala_igroy_goda_na_golden_joystick_awards_2026",
-  "title:Resident Evil Requiem стала игрой года на Golden Joystick Awards 2026",
-  "https://www.playground.ru/witcher_3_wild_hunt/news/v_cd_projekt_red_priznalis_chto_boyalis_isportit_magiyu_pri_rabote_nad_remasterom_the_witcher_3-1890029#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:В CD Projekt RED признались, что боялись \"испортить магию\" при работе над ремастером The Witcher 3",
-  "https://www.igromania.ru/news/169880/gta-v-teorii-mozhet-pokinut-ssha-no-poka-nas-zhdyot-dzhejson-s-pivom-i-ponchikom-svezhie-detali/",
-  "title:GTA в теории может «покинуть» США, но пока нас ждёт «Джейсон с пивом и пончиком» — свежие детали",
-  "skip:https://www.film.ru/news/genri-kavill-rasskazal-o-seriale-warhammer-40000",
-  "https://kg-portal.ru/comments/135750-zlodej-imhotep-izpervoj-mumii-vernetsja-vnovom-filme-molodym-izdorovym-votlichie-otbrendana-frejzera-irejchel-vajs/",
   "title:Злодей Имхотеп из первой \"Мумии\" вернётся в новом фильме молодым и здоровым, в отличие от Брендана Фрейзера и Рэйчел Вайс",
   "skip:https://www.igromania.ru/news/169883/dzhensena-huanga-uvolili-iz-nvidia-na-fone-skandala-s-kitajskoj-shpionkoj/",
   "skip:https://www.playground.ru/misc/news/osnovatel_nvidia_dzhensen_huang_ushyol_iz_kompanii_posle_serii_gromkih_skandalov-1890053#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +988,15 @@
   "title:Steven Spielberg Sets Adaptation Of ‘The Heart In Winter’ As Next Film At Focus With Jessie Buckley, Cillian Murphy And Mark Rylance Starring And Paul",
   "skip:https://kg-portal.ru/comments/135943-stiven-spilberg-ustroit-killianu-merfi-i-dzhessi-bakli-veseluju-zhizn-v-svoem-vesterne/",
   "https://www.film.ru/news/doktor-dum-bez-globusa-i-bafta",
-  "title:Доктор Дум без Глобуса и BAFTA"
+  "title:Доктор Дум без Глобуса и BAFTA",
+  "skip:https://www.igromania.ru/news/170177/gejmdirektor-naughty-dog-sravnil-gta-6-s-egipetskimi-piramidami/",
+  "skip:https://www.igromania.ru/news/170173/razrabotka-cyberpunk-2-otmenyaetsya-iz-za-vyizvannoj-gta-6-depressii-poshutili-v-cdpr/",
+  "skip:https://www.ign.com/articles/gta-6-was-biggest-launch-in-playstation-history",
+  "skip:https://stopgame.ru/newsdata/73609/smi_microsoft_hotela_otkazatsya_ot_platnogo_multipleera_na_xbox_helix",
+  "skip:https://gamemag.ru/news/202281/more-than-39-million-unique-players-have-played-grand-theft-auto-vi-on-ps5-highest-ever-ccu-on-plays",
+  "skip:https://gamemag.ru/news/202273/debora-enn-uoll-vernetsya-k-roli-jeny-kratosa-v-ekranizacii-god-of-war",
+  "skip:https://www.pcgamer.com/games/cyberpunk-2-creative-director-says-hes-suffering-from-gta-6-induced-open-world-game-dev-depression-jokes-that-cyberpunk-2-is-cancelled/",
+  "skip:https://gamemag.ru/news/202278/windows-central-xbox-helix-was-reportedly-going-to-kill-paid-multiplayer-and-embrace-steam-but-that",
+  "https://www.playground.ru/starfield/news/starfield_poluchila_krupnuyu_skidku_50_v_steam_aktsiya_rasprostranyaetsya_na_standartnoe_i_premialnoe_izdaniya_igry-1893398#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Starfield получила крупную скидку 50% в Steam - акция распространяется на стандартное и премиальное издания игры"
 ]

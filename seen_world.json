@@ -1,7 +1,4 @@
 [
-  "title:США и Китай договорились о необходимости участия человека в принятии решений об использовании искусственного интеллекта в военных операциях",
-  "skip:https://www.interfax.ru/world/1130521",
-  "https://www.kommersant.ru/doc/9126692",
   "title:Дональд Трамп заявил о неготовности обсуждать гарантии безопасности для Украины до завершения конфликта",
   "skip:https://www.kommersant.ru/doc/9126685",
   "https://www.rbc.ru/rbcfreenews/6b00955fcaea19dc5115ced7",
@@ -998,5 +995,8 @@
   "title:Александр Лукашенко предложил стать гарантом безопасности при визите Владимира Зеленского в Москву",
   "skip:https://www.interfax.ru/russia/1131118",
   "https://ria.ru/20261124/mid-2133717491.html",
-  "title:МИД России приветствовал выход Таджикистана из Римского статута МУС"
+  "title:МИД России приветствовал выход Таджикистана из Римского статута МУС",
+  "skip:https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
+  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSXZBS09QMlM1QmpzUzEwRGJQcEFnVFhndmh4VmlTeG9fcm15UzNpTE9Ua2FCQTE1WDBtd21EWlVIWUhYWS1IRlllMDlHUmstcjhteUQ5TlBhNkVjZGN4S0FWVHVKN2l0eXNyLWR2TncwSFlMVnBvVW1XT3N0TWpIUklJd1ZuLXFaSFk2T1BlUERIY0xtNk43MDU4N29aOHBVdWUwcnU4bjk0TVFFTXpSSFVrcU9URUNIRDRPUFR6Y244ck53OEh4d1daWjRRMkhfcWc?oc=5",
+  "title:Вооруженные преступники захватили заложников в супермаркете в Картахене"
 ]

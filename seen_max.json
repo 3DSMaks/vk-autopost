@@ -1,8 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169887/penisyi-mogli-stat-prichinoj-otmenyi-vyihoda-gta-6-v-yuzhnoj-koree-vinovata-utechka-gejmpleya/",
-  "skip:https://www.igromania.ru/news/169884/stsenarist-baldurs-gate-3-prisoedinilsya-k-sozdaniyu-onlajn-igryi-po-vedmaku/",
-  "skip:https://www.ign.com/articles/pocketpair-gives-employees-five-days-leave-to-play-gta-6",
-  "https://www.playground.ru/world_of_warcraft/news/veduschie_razrabotchiki_world_of_warcraft_publichno_priznali_tvorcheskij_tupik_aktualnoj_versii_igry-1890126#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Ведущие разработчики World of Warcraft публично признали творческий тупик актуальной версии игры",
   "skip:https://www.film.ru/news/rey-gann-poluchil-novyy-treyler",
   "skip:https://www.film.ru/news/bred-pitt-v-roli-montazhnika",
@@ -998,5 +994,9 @@
   "skip:https://variety.com/2026/film/global/bifa-awards-craft-winners-announced-1236956841/",
   "skip:https://kg-portal.ru/comments/135942-skazka-ospjaschej-carevne-isemi-bogatyrjah-sarika-andreasjana-otsnjata/",
   "https://kg-portal.ru/comments/135949-devid-fincher-do-sih-por-uveren-chto-sjuzhet-chuzhogo-3-byl-otlichnym-hotja-by-na-urovne-idei/",
-  "title:Дэвид Финчер до сих пор уверен, что сюжет \"Чужого 3\" был отличным хотя бы на уровне идеи"
+  "title:Дэвид Финчер до сих пор уверен, что сюжет \"Чужого 3\" был отличным хотя бы на уровне идеи",
+  "skip:https://www.kinonews.ru/news_144290/",
+  "skip:https://www.film.ru/news/razgrom-novogo-znakomstva-s-fakerami",
+  "https://www.film.ru/news/vtoroy-sezon-baby-yagi",
+  "title:Второй сезон Бабы-яги"
 ]

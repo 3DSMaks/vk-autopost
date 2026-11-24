@@ -1,6 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169885/polskij-golos-geralta-iz-vedmaka-raskryil-etichnyij-sposob-ispolzovat-ii-v-ozvuchke/",
-  "skip:https://stopgame.ru/newsdata/73479/cdpr_primenila_ii_v_polskoy_versii_ballad_proshlogo_chtoby_podpravit_izmenivshiysya_golos_aktera",
   "skip:https://www.playground.ru/misc/news/pochti_trillion_dollarov_isparilsya_nvidia_perezhivaet_odin_iz_krupnejshih_obvalov_v_svoej_istorii-1890077#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://stopgame.ru/newsdata/73477/dzhensen_huang_uhodit_v_otstavku_nvidia_ischet_novogo_generalnogo_direktora",
   "skip:https://www.pcgamer.com/hardware/graphics-cards/jensen-huang-resigns-cfo-colette-kress-appointed-interim-ceo-at-nvidia/",
@@ -998,5 +996,7 @@
   "skip:https://www.igromania.ru/news/170181/v-dead-or-alive-6-dobavili-besplatnuyu-kosmetiku-v-chest-30-letiya-serii/",
   "skip:https://www.pcgamer.com/games/grand-theft-auto/sony-gta-6-set-record-for-highest-number-of-concurrent-players-for-any-game-on-playstation-ever/",
   "https://gamemag.ru/news/202271/rockstar-games-vypustila-pervoe-obnovlenie-grand-theft-auto-vi",
-  "title:Rockstar Games выпустила первое обновление Grand Theft Auto VI"
+  "title:Rockstar Games выпустила первое обновление Grand Theft Auto VI",
+  "https://kg-portal.ru/comments/135948-vozrastnaja-diskriminacija-sorvigolove-charli-koksu-otkazali-v-probah-na-dzhejmsa-bonda-hotja-on-odnogo-vozrasta-s-robertom-pattinsonom/",
+  "title:Возрастная дискриминация: Сорвиголове Чарли Коксу отказали в пробах на Джеймса Бонда, хотя он одного возраста с Робертом Паттинсоном"
 ]

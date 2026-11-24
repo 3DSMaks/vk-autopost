@@ -1,11 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9126679",
-  "https://www.rbc.ru/rbcfreenews/6b00988a1d72e10990872cf8",
-  "title:Губернатор Санкт-Петербурга подписал закон о запрете розничной продажи вейпов",
-  "skip:https://www.rbc.ru/technology_and_media/20/11/2026/6b005b4333f2cdc46fcd91f6",
-  "https://news.google.com/rss/articles/CBMiswFBVV95cUxQclpUUXUwUkFoSGxUV0RoVjRkMjVpY2pFNzdTTXNGLVpsNTdzbmtIeWt1V3dvTkh5RG44RlBBbHMyZ3ltUXBBQlZWcDk0MnA5R2dfMXJvcVZBTjBiX3Ytb1RNZXdHa1NMY0xBOTFjZTRfa3prSVlfUml5MTQ3QmFuMWFOc2Z4ay1wRnFOeTBzZUJNN29qZktuakpTaUE2ZTB2SFQyVmZOU3VSN250MWRkRzVtQQ?oc=5",
-  "title:Продажи видеоигры GTA VI в первый день превысили миллиардные отметки",
-  "skip:https://ria.ru/20261120/rumynija-2133068620.html",
   "skip:https://ria.ru/20261120/posolstvo-2133067959.html",
   "skip:https://ria.ru/20261120/posolstvo-2133067518.html",
   "https://tass.ru/politika/28341431",
@@ -998,5 +991,12 @@
   "skip:https://tass.ru/proisshestviya/28351097",
   "skip:https://ria.ru/20261124/turtsiya-2133719387.html",
   "https://www.kommersant.ru/doc/9129740",
-  "title:В Турции при крушении военного вертолета погибли пять человек"
+  "title:В Турции при крушении военного вертолета погибли пять человек",
+  "skip:https://tass.ru/ekonomika/28351199",
+  "https://ria.ru/20261124/kaluga-2133727932.html",
+  "title:В аэропорту Калуги ввели временные ограничения на полеты",
+  "skip:https://tass.ru/proisshestviya/28351169",
+  "skip:https://www.rbc.ru/politics/24/11/2026/6b05c7136ebc0591b7bbf116",
+  "https://ria.ru/20261124/prokuratura-2133727560.html",
+  "title:Бывшему главе Тамбовской области Максиму Егорову запросили 14 лет колонии по делу о взятках"
 ]

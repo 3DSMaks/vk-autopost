@@ -1,7 +1,4 @@
 [
-  "title:По слухам, предзаказы GTA 6 превысили 11 млн копий - после старта предзагрузки игра продается по миллиону копий в день",
-  "skip:https://www.playground.ru/company_of_heroes_3/news/company_of_heroes_3_stala_vremenno_besplatnoj_v_steam_v_chest_20_letiya_serii-1890309#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169914/company-of-heroes-3-stala-vremenno-besplatnoj-v-steam-i-poluchila-krupnejshuyu-skidku/",
   "skip:https://www.ign.com/articles/gta-6s-burger-shot-restaurant-is-expanding-across-florida-with-real-meals-inspired-by-the-game",
   "https://stopgame.ru/newsdata/73486/dlc_revelations_dlya_doom_the_dark_ages_poluchit_rezhim_boynya_uzhe_na_sleduyuschey_nedele",
   "title:DLC Revelations для DOOM: The Dark Ages получит режим «Бойня» уже на следующей неделе",
@@ -998,5 +995,8 @@
   "title:На Prime Video вышел Бегущий по лезвию 2099",
   "skip:https://www.film.ru/news/makoley-kalkin-i-a24",
   "https://www.kinonews.ru/news_144326/",
-  "title:Lionsgate готова снять новые \"Голодные игры\""
+  "title:Lionsgate готова снять новые \"Голодные игры\"",
+  "skip:https://www.kinonews.ru/news_144322/",
+  "https://www.film.ru/news/kolca-vlasti-poluchat-4-sezon",
+  "title:Кольца власти получат 4 сезон"
 ]

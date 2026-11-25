@@ -1,8 +1,4 @@
 [
-  "skip:https://www.playground.ru/valheim/news/valheim_poluchit_sobstvennuyu_seriyu_komiksov_nad_istoriyami_o_vikingah_rabotayut_avtory_marvel_i_dc-1890291#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.ign.com/articles/gta-6s-burger-shot-restaurant-is-expanding-across-florida-with-real-meals-inspired-by-the-game",
-  "skip:https://www.pcgamer.com/games/rpg/new-4-minute-fable-gameplay-trailer-shows-a-game-that-doesnt-look-much-like-fable/",
-  "skip:https://www.ign.com/articles/valheim-is-getting-a-comic-book-series-and-it-looks-badass",
   "skip:https://www.ign.com/articles/fable-drops-four-minutes-of-new-gameplay",
   "https://www.playground.ru/gta_6/news/po_sluham_predzakazy_gta_6_prevysili_11_mln_kopij_posle_starta_predzagruzki_igra_prodaetsya_po_millionu_kopij_v_den-1890289#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:По слухам, предзаказы GTA 6 превысили 11 млн копий - после старта предзагрузки игра продается по миллиону копий в день",
@@ -998,5 +994,9 @@
   "skip:https://www.igromania.ru/news/170210/osnovannaya-v-2020-godu-studiya-veteranov-call-of-duty-i-titanfall-ostalas-bez-finansirovaniya/",
   "skip:https://www.playground.ru/misc/news/gravity_well_ne_perezhila_krizis_igrovoj_industrii_studiya_byvshih_razrabotchikov_apex_legends_uhodit_v_spyachku-1893710#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://stopgame.ru/newsdata/73623/smi_rockstar_gotova_prodat_prava_na_ekranizaciyu_red_dead_redemption_za_s100_mln",
-  "title:СМИ: Rockstar готова продать права на экранизацию Red Dead Redemption за $100+ млн"
+  "title:СМИ: Rockstar готова продать права на экранизацию Red Dead Redemption за $100+ млн",
+  "skip:https://www.igromania.ru/news/170215/finalnyij-trejler-mstitelej-doktor-dum-nabral-563-mln-prosmotrov-za-sutki-novyij-rekord-disney/",
+  "skip:https://www.playground.ru/misc/news/finalnyj_trejler_mstitelej_sudnyj_den_sobral_563_mln_prosmotrov_za_sutki_i_ustanovil_novyj_rekord_disney-1893724#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "https://www.ign.com/articles/crazy-secretive-gta-6-voice-actor-reveals-details-of-rockstars-humongous-nda",
+  "title:'Crazy Secretive' — GTA 6 Voice Actor Reveals Details of Rockstar's 'Humongous' NDA"
 ]

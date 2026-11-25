@@ -1,8 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73492/v_id_software_podtverdili_chto_rabotayut_nad_novoy_igroy",
-  "skip:https://www.pcgamer.com/games/fps/doom-studio-id-software-confirms-its-working-on-a-new-game/",
-  "skip:https://gamemag.ru/news/202116/chem-glubje-v-les-microsoft-pokazala-novyy-geympley-fable",
-  "skip:https://www.ign.com/articles/doom-developer-id-software-confirms-work-on-new-game-will-be-directed-by-hugo-martin",
   "skip:https://www.pcgamer.com/games/grand-theft-auto/south-korean-game-rating-board-almost-blocked-gta-6s-release-fearing-its-out-of-context-genital-nudity-would-disrupt-social-order/",
   "https://stopgame.ru/newsdata/73488/dlya_halo_campaign_evolved_anonsirovali_kontentnoe_obnovlenie_firefight",
   "title:Для Halo: Campaign Evolved анонсировали контентное обновление Firefight",
@@ -998,5 +994,9 @@
   "title:'Crazy Secretive' — GTA 6 Voice Actor Reveals Details of Rockstar's 'Humongous' NDA",
   "skip:https://www.film.ru/news/novyy-treyler-volshebnika-izumrudnogo-goroda-2",
   "https://www.kinonews.ru/news_144329/",
-  "title:Бюджет сиквела \"Супермена\" оценили в 330 миллионов долларов"
+  "title:Бюджет сиквела \"Супермена\" оценили в 330 миллионов долларов",
+  "skip:https://kg-portal.ru/comments/135968-absoljutno-netipichnoe-povedenie-finalnogo-trejlera-mstitelej-doktor-dum/",
+  "skip:https://www.film.ru/news/rekordnyy-treyler-doktora-duma",
+  "https://www.film.ru/news/na-prime-video-vyshel-begushchiy-po-lezviyu-2099",
+  "title:На Prime Video вышел Бегущий по лезвию 2099"
 ]

@@ -1,8 +1,4 @@
 [
-  "skip:https://deadline.com/2026/11/james-gunn-dc-studios-1237217532/",
-  "skip:https://variety.com/2026/film/news/david-ellison-dc-studios-james-gunn-peter-safran-1236943242/",
-  "https://deadline.com/2026/11/kristen-bell-frozen-nat-geo-disney-animation-series-1237217388/",
-  "title:Kristen Bell, Idina Menzel, Josh Gad & Jonathan Groff To Reprise ‘Frozen’ Roles In Nat Geo/Disney Animation Series",
   "skip:https://deadline.com/2026/11/david-byrne-daniel-pemberton-let-me-sell-you-a-dream-musk-1237216123/",
   "https://variety.com/2026/artisans/news/the-odyssey-samantha-morton-circe-hut-costume-1236943256/",
   "title:‘The Odyssey’ Artisans on Casting Samantha Morton as Circe, Creating Her Costume and Building Her Witchy Hut",
@@ -998,5 +994,9 @@
   "posted:2026-11-25T14:37:45+00:00",
   "skip:https://deadline.com/2026/11/ava-duvernay-london-critics-laura-mulvey-female-award-1237233191/",
   "https://www.film.ru/news/tizer-po-oskolkam-tvoego-serdca",
-  "title:Тизер По осколкам твоего сердца"
+  "title:Тизер По осколкам твоего сердца",
+  "posted:2026-11-25T17:01:47+00:00",
+  "skip:https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-prequel-hexed-previews-1236958028/",
+  "https://www.kinonews.ru/news_144337/",
+  "title:\"Дюна 3\" не будет претендовать на \"Золотой глобус\" в разделе кассовых хитов"
 ]

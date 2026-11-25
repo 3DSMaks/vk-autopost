@@ -1,9 +1,4 @@
 [
-  "skip:https://www.film.ru/articles/dzhessika-chesteyn-ubivaet-recenziya-na-horror-chuzhaya-mama",
-  "skip:https://variety.com/2026/film/news/heartland-review-jessica-chastain-1236946587/",
-  "skip:https://deadline.com/2026/11/new-friday-the-13th-movie-steve-miner-1237220585/",
-  "https://www.film.ru/news/pochetnyy-sezar-nikol-kidman",
-  "title:Почетный Сезар Николь Кидман",
   "https://kg-portal.ru/comments/135773-rezhisser-podarivshij-dzhejsonu-vurhizu-vse-znamenitye-prichindaly-snimet-novuju-pjatnicu-13e/",
   "title:Режиссёр, подаривший Джейсону Вурхизу все знаменитые причиндалы, снимет новую \"Пятницу, 13-е\"",
   "https://www.kinonews.ru/news_144139/",
@@ -998,5 +993,10 @@
   "video:2026-11-25:https://gamemag.ru/news/202291/insayder-soobshchil-sroki-vyhoda-intergalactic-the-heretic-prophet-ot-naughty-dog",
   "title:Инсайдер раскрыл сроки выхода PS5-эксклюзива Intergalactic: The Heretic Prophet от Naughty Dog",
   "https://www.kinonews.ru/news_144330/",
-  "title:Звезда \"Одного дома\" Маколей Калкин возвращается в кино"
+  "title:Звезда \"Одного дома\" Маколей Калкин возвращается в кино",
+  "skip:https://kg-portal.ru/comments/135970-volshebnik-izumrudnogo-goroda-velikij-i-uzhasnyj-tretij-trejler/",
+  "skip:https://www.film.ru/news/novyy-treyler-volshebnika-izumrudnogo-goroda-2",
+  "skip:https://kg-portal.ru/comments/135964-samyj-tjazhelyj-den-nedeli-stal-rekordnym-dlja-golodnyh-igr-rassvet-zhatvy/",
+  "https://www.film.ru/news/otryvok-vervulfa-roberta-eggersa",
+  "title:Отрывок Вервульфа Роберта Эггерса"
 ]

@@ -1,11 +1,4 @@
 [
-  "skip:https://deadline.com/2026/11/michael-mann-lawsuit-heat-rights-1237223655/",
-  "skip:https://variety.com/2026/film/news/michael-mann-new-regency-heat-screenplay-lawsuit-1236947532/",
-  "skip:https://www.film.ru/news/pattinson-v-favoritah-bondiany",
-  "skip:https://kg-portal.ru/comments/135777-dzhonni-depp-vernulsja-v-amerikanskie-kinoteatry-so-skazkoj-skrudzh-na-reklamu-filma-potratili-bolshe-chem-na-ego-proizvodstvo/",
-  "skip:https://kg-portal.ru/comments/135776-roberta-pattinsona-s-bolshim-trudom-ugovorili-na-tri-filma-o-dzhejmse-bonde-oficialno-on-poluchit-rol-pod-rozhdestvo/",
-  "skip:https://www.kinonews.ru/news_144146/",
-  "https://www.film.ru/news/rekord-finalnoy-serii-kvesta-vizhna",
   "title:Рекорд финальной серии Квеста Вижна",
   "skip:https://www.igromania.ru/news/169942/v-seti-pokazali-trek-list-gta-vi-the-album-trevis-skott-dzhenni-dua-lipa-rina-savayama-i-drugie/",
   "skip:https://www.playground.ru/gta_6/news/v_seti_poyavilis_izobrazheniya_s_predpolagaemym_polnym_spiskom_pesen_iz_gta_vi_the_album_nezadolgo_do_ofitsialnogo_reliza-1890559#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +991,12 @@
   "skip:https://stopgame.ru/newsdata/73628/servery_boevika_s_dinozavrami_exoprimal_otklyuchat_v_sentyabre_2027_go",
   "https://gamemag.ru/news/202293/rockstar-games-otkryta-k-sozdaniyu-ekranizacii-red-dead-redemption",
   "video:2026-11-25:https://gamemag.ru/news/202293/rockstar-games-otkryta-k-sozdaniyu-ekranizacii-red-dead-redemption",
-  "title:Rockstar Games открыта к созданию экранизации Red Dead Redemption — СМИ"
+  "title:Rockstar Games открыта к созданию экранизации Red Dead Redemption — СМИ",
+  "skip:https://www.ign.com/articles/the-witcher-4-and-all-cd-projekts-upcoming-games-remain-multiplatform-despite-playstation-marketing-deal-cd-projekt-boss-reassures",
+  "skip:https://gamemag.ru/news/202302/cdpr-claims-leap-to-witcher-4-is-comparable-to-leap-from-gta-5-to-gta-6",
+  "skip:https://www.ign.com/articles/take-two-appears-to-be-trying-to-scrub-gta-6-pc-ports-from-the-internet-as-vibecoders-race-toward-controversial-world-first",
+  "skip:https://stopgame.ru/newsdata/73627/take_two_prikryla_razrabotku_project_leonida_neoficialnogo_pk_porta_gta_vi",
+  "skip:https://www.ign.com/articles/max-verstappen-spent-40-hours-playing-gta-6-and-still-won-the-las-vegas-grand-prix",
+  "https://www.igromania.ru/news/170217/golos-etsio-iz-assassins-creed-gotov-vernutsya-k-rabote-nad-remejkami/",
+  "title:Голос Эцио из Assassinʼs Creed готов вернуться к работе над ремейками"
 ]

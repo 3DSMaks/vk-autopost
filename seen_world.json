@@ -1,9 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1130540",
-  "skip:https://www.interfax.ru/russia/1130539",
-  "skip:https://ria.ru/20261121/pulkovo-2133080297.html",
-  "https://www.kommersant.ru/doc/9126984",
-  "title:Над Ленинградской областью перехвачены десятки беспилотников, аэропорт Пулково ограничил работу",
   "skip:https://tass.ru/armiya-i-opk/28342069",
   "skip:https://www.interfax.ru/russia/1130562",
   "skip:https://ria.ru/20261121/bpla-2133103747.html",
@@ -998,5 +993,10 @@
   "title:Губернатор Мурманской области Андрей Чибис заключен под стражу",
   "skip:https://news.google.com/rss/articles/CBMifkFVX3lxTFBNcXpXLTF1eTY1YldYRm56UHVTNmllcGNCREQxZUVHTUxIdzJEUXYzc0Q3emhNWVh1NzdScFgtQV9WelJEX1RoVUVIY2VHN1MxMnByOHZ3VWF5VEJmRXFndjhqQWVOREl0OEdYSm53UVU4aDY3XzYyZnpocmpzZw?oc=5",
   "https://www.france24.com/en/americas/20261125-cyberattack-exposes-unclassified-information-from-cia-system-us-media-reports",
-  "title:Спецслужбы США сообщили об утечке данных из систем ЦРУ"
+  "title:Спецслужбы США сообщили об утечке данных из систем ЦРУ",
+  "skip:https://tass.ru/politika/28353815",
+  "skip:https://tass.ru/politika/28351963",
+  "skip:https://ria.ru/20261125/bruney-2133842898.html",
+  "https://ria.ru/20261125/putin-2133847486.html",
+  "title:Владимир Путин провел переговоры с султаном Брунея в Кремле"
 ]

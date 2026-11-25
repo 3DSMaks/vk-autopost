@@ -1,7 +1,4 @@
 [
-  "skip:https://ria.ru/20261121/tramp-2133159467.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28342665",
-  "https://www.interfax.ru/world/1130605",
   "title:Дональд Трамп заявил о стремлении заключить с Ираном бессрочное соглашение",
   "skip:https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdmhYX1ZWdmN5Qmhad0J5aldjNlVKQmZRNl83NkUtZzJYQUREN0ZxZ084TVdPMno0TXczUmFFNUw5MFZycHZwVTdHVy14WGlaR1NhQ2RTR0dJdkpfa0NEcHJ1OWxOcmpoT19CWXFZS3JPV2Z6TU1QeVlkaWFVbmlEVVBiMFFlVEdCUExyal9xYjZzbUZZQWo0VkFEbGlYQnUySTRzTGhLYnk5WlBRNGMxX1lXUFhLaWhUTXZrT2FqRDZvZ0dxLVZSaUViVXFjVDdKLWladzd2RkY?oc=5",
   "skip:https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
@@ -998,5 +995,8 @@
   "title:Владимир Путин и Касым-Жомарт Токаев провели переговоры в Кремле",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28355675",
   "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-  "title:В Каире в результате ДТП с бензовозом погибли 30 человек"
+  "title:В Каире в результате ДТП с бензовозом погибли 30 человек",
+  "skip:https://www.interfax.ru/world/1131442",
+  "https://www.rbc.ru/rbcfreenews/6b0755ca9144335a03e80529",
+  "title:Спецпосланник США Джаред Кушнер сделал новые заявления об урегулировании конфликта на Украине"
 ]

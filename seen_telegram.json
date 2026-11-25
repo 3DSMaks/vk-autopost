@@ -1,12 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/gta-6s-burger-shot-restaurant-is-expanding-across-florida-with-real-meals-inspired-by-the-game",
-  "https://stopgame.ru/newsdata/73486/dlc_revelations_dlya_doom_the_dark_ages_poluchit_rezhim_boynya_uzhe_na_sleduyuschey_nedele",
-  "title:DLC Revelations для DOOM: The Dark Ages получит режим «Бойня» уже на следующей неделе",
-  "skip:https://www.kinonews.ru/news_144125/",
-  "https://deadline.com/2026/11/chalamet-dune-part-three-prank-bbc-children-in-need-1237222621/",
-  "title:‘Dune: Part 3’ Stars Set For Very Childish BBC Prank Tonight",
-  "skip:https://kg-portal.ru/comments/135772-bred-pitt-stanet-legendoj-rabochego-klassa-v-filme-rezhissera-zvuka-metalla/",
-  "https://www.kinonews.ru/news_144132/",
   "title:Джеймс Ганн может потерять контроль над сиквелом \"Супермена\"",
   "skip:https://www.igromania.ru/news/169917/massovyij-sboj-v-rabote-microsoft-udaril-po-servisam-po-vsemu-miru/",
   "skip:https://stopgame.ru/newsdata/73492/v_id_software_podtverdili_chto_rabotayut_nad_novoy_igroy",
@@ -998,5 +990,13 @@
   "title:Lionsgate готова снять новые \"Голодные игры\"",
   "skip:https://www.kinonews.ru/news_144322/",
   "https://www.film.ru/news/kolca-vlasti-poluchat-4-sezon",
-  "title:Кольца власти получат 4 сезон"
+  "title:Кольца власти получат 4 сезон",
+  "skip:https://www.playground.ru/cyberpunk_2/news/cd_projekt_red_pereshla_k_parallelnoj_razrabotke_igr_chtoby_izbezhat_mnogoletnih_pauz_mezhdu_relizami-1893751#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/gta_6/news/rockstar_vnesla_nebolshoe_izmenenie_v_avstralijskuyu_versiyu_gta_6_radi_vozrastnogo_rejtinga-1893749#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://stopgame.ru/newsdata/73626/cdpr_zaklyuchila_marketingovoe_soglashenie_s_sony_po_the_witcher_iv_i_drugoe_iz_otcheta_studii",
+  "skip:https://www.ign.com/articles/yes-there-was-one-thing-cut-from-gta-6-for-australia-nz",
+  "skip:https://www.ign.com/articles/cyberpunk-2-is-still-a-ways-out-but-cd-projekt-red-says-its-rpgs-will-come-out-faster-in-the-future",
+  "skip:https://www.ign.com/articles/playstation-secures-marketing-agreement-for-the-witcher-4",
+  "https://www.playground.ru/warhammer_40000_space_marine_2/news/bolshe_oruzhiya_novyj_vrag_i_pvp_sobytiya_raskryty_podrobnosti_patcha_16_dlya_warhammer_40_000_space_marine_2-1893742#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Больше оружия, новый враг и PvP-события: раскрыты подробности патча 16 для Warhammer 40,000: Space Marine 2"
 ]

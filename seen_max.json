@@ -1,7 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/fable-drops-four-minutes-of-new-gameplay",
-  "https://www.playground.ru/gta_6/news/po_sluham_predzakazy_gta_6_prevysili_11_mln_kopij_posle_starta_predzagruzki_igra_prodaetsya_po_millionu_kopij_v_den-1890289#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:По слухам, предзаказы GTA 6 превысили 11 млн копий - после старта предзагрузки игра продается по миллиону копий в день",
   "skip:https://stopgame.ru/newsdata/73492/v_id_software_podtverdili_chto_rabotayut_nad_novoy_igroy",
   "skip:https://www.pcgamer.com/games/fps/doom-studio-id-software-confirms-its-working-on-a-new-game/",
   "skip:https://gamemag.ru/news/202116/chem-glubje-v-les-microsoft-pokazala-novyy-geympley-fable",
@@ -998,5 +995,8 @@
   "skip:https://www.igromania.ru/news/170215/finalnyij-trejler-mstitelej-doktor-dum-nabral-563-mln-prosmotrov-za-sutki-novyij-rekord-disney/",
   "skip:https://www.playground.ru/misc/news/finalnyj_trejler_mstitelej_sudnyj_den_sobral_563_mln_prosmotrov_za_sutki_i_ustanovil_novyj_rekord_disney-1893724#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.ign.com/articles/crazy-secretive-gta-6-voice-actor-reveals-details-of-rockstars-humongous-nda",
-  "title:'Crazy Secretive' — GTA 6 Voice Actor Reveals Details of Rockstar's 'Humongous' NDA"
+  "title:'Crazy Secretive' — GTA 6 Voice Actor Reveals Details of Rockstar's 'Humongous' NDA",
+  "skip:https://www.film.ru/news/novyy-treyler-volshebnika-izumrudnogo-goroda-2",
+  "https://www.kinonews.ru/news_144329/",
+  "title:Бюджет сиквела \"Супермена\" оценили в 330 миллионов долларов"
 ]

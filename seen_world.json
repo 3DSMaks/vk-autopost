@@ -1,11 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28342663",
-  "https://ria.ru/20261121/tramp-2133168527.html",
-  "title:Дональд Трамп подтвердил информацию о хакерской атаке на базу данных ФБР",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28342743",
-  "skip:https://www.rbc.ru/rbcfreenews/6b01c1f5f2283431340e4d7f",
-  "skip:https://www.kommersant.ru/doc/9127188",
-  "skip:https://ria.ru/20261121/tramp-2133159756.html",
   "skip:https://ria.ru/20261121/tramp-2133159467.html",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28342665",
   "https://www.interfax.ru/world/1130605",
@@ -998,5 +991,12 @@
   "title:США предложили ввести новые пошлины в отношении ЕС, Китая и других стран",
   "skip:https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
   "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case?traffic_source=rss",
-  "title:Суд в Израиле порекомендовал закрыть дело против премьер-министра Биньямина Нетаньяху"
+  "title:Суд в Израиле порекомендовал закрыть дело против премьер-министра Биньямина Нетаньяху",
+  "skip:https://www.interfax.ru/russia/1131433",
+  "skip:https://www.rbc.ru/rbcfreenews/6b073bb78170a56894d9c20e",
+  "https://www.kommersant.ru/doc/9130775",
+  "title:Владимир Путин и Касым-Жомарт Токаев провели переговоры в Кремле",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28355675",
+  "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+  "title:В Каире в результате ДТП с бензовозом погибли 30 человек"
 ]

@@ -1,7 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_144135/",
-  "https://variety.com/2026/film/global/freya-allan-horror-movie-system-joachim-ronning-1236946732/",
-  "title:‘The Witcher’ Star Freya Allan to Lead Joachim Rønning’s Horror Movie ‘System’ (EXCLUSIVE)",
   "https://kg-portal.ru/comments/135766-devjat-zhiznej-kota-nerona-trejler/",
   "title:Итальянского котика постоянно убивают в трейлере мультфильма \"Девять жизней кота Нерона\"",
   "skip:https://www.playground.ru/company_of_heroes_3/news/company_of_heroes_3_stala_vremenno_besplatnoj_v_steam_v_chest_20_letiya_serii-1890309#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +995,8 @@
   "skip:https://www.ign.com/articles/the-witcher-4-will-have-a-comparable-leap-from-gta-5-to-gta-6-says-cd-projekt-red",
   "skip:https://www.ign.com/articles/playstation-secures-marketing-agreement-for-the-witcher-4",
   "https://gamemag.ru/news/202282/nioh-vpervye-vyhodit-na-xbox-anonsirovano-polnoe-izdanie-tretey-chasti-dlya-ps5-xbox-series-xs-i-pc",
-  "title:Nioh впервые выходит на Xbox: Анонсировано полное издание третьей части для PlayStation 5, Xbox Series X|S и PC"
+  "title:Nioh впервые выходит на Xbox: Анонсировано полное издание третьей части для PlayStation 5, Xbox Series X|S и PC",
+  "skip:https://stopgame.ru/newsdata/73625/vyhod_lords_of_the_fallen_ii_sdvinuli_na_aprel_2026_goda",
+  "https://www.ign.com/articles/cyberpunk-2-is-still-a-ways-out-but-cd-projekt-red-says-its-rpgs-will-come-out-faster-in-the-future",
+  "title:Cyberpunk 2 Is Still a Ways Out, but CD Projekt Red Says Its RPGs Will Come Out Faster in the Future"
 ]

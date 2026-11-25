@@ -1,8 +1,4 @@
 [
-  "skip:https://variety.com/2026/film/news/heartland-review-jessica-chastain-1236946587/",
-  "https://kg-portal.ru/comments/135773-rezhisser-podarivshij-dzhejsonu-vurhizu-vse-znamenitye-prichindaly-snimet-novuju-pjatnicu-13e/",
-  "title:Режиссёр, подаривший Джейсону Вурхизу все знаменитые причиндалы, снимет новую \"Пятницу, 13-е\"",
-  "https://www.kinonews.ru/news_144132/",
   "title:Джеймс Ганн может потерять контроль над сиквелом \"Супермена\"",
   "https://www.kinonews.ru/news_144139/",
   "title:Майкл Б. Джордан соблазняет Адрию Архону в трейлере \"Афера Томаса Крауна\"",
@@ -998,5 +994,9 @@
   "https://stopgame.ru/newsdata/73626/cdpr_zaklyuchila_marketingovoe_soglashenie_s_sony_po_the_witcher_iv_i_drugoe_iz_otcheta_studii",
   "title:CDPR заключила маркетинговое соглашение с Sony по The Witcher IV — и другое из отчёта студии",
   "https://www.film.ru/news/svezhiy-tizer-dyuny-3-0",
-  "title:Свежий тизер Дюны 3"
+  "title:Свежий тизер Дюны 3",
+  "skip:https://www.igromania.ru/news/170218/sozdatel-resident-evil-2-hotel-byi-sdelat-novuyu-bezumnuyu-castlevania/",
+  "skip:https://stopgame.ru/newsdata/73625/vyhod_lords_of_the_fallen_ii_sdvinuli_na_aprel_2027_goda",
+  "https://www.igromania.ru/news/170217/golos-etsio-iz-assassins-creed-gotov-vernutsya-k-rabote-nad-remejkami/",
+  "title:Голос Эцио из Assassinʼs Creed готов вернуться к работе над ремейками"
 ]

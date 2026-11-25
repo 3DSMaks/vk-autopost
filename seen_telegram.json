@@ -1,10 +1,4 @@
 [
-  "title:Джеймс Ганн может потерять контроль над сиквелом \"Супермена\"",
-  "skip:https://www.igromania.ru/news/169917/massovyij-sboj-v-rabote-microsoft-udaril-po-servisam-po-vsemu-miru/",
-  "skip:https://stopgame.ru/newsdata/73492/v_id_software_podtverdili_chto_rabotayut_nad_novoy_igroy",
-  "skip:https://www.pcgamer.com/software/security/microsoft-says-there-is-no-evidence-of-malicious-activity-being-the-cause-of-the-global-service-outage-affecting-governments-and-organisations-around-the-world/",
-  "skip:https://www.pcgamer.com/games/fps/doom-studio-id-software-confirms-its-working-on-a-new-game/",
-  "skip:https://www.ign.com/articles/doom-developer-id-software-confirms-work-on-new-game-will-be-directed-by-hugo-martin",
   "https://stopgame.ru/newsdata/73488/dlya_halo_campaign_evolved_anonsirovali_kontentnoe_obnovlenie_firefight",
   "title:Для Halo: Campaign Evolved анонсировали контентное обновление Firefight",
   "skip:https://www.film.ru/articles/dzhessika-chesteyn-ubivaet-recenziya-na-horror-chuzhaya-mama",
@@ -998,5 +992,11 @@
   "skip:https://www.ign.com/articles/cyberpunk-2-is-still-a-ways-out-but-cd-projekt-red-says-its-rpgs-will-come-out-faster-in-the-future",
   "skip:https://www.ign.com/articles/playstation-secures-marketing-agreement-for-the-witcher-4",
   "https://www.playground.ru/warhammer_40000_space_marine_2/news/bolshe_oruzhiya_novyj_vrag_i_pvp_sobytiya_raskryty_podrobnosti_patcha_16_dlya_warhammer_40_000_space_marine_2-1893742#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Больше оружия, новый враг и PvP-события: раскрыты подробности патча 16 для Warhammer 40,000: Space Marine 2"
+  "title:Больше оружия, новый враг и PvP-события: раскрыты подробности патча 16 для Warhammer 40,000: Space Marine 2",
+  "skip:https://www.ign.com/articles/gta-6-analysis-shows-ps5-version-suffers-substantially-more-frequent-frame-rate-drops-than-xbox-series-x-version-sparking-debate-about-sonys-plays-best-on-ps5-marketing",
+  "skip:https://www.igromania.ru/news/170213/kitajskij-ekshen-pro-postapokalipsis-v-ssha-showa-american-story-perenesli-na-28-oktyabrya-2027-goda/",
+  "skip:https://stopgame.ru/newsdata/73619/reliz_showa_american_story_pereehal_na_osen_2027_go",
+  "https://gamemag.ru/news/202291/insayder-soobshchil-sroki-vyhoda-intergalactic-the-heretic-prophet-ot-naughty-dog",
+  "video:2026-11-25:https://gamemag.ru/news/202291/insayder-soobshchil-sroki-vyhoda-intergalactic-the-heretic-prophet-ot-naughty-dog",
+  "title:Инсайдер раскрыл сроки выхода PS5-эксклюзива Intergalactic: The Heretic Prophet от Naughty Dog"
 ]

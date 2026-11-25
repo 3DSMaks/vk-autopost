@@ -1,13 +1,4 @@
 [
-  "title:Роберт Паттинсон стал главным претендентом на роль Джеймса Бонда",
-  "skip:https://www.igromania.ru/news/169940/psychonauts-2-stala-psihonavtami-2-dlya-igryi-vyipustili-neofitsialnuyu-russkuyu-lokalizatsiyu/",
-  "skip:https://www.playground.ru/psychonauts_2/news/polnaya_russkaya_lokalizatsiya_psychonauts_2_dozhdalas_chasa_svoego_reliza-1890550#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://gamemag.ru/news/202132/marvels-spider-man-2-obzavelas-podderjkoy-quick-spectral-super-resolution-na-ps5",
-  "skip:https://www.ign.com/articles/rainbow-six-vegas-reportedly-returning-with-new-installment",
-  "skip:https://www.pcgamer.com/games/grand-theft-auto/new-grand-theft-auto-6-trailer-is-for-a-tv-show-that-exists-within-grand-theft-auto-6/",
-  "skip:https://stopgame.ru/newsdata/73503/henderson_ubisoft_vozrodit_podseriyu_rainbow_six_vegas",
-  "https://www.playground.ru/forza_horizon_6/news/razrabotchiki_forza_horizon_6_raskryli_plany_po_razvitiyu_igry_na_blizhajshie_mesyatsy-1890531#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Разработчики Forza Horizon 6 раскрыли планы по развитию игры на ближайшие месяцы",
   "skip:https://deadline.com/2026/11/michael-mann-lawsuit-heat-rights-1237223655/",
   "skip:https://variety.com/2026/film/news/michael-mann-new-regency-heat-screenplay-lawsuit-1236947532/",
   "skip:https://www.film.ru/news/pattinson-v-favoritah-bondiany",
@@ -998,5 +989,14 @@
   "skip:https://www.ign.com/articles/diablo-4-season-16-fixes-one-of-the-biggest-problems-with-helltide",
   "https://gamemag.ru/news/202301/cyberpunk-2s-development-team-has-grown-with-plans-to-get-even-bigger-next-year",
   "video:2026-11-25:https://gamemag.ru/news/202301/cyberpunk-2s-development-team-has-grown-with-plans-to-get-even-bigger-next-year",
-  "title:Команда разработчиков Cyberpunk 2 выросла почти до 200 человек — CD Projekt RED довольна прогрессом"
+  "title:Команда разработчиков Cyberpunk 2 выросла почти до 200 человек — CD Projekt RED довольна прогрессом",
+  "skip:https://www.playground.ru/hollow_knight_silksong/news/team_cherry_pokazhet_besplatnoe_dopolnenie_sea_of_sorrow_dlya_hollow_knight_silksong_uzhe_27_noyabrya-1893817#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://gamemag.ru/news/202305/hollow-knight-presentation-nov-27",
+  "skip:https://www.igromania.ru/news/170224/sozdateli-hollow-knight-silksong-rasskazhut-o-besplatnom-dopolnenii-sea-of-sorrow-v-etu-pyatnitsu/",
+  "skip:https://stopgame.ru/newsdata/73632/v_pyatnicu_team_cherry_rasskazhet_o_dlc_sea_of_sorrow_dlya_hollow_knight_silksong",
+  "skip:https://gamemag.ru/news/202299/capcom-zakryvaet-exoprimal-podderjka-shutera-s-dinozavrami-prekratitsya-v-2027-godu",
+  "skip:https://stopgame.ru/newsdata/73628/servery_boevika_s_dinozavrami_exoprimal_otklyuchat_v_sentyabre_2027_go",
+  "https://gamemag.ru/news/202293/rockstar-games-otkryta-k-sozdaniyu-ekranizacii-red-dead-redemption",
+  "video:2026-11-25:https://gamemag.ru/news/202293/rockstar-games-otkryta-k-sozdaniyu-ekranizacii-red-dead-redemption",
+  "title:Rockstar Games открыта к созданию экранизации Red Dead Redemption — СМИ"
 ]

@@ -1,12 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169922/stranger-than-heaven-poluchila-syuzhetnyij-trejler-vtorogo-akta-1929-god-draki-kriminal/",
-  "skip:https://www.playground.ru/project_century/news/sega_pokazala_novyj_syuzhetnyj_trejler_stranger_than_heaven_geroj_vstupaet_v_ryady_yakudza-1890360#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://gamemag.ru/news/202121/doom-the-dark-ages-jdet-boynya-treyler-novogo-rejima-dlya-shutera-id-software",
-  "skip:https://gamemag.ru/news/202118/gatto-trailer",
-  "skip:https://stopgame.ru/newsdata/73494/gta_vi_chut_ne_otkazali_v_sertifikacii_v_koree_iz_za_izbytochnoy_nagoty",
-  "https://gamemag.ru/news/202120/voyna-ne-zakonchena-microsoft-oficialno-anonsirovala-novuyu-wolfensteinnad-igroy-rabotaet-studiya",
-  "title:Война не окончена: Microsoft официально подтвердила разработку Wolfenstein 3 от MachineGames",
-  "https://variety.com/2026/film/global/jon-hamm-andrew-koji-takashi-miike-tokyo-bullfrog-mk2-1236946806/",
   "title:Jon Hamm, Andrew Koji to Star in Takashi Miike’s Tokyo-Set Psychological Thriller ‘Bullfrog’ as Mk2 Films Boards Sales (EXCLUSIVE)",
   "https://www.film.ru/articles/recenziya-na-multserial-avatar-sem-ubezhishch-boykoe-i-smeloe-fentezi-srazu-o-dvuh",
   "title:Рецензия на мультсериал «Аватар: Семь убежищ» — бойкое и смелое фэнтези сразу о двух повелительницах стихий",
@@ -998,5 +990,13 @@
   "https://www.kinonews.ru/news_144322/",
   "title:Amazon продлил сериал \"Властелин колец: Кольца власти\" на четвертый сезон",
   "https://stopgame.ru/newsdata/73629/avtory_marathon_vypustili_rolik_posvyaschennyy_obolochke_bishop",
-  "title:Авторы Marathon выпустили ролик, посвящённый оболочке «Бишоп»"
+  "title:Авторы Marathon выпустили ролик, посвящённый оболочке «Бишоп»",
+  "skip:https://gamemag.ru/news/202299/capcom-zakryvaet-exoprimal-podderjka-shutera-s-dinozavrami-prekratitsya-v-2027-godu",
+  "skip:https://www.playground.ru/gta_6/news/aktyor_sygravshij_raulya_bautistu_v_gta_6_kupil_ps5_spetsialno_radi_igry-1893775#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://stopgame.ru/newsdata/73628/servery_boevika_s_dinozavrami_exoprimal_otklyuchat_v_sentyabre_2027_go",
+  "skip:https://www.ign.com/articles/raul-bautista-actor-manny-perez-playing-gta-6",
+  "skip:https://stopgame.ru/newsdata/73627/take_two_prikryla_razrabotku_project_leonida_neoficialnogo_pk_porta_gta_vi",
+  "skip:https://www.pcgamer.com/games/fps/marathons-new-runner-shell-is-a-jet-propelled-robot-samurai-who-wants-to-hurt-you/",
+  "https://www.playground.ru/diablo_4/news/diablo_4_poluchit_sezon_stavki_tiraelya_1_dekabrya_s_dvojnoj_ugrozoj_zhnetsov_i_novymi_drevami_voennyh_planov-1893786#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Diablo 4 получит сезон \"Ставки Тираэля\" 1 декабря - с двойной угрозой жнецов и новыми древами военных планов"
 ]

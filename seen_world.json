@@ -1,10 +1,4 @@
 [
-  "skip:https://tass.ru/ekonomika/28341585",
-  "https://www.interfax.ru/russia/1130538",
-  "title:В аэропорту Пскова введены временные ограничения на прием и выпуск самолетов",
-  "skip:https://www.interfax.ru/russia/1130545",
-  "skip:https://ria.ru/20261121/bpla-2133083715.html",
-  "skip:https://ria.ru/20261121/vsu-2133082441.html",
   "skip:https://www.interfax.ru/russia/1130540",
   "skip:https://www.interfax.ru/russia/1130539",
   "skip:https://ria.ru/20261121/pulkovo-2133080297.html",
@@ -998,5 +992,11 @@
   "skip:https://www.france24.com/en/europe/20261125-surprise-eurostar-strike-cancels-london-paris-and-brussels-trains",
   "skip:https://news.google.com/rss/articles/CBMinwFBVV95cUxQVk9yeVJpc3RkMmxRSHlNeFpZekpIMkJtY2F5TDdVc2prWGd6V1o2aUduOWNOR1VxUUdSbVhVSHJHRUNGcEdBNTlaV3kydXk1ZWVQUWJPSkloV0pkOXpzWGFVb0Y5ZHBxTmFxSzhTX2s3a2FnQ09oOWZ1dWtCaW9oZUdKaThENENLaXB4Ul85OEpmTG9CQzdYemp5bkFodnM?oc=5",
   "https://tass.ru/ekonomika/28353401",
-  "title:Забастовка железнодорожников привела к отмене поездов Eurostar между Лондоном, Парижем и Брюсселем"
+  "title:Забастовка железнодорожников привела к отмене поездов Eurostar между Лондоном, Парижем и Брюсселем",
+  "skip:https://www.interfax.ru/russia/1131277",
+  "https://tass.ru/proisshestviya/28353615",
+  "title:Губернатор Мурманской области Андрей Чибис заключен под стражу",
+  "skip:https://news.google.com/rss/articles/CBMifkFVX3lxTFBNcXpXLTF1eTY1YldYRm56UHVTNmllcGNCREQxZUVHTUxIdzJEUXYzc0Q3emhNWVh1NzdScFgtQV9WelJEX1RoVUVIY2VHN1MxMnByOHZ3VWF5VEJmRXFndjhqQWVOREl0OEdYSm53UVU4aDY3XzYyZnpocmpzZw?oc=5",
+  "https://www.france24.com/en/americas/20261125-cyberattack-exposes-unclassified-information-from-cia-system-us-media-reports",
+  "title:Спецслужбы США сообщили об утечке данных из систем ЦРУ"
 ]

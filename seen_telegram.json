@@ -1,8 +1,4 @@
 [
-  "https://stopgame.ru/newsdata/73487/avtory_novoy_fable_pokazali_otryvok_osnovnogo_kvesta",
-  "title:Авторы новой Fable показали отрывок основного квеста",
-  "skip:https://www.kinonews.ru/news_144134/",
-  "skip:https://www.kinonews.ru/news_144135/",
   "https://www.kinonews.ru/news_144133/",
   "title:Световой меч Дарта Вейдера продали за рекордную сумму",
   "skip:https://www.playground.ru/valheim/news/valheim_poluchit_sobstvennuyu_seriyu_komiksov_nad_istoriyami_o_vikingah_rabotayut_avtory_marvel_i_dc-1890291#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +994,9 @@
   "skip:https://www.ign.com/articles/the-witcher-4-will-have-a-comparable-leap-from-gta-5-to-gta-6-says-cd-projekt-red",
   "skip:https://gamemag.ru/news/202282/nioh-vpervye-vyhodit-na-xbox-anonsirovano-polnoe-izdanie-tretey-chasti-dlya-ps5-xbox-series-xs-i-pc",
   "https://gamemag.ru/news/202297/oficialno-cd-projekt-red-budet-prodvigat-igru-vedmak-4-sovmestno-s-playstation",
-  "title:Официально: CD Projekt RED будет продвигать игру «Ведьмак 4» совместно с PlayStation"
+  "title:Официально: CD Projekt RED будет продвигать игру «Ведьмак 4» совместно с PlayStation",
+  "skip:https://variety.com/2026/film/awards/oscars-visual-effects-top-20-shortlist-disney-dune-odyssey-1236957450/",
+  "skip:https://kg-portal.ru/comments/135956-robert-pattinson-planiruet-zlodejstvo-vnovom-tizere-djuny-chast-tretja/",
+  "https://www.kinonews.ru/news_144329/",
+  "title:Бюджет сиквела \"Супермена\" оценили в 330 миллионов долларов"
 ]

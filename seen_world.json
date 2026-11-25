@@ -1,14 +1,4 @@
 [
-  "skip:https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
-  "https://news.google.com/rss/articles/CBMixwFBVV95cUxOemxCMzdZQVhrN293eFVPNTNrdHFZblZJNkJFQzluUFhMMG8xQUI1SG80YjdUWWgzdElKWmtiVVRmOFhKS2toWWZLZ2ttZ1ZOVDl3dFVEcGlpSG9DSy1ZbW1TVEY0VFpPbzhJck9sYjJHRDkzakFBTlJ4MFhOcEZfVTF3M2lIUGo2aWQ4VUdfaDJFaklfUzlVTWlCWlNHeEp3RnZ6NWI4UmpQVzlrd1I2My1tTDNsXzJDRHRIWHRXR0ZZbXZGanpz?oc=5",
-  "title:Климатический саммит COP31 перешел в овертайм из-за споров об ископаемом топливе",
-  "skip:https://news.google.com/rss/articles/CBMiuAFBVV95cUxON0haQkQteXQ4cWlzdGJTQmROQVpnT21rVUI1UkNpenozVEplWmNtUTRpLWpvTlo4Z2tvUHhHSnR1RWtYMS1UV1JpVXplWGkzT1gwMkFfdmYwdWZnRVRjLUhBZjVQWTZDOTNucWdZb0NTVHVyYk5mVnI2cFR1WUhFOXhDTGZuY2VoeXZySmc4RjRuOWFULTFEb2NnYjN6MnFJZ1d1c3pFaVRqSUJsRlg4aTdENEt1MFFR?oc=5",
-  "skip:https://tass.ru/proisshestviya/28341567",
-  "https://www.rbc.ru/rbcfreenews/6b00e574c82fefdda02f9447",
-  "title:В центральной части Перу произошло мощное землетрясение магнитудой до 6,9",
-  "skip:https://www.rbc.ru/rbcfreenews/6b00fe7690970fd12214d5b5",
-  "skip:https://www.interfax.ru/russia/1130541",
-  "skip:https://www.kommersant.ru/doc/9126979",
   "skip:https://tass.ru/proisshestviya/28341649",
   "skip:https://www.rbc.ru/rbcfreenews/6b00eb3e1ad84d1afb1d627d",
   "skip:https://ria.ru/20261121/opasnost-2133078034.html",
@@ -998,5 +988,15 @@
   "title:В Рязанской области из-за сильных снегопадов задерживаются 35 поездов дальнего следования",
   "skip:https://www.interfax.ru/russia/1131252",
   "https://tass.ru/politika/28352917",
-  "title:МИД РФ осудил атаки хуситов на гражданские объекты в Саудовской Аравии"
+  "title:МИД РФ осудил атаки хуситов на гражданские объекты в Саудовской Аравии",
+  "skip:https://ria.ru/20261125/sud-2133824486.html",
+  "skip:https://tass.ru/proisshestviya/28353189",
+  "skip:https://www.interfax.ru/russia/1131264",
+  "skip:https://www.kommersant.ru/doc/9130088",
+  "skip:https://tass.ru/proisshestviya/28353161",
+  "skip:https://ria.ru/20261125/peskov-2133823176.html",
+  "skip:https://tass.ru/politika/28353133",
+  "skip:https://ria.ru/20261125/chibis-2133820036.html",
+  "https://tass.ru/proisshestviya/28348341",
+  "title:Губернатор Мурманской области Андрей Чибис арестован по делу о растрате и взятке"
 ]

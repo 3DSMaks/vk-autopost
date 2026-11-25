@@ -1,10 +1,4 @@
 [
-  "https://ria.ru/20261121/koalitsija-2133076871.html",
-  "title:Арабская коалиция перехватила три ракеты, запущенные по Эр-Рияду",
-  "skip:https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
-  "skip:https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-  "skip:https://news.google.com/rss/articles/CBMingFBVV95cUxQY09GMmxTYlpRMnQ3YVJ4Q3BUdmg3NEFJWG5lVlh4TC0zZGxxZVcydTkwSkpiZUZfS3BXdlRab05HSW5TS0h5TDY5NFRKajBDSWdFbUdhNFIxMzUxc3pLRnEtMXVNblBwZmgteFlUWVhuS0lRU3diRGpWQnkyeWtDMGJiS3hzd2xCdUtDVHIxc0hOWGkwTHdPZ1FfenUwQQ?oc=5",
-  "skip:https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDhJbUROT2pNZjBobFFBeFlGWU5HRS1PZFNydV9OdHpJbEttV2ZDVElPaGNhNnE3cGlnYUlZOTR3ZC1KZGNIX0pJbExiMzBWa3lxTHpZeUtBYjFtSXJwN3FpZWhjNnUwSklvVmZlRGdEQmNFSlFVcldhXzJsbk1hUlNUMXY0Q0Fjajc0c1ZlQTY0a0FFdUlyRzg4UWQ3M1d5WjFMTjhzRWtlS2VxMnc?oc=5",
   "skip:https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWtIWXhnWHpsWWZSZ2dFVFRFSXBHaUxOWlp1VnFSZEoycGRtMDE1NVhuM2NEa2ZUTHlLN0lFbG5aX295SThLcFVXMEV3VmJidHF2amdDelVYWWprLXRsNWpodU9LcERma2xnc2pWaTZGbmNHZnYwREdjQnBOcGR0S0JSdnZTaC1aYmtBWXdRXzJiVDhHbFBEZ3lDdWhzS3Q3dnFMY3d3cjZIdw?oc=5",
   "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01YzRiT09nYlU4eGlRUGtzSE1Jd1MyT1BpbUozZWxhNG95LTBqUnNwcTFlQURCcXY2ZTJ5RDd2YWhTR0J4RDhMcVM3ZHUyRGlOSU50TjRwbmk2eUZMNndFNF9hMDBYcVU?oc=5",
   "title:Обвал акций технологических компаний на бирже США привел к падению индексов S&P 500 и Dow Jones",
@@ -998,5 +992,11 @@
   "skip:https://news.google.com/rss/articles/CBMirwFBVV95cUxQYWxiYkU2dDI4WjRoOUdyaDN0RDQ3MGR2b1k2aUdmQ3dseXVrQkpwSjlIb1NtbzRZbENaYnJfODJKN0pMV2VBMUx3NHZQZWEtUTh3VlRSVWNzMUhHdklzTlZlM1BmSkktbXpUVFhjTlNqY2pUdGpRbUV6bVdpdV9BWDYtQld1MDExX1BNTUt6YVRtSm81LU9VTXV3MF9GOHpMNTJHcVFSanlJWUVkWE1J?oc=5",
   "skip:https://www.theguardian.com/money/2026/nov/25/energy-bills-in-great-britain-to-rise-ofgem-price-cap",
   "https://tass.ru/ekonomika/28352507",
-  "title:В Великобритании счета за свет и газ в начале 2027 года вырастут на 26 процентов"
+  "title:В Великобритании счета за свет и газ в начале 2027 года вырастут на 26 процентов",
+  "skip:https://www.rbc.ru/society/25/11/2026/6b0697f364dabb8c26692f76",
+  "https://www.kommersant.ru/doc/9130076",
+  "title:Следствие ходатайствует об аресте губернатора Мурманской области Андрея Чибиса по обвинению в растрате и взятке",
+  "skip:https://www.interfax.ru/russia/1131238",
+  "https://www.kommersant.ru/doc/9130071",
+  "title:В Рязанской области из-за сильных снегопадов задерживаются 35 поездов дальнего следования"
 ]

@@ -1,11 +1,4 @@
 [
-  "skip:https://tass.ru/proisshestviya/28341649",
-  "skip:https://www.rbc.ru/rbcfreenews/6b00eb3e1ad84d1afb1d627d",
-  "skip:https://ria.ru/20261121/opasnost-2133078034.html",
-  "skip:https://tass.ru/proisshestviya/28341571",
-  "https://ria.ru/20261121/bespilotniki-2133080940.html",
-  "title:Над Ленинградской областью перехвачены украинские беспилотники",
-  "skip:https://ria.ru/20261121/pskov-2133079199.html",
   "skip:https://tass.ru/ekonomika/28341585",
   "https://www.interfax.ru/russia/1130538",
   "title:В аэропорту Пскова введены временные ограничения на прием и выпуск самолетов",
@@ -998,5 +991,12 @@
   "skip:https://tass.ru/politika/28353133",
   "skip:https://ria.ru/20261125/chibis-2133820036.html",
   "https://tass.ru/proisshestviya/28348341",
-  "title:Губернатор Мурманской области Андрей Чибис арестован по делу о растрате и взятке"
+  "title:Губернатор Мурманской области Андрей Чибис арестован по делу о растрате и взятке",
+  "skip:https://www.kommersant.ru/doc/9130148",
+  "https://www.rbc.ru/technology_and_media/25/11/2026/6b06a8e1a931f9010f3a5f0c",
+  "title:Суд в США признал китайскую компанию Huawei виновной в краже коммерческой тайны",
+  "skip:https://www.france24.com/en/europe/20261125-surprise-eurostar-strike-cancels-london-paris-and-brussels-trains",
+  "skip:https://news.google.com/rss/articles/CBMinwFBVV95cUxQVk9yeVJpc3RkMmxRSHlNeFpZekpIMkJtY2F5TDdVc2prWGd6V1o2aUduOWNOR1VxUUdSbVhVSHJHRUNGcEdBNTlaV3kydXk1ZWVQUWJPSkloV0pkOXpzWGFVb0Y5ZHBxTmFxSzhTX2s3a2FnQ09oOWZ1dWtCaW9oZUdKaThENENLaXB4Ul85OEpmTG9CQzdYemp5bkFodnM?oc=5",
+  "https://tass.ru/ekonomika/28353401",
+  "title:Забастовка железнодорожников привела к отмене поездов Eurostar между Лондоном, Парижем и Брюсселем"
 ]

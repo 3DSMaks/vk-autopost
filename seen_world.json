@@ -1,11 +1,4 @@
 [
-  "title:Дональд Трамп заявил о стремлении заключить с Ираном бессрочное соглашение",
-  "skip:https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdmhYX1ZWdmN5Qmhad0J5aldjNlVKQmZRNl83NkUtZzJYQUREN0ZxZ084TVdPMno0TXczUmFFNUw5MFZycHZwVTdHVy14WGlaR1NhQ2RTR0dJdkpfa0NEcHJ1OWxOcmpoT19CWXFZS3JPV2Z6TU1QeVlkaWFVbmlEVVBiMFFlVEdCUExyal9xYjZzbUZZQWo0VkFEbGlYQnUySTRzTGhLYnk5WlBRNGMxX1lXUFhLaWhUTXZrT2FqRDZvZ0dxLVZSaUViVXFjVDdKLWladzd2RkY?oc=5",
-  "skip:https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
-  "skip:https://www.interfax.ru/world/1130592",
-  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa2RiNXlYT1VFSmc3cEJmU0N4QW9Ydk9rX1RBZ3hvakVOYWtIa1ZDdGlhVm8wSUp5MUk2bWg0TFNyc2lvN3VXazhaamp3WTZBOVpqXzBPcnV5OVVGREVtU1FNVDBXb2d2ck5mVmhybmptaUtCMGRJNEt0UGhxU25fM0JWZE5NSUF2NmRxZVlZOGJSaUpncmt6dnFkNEpDdG9ZejlidXU5RnJUdm8?oc=5",
-  "title:В Мексике в ходе спецоперации задержан наркобарон Эль Чапо Исидро",
-  "skip:https://tass.ru/proisshestviya/28342719",
   "skip:https://www.france24.com/en/france-demonstrations-losing-steam-as-movement-enters-sixth-week",
   "skip:https://www.france24.com/en/new-day-of-protests-across-france",
   "https://tass.ru/mezhdunarodnaya-panorama/28342763",
@@ -998,5 +991,12 @@
   "title:В Каире в результате ДТП с бензовозом погибли 30 человек",
   "skip:https://www.interfax.ru/world/1131442",
   "https://www.rbc.ru/rbcfreenews/6b0755ca9144335a03e80529",
-  "title:Спецпосланник США Джаред Кушнер сделал новые заявления об урегулировании конфликта на Украине"
+  "title:Спецпосланник США Джаред Кушнер сделал новые заявления об урегулировании конфликта на Украине",
+  "skip:https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters?traffic_source=rss",
+  "title:В Египте при столкновении бензовоза сгорели автомобили и погибли люди",
+  "skip:https://news.google.com/rss/articles/CBMihwFBVV95cUxPZi1lalA4QTR1T3RxVkRDblVuYkY3SDBXV3A3bWhpaWJzN29ZT2xEWTR5b1RDMzZWUWRfdldya2R1ZlZiQ2ptLThvVjMxQmpMWUFKeFVEWnhjOGMzVUcyZDVjb3ZYa1o0RjFiYXVQSUFCczNFelNVYjQ2ZzFiOWxUSmlKdFVXWW8?oc=5",
+  "skip:https://news.google.com/rss/articles/CBMisgFBVV95cUxPV3JaTmxlVEkyOG9FXzM3d0dwUEdpV0ZwZk1FUUdZNG45Q0xYMWxaMndSZXNib0NXdDNNN1p3UzI5MnJBRTVhdll0Rm1EamNoMUpYRHg2R2JrcFlqTXFpdE9PeTgtVWktV3YzY012TDMtclByVHpIQnFucGhJbl9CZVlCMXNBb2pLRkxveWhIVEN0eEtUampuVkNRTzhBV1NPVWRnWEswMHlVbjhkeUZSeWVR?oc=5",
+  "https://www.rbc.ru/rbcfreenews/6b075d70c11784054f5f3553",
+  "title:Армия США уничтожила запасы опасного химиката в Айове"
 ]

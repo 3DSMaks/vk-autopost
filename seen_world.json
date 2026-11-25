@@ -1,13 +1,4 @@
 [
-  "skip:https://ria.ru/20261121/er-rijad-2133076146.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28341531",
-  "skip:https://ria.ru/20261121/er-rijad-2133075468.html",
-  "https://www.rbc.ru/rbcfreenews/6b00db2e1d72e10990872d08",
-  "title:В столице Саудовской Аравии Эр-Рияде прогремел мощный взрыв",
-  "skip:https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ19DTDNqa18wN2l3QWdvckc3UXYwZWhlRlpFaUVpRFBtdlBWRjY2WC1mTEdSbHIwbmxTcnNTQ2tkci04ZFoyRjlxTjQtdHh1a3lETGN2TGtWYmY3Ty1ibFZOQk1zUXJNcHE4ZWVXNkRSdDFwY21WNC1BSE1GeWdQMkxpRHQ0Yjd1cFVXNmNuRmFveUIwOW9iTDA4Z3BLc3lVMnVXMkpoSEllVEswZncxZEJVZ3N2ODhYOUs1YlkwZmVnNnhDUWVUSmdNVQ?oc=5",
-  "https://ria.ru/20261121/glava-2133076309.html",
-  "title:Глава Пентагона наложил ограничения на партнерство США и Канады",
-  "skip:https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
   "https://ria.ru/20261121/koalitsija-2133076871.html",
   "title:Арабская коалиция перехватила три ракеты, запущенные по Эр-Рияду",
   "skip:https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
@@ -998,5 +989,14 @@
   "skip:https://news.google.com/rss/articles/CBMimAFBVV95cUxQZWtkSWZheUoxZG9WeXhxQmEtNFUySnZraXdadXdHQzRsaDdqbldkRUdOMXRZRngwT3VjMXFVYXBVU0lYZG8ySmRzelRsZzRKWFZNbDBzc2FOaVdFRDlfN2Y5b1NET0lLajYzTmVEWXVha29URkZLSGdiMGx1VXFtOU4yM3lpdWpVU3NqbjhkRGRobHNTdTdKLQ?oc=5",
   "skip:https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets?traffic_source=rss",
   "https://ria.ru/20261125/ssha-2133741609.html",
-  "title:Американский суд признал компанию Huawei виновной по делу о краже коммерческой тайны"
+  "title:Американский суд признал компанию Huawei виновной по делу о краже коммерческой тайны",
+  "skip:https://tass.ru/ekonomika/28352455",
+  "skip:https://ria.ru/20261125/obryv-2133784519.html",
+  "skip:https://ria.ru/20261125/zaes-2133782740.html",
+  "https://www.kommersant.ru/doc/9130007",
+  "title:Запорожская АЭС перешла на резервное электроснабжение после потери внешнего питания",
+  "skip:https://news.google.com/rss/articles/CBMirwFBVV95cUxQYWxiYkU2dDI4WjRoOUdyaDN0RDQ3MGR2b1k2aUdmQ3dseXVrQkpwSjlIb1NtbzRZbENaYnJfODJKN0pMV2VBMUx3NHZQZWEtUTh3VlRSVWNzMUhHdklzTlZlM1BmSkktbXpUVFhjTlNqY2pUdGpRbUV6bVdpdV9BWDYtQld1MDExX1BNTUt6YVRtSm81LU9VTXV3MF9GOHpMNTJHcVFSanlJWUVkWE1J?oc=5",
+  "skip:https://www.theguardian.com/money/2026/nov/25/energy-bills-in-great-britain-to-rise-ofgem-price-cap",
+  "https://tass.ru/ekonomika/28352507",
+  "title:В Великобритании счета за свет и газ в начале 2027 года вырастут на 26 процентов"
 ]

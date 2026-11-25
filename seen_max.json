@@ -1,11 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73485/machinegames_anonsirovala_wolfenstein_3",
-  "skip:https://www.pcgamer.com/games/fps/wolfenstein-3-is-in-production-at-machinegames/",
-  "skip:https://www.ign.com/articles/wolfenstein-3-confirmed-to-be-in-development-at-machinegames",
-  "skip:https://gamemag.ru/news/202113/nil-drakmann-raskryl-status-proizvodstva-intergalactic-the-heretic-prophet",
-  "https://stopgame.ru/newsdata/73487/avtory_novoy_fable_pokazali_otryvok_osnovnogo_kvesta",
-  "title:Авторы новой Fable показали отрывок основного квеста",
-  "skip:https://deadline.com/2026/11/the-spot-release-date-claire-danes-ewan-mcgregor-hulu-photo-1237222480/",
   "skip:https://www.kinonews.ru/news_144135/",
   "https://variety.com/2026/film/global/freya-allan-horror-movie-system-joachim-ronning-1236946732/",
   "title:‘The Witcher’ Star Freya Allan to Lead Joachim Rønning’s Horror Movie ‘System’ (EXCLUSIVE)",
@@ -998,5 +991,12 @@
   "skip:https://www.playground.ru/exoprimal/news/capcom_nakonets_to_zakryvaet_onlajn_shuter_s_dinozavrami_exoprimal_servery_ostanovyat_v_kontse_2027_goda-1893673#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://gamemag.ru/news/202291/insayder-soobshchil-sroki-vyhoda-intergalactic-the-heretic-prophet-ot-naughty-dog",
   "https://www.igromania.ru/news/170200/mrachnyij-rolevoj-ekshen-lords-of-the-fallen-2-vyijdet-v-aprele-2027-goda-datu-obyavyat-v-dekabre/",
-  "title:Мрачный ролевой экшен Lords of the Fallen 2 выйдет в апреле 2027 года — дату объявят в декабре"
+  "title:Мрачный ролевой экшен Lords of the Fallen 2 выйдет в апреле 2027 года — дату объявят в декабре",
+  "skip:https://www.igromania.ru/news/170204/razrabotchiki-vedmaka-4-obeschayut-sdelat-skachok-kak-ot-gta-5-k-gta-6/",
+  "skip:https://gamemag.ru/news/202297/oficialno-cd-projekt-red-budet-prodvigat-igru-vedmak-4-sovmestno-s-playstation",
+  "skip:https://www.pcgamer.com/games/the-witcher/the-difference-between-the-witcher-3-and-witcher-4-will-be-comparable-to-that-of-gta-5-and-gta-6-cd-projekt-boss-says-i-mean-its-been-11-years/",
+  "skip:https://www.ign.com/articles/the-witcher-4-will-have-a-comparable-leap-from-gta-5-to-gta-6-says-cd-projekt-red",
+  "skip:https://www.ign.com/articles/playstation-secures-marketing-agreement-for-the-witcher-4",
+  "https://gamemag.ru/news/202282/nioh-vpervye-vyhodit-na-xbox-anonsirovano-polnoe-izdanie-tretey-chasti-dlya-ps5-xbox-series-xs-i-pc",
+  "title:Nioh впервые выходит на Xbox: Анонсировано полное издание третьей части для PlayStation 5, Xbox Series X|S и PC"
 ]

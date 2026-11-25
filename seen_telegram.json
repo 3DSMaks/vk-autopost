@@ -1,7 +1,4 @@
 [
-  "skip:https://www.pcgamer.com/games/grand-theft-auto/south-korean-game-rating-board-almost-blocked-gta-6s-release-fearing-its-out-of-context-genital-nudity-would-disrupt-social-order/",
-  "skip:https://www.ign.com/articles/halo-campaign-evolved-to-get-firefight-as-a-free-update",
-  "https://www.playground.ru/gta_6/news/po_sluham_predzakazy_gta_6_prevysili_11_mln_kopij_posle_starta_predzagruzki_igra_prodaetsya_po_millionu_kopij_v_den-1890289#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:По слухам, предзаказы GTA 6 превысили 11 млн копий - после старта предзагрузки игра продается по миллиону копий в день",
   "skip:https://www.playground.ru/company_of_heroes_3/news/company_of_heroes_3_stala_vremenno_besplatnoj_v_steam_v_chest_20_letiya_serii-1890309#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169914/company-of-heroes-3-stala-vremenno-besplatnoj-v-steam-i-poluchila-krupnejshuyu-skidku/",
@@ -998,5 +995,8 @@
   "skip:https://kg-portal.ru/comments/135954-komne-komanda-iks-russkij-trejler-filma-mstiteli-doktor-dum/",
   "skip:https://kg-portal.ru/comments/135952-basta-nachalo-igry-trejler/",
   "https://www.film.ru/news/na-prime-video-vyshel-begushchiy-po-lezviyu-2099",
-  "title:На Prime Video вышел Бегущий по лезвию 2099"
+  "title:На Prime Video вышел Бегущий по лезвию 2099",
+  "skip:https://www.film.ru/news/makoley-kalkin-i-a24",
+  "https://www.kinonews.ru/news_144326/",
+  "title:Lionsgate готова снять новые \"Голодные игры\""
 ]

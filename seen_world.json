@@ -1,11 +1,4 @@
 [
-  "skip:https://www.rbc.ru/rbcfreenews/6b01925933f2cdc46fcd92b5",
-  "skip:https://tass.ru/proisshestviya/28342443",
-  "skip:https://www.interfax.ru/russia/1130584",
-  "https://tass.ru/proisshestviya/28342455",
-  "title:В многоквартирном доме во Владикавказе произошел взрыв, есть погибшие",
-  "skip:https://ria.ru/20261121/bpla-2133138344.html",
-  "skip:https://www.interfax.ru/russia/1130585",
   "https://tass.ru/proisshestviya/28342451",
   "title:Средства ПВО нейтрализовали три беспилотника в Псковской области",
   "skip:https://ria.ru/20261121/vladikavkaz-2133140810.html",
@@ -998,5 +991,12 @@
   "title:США предложили ввести новые таможенные пошлины против Китая, ЕС и других торговых партнеров",
   "skip:https://www.france24.com/en/video/20261125-historic-space-mission-china-launches-shenzhou-24-spacecraft-carrying-pakistani-astronaut",
   "https://www.theguardian.com/science/2026/nov/25/china-sends-first-pakistani-astronaut-into-space",
-  "title:Китай запустил космический корабль с первым иностранным астронавтом на борту к орбитальной станции"
+  "title:Китай запустил космический корабль с первым иностранным астронавтом на борту к орбитальной станции",
+  "skip:https://www.kommersant.ru/doc/9130725",
+  "https://www.interfax.ru/world/1131421",
+  "title:В Ормузском проливе на мине подорвался танкер с сжиженным природным газом",
+  "skip:https://tass.ru/proisshestviya/28355445",
+  "skip:https://ria.ru/20261125/kair-2133984076.html",
+  "https://ria.ru/20261125/kair-2133985996.html",
+  "title:В Каире в результате ДТП с перевернувшимся грузовиком погибли люди"
 ]

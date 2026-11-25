@@ -1,12 +1,4 @@
 [
-  "skip:https://www.film.ru/news/novaya-pyatnica-13-e-v-rabote",
-  "https://variety.com/2026/film/global/jon-hamm-andrew-koji-takashi-miike-tokyo-bullfrog-mk2-1236946806/",
-  "title:Jon Hamm, Andrew Koji to Star in Takashi Miike’s Tokyo-Set Psychological Thriller ‘Bullfrog’ as Mk2 Films Boards Sales (EXCLUSIVE)",
-  "skip:https://deadline.com/2026/11/christian-cousins-dead-kindergarten-cop-1237222743/",
-  "https://deadline.com/2026/11/box-office-ebenezer-1237222749/",
-  "title:‘Ebenezer’ Counts $1.5M In Previews On Thursday; Johnny Depp Pic Hopes For $40M WW Opening",
-  "skip:https://www.film.ru/articles/vyshla-rasshirennaya-versiya-mstiteli-final-encore-vot-chto-dobavili-v-film",
-  "https://www.kinonews.ru/news_144145/",
   "title:Роберт Паттинсон стал главным претендентом на роль Джеймса Бонда",
   "skip:https://www.igromania.ru/news/169940/psychonauts-2-stala-psihonavtami-2-dlya-igryi-vyipustili-neofitsialnuyu-russkuyu-lokalizatsiyu/",
   "skip:https://www.playground.ru/psychonauts_2/news/polnaya_russkaya_lokalizatsiya_psychonauts_2_dozhdalas_chasa_svoego_reliza-1890550#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +990,13 @@
   "skip:https://www.igromania.ru/news/170218/sozdatel-resident-evil-2-hotel-byi-sdelat-novuyu-bezumnuyu-castlevania/",
   "skip:https://www.pcgamer.com/games/fps/marathons-new-runner-shell-is-a-jet-propelled-robot-samurai-who-wants-to-hurt-you/",
   "https://stopgame.ru/newsdata/73625/vyhod_lords_of_the_fallen_ii_sdvinuli_na_aprel_2027_goda",
-  "title:Выход Lords of the Fallen II сдвинули на апрель 2027 года"
+  "title:Выход Lords of the Fallen II сдвинули на апрель 2027 года",
+  "skip:https://www.playground.ru/expeditions_samurai/news/dlya_expeditions_samurai_vyshlo_vtoroe_krupnoe_obnovlenie_rannego_dostupa_v_igre_poyavilsya_vtoroj_akt_s_gorodom_osaka-1893795#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/170223/expeditions-samurai-o-feodalnoj-yaponii-poluchila-obnovlenie-rannego-dostupa-s-novoj-glavoj/",
+  "skip:https://stopgame.ru/newsdata/73631/v_16_m_sezone_diablo_iv_uluchshat_adskiy_natisk_i_ostavyat_chast_kontenta_iz_proshloy_glavy",
+  "skip:https://gamemag.ru/news/202298/lords-of-the-fallen-ii-vyydet-v-aprele-2027-goda",
+  "skip:https://www.ign.com/articles/diablo-4-season-16-fixes-one-of-the-biggest-problems-with-helltide",
+  "https://gamemag.ru/news/202301/cyberpunk-2s-development-team-has-grown-with-plans-to-get-even-bigger-next-year",
+  "video:2026-11-25:https://gamemag.ru/news/202301/cyberpunk-2s-development-team-has-grown-with-plans-to-get-even-bigger-next-year",
+  "title:Команда разработчиков Cyberpunk 2 выросла почти до 200 человек — CD Projekt RED довольна прогрессом"
 ]

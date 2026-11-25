@@ -1,7 +1,4 @@
 [
-  "https://kg-portal.ru/comments/135773-rezhisser-podarivshij-dzhejsonu-vurhizu-vse-znamenitye-prichindaly-snimet-novuju-pjatnicu-13e/",
-  "title:Режиссёр, подаривший Джейсону Вурхизу все знаменитые причиндалы, снимет новую \"Пятницу, 13-е\"",
-  "https://www.kinonews.ru/news_144139/",
   "title:Майкл Б. Джордан соблазняет Адрию Архону в трейлере \"Афера Томаса Крауна\"",
   "skip:https://gamemag.ru/news/202121/doom-the-dark-ages-jdet-boynya-treyler-novogo-rejima-dlya-shutera-id-software",
   "skip:https://stopgame.ru/newsdata/73494/gta_vi_chut_ne_otkazali_v_sertifikacii_v_koree_iz_za_izbytochnoy_nagoty",
@@ -998,5 +995,8 @@
   "skip:https://www.film.ru/news/novyy-treyler-volshebnika-izumrudnogo-goroda-2",
   "skip:https://kg-portal.ru/comments/135964-samyj-tjazhelyj-den-nedeli-stal-rekordnym-dlja-golodnyh-igr-rassvet-zhatvy/",
   "https://www.film.ru/news/otryvok-vervulfa-roberta-eggersa",
-  "title:Отрывок Вервульфа Роберта Эггерса"
+  "title:Отрывок Вервульфа Роберта Эггерса",
+  "skip:https://www.kinonews.ru/news_144328/",
+  "https://kg-portal.ru/comments/135972-surovyj-mir-kejpopa-vtrejlere-filma-kpop-debjut/",
+  "title:Суровый мир кей-попа в трейлере фильма \"K-Pop: Дебют\""
 ]

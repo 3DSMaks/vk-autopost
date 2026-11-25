@@ -1,9 +1,4 @@
 [
-  "skip:https://www.film.ru/news/redkliff-ne-planiruet-smotret-pottera",
-  "skip:https://kg-portal.ru/comments/135727-dzhejms-gann-rad-chto-zakonchilis-chetyre-goda-dcstradanij-emu-nikogda-ne-nravilos-byt-bossom-studii/",
-  "skip:https://www.kinonews.ru/article_144076/",
-  "https://deadline.com/2026/11/paddington-the-musical-broadway-cast-2026-1237218092/",
-  "title:‘Paddington: The Musical’ Sets Broadway Cast With Tony Hale, J. Quinton Johnson, Jessie Mueller & More",
   "https://www.film.ru/news/vera-farmiga-v-novom-horrore",
   "title:Вера Фармига в новом хорроре",
   "skip:https://www.film.ru/news/desyat-let-tyurmy-dlya-rassella-brenda",
@@ -998,5 +993,10 @@
   "title:Chris Evans On Secret Meetings About ‘Avengers’ Return Despite Saying He Was “Happily Retired” From MCU",
   "posted:2026-11-25T20:05:07+00:00",
   "https://www.film.ru/news/zavershilis-semki-ohoty-na-golluma",
-  "title:Завершились съемки Охоты на Голлума"
+  "title:Завершились съемки Охоты на Голлума",
+  "posted:2026-11-25T21:34:05+00:00",
+  "skip:https://kg-portal.ru/comments/135979-vlastelin-kolec-ohota-za-gollumom-zavershenie-semok/",
+  "skip:https://www.kinonews.ru/article_144333/",
+  "https://kg-portal.ru/comments/135977-dzhejmsu-kemeronu-skazali-avatar-4-vkljuchili-v-spisok-objazatelnyh-premer-disney/",
+  "title:Джеймсу Кэмерону сказали? \"Аватар 4\" включили в список обязательных премьер Disney"
 ]

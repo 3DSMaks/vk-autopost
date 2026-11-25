@@ -1,11 +1,4 @@
 [
-  "https://tass.ru/proisshestviya/28342451",
-  "title:Средства ПВО нейтрализовали три беспилотника в Псковской области",
-  "skip:https://ria.ru/20261121/vladikavkaz-2133140810.html",
-  "skip:https://ria.ru/20261121/vzryv-2133135561.html",
-  "https://www.kommersant.ru/doc/9127139",
-  "title:В многоквартирном доме во Владикавказе произошел взрыв газа, есть погибшие",
-  "skip:https://www.kommersant.ru/doc/9127121",
   "https://ria.ru/20261121/tanker-2133138708.html",
   "title:Два танкера атакованы в районе Ормузского пролива и у берегов Омана",
   "skip:https://www.kommersant.ru/doc/9127154",
@@ -998,5 +991,12 @@
   "skip:https://tass.ru/proisshestviya/28355445",
   "skip:https://ria.ru/20261125/kair-2133984076.html",
   "https://ria.ru/20261125/kair-2133985996.html",
-  "title:В Каире в результате ДТП с перевернувшимся грузовиком погибли люди"
+  "title:В Каире в результате ДТП с перевернувшимся грузовиком погибли люди",
+  "skip:https://ria.ru/20261125/ukraina-2133983010.html",
+  "https://tass.ru/ekonomika/28355525",
+  "title:Совет ЕС одобрил выделение Украине 45 миллиардов евро",
+  "skip:https://tass.ru/kosmos/28355459",
+  "skip:https://ria.ru/20261125/spacex-2133982588.html",
+  "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres?traffic_source=rss",
+  "title:США разрешили SpaceX запустить миллион спутников для дата-центров"
 ]

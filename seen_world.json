@@ -1,7 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWtIWXhnWHpsWWZSZ2dFVFRFSXBHaUxOWlp1VnFSZEoycGRtMDE1NVhuM2NEa2ZUTHlLN0lFbG5aX295SThLcFVXMEV3VmJidHF2amdDelVYWWprLXRsNWpodU9LcERma2xnc2pWaTZGbmNHZnYwREdjQnBOcGR0S0JSdnZTaC1aYmtBWXdRXzJiVDhHbFBEZ3lDdWhzS3Q3dnFMY3d3cjZIdw?oc=5",
-  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01YzRiT09nYlU4eGlRUGtzSE1Jd1MyT1BpbUozZWxhNG95LTBqUnNwcTFlQURCcXY2ZTJ5RDd2YWhTR0J4RDhMcVM3ZHUyRGlOSU50TjRwbmk2eUZMNndFNF9hMDBYcVU?oc=5",
-  "title:Обвал акций технологических компаний на бирже США привел к падению индексов S&P 500 и Dow Jones",
   "skip:https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
   "https://news.google.com/rss/articles/CBMixwFBVV95cUxOemxCMzdZQVhrN293eFVPNTNrdHFZblZJNkJFQzluUFhMMG8xQUI1SG80YjdUWWgzdElKWmtiVVRmOFhKS2toWWZLZ2ttZ1ZOVDl3dFVEcGlpSG9DSy1ZbW1TVEY0VFpPbzhJck9sYjJHRDkzakFBTlJ4MFhOcEZfVTF3M2lIUGo2aWQ4VUdfaDJFaklfUzlVTWlCWlNHeEp3RnZ6NWI4UmpQVzlrd1I2My1tTDNsXzJDRHRIWHRXR0ZZbXZGanpz?oc=5",
   "title:Климатический саммит COP31 перешел в овертайм из-за споров об ископаемом топливе",
@@ -998,5 +995,8 @@
   "title:Следствие ходатайствует об аресте губернатора Мурманской области Андрея Чибиса по обвинению в растрате и взятке",
   "skip:https://www.interfax.ru/russia/1131238",
   "https://www.kommersant.ru/doc/9130071",
-  "title:В Рязанской области из-за сильных снегопадов задерживаются 35 поездов дальнего следования"
+  "title:В Рязанской области из-за сильных снегопадов задерживаются 35 поездов дальнего следования",
+  "skip:https://www.interfax.ru/russia/1131252",
+  "https://tass.ru/politika/28352917",
+  "title:МИД РФ осудил атаки хуситов на гражданские объекты в Саудовской Аравии"
 ]

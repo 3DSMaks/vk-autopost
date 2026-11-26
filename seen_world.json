@@ -1,7 +1,4 @@
 [
-  "skip:https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-  "skip:https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/22/un-climate-talks-collapse-without-a-deal?traffic_source=rss",
   "skip:https://ria.ru/20261122/cop31-2133286359.html",
   "skip:https://tass.ru/obschestvo/28344007",
   "skip:https://www.kommersant.ru/doc/9127532",
@@ -998,5 +995,8 @@
   "skip:https://news.google.com/rss/articles/CBMitAFBVV95cUxNYVh6dEF5N3dINWRReHpSbElCSDBTZzlXcVJqaUlHXzRoSTlSeTZ0Vnc2V3FvXzJwVGlNZVBrRGdPTHY4SVlQdEpoV1pwMHNfdVlMX09SNllUVFVYSFFlNTYzN29hckswbU5mWTlSYlRoV0ZhYS1fT2R1VlZ4YmFTdlRCYUpCem4wTlNOR0RvMHNfUV9lRVZRREpBdjNuTFphcUpITm1aY0wyTWkySW1mR09xVjI?oc=5",
   "skip:https://news.google.com/rss/articles/CBMitAFBVV95cUxNZmk5SkpEdGwtR2pPNzZFT0tXLUFObl8wQnJfcTVRcXhfOHpVNnI1TFZwR2F1RnJOczB5MjRkNzNWRl9Wd0EtZFc0ZEVFYmZmanJiOFVIdHY4WWdORGVXVUg2YmhUZVdHRlJJblBmWGdXUVYyR0RBYjlvTUwtdXFvRXFXUkNTbnRmbFlidUhOWk0wdUFSSkZQS3ZkeDBwWi1wT2pLVXNRYzlHUkJhRG1sbXVmY3g?oc=5",
   "https://ria.ru/20261126/futbol-2134255580.html",
-  "title:Матч Лиги Европы между «Бешикташем» и «Хапоэлем» прерван из-за беспорядков на трибунах"
+  "title:Матч Лиги Европы между «Бешикташем» и «Хапоэлем» прерван из-за беспорядков на трибунах",
+  "skip:https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFBOZGpxZHowYWJzZlRFNFBlUEZsMEpvREpnQnMybTMzTTczbWg4RlRRM2VkWlNWbGNIZEc4ZGF1ODRxZzdqenRLdkoxbmhzb0stZDVQQzZuWV82aWV2Y0ZIVkxDVDd3bUJ5U1Eyc0FCdTlBaUFJVHc0VmlYOEZYQVU2MjBzTVI0NzJnbzc4RUJ3b2lycUppbHZB?oc=5",
+  "https://tass.ru/mezhdunarodnaya-panorama/28360035",
+  "title:Лидеры ЕС не смогли достичь договоренности по многолетнему бюджету на саммите"
 ]

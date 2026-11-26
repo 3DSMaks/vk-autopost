@@ -1,14 +1,4 @@
 [
-  "skip:https://ria.ru/20261122/cop31-2133286359.html",
-  "skip:https://tass.ru/obschestvo/28344007",
-  "skip:https://www.kommersant.ru/doc/9127532",
-  "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-  "title:Климатическая конференция ООН COP31 в Турции завершилась без итогового заявления",
-  "skip:https://www.aljazeera.com/sports/2026/11/22/liverpool-thrash-10-man-man-united-in-nightmare-start-for-pochettino?traffic_source=rss",
-  "skip:https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUhXUjN4WGxrQVpITklfcVFxakdsblp6NnZQNWxYU0cwWEwxejlTRTNtU19zcm1rcWQ1ZVJBeXAyTUt5cE5CWXd4QmtOSmp2WUZqVjREQmhYcTBXOXlwX2NBQ3R6TkNQcXl5QkNfR3U4ZUVuR29qZWxfN0hHQkozYnJCSENya28xeWRqZTVSNURCVzB3b3QtRFpQbVFkdDByVzZMUDdZQjRFdk0?oc=5",
-  "skip:https://www.sport-interfax.ru/1130689",
-  "skip:https://tass.ru/sport/28344055",
-  "https://ria.ru/20261122/liverpul-2133294843.html",
   "title:Манчестер Юнайтед разгромно проиграл Ливерпулю со счетом 0:4 в матче АПЛ",
   "skip:https://www.france24.com/en/africa/20261122-russian-warship-hit-by-suspected-ukrainian-drone-at-libya-s-benghazi-naval-base",
   "skip:https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss",
@@ -998,5 +988,15 @@
   "title:Матч Лиги Европы между «Бешикташем» и «Хапоэлем» прерван из-за беспорядков на трибунах",
   "skip:https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFBOZGpxZHowYWJzZlRFNFBlUEZsMEpvREpnQnMybTMzTTczbWg4RlRRM2VkWlNWbGNIZEc4ZGF1ODRxZzdqenRLdkoxbmhzb0stZDVQQzZuWV82aWV2Y0ZIVkxDVDd3bUJ5U1Eyc0FCdTlBaUFJVHc0VmlYOEZYQVU2MjBzTVI0NzJnbzc4RUJ3b2lycUppbHZB?oc=5",
   "https://tass.ru/mezhdunarodnaya-panorama/28360035",
-  "title:Лидеры ЕС не смогли достичь договоренности по многолетнему бюджету на саммите"
+  "title:Лидеры ЕС не смогли достичь договоренности по многолетнему бюджету на саммите",
+  "skip:https://ria.ru/20261127/es-2134259053.html",
+  "skip:https://ria.ru/20261127/sammit-2134257461.html",
+  "skip:https://ria.ru/20261127/frantsija-2134256992.html",
+  "skip:https://www.rbc.ru/politics/26/11/2026/6b0899131012411d6fd55ec2",
+  "skip:https://www.france24.com/en/le-pen-slams-push-for-eu-budget-deal-before-french-election",
+  "https://ria.ru/20261127/sammit-2134259201.html",
+  "title:Саммит лидеров ЕС в Брюсселе оказался под угрозой срыва из-за разногласий по бюджету",
+  "skip:https://www.rbc.ru/politics/26/11/2026/6b0881ebd825205c50e94c8b",
+  "https://ria.ru/20261126/livija-2134256446.html",
+  "title:Глава МИД Украины обсудил с временным главой МИД Ливии атаку на порт Бенгази"
 ]

@@ -1,7 +1,4 @@
 [
-  "skip:https://www.playground.ru/misc/news/final_kvesta_vizhna_postavil_rekord_marvel_na_disney-1890528#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://stopgame.ru/newsdata/73501/the_blood_of_dawnwalker_popolnitsya_novoy_igroy_na_sleduyuschey_nedele",
-  "https://www.playground.ru/gta_6/news/nichego_sopostavimogo_po_masshtabu_esche_ne_bylo_analitiki_zhdut_ot_gta_6_55_mln_prodazh_k_kontsu_marta_2027-1890561#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:\"Ничего сопоставимого по масштабу еще не было\": аналитики ждут от GTA 6 55 млн продаж к концу марта 2027",
   "skip:https://www.kinonews.ru/news_144148/",
   "skip:https://variety.com/2026/digital/news/jason-voorhees-animated-debut-hike-alone-short-1236947225/",
@@ -998,5 +995,8 @@
   "https://www.film.ru/news/leon-vnov-pokazhut-v-rossii",
   "title:«Леон» вновь покажут в России",
   "https://www.film.ru/news/vyshel-treyler-seriala-kamenskaya-perezagruzka",
-  "title:Вышел трейлер сериала «Каменская. Перезагрузка»"
+  "title:Вышел трейлер сериала «Каменская. Перезагрузка»",
+  "skip:https://www.igromania.ru/news/170245/geroyam-gta-6-sozdali-po-3-varianta-animatsii-dlya-kazhdogo-vzaimodejstviya-s-predmetami/",
+  "https://www.playground.ru/gta_6/news/tak_proishodyaschee_obretaet_smysl_rockstar_obyasnila_novuyu_sistemu_prestuplenij_v_gta_6-1894037#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:\"Так происходящее обретает смысл\": Rockstar объяснила новую систему преступлений в GTA 6"
 ]

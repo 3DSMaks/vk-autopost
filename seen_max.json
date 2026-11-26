@@ -1,6 +1,4 @@
 [
-  "skip:https://www.playground.ru/psychonauts_2/news/polnaya_russkaya_lokalizatsiya_psychonauts_2_dozhdalas_chasa_svoego_reliza-1890550#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169934/sozdateli-the-blood-of-dawnwalker-predstavili-obnovlenie-s-novoj-igroj-reliz-na-seduyuschej-nedele/",
   "skip:https://www.playground.ru/misc/news/final_kvesta_vizhna_postavil_rekord_marvel_na_disney-1890528#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://stopgame.ru/newsdata/73501/the_blood_of_dawnwalker_popolnitsya_novoy_igroy_na_sleduyuschey_nedele",
   "https://www.playground.ru/gta_6/news/nichego_sopostavimogo_po_masshtabu_esche_ne_bylo_analitiki_zhdut_ot_gta_6_55_mln_prodazh_k_kontsu_marta_2027-1890561#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +996,7 @@
   "skip:https://deadline.com/2026/11/south-park-gta-vi-outages-zombie-kenny-season-29-finale-1237233874/",
   "skip:https://kg-portal.ru/comments/135979-vlastelin-kolec-ohota-za-gollumom-zavershenie-semok/",
   "https://www.film.ru/news/leon-vnov-pokazhut-v-rossii",
-  "title:«Леон» вновь покажут в России"
+  "title:«Леон» вновь покажут в России",
+  "https://www.film.ru/news/vyshel-treyler-seriala-kamenskaya-perezagruzka",
+  "title:Вышел трейлер сериала «Каменская. Перезагрузка»"
 ]

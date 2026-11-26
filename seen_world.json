@@ -1,11 +1,4 @@
 [
-  "https://www.france24.com/en/south-korea-ai-cheating-sparks-exam-security-chaos",
-  "title:Министр образования Южной Кореи подал в отставку из-за скандала со списком на экзаменах",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28343657",
-  "https://ria.ru/20261122/gruziya-2133251181.html",
-  "title:Власти Грузии и правящая партия объявили о решении запретить суррогатное материнство",
-  "skip:https://www.kommersant.ru/doc/9127347",
-  "skip:https://www.rbc.ru/business/22/11/2026/6b02c2345639478af8997a62",
   "https://www.kommersant.ru/doc/9127358",
   "title:СМИ раскрыли организаторов схемы контрабанды чипов Nvidia в Китай и новые правила биржевых торгов",
   "skip:https://www.interfax.ru/world/1130664",
@@ -998,5 +991,12 @@
   "skip:https://news.google.com/rss/articles/CBMiowFBVV95cUxPazQ1LXNCQnNXd2lVdDExZDdCQVFxV2NwTmluQ1FXU2wzUkN5REwxYWVzdFdOVS1LN1ZrcEllQ0lleGdic2VHai1VTldNOS1TTXAyQVpiWmhKbXhLaTI3eFNNQnRNMzlFZUpUamI4R0VqS2pBY2NwQkItUm1MeHhacldyQ3FiUm1tUmVzdEM4ZTJndHpteFY2LUthU18weTdMdTZN?oc=5",
   "skip:https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOV8wZkxRVTY5U0ZQeVZwSGtCMVZJTjV2d2t5TlhsSVoxQmpLRXI4OTV1R0QwQkV1QmZma3BDN0lrOEJTNGFVeloyeE5HbnhmWDZfR1VrbzN5TzZrck5WTTlKNTBaeFhVbDd4RldhY0hZMnFsczlsTURLY0FpWWgzeE5YVVc2NUZqMy1KbldQVDJfcUtsVEhINHF2emJ5SEFrMXozWUdTM3BFQQ?oc=5",
   "https://www.france24.com/en/europe/20261126-spanish-economist-de-cos-succeed-lagarde-head-ecb",
-  "title:Бывший глава Банка Испании Пабло Эрнандес де Кос назначен новым председателем Европейского центрального банка"
+  "title:Бывший глава Банка Испании Пабло Эрнандес де Кос назначен новым председателем Европейского центрального банка",
+  "skip:https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss",
+  "https://tass.ru/mezhdunarodnaya-panorama/28359413",
+  "title:Иран опроверг обвинения в нападении на объект в Кувейте",
+  "skip:https://www.interfax.ru/world/1131674",
+  "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+  "title:Мощный взрыв произошел на нефтеперерабатывающем заводе в Бангкоке"
 ]

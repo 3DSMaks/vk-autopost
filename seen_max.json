@@ -1,8 +1,4 @@
 [
-  "title:\"Ничего сопоставимого по масштабу еще не было\": аналитики ждут от GTA 6 55 млн продаж к концу марта 2027",
-  "skip:https://www.kinonews.ru/news_144148/",
-  "skip:https://variety.com/2026/digital/news/jason-voorhees-animated-debut-hike-alone-short-1236947225/",
-  "skip:https://www.film.ru/news/margo-robbi-u-rezhissera-dramy",
   "skip:https://www.kinonews.ru/news_144146/",
   "https://www.kinonews.ru/news_144150/",
   "title:Кевин Файги объяснил возвращение первых Людей Икс в \"Мстители: Судный день\"",
@@ -998,5 +994,9 @@
   "title:Вышел трейлер сериала «Каменская. Перезагрузка»",
   "skip:https://www.igromania.ru/news/170245/geroyam-gta-6-sozdali-po-3-varianta-animatsii-dlya-kazhdogo-vzaimodejstviya-s-predmetami/",
   "https://www.playground.ru/gta_6/news/tak_proishodyaschee_obretaet_smysl_rockstar_obyasnila_novuyu_sistemu_prestuplenij_v_gta_6-1894037#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:\"Так происходящее обретает смысл\": Rockstar объяснила новую систему преступлений в GTA 6"
+  "title:\"Так происходящее обретает смысл\": Rockstar объяснила новую систему преступлений в GTA 6",
+  "skip:https://www.playground.ru/gta_6/news/bolshe_ne_bessmertnyj_igroki_gta_6_raskryli_slabost_zhutkogo_stalkera_i_prevratili_ego_v_istochnik_legkih_deneg-1894038#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/gta-6-missing-persons-locations/",
+  "https://stopgame.ru/newsdata/73637/ps_v_dekabre_amnesia_the_bunker_dragon_ball_xenoverse_2_i_tony_hawk_s_pro_skater_3_4",
+  "title:PS+ в декабре — Amnesia: The Bunker, Dragon Ball Xenoverse 2 и Tony Hawk’s Pro Skater 3 + 4"
 ]

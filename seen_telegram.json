@@ -1,7 +1,4 @@
 [
-  "skip:https://variety.com/2026/film/box-office/ebenezer-box-office-johnny-depp-opening-day-1236947684/",
-  "skip:https://variety.com/2026/film/news/adam-driver-disney-hunt-for-ben-solo-criminal-1236947685/",
-  "skip:https://www.film.ru/news/treyler-zaklyatya-povelitelya-dush",
   "https://variety.com/2026/film/news/hen-review-1236947197/",
   "title:‘Hen’ Review: A Resilient Chicken Flies the Coop, Over and Over, in an Unexpectedly Stirring Survival Story",
   "skip:https://deadline.com/2026/11/steen-ostergaard-olivier-mourgue-dead-1237223746/",
@@ -998,5 +995,8 @@
   "title:Вышел второй сезон «Дорогуши»",
   "skip:https://www.kinonews.ru/news_144346/",
   "https://www.film.ru/news/vyshel-treyler-seriala-kamenskaya-perezagruzka",
-  "title:Вышел трейлер сериала «Каменская. Перезагрузка»"
+  "title:Вышел трейлер сериала «Каменская. Перезагрузка»",
+  "skip:https://www.kinonews.ru/news_144337/",
+  "https://www.film.ru/news/9-12-nedel-v-rossii",
+  "title:«9 1/2 недель» в России"
 ]

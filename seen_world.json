@@ -1,9 +1,4 @@
 [
-  "title:Силы ПВО отразили атаку беспилотников над Севастополем",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28342937",
-  "https://ria.ru/20261122/slovakija-2133191417.html",
-  "title:Премьер-министр Словакии Роберт Фицо заявил об отказе участвовать в кредите ЕС для Украины",
-  "skip:https://tass.ru/kosmos/28342945",
   "skip:https://www.interfax.ru/russia/1130618",
   "https://ria.ru/20261121/spacex-2133188552.html",
   "title:Компания SpaceX запустила Falcon 9 со спутниками Starshield для Космических сил США",
@@ -998,5 +993,10 @@
   "title:Госдума утвердила Ольгу Полякову на должность члена совета директоров ЦБ",
   "skip:https://www.interfax.ru/world/1131580",
   "https://ria.ru/20261126/serbiya-2134120305.html",
-  "title:Досрочные президентские выборы в Сербии назначены на 27 декабря"
+  "title:Досрочные президентские выборы в Сербии назначены на 27 декабря",
+  "skip:https://www.interfax.ru/russia/1131590",
+  "skip:https://tass.ru/ekonomika/28358151",
+  "skip:https://www.rbc.ru/quote/26/11/2026/6b0445150b8c95d97832d12b",
+  "https://www.rbc.ru/finances/26/11/2026/6b081e52a42946ff8254328b",
+  "title:Госдума одобрила в первом чтении законопроект о переводе пенсионных накоплений в программу долгосрочных сбережений"
 ]

@@ -1,10 +1,4 @@
 [
-  "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-  "title:Финляндия заявила о возможной причастности Украины к атаке дронов на российское судно в Финском заливе",
-  "skip:https://news.google.com/rss/articles/CBMimgFBVV95cUxOTzg5OVFjVWE0RGV5T1VhWTRQR2JFd0VqdFNBSEVtZ2NxdHotRXFIYVIxd1FmUzY2UmJtR2lSamtTU21TUXZfcTJ0Zm9kMnNCQVdoclZoaHBsTGVNbjZZcVlaYWNtNHVrM2FST21pRU84UzlZd3oyLTlERlR3M0lRQVpxQTZhZXhqTU12SFQzVGpYNllBeTFOS2hn?oc=5",
-  "skip:https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKX3JwTl92NG1EMFFiZGNSUDk2bTRHWWwwYnBObS1kamRlZnc4LXhpZjY5bkRRZUtyOS1lVlhaaFFtWWIxVEJKZkFFX211ck1ValR3cE56ZnUwUFRIWmJucmI2ZVl3M2M?oc=5",
-  "skip:https://ria.ru/20261121/parizh-2133175483.html",
-  "https://tass.ru/obschestvo/28342845",
   "title:Во Франции прошли массовые протесты против роста цен, полиция задержала более 140 человек",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28342875",
   "skip:https://www.rbc.ru/politics/21/11/2026/6b01ddabc8b289a334eb3c48",
@@ -998,5 +992,11 @@
   "skip:https://ria.ru/20261126/kndr-2134010591.html",
   "skip:https://news.google.com/rss/articles/CBMingFBVV95cUxQcjR1N2UyTm5TeG50ZVdtSHRYd1NuZ2lfeWxNQWluM182WUtVUHpGbGRSN05QdkQ2Ti00ZUZzeFFxTE9yMU1SbEVYMlM5RHRicmtoT1R2QTlJUjQ5VFp3Y0RwQmFGRzJpd3lYWmUzUjBFQThMTkhYbGs1TnZSTEF3RnotdE5QVWhaaG54dm9UYW0xQUNJeTg1YXRHZ1JvQQ?oc=5",
   "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
-  "title:Ким Чен Ын заявил о необходимости расширения производства ядерного оружия в КНДР"
+  "title:Ким Чен Ын заявил о необходимости расширения производства ядерного оружия в КНДР",
+  "skip:https://www.interfax.ru/russia/1131471",
+  "skip:https://www.kommersant.ru/doc/9130818",
+  "skip:https://www.interfax.ru/russia/1131468",
+  "skip:https://ria.ru/20261126/vzryv-2134013682.html",
+  "https://www.rbc.ru/rbcfreenews/6b079fda3ab33d4bd6403470",
+  "title:Число погибших при взрыве газа в жилом доме на Алтае увеличилось до двух"
 ]

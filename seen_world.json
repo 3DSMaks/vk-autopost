@@ -1,11 +1,4 @@
 [
-  "skip:https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss",
-  "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXUxa0FLT1o3Tzh4MUR0MV9ZenU1LU9PZl9QSzhsQXlOQThFNUxWbWFXRXZTOHFpb1lJdG1GTV9hOUZsc2x4YzBOSzV3ZHZkV2pyNjNIaTVWZEViQ2lLb3JkcjJsbGhVNXFmWXQ5c0pDTkVXeG9IbmlKV3AxYUtfNE5DVnhWX3lvNmg0SF9SZ1lHQzEtSnY1REsycUlvWFVEOFlBSXR3?oc=5",
-  "title:Российское грузовое судно загорелось после атаки в Балтийском море у берегов Финляндии",
-  "skip:https://tass.ru/kosmos/28343821",
-  "skip:https://www.interfax.ru/world/1130665",
-  "https://www.interfax.ru/world/1130670",
-  "title:Космический аппарат BepiColombo вышел на орбиту Меркурия",
   "skip:https://www.rbc.ru/politics/22/11/2026/6b02e4abdcbd0c7f985b73bc",
   "skip:https://www.kommersant.ru/doc/9127392",
   "skip:https://ria.ru/20261122/husnullin-2133257717.html",
@@ -998,5 +991,12 @@
   "title:Два гражданина Италии погибли в Кувейте в результате удара беспилотника",
   "skip:https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzFOeDFjM0VPTXBIZkxlelN0ZFAtQ25fOUZkTVVheGM0cURoX1RqVXUzTGttUDlLTmhuczVlelh1eGJUYkVWQllDQ1ZzTlB3OUdQMjloczZsRGR4WGwzbF9XWURoSk9Tb2FybGNlbExBc243elBHTGxtNnpacDR3Y1pSaDctcFZqdUs5UkJiZ1R1Q09lTWxkUmN2TnNSZUdaQlpPNUl1N0tZVDJGd0xOT0lTU0tGUzA?oc=5",
   "https://www.kommersant.ru/doc/9131691",
-  "title:Заместитель командующего ВКС России генерал Юрий Грехов арестован по делу о взятке"
+  "title:Заместитель командующего ВКС России генерал Юрий Грехов арестован по делу о взятке",
+  "skip:https://ria.ru/20261126/strana-2134230999.html",
+  "skip:https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVFmNkU5V3FiOTM2UUhtSmJoRUY1ZEtLVzJUd2Vxdnd3VFl5eGYxQkJpS0RBT2w3eUcydXV1UU5mQzZQLUh1MXJSYmhUai1ycHYxTndUNTBvS2xsZ3p6U0U0dGVoSnY1TzgyNXZqM2lrZExlT0FxUXlHZ3A3dEp6YmdacF9uLVNfM1I0YXZuMEc1UllWMnk1b201OUxpMldfcU8yQzZn?oc=5",
+  "https://www.interfax.ru/world/1131699",
+  "title:Пабло Эрнандес де Кос рекомендован на пост председателя ЕЦБ",
+  "skip:https://www.interfax.ru/russia/1131690",
+  "https://www.kommersant.ru/doc/9131721",
+  "title:Владимир Путин утвердил новую стратегию развития Арктики до 2035 года"
 ]

@@ -1,8 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73493/avtory_warhammer_40k_dawn_of_war_iv_podelilis_sistemnymi_trebovaniyami",
-  "https://www.playground.ru/gta_6/news/glava_take_two_ne_hochet_prodavat_kompaniyu_po_primeru_ea_uspehi_gta_6_pozvolyayut_ostavatsya_nezavisimymi-1890388#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Глава Take-Two не хочет продавать компанию по примеру EA - успехи GTA 6 позволяют оставаться независимыми",
-  "https://variety.com/2026/film/news/lilo-scratch-disney-animation-short-1236946759/",
   "title:‘Lilo & Scratch’: Disney Animation Blends 2D and 3D to Bring Back Stitch to the Big Screen in a New Short",
   "skip:https://www.playground.ru/crimson_desert/news/avtory_crimson_desert_obyasnili_kak_primenyat_ii_v_novyh_igrah_dlya_otsenki_kontseptov_no_ne_sozdaniya_kontenta-1890534#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169932/ubisoft-vernyot-rainbow-six-vegas-s-novoj-polnotsennyij-chastyu-insajder/",
@@ -998,5 +994,9 @@
   "skip:https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-prequel-hexed-previews-1236958028/",
   "skip:https://deadline.com/2026/11/avengers-doomsday-dune-3-box-office-opening-projection-1237233326/",
   "https://deadline.com/2026/11/lily-james-hunting-party-movie-adaptation-universal-1237232787/",
-  "title:Lily James To Star And Produce ‘Hunting Party’ Adaptation At Universal"
+  "title:Lily James To Star And Produce ‘Hunting Party’ Adaptation At Universal",
+  "skip:https://www.playground.ru/gta_6/news/v_shage_ot_ideala_grand_theft_auto_6_poluchila_39_40_ot_yaponskogo_zhurnala_famitsu-1893980#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/170229/syomki-vlastelina-kolets-ohota-za-gollumom-ofitsialno-zavershenyi-film-vyijdet-v-dekabre-2027-goda/",
+  "https://www.playground.ru/gta_6/news/starshij_dizajner_rockstar_uveren_chto_na_poisk_vseh_tajn_v_gta_6_u_igrokov_ujdut_mnogie_gody-1893983#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Старший дизайнер Rockstar уверен, что на поиск всех тайн в GTA 6 у игроков уйдут многие годы"
 ]

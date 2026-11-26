@@ -1,10 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9127202",
-  "skip:https://ria.ru/20261121/opasnost-2133176704.html",
-  "skip:https://ria.ru/20261121/kalinigrad-2133176607.html",
-  "skip:https://www.rbc.ru/rbcfreenews/6b01d82bd84ce6f4df023a7c",
-  "skip:https://www.kommersant.ru/doc/9127201",
-  "skip:https://www.interfax.ru/russia/1130608",
   "https://www.interfax.ru/russia/1130613",
   "title:В Калининградской области сработала система беспилотной опасности, аэропорт Храброво вводил ограничения",
   "skip:https://www.france24.com/en/russia-launches-ballistic-missile-attack-on-zelensky-s-hometown-in-central-ukraine",
@@ -998,5 +992,11 @@
   "title:У берегов Ибицы затонул танкер, погиб член экипажа",
   "skip:https://news.google.com/rss/articles/CBMimwFBVV95cUxPV2k5ZE4zX1RNVDhlc3RhSzRLNVEzVF9GSm9WaEd1SzFxZllTMUt4a3VwX3M1eG91b1pyLXVNZFpKZ0VoaUVQYnZCYk8zTHZPSFBsdUFuZnZTU1VxLVp1a2JROVdCNVZ3VTB5eTJRVHV3MzhHckZuY1RvWThqR194VDNhbmhqUjQtaTRRRWxubUpFUFRzOWh4MDhDOA?oc=5",
   "https://www.aljazeera.com/news/2026/11/26/at-least-13-dead-in-indonesia-gold-mine-flood-as-rescue-efforts-intensify?traffic_source=rss",
-  "title:При наводнении на золотом руднике в Индонезии погибли люди"
+  "title:При наводнении на золотом руднике в Индонезии погибли люди",
+  "skip:https://www.france24.com/en/asia-pacific/20261126-huge-explosion-at-oil-depot-in-bangkok-sends-fireball-into-sky",
+  "https://tass.ru/proisshestviya/28357085",
+  "title:На нефтехранилище в Бангкоке произошел мощный взрыв",
+  "skip:https://ria.ru/20261126/lukashenko-2134055657.html",
+  "https://www.interfax.ru/world/1131535",
+  "title:Лукашенко внес в белорусский парламент законопроект об амнистии"
 ]

@@ -1,11 +1,4 @@
 [
-  "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSHU3NmsxWHB4a0x6ZTdpdG9ZWWlqS29GMXowZ3BEQndXZVBuU0tBc1EycDY2blB2SnNhV3pxTHctWDNFajhDWENxRlVzbHBTU193TjZsVVhXQlB3ZTZwQUZNT25KWDM5bWxXTG9FSUtvOW9zZ0wwTFBsTmFGcHZEOWlvN1QzanQtd1hQYzNR?oc=5",
-  "title:Армия США намерена применить чрезвычайные полномочия для уничтожения химикатов в Айове вопреки судебному запрету",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28344131",
-  "skip:https://www.france24.com/en/americas/20261122-democrat-hubbard-wins-north-carolina-recount-clinching-historic-house-majority",
-  "skip:https://ria.ru/20261122/demokraty-2133298666.html",
-  "skip:https://news.google.com/rss/articles/CBMipAFBVV95cUxPRjZzZ2RGU0lSUEZLLV90MW9OLVhqSThJZjd0Z3JsQ3M2VnhvMG43TFU4YUFoWXE3QTNKUk9OUGpoVUYxbDVsaDdSc01MWmVxVGx5SHZiTklObzJUXzlOVGExa3d0UmYtb2lVb3FxVTVCRnFKU2NfLVBkVE5VTUFPUG9ybUFoZ3ppc1J4OFhQT1Vrd3p6RXREa0lOb2FRVXBhenUtNw?oc=5",
-  "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
   "title:Демократическая партия США получила рекордное большинство в Палате представителей",
   "skip:https://ria.ru/20261122/alkaras-2133296249.html",
   "skip:https://tass.ru/sport/28344091",
@@ -998,5 +991,12 @@
   "title:Пабло Эрнандес де Кос назначен новым председателем Европейского центрального банка",
   "skip:https://www.rbc.ru/rbcfreenews/6b08021ef5a47c749ce724b1",
   "https://ria.ru/20261127/sbor-2134257301.html",
-  "title:В России начался сбор вопросов для прямой линии с Владимиром Путиным"
+  "title:В России начался сбор вопросов для прямой линии с Владимиром Путиным",
+  "skip:https://www.kommersant.ru/doc/9131835",
+  "skip:https://ria.ru/20261127/finljandija-2134260117.html",
+  "skip:https://news.google.com/rss/articles/CBMitwFBVV95cUxQQTlISjVuc0VWRk9XLWpHbFBVNUxKNWk4NzVSX3ZFVDZLbG12em9VX2RVLThzaHI0SXJ5M0dKOG9pR2VnZWhFelVYZXNnbjBvOUVDQW1xaHNYUl9wSmRRNl80a19GcDRwdnRva0NsMlI4Y3hPamhGUnlSbkpqWmRSRkJxVUNsdGNUUzJCcERsN3kzVFJmY1psTTh5ekhyX2x2N2JWNXl5Z3BIZ2hvYi0wNDBIRGJtTzQ?oc=5",
+  "https://tass.ru/ekonomika/28360113",
+  "skip:https://ria.ru/20261127/kiberataka-2134257698.html",
+  "https://www.rbc.ru/rbcfreenews/6b08ad41caec2fc9b7eabd6e",
+  "title:Информагентство France-Presse подверглось хакерской атаке"
 ]

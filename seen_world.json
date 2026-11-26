@@ -1,11 +1,4 @@
 [
-  "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM1VMUS1oUkxlYzRWaDg5WjNPbGJoV2t1LTlRNkVMWnF6a3Q3aUljXzlCal9hWmdhWnlkYzdKNjdFVGdwVk1WUFFucGdfbUlnY3RtUjBsdFBxVTdmTGNjcnJ1a0VDNnk5eFh5NDdWaGNWcjNWcFI2WkoxZnFUbkI5UHZ6YTdYZUVMa19Ldk5YTERtX3ZialpvbjI4eFVoQ0Eyd2l0NGxoVQ?oc=5",
-  "title:Ночная атака беспилотников и ракет на Киевскую область привела к жертвам и разрушениям",
-  "skip:https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
-  "skip:https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28343937",
-  "skip:https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVlZ4dzdCVnBlV0g5cDVCV19scWJkTG9RQWtiMng5NFlVb2VqSng0SmhxRGxLaUJ5aEgyTXRVMlpGVV9abXMwX19naG9EMlhjdEhaemxUTHM2bVhTdWc5Q09NMTR5Wk4yVmtlY2NFSHVncDdMWkhtU05keGJ6NXlGSTVKaFNlOVpsVl80QWE0T3ZQY0t5ZDB4YlNVUWdJZXJaZnJPZmFhb3I?oc=5",
-  "https://news.google.com/rss/articles/CBMifkFVX3lxTE83eTl2ZlN6aXJPY2U0ZHd6R1JxdEhsN2JBTmJlcUFaVDJCN2F3SmRTTzBkSlk0c3FVVjhIYVdLN1VTWWpVbkFFNU9lQkR1YUpJbXkxVVBhaU9QaXZORzZQR3ZVc2ZzekVaU1J0U3lzdExfOG8xblRxdGEtbVh5QQ?oc=5",
   "title:Климатическая конференция ООН COP31 завершилась без итогового заявления из-за разногласий по ископаемому топливу",
   "skip:https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
   "skip:https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
@@ -998,5 +991,12 @@
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28359593",
   "skip:https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUFfcUhOc0dCeENHdXg3OW44TjRqZ3lma0NiVzNRMjZWYjZhc1duOG9pLXQ5U0FSdjM0RDB5VlFxTlhkWWFVUDFlMElTdk5FZkM4NS1GR2hCZ2lOdHltTVJNVG51MWlxZUZQV2pRcXlCd1JjSU4wWE51U0trR2JubTBmc1YzMEhDMHZpVFprM3ktSGlXVW9yQmhnVUNyRXRUNzFXaUdiSQ?oc=5",
   "https://www.interfax.ru/world/1131710",
-  "title:В результате удара беспилотника по НПЗ в Саудовской Аравии погиб рабочий"
+  "title:В результате удара беспилотника по НПЗ в Саудовской Аравии погиб рабочий",
+  "skip:https://ria.ru/20261126/telbott-2134248712.html",
+  "https://www.rbc.ru/politics/26/11/2026/6b088d20288c4ab90b2f5a57",
+  "title:Умер бывший заместитель госсекретаря США Строуб Тэлботт",
+  "skip:https://tass.ru/obschestvo/28359909",
+  "skip:https://ria.ru/20261126/ospa-2134246028.html",
+  "https://www.rbc.ru/society/26/11/2026/6b08884d3d7da285b8c89458",
+  "title:В Санкт-Петербурге госпитализировали двоих человек с подозрением на оспу обезьян"
 ]

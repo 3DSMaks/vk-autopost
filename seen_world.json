@@ -1,14 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9127358",
-  "title:СМИ раскрыли организаторов схемы контрабанды чипов Nvidia в Китай и новые правила биржевых торгов",
-  "skip:https://www.interfax.ru/world/1130664",
-  "skip:https://tass.ru/obschestvo/28343701",
-  "skip:https://news.google.com/rss/articles/CBMipgFBVV95cUxQc3loZzVPSEw4YTN0RXZEdEpveVFkV0JoU0dtRTktZXR6LS1XVGRNVElxWHpWVUQ3eEhOMllBam9jYlNIX29HeW9ncUwyWkNhenBPcmRZeTNBNmt6MF96SkU5TS1zWUVBSEFOS0FMV1gwVmJoS3c3bGw4TjgwLUU5NTFOUEtzOWx3dy04NkhLMW9CMmJxM1dLeVRBRWMyVl9SY1A3THFB?oc=5",
-  "skip:https://www.kommersant.ru/doc/9127343",
-  "https://www.france24.com/en/environment/20261121-latest-cop31-deal-sidesteps-fossil-fuels-amid-growing-divisions",
-  "title:Участники климатической конференции COP31 в Анталье не смогли согласовать итоговое заявление из-за разногласий по ископаемому топливу",
-  "skip:https://www.interfax.ru/world/1130662",
-  "skip:https://www.rbc.ru/rbcfreenews/6b02c1b0f1da96c824cad704",
   "https://www.france24.com/en/indonesia-factory-hit-by-deadly-blaze-three-killed-and-36-missing",
   "title:В Танзании произошел крупный пожар в шести отелях на курорте Нунгви на острове Занзибар",
   "skip:https://ria.ru/20261122/iran-2133247975.html",
@@ -998,5 +988,15 @@
   "title:Иран опроверг обвинения в нападении на объект в Кувейте",
   "skip:https://www.interfax.ru/world/1131674",
   "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
-  "title:Мощный взрыв произошел на нефтеперерабатывающем заводе в Бангкоке"
+  "title:Мощный взрыв произошел на нефтеперерабатывающем заводе в Бангкоке",
+  "skip:https://www.rbc.ru/rbcfreenews/6b084742ea46f55c7c5c8a72",
+  "skip:https://ria.ru/20261126/tramp-2134217518.html",
+  "https://ria.ru/20261126/tramp-2134226290.html",
+  "title:Дональд Трамп обсудил с генсеком НАТО и Владимиром Путиным урегулирование конфликта на Украине",
+  "skip:https://www.rbc.ru/politics/26/11/2026/6b0862fbcabec9ea8a4894d3",
+  "skip:https://ria.ru/20261126/putin-2134224084.html",
+  "skip:https://tass.ru/ekonomika/28359467",
+  "skip:https://tass.ru/ekonomika/28359465",
+  "https://ria.ru/20261126/putin-2134226482.html",
+  "title:Владимир Путин утвердил стратегию развития Арктической зоны и Трансарктического коридора"
 ]

@@ -1,7 +1,4 @@
 [
-  "https://www.film.ru/news/premera-ocharovannyh",
-  "title:Премьера Очарованных",
-  "https://kg-portal.ru/comments/135777-dzhonni-depp-vernulsja-v-amerikanskie-kinoteatry-so-skazkoj-skrudzh-na-reklamu-filma-potratili-bolshe-chem-na-ego-proizvodstvo/",
   "title:Джонни Депп вернулся в американские кинотеатры со сказкой \"Скрудж\" — на рекламу фильма потратили больше, чем на его производство",
   "skip:https://gamemag.ru/news/202140/zvezda-resident-evil-requiem-hotelaby-uvidet-prodoljenie-istorii-greys-eshkroft",
   "https://gamemag.ru/news/202146/oficialno-id-software-rabotaet-nad-novoy-igroy",
@@ -998,5 +995,8 @@
   "skip:https://www.playground.ru/gta_6/news/gta_vi_prinesla_britanskoj_roznitse_32_mln_vsego_za_tri_dnya_uvelichiv_prodazhi_ps5_na_46_a_konsolej_xbox_na_75-1894142#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://gamemag.ru/news/202318/grand-theft-auto-vi-pokazala-krupneyshiy-start-pokoleniya-v-britanskoy-roznice",
   "https://www.ign.com/articles/warhammer-40000-space-marine-2-patch-160-goes-live-expands-vanguard-class-makes-big-balance-changes-and-much-more",
-  "title:Warhammer 40,000: Space Marine 2 Patch 16.0 Goes Live, Expands Vanguard Class, Makes Big Balance Changes, and Much More"
+  "title:Warhammer 40,000: Space Marine 2 Patch 16.0 Goes Live, Expands Vanguard Class, Makes Big Balance Changes, and Much More",
+  "skip:https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-thanksgiving-eve-focker-in-law-1236958999/",
+  "https://www.film.ru/news/charli-koks-okazalsya-slishkom-starym-dlya-dzheymsa-bonda",
+  "title:Чарли Кокс оказался \"слишком старым\" для Джеймса Бонда"
 ]

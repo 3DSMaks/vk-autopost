@@ -1,10 +1,4 @@
 [
-  "https://www.rbc.ru/politics/22/11/2026/6b01f431ff6c6a5945245008",
-  "title:Генсек НАТО Марк Рютте пообещал защитить каждый сантиметр территории Польши",
-  "skip:https://ria.ru/20261121/bpl-2133187044.html",
-  "skip:https://tass.ru/proisshestviya/28342909",
-  "skip:https://ria.ru/20261121/sevastopol-2133181962.html",
-  "https://www.interfax.ru/russia/1130619",
   "title:Силы ПВО отразили атаку беспилотников над Севастополем",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28342937",
   "https://ria.ru/20261122/slovakija-2133191417.html",
@@ -998,5 +992,11 @@
   "title:Россия и Украина провели обмен телами погибших военнослужащих",
   "skip:https://tass.ru/proisshestviya/28357661",
   "https://www.interfax.ru/russia/1131560",
-  "title:Ставропольский край подвергся масштабной атаке беспилотников"
+  "title:Ставропольский край подвергся масштабной атаке беспилотников",
+  "skip:https://tass.ru/politika/28358005",
+  "https://www.interfax.ru/business/1131582",
+  "title:Госдума утвердила Ольгу Полякову на должность члена совета директоров ЦБ",
+  "skip:https://www.interfax.ru/world/1131580",
+  "https://ria.ru/20261126/serbiya-2134120305.html",
+  "title:Досрочные президентские выборы в Сербии назначены на 27 декабря"
 ]

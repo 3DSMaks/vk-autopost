@@ -1,10 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/gta-6-will-do-something-the-franchise-has-never-done-before-encourage-empathy",
-  "skip:https://www.igromania.ru/news/169944/otnosheniya-s-leonom-i-materinskaya-rol-aktrisa-iz-resident-evil-requiem-o-vozmozhnom-buduschem-grejs/",
-  "https://www.igromania.ru/news/169951/treyarch-otprazdnovala-30-letie-prazdnichnyim-rolikom/",
-  "title:Treyarch отпраздновала 30-летие праздничным роликом",
-  "skip:https://www.kinonews.ru/news_144162/",
-  "https://deadline.com/2026/11/nickelodeon-kids-choice-awards-winners-1237223740/",
   "title:Nickelodeon Kids’ Choice Awards: BTS, ‘Stranger Things’ & ‘KPop Demon Hunters’ Among Winners",
   "https://deadline.com/2026/11/alexander-skarsgard-wicker-interview-1237224217/",
   "title:‘Wicker’ Star Alexander Skarsgård Appreciated “Social Commentary” Of Feminist Romantasy Film Without It Being “Too Preachy” – Contenders L.A.",
@@ -998,5 +992,11 @@
   "skip:https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-thanksgiving-eve-focker-in-law-1236958999/",
   "skip:https://www.film.ru/articles/ochen-sterilnaya-revolyuciya-kakim-poluchilsya-novyy-film-po-knige-syuzen-kollinz-golodnye",
   "https://www.film.ru/news/mark-eydelshteyn-anonsiroval-sikvel-sta-let-vpered",
-  "title:Марк Эйдельштейн анонсировал сиквел \"Ста лет вперед\""
+  "title:Марк Эйдельштейн анонсировал сиквел \"Ста лет вперед\"",
+  "skip:https://www.playground.ru/the_cube/news/mundfish_predstavila_vtoroj_tizer_atomic_heart_the_cube_v_kube_mozhno_najti_soyuznikov-1894153#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/170254/svezhij-tizer-the-cube-vo-vselennoj-atomic-heart-pokazyivaet-druzhelyubnyih-suschestv/",
+  "skip:https://www.pcgamer.com/gaming-industry/rockstar-workers-vote-overwhelmingly-against-union-recognition/",
+  "skip:https://www.playground.ru/misc/news/sotrudniki_rockstar_games_progolosovali_protiv_priznaniya_profsoyuza_kompaniya_vystupila_s_zayavleniem-1894143#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "https://stopgame.ru/newsdata/73647/150_tysyach_ozvuchennyh_replik_i_vedmak_3_kak_orientir_podrobnosti_o_fable",
+  "title:150 тысяч озвученных реплик и «Ведьмак 3» как ориентир — подробности о Fable"
 ]

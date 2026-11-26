@@ -1,10 +1,4 @@
 [
-  "title:Во Франции прошли массовые протесты против роста цен, полиция задержала более 140 человек",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28342875",
-  "skip:https://www.rbc.ru/politics/21/11/2026/6b01ddabc8b289a334eb3c48",
-  "https://ria.ru/20261121/sudno-2133182230.html",
-  "title:Финляндия допустила причастность Киева к атаке на российский сухогруз и эвакуировала экипаж",
-  "skip:https://www.interfax.ru/russia/1130611",
   "skip:https://www.kommersant.ru/doc/9127202",
   "skip:https://ria.ru/20261121/opasnost-2133176704.html",
   "skip:https://ria.ru/20261121/kalinigrad-2133176607.html",
@@ -998,5 +992,11 @@
   "skip:https://www.interfax.ru/russia/1131468",
   "skip:https://ria.ru/20261126/vzryv-2134013682.html",
   "https://www.rbc.ru/rbcfreenews/6b079fda3ab33d4bd6403470",
-  "title:Число погибших при взрыве газа в жилом доме на Алтае увеличилось до двух"
+  "title:Число погибших при взрыве газа в жилом доме на Алтае увеличилось до двух",
+  "skip:https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcmZUbzlMdjVtVDNjMmxRZHZ2Rk50anZIMDlOZ0swTEZBNi1aakVXV0NBT19oTkkzWTk0cUhXbUJEN0xuczdibXF0Y09WaUxmaWRwU2RvOVY3cXhNNE44XzY4TV9Rc2hISnBiSGI1T3FpdEdIR2JETGYta01tc203a2RJaVNhc1VYTEh5UTAxNGRreEFNTTlHcGJiT09QZURZdW9yQWtwX2Y4ckRhUkRFZE9QVTdlM1N1WlhjUGFyTno4cXBtcjFvLQ?oc=5",
+  "https://tass.ru/proisshestviya/28356967",
+  "title:У берегов Ибицы затонул танкер, погиб член экипажа",
+  "skip:https://news.google.com/rss/articles/CBMimwFBVV95cUxPV2k5ZE4zX1RNVDhlc3RhSzRLNVEzVF9GSm9WaEd1SzFxZllTMUt4a3VwX3M1eG91b1pyLXVNZFpKZ0VoaUVQYnZCYk8zTHZPSFBsdUFuZnZTU1VxLVp1a2JROVdCNVZ3VTB5eTJRVHV3MzhHckZuY1RvWThqR194VDNhbmhqUjQtaTRRRWxubUpFUFRzOWh4MDhDOA?oc=5",
+  "https://www.aljazeera.com/news/2026/11/26/at-least-13-dead-in-indonesia-gold-mine-flood-as-rescue-efforts-intensify?traffic_source=rss",
+  "title:При наводнении на золотом руднике в Индонезии погибли люди"
 ]

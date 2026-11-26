@@ -1,12 +1,4 @@
 [
-  "title:Демократическая партия США получила рекордное большинство в Палате представителей",
-  "skip:https://ria.ru/20261122/alkaras-2133296249.html",
-  "skip:https://tass.ru/sport/28344091",
-  "https://www.sport-interfax.ru/1130694",
-  "title:Испанский теннисист Карлос Алькарас впервые в карьере выиграл Итоговый турнир ATP",
-  "skip:https://ria.ru/20261122/ogranicheniya-2133301159.html",
-  "skip:https://tass.ru/ekonomika/28344139",
-  "https://ria.ru/20261122/ssha-2133301275.html",
   "title:В ряде российских аэропортов ввели ограничения, отменены тысячи рейсов в США",
   "skip:https://www.rbc.ru/society/22/11/2026/6b032e74e377f2dd2979f67d",
   "skip:https://ria.ru/20261122/frg-2133293605.html",
@@ -998,5 +990,13 @@
   "https://tass.ru/ekonomika/28360113",
   "skip:https://ria.ru/20261127/kiberataka-2134257698.html",
   "https://www.rbc.ru/rbcfreenews/6b08ad41caec2fc9b7eabd6e",
-  "title:Информагентство France-Presse подверглось хакерской атаке"
+  "title:Информагентство France-Presse подверглось хакерской атаке",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28360095",
+  "skip:https://news.google.com/rss/articles/CBMinwFBVV95cUxObUt5bnNUdEVaVjhETTRjWFI5cnZYaUtyV0R1VE50ZGFPcnJyVmppY2xxeVFpOEtPWURRSFpKUGFXcDVkZGVtZnF2Ykg5aEk2NXY4VTVBVHZQWEstSk9CRGp6cHZLUWhyQkdDQ2ktQjl6WldZSlFRdzhfVUQ0dGNkNlZJaFZKMkFYeWdFUmNQSXdSTDJscjlEcXBZdVdhZWs?oc=5",
+  "https://www.rbc.ru/politics/27/11/2026/6b08ba209d5a93ebcca8ba2a",
+  "title:Лидеры Евросоюза не смогли согласовать многолетний бюджет и финансирование Украины",
+  "skip:https://www.rbc.ru/society/27/11/2026/6b08ac5cf99dc6939a45d269",
+  "skip:https://ria.ru/20261127/elektrichestvo-2134258535.html",
+  "https://www.kommersant.ru/doc/9131836",
+  "title:В Крыму и Севастополе ввели аварийный роуминг и ограничения света из-за аварии на ЛЭП"
 ]

@@ -1,10 +1,4 @@
 [
-  "https://www.interfax.ru/russia/1130613",
-  "title:В Калининградской области сработала система беспилотной опасности, аэропорт Храброво вводил ограничения",
-  "skip:https://www.france24.com/en/russia-launches-ballistic-missile-attack-on-zelensky-s-hometown-in-central-ukraine",
-  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
-  "https://www.france24.com/en/europe/20261121-russia-attacks-zelensky-s-hometown-ukraine-reaffirms-wish-to-join-nato",
-  "title:Удар российской баллистической ракеты по родному городу Владимира Зеленского привел к жертвам",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28342913",
   "skip:https://ria.ru/20261121/ksir-2133182903.html",
   "skip:https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTzltZHhpNzJyRTg4dE5kYUJSOUJ4azFWY2txckEtQUlGQVVfTEtIUUpWN3dHZWlocXlZWGFidVRIMjN3ZDM4d2xQWVZ0UFAxRm81TGFfbFNZRzMxTXJOemdzOHRNeWJOLXhEWF83a3N0a1hiR0FjbUE1eGZVX002eVpMNHJyX2JoVXp5bFdjcDJBYkhOWFE4a1AzN0hSRE1wTDFmNGxvaFR6TkR6bkd4a3FSSUU1anZp?oc=5",
@@ -998,5 +992,11 @@
   "title:На нефтехранилище в Бангкоке произошел мощный взрыв",
   "skip:https://ria.ru/20261126/lukashenko-2134055657.html",
   "https://www.interfax.ru/world/1131535",
-  "title:Лукашенко внес в белорусский парламент законопроект об амнистии"
+  "title:Лукашенко внес в белорусский парламент законопроект об амнистии",
+  "skip:https://www.kommersant.ru/doc/9131064",
+  "https://www.rbc.ru/rbcfreenews/6b07ebcd966e24e29f54c4d6",
+  "title:Александр Лукашенко внес в парламент Белоруссии законопроект об амнистии в честь «Года белорусской женщины»",
+  "skip:https://www.interfax.ru/russia/1131536",
+  "https://www.rbc.ru/society/26/11/2026/6b07e24979d7994c1d8d50e1",
+  "title:Суд в Краснодаре изъял в доход государства активы первого вице-губернатора Кубани Игоря Галася на 970 млн рублей"
 ]

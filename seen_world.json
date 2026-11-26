@@ -1,10 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28342913",
-  "skip:https://ria.ru/20261121/ksir-2133182903.html",
-  "skip:https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTzltZHhpNzJyRTg4dE5kYUJSOUJ4azFWY2txckEtQUlGQVVfTEtIUUpWN3dHZWlocXlZWGFidVRIMjN3ZDM4d2xQWVZ0UFAxRm81TGFfbFNZRzMxTXJOemdzOHRNeWJOLXhEWF83a3N0a1hiR0FjbUE1eGZVX002eVpMNHJyX2JoVXp5bFdjcDJBYkhOWFE4a1AzN0hSRE1wTDFmNGxvaFR6TkR6bkd4a3FSSUU1anZp?oc=5",
-  "https://tass.ru/proisshestviya/28342915",
-  "title:КСИР атаковал американские базы в Бахрейне",
-  "skip:https://www.rbc.ru/rbcfreenews/6b01f679d921cbbc50a4169e",
   "https://ria.ru/20261121/bahrejn-2133187218.html",
   "title:Корпус стражей исламской революции атаковал американские военные базы в Бахрейне",
   "skip:https://ria.ru/20261121/frantsii-2133183034.html",
@@ -998,5 +992,11 @@
   "title:Александр Лукашенко внес в парламент Белоруссии законопроект об амнистии в честь «Года белорусской женщины»",
   "skip:https://www.interfax.ru/russia/1131536",
   "https://www.rbc.ru/society/26/11/2026/6b07e24979d7994c1d8d50e1",
-  "title:Суд в Краснодаре изъял в доход государства активы первого вице-губернатора Кубани Игоря Галася на 970 млн рублей"
+  "title:Суд в Краснодаре изъял в доход государства активы первого вице-губернатора Кубани Игоря Галася на 970 млн рублей",
+  "skip:https://www.kommersant.ru/doc/9131114",
+  "https://www.interfax.ru/world/1131543",
+  "title:На Запорожской АЭС обнаружили поврежденный участок линии электропередачи",
+  "skip:https://www.interfax.ru/russia/1131542",
+  "https://ria.ru/20261126/stavropole-2134089987.html",
+  "title:Рейсовый автобус подвергся атаке дрона в Запорожской области"
 ]

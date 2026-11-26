@@ -1,8 +1,4 @@
 [
-  "https://www.film.ru/news/chelovek-pauk-vydvigaetsya-na-oskar",
-  "title:Человек-паук выдвигается на Оскар",
-  "skip:https://www.igromania.ru/news/169932/ubisoft-vernyot-rainbow-six-vegas-s-novoj-polnotsennyij-chastyu-insajder/",
-  "https://www.playground.ru/gta_6/news/igroki_pytayutsya_obojti_ogranichenie_v_30_fps_v_gta_6_na_konsolyah_s_pomoschyu_programmy_veyra-1890616#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Игроки пытаются обойти ограничение в 30 FPS в GTA 6 на консолях с помощью программы Veyra",
   "https://stopgame.ru/newsdata/73504/nominantov_the_game_awards_2026_raskroyut_uzhe_17_noyabrya",
   "title:Номинантов The Game Awards 2026 раскроют уже 17 ноября",
@@ -998,5 +994,9 @@
   "title:GTA 6 Doesn't Let You Replay Missions, and Rockstar Says There's a Good Reason for That",
   "skip:https://www.film.ru/news/charli-koks-okazalsya-slishkom-starym-dlya-dzheymsa-bonda",
   "https://www.film.ru/news/leon-vnov-pokazhut-v-rossii",
-  "title:«Леон» вновь покажут в России"
+  "title:«Леон» вновь покажут в России",
+  "skip:https://www.kinonews.ru/news_144343/",
+  "skip:https://www.film.ru/news/tretiy-sezon-pitt-poluchil-datu-premery",
+  "https://www.kinonews.ru/news_144345/",
+  "title:Семейные ценности в новом трейлере фильма \"Чебурашка 3\""
 ]

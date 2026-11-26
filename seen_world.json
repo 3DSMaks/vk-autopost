@@ -1,9 +1,4 @@
 [
-  "title:Во Владикавказе после взрыва газа частично обрушился подъезд жилого дома",
-  "skip:https://www.interfax.ru/world/1130614",
-  "https://ria.ru/20261121/frantsija-2133179316.html",
-  "title:Во Франции прошли новые акции протеста против роста цен",
-  "skip:https://ria.ru/20261121/pvo-2133176992.html",
   "skip:https://tass.ru/armiya-i-opk/28342811",
   "https://www.interfax.ru/russia/1130612",
   "title:Силы ПВО за день сбили 47 украинских беспилотников над регионами России",
@@ -998,5 +993,10 @@
   "skip:https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ1BxUnRfOE9veTNLV19RWTd2aE9zMllwRkFzTDJfekJWNU9NWC1yUVJzVUlGR0Z5VG1KMXBrTWxwSDQ0c2w2T3RGa2IyYWFyS1cwalFtT0poZWJOUU9LeDZzMkxBMTk1LWQ4blMtbWx1SlB6RWZzSEJWMDNtcjIwYUlLVjlPMExqdmxmdVBoaTFJS0k?oc=5",
   "skip:https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
   "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-  "title:США анонсировали новые таможенные пошлины в отношении Китая, ЕС и других стран"
+  "title:США анонсировали новые таможенные пошлины в отношении Китая, ЕС и других стран",
+  "skip:https://www.kommersant.ru/doc/9130805",
+  "https://www.france24.com/en/africa/20261126-at-least-31-killed-in-cairo-fire-after-fuel-truck-overturns-on-busy-highway",
+  "title:В результате крупного ДТП с бензовозом в Каире погибли более 30 человек",
+  "skip:https://news.google.com/rss/articles/CBMimgFBVV95cUxORm14bFpCNEQ3SVZfb1VRZEpuWGw3dXpPVjZYRS1zTFJvU2Q2cEZBMGVJNGNOZjVQMGtPTzJWeXo0WldmV0xzN0hjV2djWlRYMThidUZleHVNVTYxcFdBLW94UllVbG9jd0xQMTlyQ3FOdkNIQnpoODhsZmlsUFVEVXUwYzE4MFVaRDl0MGx4NWxLVTNMeXAtd0ZR?oc=5",
+  "https://tass.ru/obschestvo/28355923"
 ]

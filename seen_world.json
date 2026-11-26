@@ -1,11 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1130618",
-  "https://ria.ru/20261121/spacex-2133188552.html",
-  "title:Компания SpaceX запустила Falcon 9 со спутниками Starshield для Космических сил США",
-  "skip:https://www.interfax.ru/world/1130621",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28342943",
-  "skip:https://ria.ru/20261121/ksir-2133186678.html",
-  "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
   "title:КСИР заявил об атаке на военные базы и радары США в Бахрейне",
   "skip:https://ria.ru/20261121/krasnodar-2133189319.html",
   "skip:https://tass.ru/ekonomika/28342961",
@@ -998,5 +991,12 @@
   "skip:https://tass.ru/ekonomika/28358151",
   "skip:https://www.rbc.ru/quote/26/11/2026/6b0445150b8c95d97832d12b",
   "https://www.rbc.ru/finances/26/11/2026/6b081e52a42946ff8254328b",
-  "title:Госдума одобрила в первом чтении законопроект о переводе пенсионных накоплений в программу долгосрочных сбережений"
+  "title:Госдума одобрила в первом чтении законопроект о переводе пенсионных накоплений в программу долгосрочных сбережений",
+  "skip:https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbGp2czVFcWVOelBIb0Y5SDlsbVYyM2lXc211QnNqQ0NSb3p1UlBqOXBPdVNVejRsSGZvMFU2elhudXo0ZWE3VUw2cXQxYnVhb0N4S21YTzdwc0szNnFVc3AxdDYwa1hfTGZQN2dZS1BXNS1oZV9SVl8tdWlnS09NWVJlLW1EZjJkWU1zYl9JVnRSNnY0ZWpCMWFza3VWaWluZTRkOVMxQnpNR3RLcUR6ZnJvTjk4aWVVSGc1aEVHcms?oc=5",
+  "skip:https://ria.ru/20261126/fifa-2134137923.html",
+  "https://www.kommersant.ru/doc/9131341",
+  "title:ФИФА подверглась кибератаке со стороны хакеров",
+  "skip:https://news.google.com/rss/articles/CBMiywFBVV95cUxPNkR2SS1TcWRuWnFYeng0TTFWaUc4NXB4R0hVM2dBN1hSVDZPSUZCMi1WTlc0WFFodE9YR3J2RE02by1fZ1B1cVNmX09PcWlYWkpsWmdrVWplcmpDLTNuM3VocXhHSEdrT01mUnVMTzZsOERtcUgtb2tvWE04WURTQUhyTmV4eWw5STVwNEF5ZEZzc0pPTlMyQ3lESlFuNWZJaVhUcFdhN1oxeWpZREwxTXNkRUFRV3Y0c0gxb21oSlhTbXlwc2hTZUU2RQ?oc=5",
+  "https://www.interfax.ru/world/1131597",
+  "title:Китайский маркетплейс Temu обязался изменить практики в ЕС"
 ]

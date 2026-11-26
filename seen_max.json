@@ -1,11 +1,4 @@
 [
-  "title:Паттинсон в фаворитах бондианы",
-  "skip:https://variety.com/2026/film/news/michael-mann-new-regency-heat-screenplay-lawsuit-1236947532/",
-  "skip:https://kg-portal.ru/comments/135776-roberta-pattinsona-s-bolshim-trudom-ugovorili-na-tri-filma-o-dzhejmse-bonde-oficialno-on-poluchit-rol-pod-rozhdestvo/",
-  "skip:https://www.kinonews.ru/news_144145/",
-  "https://www.film.ru/news/rekord-finalnoy-serii-kvesta-vizhna",
-  "title:Рекорд финальной серии Квеста Вижна",
-  "skip:https://www.igromania.ru/news/169940/psychonauts-2-stala-psihonavtami-2-dlya-igryi-vyipustili-neofitsialnuyu-russkuyu-lokalizatsiyu/",
   "skip:https://www.playground.ru/psychonauts_2/news/polnaya_russkaya_lokalizatsiya_psychonauts_2_dozhdalas_chasa_svoego_reliza-1890550#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169934/sozdateli-the-blood-of-dawnwalker-predstavili-obnovlenie-s-novoj-igroj-reliz-na-seduyuschej-nedele/",
   "skip:https://www.playground.ru/misc/news/final_kvesta_vizhna_postavil_rekord_marvel_na_disney-1890528#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +991,12 @@
   "skip:https://www.playground.ru/mouse_pi_for_hire/news/pervoe_dopolnenie_dlya_mouse_p_i_for_hire_predstavyat_uzhe_na_sleduyuschej_nedele-1894000#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/170233/dopolnenie-dlya-mouse-pi-for-hire-anonsiruyut-na-sleduyuschej-nedele/",
   "https://www.ign.com/articles/gta-6-animation-director-reveals-rockstar-made-3-animations-for-each-item-interaction",
-  "title:GTA 6 Animation Director Reveals Rockstar Made 3 Animations for Each Item Interaction"
+  "title:GTA 6 Animation Director Reveals Rockstar Made 3 Animations for Each Item Interaction",
+  "skip:https://www.kinonews.ru/news_144343/",
+  "skip:https://www.film.ru/news/tretiy-sezon-pitt-poluchil-datu-premery",
+  "skip:https://www.kinonews.ru/news_144344/",
+  "skip:https://deadline.com/2026/11/south-park-gta-vi-outages-zombie-kenny-season-29-finale-1237233874/",
+  "skip:https://kg-portal.ru/comments/135979-vlastelin-kolec-ohota-za-gollumom-zavershenie-semok/",
+  "https://www.film.ru/news/leon-vnov-pokazhut-v-rossii",
+  "title:«Леон» вновь покажут в России"
 ]

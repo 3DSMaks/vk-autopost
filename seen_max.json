@@ -1,8 +1,4 @@
 [
-  "title:Создатель Skyrim спустя годы признался в одной из своих главных ошибок - игроки хотели совсем другого",
-  "skip:https://deadline.com/2026/11/european-film-awards-2026-nominations-1237223704/",
-  "skip:https://variety.com/2026/film/news/fatherland-la-bola-negra-european-film-awards-nominations-1236947619/",
-  "skip:https://www.film.ru/news/novyy-treyler-oruzheynogo-barona-2",
   "https://www.film.ru/news/premera-ocharovannyh",
   "title:Премьера Очарованных",
   "https://kg-portal.ru/comments/135777-dzhonni-depp-vernulsja-v-amerikanskie-kinoteatry-so-skazkoj-skrudzh-na-reklamu-filma-potratili-bolshe-chem-na-ego-proizvodstvo/",
@@ -998,5 +994,9 @@
   "skip:https://variety.com/2026/film/global/gerard-depardieu-trial-rape-charges-failed-appeal-1236958940/",
   "skip:https://deadline.com/2026/11/gerard-depardieu-rape-case-trial-criminal-court-arnould-1237234012/",
   "https://www.film.ru/news/mark-eydelshteyn-anonsiroval-sikvel-sta-let-vpered",
-  "title:Марк Эйдельштейн анонсировал сиквел \"Ста лет вперед\""
+  "title:Марк Эйдельштейн анонсировал сиквел \"Ста лет вперед\"",
+  "skip:https://www.playground.ru/gta_6/news/gta_vi_prinesla_britanskoj_roznitse_32_mln_vsego_za_tri_dnya_uvelichiv_prodazhi_ps5_na_46_a_konsolej_xbox_na_75-1894142#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://gamemag.ru/news/202318/grand-theft-auto-vi-pokazala-krupneyshiy-start-pokoleniya-v-britanskoy-roznice",
+  "https://www.ign.com/articles/warhammer-40000-space-marine-2-patch-160-goes-live-expands-vanguard-class-makes-big-balance-changes-and-much-more",
+  "title:Warhammer 40,000: Space Marine 2 Patch 16.0 Goes Live, Expands Vanguard Class, Makes Big Balance Changes, and Much More"
 ]

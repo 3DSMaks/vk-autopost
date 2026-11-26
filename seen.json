@@ -1,9 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_144084/",
-  "https://variety.com/2026/film/news/paapa-essiedu-jk-rowling-trans-rights-harry-potter-hbo-1236944224/",
-  "title:‘Harry Potter’ Star Paapa Essiedu Says ‘I Don’t Want to Talk About’ J.K. Rowling ‘At All’ but ‘Trans People Have the Right to Be Treated With Respect ",
-  "posted:2026-11-11T01:06:15+00:00",
-  "https://www.film.ru/news/pesn-palacha-dzheykoba-elordi",
   "title:Песнь Палача Джейкоба Элорди",
   "posted:2026-11-11T02:37:25+00:00",
   "https://www.film.ru/news/novyy-treyler-debyuta-s-dzhuliannoy-mur",
@@ -998,5 +993,10 @@
   "skip:https://variety.com/2026/film/global/gerard-depardieu-trial-rape-charges-failed-appeal-1236958940/",
   "skip:https://www.kinonews.ru/news_144344/",
   "https://www.film.ru/news/vyshel-bolshoy-treyler-cheburashki-3",
-  "title:Вышел большой трейлер «Чебурашки 3»"
+  "title:Вышел большой трейлер «Чебурашки 3»",
+  "posted:2026-11-26T20:01:20+00:00",
+  "skip:https://variety.com/2026/film/global/mark-tildesley-dead-no-time-to-die-production-designer-1236958968/",
+  "skip:https://kg-portal.ru/comments/135988-cheburashka-3-trejler/",
+  "https://deadline.com/2026/11/mark-tildesley-dies-no-time-to-die-production-designer-63-1237234068/",
+  "title:Mark Tildesley Dies: ‘No Time to Die’, ‘F1: The Movie’ & London Olympics Production Designer Was 63"
 ]

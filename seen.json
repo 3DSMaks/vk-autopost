@@ -1,7 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_144080/",
-  "skip:https://www.kinonews.ru/news_144077/",
-  "skip:https://kg-portal.ru/comments/135735-strannye-plany-dzhejmsa-ganna-ne-ustraivali-studiju-sledujuschie-kinokomiksy-po-dc-mozhno-budet-pokazyvat-babushkam-i-dedushkam/",
   "skip:https://kg-portal.ru/comments/135729-posle-desjatiletnego-pereryva-aleks-projas-otobral-rezhissuru-istoricheskogo-epika-santonio-banderasom-ukakogoto-francuza/",
   "https://www.film.ru/news/reliz-stalina",
   "title:Релиз Сталина",
@@ -998,5 +995,8 @@
   "skip:https://www.kinonews.ru/news_144347/",
   "skip:https://www.film.ru/news/tretiy-sezon-pitt-poluchil-datu-premery",
   "https://www.film.ru/news/vyshel-treyler-seriala-kamenskaya-perezagruzka",
-  "title:Вышел трейлер сериала «Каменская. Перезагрузка»"
+  "title:Вышел трейлер сериала «Каменская. Перезагрузка»",
+  "posted:2026-11-26T11:02:27+00:00",
+  "https://www.film.ru/news/leon-vnov-pokazhut-v-rossii",
+  "title:«Леон» вновь покажут в России"
 ]

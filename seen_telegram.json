@@ -1,8 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/league-of-legends-new-dawn-unveiled-with-debut-trailer-riot-announces-major-overhaul-coming-in-2027",
-  "skip:https://www.ign.com/articles/resident-evil-requiem-star-hopes-grace-ashcroft-has-a-long-way-to-go-even-if-she-wont-ever-be-a-leon-character",
-  "skip:https://gamemag.ru/news/202152/gta-6-empathy-first-time-rockstar-history",
-  "skip:https://gamemag.ru/news/202148/the-game-awards-2026-nominees-to-be-revealed-on-17th-november",
   "skip:https://www.ign.com/articles/gta-6-will-do-something-the-franchise-has-never-done-before-encourage-empathy",
   "skip:https://www.igromania.ru/news/169944/otnosheniya-s-leonom-i-materinskaya-rol-aktrisa-iz-resident-evil-requiem-o-vozmozhnom-buduschem-grejs/",
   "https://www.igromania.ru/news/169951/treyarch-otprazdnovala-30-letie-prazdnichnyim-rolikom/",
@@ -998,5 +994,9 @@
   "skip:https://www.igromania.ru/news/170252/gta-6-pokazala-otlichnyij-start-na-evropejskih-ryinkah-i-privela-k-sokrascheniyu-igrokov-call-of-duty-fortnite-i-drugih-igr/",
   "skip:https://www.igromania.ru/news/170242/ne-hochesh-obosnuj-v-ubisoft-yakobyi-trebuyut-argumentirovat-otkaz-ot-ispolzovaniya-generativnogo-ii/",
   "https://gamemag.ru/news/202314/borba-za-pk-port-gta-vi-take-two-interactive-zachistila-github",
-  "title:Борьба за ПК-порт GTA VI: Take-Two Interactive зачистила GitHub"
+  "title:Борьба за ПК-порт GTA VI: Take-Two Interactive зачистила GitHub",
+  "skip:https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-thanksgiving-eve-focker-in-law-1236958999/",
+  "skip:https://www.film.ru/articles/ochen-sterilnaya-revolyuciya-kakim-poluchilsya-novyy-film-po-knige-syuzen-kollinz-golodnye",
+  "https://www.film.ru/news/mark-eydelshteyn-anonsiroval-sikvel-sta-let-vpered",
+  "title:Марк Эйдельштейн анонсировал сиквел \"Ста лет вперед\""
 ]

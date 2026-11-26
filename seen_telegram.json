@@ -1,8 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_144148/",
-  "skip:https://www.film.ru/news/margo-robbi-u-rezhissera-dramy",
-  "https://www.kinonews.ru/news_144150/",
-  "title:Кевин Файги объяснил возвращение первых Людей Икс в \"Мстители: Судный день\"",
   "https://www.ign.com/articles/some-of-these-gta-6-clips-look-so-good-that-i-dont-care-if-its-running-at-30-fps",
   "title:Some of These GTA 6 Clips Look So Good That I Don't Care if It's Running at 30fps",
   "skip:https://www.igromania.ru/news/169943/dlya-forza-horizon-6-predstavili-plan-razvitiya-igryi-na-konets-2026-goda-i-gryaduschij-2027-j/",
@@ -998,5 +994,9 @@
   "https://www.igromania.ru/news/170222/ekspertyi-sravnili-gta-6-na-raznyih-platformah-i-rasskazali-gde-luchshe-igrat/",
   "title:Эксперты сравнили GTA 6 на разных платформах и рассказали, где лучше играть",
   "https://www.playground.ru/gta_6/news/starshij_dizajner_rockstar_uveren_chto_na_poisk_vseh_tajn_v_gta_6_u_igrokov_ujdut_mnogie_gody-1893983#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Старший дизайнер Rockstar уверен, что на поиск всех тайн в GTA 6 у игроков уйдут многие годы"
+  "title:Старший дизайнер Rockstar уверен, что на поиск всех тайн в GTA 6 у игроков уйдут многие годы",
+  "skip:https://kg-portal.ru/comments/135979-vlastelin-kolec-ohota-za-gollumom-zavershenie-semok/",
+  "skip:https://www.film.ru/news/zavershilis-semki-ohoty-na-golluma",
+  "https://kg-portal.ru/comments/135981-ne-mozhet-byt-mstiteli-doktor-dum-po-predvaritelnym-prognozam-zametno-obgonit-po-sboram-djunu-chast-3/",
+  "title:Не может быть! \"Мстители: Доктор Дум\" по предварительным прогнозам заметно обгонит по сборам \"Дюну: Часть 3\""
 ]

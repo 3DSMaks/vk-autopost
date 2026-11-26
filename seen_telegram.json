@@ -1,13 +1,4 @@
 [
-  "https://variety.com/2026/film/news/hen-review-1236947197/",
-  "title:‘Hen’ Review: A Resilient Chicken Flies the Coop, Over and Over, in an Unexpectedly Stirring Survival Story",
-  "skip:https://deadline.com/2026/11/steen-ostergaard-olivier-mourgue-dead-1237223746/",
-  "skip:https://variety.com/2026/artisans/news/club-kid-cinematography-new-york-adam-newport-berra-1236938607/",
-  "https://variety.com/2026/film/global/venice-prizewinner-a-day-in-the-life-of-jo-teenage-girl-1236947632/",
-  "title:Venice Prizewinner ‘A Day in the Life of Jo’ Explores ‘Who and What We Truly Are’ Through Emotional Journey of Ordinary, Remarkable Teenage Girl",
-  "https://deadline.com/2026/11/c-w-morgan-cause-of-death-1237223783/",
-  "title:‘Scream’ Actor C.W. Morgan’s Cause Of Death Revealed",
-  "skip:https://kg-portal.ru/comments/135790-skrudzh-s-dzhonni-deppom-legko-raspravilsja-s-konkurentami-ekshenom-prizrachnyj-soldat-i-kriminalnym-trillerom-kak-ograbit-bank/",
   "skip:https://www.kinonews.ru/news_144157/",
   "https://variety.com/2026/film/news/chris-pratt-james-gunn-guardians-of-the-galaxy-4-dc-exit-1236947808/",
   "title:Chris Pratt Says He ‘Would Love’ James Gunn to Direct a Fourth ‘Guardians of the Galaxy’ Film After DC Exit",
@@ -998,5 +989,14 @@
   "title:Вышел трейлер сериала «Каменская. Перезагрузка»",
   "skip:https://www.kinonews.ru/news_144337/",
   "https://www.film.ru/news/9-12-nedel-v-rossii",
-  "title:«9 1/2 недель» в России"
+  "title:«9 1/2 недель» в России",
+  "skip:https://www.playground.ru/world_of_warcraft/news/blizzard_uprostila_odin_iz_samyh_utomitelnyh_endgejm_kvestov_v_world_of_warcraft_forever-1894097#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/gta_6/news/igroki_gta_6_nashli_sposob_ispravit_pogodu_na_ps5_posle_patcha_rockstar-1894096#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/misc/news/ya_ne_mogu_perevesti_otkrovennyj_kontent_igroki_v_nedoumenii_ot_stsen_18_v_muv_luv_girls_garden-1894095#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/ps5-workaround-weather-gta-6",
+  "skip:https://www.pcgamer.com/games/world-of-warcraft/wow-forever-fixes-one-of-its-most-annoying-endgame-quests-the-literal-day-after-i-do-it/",
+  "skip:https://www.ign.com/articles/warhammer-40000-space-marine-2-patch-160-goes-live-expands-vanguard-class-makes-big-balance-changes-and-much-more",
+  "skip:https://www.pcgamer.com/games/visual-novel/the-latest-adult-game-in-the-muv-luv-series-has-some-woeful-ai-translation-and-players-arent-happy-about-it/",
+  "https://www.playground.ru/witcher_3_wild_hunt/news/the_witcher_3_wild_hunt_remastered_poluchila_patch_5_02_uluchsheniya_trassirovki_luchej_balans_i_ispravleniya-1894085#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:The Witcher 3: Wild Hunt Remastered получила патч 5.02 - улучшения трассировки лучей, баланс и исправления"
 ]

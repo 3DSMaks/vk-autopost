@@ -1,9 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169937/potentsialnaya-problema-s-diskami-gta-6-zachem-gejmeryi-svetyat-fonarikom-na-korobki-s-igroj/",
-  "skip:https://www.ign.com/articles/some-of-these-gta-6-clips-look-so-good-that-i-dont-care-if-its-running-at-30-fps",
-  "skip:https://www.pcgamer.com/games/fps/a-survival-game-we-once-called-stalker-and-tarkovs-alien-baby-is-closing-down-less-than-a-year-after-launch/",
-  "skip:https://www.igromania.ru/news/169927/shuter-pioner-zakryivaetsya-igra-tak-i-ne-vyishla-iz-rannego-dostupa/",
-  "https://www.playground.ru/gta_6/news/v_gta_6_nelzya_budet_srazu_vzyatsya_za_krupnye_ogrableniya_rockstar_obyasnila_progressiyu_geroev-1890597#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:В GTA 6 нельзя будет сразу взяться за крупные ограбления - Rockstar объяснила прогрессию героев",
   "skip:https://kg-portal.ru/comments/135785-dzhejms-gann-oproverg-sluhi-o-potere-tvorcheskogo-kontrolja-nad-prodolzheniem-supermena-studija-dazhe-ne-uspela-posmotret-film/",
   "https://www.film.ru/news/chelovek-pauk-vydvigaetsya-na-oskar",
@@ -998,5 +993,10 @@
   "skip:https://www.igromania.ru/news/170241/bolshe-tryoh-tyisyach-repozitoriev-s-pc-portami-gta-6-zablokirovali-na-github/",
   "skip:https://www.pcgamer.com/games/visual-novel/the-latest-adult-game-in-the-muv-luv-series-has-some-woeful-ai-translation-and-players-arent-happy-about-it/",
   "https://stopgame.ru/newsdata/73644/v_gta_vi_mogli_dobavit_vozmozhnost_polzat_obustraivat_dom_hodit_v_kino_i_drugoe",
-  "title:В GTA VI могли добавить возможность ползать, обустраивать дом, ходить в кино и другое"
+  "title:В GTA VI могли добавить возможность ползать, обустраивать дом, ходить в кино и другое",
+  "skip:https://www.igromania.ru/news/170251/remaster-vedmaka-3-poluchil-obnovlenie-502-s-ryadom-uluchshenij-i-ispravleniem-oshibok/",
+  "skip:https://www.playground.ru/gta_6/news/gta_6_vossozdala_neobychnye_fioletovye_fonari_kotorymi_osvescheny_ulitsy_nekotoryh_gorodov_floridy-1894102#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.pcgamer.com/games/grand-theft-auto/gta-6-has-weird-purple-streetlights-because-actual-florida-screwed-up-its-streetlights/",
+  "https://www.igromania.ru/news/170244/glava-razrabotki-fable-rasskazal-ob-ozvuchke-istochnikah-vdohnoveniya-i-umenshenii-masshtabov-igryi/",
+  "title:Глава разработки Fable рассказал об озвучке, источниках вдохновения и уменьшении масштабов игры"
 ]

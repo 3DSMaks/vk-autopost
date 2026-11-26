@@ -1,7 +1,4 @@
 [
-  "title:Премьера Очарованных",
-  "https://kg-portal.ru/comments/135782-nominant-naoskar-jura-borisov-igraet-akteraneudachnika-vkomedii-kulik/",
-  "title:Номинант на \"Оскар\" Юра Борисов играет актёра-неудачника в комедии \"Кулик\"",
   "skip:https://variety.com/2026/film/box-office/ebenezer-box-office-johnny-depp-opening-day-1236947684/",
   "skip:https://variety.com/2026/film/news/adam-driver-disney-hunt-for-ben-solo-criminal-1236947685/",
   "skip:https://www.film.ru/news/treyler-zaklyatya-povelitelya-dush",
@@ -998,5 +995,8 @@
   "https://www.film.ru/news/chelovek-pauk-poboretsya-za-zolotoy-globus",
   "title:«Человек-паук» поборется за «Золотой глобус»",
   "https://www.film.ru/news/vyshel-vtoroy-sezon-dorogushi",
-  "title:Вышел второй сезон «Дорогуши»"
+  "title:Вышел второй сезон «Дорогуши»",
+  "skip:https://www.kinonews.ru/news_144346/",
+  "https://www.film.ru/news/vyshel-treyler-seriala-kamenskaya-perezagruzka",
+  "title:Вышел трейлер сериала «Каменская. Перезагрузка»"
 ]

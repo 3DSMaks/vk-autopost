@@ -1,8 +1,4 @@
 [
-  "skip:https://www.rbc.ru/politics/22/11/2026/6b02e4abdcbd0c7f985b73bc",
-  "skip:https://www.kommersant.ru/doc/9127392",
-  "skip:https://ria.ru/20261122/husnullin-2133257717.html",
-  "https://tass.ru/ekonomika/28343805",
   "title:Власти определили этапы восстановления Крымского моста",
   "skip:https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal?traffic_source=rss",
   "https://www.interfax.ru/world/1130671",
@@ -998,5 +994,9 @@
   "title:Пабло Эрнандес де Кос рекомендован на пост председателя ЕЦБ",
   "skip:https://www.interfax.ru/russia/1131690",
   "https://www.kommersant.ru/doc/9131721",
-  "title:Владимир Путин утвердил новую стратегию развития Арктики до 2035 года"
+  "title:Владимир Путин утвердил новую стратегию развития Арктики до 2035 года",
+  "skip:https://news.google.com/rss/articles/CBMikwFBVV95cUxNMjdRTWo2ZjRYWDRUUjVNOTZvN0lhc3dmSmRGYzdtX2JkbThOU0JReVV3d3BJVGZVLUlVWWhZSDRDeXkwaS1TZkgyWmp3UHQ1aXgzdTFlOWdxOUxLWHlEUnN4aFRKb1JWblhxX2hIWGtMc1FPZjlJeVFsUHhDRndEdm1aUDJzUkhEWk9SUU9RYlJETmc?oc=5",
+  "skip:https://news.google.com/rss/articles/CBMiyAFBVV95cUxON3Rhd2R2U1BBMjNIc1JzRDVaVWwyZG0zdjVEQ2tNS2pFMWJtc3Bkdl9sSGlKT3dyMkc5ekhtdHNPX01yanBrYS14d1k4NFNyUURJbVF1Vi1KZElMZmRUR0ttWnZkdDYtSjZGNEc0OThCdmhnQVhkRXpTMlZCR2htY2dnY1FBNEcwdE9veW95SzRhUmg2Z00zWDB6dnhsS3otTXpnOEtuVjk0MWRPcVNOR0NaUFQ0S2N3TXdFOWEwekpKNU1Gd0d2Vg?oc=5",
+  "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years?traffic_source=rss",
+  "title:Власти Гвинеи-Бисау перенесли президентские выборы на 2028 год"
 ]

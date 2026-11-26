@@ -1,7 +1,4 @@
 [
-  "https://www.france24.com/en/france/20261121-france-s-sixth-consecutive-saturday-of-protests-draw-lower-turnout",
-  "title:Во Франции прошли шестые подряд протесты против роста стоимости жизни, полиция задержала более 140 человек",
-  "skip:https://news.google.com/rss/articles/CBMingFBVV95cUxNWXlDbDhlc09IVzVHS0dKcmt0cDVXd3ZRYUtWTkpDOU5IMlVfdUZsWWFqblljVXBPbG5pd1A3TTRDZkJQaFR3YXZHWHJETUk3OUhDLUw4b2dmZXZJYkhKRGdrMjFXcHJMYmt3MzRYU09OR0xkd3ZUbWNjMGhoRzhhR2NucjZaQjgyVGFqOXZ4Mm5vVUhWS3NQZHZvd0J1dw?oc=5",
   "https://www.rbc.ru/politics/22/11/2026/6b01f431ff6c6a5945245008",
   "title:Генсек НАТО Марк Рютте пообещал защитить каждый сантиметр территории Польши",
   "skip:https://ria.ru/20261121/bpl-2133187044.html",
@@ -998,5 +995,8 @@
   "title:Рейсовый автобус подвергся атаке дрона в Запорожской области",
   "skip:https://www.rbc.ru/politics/26/11/2026/6b07fb3ec3a8644b89bd82df",
   "https://www.kommersant.ru/doc/9131142",
-  "title:Россия и Украина провели обмен телами погибших военнослужащих"
+  "title:Россия и Украина провели обмен телами погибших военнослужащих",
+  "skip:https://tass.ru/proisshestviya/28357661",
+  "https://www.interfax.ru/russia/1131560",
+  "title:Ставропольский край подвергся масштабной атаке беспилотников"
 ]

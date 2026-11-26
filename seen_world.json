@@ -1,8 +1,4 @@
 [
-  "skip:https://www.rbc.ru/rbcfreenews/6b01d69016939d5f628cafff",
-  "skip:https://ria.ru/20261121/vladikavkaz-2133170595.html",
-  "skip:https://ria.ru/20261121/prokuratura-2133166995.html",
-  "https://tass.ru/proisshestviya/28342807",
   "title:Во Владикавказе после взрыва газа частично обрушился подъезд жилого дома",
   "skip:https://www.interfax.ru/world/1130614",
   "https://ria.ru/20261121/frantsija-2133179316.html",
@@ -998,5 +994,9 @@
   "skip:https://www.sport-interfax.ru/1131444",
   "skip:https://ria.ru/20261126/pszh-roma-2133965117.html",
   "https://www.france24.com/en/sport/20261125-psg-s-perfect-champions-league-record-ends-as-roma-snatch-2-2-draw-with-late-penalty",
-  "title:ПСЖ сыграл вничью с Ромой в матче Лиги чемпионов"
+  "title:ПСЖ сыграл вничью с Ромой в матче Лиги чемпионов",
+  "skip:https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ1BxUnRfOE9veTNLV19RWTd2aE9zMllwRkFzTDJfekJWNU9NWC1yUVJzVUlGR0Z5VG1KMXBrTWxwSDQ0c2w2T3RGa2IyYWFyS1cwalFtT0poZWJOUU9LeDZzMkxBMTk1LWQ4blMtbWx1SlB6RWZzSEJWMDNtcjIwYUlLVjlPMExqdmxmdVBoaTFJS0k?oc=5",
+  "skip:https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
+  "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+  "title:США анонсировали новые таможенные пошлины в отношении Китая, ЕС и других стран"
 ]

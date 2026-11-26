@@ -1,10 +1,4 @@
 [
-  "skip:https://stopgame.ru/newsdata/73508/anons_super_meat_boy_again_remastera_super_meat_boy_s_novym_kontentom",
-  "skip:https://www.igromania.ru/news/169936/ej-pomnite-tu-igru-s-myasnyim-parnem-sostoyalsya-anons-novoj-super-meat-boy-again/",
-  "skip:https://stopgame.ru/newsdata/73505/novyy_syuzhetnyy_trailer_stranger_than_heaven_posvyatili_gorodu_kure",
-  "https://www.igromania.ru/news/169944/otnosheniya-s-leonom-i-materinskaya-rol-aktrisa-iz-resident-evil-requiem-o-vozmozhnom-buduschem-grejs/",
-  "title:Отношения с Леоном и материнская роль — актриса из Resident Evil Requiem о возможном будущем Грейс",
-  "skip:https://deadline.com/2026/11/dc-studios-movie-tv-list-jeremy-latcham-1237217689/",
   "https://www.kinonews.ru/news_144149/",
   "title:Режиссер \"Хищника\" Дэн Трактенберг может снять сольный фильм о Росомахе",
   "https://deadline.com/2026/11/michael-mann-lawsuit-heat-rights-1237223655/",
@@ -998,5 +992,11 @@
   "https://kg-portal.ru/comments/135988-cheburashka-3-trejler/",
   "title:Семья и полные радости штаны в трейлере \"Чебурашки 3\"",
   "https://www.playground.ru/xenoblade_chronicles_3/news/nintendo_vypustit_xenoblade_chronicles_3_dlya_switch_2_uzhe_3_dekabrya-1894053#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Nintendo выпустит Xenoblade Chronicles 3 для Switch 2 уже 3 декабря"
+  "title:Nintendo выпустит Xenoblade Chronicles 3 для Switch 2 уже 3 декабря",
+  "skip:https://gamemag.ru/news/202310/playstation-plus-essential-dekabr-2026-goda",
+  "skip:https://gamemag.ru/news/202306/vsego-odin-udar-razrabotchiki-marathon-vypustili-treyler-bishopa",
+  "skip:https://www.igromania.ru/news/170246/veteran-call-of-duty-prizval-razrabotchikov-ne-idti-v-igrovuyu-industriyu/",
+  "skip:https://stopgame.ru/newsdata/73641/novyy_kompanon_i_ne_tolko_v_reviewnom_trailere_switch_2_versii_xenoblade_chronicles_3",
+  "https://www.playground.ru/witcher_3_wild_hunt/news/the_witcher_3_wild_hunt_remastered_poluchila_patch_5_02_uluchsheniya_trassirovki_luchej_balans_i_ispravleniya-1894085#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:The Witcher 3: Wild Hunt Remastered получила патч 5.02 - улучшения трассировки лучей, баланс и исправления"
 ]

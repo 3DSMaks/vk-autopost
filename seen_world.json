@@ -1,7 +1,4 @@
 [
-  "title:КСИР заявил об атаке на военные базы и радары США в Бахрейне",
-  "skip:https://ria.ru/20261121/krasnodar-2133189319.html",
-  "skip:https://tass.ru/ekonomika/28342961",
   "https://www.interfax.ru/russia/1130622",
   "title:В аэропорту Краснодара ввели временные ограничения на прием и выпуск самолетов",
   "skip:https://ria.ru/20261122/bahrejn-2133191761.html",
@@ -998,5 +995,8 @@
   "title:ФИФА подверглась кибератаке со стороны хакеров",
   "skip:https://news.google.com/rss/articles/CBMiywFBVV95cUxPNkR2SS1TcWRuWnFYeng0TTFWaUc4NXB4R0hVM2dBN1hSVDZPSUZCMi1WTlc0WFFodE9YR3J2RE02by1fZ1B1cVNmX09PcWlYWkpsWmdrVWplcmpDLTNuM3VocXhHSEdrT01mUnVMTzZsOERtcUgtb2tvWE04WURTQUhyTmV4eWw5STVwNEF5ZEZzc0pPTlMyQ3lESlFuNWZJaVhUcFdhN1oxeWpZREwxTXNkRUFRV3Y0c0gxb21oSlhTbXlwc2hTZUU2RQ?oc=5",
   "https://www.interfax.ru/world/1131597",
-  "title:Китайский маркетплейс Temu обязался изменить практики в ЕС"
+  "title:Китайский маркетплейс Temu обязался изменить практики в ЕС",
+  "skip:https://www.theguardian.com/politics/2026/nov/26/ministry-of-defence-deal-babcock-maintain-submarines",
+  "https://www.interfax.ru/world/1131608",
+  "title:Финляндия закупит 160 боевых машин пехоты CV9035 Mk IV Nordic Edition у шведской компании BAE Systems"
 ]

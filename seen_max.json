@@ -1,7 +1,4 @@
 [
-  "title:Ставка на мультиплатформенность оправдывается: Square Enix сообщила о резком росте прибыли и выручки",
-  "skip:https://www.igromania.ru/news/169943/dlya-forza-horizon-6-predstavili-plan-razvitiya-igryi-na-konets-2026-goda-i-gryaduschij-2027-j/",
-  "skip:https://stopgame.ru/newsdata/73499/god_of_war_sons_of_sparta_vyydet_na_ps4_i_poluchit_dva_novyh_rezhima",
   "https://stopgame.ru/newsdata/73504/nominantov_the_game_awards_2026_raskroyut_uzhe_17_noyabrya",
   "title:Номинантов The Game Awards 2026 раскроют уже 17 ноября",
   "skip:https://stopgame.ru/newsdata/73508/anons_super_meat_boy_again_remastera_super_meat_boy_s_novym_kontentom",
@@ -998,5 +995,8 @@
   "title:«Человек-паук» поборется за «Золотой глобус»",
   "skip:https://www.kinonews.ru/news_144349/",
   "https://www.kinonews.ru/news_144350/",
-  "title:\"Дюна: Часть третья\" может стартовать в прокате хуже второй части"
+  "title:\"Дюна: Часть третья\" может стартовать в прокате хуже второй части",
+  "skip:https://variety.com/2026/film/global/pirates-of-the-caribbean-secret-cinema-video-1236958835/",
+  "https://kg-portal.ru/comments/135988-cheburashka-3-trejler/",
+  "title:Семья и полные радости штаны в трейлере \"Чебурашки 3\""
 ]

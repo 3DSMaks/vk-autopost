@@ -1,9 +1,4 @@
 [
-  "https://www.film.ru/news/chelovek-pauk-vydvigaetsya-na-oskar",
-  "title:Человек-паук выдвигается на Оскар",
-  "skip:https://www.pcgamer.com/games/grand-theft-auto/new-grand-theft-auto-6-trailer-is-for-a-tv-show-that-exists-within-grand-theft-auto-6/",
-  "skip:https://www.igromania.ru/news/169926/gta-6-poluchila-pervyij-patch-do-reliza-i-tizer-multseriala-s-televideniya-vajs-siti/",
-  "https://www.playground.ru/elder_scrolls_5_skyrim/news/sozdatel_skyrim_spustya_gody_priznalsya_v_odnoj_iz_svoih_glavnyh_oshibok_igroki_hoteli_sovsem_drugogo-1890618#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Создатель Skyrim спустя годы признался в одной из своих главных ошибок - игроки хотели совсем другого",
   "skip:https://deadline.com/2026/11/european-film-awards-2026-nominations-1237223704/",
   "skip:https://variety.com/2026/film/news/fatherland-la-bola-negra-european-film-awards-nominations-1236947619/",
@@ -998,5 +993,10 @@
   "https://www.igromania.ru/news/170244/glava-razrabotki-fable-rasskazal-ob-ozvuchke-istochnikah-vdohnoveniya-i-umenshenii-masshtabov-igryi/",
   "title:Глава разработки Fable рассказал об озвучке, источниках вдохновения и уменьшении масштабов игры",
   "https://www.igromania.ru/news/170252/gta-6-pokazala-otlichnyij-start-na-evropejskih-ryinkah-i-privela-k-sokrascheniyu-igrokov-call-of-duty-fortnite-i-drugih-igr/",
-  "title:GTA 6 показала отличный старт на европейских рынках и привела к сокращению игроков Call of Duty, Fortnite и других игр"
+  "title:GTA 6 показала отличный старт на европейских рынках и привела к сокращению игроков Call of Duty, Fortnite и других игр",
+  "skip:https://www.film.ru/articles/ochen-sterilnaya-revolyuciya-kakim-poluchilsya-novyy-film-po-knige-syuzen-kollinz-golodnye",
+  "skip:https://variety.com/2026/film/global/gerard-depardieu-trial-rape-charges-failed-appeal-1236958940/",
+  "skip:https://deadline.com/2026/11/gerard-depardieu-rape-case-trial-criminal-court-arnould-1237234012/",
+  "https://www.film.ru/news/mark-eydelshteyn-anonsiroval-sikvel-sta-let-vpered",
+  "title:Марк Эйдельштейн анонсировал сиквел \"Ста лет вперед\""
 ]

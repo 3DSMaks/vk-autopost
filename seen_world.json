@@ -1,11 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28342993",
-  "skip:https://www.rbc.ru/politics/22/11/2026/6b0207755e2ed76366e4de5e",
-  "https://ria.ru/20261122/tramp-2133196048.html",
-  "title:Дональд Трамп назвал саммит АТЭС в Китае величайшим и опубликовал фотографии с лидерами России и Китая",
-  "skip:https://www.kommersant.ru/doc/9127217",
-  "https://www.interfax.ru/world/1130623",
-  "title:МВД Бахрейна заявило о повреждении гражданского промышленного объекта в результате иранского удара",
   "skip:https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1lhc2ZRS3hPcnFWc3VBdDBIbElGZF9PSlZVSEV4NFNxSXZ1YlZWeWtYUVdrbjZXVXFJM3V6VkgzLTZGSWdWUFZiVGctOFRreU1lUWpWdXp5VmJxYTFBVU9wTk9YcTZNSmt6MDhsNnB6azlRSnVnaUdZNF83dl9Gay1OVm9qQ2NreElTT1EzVFF2STVySzRkQmt3M19lRjlzQjJvVWVQckYzR21YUVRyY1R0MGJNYzJwaVhR?oc=5",
   "skip:https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
   "https://www.rbc.ru/rbcfreenews/6b020ee2c82fefdda02f9496",
@@ -998,5 +991,12 @@
   "skip:https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
   "skip:https://news.google.com/rss/articles/CBMijwFBVV95cUxQSm1tYjVaQVYwTmZWQk9pQXBBNlZvQjZGcjdpVlpzQ09hQmwxVmNJOXhiZVF1TTJsS05JM3NOOHhaRzJIaU9MT0c4bXdManBOdXk2Z2hReHlKTFJOaUR0aWRSMl9lVzNuelZRMkIycmpJRlV4RTBRd09kWVJTZ0tNdUNqRWNncHAtMzlyQnVmRQ?oc=5",
   "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWHRHWGdZSTZmMFAtdFFZbVlVOTRTUEdYNDlQQVVVaGdua3JjQk1YRmlEOXhSeXk5a0thWjdtSUt2cWZpTVNkV3dveE9McHRhSWVpdjIxd2FuOW84bkRBTlNGcDJ4S3Z3MFBCd3RyWlBDai1mMXlKMkpFUnVBWmtDWk5tVzhFX2F6bzNuS3lYV0Q2bUtCbjlpMUlUZFJwYlM4eGhwcmdB?oc=5",
-  "title:Президентские выборы в Сербии назначены на 27 декабря"
+  "title:Президентские выборы в Сербии назначены на 27 декабря",
+  "skip:https://www.france24.com/en/france/20261126-french-actor-g%C3%A9rard-depardieu-to-face-trial-for-rape-his-lawyer-says",
+  "https://ria.ru/20261126/deparde-2134179959.html",
+  "title:Французского актера Жерара Депардье будут судить по делу об изнасиловании",
+  "skip:https://ria.ru/20261126/pasechnik-2134176059.html",
+  "skip:https://www.interfax.ru/russia/1131618",
+  "https://www.kommersant.ru/doc/9131468",
+  "title:Четыре человека погибли и 11 пострадали при обстрелах ЛНР со стороны ВСУ"
 ]

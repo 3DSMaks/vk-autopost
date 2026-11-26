@@ -1,12 +1,4 @@
 [
-  "skip:https://www.france24.com/en/france-demonstrations-losing-steam-as-movement-enters-sixth-week",
-  "skip:https://www.france24.com/en/new-day-of-protests-across-france",
-  "https://tass.ru/mezhdunarodnaya-panorama/28342763",
-  "title:Во Франции прошли новые акции протеста против роста цен и экономической политики",
-  "skip:https://ria.ru/20261121/politsija-2133171593.html",
-  "skip:https://ria.ru/20261121/parizh-2133171351.html",
-  "skip:https://ria.ru/20261121/parizh-2133167173.html",
-  "https://www.rbc.ru/rbcfreenews/6b01c1f15a21a81371017671",
   "skip:https://www.rbc.ru/rbcfreenews/6b01d69016939d5f628cafff",
   "skip:https://ria.ru/20261121/vladikavkaz-2133170595.html",
   "skip:https://ria.ru/20261121/prokuratura-2133166995.html",
@@ -998,5 +990,13 @@
   "skip:https://news.google.com/rss/articles/CBMihwFBVV95cUxPZi1lalA4QTR1T3RxVkRDblVuYkY3SDBXV3A3bWhpaWJzN29ZT2xEWTR5b1RDMzZWUWRfdldya2R1ZlZiQ2ptLThvVjMxQmpMWUFKeFVEWnhjOGMzVUcyZDVjb3ZYa1o0RjFiYXVQSUFCczNFelNVYjQ2ZzFiOWxUSmlKdFVXWW8?oc=5",
   "skip:https://news.google.com/rss/articles/CBMisgFBVV95cUxPV3JaTmxlVEkyOG9FXzM3d0dwUEdpV0ZwZk1FUUdZNG45Q0xYMWxaMndSZXNib0NXdDNNN1p3UzI5MnJBRTVhdll0Rm1EamNoMUpYRHg2R2JrcFlqTXFpdE9PeTgtVWktV3YzY012TDMtclByVHpIQnFucGhJbl9CZVlCMXNBb2pLRkxveWhIVEN0eEtUampuVkNRTzhBV1NPVWRnWEswMHlVbjhkeUZSeWVR?oc=5",
   "https://www.rbc.ru/rbcfreenews/6b075d70c11784054f5f3553",
-  "title:Армия США уничтожила запасы опасного химиката в Айове"
+  "title:Армия США уничтожила запасы опасного химиката в Айове",
+  "skip:https://www.kommersant.ru/doc/9130801",
+  "https://ria.ru/20261126/parol-2134005992.html",
+  "title:Менеджер паролей 1Password подвергся хакерской атаке",
+  "skip:https://www.aljazeera.com/sports/2026/11/25/malen-and-roma-deny-injury-hit-psg-in-champions-league-draw?traffic_source=rss",
+  "skip:https://www.sport-interfax.ru/1131444",
+  "skip:https://ria.ru/20261126/pszh-roma-2133965117.html",
+  "https://www.france24.com/en/sport/20261125-psg-s-perfect-champions-league-record-ends-as-roma-snatch-2-2-draw-with-late-penalty",
+  "title:ПСЖ сыграл вничью с Ромой в матче Лиги чемпионов"
 ]

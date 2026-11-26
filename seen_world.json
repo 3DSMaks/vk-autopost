@@ -1,9 +1,4 @@
 [
-  "skip:https://tass.ru/armiya-i-opk/28342811",
-  "https://www.interfax.ru/russia/1130612",
-  "title:Силы ПВО за день сбили 47 украинских беспилотников над регионами России",
-  "skip:https://www.france24.com/en/drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
-  "skip:https://www.kommersant.ru/doc/9127192",
   "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
   "title:Финляндия заявила о возможной причастности Украины к атаке дронов на российское судно в Финском заливе",
   "skip:https://news.google.com/rss/articles/CBMimgFBVV95cUxOTzg5OVFjVWE0RGV5T1VhWTRQR2JFd0VqdFNBSEVtZ2NxdHotRXFIYVIxd1FmUzY2UmJtR2lSamtTU21TUXZfcTJ0Zm9kMnNCQVdoclZoaHBsTGVNbjZZcVlaYWNtNHVrM2FST21pRU84UzlZd3oyLTlERlR3M0lRQVpxQTZhZXhqTU12SFQzVGpYNllBeTFOS2hn?oc=5",
@@ -998,5 +993,10 @@
   "https://www.france24.com/en/africa/20261126-at-least-31-killed-in-cairo-fire-after-fuel-truck-overturns-on-busy-highway",
   "title:В результате крупного ДТП с бензовозом в Каире погибли более 30 человек",
   "skip:https://news.google.com/rss/articles/CBMimgFBVV95cUxORm14bFpCNEQ3SVZfb1VRZEpuWGw3dXpPVjZYRS1zTFJvU2Q2cEZBMGVJNGNOZjVQMGtPTzJWeXo0WldmV0xzN0hjV2djWlRYMThidUZleHVNVTYxcFdBLW94UllVbG9jd0xQMTlyQ3FOdkNIQnpoODhsZmlsUFVEVXUwYzE4MFVaRDl0MGx4NWxLVTNMeXAtd0ZR?oc=5",
-  "https://tass.ru/obschestvo/28355923"
+  "https://tass.ru/obschestvo/28355923",
+  "skip:https://www.interfax.ru/world/1131466",
+  "skip:https://ria.ru/20261126/kndr-2134010591.html",
+  "skip:https://news.google.com/rss/articles/CBMingFBVV95cUxQcjR1N2UyTm5TeG50ZVdtSHRYd1NuZ2lfeWxNQWluM182WUtVUHpGbGRSN05QdkQ2Ti00ZUZzeFFxTE9yMU1SbEVYMlM5RHRicmtoT1R2QTlJUjQ5VFp3Y0RwQmFGRzJpd3lYWmUzUjBFQThMTkhYbGs1TnZSTEF3RnotdE5QVWhaaG54dm9UYW0xQUNJeTg1YXRHZ1JvQQ?oc=5",
+  "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
+  "title:Ким Чен Ын заявил о необходимости расширения производства ядерного оружия в КНДР"
 ]

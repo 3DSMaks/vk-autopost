@@ -1,13 +1,4 @@
 [
-  "skip:https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1lhc2ZRS3hPcnFWc3VBdDBIbElGZF9PSlZVSEV4NFNxSXZ1YlZWeWtYUVdrbjZXVXFJM3V6VkgzLTZGSWdWUFZiVGctOFRreU1lUWpWdXp5VmJxYTFBVU9wTk9YcTZNSmt6MDhsNnB6azlRSnVnaUdZNF83dl9Gay1OVm9qQ2NreElTT1EzVFF2STVySzRkQmt3M19lRjlzQjJvVWVQckYzR21YUVRyY1R0MGJNYzJwaVhR?oc=5",
-  "skip:https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-  "https://www.rbc.ru/rbcfreenews/6b020ee2c82fefdda02f9496",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28343039",
-  "skip:https://www.kommersant.ru/doc/9127216",
-  "https://www.rbc.ru/politics/22/11/2026/6b0220f15a21a813710176b6",
-  "title:Премьер Италии Джорджа Мелони выразила протест Зеленскому из-за базы «Миротворец»",
-  "skip:https://tass.ru/politika/28343003",
-  "https://www.kommersant.ru/doc/9127218",
   "title:Россия и Грузия договорились о регулярном прямом диалоге и расширении торговли",
   "skip:https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN0NlUmFqMnhmVkpyWGZoS25Dam1uYjkxeHRjVDVMQmdqalVQYmpid2tjZ1JDLWdUM1FfYzc3cjRnU1VWdEI2WjRJMTZybmYxVEZESl91MTR1aEJCZnE2QzNiMXp6S1VWSFJnZWRhUVlTLTY2a1A0bDZsMnJ4dHNFem0yZm9IY1JmMkRzLTFOSl9vcGR4aVh0bklEUVU3eC1xR2VZd3VPYk9WWVNJMmR2WVE2Mmk5NDNqd1BqcEFrXzJ3SXZKbmx4TA?oc=5",
   "https://www.kommersant.ru/doc/9127220",
@@ -998,5 +989,14 @@
   "skip:https://ria.ru/20261126/pasechnik-2134176059.html",
   "skip:https://www.interfax.ru/russia/1131618",
   "https://www.kommersant.ru/doc/9131468",
-  "title:Четыре человека погибли и 11 пострадали при обстрелах ЛНР со стороны ВСУ"
+  "title:Четыре человека погибли и 11 пострадали при обстрелах ЛНР со стороны ВСУ",
+  "skip:https://ria.ru/20261126/etsb-2134182121.html",
+  "skip:https://www.interfax.ru/business/1131632",
+  "https://www.rbc.ru/economics/26/11/2026/6b0839b11b49217d7800ea14",
+  "title:Бывший глава ЦБ Испании Пабло Эрнандес де Кос станет председателем Европейского центрального банка",
+  "skip:https://www.interfax.ru/russia/1131636",
+  "skip:https://www.kommersant.ru/doc/9131464",
+  "skip:https://www.rbc.ru/politics/26/11/2026/6b0834581b49217d7800ea0e",
+  "https://ria.ru/20261126/gosduma-2134182904.html",
+  "title:В Госдуму внесли законопроекты об уголовной ответственности за публикацию последствий атак БПЛА и терактов"
 ]

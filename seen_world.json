@@ -1,13 +1,4 @@
 [
-  "title:Минобороны РФ сообщило об уничтожении 38 украинских беспилотников над регионами России за день",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28344043",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28344041",
-  "https://www.rbc.ru/politics/22/11/2026/6b0330eed589bf83febfa4be",
-  "title:Дональд Трамп заявил о возможности возобновления ударов по Ирану после Нового года",
-  "skip:https://news.google.com/rss/articles/CBMisgFBVV95cUxQSjZLZW5ua05hQkRTLVhvZnNHZnpUM05mT3ZxNl9FUUoyMEhMN0gtTUVfT0Zhb0g2eUxaeHlvZWlIWXNTVGlSMlczMHdBUERvRjVsQVZVSW92MlFESWlmTGxVaWM2aXYwZ0NtUTlna3k4ZkV2S0k4YkhVOFRjaWRrcmhZeWg5NHpQaW9pRGIybUFpalV3U2lzdlZ5QzYteENUSWpWdm90SXNFWVU4OWxBaGx3?oc=5",
-  "skip:https://ria.ru/20261122/khusity-2133284711.html",
-  "https://www.interfax.ru/world/1130687",
-  "title:Йеменские хуситы заявили об ударе по нефтеперерабатывающему заводу в Саудовской Аравии",
   "skip:https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
   "skip:https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
   "skip:https://www.aljazeera.com/video/newsfeed/2026/11/22/un-climate-talks-collapse-without-a-deal?traffic_source=rss",
@@ -998,5 +989,14 @@
   "skip:https://ria.ru/20261126/makron-2134249204.html",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28359913",
   "https://www.kommersant.ru/doc/9131815",
-  "title:Лидеры ЕС не смогли согласовать многолетний бюджет на саммите в Брюсселе"
+  "title:Лидеры ЕС не смогли согласовать многолетний бюджет на саммите в Брюсселе",
+  "skip:https://www.kommersant.ru/doc/9131816",
+  "skip:https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnNINWJlUzU0bDVSQ1Z5TWhtZTl1dzVxa01lbWhiMTg0bjBKZzQtbld6RmpIQ3NOSkctT29wTmdmR3VCcHpMbzdBQUdQSU0wVWItQU1COHhCS1BzYnpoOTJsRzl2TWp0aVNNZWVpZVFhS2cwWXVtNnA0bzRfUXNTRTJRTEVHem5BY2V2SURxZG9Vb3VkT3FNa1RuR3RfZWJQUE15WTdGaVFudnJaeVJIdVhXdE9PcWFuY2c?oc=5",
+  "title:Удар беспилотника по НПЗ Саудовской Аравии привел к гибели рабочего",
+  "skip:https://ria.ru/20261126/fidan--2134255372.html",
+  "skip:https://news.google.com/rss/articles/CBMitAFBVV95cUxNYVh6dEF5N3dINWRReHpSbElCSDBTZzlXcVJqaUlHXzRoSTlSeTZ0Vnc2V3FvXzJwVGlNZVBrRGdPTHY4SVlQdEpoV1pwMHNfdVlMX09SNllUVFVYSFFlNTYzN29hckswbU5mWTlSYlRoV0ZhYS1fT2R1VlZ4YmFTdlRCYUpCem4wTlNOR0RvMHNfUV9lRVZRREpBdjNuTFphcUpITm1aY0wyTWkySW1mR09xVjI?oc=5",
+  "skip:https://news.google.com/rss/articles/CBMitAFBVV95cUxNZmk5SkpEdGwtR2pPNzZFT0tXLUFObl8wQnJfcTVRcXhfOHpVNnI1TFZwR2F1RnJOczB5MjRkNzNWRl9Wd0EtZFc0ZEVFYmZmanJiOFVIdHY4WWdORGVXVUg2YmhUZVdHRlJJblBmWGdXUVYyR0RBYjlvTUwtdXFvRXFXUkNTbnRmbFlidUhOWk0wdUFSSkZQS3ZkeDBwWi1wT2pLVXNRYzlHUkJhRG1sbXVmY3g?oc=5",
+  "https://ria.ru/20261126/futbol-2134255580.html",
+  "title:Матч Лиги Европы между «Бешикташем» и «Хапоэлем» прерван из-за беспорядков на трибунах"
 ]

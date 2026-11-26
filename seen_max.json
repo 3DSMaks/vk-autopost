@@ -1,15 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169932/ubisoft-vernyot-rainbow-six-vegas-s-novoj-polnotsennyij-chastyu-insajder/",
-  "skip:https://www.playground.ru/gta_6/news/predzakazy_gta_6_stavyat_novye_rekordy_kotorye_vryad_li_komu_to_udastsya_pobit_uzhe_bolee_12_mln_kopij-1890523#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.ign.com/articles/ps5-qssr-updates-revealed-for-marvels-spider-man-2-arc-raiders-and-more",
-  "skip:https://www.pcgamer.com/software/ai/dont-like-ai-in-games-crimson-desert-studio-pearl-abyss-aint-care-its-expanding-ai-use-throughout-our-entire-development-pipeline/",
-  "skip:https://stopgame.ru/newsdata/73506/startovaya_auditoriya_star_wars_galactic_racer_sostavila_poltora_milliona_igrokov",
-  "skip:https://gamemag.ru/news/202132/marvels-spider-man-2-obzavelas-podderjkoy-quick-spectral-super-resolution-na-ps5",
-  "skip:https://gamemag.ru/news/202134/rainbow-six-vegas-3",
-  "skip:https://www.ign.com/articles/rainbow-six-vegas-reportedly-returning-with-new-installment",
-  "skip:https://www.igromania.ru/news/169929/star-wars-galactic-racer-privlekla-uzhe-bolee-15-mln-igrokov/",
-  "skip:https://stopgame.ru/newsdata/73503/henderson_ubisoft_vozrodit_podseriyu_rainbow_six_vegas",
-  "https://www.playground.ru/forza_horizon_6/news/razrabotchiki_forza_horizon_6_raskryli_plany_po_razvitiyu_igry_na_blizhajshie_mesyatsy-1890531#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Разработчики Forza Horizon 6 раскрыли планы по развитию игры на ближайшие месяцы",
   "https://gamemag.ru/news/202130/god-of-war-sons-of-sparta-coming-to-ps4",
   "title:2D-Кратос перебирается на прошлое поколение: Датирован релиз God of War: Sons of Sparta для PlayStation 4",
@@ -998,5 +987,16 @@
   "https://www.playground.ru/gta_6/news/starshij_dizajner_rockstar_uveren_chto_na_poisk_vseh_tajn_v_gta_6_u_igrokov_ujdut_mnogie_gody-1893983#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Старший дизайнер Rockstar уверен, что на поиск всех тайн в GTA 6 у игроков уйдут многие годы",
   "https://www.film.ru/news/zavershilis-semki-ohoty-na-golluma",
-  "title:Завершились съемки Охоты на Голлума"
+  "title:Завершились съемки Охоты на Голлума",
+  "skip:https://www.igromania.ru/news/170242/ne-hochesh-obosnuj-v-ubisoft-yakobyi-trebuyut-argumentirovat-otkaz-ot-ispolzovaniya-generativnogo-ii/",
+  "skip:https://www.playground.ru/misc/news/ubisoft_po_sluham_trebuet_ot_svoih_razrabotchikov_podrobno_obyasnyat_otkaz_ot_ispolzovaniya_generativnogo_ii-1894006#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/170240/vedmak-4-vyijdet-odnovremenno-na-ps5-xbox-series-i-pc-rasskazali-v-studii/",
+  "skip:https://www.playground.ru/misc/news/lionsgate_ne_sobiraetsya_snimat_spin_offy_golodnyh_igr_bez_knizhnogo_pervoistochnika-1894005#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/gta_6/news/rockstar_games_obyasnila_otsutstvie_funktsii_povtora_missij_v_grand_theft_auto_6-1894003#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/170237/razrabotchiki-gta-6-podtalkivayut-igrokov-k-uhodu-ot-prestupnosti-cherez-igrovyie-mehaniki/",
+  "skip:https://www.ign.com/articles/rockstar-explains-why-it-added-consequences-to-gta-6s-violence-and-crimes",
+  "skip:https://www.ign.com/articles/gta-6-doesnt-let-you-replay-missions-and-rockstar-says-theres-a-good-reason-for-that",
+  "skip:https://stopgame.ru/newsdata/73636/v_ea_sports_fc_27_dobavyat_ii_versiyu_umershego_kommentatora_dzhona_motsona",
+  "https://www.pcgamer.com/software/ai/deceased-bbc-football-commentator-resurrected-with-ai-for-ea-sports-fc-the-family-says-its-a-touching-tribute-but-some-fans-call-it-gross-and-bleak/",
+  "title:Deceased BBC football commentator resurrected with AI for EA Sports FC: The family says it's a 'touching tribute' but some fans call it 'gross' and 'b"
 ]

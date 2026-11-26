@@ -1,9 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135729-posle-desjatiletnego-pereryva-aleks-projas-otobral-rezhissuru-istoricheskogo-epika-santonio-banderasom-ukakogoto-francuza/",
-  "https://www.film.ru/news/reliz-stalina",
-  "title:Релиз Сталина",
-  "posted:2026-11-10T13:31:40+00:00",
-  "skip:https://www.film.ru/news/pervye-otzyvy-na-skrudzha-s-deppom",
   "https://deadline.com/2026/11/straight-circle-with-elliott-luke-tittensor-gets-uk-deal-1237218415/",
   "title:BIFA Nominee ‘Straight Circle’, Starring Elliott & Luke Tittensor, Gets UK Deal",
   "posted:2026-11-10T15:01:54+00:00",
@@ -998,5 +993,10 @@
   "title:Вышел трейлер сериала «Каменская. Перезагрузка»",
   "posted:2026-11-26T11:02:27+00:00",
   "https://www.film.ru/news/leon-vnov-pokazhut-v-rossii",
-  "title:«Леон» вновь покажут в России"
+  "title:«Леон» вновь покажут в России",
+  "posted:2026-11-26T12:34:09+00:00",
+  "skip:https://www.kinonews.ru/news_144350/",
+  "skip:https://www.kinonews.ru/news_144349/",
+  "https://www.film.ru/news/chelovek-pauk-poboretsya-za-zolotoy-globus",
+  "title:«Человек-паук» поборется за «Золотой глобус»"
 ]

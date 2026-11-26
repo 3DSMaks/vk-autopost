@@ -1,7 +1,4 @@
 [
-  "skip:https://variety.com/2026/film/news/fatherland-la-bola-negra-european-film-awards-nominations-1236947619/",
-  "https://www.film.ru/news/novyy-treyler-oruzheynogo-barona-2",
-  "title:Новый трейлер Оружейного барона 2",
   "https://www.film.ru/news/chelovek-pauk-vydvigaetsya-na-oskar",
   "title:Человек-паук выдвигается на Оскар",
   "skip:https://www.igromania.ru/news/169932/ubisoft-vernyot-rainbow-six-vegas-s-novoj-polnotsennyij-chastyu-insajder/",
@@ -998,5 +995,8 @@
   "skip:https://www.ign.com/articles/rockstar-explains-why-it-added-consequences-to-gta-6s-violence-and-crimes",
   "skip:https://stopgame.ru/newsdata/73636/v_ea_sports_fc_27_dobavyat_ii_versiyu_umershego_kommentatora_dzhona_motsona",
   "https://www.ign.com/articles/gta-6-doesnt-let-you-replay-missions-and-rockstar-says-theres-a-good-reason-for-that",
-  "title:GTA 6 Doesn't Let You Replay Missions, and Rockstar Says There's a Good Reason for That"
+  "title:GTA 6 Doesn't Let You Replay Missions, and Rockstar Says There's a Good Reason for That",
+  "skip:https://www.film.ru/news/charli-koks-okazalsya-slishkom-starym-dlya-dzheymsa-bonda",
+  "https://www.film.ru/news/leon-vnov-pokazhut-v-rossii",
+  "title:«Леон» вновь покажут в России"
 ]

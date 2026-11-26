@@ -1,6 +1,4 @@
 [
-  "skip:https://variety.com/2026/film/news/james-gunn-skydance-superman-man-of-tomorrow-dc-exit-1236947669/",
-  "https://www.film.ru/news/premera-ocharovannyh",
   "title:Премьера Очарованных",
   "https://kg-portal.ru/comments/135782-nominant-naoskar-jura-borisov-igraet-akteraneudachnika-vkomedii-kulik/",
   "title:Номинант на \"Оскар\" Юра Борисов играет актёра-неудачника в комедии \"Кулик\"",
@@ -998,5 +996,7 @@
   "skip:https://www.kinonews.ru/news_144349/",
   "skip:https://variety.com/2026/film/global/pirates-of-the-caribbean-secret-cinema-video-1236958835/",
   "https://www.film.ru/news/chelovek-pauk-poboretsya-za-zolotoy-globus",
-  "title:«Человек-паук» поборется за «Золотой глобус»"
+  "title:«Человек-паук» поборется за «Золотой глобус»",
+  "https://www.film.ru/news/vyshel-vtoroy-sezon-dorogushi",
+  "title:Вышел второй сезон «Дорогуши»"
 ]

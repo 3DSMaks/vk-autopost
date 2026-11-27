@@ -1,6 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_144162/",
-  "skip:https://kg-portal.ru/comments/135782-nominant-naoskar-jura-borisov-igraet-akteraneudachnika-vkomedii-kulik/",
   "https://deadline.com/2026/11/amanda-seyfried-host-saturday-night-live-1237224388/",
   "title:Amanda Seyfried To Host ‘Saturday Night Live’",
   "https://deadline.com/2026/11/alexander-skarsgard-wicker-interview-1237224217/",
@@ -998,5 +996,7 @@
   "https://www.film.ru/news/scenariy-shan-chi-2-v-razrabotke",
   "title:Сценарий Шан-Чи 2 в разработке",
   "https://www.film.ru/news/avatar-4-ostaetsya-v-rabote",
-  "title:Аватар 4 остается в работе"
+  "title:Аватар 4 остается в работе",
+  "https://kg-portal.ru/comments/135997-mstiteli-doktor-dum-tizer-trejlera/",
+  "title:Магнето пытается сорвать маску с главного злодея в тизере \"Мстителей: Доктор Дум\""
 ]

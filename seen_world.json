@@ -1,7 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9128910",
-  "https://www.interfax.ru/world/1130992",
-  "title:ВМС Ирана сообщили о подрыве двух танкеров на минах в Ормузском проливе",
   "skip:https://www.rbc.ru/politics/24/11/2026/6b05592ceec4f5ad5828899f",
   "skip:https://www.kommersant.ru/doc/9128902",
   "skip:https://ria.ru/20261124/zakharova--2133588308.html",
@@ -998,5 +995,8 @@
   "skip:https://ria.ru/20261127/zelenskiy-2134493706.html",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28363909",
   "https://ria.ru/20261127/zelenskij-2134500340.html",
-  "title:Владимир Зеленский прокомментировал ситуацию с ударами по Ливии и признал отсутствие координации с партнерами"
+  "title:Владимир Зеленский прокомментировал ситуацию с ударами по Ливии и признал отсутствие координации с партнерами",
+  "skip:https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss",
+  "https://www.kommersant.ru/doc/9144630",
+  "title:OpenAI подала встречный иск против Apple из-за кражи коммерческих секретов"
 ]

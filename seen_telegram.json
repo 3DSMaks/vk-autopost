@@ -1,8 +1,4 @@
 [
-  "video:2026-11-15:https://www.film.ru/articles/kak-polyubit-resident-evil-poshagovaya-instrukciya-dlya-nachinayushchih-fanatov-obiteli-zla",
-  "title:Как полюбить Resident Evil? Пошаговая инструкция для начинающих фанатов «Обители зла»",
-  "skip:https://kg-portal.ru/comments/135800-skrudzh-s-dzhonni-deppom-pobedil-novinki-i-dazhe-nedavnjuju-godzillu/",
-  "skip:https://www.film.ru/news/skrudzh-s-dzhonni-deppom-pokoril-prokat",
   "https://www.kinonews.ru/news_144170/",
   "title:Энтони Маки сравнил Сэма Уилсона с Человеком-пауком",
   "skip:https://variety.com/2026/film/box-office/johnny-depp-ebenezer-ramayana-godzilla-minus-zero-global-box-office-1236948618/",
@@ -998,5 +994,9 @@
   "skip:https://gamemag.ru/news/202327/ot-call-of-duty-do-diablo-i-the-elder-scrolls-microsoft-nachnet-aktivnee-prodvigat-xbox-svoimi",
   "https://gamemag.ru/news/202321/no-one-gets-left-behind-cdpr-says-the-witcher-4-will-launch-on-xbox-day-one-despite-sony-agreement",
   "video:2026-11-27:https://gamemag.ru/news/202321/no-one-gets-left-behind-cdpr-says-the-witcher-4-will-launch-on-xbox-day-one-despite-sony-agreement",
-  "title:«Не оставим за бортом»: Разработчики «Ведьмака 4» успокоили фанатов Xbox после объявления о партнёрстве с Sony"
+  "title:«Не оставим за бортом»: Разработчики «Ведьмака 4» успокоили фанатов Xbox после объявления о партнёрстве с Sony",
+  "skip:https://www.igromania.ru/news/170259/ispolnitelnitsa-roli-lusii-v-gta-6-poblagodarila-fanatov-igryi-v-trogatelnom-soobschenii/",
+  "skip:https://www.ign.com/articles/lucia-actress-manni-l-perez-issues-first-statement-since-gta-6-launch",
+  "https://gamemag.ru/news/202319/grand-theft-auto-vi-vozglavila-yaponskiy-chart-playstation-5-oboshla-nintendo-switch-2-po-nedelnym",
+  "title:Grand Theft Auto VI возглавила японский чарт, PlayStation 5 обошла Nintendo Switch 2 по недельным продажам"
 ]

@@ -1,11 +1,4 @@
 [
-  "title:В ряде российских аэропортов введены временные ограничения",
-  "skip:https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss",
-  "https://www.rbc.ru/rbcfreenews/6b036eb0b0b4c16694856cb8",
-  "title:Демократическая партия США получила наибольшее большинство в Палате представителей",
-  "skip:https://tass.ru/ekonomika/28344213",
-  "https://www.interfax.ru/russia/1130703",
-  "title:В четырех российских аэропортах ввели временные ограничения",
   "skip:https://www.interfax.ru/russia/1130708",
   "skip:https://tass.ru/ekonomika/28344271",
   "https://tass.ru/ekonomika/28344273",
@@ -998,5 +991,12 @@
   "skip:https://www.rbc.ru/rbcfreenews/6b08ce3508921b8b778029ac",
   "skip:https://ria.ru/20261127/opasnost-2134266495.html",
   "https://www.kommersant.ru/doc/9131844",
-  "title:Над Ленинградской областью силы ПВО сбили четыре беспилотника"
+  "title:Над Ленинградской областью силы ПВО сбили четыре беспилотника",
+  "skip:https://ria.ru/20261127/bpla-2134271387.html",
+  "skip:https://tass.ru/proisshestviya/28360385",
+  "https://www.rbc.ru/rbcfreenews/6b08e76bc559741977bff4bc",
+  "title:Силы ПВО перехватили десять беспилотников в небе над Ленинградской областью",
+  "skip:https://www.rbc.ru/politics/27/11/2026/6b08d598564cdd8d098fedf4",
+  "https://www.kommersant.ru/doc/9131847",
+  "title:Издание Politico сообщило об изменении Трампом совместного заявления с генсеком НАТО по Украине"
 ]

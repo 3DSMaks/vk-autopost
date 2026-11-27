@@ -1,8 +1,4 @@
 [
-  "skip:https://www.film.ru/news/nehvatka-deneg-na-trikvel-28-let-spustya",
-  "https://kg-portal.ru/comments/135804-u-denni-bojla-est-vse-chtoby-snjat-tretju-chast-zombihorrora-28-let-spustja-no-deneg-ne-dajut/",
-  "title:У Дэнни Бойла есть всё, чтобы снять третью часть зомби-хоррора \"28 лет спустя\", но денег не дают",
-  "skip:https://www.playground.ru/call_of_duty_world_at_war/news/odin_iz_sozdatelej_zombi_rezhima_call_of_duty_pokinul_studiyu_treyarch_posle_20_let_raboty-1891132#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.playground.ru/fable_2026/news/avtory_novoj_fable_raskryli_kartu_i_masshtab_pererozhdennogo_bauerstouna-1891130#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://stopgame.ru/newsdata/73512/xbox_project_helix_eto_konsol_kotoraya_zapuskaet_pk_igry_a_ne_naoborot",
   "skip:https://www.igromania.ru/news/169963/sozdatelya-rezhima-zombi-v-call-of-duty-uvolili-spustya-pochti-20-let-rabotyi-v-treyarch/",
@@ -998,5 +994,9 @@
   "https://www.ign.com/articles/former-gran-turismo-world-series-competitor-helped-tune-gta-6-car-physics",
   "title:Former Gran Turismo World Series Competitor Helped Tune GTA 6 Car Physics",
   "https://gamemag.ru/news/202288/garrus-na-polke-rossiyskaya-studiya-atm-studio-predstavila-metallicheskuyu-figurku-geroya-mass",
-  "title:Гаррус на полке: Российская студия ATM Studio представила металлическую фигурку героя Mass Effect"
+  "title:Гаррус на полке: Российская студия ATM Studio представила металлическую фигурку героя Mass Effect",
+  "skip:https://stopgame.ru/newsdata/73660/smi_new_radical_games_otmenila_neanonsirovannuyu_igru_vozmozhno_remeyk_the_simpsons_hit_and_run",
+  "skip:https://www.igromania.ru/news/170271/studii-razrabotchikov-prototype-i-simpsons-hit-and-run-prishlos-otmenit-neanonsirovannuyu-igru/",
+  "https://www.igromania.ru/news/170273/prodazhi-gta-6-prevyisili-54-milliona-kopij-analitiki/",
+  "title:Продажи GTA 6 превысили 53 миллиона копий — аналитики"
 ]

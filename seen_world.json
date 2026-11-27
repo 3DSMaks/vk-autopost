@@ -1,12 +1,4 @@
 [
-  "https://tass.ru/ekonomika/28348765",
-  "title:ФАС возбудила дело против компаний «ТД УЗПМ» и «Транссервис» из-за картеля на рынке противогололедных реагентов",
-  "skip:https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZldRdngyRk9qdWlNdVBkYlFrTnBtV3M3WU45al9qVVp6OE9VRktQTWVKRWY0aWlfNjBhTVFNVlhaYkp4aEJVeVItSlpIUjAwd2I5RGh5MV9wZHVnNkc5c3F1MzA0elVvZ2x2bVFrMUM3NHgwVjJYaHpPRS0xa25Tb0VIUVBySTd5blMxNXhQYlVWMkh5bG0tbHRNN3hvck8zQnI3SG4tdGg?oc=5",
-  "https://tass.ru/proisshestviya/28348763",
-  "title:В Ханое произошел взрыв в кафе, погибли шесть человек",
-  "skip:https://tass.ru/obschestvo/28348767",
-  "skip:https://www.interfax.ru/russia/1130975",
-  "https://ria.ru/20261124/plenum-2133576187.html",
   "title:Верховный суд РФ инициировал создание Черноморского флотского военного суда в Севастополе",
   "skip:https://www.interfax.ru/russia/1130985",
   "skip:https://www.kommersant.ru/doc/9128891",
@@ -998,5 +990,13 @@
   "title:Российский боксер Артур Субханкулов уступил Энди Крусу в бою за титул IBF",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28363847",
   "https://www.kommersant.ru/doc/9144617",
-  "title:В Польше завершили расследование крушения самолета под Смоленском в 2010 году"
+  "title:В Польше завершили расследование крушения самолета под Смоленском в 2010 году",
+  "skip:https://www.rbc.ru/rbcfreenews/6b09e3ba38ef3b65fb2e4df6",
+  "skip:https://tass.ru/proisshestviya/28363923",
+  "skip:https://ria.ru/20261127/bespilotniki-2134494669.html",
+  "https://ria.ru/20261127/bespilotniki-2134497137.html",
+  "title:Силы ПВО сбили 11 беспилотников, летевших на Москву",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28363897",
+  "https://www.rbc.ru/rbcfreenews/6b09db3dbf589f52924f6a59",
+  "title:Украинский транспортный самолет вылетел из закрытого аэропорта Черновцов"
 ]

@@ -1,7 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_144105/",
-  "skip:https://www.kinonews.ru/news_144096/",
-  "skip:https://deadline.com/2026/11/molly-mccann-hunger-games-sunrise-on-the-reaping-louella-1237216656/",
   "skip:https://www.kinonews.ru/news_144102/",
   "skip:https://www.kinonews.ru/news_144104/",
   "https://deadline.com/2026/11/mgm-the-american-heiress-julianna-margulies-1237220114/",
@@ -998,5 +995,8 @@
   "posted:2026-11-27T11:01:38+00:00",
   "skip:https://www.film.ru/news/fincher-ispolzoval-iskusstvennyy-intellekt-v-kliffe-bute",
   "https://www.kinonews.ru/news_144355/",
-  "title:Кристофер Нолан назвал лучший способ смотреть \"Одиссею\" дома"
+  "title:Кристофер Нолан назвал лучший способ смотреть \"Одиссею\" дома",
+  "posted:2026-11-27T12:31:20+00:00",
+  "https://variety.com/2026/film/global/chiwetel-ejiofor-backrooms-kane-parsons-1236959030/",
+  "title:Chiwetel Ejiofor Was Afraid to Make ‘Backrooms’ Because of Director Kane Parsons’ Age: ‘He Was So Young!’"
 ]

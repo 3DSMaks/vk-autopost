@@ -1,12 +1,4 @@
 [
-  "skip:https://ria.ru/20261123/odessa-2133377227.html",
-  "skip:https://www.rbc.ru/rbcfreenews/6b0409a4f63874efbe72b721",
-  "skip:https://www.france24.com/en/video/20261123-odesa-pupils-switch-to-remote-learning-as-russia-pounds-ukraine-s-energy-grid",
-  "https://tass.ru/proisshestviya/28345739",
-  "title:В Одессе возникли проблемы со светом, теплом и водой на фоне повреждений энергосистемы",
-  "skip:https://ria.ru/20261123/pashinyan-2133394248.html",
-  "https://www.rbc.ru/rbcfreenews/6b040c7bc34eba40cdf2ce7e",
-  "title:Никол Пашинян пообещал уйти в отставку, если новая Конституция не будет принята",
   "skip:https://www.rbc.ru/rbcfreenews/6b041aba99955f58fe7a9b87",
   "skip:https://www.interfax.ru/russia/1130806",
   "skip:https://news.google.com/rss/articles/CBMixwFBVV95cUxPSFRzVmFLOEJvbjlNVzJnWWUyWFNaS1kzMHptZGptNFdQSGYxeVZDd1pHZ2JrNmZ1V0N0RkFvWEVnb3BFcjVLQ1FqSHBxY2NPQjVlZ2lRVUVNdDZwc1puemdGSDg2QmZyT1J6ZmY0cDZpRXNGYm9EcTJ6OUFEbEsyWllzWW4xaHhfeXIwVzM4a3ZZd1FldUxOQnpyYUhOZUR5LWh3VVoyNFh2WEM3bjlpSGlnMmtPUnBaMkVsZG8wcFZoQlFtYURj?oc=5",
@@ -998,5 +990,13 @@
   "skip:https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSEFLUWhpVjJtMnI0OFh1TEdVVHp5TkRIN1ZQeHUxRDQ3bTd3clhnR0JETXhSbHBhMGZNUThhdlFPY2FYZFVURmR5aHhqVWFQTkRHbV9hUng4M0Z2NGM4X1cwYXJZNzBmWTV3enE3S0N0TXZoaURvY2lkVVVRcE1aMWV2QjBuV0YydkFpVGNVMnI4WmUyYUJKcnBjN1ItUEpJM3JtWjE2OWZfdlR3ZnFiaE00c0ZvemdjcVhNLUhobTQtM3lKNER1ag?oc=5",
   "skip:https://www.interfax.ru/world/1131840",
   "https://tass.ru/mezhdunarodnaya-panorama/28362171",
-  "title:Дональд Трамп поддержал премьер-министра Ирака в борьбе с контрабандой нефти"
+  "title:Дональд Трамп поддержал премьер-министра Ирака в борьбе с контрабандой нефти",
+  "skip:https://www.kommersant.ru/doc/9144275",
+  "skip:https://tass.ru/sport/28362391",
+  "skip:https://ria.ru/20261127/malinin-2134375564.html",
+  "https://www.rbc.ru/sport/27/11/2026/6b0964fd38ef3b65fb2e4d2d",
+  "title:Фигурист Илья Малинин установил мировой рекорд в короткой программе на этапе Гран-при в Японии",
+  "skip:https://www.france24.com/en/video/20261127-kuwait-two-italians-killed-in-drone-attack",
+  "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss",
+  "title:Два итальянских специалиста погибли при атаке беспилотника в Кувейте"
 ]

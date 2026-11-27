@@ -1,11 +1,4 @@
 [
-  "title:Генсек НАТО Марк Рютте заявил об отказе альянса отступать к рубежам 1997 года",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28346391",
-  "https://www.interfax.ru/world/1130836",
-  "title:Верховный суд Испании амнистировал бывшего главу Каталонии Карлеса Пучдемона",
-  "skip:https://www.kommersant.ru/doc/9128180",
-  "skip:https://www.interfax.ru/russia/1130823",
-  "https://tass.ru/politika/28346387",
   "skip:https://tass.ru/ekonomika/28346647",
   "skip:https://ria.ru/20261123/nvidia-2133449767.html",
   "skip:https://www.kommersant.ru/doc/9128283",
@@ -998,5 +991,12 @@
   "title:Восьмикратный чемпион мира Марк Маркес объявил о завершении карьеры",
   "skip:https://www.interfax.ru/world/1131897",
   "https://tass.ru/proisshestviya/28363073",
-  "title:В Казахстане задержали бывших руководителей компании «КТЖ - Грузовые перевозки»"
+  "title:В Казахстане задержали бывших руководителей компании «КТЖ - Грузовые перевозки»",
+  "skip:https://ria.ru/20261127/novorossijsk-2134424148.html",
+  "skip:https://www.interfax.ru/russia/1131894",
+  "https://www.rbc.ru/rbcfreenews/6b098c86ae34646519426bf7",
+  "title:В Новороссийске десятки квартир повреждены в результате атаки беспилотников",
+  "skip:https://www.aljazeera.com/news/2026/11/27/famine-expect-to-rise-due-to-global-conflict-el-nino-warns-un?traffic_source=rss",
+  "https://www.kommersant.ru/doc/9144432",
+  "title:ООН предупредила об угрозе усиления голода в регионах мира из-за конфликтов"
 ]

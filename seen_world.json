@@ -1,11 +1,4 @@
 [
-  "skip:https://tass.ru/ekonomika/28349305",
-  "skip:https://ria.ru/20261124/gosduma--2133599896.html",
-  "https://www.rbc.ru/economics/24/11/2026/6b054643609a68053f9532fa",
-  "title:Госдума приняла федеральный бюджет на 2027–2029 годы в третьем чтении",
-  "skip:https://www.interfax.ru/russia/1131001",
-  "skip:https://ria.ru/20261124/raketa-2133598304.html",
-  "skip:https://tass.ru/kosmos/28349273",
   "https://tass.ru/kosmos/28349303",
   "title:Ракета-носитель «Союз-2.1б» с грузовым кораблем «Прогресс МС-36» стартовала с Байконура",
   "skip:https://www.interfax.ru/russia/1131023",
@@ -998,5 +991,12 @@
   "title:Агентство S&P понизило прогноз по кредитному рейтингу Франции до негативного из-за бюджетных проблем",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28363955",
   "https://www.rbc.ru/politics/28/11/2026/6b09f92c5509a3c1711f584b",
-  "title:В СМИ сообщили об отмене операций ВСУ из-за ограничений в системе Starshield"
+  "title:В СМИ сообщили об отмене операций ВСУ из-за ограничений в системе Starshield",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28364051",
+  "https://www.rbc.ru/politics/28/11/2026/6b0a0a7cc17330ad4b61497a",
+  "title:Суд в Хорватии отменил решение о выдаче Германии подозреваемого в подрыве «Северных потоков»",
+  "skip:https://www.kommersant.ru/doc/9144896",
+  "skip:https://ria.ru/20261128/proliv-2134554809.html",
+  "https://tass.ru/mezhdunarodnaya-panorama/28364085",
+  "title:В КСИР сообщили о подрыве двух нефтяных танкеров на минах в Ормузском проливе"
 ]

@@ -1,8 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1130708",
-  "skip:https://tass.ru/ekonomika/28344271",
-  "https://tass.ru/ekonomika/28344273",
-  "title:В аэропортах Бугульмы и Чебоксар введены временные ограничения на полеты",
   "skip:https://ria.ru/20261123/ssha-2133308119.html",
   "skip:https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUi1YSXI0MDNzWFFveF90TU5ObVc1eVBONWJnaGdLaGMyV0lrYjJwbkFUM0lUVXJkUGpPRXNkbEw3c29yTDdNaGJWeEV3ZUw0UzhKbjdzYXBkQ2ZwY3JaRkxjM1hIazJXdmlnN3dCNkNMOW5lcEVIcE1BN3NMSWNCem5JSHpRSzRkOUdKUzFjbnJWZUhnWG5CWkR6dDB1LWFsdFp0TS0xU2h0QWZZdVprUVRnVXk4MkpRY1lDX2U5S1g3OWIzd3dqa080eU5xOFk0ekE4UlBsakxQUQ?oc=5",
   "skip:https://tass.ru/obschestvo/28344211",
@@ -998,5 +994,9 @@
   "title:Силы ПВО перехватили десять беспилотников в небе над Ленинградской областью",
   "skip:https://www.rbc.ru/politics/27/11/2026/6b08d598564cdd8d098fedf4",
   "https://www.kommersant.ru/doc/9131847",
-  "title:Издание Politico сообщило об изменении Трампом совместного заявления с генсеком НАТО по Украине"
+  "title:Издание Politico сообщило об изменении Трампом совместного заявления с генсеком НАТО по Украине",
+  "skip:https://www.rbc.ru/rbcfreenews/6b08d82b4c62d0df59e7d8bd",
+  "skip:https://www.interfax.ru/russia/1131722",
+  "https://www.kommersant.ru/doc/9131845",
+  "title:Силы ПВО сбили четыре беспилотника над Тульской областью"
 ]

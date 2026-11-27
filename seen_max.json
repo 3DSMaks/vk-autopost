@@ -1,10 +1,4 @@
 [
-  "skip:https://www.film.ru/news/dzheyms-gann-ne-izmenit-cheloveka-zavtrashnego-dnya",
-  "skip:https://deadline.com/2026/11/chris-pratt-would-love-james-gunn-another-guardians-galaxy-1237224237/",
-  "https://deadline.com/2026/11/nickelodeon-kids-choice-awards-winners-1237223740/",
-  "title:Nickelodeon Kids’ Choice Awards: BTS, ‘Stranger Things’ & ‘KPop Demon Hunters’ Among Winners",
-  "skip:https://www.film.ru/news/novyy-otryvok-iz-garri-pottera",
-  "https://deadline.com/2026/11/hbo-surprise-harry-potter-clip-hogwarts-banquet-1237224436/",
   "title:HBO Releases Surprise ‘Harry Potter’ Clip Of Hogwarts Banquet",
   "skip:https://www.pcgamer.com/games/strategy/chronicles-medieval-developer-declared-bankruptcy-on-the-day-it-announced-it-was-in-trouble-but-development-will-continue-after-a-usd5-million-reprieve-from-coffee-stain/",
   "skip:https://www.igromania.ru/news/169952/serial-garri-potter-poluchil-rolik-s-pirom-v-hogvartse/",
@@ -998,5 +992,11 @@
   "https://www.film.ru/news/tizer-solnechnoy-doliny-ot-sozdateley-tmy",
   "title:Тизер Солнечной долины от создателей Тьмы",
   "https://www.igromania.ru/news/170266/igru-o-zheleznom-cheloveke-ea-mogut-pokazat-na-the-game-awards-studiya-razrabotchikov-obnovila-sajt/",
-  "title:Игру о Железном человеке EA могут показать на The Game Awards — студия разработчиков обновила сайт"
+  "title:Игру о Железном человеке EA могут показать на The Game Awards — студия разработчиков обновила сайт",
+  "skip:https://www.playground.ru/hark_the_ghoul/news/hark_the_ghoul_dungeon_crawler_pro_cheloveka_motylka_v_mrachnom_goticheskom_gorode_reliz_21_yanvarya_2027_goda-1894322#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/rockstar-north-boss-knew-some-gta-6-players-would-reject-new-systems-like-criminal-profiles-but-insists-you-can-still-do-whatever-you-wanted-to-do-before",
+  "skip:https://www.igromania.ru/news/170262/zloveschie-lesa-i-styopka-rastryopka-vyishel-pervyij-tizer-novogo-seriala-sonnental-sozdatelej-tmyi/",
+  "skip:https://stopgame.ru/newsdata/73651/danzhen_krouler_hark_the_ghoul_obrel_datu_reliza_v_svezhem_trailere",
+  "https://www.playground.ru/assassins_creed_4_black_flag/news/ubisoft_zapustila_ohotu_za_sokrovischami_po_motivam_assassins_creed_black_flag_resynced_priz_otsenivaetsya_v_500_tysyach-1894304#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Ubisoft запустила охоту за сокровищами по мотивам Assassin's Creed Black Flag Resynced - приз оценивается в $500 тысяч"
 ]

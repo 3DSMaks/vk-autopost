@@ -1,6 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/202148/the-game-awards-2026-nominees-to-be-revealed-on-17th-november",
-  "skip:https://www.ign.com/articles/gta-6-will-do-something-the-franchise-has-never-done-before-encourage-empathy",
   "https://www.igromania.ru/news/169953/v-indiana-jones-and-the-great-circle-mogli-dobavit-sistemu-zvyozd-iz-serii-gta/",
   "title:В Indiana Jones and the Great Circle могли добавить систему «звёзд» из серии GTA",
   "skip:https://www.film.ru/news/dzheyms-gann-ne-izmenit-cheloveka-zavtrashnego-dnya",
@@ -998,5 +996,7 @@
   "skip:https://www.playground.ru/warhammer_40000_dawn_of_war_4/news/dlya_warhammer_40_000_dawn_of_war_iv_vypustili_besplatnyj_redaktor_armij_svoi_raskraski_mozhno_perenesti_v_polnuyu_igru-1894306#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://stopgame.ru/newsdata/73652/warhammer_40_000_dawn_of_war_iv_poluchila_demo_s_pokraskoy_yunitov",
   "https://www.igromania.ru/news/170264/sozdateli-alien-isolation-2-pokazali-gejmplejnyie-kadryi-horrora-v-novom-intervyu/",
-  "title:Создатели Alien: Isolation 2 показали геймплейные кадры хоррора в новом интервью"
+  "title:Создатели Alien: Isolation 2 показали геймплейные кадры хоррора в новом интервью",
+  "https://www.film.ru/news/tizer-solnechnoy-doliny-ot-sozdateley-tmy",
+  "title:Тизер Солнечной долины от создателей Тьмы"
 ]

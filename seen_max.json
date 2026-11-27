@@ -1,11 +1,4 @@
 [
-  "skip:https://variety.com/2026/film/box-office/ebenezer-box-office-johnny-depp-opening-day-1236947684/",
-  "skip:https://deadline.com/2026/11/box-office-ebenezer-1237222749/",
-  "https://variety.com/2026/film/news/adam-driver-disney-hunt-for-ben-solo-criminal-1236947685/",
-  "title:Adam Driver Says Disney Killing ‘The Hunt for Ben Solo’ Felt ‘Criminal’: ‘Steven Soderbergh Wants to Make a “Star Wars” Movie. What Are We Debating?’",
-  "skip:https://www.playground.ru/gta_6/news/nichego_podobnogo_eschyo_ne_bylo_vyhod_gta_6_mozhet_paralizovat_igrovuyu_industriyu_i_zatmit_drugie_razvlecheniya-1890677#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169939/prohozhdenie-stranger-than-heaven-novoj-igryi-sozdatelej-like-a-dragon-zajmyot-50-100-chasov/",
-  "https://gamemag.ru/news/202144/tolko-v-gta-vi-rockstar-games-pokazala-tizer-multseriala-makka-i-druzya",
   "title:Только в GTA VI: Rockstar Games показала тизер мультсериала «Макка и друзья»",
   "skip:https://www.kinonews.ru/news_144159/",
   "skip:https://kg-portal.ru/comments/135790-skrudzh-s-dzhonni-deppom-legko-raspravilsja-s-konkurentami-ekshenom-prizrachnyj-soldat-i-kriminalnym-trillerom-kak-ograbit-bank/",
@@ -998,5 +991,12 @@
   "title:Создатель Devil May Cry и Bayonetta Хидэки Камия хотел бы создать новую Castlevania",
   "skip:https://www.ign.com/articles/rockstar-games-issues-statement-as-union-vote-fails",
   "https://www.playground.ru/witcher_3_wild_hunt/news/dlya_the_witcher_3_wild_hunt_anonsirovali_krossplatformennuyu_podderzhku_modov-1894140#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Для The Witcher 3: Wild Hunt анонсировали кроссплатформенную поддержку модов"
+  "title:Для The Witcher 3: Wild Hunt анонсировали кроссплатформенную поддержку модов",
+  "skip:https://stopgame.ru/newsdata/73654/saber_vypustila_poslednee_obnovlenie_kontenta_dlya_space_marine_ii_v_2026_godu",
+  "skip:https://stopgame.ru/newsdata/73653/v_dekabre_sostoitsya_reliz_polnogo_izdaniya_cronos_the_new_dawn",
+  "skip:https://www.pcgamer.com/games/the-witcher/witcher-3-remastered-patch-has-lighting-fixes-sign-nerfs-and-gets-rid-of-a-nasty-werewolf-bug/",
+  "skip:https://gamemag.ru/news/202325/anonsirovano-polnoe-izdanie-cronos-the-new-dawn",
+  "skip:https://stopgame.ru/newsdata/73650/v_hitman_navedalsya_bavma_iz_007_first_light",
+  "https://www.playground.ru/gta_6/news/fiziku_vozhdeniya_gta_6_pomogal_sozdavat_uchastnik_gran_turismo_world_series_on_rabotal_v_rockstar_tri_s_polovinoj_goda-1894244#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Физику вождения GTA 6 помогал создавать участник Gran Turismo World Series - он работал в Rockstar три с половиной года"
 ]

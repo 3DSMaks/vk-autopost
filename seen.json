@@ -1,8 +1,4 @@
 [
-  "skip:https://www.film.ru/news/prichiny-uvolneniya-dzheymsa-ganna-iz-dc",
-  "skip:https://www.film.ru/news/milli-bobbi-braun-v-novom-romkome",
-  "skip:https://www.kinonews.ru/news_144101/",
-  "skip:https://www.film.ru/news/remeyk-ulicy-vyazov-v-rabote",
   "https://kg-portal.ru/comments/135740-dlja-milli-bobbi-braun-netflix-nashel-scenarij-vydajuschejsja-romanticheskoj-komedii/",
   "title:Для Милли Бобби Браун Netflix нашёл сценарий выдающейся романтической комедии",
   "posted:2026-11-11T10:34:38+00:00",
@@ -998,5 +994,9 @@
   "posted:2026-11-27T02:01:36+00:00",
   "skip:https://variety.com/2026/film/news/gerald-r-molen-dead-schindlers-list-producer-1236959200/",
   "https://deadline.com/2026/11/hunger-games-producer-regrets-splitting-mockingjay-1237233567/",
-  "title:‘Hunger Games’ Producer Regrets Splitting ‘Mockingjay’ As Fans Felt It Was A “Play To Make Them See Two Films Instead Of One”"
+  "title:‘Hunger Games’ Producer Regrets Splitting ‘Mockingjay’ As Fans Felt It Was A “Play To Make Them See Two Films Instead Of One”",
+  "posted:2026-11-27T04:02:18+00:00",
+  "skip:https://www.kinonews.ru/news_144346/",
+  "https://www.film.ru/news/tizer-solnechnoy-doliny-ot-sozdateley-tmy",
+  "title:Тизер Солнечной долины от создателей Тьмы"
 ]

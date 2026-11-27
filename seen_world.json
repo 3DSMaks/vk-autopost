@@ -1,10 +1,4 @@
 [
-  "title:США и Армения объявили о запуске проекта TRIPP",
-  "skip:https://ria.ru/20261123/germanija-2133399481.html",
-  "skip:https://tass.ru/proisshestviya/28345865",
-  "https://tass.ru/proisshestviya/28345979",
-  "title:Школы по всей Германии получили сообщения о минировании",
-  "skip:https://www.rbc.ru/politics/23/11/2026/6b042da8c5e2ec3bc2eba266",
   "skip:https://tass.ru/politika/28346189",
   "skip:https://ria.ru/20261123/mid--2133416455.html",
   "https://ria.ru/20261123/estoniya-2133424628.html",
@@ -998,5 +992,11 @@
   "skip:https://www.rbc.ru/politics/27/11/2026/6b096bd5d08ea766c332d021",
   "skip:https://www.interfax.ru/russia/1131861",
   "https://www.kommersant.ru/doc/9144279",
-  "title:В Кремле прокомментировали инициативу о введении уголовной ответственности за публикацию последствий атак беспилотников"
+  "title:В Кремле прокомментировали инициативу о введении уголовной ответственности за публикацию последствий атак беспилотников",
+  "skip:https://ria.ru/20261127/hakery-2134396329.html",
+  "https://www.kommersant.ru/doc/9144309",
+  "title:Хакеры взломали облачную платформу ВВС США",
+  "skip:https://www.interfax.ru/russia/1131860",
+  "https://www.kommersant.ru/doc/9144274",
+  "title:На прямую линию с президентом РФ Владимиром Путиным поступило около 100 тысяч вопросов"
 ]

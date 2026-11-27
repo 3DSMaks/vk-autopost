@@ -1,8 +1,4 @@
 [
-  "skip:https://ria.ru/20261123/aeroport-2133311837.html",
-  "skip:https://www.interfax.ru/russia/1130714",
-  "skip:https://tass.ru/ekonomika/28344305",
-  "skip:https://tass.ru/ekonomika/28344303",
   "skip:https://ria.ru/20261123/aeroport-2133310940.html",
   "skip:https://ria.ru/20261123/aeroport-2133310783.html",
   "skip:https://www.interfax.ru/russia/1130711",
@@ -998,5 +994,9 @@
   "skip:https://tass.ru/proisshestviya/28360417",
   "skip:https://ria.ru/20261127/ogranicheniya-2134269274.html",
   "https://www.rbc.ru/rbcfreenews/6b08f5cdc16d3d3e9e9bfe22",
-  "title:Силы ПВО сбили десятки беспилотников над Ленинградской областью, в Пулково введены ограничения на полеты"
+  "title:Силы ПВО сбили десятки беспилотников над Ленинградской областью, в Пулково введены ограничения на полеты",
+  "skip:https://ria.ru/20261127/bpla-2134276840.html",
+  "skip:https://www.interfax.ru/russia/1131728",
+  "https://www.rbc.ru/rbcfreenews/6b090459cacc272b11dd9cef",
+  "title:Силы ПВО сбили десятки беспилотников над Ленинградской областью"
 ]

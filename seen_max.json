@@ -1,7 +1,4 @@
 [
-  "https://kg-portal.ru/comments/135792-provalivshijsja-v-prokate-strit-fajter-vyjdet-na-cifrovyh-ploschadkah-v-pervyh-chislah-dekabrja/",
-  "title:Провалившийся в прокате \"Стрит Файтер\" выйдет на цифровых площадках в первых числах декабря",
-  "https://deadline.com/2026/11/danny-boyle-interview-ink-more-28-years-later-1237224197/",
   "title:Danny Boyle Talks ‘Ink’, The Common Architecture Of His Movies And More ‘28 Years Later’ As He Receives The Deadline Legend Award",
   "https://www.film.ru/news/svetovoy-mech-darta-veydera-prodali",
   "title:Световой меч Дарта Вейдера продали",
@@ -998,5 +995,8 @@
   "skip:https://stopgame.ru/newsdata/73656/sistemnye_trebovaniya_exodus",
   "skip:https://www.igromania.ru/news/170270/dlya-exodus-duhovnogo-naslednika-mass-effect-ukazali-minimalnyie-i-drugie-sistemnyie-trebovaniya/",
   "https://www.playground.ru/gta_6/news/gta_6_razryazhaet_gejmpad_dualsense_vdvoe_bystree_obychnyh_igr_testy_pokazali_menshe_4_chasov_raboty_na_versii_edge-1894329#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:GTA 6 разряжает геймпад DualSense вдвое быстрее обычных игр - тесты показали меньше 4 часов работы на версии Edge"
+  "title:GTA 6 разряжает геймпад DualSense вдвое быстрее обычных игр - тесты показали меньше 4 часов работы на версии Edge",
+  "skip:https://gamemag.ru/news/202330/call-of-duty-stala-glavnoy-jertvoy-reliza-gta-vi",
+  "https://www.playground.ru/fable_2026/news/razrabotchiki_fable_4_prodemonstrirovali_sistemu_nedvizhimosti_na_primere_osobnyaka_dlya_bogachej-1894349#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Разработчики Fable 4 продемонстрировали систему недвижимости на примере особняка для богачей"
 ]

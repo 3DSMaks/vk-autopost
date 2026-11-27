@@ -1,9 +1,4 @@
 [
-  "skip:https://www.playground.ru/dark_souls/news/originalnaya_dark_souls_poluchila_rtx_remix_s_trassirovkoj_putej_uluchshennymi_teksturami_effektami_i_podderzhkoj_dlss_5-1891127#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "https://www.ign.com/articles/marvels-wolverine-ps5-black-friday-deal",
-  "title:Marvel’s Wolverine Drops to $50 on PS5 for Black Friday in First Sale Since Launch",
-  "skip:https://gamemag.ru/news/202172/ft-djensen-huang-mojet-vernutsya-na-post-glavy-nvidia",
-  "https://www.playground.ru/gta_6/news/po_otsenkam_analitikov_predzakazy_gta_6_dostigli_15_millionov_kopij-1891138#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:По оценкам аналитиков, предзаказы GTA 6 достигли 15 миллионов копий",
   "skip:https://www.igromania.ru/news/169972/prodazhi-gta-6-po-predzakazam-priblizilis-k-15-millionam-kopij-analitiki/",
   "skip:https://www.pcgamer.com/games/fps/game-dev-isnt-always-straightforward-overwatchs-director-responds-to-players-upset-about-season-6s-hero-being-a-dps/",
@@ -998,5 +993,10 @@
   "skip:https://www.playground.ru/gta_6/news/po_dannym_analitikov_gta_6_razoshlas_tirazhom_v_53_mln_kopij_za_pervuyu_nedelyu_igra_zarabotala_4_7_mlrd_dollarov-1894379#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.ign.com/articles/excitement-builds-for-hollow-knight-silksong-news-ahead-of-cherry-time-special-presentation",
   "https://www.igromania.ru/news/170268/dvuhchasovoe-demo-star-wars-galactic-racer-po-zvyozdnyim-vojnam-uzhe-dostupno-na-ps5-i-xbox-series/",
-  "title:Двухчасовое демо Star Wars: Galactic Racer по «Звёздным войнам» уже доступно на PS5 и Xbox Series"
+  "title:Двухчасовое демо Star Wars: Galactic Racer по «Звёздным войнам» уже доступно на PS5 и Xbox Series",
+  "skip:https://www.pcgamer.com/games/action/silksong-is-getting-a-free-expansion-its-first-content-update-since-launch-in-2-weeks/",
+  "skip:https://stopgame.ru/newsdata/73661/rasshirenie_sea_of_sorrow_dlya_silksong_pribudet_11_dekabrya_i_drugie_anonsy_ot_team_cherry",
+  "skip:https://www.ign.com/articles/hollow-knight-silksong-dlc-sea-of-sorrow-release-date",
+  "https://stopgame.ru/newsdata/73654/saber_vypustila_poslednee_obnovlenie_kontenta_dlya_space_marine_ii_v_2026_godu",
+  "title:Saber выпустила последнее обновление контента для Space Marine II в 2026 году"
 ]

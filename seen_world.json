@@ -1,12 +1,4 @@
 [
-  "https://www.rbc.ru/rbcfreenews/6b03b3aee1eac0b2c97c47a0",
-  "title:Средства ПВО за ночь уничтожили 13 украинских беспилотников над Воронежской областью",
-  "skip:https://www.kommersant.ru/doc/9127676",
-  "skip:https://www.interfax.ru/russia/1130733",
-  "https://ria.ru/20261123/pvo-2133324073.html",
-  "title:Массированная атака беспилотников отражена в Ростовской области",
-  "skip:https://tass.ru/sport/28344563",
-  "skip:https://news.google.com/rss/articles/CBMijAFBVV95cUxOVmg2amFPTmExM1FuMFNMY0hZTFNmWmNxNU0zQ1c5TU1od3hnNnFURkd6ZHVnc0hOOGRMb0ZvaHFTb2Vma2htT1B6OXZSRDlhX2VlNXBfY05uSVVCdE5BUTlVUVhuVmsxZ3U4VllBb19CWVpjU3pZc0s1QXBzZ19lUEdHOXVaTXA4Mnk4Ug?oc=5",
   "skip:https://tass.ru/sport/28344487",
   "https://ria.ru/20261123/basketbol-2133324501.html",
   "title:Российский нападающий Роман Канцеров оформил первый хет-трик в НХЛ",
@@ -998,5 +990,13 @@
   "skip:https://www.rbc.ru/politics/27/11/2026/6b0921db6b4725d246fdc75c",
   "skip:https://www.kommersant.ru/doc/9131969",
   "https://www.interfax.ru/russia/1131793",
-  "title:Бывший главред «Коммерсанта» Владимир Желонкин назначен замминистра культуры"
+  "title:Бывший главред «Коммерсанта» Владимир Желонкин назначен замминистра культуры",
+  "skip:https://www.rbc.ru/economics/27/11/2026/6b0947899182460b44027254",
+  "skip:https://ria.ru/20261127/pravitelstvo-2134329420.html",
+  "skip:https://www.interfax.ru/russia/1131801",
+  "https://www.kommersant.ru/doc/9134664",
+  "title:Правительство России ввело временный запрет на экспорт гречихи",
+  "skip:https://tass.ru/obschestvo/28361615",
+  "https://www.kommersant.ru/doc/9136346",
+  "title:Самолет из Стамбула в Петербург совершил посадку в Хельсинки из-за ограничений"
 ]

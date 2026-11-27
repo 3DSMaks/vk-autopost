@@ -1,8 +1,4 @@
 [
-  "https://www.playground.ru/gta_6/news/soglasno_insajderu_tomu_hendersonu_poluchenie_platiny_v_gta_6_zajmet_v_srednem_bolee_200_chasov-1890868#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Согласно инсайдеру Тому Хендерсону, получение платины в GTA 6 займет в среднем более 200 часов",
-  "https://www.film.ru/news/dzhon-hemm-sygraet-u-takasi-miike",
-  "title:Джон Хэмм сыграет у Такаси Миике",
   "skip:https://gamemag.ru/news/202165/motyga-sudby-netflix-pokazal-tizer-multseriala-mirohodec",
   "skip:https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/",
   "https://www.playground.ru/minecraft/news/minecraft_poluchit_metatelnyj_disk_i_vtoruyu_ruku_v_bedrock_v_pervom_obnovlenii_2027_goda-1890882#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +994,9 @@
   "skip:https://gamemag.ru/news/202320/disney-podtverdila-vyhod-filma-avatar-4",
   "skip:https://stopgame.ru/newsdata/73650/v_hitman_navedalsya_bavma_iz_007_first_light",
   "https://www.igromania.ru/news/170266/igru-o-zheleznom-cheloveke-ea-mogut-pokazat-na-the-game-awards-studiya-razrabotchikov-obnovila-sajt/",
-  "title:Игру о Железном человеке EA могут показать на The Game Awards — студия разработчиков обновила сайт"
+  "title:Игру о Железном человеке EA могут показать на The Game Awards — студия разработчиков обновила сайт",
+  "skip:https://www.kinonews.ru/news_144341/",
+  "skip:https://www.film.ru/news/fincher-ispolzoval-iskusstvennyy-intellekt-v-kliffe-bute",
+  "https://variety.com/2026/film/features/hunger-games-jesse-plemons-philip-seymour-hoffman-plutarch-1236957335/",
+  "title:Jesse Plemons on the ‘Honor’ of Playing Plutarch in ‘The Hunger Games’ After Philip Seymour Hoffman and Debating Director Francis Lawrence Over the Ch"
 ]

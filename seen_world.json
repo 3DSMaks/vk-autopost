@@ -1,12 +1,4 @@
 [
-  "https://tass.ru/kosmos/28349303",
-  "title:Ракета-носитель «Союз-2.1б» с грузовым кораблем «Прогресс МС-36» стартовала с Байконура",
-  "skip:https://www.interfax.ru/russia/1131023",
-  "skip:https://www.rbc.ru/politics/24/11/2026/6b05758dc90da4aca1668c0e",
-  "https://www.kommersant.ru/doc/9129324",
-  "title:Владимир Путин назначил экс-президента Южной Осетии Алана Гаглоева своим спецпредставителем",
-  "skip:https://tass.ru/obschestvo/28349777",
-  "skip:https://tass.ru/politika/28349775",
   "https://www.rbc.ru/politics/24/11/2026/6b057c872ac3358e9a2216db",
   "title:Владимир Путин исключил режиссера Александра Сокурова из состава Совета по правам человека",
   "skip:https://www.interfax.ru/russia/1131043",
@@ -998,5 +990,13 @@
   "skip:https://www.kommersant.ru/doc/9144896",
   "skip:https://ria.ru/20261128/proliv-2134554809.html",
   "https://tass.ru/mezhdunarodnaya-panorama/28364085",
-  "title:В КСИР сообщили о подрыве двух нефтяных танкеров на минах в Ормузском проливе"
+  "title:В КСИР сообщили о подрыве двух нефтяных танкеров на минах в Ормузском проливе",
+  "skip:https://www.interfax.ru/russia/1131967",
+  "skip:https://www.kommersant.ru/doc/9144901",
+  "skip:https://ria.ru/20261128/bpla-2134556511.html",
+  "skip:https://tass.ru/proisshestviya/28364073",
+  "https://ria.ru/20261128/bpla-2134557814.html",
+  "skip:https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
+  "https://www.kommersant.ru/doc/9144903",
+  "title:Высший уголовный суд Хорватии отменил решение о выдаче Германии подозреваемого в подрыве «Северных потоков»"
 ]

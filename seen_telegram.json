@@ -1,11 +1,4 @@
 [
-  "https://www.film.ru/news/dzheyms-gann-ne-izmenit-cheloveka-zavtrashnego-dnya",
-  "title:Джеймс Ганн не изменит «Человека завтрашнего дня»",
-  "skip:https://www.playground.ru/misc/news/dzhejms_gann_oproverg_sluhi_o_vmeshatelstve_skydance_v_rabotu_nad_filmom_chelovek_zavtrashnego_dnya-1890802#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169945/predzakazyi-gta-6-perevalili-za-otmetku-v-12-mln-kopij/",
-  "https://www.igromania.ru/news/169949/rainbow-six-siege-poluchila-trejleryi-sezona-operation-vital-signal-i-kollaboratsii-s-doom/",
-  "title:Rainbow Six Siege получила трейлеры сезона Operation Vital Signal и коллаборации с DOOM",
-  "https://www.igromania.ru/news/169953/v-indiana-jones-and-the-great-circle-mogli-dobavit-sistemu-zvyozd-iz-serii-gta/",
   "title:В Indiana Jones and the Great Circle могли добавить систему «звёзд» из серии GTA",
   "skip:https://www.pcgamer.com/games/strategy/chronicles-medieval-developer-declared-bankruptcy-on-the-day-it-announced-it-was-in-trouble-but-development-will-continue-after-a-usd5-million-reprieve-from-coffee-stain/",
   "https://www.playground.ru/call_of_duty_4_modern_warfare/news/zabytaya_vojna_mezhdu_cod_4_i_mw3_raskryty_detali_masshtabnogo_moda_call_of_duty_echoes-1890850#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +991,12 @@
   "title:150 тысяч озвученных реплик и «Ведьмак 3» как ориентир — подробности о Fable",
   "skip:https://www.film.ru/news/vyshel-bolshoy-treyler-cheburashki-3",
   "https://variety.com/2026/film/global/danny-boyle-backs-jack-oconnell-as-bond-villain-1236958935/",
-  "title:Danny Boyle Backs Jack O’Connell as a Bond Villain, but Says He ‘Would Have Been Great’ as 007"
+  "title:Danny Boyle Backs Jack O’Connell as a Bond Villain, but Says He ‘Would Have Been Great’ as 007",
+  "skip:https://www.film.ru/news/avatar-4-ostaetsya-v-rabote",
+  "skip:https://deadline.com/2026/11/gerald-r-molen-dies-schindlers-list-producer-1237234182/",
+  "skip:https://variety.com/2026/film/news/gerald-r-molen-dead-schindlers-list-producer-1236959200/",
+  "skip:https://kg-portal.ru/comments/135996-zvezda-skalolaz-2-budet-rassledovat-ubijstvo-v-zasnezhennoj-glushi/",
+  "https://kg-portal.ru/comments/135997-mstiteli-doktor-dum-tizer-trejlera/",
+  "video:2026-11-27:https://kg-portal.ru/comments/135997-mstiteli-doktor-dum-tizer-trejlera/",
+  "title:Магнето пытается сорвать маску с главного злодея в тизере \"Мстителей: Доктор Дум\""
 ]

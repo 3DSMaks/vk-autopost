@@ -1,10 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28344099",
-  "skip:https://ria.ru/20261122/peregovory-2133297827.html",
-  "skip:https://www.interfax.ru/world/1130695",
-  "skip:https://www.kommersant.ru/doc/9127551",
-  "skip:https://www.rbc.ru/politics/22/11/2026/6b033ea851398ff5591e5d3d",
-  "skip:https://www.interfax.ru/world/1130691",
   "skip:https://www.rbc.ru/politics/22/11/2026/6b033bb251398ff5591e5d25",
   "skip:https://www.interfax.ru/world/1130690",
   "https://ria.ru/20261123/tramp-2133302865.html",
@@ -998,5 +992,11 @@
   "title:Дональд Трамп заявил, что США предоставляют Ирану возможности для сделки",
   "skip:https://news.google.com/rss/articles/CBMiwwFBVV95cUxOME12Z2hWeXJDdjhYQll0TW9vYWFaMzgwdWdBQ05BR3k4ckdrdFo3SkdfOXZrOGVXU1VUOTNtYXRXWEJBYlExUllERjdYRGxqR3lCelZyQTJxd0o2Q1VacWw0Sk5QajJWbGlDaDV1Y2hjWDE4dEVjNFpSQXdhQWg4MmFydGdDMEhmQjI2TjNiMUliZ1hBX1lXaDBoRlN0RHoxeUpxV3JuMkU2TmFncHhfWXdyOFNaUlVrUC1NZnlSS0NoRFE?oc=5",
   "https://tass.ru/mezhdunarodnaya-panorama/28360115",
-  "title:Сенат Аргентины одобрил отмену праймериз перед президентскими выборами"
+  "title:Сенат Аргентины одобрил отмену праймериз перед президентскими выборами",
+  "skip:https://www.interfax.ru/world/1131715",
+  "https://tass.ru/ekonomika/28360233",
+  "title:Лидеры ЕС на саммите в Брюсселе не смогли согласовать долгосрочный бюджет",
+  "skip:https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkxMTUs5ZzFmZFBCR2pBVGg1TEYwSGlKdVI2LWhaYk4zSno0MTJud0xrNHpralVPQWFmdXhaM3dmUmJNNGRFQk9XSGdRSUpCdmx6ZXUtY2V0SWFxdHplbmh2NHlHVUpsUVlnXzRISDhVd203ZmpLb2F6bzdkQU11bm5jQklqb3FZRi1KeDZGWmxDWDhkYXI5VG9WMjFpWkxULUQ3S0dR?oc=5",
+  "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+  "title:Мощный шторм обрушился на побережья США в день Благодарения"
 ]

@@ -1,10 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1130931",
-  "skip:https://www.rbc.ru/rbcfreenews/6b0522002211ca8751177847",
-  "skip:https://ria.ru/20261124/pvo-2133541061.html",
-  "skip:https://tass.ru/armiya-i-opk/28348161",
-  "https://www.kommersant.ru/doc/9128669",
-  "title:Минобороны РФ сообщило о сотенных сбитых беспилотниках за ночь",
   "skip:https://tass.ru/proisshestviya/28348569",
   "skip:https://tass.ru/proisshestviya/28348553",
   "skip:https://www.kommersant.ru/doc/9128740",
@@ -998,5 +992,11 @@
   "title:Вооруженные силы США перехватили и вывели из строя сухогруз в Оманском заливе",
   "skip:https://www.kommersant.ru/doc/9144576",
   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdkZFOHg2WXM2VFZoS05sOG5hUmttZWJ2UnFIM2dZQW5DRkJWTGQybm9iV3BjSXhhd01PSjd1bERXUlJKNjdjWFlTTG8xY3c0cU1KZjY5anY5bk44ekdMeHpvMjFxWFdwdXZIQ25ZLWVodGoyeWx3TGtnbDJQR1dVSE81Tmk0Qm0ySUxsUVpfbW0xd1hwMmowRHFrTFJpNm5QVlZOWlpkMG5FRWZDYjJMaVl0dE1fU1dNUmVSWEpVNlZDY1k?oc=5",
-  "title:Апелляционный суд в Австрии ужесточил приговор основателю холдинга Signa Рене Бенко"
+  "title:Апелляционный суд в Австрии ужесточил приговор основателю холдинга Signa Рене Бенко",
+  "skip:https://www.kommersant.ru/doc/9144580",
+  "https://ria.ru/20261127/bryun-2134484516.html",
+  "title:Умер бывший главный внештатный нарколог Минздрава России Евгений Брюн",
+  "skip:https://www.kommersant.ru/doc/9144587",
+  "https://www.rbc.ru/rbcfreenews/6b09c4cbf4d5345623db4fc1",
+  "title:В Белоруссии ограничат доступ к сервису Spotify с 1 декабря"
 ]

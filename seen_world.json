@@ -1,10 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9128158",
-  "https://www.rbc.ru/society/23/11/2026/6b042c91e6e7ab4b28d2c893",
-  "title:В Германии сотни школ получили сообщения с угрозами взрывов",
-  "skip:https://ria.ru/20261123/ryutte--2133430312.html",
-  "skip:https://www.interfax.ru/world/1130821",
-  "https://tass.ru/mezhdunarodnaya-panorama/28346367",
   "title:Генсек НАТО Марк Рютте заявил об отказе альянса отступать к рубежам 1997 года",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28346391",
   "https://www.interfax.ru/world/1130836",
@@ -998,5 +992,11 @@
   "title:Совфед одобрил закон о раскрытии состава вейпов и табачной продукции с 2027 года",
   "skip:https://www.interfax.ru/russia/1131887",
   "https://www.kommersant.ru/doc/9144398",
-  "title:Совет Федерации одобрил ограничение доступа к книгам иноагентов в библиотеках"
+  "title:Совет Федерации одобрил ограничение доступа к книгам иноагентов в библиотеках",
+  "skip:https://news.google.com/rss/articles/CBMilgFBVV95cUxPQi1LclRONjUyZXFIckxacGFscWNHTng2ZmUtTjM3eE1OV1V6anlZWDU4M3lJMHJGUlZlbkFuRmxNRWNMVTdsTjJ2RDNmYTJ6ZWlidThLYjdkUUFWMUpHMUdCTXBaaV9qMjgtVDFIOWtobUd3UHZJSlBqTVBJS1B6bzlqenB6SzBMWVVnZVY5LTl0TnAxSWc?oc=5",
+  "https://www.kommersant.ru/doc/9144430",
+  "title:Восьмикратный чемпион мира Марк Маркес объявил о завершении карьеры",
+  "skip:https://www.interfax.ru/world/1131897",
+  "https://tass.ru/proisshestviya/28363073",
+  "title:В Казахстане задержали бывших руководителей компании «КТЖ - Грузовые перевозки»"
 ]

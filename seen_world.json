@@ -1,12 +1,4 @@
 [
-  "skip:https://tass.ru/sport/28344487",
-  "https://ria.ru/20261123/basketbol-2133324501.html",
-  "title:Российский нападающий Роман Канцеров оформил первый хет-трик в НХЛ",
-  "skip:https://www.rbc.ru/economics/23/11/2026/6b03ee9dc8c8af3077b9e757",
-  "https://www.kommersant.ru/doc/9127833",
-  "title:Правительство России направит около 50 млрд рублей на строительство паромов для Калининграда",
-  "skip:https://tass.ru/ekonomika/28345117",
-  "https://www.interfax.ru/business/1130768",
   "title:ФАС продлила заморозку предельных цен на удобрения для внутреннего рынка РФ до июня 2027 года",
   "skip:https://tass.ru/proisshestviya/28345313",
   "skip:https://www.rbc.ru/rbcfreenews/6b03f933832ad44b3a0b18f1",
@@ -998,5 +990,13 @@
   "title:Правительство России ввело временный запрет на экспорт гречихи",
   "skip:https://tass.ru/obschestvo/28361615",
   "https://www.kommersant.ru/doc/9136346",
-  "title:Самолет из Стамбула в Петербург совершил посадку в Хельсинки из-за ограничений"
+  "title:Самолет из Стамбула в Петербург совершил посадку в Хельсинки из-за ограничений",
+  "skip:https://www.kommersant.ru/doc/9144122",
+  "skip:https://ria.ru/20261127/poshliny-2134338992.html",
+  "skip:https://tass.ru/ekonomika/28361851",
+  "https://www.interfax.ru/business/1131825",
+  "title:Минфин РФ предложил ввести импортные пошлины на морепродукты из недружественных стран в размере до 35%",
+  "skip:https://tass.ru/armiya-i-opk/28361819",
+  "https://www.interfax.ru/russia/1131822",
+  "title:Минобороны РФ сообщило о взятии под контроль двух населенных пунктов в Харьковской и Запорожской областях"
 ]

@@ -1,11 +1,4 @@
 [
-  "https://www.france24.com/en/video/20261122-russian-ship-attacked-near-benghazi-in-suspected-drone-attack-ukraine",
-  "title:В Ливии сообщили об атаке беспилотника на российское судно в порту Бенгази",
-  "skip:https://ria.ru/20261123/aeroport-2133306351.html",
-  "skip:https://tass.ru/ekonomika/28344215",
-  "skip:https://ria.ru/20261123/aeroport-2133305697.html",
-  "skip:https://tass.ru/ekonomika/28344197",
-  "https://ria.ru/20261123/aeroporty-2133306809.html",
   "title:В ряде российских аэропортов введены временные ограничения",
   "skip:https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss",
   "https://www.rbc.ru/rbcfreenews/6b036eb0b0b4c16694856cb8",
@@ -998,5 +991,12 @@
   "skip:https://ria.ru/20261127/tramp-2134264895.html",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28360177",
   "https://tass.ru/mezhdunarodnaya-panorama/28360263",
-  "title:Дональд Трамп заявил, что формат G8 был эффективнее G7, а также высказался об урегулировании конфликта на Украине"
+  "title:Дональд Трамп заявил, что формат G8 был эффективнее G7, а также высказался об урегулировании конфликта на Украине",
+  "skip:https://www.rbc.ru/politics/27/11/2026/6b08dd3b9d5a93ebcca8ba42",
+  "skip:https://www.interfax.ru/russia/1131725",
+  "skip:https://ria.ru/20261127/bpla-2134269161.html",
+  "skip:https://www.rbc.ru/rbcfreenews/6b08ce3508921b8b778029ac",
+  "skip:https://ria.ru/20261127/opasnost-2134266495.html",
+  "https://www.kommersant.ru/doc/9131844",
+  "title:Над Ленинградской областью силы ПВО сбили четыре беспилотника"
 ]

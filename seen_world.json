@@ -1,12 +1,4 @@
 [
-  "skip:https://www.rbc.ru/rbcfreenews/6b041aba99955f58fe7a9b87",
-  "skip:https://www.interfax.ru/russia/1130806",
-  "skip:https://news.google.com/rss/articles/CBMixwFBVV95cUxPSFRzVmFLOEJvbjlNVzJnWWUyWFNaS1kzMHptZGptNFdQSGYxeVZDd1pHZ2JrNmZ1V0N0RkFvWEVnb3BFcjVLQ1FqSHBxY2NPQjVlZ2lRVUVNdDZwc1puemdGSDg2QmZyT1J6ZmY0cDZpRXNGYm9EcTJ6OUFEbEsyWllzWW4xaHhfeXIwVzM4a3ZZd1FldUxOQnpyYUhOZUR5LWh3VVoyNFh2WEM3bjlpSGlnMmtPUnBaMkVsZG8wcFZoQlFtYURj?oc=5",
-  "skip:https://ria.ru/20261123/peskov-2133383872.html",
-  "https://www.kommersant.ru/doc/9128067",
-  "title:В Кремле назвали атаку на сухогруз проявлением террористической активности на Балтике",
-  "skip:https://www.rbc.ru/politics/23/11/2026/6b0415f999955f58fe7a9b6e",
-  "https://ria.ru/20261123/armenija-2133405988.html",
   "title:США и Армения объявили о запуске проекта TRIPP",
   "skip:https://ria.ru/20261123/germanija-2133399481.html",
   "skip:https://tass.ru/proisshestviya/28345865",
@@ -998,5 +990,13 @@
   "title:Фигурист Илья Малинин установил мировой рекорд в короткой программе на этапе Гран-при в Японии",
   "skip:https://www.france24.com/en/video/20261127-kuwait-two-italians-killed-in-drone-attack",
   "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss",
-  "title:Два итальянских специалиста погибли при атаке беспилотника в Кувейте"
+  "title:Два итальянских специалиста погибли при атаке беспилотника в Кувейте",
+  "skip:https://www.interfax.ru/russia/1131865",
+  "skip:https://www.kommersant.ru/doc/9144288",
+  "https://www.interfax.ru/russia/1131872",
+  "title:Работник коммунального предприятия погиб при ударе ВСУ по Луганской Народной Республике",
+  "skip:https://www.rbc.ru/politics/27/11/2026/6b096bd5d08ea766c332d021",
+  "skip:https://www.interfax.ru/russia/1131861",
+  "https://www.kommersant.ru/doc/9144279",
+  "title:В Кремле прокомментировали инициативу о введении уголовной ответственности за публикацию последствий атак беспилотников"
 ]

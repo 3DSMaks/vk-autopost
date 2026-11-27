@@ -1,12 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9128622",
-  "skip:https://www.rbc.ru/rbcfreenews/6b050bc2e69bd4ce11c0ad0a",
-  "skip:https://www.interfax.ru/russia/1130921",
-  "skip:https://ria.ru/20261124/vzryv-2133531673.html",
-  "skip:https://www.interfax.ru/russia/1130920",
-  "skip:https://www.rbc.ru/society/24/11/2026/6b0506fec13372d58a8775ca",
-  "https://ria.ru/20261124/vzryv-2133534344.html",
-  "title:На Алтае произошел взрыв бытового газа в пятиэтажном жилом доме",
   "skip:https://www.interfax.ru/russia/1130931",
   "skip:https://www.rbc.ru/rbcfreenews/6b0522002211ca8751177847",
   "skip:https://ria.ru/20261124/pvo-2133541061.html",
@@ -998,5 +990,13 @@
   "skip:https://www.interfax.ru/business/1131941",
   "skip:https://ria.ru/20261127/sbor-2134464389.html",
   "https://www.kommersant.ru/doc/9144583",
-  "title:В России утвердили правила исчисления технологического сбора на электронику"
+  "title:В России утвердили правила исчисления технологического сбора на электронику",
+  "skip:https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVTZNR0tfZHB4Qm11eFRLSFJNQjZNejlab0p2TVUzdjBwR1Bsby0xbkZXNVdGbGlBSmJVWGRrVFRhaDVmcW9OTllRcHdYa2VOUjczdkdlQmFGZFZsMm9iUlVKcDZsZkZUYVVFLWFucUlzTnhPYUFpNXlESWd0cDJHbjlMVjlpdVhEX21fSGZLZzlmYks4a21YRUpJSnhDYVFNNlR1MVVld3o?oc=5",
+  "skip:https://ria.ru/20261127/ssha-2134475599.html",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28363703",
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzhtZElCdnJJN0hCYkdsQ1lTWHc5UDRtNGE4cF9sWE14dlpacmk2blU5cXJMTHp0MGNaMElaQzdSem91dXNpNVRtd1k4ekZza09jVEpubTh3cjlpbE9CNWdMSU1seV9vNDFEeGQ1aDZBY1J1R0JoNVdlcjJaQnlWcU5Ib3ZISHVmNHA4eklQclI2WDIzR0VtNVp0NEJjaDZfcTlKNHRNbW54bGF2TExrR1NaSFJvLUxRcnc?oc=5",
+  "title:Вооруженные силы США перехватили и вывели из строя сухогруз в Оманском заливе",
+  "skip:https://www.kommersant.ru/doc/9144576",
+  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdkZFOHg2WXM2VFZoS05sOG5hUmttZWJ2UnFIM2dZQW5DRkJWTGQybm9iV3BjSXhhd01PSjd1bERXUlJKNjdjWFlTTG8xY3c0cU1KZjY5anY5bk44ekdMeHpvMjFxWFdwdXZIQ25ZLWVodGoyeWx3TGtnbDJQR1dVSE81Tmk0Qm0ySUxsUVpfbW0xd1hwMmowRHFrTFJpNm5QVlZOWlpkMG5FRWZDYjJMaVl0dE1fU1dNUmVSWEpVNlZDY1k?oc=5",
+  "title:Апелляционный суд в Австрии ужесточил приговор основателю холдинга Signa Рене Бенко"
 ]

@@ -1,12 +1,4 @@
 [
-  "https://www.interfax.ru/world/1130718",
-  "title:Дональд Трамп заявил об усилении ракетных атак со стороны Ирана после победы демократов на выборах в США",
-  "skip:https://news.google.com/rss/articles/CBMixgFBVV95cUxPS1pvWmhMSm1MRktDOXJhZWNCdTJIZ25WejNRVExzUHhPeGhEeklEZW54T3NVZTJYbjJEa3Bmcm0xV3B2aVZnTE5oYm9MNEVYQXBzZmZYQXV4SmNWa3ZrVXVqczFEV0JqaXNoRERwTlZaNk1YSXo3TGlQNWRVekh5dC1XTmVhYU5SYVRUbjNnbmszTm5PRTdCeVEyMmFweGE1NTRHSmcyRXlrUnBGNk5aWXZyTkdvSmgwaWRvdks2bGIzejlMY0E?oc=5",
-  "https://www.kommersant.ru/doc/9127628",
-  "title:New York Times рассказала о контактах предпринимательницы Элис Хуанг с китайской разведкой",
-  "skip:https://ria.ru/20261123/pvo-2133319991.html",
-  "skip:https://tass.ru/proisshestviya/28344469",
-  "skip:https://www.interfax.ru/russia/1130726",
   "https://www.rbc.ru/rbcfreenews/6b03b3aee1eac0b2c97c47a0",
   "title:Средства ПВО за ночь уничтожили 13 украинских беспилотников над Воронежской областью",
   "skip:https://www.kommersant.ru/doc/9127676",
@@ -998,5 +990,13 @@
   "title:Бывший губернатор Тамбовской области Максим Егоров приговорен к 11 годам колонии по делу о взятках",
   "skip:https://www.rbc.ru/rbcfreenews/6b09353f2369b79e8b376b7a",
   "https://www.kommersant.ru/doc/9132081",
-  "title:Международный пассажирский поезд Пекин — Иркутск прибыл на конечную станцию впервые с 2020 года"
+  "title:Международный пассажирский поезд Пекин — Иркутск прибыл на конечную станцию впервые с 2020 года",
+  "skip:https://www.kommersant.ru/doc/9132099",
+  "skip:https://www.rbc.ru/quote/27/11/2026/6b080a9160615dd999c3a705",
+  "https://www.kommersant.ru/doc/9132130",
+  "title:Сменились основные акционеры компании «Циан»",
+  "skip:https://www.rbc.ru/politics/27/11/2026/6b0921db6b4725d246fdc75c",
+  "skip:https://www.kommersant.ru/doc/9131969",
+  "https://www.interfax.ru/russia/1131793",
+  "title:Бывший главред «Коммерсанта» Владимир Желонкин назначен замминистра культуры"
 ]

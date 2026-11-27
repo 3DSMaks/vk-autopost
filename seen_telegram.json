@@ -1,7 +1,4 @@
 [
-  "title:По оценкам аналитиков, предзаказы GTA 6 достигли 15 миллионов копий",
-  "skip:https://www.igromania.ru/news/169972/prodazhi-gta-6-po-predzakazam-priblizilis-k-15-millionam-kopij-analitiki/",
-  "skip:https://www.pcgamer.com/games/fps/game-dev-isnt-always-straightforward-overwatchs-director-responds-to-players-upset-about-season-6s-hero-being-a-dps/",
   "skip:https://www.ign.com/articles/gta-6-gets-another-day-one-patch-bigger-on-xbox",
   "https://www.ign.com/articles/fable-reveals-first-look-at-bowerstones-new-map-and-its-huge",
   "title:Fable Reveals First Look At Bowerstone's New Map, And It's Huge",
@@ -998,5 +995,8 @@
   "skip:https://stopgame.ru/newsdata/73661/rasshirenie_sea_of_sorrow_dlya_silksong_pribudet_11_dekabrya_i_drugie_anonsy_ot_team_cherry",
   "skip:https://www.ign.com/articles/hollow-knight-silksong-dlc-sea-of-sorrow-release-date",
   "https://stopgame.ru/newsdata/73654/saber_vypustila_poslednee_obnovlenie_kontenta_dlya_space_marine_ii_v_2026_godu",
-  "title:Saber выпустила последнее обновление контента для Space Marine II в 2026 году"
+  "title:Saber выпустила последнее обновление контента для Space Marine II в 2026 году",
+  "skip:https://variety.com/2026/film/global/denis-villeneuve-disappointed-dune-3-avengers-doomsday-release-same-day-1236959503/",
+  "https://www.kinonews.ru/news_144358/",
+  "title:Дени Вильнев огорчен соседством \"Мстителей: Судный день\" с \"Дюной: Часть третья\""
 ]

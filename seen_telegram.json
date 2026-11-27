@@ -1,11 +1,4 @@
 [
-  "skip:https://www.playground.ru/fable_2026/news/avtory_novoj_fable_raskryli_kartu_i_masshtab_pererozhdennogo_bauerstouna-1891130#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://stopgame.ru/newsdata/73512/xbox_project_helix_eto_konsol_kotoraya_zapuskaet_pk_igry_a_ne_naoborot",
-  "skip:https://www.igromania.ru/news/169963/sozdatelya-rezhima-zombi-v-call-of-duty-uvolili-spustya-pochti-20-let-rabotyi-v-treyarch/",
-  "skip:https://gamemag.ru/news/202169/xbox-helix-is-not-a-pc-its-a-console",
-  "https://www.igromania.ru/news/169968/gta-6-poluchila-vtoroj-doreliznyij-patch/",
-  "title:GTA 6 получила второй дорелизный патч",
-  "skip:https://www.igromania.ru/news/169971/dark-souls-poluchila-mod-s-trassirovkoj-puti-no-ne-vse-gejmeryi-zametili-raznitsu/",
   "skip:https://www.playground.ru/dark_souls/news/originalnaya_dark_souls_poluchila_rtx_remix_s_trassirovkoj_putej_uluchshennymi_teksturami_effektami_i_podderzhkoj_dlss_5-1891127#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://www.ign.com/articles/marvels-wolverine-ps5-black-friday-deal",
   "title:Marvel’s Wolverine Drops to $50 on PS5 for Black Friday in First Sale Since Launch",
@@ -998,5 +991,12 @@
   "skip:https://stopgame.ru/newsdata/73660/smi_new_radical_games_otmenila_neanonsirovannuyu_igru_vozmozhno_remeyk_the_simpsons_hit_and_run",
   "skip:https://www.igromania.ru/news/170271/studii-razrabotchikov-prototype-i-simpsons-hit-and-run-prishlos-otmenit-neanonsirovannuyu-igru/",
   "https://www.igromania.ru/news/170273/prodazhi-gta-6-prevyisili-54-milliona-kopij-analitiki/",
-  "title:Продажи GTA 6 превысили 53 миллиона копий — аналитики"
+  "title:Продажи GTA 6 превысили 53 миллиона копий — аналитики",
+  "skip:https://stopgame.ru/newsdata/73661/rasshirenie_sea_of_sorrow_dlya_hollow_knight_silksong_startuet_11_dekabrya",
+  "skip:https://www.playground.ru/hollow_knight_silksong/news/hollow_knight_silksong_poluchit_besplatnoe_dopolnenie_sea_of_sorrow_11_dekabrya_igrokov_zhdut_novye_bossy_i_lokatsii-1894384#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/170274/hollow-knight-silksong-poluchit-besplatnoe-dopolnenie-sea-of-sorrow-uzhe-11-dekabrya/",
+  "skip:https://www.playground.ru/gta_6/news/po_dannym_analitikov_gta_6_razoshlas_tirazhom_v_53_mln_kopij_za_pervuyu_nedelyu_igra_zarabotala_4_7_mlrd_dollarov-1894379#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.ign.com/articles/excitement-builds-for-hollow-knight-silksong-news-ahead-of-cherry-time-special-presentation",
+  "https://www.igromania.ru/news/170268/dvuhchasovoe-demo-star-wars-galactic-racer-po-zvyozdnyim-vojnam-uzhe-dostupno-na-ps5-i-xbox-series/",
+  "title:Двухчасовое демо Star Wars: Galactic Racer по «Звёздным войнам» уже доступно на PS5 и Xbox Series"
 ]

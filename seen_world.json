@@ -1,10 +1,4 @@
 [
-  "skip:https://www.rbc.ru/politics/24/11/2026/6b05592ceec4f5ad5828899f",
-  "skip:https://www.kommersant.ru/doc/9128902",
-  "skip:https://ria.ru/20261124/zakharova--2133588308.html",
-  "skip:https://www.interfax.ru/russia/1130984",
-  "https://tass.ru/politika/28349135",
-  "title:МИД России опроверг сообщения о высылке российских дипломатов с Кипра",
   "skip:https://tass.ru/ekonomika/28349305",
   "skip:https://ria.ru/20261124/gosduma--2133599896.html",
   "https://www.rbc.ru/economics/24/11/2026/6b054643609a68053f9532fa",
@@ -998,5 +992,11 @@
   "title:Владимир Зеленский прокомментировал ситуацию с ударами по Ливии и признал отсутствие координации с партнерами",
   "skip:https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss",
   "https://www.kommersant.ru/doc/9144630",
-  "title:OpenAI подала встречный иск против Apple из-за кражи коммерческих секретов"
+  "title:OpenAI подала встречный иск против Apple из-за кражи коммерческих секретов",
+  "skip:https://news.google.com/rss/articles/CBMixgFBVV95cUxQSHlHVU5tTTJaQ21PUzY4S1VubHVSYk5rMy1rRFJYbWpKTUNLR0ljaGNMTklRLTVGSC1YN3FLeV9BNFRVbmMzM25jckV0MHJ0ME5GMGxheEwtS2lNWWVTc1lGdkloLURKc2FxWEkwZ3plS0ZFV2hqR09DNEpmeGp0QV85alE0c0xINHV1bTZSUko1UklHZk5DYUtsWmptekpxN3JjakVWeFItNjhMYllSMF96QWVzOU1LeW5JcnNNNkhiYXhpSUE?oc=5",
+  "https://www.france24.com/en/france/20261127-s-p-revises-france-s-outlook-from-stable-to-negative",
+  "title:Агентство S&P понизило прогноз по кредитному рейтингу Франции до негативного из-за бюджетных проблем",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28363955",
+  "https://www.rbc.ru/politics/28/11/2026/6b09f92c5509a3c1711f584b",
+  "title:В СМИ сообщили об отмене операций ВСУ из-за ограничений в системе Starshield"
 ]

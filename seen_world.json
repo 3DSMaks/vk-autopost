@@ -1,10 +1,4 @@
 [
-  "skip:https://tass.ru/proisshestviya/28348569",
-  "skip:https://tass.ru/proisshestviya/28348553",
-  "skip:https://www.kommersant.ru/doc/9128740",
-  "skip:https://www.rbc.ru/politics/24/11/2026/6b053413bd3467ba2653e44f",
-  "skip:https://www.interfax.ru/russia/1130954",
-  "skip:https://ria.ru/20261124/fsb--2133552166.html",
   "https://www.rbc.ru/rbcfreenews/6b054061fbb1b312ac2d2181",
   "title:ФСБ предотвратила теракт в синагоге в Кисловодске",
   "skip:https://tass.ru/sport/28348573",
@@ -998,5 +992,11 @@
   "title:Умер бывший главный внештатный нарколог Минздрава России Евгений Брюн",
   "skip:https://www.kommersant.ru/doc/9144587",
   "https://www.rbc.ru/rbcfreenews/6b09c4cbf4d5345623db4fc1",
-  "title:В Белоруссии ограничат доступ к сервису Spotify с 1 декабря"
+  "title:В Белоруссии ограничат доступ к сервису Spotify с 1 декабря",
+  "skip:https://www.interfax.ru/russia/1131948",
+  "https://www.kommersant.ru/doc/9144613",
+  "title:Владимир Путин принял участие в церемонии поднятия флага на атомной подлодке «Пермь»",
+  "skip:https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss",
+  "https://www.interfax.ru/world/1131957",
+  "title:Пакистан, Турция и Саудовская Аравия осудили удары хуситов по королевству"
 ]

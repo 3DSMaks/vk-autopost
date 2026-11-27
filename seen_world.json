@@ -1,12 +1,4 @@
 [
-  "skip:https://tass.ru/ekonomika/28346647",
-  "skip:https://ria.ru/20261123/nvidia-2133449767.html",
-  "skip:https://www.kommersant.ru/doc/9128283",
-  "skip:https://www.rbc.ru/business/23/11/2026/6b04465cb72e51b5c777a50f",
-  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5",
-  "title:Дженсен Хуанг вернулся на должность генерального директора компании NVIDIA",
-  "skip:https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MTjJlV1k4LWVJYmdwUnB3ZmFvcVRMRDhpaHVpTWFndG0xaTQ4X2U0NldJb2xFWHEzRU4xdVNaVW81OXpUVUhQX2NwTDhHUzJZOHVBM0tpNmtma0g1TXJpeEJ0bnpPeDg?oc=5",
-  "skip:https://news.google.com/rss/articles/CBMitgFBVV95cUxQNkttSjlveXdrMHJKLVNYMWNTMFh3YlJtLXRtTXcwUnI2Z3VMOWJPajRpelJzRDk0ZG0xekVqSlpoM1dac1RwU045bjdjREd3NENUYTdHcHFiMEt3WWdVcDA4S3JMOVBfR2hNdV9YLXpiNTd6OC01QzctQmxaX2I4TmNmLXd4MVJxZkZ5T09NT01uZHhpYVNKQ052YVUybll3SHl1MTBNMGx2Um1vekdPTVptQU1XUQ?oc=5",
   "https://www.france24.com/en/video/20261123-ukraine-sending-the-message-that-we-can-attack-you-where-we-want",
   "title:Президент Украины Владимир Зеленский подтвердил удар морскими дронами по российским судам в Ливии",
   "skip:https://www.rbc.ru/technology_and_media/23/11/2026/6b045423f4bf613e970d1d82",
@@ -998,5 +990,13 @@
   "title:В Новороссийске десятки квартир повреждены в результате атаки беспилотников",
   "skip:https://www.aljazeera.com/news/2026/11/27/famine-expect-to-rise-due-to-global-conflict-el-nino-warns-un?traffic_source=rss",
   "https://www.kommersant.ru/doc/9144432",
-  "title:ООН предупредила об угрозе усиления голода в регионах мира из-за конфликтов"
+  "title:ООН предупредила об угрозе усиления голода в регионах мира из-за конфликтов",
+  "skip:https://ria.ru/20261127/mid-2134440557.html",
+  "skip:https://www.kommersant.ru/doc/9144479",
+  "skip:https://news.google.com/rss/articles/CBMiswFBVV95cUxQU3JwR0xYZzBxM1MycGdSMHQ2RUNHdU9EeVBPTkNXRDBkQzhMX0JJblhSM1BFdWwxdzlxenFZLWRtTVc5YkZTQS0tMU9iRTBFS3RRdnZTYmZfMXdYLU9zall1RkJjWDBPVkVaaWFjOEpyOHJjenhyRVM2dFYzUHpVcEp3Yl80T2hQQndLUnZXcHg4bG9qcjh0bWFXWE5kcUZDa0NCUVBPVFpVT1dBakVPeEVmMA?oc=5",
+  "https://tass.ru/mezhdunarodnaya-panorama/28363225",
+  "title:МИД Турции вызвал посла Грузии после инцидента с болельщиками на матче «Бешикташа»",
+  "skip:https://ria.ru/20261127/obse-2134432706.html",
+  "https://tass.ru/politika/28363213",
+  "title:Постоянный совет ОБСЕ принял бюджет на 2027 год"
 ]

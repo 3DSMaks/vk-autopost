@@ -1,15 +1,4 @@
 [
-  "skip:https://tass.ru/proisshestviya/28347823",
-  "skip:https://tass.ru/proisshestviya/28347813",
-  "https://tass.ru/proisshestviya/28347883",
-  "title:В пятиэтажном жилом доме в Алтайском крае произошел взрыв газа, есть обрушения и пострадавшие",
-  "skip:https://ria.ru/20261124/moskva-2133534089.html",
-  "skip:https://www.interfax.ru/russia/1130924",
-  "https://www.rbc.ru/rbcfreenews/6b0513a137b34153deec3556",
-  "title:Число сбитых на подлете к Москве беспилотников увеличилось до 30",
-  "skip:https://www.rbc.ru/rbcfreenews/6b0511b4d3c986df7eb6798b",
-  "skip:https://ria.ru/20261124/vzryv-2133532915.html",
-  "skip:https://www.interfax.ru/russia/1130923",
   "skip:https://www.kommersant.ru/doc/9128622",
   "skip:https://www.rbc.ru/rbcfreenews/6b050bc2e69bd4ce11c0ad0a",
   "skip:https://www.interfax.ru/russia/1130921",
@@ -998,5 +987,16 @@
   "title:Владимир Путин принял участие в церемонии поднятия флага на атомной подлодке «Пермь» и провел совещание по развитию ВМФ",
   "skip:https://www.rbc.ru/quote/27/11/2026/6b09a5dcebf1249c67529eb7",
   "https://www.interfax.ru/business/1131944",
-  "title:СПБ Биржа объявила о запуске торгов криптовалютами с 1 декабря"
+  "title:СПБ Биржа объявила о запуске торгов криптовалютами с 1 декабря",
+  "skip:https://ria.ru/20261127/bespilotniki-2134480605.html",
+  "skip:https://tass.ru/armiya-i-opk/28363755",
+  "https://www.interfax.ru/russia/1131951",
+  "title:Минобороны РФ сообщило об уничтожении 74 украинских беспилотников над регионами страны",
+  "skip:https://ria.ru/20261127/minpromtorg-2134467885.html",
+  "skip:https://ria.ru/20261127/sbor-2134465954.html",
+  "skip:https://tass.ru/ekonomika/28363661",
+  "skip:https://www.interfax.ru/business/1131941",
+  "skip:https://ria.ru/20261127/sbor-2134464389.html",
+  "https://www.kommersant.ru/doc/9144583",
+  "title:В России утвердили правила исчисления технологического сбора на электронику"
 ]

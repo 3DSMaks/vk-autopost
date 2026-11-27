@@ -1,11 +1,4 @@
 [
-  "https://www.playground.ru/call_of_duty_4_modern_warfare/news/zabytaya_vojna_mezhdu_cod_4_i_mw3_raskryty_detali_masshtabnogo_moda_call_of_duty_echoes-1890850#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Забытая война между CoD 4 и MW3: раскрыты детали масштабного мода Call of Duty: ECHOES",
-  "skip:https://deadline.com/2026/11/hbo-surprise-harry-potter-clip-hogwarts-banquet-1237224436/",
-  "skip:https://www.film.ru/news/novyy-otryvok-iz-garri-pottera",
-  "skip:https://www.film.ru/news/sluh-marvel-tayno-snimaet-zheleznogo-cheloveka-4",
-  "https://kg-portal.ru/comments/135792-provalivshijsja-v-prokate-strit-fajter-vyjdet-na-cifrovyh-ploschadkah-v-pervyh-chislah-dekabrja/",
-  "title:Провалившийся в прокате \"Стрит Файтер\" выйдет на цифровых площадках в первых числах декабря",
   "https://www.playground.ru/gta_6/news/soglasno_insajderu_tomu_hendersonu_poluchenie_platiny_v_gta_6_zajmet_v_srednem_bolee_200_chasov-1890868#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Согласно инсайдеру Тому Хендерсону, получение платины в GTA 6 займет в среднем более 200 часов",
   "https://www.film.ru/news/dzhon-hemm-sygraet-u-takasi-miike",
@@ -998,5 +991,12 @@
   "video:2026-11-27:https://kg-portal.ru/comments/135997-mstiteli-doktor-dum-tizer-trejlera/",
   "title:Магнето пытается сорвать маску с главного злодея в тизере \"Мстителей: Доктор Дум\"",
   "https://www.film.ru/news/scenariy-shan-chi-2-v-razrabotke",
-  "title:Сценарий Шан-Чи 2 в разработке"
+  "title:Сценарий Шан-Чи 2 в разработке",
+  "skip:https://www.igromania.ru/news/170265/hitman-world-of-assassination-odolzhila-u-007-first-light-personazha-lenni-kravitsa-do-24-dekabrya/",
+  "skip:https://www.pcgamer.com/games/the-witcher/witcher-3-remastered-patch-has-lighting-fixes-sign-nerfs-and-gets-rid-of-a-nasty-werewolf-bug/",
+  "skip:https://www.pcgamer.com/games/microsofts-github-posts-message-celebrating-efforts-to-port-playstation-5-version-of-grand-theft-auto-6-to-pc-then-quickly-deletes-it/",
+  "skip:https://gamemag.ru/news/202320/disney-podtverdila-vyhod-filma-avatar-4",
+  "skip:https://stopgame.ru/newsdata/73650/v_hitman_navedalsya_bavma_iz_007_first_light",
+  "https://www.igromania.ru/news/170266/igru-o-zheleznom-cheloveke-ea-mogut-pokazat-na-the-game-awards-studiya-razrabotchikov-obnovila-sajt/",
+  "title:Игру о Железном человеке EA могут показать на The Game Awards — студия разработчиков обновила сайт"
 ]

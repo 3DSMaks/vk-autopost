@@ -1,10 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/202165/motyga-sudby-netflix-pokazal-tizer-multseriala-mirohodec",
-  "skip:https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/",
-  "https://www.playground.ru/minecraft/news/minecraft_poluchit_metatelnyj_disk_i_vtoruyu_ruku_v_bedrock_v_pervom_obnovlenii_2027_goda-1890882#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Minecraft получит метательный диск и вторую руку в Bedrock в первом обновлении 2027 года",
-  "skip:https://www.playground.ru/gta_6/news/tom_henderson_raskryl_prodolzhitelnost_syuzheta_gta_6_okolo_50_chasov_pochti_100_missij_i_pyat_otdelnyh_glav-1890888#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "https://www.igromania.ru/news/169957/remejk-the-legend-of-zelda-majoras-mask-tochno-vyijdet-schitayut-byivshie-sotrudniki-nintendo/",
   "title:Ремейк The Legend of Zelda: Majoraʼs Mask точно выйдет, считают бывшие сотрудники Nintendo",
   "https://www.playground.ru/resident_evil_survivor/news/resident_evil_survivor_perenesli_s_ps1_na_pk_upravlenie_myshyu_podderzhka_shirokogo_ekrana_i_grafika_v_vysokom_razreshenii-1890903#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Resident Evil Survivor перенесли с PS1 на ПК: управление мышью, поддержка широкого экрана и графика в высоком разрешении",
@@ -998,5 +992,11 @@
   "skip:https://www.kinonews.ru/news_144341/",
   "skip:https://www.film.ru/news/fincher-ispolzoval-iskusstvennyy-intellekt-v-kliffe-bute",
   "https://variety.com/2026/film/features/hunger-games-jesse-plemons-philip-seymour-hoffman-plutarch-1236957335/",
-  "title:Jesse Plemons on the ‘Honor’ of Playing Plutarch in ‘The Hunger Games’ After Philip Seymour Hoffman and Debating Director Francis Lawrence Over the Ch"
+  "title:Jesse Plemons on the ‘Honor’ of Playing Plutarch in ‘The Hunger Games’ After Philip Seymour Hoffman and Debating Director Francis Lawrence Over the Ch",
+  "skip:https://www.playground.ru/meowfactory/news/vyshla_strategiya_simulyator_meowfactory-1894278#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/170269/sozdateli-rusov-protiv-yascherov-vyipustili-murzavod-o-kotah-rabotyagah-kotoryie-pashut-v-tri-smenyi/",
+  "skip:https://stopgame.ru/newsdata/73653/v_dekabre_sostoitsya_reliz_polnogo_izdaniya_cronos_the_new_dawn",
+  "skip:https://gamemag.ru/news/202325/anonsirovano-polnoe-izdanie-cronos-the-new-dawn",
+  "https://www.playground.ru/resident_evil_code_veronica_x/news/pervyj_gejmplej_remejka_resident_evil_code_veronica_mogut_pokazat_na_the_game_awards_2026-1894280#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Первый геймплей ремейка Resident Evil Code: Veronica могут показать на The Game Awards 2026"
 ]

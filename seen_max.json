@@ -1,6 +1,4 @@
 [
-  "skip:https://gamemag.ru/news/202165/motyga-sudby-netflix-pokazal-tizer-multseriala-mirohodec",
-  "skip:https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/",
   "https://www.ign.com/articles/gta-6-leak-seemingly-reveals-full-track-list-days-before-launch",
   "title:GTA 6 Leak Seemingly Reveals Official Album's Full Track List Days Before Launch",
   "skip:https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/",
@@ -998,5 +996,7 @@
   "skip:https://www.igromania.ru/news/170263/sozdateli-gta-6-ne-obedinyatsya-v-profsoyuz-75-progolosovalo-protiv-rockstar-gorditsya-komandoj/",
   "skip:https://www.pcgamer.com/games/fps/vermintide-2-mod-tools-get-a-public-release-and-the-games-90-percent-off-on-steam-too/",
   "https://www.playground.ru/marvel_1943_rise_of_hydra/news/ya_lichno_igral_v_neyo_aktyor_ozvuchki_chyornoj_pantery_oproverg_sluhi_ob_odnoknopochnoj_boyovke_marvel_1943-1894376#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:\"Я лично играл в неё\": актёр озвучки Чёрной Пантеры опроверг слухи об однокнопочной боёвке Marvel 1943"
+  "title:\"Я лично играл в неё\": актёр озвучки Чёрной Пантеры опроверг слухи об однокнопочной боёвке Marvel 1943",
+  "https://www.film.ru/news/kit-vo-tme-glubin-poluchil-datu-cifrovogo-reliza",
+  "title:Кит. Во тьме глубин получил дату цифрового релиза"
 ]

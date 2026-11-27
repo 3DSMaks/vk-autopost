@@ -1,14 +1,4 @@
 [
-  "title:Верховный суд РФ инициировал создание Черноморского флотского военного суда в Севастополе",
-  "skip:https://www.interfax.ru/russia/1130985",
-  "skip:https://www.kommersant.ru/doc/9128891",
-  "skip:https://www.rbc.ru/politics/24/11/2026/6b0554048ccadc1e96de5947",
-  "skip:https://ria.ru/20261124/barvinovka-2133581492.html",
-  "https://tass.ru/armiya-i-opk/28349007",
-  "title:Минобороны РФ сообщило о взятии под контроль села Барвиновка в Запорожской области",
-  "skip:https://tass.ru/proisshestviya/28348983",
-  "https://www.kommersant.ru/doc/9128894",
-  "title:У побережья ОАЭ атакован и загорелся сухогруз",
   "skip:https://www.kommersant.ru/doc/9128910",
   "https://www.interfax.ru/world/1130992",
   "title:ВМС Ирана сообщили о подрыве двух танкеров на минах в Ормузском проливе",
@@ -998,5 +988,15 @@
   "title:Силы ПВО сбили 11 беспилотников, летевших на Москву",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28363897",
   "https://www.rbc.ru/rbcfreenews/6b09db3dbf589f52924f6a59",
-  "title:Украинский транспортный самолет вылетел из закрытого аэропорта Черновцов"
+  "title:Украинский транспортный самолет вылетел из закрытого аэропорта Черновцов",
+  "skip:https://www.interfax.ru/russia/1131963",
+  "skip:https://www.kommersant.ru/doc/9144626",
+  "skip:https://www.kommersant.ru/doc/9144625",
+  "https://ria.ru/20261127/besplotniki-2134503543.html",
+  "title:Силы ПВО перехватили беспилотники на подлете к Москве",
+  "skip:https://www.rbc.ru/politics/27/11/2026/6b09dfa1bf589f52924f6a5f",
+  "skip:https://ria.ru/20261127/zelenskiy-2134493706.html",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28363909",
+  "https://ria.ru/20261127/zelenskij-2134500340.html",
+  "title:Владимир Зеленский прокомментировал ситуацию с ударами по Ливии и признал отсутствие координации с партнерами"
 ]

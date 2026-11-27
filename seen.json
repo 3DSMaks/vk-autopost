@@ -1,8 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_144102/",
-  "skip:https://www.kinonews.ru/news_144104/",
-  "https://deadline.com/2026/11/mgm-the-american-heiress-julianna-margulies-1237220114/",
-  "title:MGM+ Greenlights Gilded Age-Era Series ‘The American Heiress’ Starring Julianna Margulies",
   "posted:2026-11-11T15:02:31+00:00",
   "https://deadline.com/2026/11/emily-in-paris-season-6-trailer-greece-1237220061/",
   "title:‘Emily In Paris’ Season 6 Trailer Traipses Down Memory Lane From France & Rome To “One Last Story” In Greece",
@@ -998,5 +994,9 @@
   "title:Кристофер Нолан назвал лучший способ смотреть \"Одиссею\" дома",
   "posted:2026-11-27T12:31:20+00:00",
   "https://variety.com/2026/film/global/chiwetel-ejiofor-backrooms-kane-parsons-1236959030/",
-  "title:Chiwetel Ejiofor Was Afraid to Make ‘Backrooms’ Because of Director Kane Parsons’ Age: ‘He Was So Young!’"
+  "title:Chiwetel Ejiofor Was Afraid to Make ‘Backrooms’ Because of Director Kane Parsons’ Age: ‘He Was So Young!’",
+  "posted:2026-11-27T14:03:02+00:00",
+  "skip:https://www.film.ru/news/final-poluraspada-v-okko",
+  "https://variety.com/2026/film/global/luc-besson-terminator-1236959275/",
+  "title:Luc Besson Jokes That He Could Make the Next ‘Terminator,’ but Only if the Terminator ‘Sat Down and Said He Missed His Mom’"
 ]

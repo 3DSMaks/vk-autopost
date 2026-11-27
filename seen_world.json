@@ -1,14 +1,4 @@
 [
-  "skip:https://www.kommersant.ru/doc/9128291",
-  "skip:https://www.interfax.ru/business/1130850",
-  "https://ria.ru/20261123/khuang-2133465603.html",
-  "title:Дженсен Хуанг вернулся на пост генерального директора Nvidia",
-  "skip:https://www.interfax.ru/russia/1130849",
-  "https://tass.ru/politika/28346697",
-  "title:МИД России назвал провокационными планы Эстонии закрыть границу",
-  "skip:https://tass.ru/ekonomika/28346769",
-  "skip:https://news.google.com/rss/articles/CBMifkFVX3lxTE1CcTByY2JXWEhUNVlhUnMxSWRRNnBsVnNBYkNaeXRDUGZOWjlkN2ZpdTJCdzlna2RibWlXekdKMXYyZlFQWGZXalpBNVpFZkdWUU13a29tNmtLdWExQ0xKbks2T0NDelI5UnZWRGt0cElDajdUM2V6ZUJ0RHdEQQ?oc=5",
-  "skip:https://www.rbc.ru/quote/23/11/2026/6b044ef8f5d70fa7c474b9e7",
   "skip:https://ria.ru/20261123/tramp-2133469241.html",
   "skip:https://ria.ru/20261123/tramp-2133468910.html",
   "skip:https://ria.ru/20261123/tramp-2133468663.html",
@@ -998,5 +988,15 @@
   "skip:https://tass.ru/ekonomika/28363269",
   "skip:https://tass.ru/ekonomika/28363267",
   "https://www.interfax.ru/business/1131918",
-  "title:«Газпром» представил финансовые результаты по МСФО за третий квартал 2026 года"
+  "title:«Газпром» представил финансовые результаты по МСФО за третий квартал 2026 года",
+  "skip:https://www.interfax.ru/russia/1131922",
+  "skip:https://www.rbc.ru/rbcfreenews/6b09a704e38a9c01e8bb1513",
+  "skip:https://ria.ru/20261127/putin-2134451840.html",
+  "skip:https://tass.ru/armiya-i-opk/28363395",
+  "https://ria.ru/20261127/putin-2134452272.html",
+  "title:Владимир Путин анонсировал передачу ВМФ пяти ракетоносцев до 2030 года и участие в подъеме флага на АПЛ «Пермь»",
+  "skip:https://tass.ru/armiya-i-opk/28363369",
+  "skip:https://ria.ru/20261127/svo-2134447680.html",
+  "https://www.interfax.ru/russia/1131919",
+  "title:Минобороны РФ сообщило о поражении судна с грузами для ВСУ в Черном море"
 ]

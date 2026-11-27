@@ -1,13 +1,4 @@
 [
-  "https://www.playground.ru/cyberpunk_2077/news/dlya_cyberpunk_2077_vyshla_pervaya_publichnaya_beta_cybermp_multipleer_sobstvennye_servery_gonki_i_rezhimy_ot_igrokov-1891088#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Для Cyberpunk 2077 вышла первая публичная бета CyberMP: мультиплеер, собственные серверы, гонки и режимы от игроков",
-  "https://www.playground.ru/final_fantasy_7_part_3/news/final_fantasy_vii_revelation_prevratit_hajvind_v_polnotsennuyu_letayuschuyu_bazu_s_vozmozhnostyu_kastomizatsii-1891102#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Final Fantasy VII Revelation превратит \"Хайвинд\" в полноценную летающую базу с возможностью кастомизации",
-  "skip:https://www.playground.ru/gta_6/news/dlya_gta_6_vyshel_esche_odin_nebolshoj_patch_razmerom_602_mb_do_reliza_igry_ostayotsya_neskolko_dnej-1891112#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "https://www.playground.ru/fable_2026/news/playground_games_podrobnee_rasskazala_o_personazhah_arden_i_izabel_boevoj_sisteme_i_regione_dipvud_v_fable-1891104#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Playground Games подробнее рассказала о персонажах Арден и Изабель, боевой системе и регионе Дипвуд в Fable",
-  "skip:https://variety.com/2026/film/global/gerard-depardieu-drops-appeal-in-sexual-assault-case-1236948679/",
-  "skip:https://www.film.ru/news/razdacha-pochetnyh-oskarov",
   "https://www.film.ru/news/treyler-seriala-arsenev",
   "title:Трейлер сериала Арсеньев",
   "skip:https://www.film.ru/news/nehvatka-deneg-na-trikvel-28-let-spustya",
@@ -998,5 +989,14 @@
   "https://www.kinonews.ru/news_144353/",
   "title:Люк Бессон снял мультфильм с помощью Искусственного Интеллекта",
   "https://www.kinonews.ru/news_144356/",
-  "title:Звезду \"Форсажа\" Тайриза Гибсона раскритиковали за шутки о домашнем насилии"
+  "title:Звезду \"Форсажа\" Тайриза Гибсона раскритиковали за шутки о домашнем насилии",
+  "skip:https://stopgame.ru/newsdata/73658/rabotniki_rockstar_games_progolosovali_protiv_priznaniya_profsoyuza_studii",
+  "skip:https://stopgame.ru/newsdata/73656/sistemnye_trebovaniya_exodus",
+  "skip:https://www.ign.com/articles/despite-take-two-takedown-vibecoding-teen-behind-nuked-gta-6-pc-port-project-leonida-vows-to-continue",
+  "skip:https://www.igromania.ru/news/170270/dlya-exodus-duhovnogo-naslednika-mass-effect-ukazali-minimalnyie-i-drugie-sistemnyie-trebovaniya/",
+  "skip:https://www.igromania.ru/news/170263/sozdateli-gta-6-ne-obedinyatsya-v-profsoyuz-75-progolosovalo-protiv-rockstar-gorditsya-komandoj/",
+  "skip:https://www.igromania.ru/news/170258/warhammer-40000-space-marine-2-poluchila-poslednee-obnovlenie-2026-goda-decimation/",
+  "skip:https://www.pcgamer.com/games/fps/vermintide-2-mod-tools-get-a-public-release-and-the-games-90-percent-off-on-steam-too/",
+  "https://www.ign.com/articles/former-gran-turismo-world-series-competitor-helped-tune-gta-6-car-physics",
+  "title:Former Gran Turismo World Series Competitor Helped Tune GTA 6 Car Physics"
 ]

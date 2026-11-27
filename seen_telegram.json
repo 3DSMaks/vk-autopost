@@ -1,9 +1,4 @@
 [
-  "https://www.film.ru/news/svetovoy-mech-darta-veydera-prodali",
-  "title:Световой меч Дарта Вейдера продали",
-  "https://www.kinonews.ru/news_144166/",
-  "title:Джонни Депп вернулся в большой прокат и вывел \"Скруджа\" на первое место",
-  "skip:https://gamemag.ru/news/202092/opublikovano-video-s-odnoy-iz-pervyh-raspakovok-fizicheskogo-izdaniya-grand-theft-auto-vi",
   "skip:https://gamemag.ru/news/202162/v-bodycam-poyavilsya-kooperativnyy-zombi-rejim",
   "skip:https://www.igromania.ru/news/169956/realistichnyij-shuter-bodycam-poluchil-obnovlenie-s-kooperativnyim-zombi-rezhimom/",
   "skip:https://www.playground.ru/call_of_duty_modern_warfare_4/news/v_call_of_duty_preduprezhdayut_chity_na_baze_ii_stanovyatsya_vsyo_trudnee_obnaruzhivat_s_pomoschyu_traditsionnyh_antichitov-1890899#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +993,10 @@
   "https://www.film.ru/news/tizer-solnechnoy-doliny-ot-sozdateley-tmy",
   "title:Тизер Солнечной долины от создателей Тьмы",
   "https://deadline.com/2026/11/percy-jackson-courtney-b-vance-doing-late-lance-reddick-1237234178/",
-  "title:‘Percy Jackson’s Courtney B. Vance On “Doing Right By” Late Lance Reddick After Taking Over Zeus Role"
+  "title:‘Percy Jackson’s Courtney B. Vance On “Doing Right By” Late Lance Reddick After Taking Over Zeus Role",
+  "skip:https://www.playground.ru/warhammer_40000_dawn_of_war_4/news/dlya_warhammer_40_000_dawn_of_war_iv_vypustili_besplatnyj_redaktor_armij_svoi_raskraski_mozhno_perenesti_v_polnuyu_igru-1894306#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://stopgame.ru/newsdata/73652/warhammer_40_000_dawn_of_war_iv_poluchila_demo_s_pokraskoy_yunitov",
+  "skip:https://www.igromania.ru/news/170262/zloveschie-lesa-i-styopka-rastryopka-vyishel-pervyij-tizer-novogo-seriala-sonnental-sozdatelej-tmyi/",
+  "https://www.igromania.ru/news/170264/sozdateli-alien-isolation-2-pokazali-gejmplejnyie-kadryi-horrora-v-novom-intervyu/",
+  "title:Создатели Alien: Isolation 2 показали геймплейные кадры хоррора в новом интервью"
 ]

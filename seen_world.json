@@ -1,12 +1,4 @@
 [
-  "skip:https://ria.ru/20261125/gosduma-2133893787.html",
-  "skip:https://www.interfax.ru/russia/1131358",
-  "https://www.kommersant.ru/doc/9130573",
-  "title:Госдума изменила правила приема победителей и призеров олимпиад в вузы",
-  "skip:https://ria.ru/20261125/ssha-2133912932.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28354987",
-  "skip:https://www.france24.com/en/americas/20261125-trump-announces-new-tariffs-eu-china-despite-us-midterms-defeat",
-  "skip:https://www.kommersant.ru/doc/9130531",
   "skip:https://www.interfax.ru/world/1131360",
   "https://tass.ru/ekonomika/28354973",
   "title:США предложили ввести новые таможенные пошлины против Китая, ЕС и других торговых партнеров",
@@ -998,5 +990,13 @@
   "title:Минобороны РФ сообщило о перехвате 83 беспилотников за день",
   "skip:https://www.france24.com/en/middle-east/20261128-netanyahu-says-he-is-willing-to-let-eisenkot-be-israel-s-first-pm-under-rotation-proposal",
   "https://tass.ru/mezhdunarodnaya-panorama/28365333",
-  "title:Премьер-министр Израиля Нетаньяху предложил оппозиционеру Айзенкоту занять пост премьера первым"
+  "title:Премьер-министр Израиля Нетаньяху предложил оппозиционеру Айзенкоту занять пост премьера первым",
+  "skip:https://tass.ru/proisshestviya/28365379",
+  "skip:https://www.rbc.ru/rbcfreenews/6b0af39314224d5892043868",
+  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rTnRwajcwai1SWDFFM2tPbGU5N01Ud3l6NzhmUlVRU0w3N2I0ZHo3ZXg3MzNGNnZVTU40MzIya3QyZGpFdTdJZ2xrZkZSN1F4QkZ5bFNRTGNwUEJZQURMYXpyQjFPRG8?oc=5",
+  "title:Столкновения протестующих с полицией в Албании в День независимости",
+  "skip:https://ria.ru/20261128/germaniya-2134654149.html",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28365297",
+  "https://www.rbc.ru/politics/28/11/2026/6b0b09ba1f36f358c114bc55",
+  "title:Германия призвала Украину соблюдать сдержанность на Балтике"
 ]

@@ -1,11 +1,4 @@
 [
-  "skip:https://www.rbc.ru/rbcfreenews/6b05b44ff0a12a128c66b434",
-  "skip:https://www.rbc.ru/politics/24/11/2026/6b05b3733c89c5a405094308",
-  "skip:https://www.interfax.ru/russia/1131099",
-  "skip:https://tass.ru/ekonomika/28350703",
-  "skip:https://www.interfax.ru/russia/1131098",
-  "skip:https://ria.ru/20261124/putin-2133695896.html",
-  "skip:https://www.interfax.ru/russia/1131097",
   "skip:https://tass.ru/ekonomika/28350683",
   "skip:https://ria.ru/20261124/putin-2133695223.html",
   "skip:https://ria.ru/20261124/putin-2133695121.html",
@@ -998,5 +991,12 @@
   "skip:https://www.rbc.ru/rbcfreenews/6b0a1081c17330ad4b61497d",
   "skip:https://ria.ru/20261128/opasnost-2134557361.html",
   "https://www.interfax.ru/world/1131971",
-  "title:Ракетную опасность объявили в трех регионах России, два нефтяных танкера подорвались на минах в Ормузском проливе"
+  "title:Ракетную опасность объявили в трех регионах России, два нефтяных танкера подорвались на минах в Ормузском проливе",
+  "skip:https://www.rbc.ru/rbcfreenews/6b0a2531b92f4bb38fbb6b34",
+  "skip:https://ria.ru/20261128/aeroport-2134558031.html",
+  "https://tass.ru/proisshestviya/28364193",
+  "title:В аэропорту под Вашингтоном два самолета задели друг друга крыльями",
+  "skip:https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSkgwRlh3ZmRnOE5GeGNWUWhqdktxT2QxYkJEaFBzZGVfNG5kLWd1QWFlYVUzLW1iaVFYRC12Z00wb1hlakJtaloxM1FGT0ZUVVZDbGQ4dktZYzA3bldPdlVjUHNQSzVuRXFlX1lGb0tNYkFzNVRUY3VycVI2dUYzZDQ4a0Y4WFJ5bmJYdk41RzVYcDJxZzNBM3M3YTRyM0xvbUxUandSd1lZZU0?oc=5",
+  "https://tass.ru/ekonomika/28364187",
+  "title:Агентство S&P понизило прогноз по кредитному рейтингу Франции до негативного"
 ]

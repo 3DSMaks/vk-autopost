@@ -1,7 +1,4 @@
 [
-  "title:В Ормузском проливе на мине подорвался танкер с сжиженным природным газом",
-  "skip:https://tass.ru/proisshestviya/28355445",
-  "skip:https://ria.ru/20261125/kair-2133984076.html",
   "https://ria.ru/20261125/kair-2133985996.html",
   "title:В Каире в результате ДТП с перевернувшимся грузовиком погибли люди",
   "skip:https://ria.ru/20261125/ukraina-2133983010.html",
@@ -998,5 +995,8 @@
   "skip:https://ria.ru/20261128/zelenskij-2134649827.html",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28365313",
   "https://www.france24.com/en/ukraine-restricts-reporting-on-impact-of-russian-strikes",
-  "title:На Украине запретили СМИ сообщать о последствиях ударов по инфраструктуре"
+  "title:На Украине запретили СМИ сообщать о последствиях ударов по инфраструктуре",
+  "skip:https://www.rbc.ru/rbcfreenews/6b0b06b3790e686f1a085ebb",
+  "https://www.kommersant.ru/doc/9145127",
+  "title:Аэропорт Кельн/Бонн приостанавливал работу из-за дрона"
 ]

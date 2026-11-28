@@ -1,11 +1,4 @@
 [
-  "skip:https://tass.ru/ekonomika/28355467",
-  "skip:https://tass.ru/politika/28355465",
-  "skip:https://ria.ru/20261125/putin-2133987389.html",
-  "skip:https://tass.ru/politika/28354489",
-  "https://www.interfax.ru/russia/1131432",
-  "title:Владимир Путин провел переговоры с президентом Казахстана Касым-Жомартом Токаевым в Москве",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28355603",
   "skip:https://www.kommersant.ru/doc/9130777",
   "skip:https://ria.ru/20261125/kushner-2133996277.html",
   "skip:https://www.interfax.ru/world/1131438",
@@ -998,5 +991,12 @@
   "title:Mercedes-Benz предложит сотрудникам компенсацию до 422 тысяч евро за добровольное увольнение",
   "skip:https://news.google.com/rss/articles/CBMixAFBVV95cUxQdW5WWDBYMTVYNE5hYUdseDZ5U09jbmFVd2JUMFhHbXdKeGpnR0RwMWNidG83MEg2dkpWc1p1T25nVzdDQnNCNUc2TGFsUlh3STB0dDJfdU1KU1M2MnhfQlpKMUhPVXZKQUVsWEoxRnJRUkVNRnRhSUJFTEU4Z01ET0ljWGFvb3JVVlFUcjJGVURaNW5TWkRhc2ZLTS1RNFY1OGMxXzVyWEI5NkJYaWQ5TnRlZUtYWUtXMUxlaWRFZ1lDUjlL?oc=5",
   "https://www.france24.com/en/france/20261128-france-and-seven-other-countries-call-for-palestinian-elections-in-early-2027",
-  "title:Восемь стран призвали Палестинскую автономию провести выборы в начале 2027 года"
+  "title:Восемь стран призвали Палестинскую автономию провести выборы в начале 2027 года",
+  "skip:https://www.kommersant.ru/doc/9145138",
+  "skip:https://tass.ru/sport/28365483",
+  "https://ria.ru/20261128/fifa-2134666103.html",
+  "title:ФИФА планирует отменить или переименовать Премию мира после присуждения ее Дональду Трампу",
+  "skip:https://news.google.com/rss/articles/CBMivwFBVV95cUxNOEc2MTE4aHNhMGczT0FVRUtLLWRQYU5PMGJLeHJaRXM4c1B3emJqS0c5Y1VfQXlwZ2haOV92dl9sbEF3bTRRWXN4dWJjUkpOcUl2QXA4TXN6Vm01T0s1aTFYSVU2N05YZU1mZ0xSRjVTUkR2X2stYkFoY3F5bmd0NTNTemVRZFAxOHIwY1FVYWpsY21IMHpLdGd2UDFvS0FNVDdHaklDT3JSYWdzTkFhWURvNnpJdTh0T3lJTWxjOA?oc=5",
+  "https://www.theguardian.com/world/2026/nov/28/costa-rica-bars-un-rapporteur-francesca-albanese-palestinian-territories",
+  "title:Коста-Рика запретила въезд спецдокладчику ООН по палестинским территориям Франческе Альбанезе"
 ]

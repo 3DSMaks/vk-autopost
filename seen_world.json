@@ -1,9 +1,4 @@
 [
-  "https://tass.ru/mezhdunarodnaya-panorama/28351193",
-  "title:Глава Минобороны Израиля обвинил Иран в разработке химического оружия",
-  "skip:https://ria.ru/20261124/madyar-2133730634.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28351211",
-  "skip:https://ria.ru/20261124/madyar-2133728274.html",
   "https://www.kommersant.ru/doc/9129765",
   "title:Венгрия заявила об отказе участвовать в кредите ЕС для Украины на 45 млрд евро",
   "skip:https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
@@ -998,5 +993,10 @@
   "skip:https://tass.ru/proisshestviya/28364651",
   "skip:https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss",
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcVRKa09nUTkyZHR6Tnp6aTFwNzFYOHd0WGRtWjFEU2Z4RmFvRzVETWJwbEF4WHROdnpCVU9NMVBYYUJtbVU5NzVqNEVkaEVhNUtmMHFrbFE0cW5OQmdXYkpiV0JvbGoteXRYamR6Mjl0clR1cmp2elB5LU9IOUFjZzcwSXFjTXVxcy1XbmJHdGQwbjZMREhfNzRwS29Jck8zbURsQkdoTXMtZw?oc=5",
-  "title:В афганской провинции Кунар произошел взрыв возле школы"
+  "title:В афганской провинции Кунар произошел взрыв возле школы",
+  "skip:https://www.interfax.ru/russia/1132015",
+  "skip:https://tass.ru/proisshestviya/28364757",
+  "skip:https://ria.ru/20261128/zaporozhe-2134592037.html",
+  "https://www.kommersant.ru/doc/9145003",
+  "title:Два человека погибли в Запорожской области в результате удара дрона по служебному автомобилю больницы"
 ]

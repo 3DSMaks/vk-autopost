@@ -1,11 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135807-lichnost-dzhejmsa-bonda-raskryta-vpervom-tizere-robert-pattinson/",
-  "skip:https://www.film.ru/news/obyavlen-novyy-dzheyms-bond",
-  "https://www.film.ru/news/operativnoe-prodlenie-medlennyh-loshadey",
-  "title:Оперативное продление Медленных лошадей",
-  "skip:https://www.film.ru/news/medlennye-loshadi-mogut-zakonchitsya",
-  "https://variety.com/2026/artisans/news/the-odyssey-hoyte-van-hoytema-thunderstorm-imax-1236948974/",
-  "video:2026-11-16:https://variety.com/2026/artisans/news/the-odyssey-hoyte-van-hoytema-thunderstorm-imax-1236948974/",
   "title:‘The Odyssey’ Cinematographer Hoyte Van Hoytema Breaks Down Filming Climactic Thunderstorm Scene in Imax",
   "skip:https://www.kinonews.ru/article_144178/",
   "skip:https://www.kinonews.ru/news_144176/",
@@ -998,5 +991,12 @@
   "https://www.film.ru/news/fincher-o-zavershenii-karery",
   "title:Финчер о завершении карьеры",
   "https://www.film.ru/news/deni-vilnev-pro-tradicii-bonda",
-  "title:Дени Вильнев про традиции Бонда"
+  "title:Дени Вильнев про традиции Бонда",
+  "skip:https://www.playground.ru/gta_6/news/reliz_gta_vi_usugubil_defitsit_ps5_i_xbox_v_neskolkih_stranah_perekupschiki_trebuyut_za_ps5_pro_do_1900-1894574#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.playground.ru/gta_6/news/sony_india_priznala_problemu_s_vyletami_gta_vi_na_ps5_s_oshibkoj_ce_108255_1_i_nachala_rassledovanie-1894561#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://gamemag.ru/news/202333/gta-vi-prevrashchaet-konsoli-xbox-i-playstation-v-jarenye-kirpichi",
+  "skip:https://stopgame.ru/newsdata/73657/gta_vi_uvelichila_prodazhi_fizicheskih_igr_v_velikobritanii_na_409",
+  "https://gamemag.ru/news/202334/fable-playground-games-modern-britain-diverse-cast-hayley-atwell",
+  "video:2026-11-28:https://gamemag.ru/news/202334/fable-playground-games-modern-britain-diverse-cast-hayley-atwell",
+  "title:Авторы новой Fable вдохновлялись современной Великобританией — мир игры будет этнически и культурно разнообразным"
 ]

@@ -1,8 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169964/razrabotchiki-mega-man-dual-override-pokazali-dizajn-bossa-sozdannyij-fanatom/",
-  "https://www.playground.ru/final_fantasy_7_part_3/news/rejting_final_fantasy_7_revelation_v_singapure_raskryvaet_nalichie_podvodnyh_srazhenij_i_rezhima_nastrojki_personazhej-1891181#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Рейтинг Final Fantasy 7 Revelation в Сингапуре раскрывает наличие подводных сражений и режима настройки персонажей",
-  "https://www.ign.com/articles/cyberpunk-2077-mod-adds-3d-rain-effects",
   "title:Cool New Cyberpunk 2077 Mod Adds 3D Rain Effects That Catch the Light and Blow in the Wind",
   "skip:https://www.playground.ru/misc/news/intel_stolknulas_s_sudebnym_iskom_iz_za_umolchaniya_o_problemah_na_rynke_pk_pered_padeniem_aktsij-1891217#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/169976/core-keeper-i-dave-the-diver-poluchat-dvuhstoronnij-krossover-s-novyim-kontentom/",
@@ -998,5 +994,9 @@
   "title:Ажиотаж вокруг Final Fantasy 7 Revelation и Kingdom Hearts 4 подстегнул продажи старых игр Square Enix",
   "skip:https://www.pcgamer.com/games/sports/skate-is-dropping-seasons-and-season-passes-in-favor-of-regular-agile-content-updates/",
   "https://www.igromania.ru/news/170281/no-rest-for-the-wicked-gotovyat-k-otkryitomu-beta-testu-sistemyi-klassov-s-17-dekabrya-po-4-yanvarya/",
-  "title:No Rest for the Wicked готовят к открытому бета-тесту системы классов с 17 декабря по 4 января"
+  "title:No Rest for the Wicked готовят к открытому бета-тесту системы классов с 17 декабря по 4 января",
+  "skip:https://www.film.ru/news/potencialnyy-sikvel-henkoka",
+  "skip:https://kg-portal.ru/comments/136003-rezhisser-djuny-3-ne-durak-i-ponimaet-chto-konkurirovat-s-mstiteljami-doktor-dum-vrjad-li-poluchitsja/",
+  "https://www.film.ru/news/novyy-tizer-narnii-plemyannik-charodeya",
+  "title:Новый тизер Нарнии: Племянник чародея"
 ]

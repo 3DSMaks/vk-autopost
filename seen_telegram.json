@@ -1,7 +1,4 @@
 [
-  "skip:https://www.playground.ru/gta_6/news/analitiki_vyyasnili_kto_sejchas_aktivno_pokupaet_gta_6_eto_obychnye_muzhchiny_gejmery_okolo_30_let-1891385#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://gamemag.ru/news/202190/gta-6-ceo-says-this-business-has-been-largely-immune-to-piracy-concerns-but-ai-generated-recomps-are",
-  "https://www.igromania.ru/news/169996/remejk-the-legend-of-zelda-ocarina-of-time-stal-samoj-prodavaemoj-igroj-v-roznitse-ssha-v-2026-godu/",
   "title:Ремейк The Legend of Zelda: Ocarina of Time стал самой продаваемой игрой в рознице США в 2026 году",
   "skip:https://www.playground.ru/misc/news/sostoyalsya_tsifrovoj_reliz_odissei_kristofera_nolana_mirovye_sbory_filma_prevysili_1_8_mlrd-1891397#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.ign.com/articles/subway-is-releasing-a-gta-6-themed-sandwich-but-theres-a-catch",
@@ -998,5 +995,8 @@
   "skip:https://www.pcgamer.com/gaming-industry/a-purported-remake-of-the-simpsons-hit-and-run-may-have-been-scrapped-after-a-developer-says-their-project-was-part-of-a-gaggle-of-cancellations/",
   "skip:https://www.ign.com/articles/radical-entertainment-layoffs-simpsons-hit-run-remake-cancellation",
   "https://www.igromania.ru/news/170289/startovala-predzagruzka-warhammer-40000-dawn-of-war-4-standartnoj-versii-i-commander-edition/",
-  "title:Стартовала предзагрузка Warhammer 40,000: Dawn of War 4 — стандартной версии и Commander Edition"
+  "title:Стартовала предзагрузка Warhammer 40,000: Dawn of War 4 — стандартной версии и Commander Edition",
+  "skip:https://gamemag.ru/news/202335/grand-theft-auto-vi-razoshlas-tirajom-v-53-milliona-kopiy-za-pervuyu-nedelyu-alinea-analytics",
+  "https://www.igromania.ru/news/170282/polagayu-stoit-ozhidat-poyavleniya-kapitana-prajsa-rezhissyor-filma-po-call-of-duty/",
+  "title:«Полагаю, стоит ожидать появления капитана Прайса» — тизерит режиссёр фильма по Call of Duty"
 ]

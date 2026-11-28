@@ -1,7 +1,4 @@
 [
-  "https://www.playground.ru/fable_2026/news/avtory_novoj_fable_raskryli_kartu_i_masshtab_pererozhdennogo_bauerstouna-1891130#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Авторы новой Fable раскрыли карту и масштаб перерожденного Бауэрстоуна",
-  "skip:https://variety.com/2026/film/global/gerard-depardieu-drops-appeal-in-sexual-assault-case-1236948679/",
   "https://www.film.ru/news/razdacha-pochetnyh-oskarov",
   "title:Раздача почетных Оскаров",
   "skip:https://www.playground.ru/call_of_duty_world_at_war/news/odin_iz_sozdatelej_zombi_rezhima_call_of_duty_pokinul_studiyu_treyarch_posle_20_let_raboty-1891132#utm_source=rss&utm_medium=referral&utm_campaign=news",
@@ -998,5 +995,8 @@
   "title:В Lords of the Fallen 2 не придётся читать описания предметов, чтобы понять основной сюжет",
   "skip:https://www.kinonews.ru/news_144357/",
   "https://variety.com/2026/film/reviews/the-hunchback-soul-of-paris-review-1236959927/",
-  "title:‘The Hunchback, Soul of Paris’ Review: Quasimodo Gets an Origin Story, for Some Reason"
+  "title:‘The Hunchback, Soul of Paris’ Review: Quasimodo Gets an Origin Story, for Some Reason",
+  "skip:https://kg-portal.ru/comments/136007-uill-smit-uzhe-rassylaet-kljuchevym-uchastnikam-henkoka-otlichnyj-i-smeshnoj-scenarij-sikvela/",
+  "https://variety.com/2026/film/global/furies-rami-kodeih-nora-mariana-lebanon-doha-1236959954/",
+  "title:Filmmakers Behind Lebanon’s Oscar Contender ‘Furies’ on Cinema as ‘an Act of Resilience and Catharsis’"
 ]

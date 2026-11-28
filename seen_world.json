@@ -1,11 +1,4 @@
 [
-  "skip:https://ria.ru/20261125/rossija-2133854955.html",
-  "skip:https://www.interfax.ru/russia/1131308",
-  "skip:https://tass.ru/politika/28353893",
-  "skip:https://tass.ru/ekonomika/28353887",
-  "skip:https://ria.ru/20261125/bruney-2133851469.html",
-  "skip:https://www.kommersant.ru/doc/9130297",
-  "skip:https://ria.ru/20261125/sultan-2133849821.html",
   "skip:https://ria.ru/20261125/tovarooborot-2133849707.html",
   "skip:https://ria.ru/20261125/putin-2133849548.html",
   "skip:https://ria.ru/20261125/putin-2133845337.html",
@@ -998,5 +991,12 @@
   "skip:https://tass.ru/proisshestviya/28364965",
   "skip:https://ria.ru/20261128/kiev-2134610828.html",
   "https://tass.ru/proisshestviya/28365125",
-  "title:В Киеве произошла серия взрывов на фоне воздушной тревоги"
+  "title:В Киеве произошла серия взрывов на фоне воздушной тревоги",
+  "skip:https://www.aljazeera.com/news/2026/11/28/court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands?traffic_source=rss",
+  "skip:https://news.google.com/rss/articles/CBMiogFBVV95cUxQdHl1djVaZzBicnRRMjRlRWJFaERiMmxLbEU5THhvdnFoazU4VU1wWWlfY1lJMjM1ZThpaG9vR01qTVhEQ1RERENZTzRPeXRnbkQzQ28xNVFtSFFfQkxQQlBnN0d4ZnB2dmtydHVvcXRyeGFjTm1oUC1yWXV3UXM5RGo3bWNwWjJoTkFEZ3BHMUM4cF9ETDA5WEliZGNsN3k1TEE?oc=5",
+  "https://ria.ru/20261128/isk-2134620228.html",
+  "title:Международный трибунал отклонил требование Аргентины о запрете добычи нефти на Фолклендских островах",
+  "skip:https://ria.ru/20261128/iran-2134620419.html",
+  "https://www.interfax.ru/world/1132029",
+  "title:Советник верховного лидера Ирана призвал власти Ирака не действовать в интересах США"
 ]

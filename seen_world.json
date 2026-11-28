@@ -1,9 +1,4 @@
 [
-  "skip:https://ria.ru/20261125/putin-2133872953.html",
-  "skip:https://ria.ru/20261125/bruney-2133872646.html",
-  "skip:https://ria.ru/20261125/putin-2133872022.html",
-  "skip:https://tass.ru/politika/28354237",
-  "skip:https://tass.ru/politika/28354233",
   "skip:https://www.interfax.ru/business/1131328",
   "https://ria.ru/20261125/putin-2133877001.html",
   "skip:https://www.rbc.ru/photoslider/6b06db1d76b301eadc49bbec",
@@ -998,5 +993,10 @@
   "skip:https://www.aljazeera.com/news/2026/11/28/albania-police-protesters-clash-as-thousands-rally-against-the-government?traffic_source=rss",
   "skip:https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbWR1RkhnZFQ4bkwtc0RrcGR1aE9Vbjd4LW1DMFNYN2RDbk81a3lkZ3lLWnl3d05BV2RLQjAtc1JwOTBoS09iVTA2RG1RR1RFczZVOFcyOFdHaTZsTkhCSW94SnNuQkFpcC1TbEhJMzFma2k0X2dad3FQZ1NaT3BRNkF3Q296Tm96SVU0?oc=5",
   "https://www.aljazeera.com/video/newsfeed/2026/11/28/violence-erupts-at-anti-government-protests-in-albania?traffic_source=rss",
-  "title:В Албании произошли столкновения между полицией и участниками антиправительственных протестов"
+  "title:В Албании произошли столкновения между полицией и участниками антиправительственных протестов",
+  "skip:https://ria.ru/20261128/tennis-2134630716.html",
+  "skip:https://tass.ru/sport/28365185",
+  "skip:https://www.rbc.ru/sport/28/11/2026/6b0ae398857a4b4af5b20f15",
+  "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM2dBZWhNa3FkR0xpZWpOV1BnUGpjT1lzWm9uTlJ1eE42OXJhVHVTLTVMZlRYNkpTcGd6ZHZfUjRFMzVTdGRMNFFjcENzZW1qUXBsOEVDSHEzOGNTZWFldTRERzVpYWZrTTI2WF8wcGMzMUJQQjdRMXVkeDVLWnhDcllKcGZ5elhqUlE5TWhOeHAyY2JNQlNkRGlIN015ZjY0Tm1sbE1R?oc=5",
+  "title:Сборная Испании по теннису обыграла Великобританию и вышла в финал Кубка Дэвиса"
 ]

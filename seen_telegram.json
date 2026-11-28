@@ -1,8 +1,4 @@
 [
-  "skip:https://www.ign.com/articles/gta-6-new-zealand-trick-xbox-ps5-early-release-time",
-  "skip:https://www.pcgamer.com/games/grand-theft-auto/gta-6-online-multiplayer/",
-  "skip:https://gamemag.ru/news/202185/sozdatel-resident-evil-sindzi-mikami-nazval-sroki-vyhoda-svoey-sleduyushchey-igry",
-  "https://www.ign.com/articles/uks-national-health-service-is-urging-gamers-to-protect-their-hands-ahead-of-gta-6-launch",
   "title:UK’s National Health Service Is Urging Gamers to Protect Their Hands Ahead of GTA 6 Launch",
   "skip:https://www.playground.ru/blood_of_dawnwalker/news/the_blood_of_dawnwalker_poluchila_rezhim_novaya_igra_s_obnovleniem_1_2-1891422#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.igromania.ru/news/170004/the-blood-of-dawnwalker-poluchila-obnovlenie-s-novoj-igroj/",
@@ -998,5 +994,9 @@
   "title:Релиз Grand Theft Auto VI спровоцировал дефицит PlayStation 5 и Xbox Series X|S во многих странах мира",
   "skip:https://www.playground.ru/warhammer_40000_dawn_of_war_4/news/stalo_izvestno_tochnoe_vremya_vyhoda_warhammer_40_000_dawn_of_war_4_startovala_predzagruzka-1894644#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://gamemag.ru/news/202339/final-fantasy-resonance-devs-designed-the-game-with-old-school-ff-fans-in-mind-but-the-game",
-  "title:Реакция игроков на Final Fantasy Resonance превзошла все ожидания Square Enix — разработчики приятно удивлены"
+  "title:Реакция игроков на Final Fantasy Resonance превзошла все ожидания Square Enix — разработчики приятно удивлены",
+  "skip:https://www.playground.ru/phantom_blade_zero/news/phantom_blade_zero_poluchila_patch_razmerom_7_gb_snizheno_ispolzovanie_videopamyati_i_ozu-1894637#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.igromania.ru/news/170283/v-phantom-blade-zero-snizili-potreblenie-pamyati-i-uluchshili-proizvoditelnost-patch-vesit-7-gb/",
+  "https://www.playground.ru/warframe/news/pokazali_gejmplej_syuzhetnoj_glavy_warframe_tau-1894649#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Показали геймплей сюжетной главы Warframe: Tau"
 ]

@@ -1,8 +1,4 @@
 [
-  "skip:https://www.france24.com/en/americas/20261124-hostages-supermarket-colombia-cartagena-flights",
-  "skip:https://news.google.com/rss/articles/CBMixAFBVV95cUxNUklaemoxV1Blc3lnelpxZHVwbmdXYUZBVHg2M1dBUzhwcU1PNVp2STNsbWlQMU5POEpHNmFabWtzNjMyTGRwR3dVRURmbDJITXdKZHJsbGdQVkQwZ1d1dmM3cVc3RGZsUGxGbDVmeDVRQVJMZ0c2b3ZNcTdyQ08ycHlSMlNnT3dYMUJzWXZ1VXh0LWJBdkFpeDF5TjRyMk40Y0FHZDdaSWoxQjFIUGNEYlJQWEZKZl9BQ04tTnl1WXl1cElH?oc=5",
-  "https://tass.ru/proisshestviya/28351017",
-  "title:В Колумбии вооруженные преступники захватили заложников в супермаркете в Картахене",
   "skip:https://www.rbc.ru/economics/24/11/2026/6b05cfbe249338e79832beda",
   "skip:https://www.rbc.ru/politics/24/11/2026/6b05c8d341768e6b94177cbe",
   "https://www.kommersant.ru/doc/9129726",
@@ -998,5 +994,9 @@
   "title:Силы ПВО перехватили сотни беспилотников на подлете к Московскому региону",
   "skip:https://tass.ru/proisshestviya/28364335",
   "https://www.kommersant.ru/doc/9144920",
-  "title:В Австрии повторно арестовали сотрудников украинской военной разведки"
+  "title:В Австрии повторно арестовали сотрудников украинской военной разведки",
+  "skip:https://www.rbc.ru/politics/29/07/2026/6a6988759a7947c50b702977",
+  "skip:https://ria.ru/20261128/bpla-2134566551.html",
+  "https://www.interfax.ru/russia/1131982",
+  "title:Силы ПВО перехватили более 50 беспилотников над Ростовской областью и сотни дронов на подлете к Москве"
 ]

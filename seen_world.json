@@ -1,12 +1,4 @@
 [
-  "skip:https://www.interfax.ru/world/1131360",
-  "https://tass.ru/ekonomika/28354973",
-  "title:США предложили ввести новые таможенные пошлины против Китая, ЕС и других торговых партнеров",
-  "skip:https://www.france24.com/en/video/20261125-historic-space-mission-china-launches-shenzhou-24-spacecraft-carrying-pakistani-astronaut",
-  "https://www.theguardian.com/science/2026/nov/25/china-sends-first-pakistani-astronaut-into-space",
-  "title:Китай запустил космический корабль с первым иностранным астронавтом на борту к орбитальной станции",
-  "skip:https://www.kommersant.ru/doc/9130725",
-  "https://www.interfax.ru/world/1131421",
   "title:В Ормузском проливе на мине подорвался танкер с сжиженным природным газом",
   "skip:https://tass.ru/proisshestviya/28355445",
   "skip:https://ria.ru/20261125/kair-2133984076.html",
@@ -998,5 +990,13 @@
   "skip:https://ria.ru/20261128/germaniya-2134654149.html",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28365297",
   "https://www.rbc.ru/politics/28/11/2026/6b0b09ba1f36f358c114bc55",
-  "title:Германия призвала Украину соблюдать сдержанность на Балтике"
+  "title:Германия призвала Украину соблюдать сдержанность на Балтике",
+  "skip:https://www.rbc.ru/politics/28/11/2026/6b0b0f656cf30417b82fcc9e",
+  "https://tass.ru/mezhdunarodnaya-panorama/28365403",
+  "title:Германия и Украина не смогли договориться о сделке по дронам из-за таможенных сборов",
+  "skip:https://www.rbc.ru/politics/28/11/2026/6b0b0cda30a3f85ca5620ee1",
+  "skip:https://ria.ru/20261128/zelenskij-2134649827.html",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28365313",
+  "https://www.france24.com/en/ukraine-restricts-reporting-on-impact-of-russian-strikes",
+  "title:На Украине запретили СМИ сообщать о последствиях ударов по инфраструктуре"
 ]

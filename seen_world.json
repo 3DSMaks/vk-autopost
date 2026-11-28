@@ -1,9 +1,4 @@
 [
-  "skip:https://ria.ru/20261124/lipetsk-2133640455.html",
-  "skip:https://tass.ru/proisshestviya/28349873",
-  "skip:https://tass.ru/proisshestviya/28349867",
-  "https://www.rbc.ru/rbcfreenews/6b0581362ddd5d50b9c08307",
-  "title:Губернатор сообщил о пожаре на складах в особой экономической зоне «Липецк»",
   "skip:https://www.kommersant.ru/doc/9129630",
   "skip:https://www.rbc.ru/politics/24/11/2026/6b05b529be573464a4cfd804",
   "skip:https://ria.ru/20261124/putin-2133697963.html",
@@ -998,5 +993,10 @@
   "title:Владимир Путин провел встречу с губернатором Архангельской области Александром Цыбульским",
   "skip:https://tass.ru/obschestvo/28364061",
   "https://www.kommersant.ru/doc/9144899",
-  "title:Минтранс дорабатывает соглашение с Китаем о пересечении границы на личных автомобилях"
+  "title:Минтранс дорабатывает соглашение с Китаем о пересечении границы на личных автомобилях",
+  "skip:https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
+  "skip:https://www.interfax.ru/russia/1131969",
+  "skip:https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
+  "https://www.interfax.ru/world/1131970",
+  "title:Вооруженные силы США перехватили и вывели из строя коммерческое судно в Оманском заливе"
 ]

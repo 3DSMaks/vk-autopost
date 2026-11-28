@@ -1,12 +1,4 @@
 [
-  "skip:https://ria.ru/20261125/putin-2133989523.html",
-  "skip:https://tass.ru/politika/28355521",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28355517",
-  "skip:https://ria.ru/20261125/putin-2133989282.html",
-  "skip:https://ria.ru/20261125/tokaev-2133989180.html",
-  "skip:https://ria.ru/20261125/tokaev-2133988708.html",
-  "skip:https://tass.ru/politika/28355497",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28355503",
   "skip:https://tass.ru/politika/28355493",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28355501",
   "skip:https://tass.ru/ekonomika/28355489",
@@ -998,5 +990,13 @@
   "skip:https://ria.ru/20261128/vnukovo-2134656552.html",
   "skip:https://tass.ru/ekonomika/28365425",
   "skip:https://ria.ru/20261128/kaluga-2134649533.html",
-  "https://ria.ru/20261128/ogranicheniya-2134660596.html"
+  "https://ria.ru/20261128/ogranicheniya-2134660596.html",
+  "skip:https://www.interfax.ru/world/1132044",
+  "skip:https://ria.ru/20261128/albanija-2134658544.html",
+  "https://www.kommersant.ru/doc/9145133",
+  "skip:https://tass.ru/proisshestviya/28365441",
+  "skip:https://www.kommersant.ru/doc/9145131",
+  "skip:https://tass.ru/proisshestviya/28365415",
+  "https://www.rbc.ru/rbcfreenews/6b0b2beed263488673772229",
+  "title:В Карелии задержали подозреваемого в убийстве 14-летней школьницы"
 ]

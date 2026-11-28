@@ -1,8 +1,4 @@
 [
-  "https://www.playground.ru/gta_6/news/po_otsenkam_analitikov_predzakazy_gta_6_dostigli_15_millionov_kopij-1891138#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:По оценкам аналитиков, предзаказы GTA 6 достигли 15 миллионов копий",
-  "skip:https://www.igromania.ru/news/169971/dark-souls-poluchila-mod-s-trassirovkoj-puti-no-ne-vse-gejmeryi-zametili-raznitsu/",
-  "skip:https://www.playground.ru/dark_souls/news/originalnaya_dark_souls_poluchila_rtx_remix_s_trassirovkoj_putej_uluchshennymi_teksturami_effektami_i_podderzhkoj_dlss_5-1891127#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://gamemag.ru/news/202172/ft-djensen-huang-mojet-vernutsya-na-post-glavy-nvidia",
   "https://www.ign.com/articles/marvels-wolverine-ps5-black-friday-deal",
   "title:Marvel’s Wolverine Drops to $50 on PS5 for Black Friday in First Sale Since Launch",
@@ -998,5 +994,9 @@
   "https://variety.com/2026/film/markets-festivals/indonesian-body-horror-primal-jaff-market-1236959958/",
   "title:Indonesian Body Horror ‘Primal’ Turns a Mother’s Grief Monstrous at JAFF Market",
   "https://kg-portal.ru/comments/136008-sledujuschij-gollivudskij-film-dzhonni-deppa-predlozhit-nam-krovavoe-nasilie-grjaznye-vyrazhenija-i-nemnozhko-veschestv/",
-  "title:Следующий голливудский фильм Джонни Деппа предложит нам кровавое насилие, грязные выражения и немножко веществ"
+  "title:Следующий голливудский фильм Джонни Деппа предложит нам кровавое насилие, грязные выражения и немножко веществ",
+  "skip:https://www.playground.ru/doom_2016/news/igrat_v_call_of_duty_s_demonami_eto_veselo_eks_programmist_id_software_vspomnil_otmenyonnuyu_doom_4-1894587#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "skip:https://www.pcgamer.com/games/fps/the-cancelled-doom-4-was-actually-a-fun-game-according-to-a-former-id-software-developer-but-it-had-one-big-problem/",
+  "https://www.igromania.ru/news/170289/startovala-predzagruzka-warhammer-40000-dawn-of-war-4-standartnoj-versii-i-commander-edition/",
+  "title:Стартовала предзагрузка Warhammer 40,000: Dawn of War 4 — стандартной версии и Commander Edition"
 ]

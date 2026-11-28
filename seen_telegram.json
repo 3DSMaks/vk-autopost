@@ -1,7 +1,4 @@
 [
-  "title:Cool New Cyberpunk 2077 Mod Adds 3D Rain Effects That Catch the Light and Blow in the Wind",
-  "skip:https://www.playground.ru/misc/news/intel_stolknulas_s_sudebnym_iskom_iz_za_umolchaniya_o_problemah_na_rynke_pk_pered_padeniem_aktsij-1891217#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169976/core-keeper-i-dave-the-diver-poluchat-dvuhstoronnij-krossover-s-novyim-kontentom/",
   "skip:https://www.pcgamer.com/hardware/processors/intel-hit-with-class-action-alleging-it-misled-investors-companys-recent-downturn-due-in-part-to-how-darn-expensive-pcs-are-right-now/",
   "https://gamemag.ru/news/202170/razrabotchiki-tomb-raider-legacy-of-atlantis-skorrektirovali-sistemnye-trebovaniya",
   "video:2026-11-16:https://gamemag.ru/news/202170/razrabotchiki-tomb-raider-legacy-of-atlantis-skorrektirovali-sistemnye-trebovaniya",
@@ -998,5 +995,8 @@
   "skip:https://www.film.ru/news/potencialnyy-sikvel-henkoka",
   "skip:https://kg-portal.ru/comments/136003-rezhisser-djuny-3-ne-durak-i-ponimaet-chto-konkurirovat-s-mstiteljami-doktor-dum-vrjad-li-poluchitsja/",
   "https://www.film.ru/news/novyy-tizer-narnii-plemyannik-charodeya",
-  "title:Новый тизер Нарнии: Племянник чародея"
+  "title:Новый тизер Нарнии: Племянник чародея",
+  "skip:https://www.igromania.ru/news/170287/sozdateli-yooka-laylee-and-the-impossible-lair-obyasnili-pochemu-definitive-edition-propustit-xbox/",
+  "https://www.playground.ru/silent_hill_3/news/vyshla_silent_hill_3_definitive_edition_fanatskij_remaster_s_directx_12_dlss_fsr_i_trassirovkoj_luchej-1894551#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:Вышла Silent Hill 3: Definitive Edition - фанатский ремастер с DirectX 12, DLSS, FSR и трассировкой лучей"
 ]

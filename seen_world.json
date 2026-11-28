@@ -1,15 +1,4 @@
 [
-  "skip:https://ria.ru/20261125/sud-2133824486.html",
-  "skip:https://tass.ru/proisshestviya/28353189",
-  "skip:https://www.interfax.ru/russia/1131264",
-  "skip:https://www.kommersant.ru/doc/9130088",
-  "skip:https://tass.ru/proisshestviya/28353161",
-  "skip:https://ria.ru/20261125/peskov-2133823176.html",
-  "skip:https://tass.ru/politika/28353133",
-  "skip:https://ria.ru/20261125/chibis-2133820036.html",
-  "https://tass.ru/proisshestviya/28348341",
-  "title:Губернатор Мурманской области Андрей Чибис арестован по делу о растрате и взятке",
-  "skip:https://www.kommersant.ru/doc/9130148",
   "https://www.rbc.ru/technology_and_media/25/11/2026/6b06a8e1a931f9010f3a5f0c",
   "title:Суд в США признал китайскую компанию Huawei виновной в краже коммерческой тайны",
   "skip:https://www.france24.com/en/europe/20261125-surprise-eurostar-strike-cancels-london-paris-and-brussels-trains",
@@ -998,5 +987,16 @@
   "skip:https://tass.ru/armiya-i-opk/28364953",
   "skip:https://tass.ru/armiya-i-opk/28364949",
   "https://ria.ru/20261128/belousov-2134611499.html",
-  "title:Министр обороны РФ Андрей Белоусов вручил орден Суворова 45-й бригаде спецназа ВДВ"
+  "title:Министр обороны РФ Андрей Белоусов вручил орден Суворова 45-й бригаде спецназа ВДВ",
+  "skip:https://tass.ru/proisshestviya/28364987",
+  "skip:https://ria.ru/20261128/afganistan-2134610436.html",
+  "skip:https://tass.ru/proisshestviya/28364959",
+  "skip:https://www.kommersant.ru/doc/9145035",
+  "https://ria.ru/20261128/chislo-2134613382.html",
+  "title:Число жертв взрыва в школе в Афганистане возросло до десяти",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28364993",
+  "skip:https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+  "skip:https://www.theguardian.com/uk-news/2026/nov/28/argentina-oil-drilling-falkland-islands-international-tribunal",
+  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3hjQTNoX2pxajBibUllQTZYdlRMUE5YUWt6bUpZZGxEOHdWRGxQcUV2cWJENHhzNVJUWmlWZWI2NHlJMG55SkZkaGl1c1hVbHhubHBsRkxlMWxHblJqdERKUHlxTTlJMmVOR0lhYzU5OHQweF9HMkp4a0s2R2tjUTR1bUZvRFl2djFINVIwd2hTRUdqdmRTUGZPOWpLdTVFMm4zS0RqaVo3U2xWN1YzSDg4TVgwLW92Y19tdVBhTW9tQQ?oc=5",
+  "title:Международный трибунал отклонил иск Аргентины о приостановке нефтедобычи у Мальвинских островов"
 ]

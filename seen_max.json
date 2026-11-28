@@ -1,7 +1,4 @@
 [
-  "skip:https://www.film.ru/news/nehvatka-deneg-na-trikvel-28-let-spustya",
-  "https://variety.com/2026/film/box-office/johnny-depp-ebenezer-ramayana-godzilla-minus-zero-global-box-office-1236948618/",
-  "title:Johnny Depp’s ‘Ebenezer,’ ‘Ramayana’ Dominate Global Box Office as ‘Godzilla Minus Zero’ Crosses $100 Million",
   "skip:https://kg-portal.ru/comments/135803-kris-pratt-vsjacheski-odobrjaet-ideju-vozvraschenija-dzhejmsa-ganna-k-rezhissure-strazhej-galaktiki-4/",
   "https://www.kinonews.ru/news_144169/",
   "title:Съемки \"Бэтмена 2\" с Робертом Паттинсоном вновь затягиваются",
@@ -998,5 +995,8 @@
   "skip:https://www.film.ru/news/kogda-znakomstvo-s-fakerami-4-vyydet-onlayn",
   "skip:https://www.film.ru/news/golodnye-igry-lidiruyut-v-rossii",
   "https://www.film.ru/news/fincher-o-zavershenii-karery",
-  "title:Финчер о завершении карьеры"
+  "title:Финчер о завершении карьеры",
+  "skip:https://www.kinonews.ru/news_144368/",
+  "https://www.film.ru/news/novyy-tizer-narnii-plemyannik-charodeya",
+  "title:Новый тизер Нарнии: Племянник чародея"
 ]

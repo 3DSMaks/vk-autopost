@@ -1,11 +1,4 @@
 [
-  "https://www.rbc.ru/politics/24/11/2026/6b057c872ac3358e9a2216db",
-  "title:Владимир Путин исключил режиссера Александра Сокурова из состава Совета по правам человека",
-  "skip:https://www.interfax.ru/russia/1131043",
-  "skip:https://www.kommersant.ru/doc/9129347",
-  "https://www.kommersant.ru/doc/9129370",
-  "title:Режиссер Александр Сокуров исключен из Совета по правам человека при президенте РФ",
-  "skip:https://tass.ru/obschestvo/28349927",
   "skip:https://ria.ru/20261124/lipetsk-2133640455.html",
   "skip:https://tass.ru/proisshestviya/28349873",
   "skip:https://tass.ru/proisshestviya/28349867",
@@ -998,5 +991,12 @@
   "https://ria.ru/20261128/bpla-2134557814.html",
   "skip:https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
   "https://www.kommersant.ru/doc/9144903",
-  "title:Высший уголовный суд Хорватии отменил решение о выдаче Германии подозреваемого в подрыве «Северных потоков»"
+  "title:Высший уголовный суд Хорватии отменил решение о выдаче Германии подозреваемого в подрыве «Северных потоков»",
+  "skip:https://www.kommersant.ru/doc/9144634",
+  "skip:https://ria.ru/20261128/dorogi-2134554072.html",
+  "https://www.interfax.ru/russia/1131968",
+  "title:Владимир Путин провел встречу с губернатором Архангельской области Александром Цыбульским",
+  "skip:https://tass.ru/obschestvo/28364061",
+  "https://www.kommersant.ru/doc/9144899",
+  "title:Минтранс дорабатывает соглашение с Китаем о пересечении границы на личных автомобилях"
 ]

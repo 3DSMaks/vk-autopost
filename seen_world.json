@@ -1,10 +1,4 @@
 [
-  "skip:https://tass.ru/politika/28355493",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28355501",
-  "skip:https://tass.ru/ekonomika/28355489",
-  "skip:https://ria.ru/20261125/raschet-2133987824.html",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28355475",
-  "skip:https://tass.ru/ekonomika/28355471",
   "skip:https://tass.ru/ekonomika/28355467",
   "skip:https://tass.ru/politika/28355465",
   "skip:https://ria.ru/20261125/putin-2133987389.html",
@@ -998,5 +992,11 @@
   "skip:https://www.kommersant.ru/doc/9145131",
   "skip:https://tass.ru/proisshestviya/28365415",
   "https://www.rbc.ru/rbcfreenews/6b0b2beed263488673772229",
-  "title:В Карелии задержали подозреваемого в убийстве 14-летней школьницы"
+  "title:В Карелии задержали подозреваемого в убийстве 14-летней школьницы",
+  "skip:https://tass.ru/ekonomika/28365411",
+  "https://www.rbc.ru/society/28/11/2026/6b0b00d219819775a8ef287c",
+  "title:Mercedes-Benz предложит сотрудникам компенсацию до 422 тысяч евро за добровольное увольнение",
+  "skip:https://news.google.com/rss/articles/CBMixAFBVV95cUxQdW5WWDBYMTVYNE5hYUdseDZ5U09jbmFVd2JUMFhHbXdKeGpnR0RwMWNidG83MEg2dkpWc1p1T25nVzdDQnNCNUc2TGFsUlh3STB0dDJfdU1KU1M2MnhfQlpKMUhPVXZKQUVsWEoxRnJRUkVNRnRhSUJFTEU4Z01ET0ljWGFvb3JVVlFUcjJGVURaNW5TWkRhc2ZLTS1RNFY1OGMxXzVyWEI5NkJYaWQ5TnRlZUtYWUtXMUxlaWRFZ1lDUjlL?oc=5",
+  "https://www.france24.com/en/france/20261128-france-and-seven-other-countries-call-for-palestinian-elections-in-early-2027",
+  "title:Восемь стран призвали Палестинскую автономию провести выборы в начале 2027 года"
 ]

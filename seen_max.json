@@ -1,8 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135800-skrudzh-s-dzhonni-deppom-pobedil-novinki-i-dazhe-nedavnjuju-godzillu/",
-  "skip:https://www.film.ru/news/skrudzh-s-dzhonni-deppom-pokoril-prokat",
-  "https://www.kinonews.ru/news_144170/",
-  "title:Энтони Маки сравнил Сэма Уилсона с Человеком-пауком",
   "skip:https://www.film.ru/news/nehvatka-deneg-na-trikvel-28-let-spustya",
   "https://variety.com/2026/film/box-office/johnny-depp-ebenezer-ramayana-godzilla-minus-zero-global-box-office-1236948618/",
   "title:Johnny Depp’s ‘Ebenezer,’ ‘Ramayana’ Dominate Global Box Office as ‘Godzilla Minus Zero’ Crosses $100 Million",
@@ -998,5 +994,9 @@
   "skip:https://www.kinonews.ru/news_144358/",
   "skip:https://variety.com/2026/film/global/denis-villeneuve-disappointed-dune-3-avengers-doomsday-release-same-day-1236959503/",
   "https://variety.com/2026/film/box-office/box-office-hunger-games-sunrise-reaping-thanksgiving-1236959537/",
-  "title:Thanksgiving Box Office: ‘Hunger Games: Sunrise on the Reaping’ Rules With $11.6 Million, ‘Focker-in-Law’ Follows With $7.7 Million"
+  "title:Thanksgiving Box Office: ‘Hunger Games: Sunrise on the Reaping’ Rules With $11.6 Million, ‘Focker-in-Law’ Follows With $7.7 Million",
+  "skip:https://www.film.ru/news/kogda-znakomstvo-s-fakerami-4-vyydet-onlayn",
+  "skip:https://www.film.ru/news/golodnye-igry-lidiruyut-v-rossii",
+  "https://www.film.ru/news/fincher-o-zavershenii-karery",
+  "title:Финчер о завершении карьеры"
 ]

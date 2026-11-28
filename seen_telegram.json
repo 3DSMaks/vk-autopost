@@ -1,7 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_144176/",
-  "https://www.film.ru/news/odisseya-oficialno-v-seti",
-  "title:Одиссея официально в Сети",
   "skip:https://kg-portal.ru/comments/135820-postery-filma-chelovekpauk-novyj-den/",
   "skip:https://www.kinonews.ru/news_144184/",
   "skip:https://www.kinonews.ru/news_144174/",
@@ -998,5 +995,8 @@
   "video:2026-11-28:https://gamemag.ru/news/202334/fable-playground-games-modern-britain-diverse-cast-hayley-atwell",
   "title:Авторы новой Fable вдохновлялись современной Великобританией — мир игры будет этнически и культурно разнообразным",
   "https://www.film.ru/news/golodnye-igry-lidiruyut-v-rossii",
-  "title:Голодные игры лидируют в России"
+  "title:Голодные игры лидируют в России",
+  "skip:https://www.pcgamer.com/games/fps/the-cancelled-doom-4-was-actually-a-fun-game-according-to-a-former-id-software-developer-but-it-had-one-big-problem/",
+  "https://www.igromania.ru/news/170286/v-lords-of-the-fallen-2-ne-pridyotsya-chitat-opisaniya-predmetov-chtobyi-ponyat-osnovnoj-syuzhet/",
+  "title:В Lords of the Fallen 2 не придётся читать описания предметов, чтобы понять основной сюжет"
 ]

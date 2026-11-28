@@ -1,8 +1,4 @@
 [
-  "skip:https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/",
-  "skip:https://deadline.com/2026/11/robert-pattinson-james-bond-role-amazon-mgm-studios-1237225184/",
-  "skip:https://www.film.ru/news/operativnoe-prodlenie-medlennyh-loshadey",
-  "https://www.film.ru/news/treyler-seriala-arsenev",
   "title:Трейлер сериала Арсеньев",
   "skip:https://kg-portal.ru/comments/135804-u-denni-bojla-est-vse-chtoby-snjat-tretju-chast-zombihorrora-28-let-spustja-no-deneg-ne-dajut/",
   "https://kg-portal.ru/comments/135807-lichnost-dzhejmsa-bonda-raskryta-vpervom-tizere-robert-pattinson/",
@@ -998,5 +994,9 @@
   "title:Ubisoft назвала слова о AAAA-статусе Skull and Bones рекламным преувеличением",
   "skip:https://www.playground.ru/phantom_blade_zero/news/phantom_blade_zero_poluchila_patch_razmerom_7_gb_snizheno_ispolzovanie_videopamyati_i_ozu-1894637#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "https://gamemag.ru/news/202335/grand-theft-auto-vi-razoshlas-tirajom-v-53-milliona-kopiy-za-pervuyu-nedelyu-alinea-analytics",
-  "title:Grand Theft Auto VI разошлась тиражом в 53 миллиона копий за первую неделю — Alinea Analytics"
+  "title:Grand Theft Auto VI разошлась тиражом в 53 миллиона копий за первую неделю — Alinea Analytics",
+  "skip:https://kg-portal.ru/comments/136003-rezhisser-djuny-3-ne-durak-i-ponimaet-chto-konkurirovat-s-mstiteljami-doktor-dum-vrjad-li-poluchitsja/",
+  "skip:https://deadline.com/2026/11/bob-greenblatt-talks-challenge-launching-new-shows-today-1237234508/",
+  "https://deadline.com/2026/11/macys-thanksgiving-parade-broadway-medley-1237234533/",
+  "title:Broadway Gets Speed-Dating-Style Tribute At Macy’s Thanksgiving Day Parade"
 ]

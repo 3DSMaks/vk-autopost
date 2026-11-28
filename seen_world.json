@@ -1,11 +1,4 @@
 [
-  "title:Запорожская АЭС перешла на резервное электроснабжение после потери внешнего питания",
-  "skip:https://news.google.com/rss/articles/CBMirwFBVV95cUxQYWxiYkU2dDI4WjRoOUdyaDN0RDQ3MGR2b1k2aUdmQ3dseXVrQkpwSjlIb1NtbzRZbENaYnJfODJKN0pMV2VBMUx3NHZQZWEtUTh3VlRSVWNzMUhHdklzTlZlM1BmSkktbXpUVFhjTlNqY2pUdGpRbUV6bVdpdV9BWDYtQld1MDExX1BNTUt6YVRtSm81LU9VTXV3MF9GOHpMNTJHcVFSanlJWUVkWE1J?oc=5",
-  "skip:https://www.theguardian.com/money/2026/nov/25/energy-bills-in-great-britain-to-rise-ofgem-price-cap",
-  "https://tass.ru/ekonomika/28352507",
-  "title:В Великобритании счета за свет и газ в начале 2027 года вырастут на 26 процентов",
-  "skip:https://www.rbc.ru/society/25/11/2026/6b0697f364dabb8c26692f76",
-  "https://www.kommersant.ru/doc/9130076",
   "title:Следствие ходатайствует об аресте губернатора Мурманской области Андрея Чибиса по обвинению в растрате и взятке",
   "skip:https://www.interfax.ru/russia/1131238",
   "https://www.kommersant.ru/doc/9130071",
@@ -998,5 +991,12 @@
   "skip:https://ria.ru/20261128/arest-2134604009.html",
   "skip:https://tass.ru/proisshestviya/28364797",
   "https://tass.ru/proisshestviya/28364895",
-  "title:В Вологодской области арестовали родителей умершей от истощения девочки"
+  "title:В Вологодской области арестовали родителей умершей от истощения девочки",
+  "skip:https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+  "https://www.france24.com/en/israeli-strike-kills-two-doctors-without-borders-staff-in-gaza",
+  "title:Израильский удар по клинике в Газе привел к гибели сотрудников «Врачей без границ»",
+  "skip:https://www.theguardian.com/australia-news/2026/nov/28/victoria-election-2026-winner-announced-who-won-poll-win-coalition-labor-victorian-state-results",
+  "skip:https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOUp5SW1BR0dXaTY3Mmgwa2RyaHp5ODl3bENXUm1jaXhBQ3ZzUGIzTFlCVFhKdGJQUTczVXRZSXRXVmcwdUV6QTN5bGU0OEI3X1RkTW1GdjhrSHliN1BTSlMxQlFVclYzQlB0UUdBLXpXaklfRTl5M3NKUzBZUHAwUE1vdVJBV3A0MTBtU1l5Zm0xeGpERXlhMTdMUjVSOGFjenBfNWhVTXM0aHc0TnNDNnh1OWZiZjhfUXlXRXUtSGhKYkU?oc=5",
+  "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
+  "title:Джесс Уилсон одержала победу на выборах премьер-министра штата Виктория в Австралии"
 ]

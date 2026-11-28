@@ -1,8 +1,4 @@
 [
-  "skip:https://www.interfax.ru/russia/1131334",
-  "https://tass.ru/mezhdunarodnaya-panorama/28354317",
-  "title:Президент Казахстана Касым-Жомарт Токаев прибыл с рабочим визитом в Москву",
-  "skip:https://www.interfax.ru/world/1131370",
   "skip:https://www.interfax.ru/world/1131369",
   "skip:https://ria.ru/20261125/odessa-2133902703.html",
   "skip:https://ria.ru/20261125/voennye-2133902526.html",
@@ -998,5 +994,9 @@
   "title:Сборная Испании по теннису обыграла Великобританию и вышла в финал Кубка Дэвиса",
   "skip:https://news.google.com/rss/articles/CBMimwFBVV95cUxQcEhWdmg3Qk02QTJudW5iazY2X21peHNBNG5rTWw5NjJtR29pQVNPVDJ1NVBmOGFkc0hxRmRvVUNVQlFKWWZqLUx3TkFPM1dXczk0b2xWSm9WMmtpQXdBaTFHNklRQVlNa1NacmRJWGF3dmxGTlhpUmdsT3RDdTFVaWJrWGtmdS1pTTZmQ0c1UUJQRkR0RWVVcTVmaw?oc=5",
   "https://www.rbc.ru/society/28/11/2026/6b0af12a1f36f358c114bc3c",
-  "title:В столице Албании прошли столкновения участников протестов с полицией"
+  "title:В столице Албании прошли столкновения участников протестов с полицией",
+  "skip:https://www.interfax.ru/russia/1132037",
+  "skip:https://tass.ru/proisshestviya/28365317",
+  "https://ria.ru/20261128/vsu-2134645092.html",
+  "title:Три человека погибли в результате удара по Луганску"
 ]

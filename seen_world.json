@@ -1,11 +1,4 @@
 [
-  "https://tass.ru/politika/28353965",
-  "skip:https://www.rbc.ru/politics/25/11/2026/6b06c39476b4eed1329dac9a",
-  "https://www.interfax.ru/world/1131305",
-  "title:Польша предложила НАТО изучить возможность перехвата ракет над Украиной",
-  "skip:https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXB4bkpfdVM2Rkh0NTZKZmIxOHJkOEZGMnNkdy1mVHl5T2NTSmxzQVUzUHd4eHBKeFFKQU5DUnFmTG9neTRHakJCSkF2aTk3eUlPdEVZMWI2YUVGZjBoTTVjQkJqc3hmUW9ua2JQR3BsTHVKSDdoWU5oOE1qUC1hdkhYZVZRdFNMbEc2WWtQaXJHYkNxMmxPU2ZLU0EyQ0hxb2JEZjZUWEtRYXFSUUVKSm56MlZRdkMzWmlvRnBNbkc?oc=5",
-  "https://www.interfax.ru/world/1131325",
-  "title:Еврокомиссия предложила создать технологический фонд на 50 млрд евро",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28354343",
   "skip:https://tass.ru/politika/28354293",
   "skip:https://tass.ru/ekonomika/28354295",
@@ -998,5 +991,12 @@
   "title:Советник верховного лидера Ирана призвал власти Ирака не действовать в интересах США",
   "skip:https://tass.ru/proisshestviya/28365127",
   "https://ria.ru/20261128/zemletrjasenie-2134620988.html",
-  "title:У берегов Камчатки произошло землетрясение магнитудой 6,2"
+  "title:У берегов Камчатки произошло землетрясение магнитудой 6,2",
+  "skip:https://ria.ru/20261128/turisty-2134632629.html",
+  "skip:https://ria.ru/20261128/zemletryasenie-2134628173.html",
+  "https://www.rbc.ru/rbcfreenews/6b0ae26b14224d589204382c",
+  "title:На Камчатке произошло землетрясение магнитудой 6,2",
+  "skip:https://tass.ru/mezhdunarodnaya-panorama/28365205",
+  "https://ria.ru/20261128/aes-2134632466.html",
+  "title:Первый блок АЭС Бушер повторно подключили к энергосети Ирана"
 ]

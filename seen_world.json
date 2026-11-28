@@ -1,13 +1,4 @@
 [
-  "title:Вооруженные преступники захватили заложников в супермаркете в Картахене",
-  "skip:https://tass.ru/proisshestviya/28351097",
-  "skip:https://ria.ru/20261124/turtsiya-2133719387.html",
-  "https://www.kommersant.ru/doc/9129740",
-  "title:В Турции при крушении военного вертолета погибли пять человек",
-  "skip:https://tass.ru/ekonomika/28351199",
-  "https://ria.ru/20261124/kaluga-2133727932.html",
-  "title:В аэропорту Калуги ввели временные ограничения на полеты",
-  "skip:https://tass.ru/proisshestviya/28351169",
   "skip:https://www.rbc.ru/politics/24/11/2026/6b05c7136ebc0591b7bbf116",
   "https://ria.ru/20261124/prokuratura-2133727560.html",
   "title:Бывшему главе Тамбовской области Максиму Егорову запросили 14 лет колонии по делу о взятках",
@@ -998,5 +989,14 @@
   "skip:https://www.rbc.ru/politics/28/11/2026/6b0a715e56f5d9afadedddb4",
   "skip:https://ria.ru/20261128/bpla-2134574870.html",
   "https://www.kommersant.ru/doc/9144967",
-  "title:США отразили атаку беспилотников на авиабазу Лейкенхит в Великобритании"
+  "title:США отразили атаку беспилотников на авиабазу Лейкенхит в Великобритании",
+  "skip:https://www.kommersant.ru/doc/9144955",
+  "skip:https://www.france24.com/en/europe/20261128-live-ukraine-downs-russian-drone-with-laser-technology-as-moscow-intercepts-overnight-assault",
+  "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVUhoaFdkUkNnYk9wZHlFSGtuU1pyVFFULU1LdEJpNXRJbTZveWdTWWtzSWdfVlVtZlBWLXlYYkQ3LXlDLTBHN3JtbHNVcnFRem1LT25YQm9vRHJDTG9yQXhXWlBTRVpIb0VWN1ZQd0pwSXJITUtNQnpiTks5eVpYek43Z0UwUGRLeDduWlp3TXZvR1ZWVll2UnlROE9Na1M1YTFHendLaFdnTjYzVDlHVGE5MU5UMWM?oc=5",
+  "title:Минобороны РФ отчиталось о перехвате более тысячи украинских беспилотников за ночь",
+  "skip:https://www.kommersant.ru/doc/9144949",
+  "skip:https://www.interfax.ru/russia/1131999",
+  "skip:https://ria.ru/20261128/vsu-2134578354.html",
+  "https://www.rbc.ru/rbcfreenews/6b0a8101cd1aaca23eb91a39",
+  "title:В Самарской области отразили атаку беспилотников на промышленные объекты"
 ]

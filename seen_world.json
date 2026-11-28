@@ -1,7 +1,4 @@
 [
-  "https://www.rbc.ru/politics/24/11/2026/6b05b828e8652ddeb187966f",
-  "title:Владимир Путин провел заседание комиссии по вопросам ТЭК и заявил о неизбежном ответе на удары по энергетике",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28350913",
   "skip:https://ria.ru/20261124/lukashenko-2133707730.html",
   "https://www.rbc.ru/politics/24/11/2026/6b05c58a8cc5a656c074432f",
   "title:Президент Белоруссии Александр Лукашенко заявил, что Россия побеждает в конфликте на Украине военным путем",
@@ -998,5 +995,8 @@
   "skip:https://ria.ru/20261128/ogranicheniya-2134560868.html",
   "skip:https://tass.ru/ekonomika/28364191",
   "https://ria.ru/20261128/ogranicheniya-2134562230.html",
-  "title:В ряде российских аэропортов ввели временные ограничения на полеты"
+  "title:В ряде российских аэропортов ввели временные ограничения на полеты",
+  "skip:https://www.interfax.ru/world/1131975",
+  "https://tass.ru/mezhdunarodnaya-panorama/28364281",
+  "title:США передислоцируют силы с объектов в Бахрейне на базы в Израиль и Иорданию"
 ]

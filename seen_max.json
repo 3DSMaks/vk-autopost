@@ -1,6 +1,4 @@
 [
-  "title:Медленные лошади могут закончиться",
-  "skip:https://www.igromania.ru/news/169968/gta-6-poluchila-vtoroj-doreliznyij-patch/",
   "skip:https://www.playground.ru/gta_6/news/dlya_gta_6_vyshel_esche_odin_nebolshoj_patch_razmerom_602_mb_do_reliza_igry_ostayotsya_neskolko_dnej-1891112#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.playground.ru/gta_6/news/byvshij_issledovatel_rockstar_rasskazal_kak_razrabotchiki_gta_vnedryalis_v_bandy_radi_realizma-1891111#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "skip:https://www.ign.com/articles/rockstars-real-life-grand-theft-auto-research",
@@ -998,5 +996,7 @@
   "https://www.kinonews.ru/news_144367/",
   "title:Дени Вильнев раскритиковал Фрэнка Герберта за образ Чани в \"Дюне\"",
   "https://www.film.ru/news/yanvarskiy-final-zolotogo-dna",
-  "title:Январский финал Золотого дна"
+  "title:Январский финал Золотого дна",
+  "https://www.kinonews.ru/news_144369/",
+  "title:Режиссер \"Обсессии\" придумал продолжение хоррора"
 ]

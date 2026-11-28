@@ -1,13 +1,4 @@
 [
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28354343",
-  "skip:https://tass.ru/politika/28354293",
-  "skip:https://tass.ru/ekonomika/28354295",
-  "skip:https://tass.ru/politika/28354283",
-  "skip:https://ria.ru/20261125/sultan-2133874804.html",
-  "skip:https://ria.ru/20261125/putin-2133874461.html",
-  "skip:https://ria.ru/20261125/peregovory-2133874071.html",
-  "skip:https://ria.ru/20261125/putin-2133873771.html",
-  "skip:https://ria.ru/20261125/putin-2133873063.html",
   "skip:https://ria.ru/20261125/putin-2133872953.html",
   "skip:https://ria.ru/20261125/bruney-2133872646.html",
   "skip:https://ria.ru/20261125/putin-2133872022.html",
@@ -998,5 +989,14 @@
   "title:На Камчатке произошло землетрясение магнитудой 6,2",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28365205",
   "https://ria.ru/20261128/aes-2134632466.html",
-  "title:Первый блок АЭС Бушер повторно подключили к энергосети Ирана"
+  "title:Первый блок АЭС Бушер повторно подключили к энергосети Ирана",
+  "skip:https://www.kommersant.ru/doc/9145095",
+  "skip:https://www.interfax.ru/russia/1132031",
+  "skip:https://tass.ru/armiya-i-opk/28365195",
+  "https://www.rbc.ru/politics/28/11/2026/6b0ae75cebf1249c67529edd",
+  "title:ВС РФ нанесли удары по электроподстанции в Киеве и теплоэлектроцентрали в Киевской области",
+  "skip:https://www.aljazeera.com/news/2026/11/28/albania-police-protesters-clash-as-thousands-rally-against-the-government?traffic_source=rss",
+  "skip:https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbWR1RkhnZFQ4bkwtc0RrcGR1aE9Vbjd4LW1DMFNYN2RDbk81a3lkZ3lLWnl3d05BV2RLQjAtc1JwOTBoS09iVTA2RG1RR1RFczZVOFcyOFdHaTZsTkhCSW94SnNuQkFpcC1TbEhJMzFma2k0X2dad3FQZ1NaT3BRNkF3Q296Tm96SVU0?oc=5",
+  "https://www.aljazeera.com/video/newsfeed/2026/11/28/violence-erupts-at-anti-government-protests-in-albania?traffic_source=rss",
+  "title:В Албании произошли столкновения между полицией и участниками антиправительственных протестов"
 ]

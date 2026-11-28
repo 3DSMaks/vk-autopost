@@ -1,7 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135818-ostansja-trejler/",
-  "skip:https://kg-portal.ru/comments/135803-kris-pratt-vsjacheski-odobrjaet-ideju-vozvraschenija-dzhejmsa-ganna-k-rezhissure-strazhej-galaktiki-4/",
-  "https://variety.com/2026/film/news/cliff-booth-first-reactions-brad-pitt-fincher-tarantino-1236948975/",
   "title:‘Cliff Booth’ First Reactions: Brad Pitt’s Sequel Is an ‘Absolute Triumph’ and a ‘Wildly Entertaining’ ‘Love Letter’ to Hollywood",
   "skip:https://www.igromania.ru/news/169994/10-let-do-itaki-i-4-mesyatsa-do-reliza-v-tsifre-odisseyu-kristofera-nolana-teper-mozhno-smotret-doma/",
   "https://www.ign.com/articles/gta-6-gets-new-screenshots-highlighting-leonidas-dynamic-weather",
@@ -998,5 +995,8 @@
   "title:\"Играть в Call of Duty с демонами - это весело\": экс-программист id Software вспомнил отменённую Doom 4",
   "skip:https://www.kinonews.ru/news_144368/",
   "https://kg-portal.ru/comments/136007-uill-smit-uzhe-rassylaet-kljuchevym-uchastnikam-henkoka-otlichnyj-i-smeshnoj-scenarij-sikvela/",
-  "title:Уилл Смит уже рассылает ключевым участникам \"Хэнкока\" отличный и смешной сценарий сиквела"
+  "title:Уилл Смит уже рассылает ключевым участникам \"Хэнкока\" отличный и смешной сценарий сиквела",
+  "https://stopgame.ru/newsdata/73663/ubisoft_nazvala_slova_o_aaaa_statuse_skull_and_bones_reklamnym_preuvelicheniem",
+  "video:2026-11-28:https://stopgame.ru/newsdata/73663/ubisoft_nazvala_slova_o_aaaa_statuse_skull_and_bones_reklamnym_preuvelicheniem",
+  "title:Ubisoft назвала слова о AAAA-статусе Skull and Bones рекламным преувеличением"
 ]

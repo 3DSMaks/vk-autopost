@@ -1,7 +1,4 @@
 [
-  "title:\"Мстители: Судный день\" обгоняет \"Дюну. Часть три\" в десять раз",
-  "skip:https://www.playground.ru/misc/news/robert_pattinson_poluchil_rol_agenta_007_sleduyuschij_dzhejms_bond_ot_deni_vilnyova_vyjdet_v_2028_godu-1891175#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "skip:https://www.igromania.ru/news/169975/novyim-dzhejmsom-bondom-v-kino-stal-zvezda-betmena-robert-pattinson/",
   "skip:https://www.igromania.ru/news/169964/razrabotchiki-mega-man-dual-override-pokazali-dizajn-bossa-sozdannyij-fanatom/",
   "https://www.playground.ru/final_fantasy_7_part_3/news/rejting_final_fantasy_7_revelation_v_singapure_raskryvaet_nalichie_podvodnyh_srazhenij_i_rezhima_nastrojki_personazhej-1891181#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Рейтинг Final Fantasy 7 Revelation в Сингапуре раскрывает наличие подводных сражений и режима настройки персонажей",
@@ -998,5 +995,8 @@
   "https://www.playground.ru/skate_2025/news/ea_menyaet_kurs_razvitiya_skate_igra_izbavitsya_ot_sezonnyh_propuskov_i_platnyh_lokatsij-1894512#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:EA меняет курс развития Skate: игра избавится от сезонных пропусков и платных локаций",
   "https://www.playground.ru/final_fantasy_7_part_3/news/azhiotazh_vokrug_final_fantasy_7_revelation_i_kingdom_hearts_4_podstegnul_prodazhi_staryh_igr_square_enix-1894524#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Ажиотаж вокруг Final Fantasy 7 Revelation и Kingdom Hearts 4 подстегнул продажи старых игр Square Enix"
+  "title:Ажиотаж вокруг Final Fantasy 7 Revelation и Kingdom Hearts 4 подстегнул продажи старых игр Square Enix",
+  "skip:https://www.pcgamer.com/games/sports/skate-is-dropping-seasons-and-season-passes-in-favor-of-regular-agile-content-updates/",
+  "https://www.igromania.ru/news/170281/no-rest-for-the-wicked-gotovyat-k-otkryitomu-beta-testu-sistemyi-klassov-s-17-dekabrya-po-4-yanvarya/",
+  "title:No Rest for the Wicked готовят к открытому бета-тесту системы классов с 17 декабря по 4 января"
 ]

@@ -1,7 +1,4 @@
 [
-  "skip:https://www.kinonews.ru/news_144174/",
-  "skip:https://www.film.ru/news/kogda-vyydet-rasshirennaya-versiya-pauka",
-  "skip:https://www.film.ru/news/novyy-treyler-ostansya-m-nayta-shyamalana",
   "skip:https://kg-portal.ru/comments/135818-ostansja-trejler/",
   "skip:https://kg-portal.ru/comments/135803-kris-pratt-vsjacheski-odobrjaet-ideju-vozvraschenija-dzhejmsa-ganna-k-rezhissure-strazhej-galaktiki-4/",
   "https://variety.com/2026/film/news/cliff-booth-first-reactions-brad-pitt-fincher-tarantino-1236948975/",
@@ -998,5 +995,8 @@
   "https://www.igromania.ru/news/170286/v-lords-of-the-fallen-2-ne-pridyotsya-chitat-opisaniya-predmetov-chtobyi-ponyat-osnovnoj-syuzhet/",
   "title:В Lords of the Fallen 2 не придётся читать описания предметов, чтобы понять основной сюжет",
   "https://www.playground.ru/doom_2016/news/igrat_v_call_of_duty_s_demonami_eto_veselo_eks_programmist_id_software_vspomnil_otmenyonnuyu_doom_4-1894587#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:\"Играть в Call of Duty с демонами - это весело\": экс-программист id Software вспомнил отменённую Doom 4"
+  "title:\"Играть в Call of Duty с демонами - это весело\": экс-программист id Software вспомнил отменённую Doom 4",
+  "skip:https://www.kinonews.ru/news_144368/",
+  "https://kg-portal.ru/comments/136007-uill-smit-uzhe-rassylaet-kljuchevym-uchastnikam-henkoka-otlichnyj-i-smeshnoj-scenarij-sikvela/",
+  "title:Уилл Смит уже рассылает ключевым участникам \"Хэнкока\" отличный и смешной сценарий сиквела"
 ]

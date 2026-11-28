@@ -1,14 +1,4 @@
 [
-  "skip:https://ria.ru/20261124/putin-2133694242.html",
-  "skip:https://ria.ru/20261124/putin-2133694150.html",
-  "skip:https://tass.ru/ekonomika/28350655",
-  "skip:https://tass.ru/politika/28350653",
-  "skip:https://ria.ru/20261124/putin-2133694054.html",
-  "skip:https://ria.ru/20261124/putin-2133693965.html",
-  "skip:https://ria.ru/20261124/putin-2133693869.html",
-  "skip:https://ria.ru/20261124/putin-2133693732.html",
-  "skip:https://ria.ru/20261124/putin-2133693357.html",
-  "skip:https://ria.ru/20261124/putin-2133693085.html",
   "https://www.rbc.ru/politics/24/11/2026/6b05b828e8652ddeb187966f",
   "title:Владимир Путин провел заседание комиссии по вопросам ТЭК и заявил о неизбежном ответе на удары по энергетике",
   "skip:https://tass.ru/mezhdunarodnaya-panorama/28350913",
@@ -998,5 +988,15 @@
   "skip:https://news.google.com/rss/articles/CBMiigFBVV95cUxNSEJHN0tUWVBOd3BrNkpaTm1EaHlTeXp1aDZBZnJ1aUdEbkNVUUJJTXdJbFNXVHhLUWJwNUpRV3lUdEZTUl9Kbi1LWkhlWjBmRUdVRlNQQTVOb3JhWW5sb0pVUklXNXlndFJ2VXRNZnF1WENxMXJjTGN3RHJ4d0FreGRZdzN0ZWQ4WVE?oc=5",
   "skip:https://news.google.com/rss/articles/CBMilwFBVV95cUxPd0hYazFSNFdJenpCQmdWUUh0cUZOTHhJWm5hYnB4ampiMXJRamNxVGtST2NuTV9rS2hjUHFUWElIUjhtX3VlZFlWTkpBOWh5SmJkNGdJd1VFVFFWSmR4LURfQUx0ZDVmWnk3MEpuc3hMN0QwaXFwYnZMc3kteEJpWUduWWNITVkwNTJGaGVRSWdHNVNyNjhn?oc=5",
   "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
-  "title:На Тайване проходят местные выборы глав городов и лидеров"
+  "title:На Тайване проходят местные выборы глав городов и лидеров",
+  "skip:https://tass.ru/armiya-i-opk/28364195",
+  "https://www.interfax.ru/world/1131976",
+  "title:Россия и Мьянма начали совместные военно-морские учения «Марумекс-2026»",
+  "skip:https://tass.ru/ekonomika/28364253",
+  "skip:https://www.interfax.ru/russia/1131974",
+  "skip:https://tass.ru/ekonomika/28364189",
+  "skip:https://ria.ru/20261128/ogranicheniya-2134560868.html",
+  "skip:https://tass.ru/ekonomika/28364191",
+  "https://ria.ru/20261128/ogranicheniya-2134562230.html",
+  "title:В ряде российских аэропортов ввели временные ограничения на полеты"
 ]

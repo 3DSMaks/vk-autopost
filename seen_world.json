@@ -1,15 +1,4 @@
 [
-  "title:Губернатор Мурманской области Андрей Чибис заключен под стражу",
-  "skip:https://news.google.com/rss/articles/CBMifkFVX3lxTFBNcXpXLTF1eTY1YldYRm56UHVTNmllcGNCREQxZUVHTUxIdzJEUXYzc0Q3emhNWVh1NzdScFgtQV9WelJEX1RoVUVIY2VHN1MxMnByOHZ3VWF5VEJmRXFndjhqQWVOREl0OEdYSm53UVU4aDY3XzYyZnpocmpzZw?oc=5",
-  "https://www.france24.com/en/americas/20261125-cyberattack-exposes-unclassified-information-from-cia-system-us-media-reports",
-  "title:Спецслужбы США сообщили об утечке данных из систем ЦРУ",
-  "skip:https://tass.ru/politika/28353815",
-  "skip:https://tass.ru/politika/28351963",
-  "skip:https://ria.ru/20261125/bruney-2133842898.html",
-  "https://ria.ru/20261125/putin-2133847486.html",
-  "title:Владимир Путин провел переговоры с султаном Брунея в Кремле",
-  "skip:https://tass.ru/politika/28353951",
-  "skip:https://tass.ru/politika/28353911",
   "skip:https://ria.ru/20261125/rossija-2133854955.html",
   "skip:https://www.interfax.ru/russia/1131308",
   "skip:https://tass.ru/politika/28353893",
@@ -998,5 +987,16 @@
   "title:Четыре человека погибли при ударе беспилотника по Макеевке",
   "skip:https://www.theguardian.com/world/2026/nov/28/medecins-sans-frontieres-staff-killed-gaza-israeli-strike",
   "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSlN6bWNCajEzSzJDU0o3Qk5qQnJiS3Zxb2VaUnFjM05vM0hkZ2E3NnJNeXlVdEVVMkNwdGRXcmRaTGF3bHI4emRsaVhaTHVtV3dmNDJlWUFGY1YzTTFxNlNkaFViN1FYdlo3WVM4SUJlaTZkc1AyVE9MdmZkMDdYeE1wR3RzRXFzeTVvY0lrczh4N1ZGXzM4NWR2MmF6NkRYeDBWNEtMOEswT3BxU2dxYllRcmM?oc=5",
-  "title:При израильском ударе по клинике в Газе погибли сотрудники «Врачей без границ»"
+  "title:При израильском ударе по клинике в Газе погибли сотрудники «Врачей без границ»",
+  "skip:https://www.kommersant.ru/doc/9145075",
+  "skip:https://ria.ru/20261128/sud-2134617529.html",
+  "skip:https://tass.ru/proisshestviya/28365111",
+  "https://www.rbc.ru/rbcfreenews/6b0ad6927a9d86199a337b8c",
+  "title:В Вологде арестовали мать умершей от истощения девочки",
+  "skip:https://tass.ru/proisshestviya/28364989",
+  "skip:https://tass.ru/proisshestviya/28364985",
+  "skip:https://tass.ru/proisshestviya/28364965",
+  "skip:https://ria.ru/20261128/kiev-2134610828.html",
+  "https://tass.ru/proisshestviya/28365125",
+  "title:В Киеве произошла серия взрывов на фоне воздушной тревоги"
 ]

@@ -1,6 +1,4 @@
 [
-  "skip:https://kg-portal.ru/comments/135820-postery-filma-chelovekpauk-novyj-den/",
-  "skip:https://www.kinonews.ru/news_144184/",
   "skip:https://www.kinonews.ru/news_144174/",
   "skip:https://www.film.ru/news/kogda-vyydet-rasshirennaya-versiya-pauka",
   "skip:https://www.film.ru/news/novyy-treyler-ostansya-m-nayta-shyamalana",
@@ -998,5 +996,7 @@
   "title:Голодные игры лидируют в России",
   "skip:https://www.pcgamer.com/games/fps/the-cancelled-doom-4-was-actually-a-fun-game-according-to-a-former-id-software-developer-but-it-had-one-big-problem/",
   "https://www.igromania.ru/news/170286/v-lords-of-the-fallen-2-ne-pridyotsya-chitat-opisaniya-predmetov-chtobyi-ponyat-osnovnoj-syuzhet/",
-  "title:В Lords of the Fallen 2 не придётся читать описания предметов, чтобы понять основной сюжет"
+  "title:В Lords of the Fallen 2 не придётся читать описания предметов, чтобы понять основной сюжет",
+  "https://www.playground.ru/doom_2016/news/igrat_v_call_of_duty_s_demonami_eto_veselo_eks_programmist_id_software_vspomnil_otmenyonnuyu_doom_4-1894587#utm_source=rss&utm_medium=referral&utm_campaign=news",
+  "title:\"Играть в Call of Duty с демонами - это весело\": экс-программист id Software вспомнил отменённую Doom 4"
 ]

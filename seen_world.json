@@ -1,8 +1,4 @@
 [
-  "skip:https://www.rbc.ru/rbcfreenews/6b05b5951e32b7020a20797b",
-  "skip:https://www.rbc.ru/politics/24/11/2026/6b05b485e0e4ea847b2b9eb8",
-  "skip:https://ria.ru/20261124/putin-2133696746.html",
-  "skip:https://www.kommersant.ru/doc/9129617",
   "skip:https://www.rbc.ru/rbcfreenews/6b05b44ff0a12a128c66b434",
   "skip:https://www.rbc.ru/politics/24/11/2026/6b05b3733c89c5a405094308",
   "skip:https://www.interfax.ru/russia/1131099",
@@ -998,5 +994,9 @@
   "title:Вооруженные силы США перехватили и вывели из строя коммерческое судно в Оманском заливе",
   "skip:https://ria.ru/20261128/reyting-2134556212.html",
   "https://www.rbc.ru/economics/28/11/2026/6b0a220b92caba2d13611cd6",
-  "title:Агентство S&P ухудшило прогноз по кредитному рейтингу Франции до негативного"
+  "title:Агентство S&P ухудшило прогноз по кредитному рейтингу Франции до негативного",
+  "skip:https://www.rbc.ru/rbcfreenews/6b0a1081c17330ad4b61497d",
+  "skip:https://ria.ru/20261128/opasnost-2134557361.html",
+  "https://www.interfax.ru/world/1131971",
+  "title:Ракетную опасность объявили в трех регионах России, два нефтяных танкера подорвались на минах в Ормузском проливе"
 ]

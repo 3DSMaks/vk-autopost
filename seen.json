@@ -1,9 +1,4 @@
 [
-  "posted:2026-11-12T08:01:58+00:00",
-  "skip:https://kg-portal.ru/comments/135749-rezhisser-konstantina-s-kianu-rivzom-schitaet-chto-uvolnenie-dzhejmsa-ganna-pomozhet-snjat-sikvel/",
-  "skip:https://www.kinonews.ru/news_144109/",
-  "skip:https://www.kinonews.ru/news_144108/",
-  "skip:https://variety.com/2026/film/news/lionsgate-alma-harel-wet-connor-storrie-1236945829/",
   "skip:https://variety.com/2026/film/news/keanu-reeves-constantine-2-james-gunns-dc-exit-1236945816/",
   "https://www.kinonews.ru/news_144110/",
   "title:Генри Кавилл раскрыл новые подробности сериала \"Warhammer 40,000\"",
@@ -998,5 +993,10 @@
   "title:Мэтт Дэймон озвучил рекламный ролик Ford Racing Зака Снайдера",
   "posted:2026-11-28T00:37:57+00:00",
   "https://www.film.ru/news/deni-vilnev-pro-tradicii-bonda",
-  "title:Дени Вильнев про традиции Бонда"
+  "title:Дени Вильнев про традиции Бонда",
+  "posted:2026-11-28T02:01:25+00:00",
+  "skip:https://www.film.ru/news/potencialnyy-sikvel-henkoka",
+  "skip:https://www.kinonews.ru/news_144368/",
+  "https://www.film.ru/news/golodnye-igry-lidiruyut-v-rossii",
+  "title:Голодные игры лидируют в России"
 ]

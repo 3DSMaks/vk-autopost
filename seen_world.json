@@ -1,7 +1,4 @@
 [
-  "skip:https://www.interfax.ru/business/1131328",
-  "https://ria.ru/20261125/putin-2133877001.html",
-  "skip:https://www.rbc.ru/photoslider/6b06db1d76b301eadc49bbec",
   "skip:https://www.interfax.ru/russia/1131334",
   "https://tass.ru/mezhdunarodnaya-panorama/28354317",
   "title:Президент Казахстана Касым-Жомарт Токаев прибыл с рабочим визитом в Москву",
@@ -998,5 +995,8 @@
   "skip:https://tass.ru/sport/28365185",
   "skip:https://www.rbc.ru/sport/28/11/2026/6b0ae398857a4b4af5b20f15",
   "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM2dBZWhNa3FkR0xpZWpOV1BnUGpjT1lzWm9uTlJ1eE42OXJhVHVTLTVMZlRYNkpTcGd6ZHZfUjRFMzVTdGRMNFFjcENzZW1qUXBsOEVDSHEzOGNTZWFldTRERzVpYWZrTTI2WF8wcGMzMUJQQjdRMXVkeDVLWnhDcllKcGZ5elhqUlE5TWhOeHAyY2JNQlNkRGlIN015ZjY0Tm1sbE1R?oc=5",
-  "title:Сборная Испании по теннису обыграла Великобританию и вышла в финал Кубка Дэвиса"
+  "title:Сборная Испании по теннису обыграла Великобританию и вышла в финал Кубка Дэвиса",
+  "skip:https://news.google.com/rss/articles/CBMimwFBVV95cUxQcEhWdmg3Qk02QTJudW5iazY2X21peHNBNG5rTWw5NjJtR29pQVNPVDJ1NVBmOGFkc0hxRmRvVUNVQlFKWWZqLUx3TkFPM1dXczk0b2xWSm9WMmtpQXdBaTFHNklRQVlNa1NacmRJWGF3dmxGTlhpUmdsT3RDdTFVaWJrWGtmdS1pTTZmQ0c1UUJQRkR0RWVVcTVmaw?oc=5",
+  "https://www.rbc.ru/society/28/11/2026/6b0af12a1f36f358c114bc3c",
+  "title:В столице Албании прошли столкновения участников протестов с полицией"
 ]

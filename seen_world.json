@@ -1,13 +1,4 @@
 [
-  "https://www.kommersant.ru/doc/9129765",
-  "title:Венгрия заявила об отказе участвовать в кредите ЕС для Украины на 45 млрд евро",
-  "skip:https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmhBaGpBTEdjQXR4UmRuMy1KVWY0anJiNkxHQ2NVTjBFbWc4RE5MRk5KU1lzZ1BKMVNKVUNRV3hlRmxtYWc0cmlpSlAxWkJDXzBhdjFqY0RfbE54clBNU1hDODJjbEk2ZENVMWtuM3F6VVZjWGpDZXNhZGowZW1UNUlLWGJSU0tYbXhlYU8xRkYweTJrd1JsM0pDdzd3UkM1ZkpTSXdHYTkxQjNzNlhfU2pTcXExSlFJ?oc=5",
-  "title:Компания Huawei признана виновной в США по делу о краже коммерческой тайны и бизнесе в Иране",
-  "skip:https://tass.ru/mezhdunarodnaya-panorama/28351229",
-  "skip:https://news.google.com/rss/articles/CBMitgFBVV95cUxPMEY3TVFidy1CMzFaVE9HN09yYWVNX25JZ0hKNkhmVmJYMFhNdDQyd2k5TzFHWkhhUjFrbzBiSkIxWkZZREdEZ2Z2b2QwVFhDVEtEYzNuc19LWGd4SkdaMjRuZFVWVjJjMXR0MGwyNWRvOFZCVjdPYUVCaUJzbEpkVmtNWjJQalR2UlVfVVdEUElpZTR1Z0FnVW51alF3SkppOXdWNThkUU84bEgxalNDeTRkaVR5QQ?oc=5",
-  "https://ria.ru/20261124/utechka-2133731949.html",
-  "title:Спецслужбы США сообщили об утечке данных из систем ЦРУ и Нацразведки",
   "skip:https://tass.ru/politika/28351253",
   "skip:https://ria.ru/20261125/putin-2133732775.html",
   "https://www.interfax.ru/world/1131145",
@@ -998,5 +989,14 @@
   "skip:https://tass.ru/proisshestviya/28364757",
   "skip:https://ria.ru/20261128/zaporozhe-2134592037.html",
   "https://www.kommersant.ru/doc/9145003",
-  "title:Два человека погибли в Запорожской области в результате удара дрона по служебному автомобилю больницы"
+  "title:Два человека погибли в Запорожской области в результате удара дрона по служебному автомобилю больницы",
+  "skip:https://www.kommersant.ru/doc/9144997",
+  "skip:https://www.interfax.ru/russia/1132011",
+  "skip:https://tass.ru/armiya-i-opk/28364731",
+  "skip:https://ria.ru/20261128/bpla-2134590472.html",
+  "https://www.rbc.ru/rbcfreenews/6b0a9af67a9d86199a337b23",
+  "title:Минобороны РФ заявило об уничтожении более 1,6 тыс. беспилотников за сутки",
+  "skip:https://www.kommersant.ru/doc/9145004",
+  "https://tass.ru/ekonomika/28364781",
+  "title:В США зафиксировали крупнейшее за два года банкротство банка United Fidelity"
 ]

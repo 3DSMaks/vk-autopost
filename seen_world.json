@@ -1,14 +1,4 @@
 [
-  "skip:https://ria.ru/20261124/lukashenko-2133707730.html",
-  "https://www.rbc.ru/politics/24/11/2026/6b05c58a8cc5a656c074432f",
-  "title:Президент Белоруссии Александр Лукашенко заявил, что Россия побеждает в конфликте на Украине военным путем",
-  "skip:https://tass.ru/armiya-i-opk/28350925",
-  "https://ria.ru/20261124/pvo-2133709777.html",
-  "title:Силы ПВО за день уничтожили 32 украинских беспилотника над регионами России",
-  "skip:https://tass.ru/sport/28351029",
-  "skip:https://www.rbc.ru/sport/24/11/2026/6b05bcede0e4ea847b2b9ef5",
-  "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
-  "title:Гукеш Доммараджу и Жавохир Синдаров сыграли вничью в первой партии матча за шахматную корону",
   "skip:https://www.france24.com/en/americas/20261124-hostages-supermarket-colombia-cartagena-flights",
   "skip:https://news.google.com/rss/articles/CBMixAFBVV95cUxNUklaemoxV1Blc3lnelpxZHVwbmdXYUZBVHg2M1dBUzhwcU1PNVp2STNsbWlQMU5POEpHNmFabWtzNjMyTGRwR3dVRURmbDJITXdKZHJsbGdQVkQwZ1d1dmM3cVc3RGZsUGxGbDVmeDVRQVJMZ0c2b3ZNcTdyQ08ycHlSMlNnT3dYMUJzWXZ1VXh0LWJBdkFpeDF5TjRyMk40Y0FHZDdaSWoxQjFIUGNEYlJQWEZKZl9BQ04tTnl1WXl1cElH?oc=5",
   "https://tass.ru/proisshestviya/28351017",
@@ -998,5 +988,15 @@
   "title:В ряде российских аэропортов ввели временные ограничения на полеты",
   "skip:https://www.interfax.ru/world/1131975",
   "https://tass.ru/mezhdunarodnaya-panorama/28364281",
-  "title:США передислоцируют силы с объектов в Бахрейне на базы в Израиль и Иорданию"
+  "title:США передислоцируют силы с объектов в Бахрейне на базы в Израиль и Иорданию",
+  "skip:https://www.kommersant.ru/doc/9144918",
+  "skip:https://ria.ru/20261128/bpla-2134565499.html",
+  "skip:https://tass.ru/proisshestviya/28364333",
+  "skip:https://www.interfax.ru/russia/1131978",
+  "skip:https://www.kommersant.ru/doc/9144908",
+  "https://www.rbc.ru/politics/28/11/2026/6b0a542de74ba73e6c341d94",
+  "title:Силы ПВО перехватили сотни беспилотников на подлете к Московскому региону",
+  "skip:https://tass.ru/proisshestviya/28364335",
+  "https://www.kommersant.ru/doc/9144920",
+  "title:В Австрии повторно арестовали сотрудников украинской военной разведки"
 ]

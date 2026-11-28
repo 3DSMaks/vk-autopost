@@ -1,7 +1,4 @@
 [
-  "skip:https://ria.ru/20261125/tovarooborot-2133849707.html",
-  "skip:https://ria.ru/20261125/putin-2133849548.html",
-  "skip:https://ria.ru/20261125/putin-2133845337.html",
   "https://tass.ru/politika/28353965",
   "skip:https://www.rbc.ru/politics/25/11/2026/6b06c39476b4eed1329dac9a",
   "https://www.interfax.ru/world/1131305",
@@ -998,5 +995,8 @@
   "title:Международный трибунал отклонил требование Аргентины о запрете добычи нефти на Фолклендских островах",
   "skip:https://ria.ru/20261128/iran-2134620419.html",
   "https://www.interfax.ru/world/1132029",
-  "title:Советник верховного лидера Ирана призвал власти Ирака не действовать в интересах США"
+  "title:Советник верховного лидера Ирана призвал власти Ирака не действовать в интересах США",
+  "skip:https://tass.ru/proisshestviya/28365127",
+  "https://ria.ru/20261128/zemletrjasenie-2134620988.html",
+  "title:У берегов Камчатки произошло землетрясение магнитудой 6,2"
 ]

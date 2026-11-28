@@ -1,7 +1,4 @@
 [
-  "skip:https://www.igromania.ru/news/169962/skrudzh-s-vernuvshimsya-posle-otmenyi-dzhonni-deppom-sobral-42-mln-za-pervyij-uikend-prokata/",
-  "https://www.playground.ru/monster_hunter_wilds/news/capcom_potratila_god_na_ispravlenie_monster_hunter_wilds_no_bez_re_engine_eto_zanyalo_by_gorazdo_bolshe_vremeni-1891122#utm_source=rss&utm_medium=referral&utm_campaign=news",
-  "title:Capcom потратила год на исправление Monster Hunter Wilds, но без RE Engine это заняло бы гораздо больше времени",
   "https://www.playground.ru/fable_2026/news/avtory_novoj_fable_raskryli_kartu_i_masshtab_pererozhdennogo_bauerstouna-1891130#utm_source=rss&utm_medium=referral&utm_campaign=news",
   "title:Авторы новой Fable раскрыли карту и масштаб перерожденного Бауэрстоуна",
   "skip:https://variety.com/2026/film/global/gerard-depardieu-drops-appeal-in-sexual-assault-case-1236948679/",
@@ -998,5 +995,8 @@
   "title:Режиссер \"Обсессии\" придумал продолжение хоррора",
   "skip:https://www.ign.com/articles/yooka-laylee-and-the-impossible-lair-no-xbox-release",
   "https://www.igromania.ru/news/170286/v-lords-of-the-fallen-2-ne-pridyotsya-chitat-opisaniya-predmetov-chtobyi-ponyat-osnovnoj-syuzhet/",
-  "title:В Lords of the Fallen 2 не придётся читать описания предметов, чтобы понять основной сюжет"
+  "title:В Lords of the Fallen 2 не придётся читать описания предметов, чтобы понять основной сюжет",
+  "skip:https://www.kinonews.ru/news_144357/",
+  "https://variety.com/2026/film/reviews/the-hunchback-soul-of-paris-review-1236959927/",
+  "title:‘The Hunchback, Soul of Paris’ Review: Quasimodo Gets an Origin Story, for Some Reason"
 ]

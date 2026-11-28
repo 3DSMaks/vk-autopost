@@ -1,12 +1,4 @@
 [
-  "skip:https://www.interfax.ru/world/1131369",
-  "skip:https://ria.ru/20261125/odessa-2133902703.html",
-  "skip:https://ria.ru/20261125/voennye-2133902526.html",
-  "skip:https://ria.ru/20261125/terminal-2133901700.html",
-  "skip:https://tass.ru/armiya-i-opk/28354789",
-  "https://www.rbc.ru/rbcfreenews/6b06f5288f000e3be67e245b",
-  "title:Российские военные поразили энергообъекты и логистические центры на Украине",
-  "skip:https://www.rbc.ru/society/25/11/2026/6b06ec557d9b695c68eade27",
   "skip:https://ria.ru/20261125/gosduma-2133893787.html",
   "skip:https://www.interfax.ru/russia/1131358",
   "https://www.kommersant.ru/doc/9130573",
@@ -998,5 +990,13 @@
   "skip:https://www.interfax.ru/russia/1132037",
   "skip:https://tass.ru/proisshestviya/28365317",
   "https://ria.ru/20261128/vsu-2134645092.html",
-  "title:Три человека погибли в результате удара по Луганску"
+  "title:Три человека погибли в результате удара по Луганску",
+  "skip:https://ria.ru/20261128/pvo-2134648278.html",
+  "skip:https://www.interfax.ru/russia/1132040",
+  "skip:https://tass.ru/armiya-i-opk/28365349",
+  "https://www.kommersant.ru/doc/9145124",
+  "title:Минобороны РФ сообщило о перехвате 83 беспилотников за день",
+  "skip:https://www.france24.com/en/middle-east/20261128-netanyahu-says-he-is-willing-to-let-eisenkot-be-israel-s-first-pm-under-rotation-proposal",
+  "https://tass.ru/mezhdunarodnaya-panorama/28365333",
+  "title:Премьер-министр Израиля Нетаньяху предложил оппозиционеру Айзенкоту занять пост премьера первым"
 ]

@@ -1,13 +1,4 @@
 [
-  "skip:https://www.rbc.ru/economics/24/11/2026/6b05cfbe249338e79832beda",
-  "skip:https://www.rbc.ru/politics/24/11/2026/6b05c8d341768e6b94177cbe",
-  "https://www.kommersant.ru/doc/9129726",
-  "title:Александр Лукашенко предложил стать гарантом безопасности при визите Владимира Зеленского в Москву",
-  "skip:https://www.interfax.ru/russia/1131118",
-  "https://ria.ru/20261124/mid-2133717491.html",
-  "title:МИД России приветствовал выход Таджикистана из Римского статута МУС",
-  "skip:https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
-  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSXZBS09QMlM1QmpzUzEwRGJQcEFnVFhndmh4VmlTeG9fcm15UzNpTE9Ua2FCQTE1WDBtd21EWlVIWUhYWS1IRlllMDlHUmstcjhteUQ5TlBhNkVjZGN4S0FWVHVKN2l0eXNyLWR2TncwSFlMVnBvVW1XT3N0TWpIUklJd1ZuLXFaSFk2T1BlUERIY0xtNk43MDU4N29aOHBVdWUwcnU4bjk0TVFFTXpSSFVrcU9URUNIRDRPUFR6Y244ck53OEh4d1daWjRRMkhfcWc?oc=5",
   "title:Вооруженные преступники захватили заложников в супермаркете в Картахене",
   "skip:https://tass.ru/proisshestviya/28351097",
   "skip:https://ria.ru/20261124/turtsiya-2133719387.html",
@@ -998,5 +989,14 @@
   "skip:https://www.rbc.ru/politics/29/07/2026/6a6988759a7947c50b702977",
   "skip:https://ria.ru/20261128/bpla-2134566551.html",
   "https://www.interfax.ru/russia/1131982",
-  "title:Силы ПВО перехватили более 50 беспилотников над Ростовской областью и сотни дронов на подлете к Москве"
+  "title:Силы ПВО перехватили более 50 беспилотников над Ростовской областью и сотни дронов на подлете к Москве",
+  "skip:https://www.interfax.ru/russia/1131998",
+  "skip:https://tass.ru/proisshestviya/28364511",
+  "skip:https://ria.ru/20261128/dron-2134576127.html",
+  "https://www.kommersant.ru/doc/9144952",
+  "title:Девять человек пострадали при атаке дрона на служебный автобус «Мираторга» в Брянской области",
+  "skip:https://www.rbc.ru/politics/28/11/2026/6b0a715e56f5d9afadedddb4",
+  "skip:https://ria.ru/20261128/bpla-2134574870.html",
+  "https://www.kommersant.ru/doc/9144967",
+  "title:США отразили атаку беспилотников на авиабазу Лейкенхит в Великобритании"
 ]
